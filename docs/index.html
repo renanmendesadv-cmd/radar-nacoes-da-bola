@@ -1,0 +1,318 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Radar Nações da Bola</title>
+</head>
+<body>
+<!--PAINEL-INICIO-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Barlow:wght@400;500;600&display=swap">
+<style>
+:root{
+  --bg:#F1F4F1; --card:#FFFFFF; --ink:#15201A; --muted:#56635B; --line:#D9E0DA;
+  --accent:#0B6E4F; --accent-ink:#FFFFFF; --accent-soft:#E1F0E9;
+  --hot:#C2410C; --warn:#9A6200; --warn-soft:#FBF1DC; --chip:#EAEFEB;
+  --bar:#0B6E4F; --bar-bg:#E3E9E4;
+  --display:"Barlow Condensed","Arial Narrow",Arial,sans-serif;
+  --body:"Barlow","Segoe UI",Roboto,Arial,sans-serif;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#0E1411; --card:#161F1A; --ink:#E6EEE8; --muted:#9AA9A0; --line:#27332C;
+    --accent:#3CBF8A; --accent-ink:#06140E; --accent-soft:#16352A;
+    --hot:#FB8B4E; --warn:#E7B55A; --warn-soft:#2E2512; --chip:#1F2A24;
+    --bar:#3CBF8A; --bar-bg:#24302A; color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0E1411; --card:#161F1A; --ink:#E6EEE8; --muted:#9AA9A0; --line:#27332C;
+  --accent:#3CBF8A; --accent-ink:#06140E; --accent-soft:#16352A;
+  --hot:#FB8B4E; --warn:#E7B55A; --warn-soft:#2E2512; --chip:#1F2A24;
+  --bar:#3CBF8A; --bar-bg:#24302A; color-scheme:dark;
+}
+*{box-sizing:border-box}
+html,body{background:var(--bg)}
+body{margin:0;color:var(--ink);font:16px/1.5 var(--body);padding-inline:16px;padding-block:20px 48px}
+.wrap{max-width:1120px;margin:0 auto;display:flex;flex-direction:column;gap:20px}
+a{color:var(--accent)}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px;border-radius:4px}
+
+header.top{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px 24px;border-bottom:3px solid var(--ink);padding-bottom:14px}
+.eyebrow{font:700 13px/1 var(--display);letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+h1{font:800 clamp(34px,6vw,54px)/.95 var(--display);text-transform:uppercase;margin:6px 0 0;letter-spacing:.01em;text-wrap:balance}
+.meta{display:flex;flex-direction:column;gap:4px;align-items:flex-end;font-size:14px;color:var(--muted);text-align:right}
+.meta strong{color:var(--ink);font:700 18px var(--display);letter-spacing:.04em}
+.fontes{display:flex;flex-wrap:wrap;gap:6px;justify-content:flex-end}
+.fonte{font-size:12px;padding:2px 8px;border-radius:99px;background:var(--chip)}
+.fonte.off{background:var(--warn-soft);color:var(--warn)}
+
+.demo{background:var(--warn-soft);color:var(--warn);border:1px solid color-mix(in srgb,var(--warn) 40%,transparent);border-radius:8px;padding:10px 14px;font-size:14px}
+
+.filtros{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.filtros .rot{font:700 13px var(--display);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-right:4px}
+.pill{font:600 14px var(--body);border:1px solid var(--line);background:var(--card);color:var(--ink);padding:6px 12px;border-radius:99px;cursor:pointer}
+.pill[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+select{font:500 14px var(--body);padding:6px 10px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--ink)}
+
+.grid{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:24px;align-items:start}
+@media (max-width:880px){.grid{grid-template-columns:minmax(0,1fr)}}
+
+.lista{display:flex;flex-direction:column;gap:12px;margin:0;padding:0;list-style:none}
+.tema{background:var(--card);border:1px solid var(--line);border-radius:10px;display:grid;grid-template-columns:76px minmax(0,1fr);overflow:hidden}
+.placar{background:var(--ink);color:var(--bg);display:flex;flex-direction:column;align-items:center;justify-content:flex-start;padding:14px 4px;gap:2px}
+.placar .pos{font:700 13px var(--display);letter-spacing:.1em;opacity:.7}
+.placar .nota{font:800 40px/1 var(--display);font-variant-numeric:tabular-nums}
+.placar .de{font:600 11px var(--display);letter-spacing:.1em;opacity:.6}
+.tema.quente .placar{background:var(--accent);color:var(--accent-ink)}
+.corpo{padding:14px 16px;display:flex;flex-direction:column;gap:10px;min-width:0}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font:600 12px var(--body);padding:2px 8px;border-radius:4px;background:var(--chip);color:var(--muted)}
+.chip.cat{background:var(--accent-soft);color:var(--accent)}
+.chip.clube{color:var(--ink)}
+.chip.busca{color:var(--hot)}
+h2{font:700 21px/1.2 var(--display);margin:0;letter-spacing:.01em;text-wrap:balance}
+.pauta{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:6px 10px;align-items:start;font-size:15px}
+.pauta dt{font:700 12px/1.9 var(--display);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.pauta dd{margin:0}
+.thumb{font:800 17px var(--display);text-transform:uppercase;letter-spacing:.02em}
+.copiar{font:600 12px var(--body);border:1px solid var(--line);background:transparent;color:var(--muted);border-radius:6px;padding:2px 8px;cursor:pointer;white-space:nowrap}
+.sinais{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+@media (max-width:520px){.sinais{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.sinal{display:flex;flex-direction:column;gap:3px;font-size:12px;color:var(--muted)}
+.sinal b{color:var(--ink);font-variant-numeric:tabular-nums;font-weight:600}
+.trilho{height:5px;border-radius:3px;background:var(--bar-bg);overflow:hidden}
+.trilho i{display:block;height:100%;background:var(--bar)}
+@media (max-width:560px){
+  .tema{grid-template-columns:minmax(0,1fr)}
+  .placar{flex-direction:row;align-items:baseline;justify-content:flex-start;gap:10px;padding:8px 16px}
+  .placar .nota{font-size:30px}
+  .pauta{grid-template-columns:minmax(0,1fr) auto}
+  .pauta dt{grid-column:1/-1;line-height:1.2}
+}
+.coberto{font-size:14px;background:var(--warn-soft);color:var(--warn);border-radius:6px;padding:6px 10px}
+.coberto a{color:inherit}
+details{font-size:14px}
+summary{cursor:pointer;color:var(--muted);font-weight:600}
+details ul{margin:8px 0 0;padding-left:18px;display:flex;flex-direction:column;gap:4px}
+.fonte-m{color:var(--muted)}
+
+aside{display:flex;flex-direction:column;gap:16px}
+.box{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
+.box h3{font:700 16px var(--display);letter-spacing:.1em;text-transform:uppercase;margin:0 0 8px}
+.box ol,.box ul{margin:0;padding-left:18px;font-size:14px;display:flex;flex-direction:column;gap:4px}
+.box p{margin:0;font-size:14px;color:var(--muted)}
+.pesos{display:grid;grid-template-columns:1fr auto;gap:4px 12px;font-size:14px;margin-top:8px}
+.pesos span:nth-child(even){font-variant-numeric:tabular-nums;font-weight:600}
+.vazio{background:var(--card);border:1px dashed var(--line);border-radius:10px;padding:24px;text-align:center;color:var(--muted)}
+@media (prefers-reduced-motion:no-preference){.trilho i{transition:width .5s ease}}
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <div>
+      <div class="eyebrow">Pauta do dia · Nações da Bola</div>
+      <h1>Radar de Tendências</h1>
+    </div>
+    <div class="meta">
+      <span>Atualizado em <strong id="quando">—</strong></span>
+      <div class="fontes" id="fontes"></div>
+    </div>
+  </header>
+
+  <div class="demo" id="demo" hidden>Prévia com temas de demonstração, fictícios, para mostrar como o painel funciona. A partir da primeira execução diária, o radar preenche esta página com as notícias reais do dia.</div>
+
+  <div class="filtros" role="group" aria-label="Filtrar por clube">
+    <span class="rot">Clube</span>
+    <button class="pill" type="button" id="f-todos" data-clube="" aria-pressed="true">Todos</button>
+    <button class="pill" type="button" id="f-fla" data-clube="Flamengo" aria-pressed="false">Flamengo</button>
+    <button class="pill" type="button" id="f-cor" data-clube="Corinthians" aria-pressed="false">Corinthians</button>
+    <button class="pill" type="button" id="f-spfc" data-clube="São Paulo" aria-pressed="false">São Paulo</button>
+    <button class="pill" type="button" id="f-pal" data-clube="Palmeiras" aria-pressed="false">Palmeiras</button>
+    <button class="pill" type="button" id="f-outros" data-clube="__outros" aria-pressed="false">Outros</button>
+    <label class="rot" for="f-cat" style="margin-left:8px">Tipo</label>
+    <select id="f-cat"><option value="">Todos</option></select>
+  </div>
+
+  <div class="grid">
+    <ol class="lista" id="lista" aria-live="polite"></ol>
+    <aside>
+      <section class="box">
+        <h3>Em alta no Google</h3>
+        <p id="termos-vazio" hidden>Nenhum termo de futebol no topo das buscas agora.</p>
+        <ol id="termos"></ol>
+      </section>
+      <section class="box">
+        <h3>Últimos vídeos do canal</h3>
+        <p style="margin-bottom:8px">Temas parecidos com estes recebem um aviso para você buscar outro ângulo.</p>
+        <ul id="videos"></ul>
+      </section>
+      <section class="box">
+        <h3>Como sai a nota</h3>
+        <p>Nota de 0 a 100, soma de quatro sinais:</p>
+        <div class="pesos" id="pesos"></div>
+      </section>
+    </aside>
+  </div>
+</div>
+
+<script>
+(function(){
+  var NOMES = {busca:"Busca no Google", aceleracao:"Aceleração", midia:"Veículos falando", aderencia:"Aderência ao canal"};
+  var FOCO = ["Flamengo","Corinthians","São Paulo","Palmeiras"];
+  var estado = {clube:"", cat:""};
+  var dados = null;
+
+  function el(tag, attrs, filhos){
+    var e = document.createElement(tag);
+    if (attrs) for (var k in attrs){
+      if (k === "text") e.textContent = attrs[k];
+      else if (k === "cls") e.className = attrs[k];
+      else e.setAttribute(k, attrs[k]);
+    }
+    (filhos || []).forEach(function(f){ if (f) e.appendChild(f); });
+    return e;
+  }
+  function link(url, texto){
+    var seguro = /^https?:\/\//.test(url || "") ? url : "#";
+    return el("a", {href: seguro, target: "_blank", rel: "noopener", text: texto});
+  }
+  function copiar(botao, texto){
+    function ok(){ botao.textContent = "Copiado"; setTimeout(function(){ botao.textContent = "Copiar"; }, 1500); }
+    try {
+      navigator.clipboard.writeText(texto).then(ok, function(){ botao.textContent = "Selecione e copie"; });
+    } catch (e) { botao.textContent = "Selecione e copie"; }
+  }
+
+  function cartao(t, i){
+    var quente = t.nota >= 70;
+    var chips = el("div", {cls:"chips"}, [el("span", {cls:"chip cat", text:t.categoria})]
+      .concat((t.clubes.length ? t.clubes : ["Geral"]).map(function(c){ return el("span", {cls:"chip clube", text:c}); }))
+      .concat(t.trafego_google ? [el("span", {cls:"chip busca", text:(t.trafego_google).toLocaleString("pt-BR") + "+ buscas"})] : [])
+      .concat([el("span", {cls:"chip", text:t.n_fontes + (t.n_fontes === 1 ? " veículo" : " veículos")})]));
+
+    var s = t.sugestao;
+    var b1 = el("button", {cls:"copiar", type:"button", text:"Copiar"});
+    b1.addEventListener("click", function(){ copiar(b1, s.gancho); });
+    var b2 = el("button", {cls:"copiar", type:"button", text:"Copiar"});
+    b2.addEventListener("click", function(){ copiar(b2, s.titulo_thumb); });
+    var pauta = el("dl", {cls:"pauta"}, [
+      el("dt", {text:"Gancho"}), el("dd", {text:"“" + s.gancho + "”"}), b1,
+      el("dt", {text:"Thumb"}), el("dd", {cls:"thumb", text:s.titulo_thumb}), b2,
+      el("dt", {text:"Formato"}), el("dd", {text:s.formato}), el("span")
+    ]);
+
+    var sinais = el("div", {cls:"sinais"}, Object.keys(NOMES).map(function(k){
+      var v = t.sinais[k] || 0;
+      return el("div", {cls:"sinal"}, [
+        el("span", null, [document.createTextNode(NOMES[k] + " "), el("b", {text:String(v)})]),
+        el("div", {cls:"trilho", role:"img", "aria-label": NOMES[k] + ": " + v + " de 100"}, [el("i", {style:"width:" + v + "%"})])
+      ]);
+    }));
+
+    var coberto = null;
+    if (t.ja_coberto){
+      coberto = el("div", {cls:"coberto"}, [document.createTextNode("O canal já tem vídeo parecido: "),
+        link(t.ja_coberto.url, t.ja_coberto.titulo), document.createTextNode(". Procure um ângulo novo.")]);
+    }
+    var lista = el("ul", null, t.manchetes.map(function(m){
+      return el("li", null, [link(m.url, m.titulo), el("span", {cls:"fonte-m", text:" · " + m.fonte})]);
+    }));
+    var det = el("details", null, [el("summary", {text:"Ver manchetes (" + t.n_manchetes + ")"}), lista]);
+
+    return el("li", {cls:"tema" + (quente ? " quente" : "")}, [
+      el("div", {cls:"placar"}, [el("span", {cls:"pos", text:"#" + (i + 1)}), el("span", {cls:"nota", text:String(Math.round(t.nota))}), el("span", {cls:"de", text:"DE 100"})]),
+      el("div", {cls:"corpo"}, [chips, el("h2", {text:t.tema}), pauta, sinais, coberto, det])
+    ]);
+  }
+
+  function filtrar(){
+    return dados.temas.filter(function(t){
+      if (estado.cat && t.categoria !== estado.cat) return false;
+      if (!estado.clube) return true;
+      if (estado.clube === "__outros") return !t.clubes.some(function(c){ return FOCO.indexOf(c) >= 0; });
+      return t.clubes.indexOf(estado.clube) >= 0;
+    });
+  }
+
+  function desenharLista(){
+    var ol = document.getElementById("lista");
+    ol.replaceChildren();
+    var temas = filtrar();
+    if (!temas.length){
+      ol.appendChild(el("li", {cls:"vazio", text:"Nenhum tema com esse filtro hoje. Tente “Todos”."}));
+      return;
+    }
+    temas.forEach(function(t, i){ ol.appendChild(cartao(t, i)); });
+  }
+
+  function desenhar(d){
+    dados = d;
+    document.getElementById("quando").textContent = d.data_br || "—";
+    document.getElementById("demo").hidden = !d.demo;
+    var fontes = document.getElementById("fontes");
+    fontes.replaceChildren();
+    Object.keys(d.status || {}).forEach(function(k){
+      var n = d.status[k];
+      fontes.appendChild(el("span", {cls:"fonte" + (n ? "" : " off"), text: k + ": " + (n ? n : "sem resposta")}));
+    });
+    var cats = [];
+    d.temas.forEach(function(t){ if (cats.indexOf(t.categoria) < 0) cats.push(t.categoria); });
+    var sel = document.getElementById("f-cat");
+    cats.sort().forEach(function(c){ sel.appendChild(el("option", {value:c, text:c})); });
+
+    var termos = document.getElementById("termos");
+    (d.termos_futebol || []).slice(0, 10).forEach(function(t){
+      termos.appendChild(el("li", null, [link("https://trends.google.com/trends/explore?geo=BR&q=" + encodeURIComponent(t), t)]));
+    });
+    document.getElementById("termos-vazio").hidden = !!(d.termos_futebol || []).length;
+
+    var vids = document.getElementById("videos");
+    (d.videos_recentes || []).slice(0, 6).forEach(function(v){ vids.appendChild(el("li", null, [link(v.url, v.titulo)])); });
+    if (!(d.videos_recentes || []).length) vids.appendChild(el("li", {text:"Feed do canal indisponível nesta execução."}));
+
+    var pesos = document.getElementById("pesos");
+    Object.keys(NOMES).forEach(function(k){
+      pesos.appendChild(el("span", {text:NOMES[k]}));
+      pesos.appendChild(el("span", {text:Math.round((d.pesos || {})[k] * 100) + "%"}));
+    });
+    desenharLista();
+  }
+
+  document.querySelectorAll(".pill").forEach(function(b){
+    b.addEventListener("click", function(){
+      document.querySelectorAll(".pill").forEach(function(o){ o.setAttribute("aria-pressed", String(o === b)); });
+      estado.clube = b.getAttribute("data-clube");
+      try { localStorage.setItem("radar-clube", estado.clube); } catch (e) {}
+      if (dados) desenharLista();
+    });
+  });
+  document.getElementById("f-cat").addEventListener("change", function(e){ estado.cat = e.target.value; if (dados) desenharLista(); });
+
+  function iniciar(d){
+    try {
+      var salvo = localStorage.getItem("radar-clube");
+      if (salvo !== null){
+        var alvo = document.querySelector('.pill[data-clube="' + salvo.replace(/"/g, "") + '"]');
+        if (alvo){ estado.clube = salvo; document.querySelectorAll(".pill").forEach(function(o){ o.setAttribute("aria-pressed", String(o === alvo)); }); }
+      }
+    } catch (e) {}
+    desenhar(d);
+  }
+
+  if (window.RADAR_DATA){ iniciar(window.RADAR_DATA); }
+  else {
+    fetch("data.json", {cache:"no-store"}).then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(iniciar)
+      .catch(function(){
+        document.getElementById("lista").replaceChildren(el("li", {cls:"vazio", text:"O radar ainda não rodou. Na aba Actions do GitHub, abra “Radar diário” e clique em “Run workflow”. Em cerca de 2 minutos as pautas aparecem aqui."}));
+      });
+  }
+})();
+</script>
+<!--PAINEL-FIM-->
+</body>
+</html>
