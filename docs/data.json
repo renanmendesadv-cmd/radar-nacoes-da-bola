@@ -1,14 +1,15 @@
 {
- "gerado_em": "2026-09-25T02:45:39.712451+00:00",
- "data_br": "24/09/2026 23:45",
+ "gerado_em": "2026-09-25T03:16:44.031594+00:00",
+ "data_br": "25/09/2026 00:16",
  "status": {
   "Google Trends": 10,
-  "Google News": 990,
+  "Google News": 987,
   "Canal (RSS YouTube)": 0
  },
  "canal_id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
  "videos_recentes": [],
  "termos_futebol": [
+  "enquete a fazenda",
   "atlético nacional",
   "costa rica x curaçao"
  ],
@@ -20,56 +21,111 @@
  },
  "temas": [
   {
-   "tema": "Seleção Brasileira enfrenta Austrália em amistoso; saiba onde assistir",
-   "categoria": "Seleção",
+   "tema": "Polícia Federal faz averiguação no Parque São Jorge, sede do Corinthians",
+   "categoria": "Notícia do dia",
    "clubes": [
     "Corinthians"
    ],
    "foco": true,
-   "nota": 63.4,
+   "nota": 61.9,
    "sinais": {
     "busca": 0,
-    "aceleracao": 100,
-    "midia": 67,
+    "aceleracao": 90,
+    "midia": 75,
     "aderencia": 100
    },
    "trafego_google": 0,
    "termos_trends": [],
-   "n_fontes": 4,
+   "n_fontes": 5,
    "n_manchetes": 5,
-   "assinatura": "selec|amist|austr|assis",
+   "assinatura": "corin|sede|polic|feder",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Lista ou ranking (3 a 5 min)",
-    "gancho": "Se eu fosse o técnico da Seleção, a lista seria outra.",
-    "titulo_thumb": "A MINHA SELEÇÃO",
-    "pergunta_enquete": "Qual sua opinião: Seleção Brasileira enfrenta Austrália em amistoso; saiba onde assistir?"
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Todo mundo está falando disso. E você, concorda?",
+    "titulo_thumb": "CORINTHIANS: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Polícia Federal faz averiguação no Parque São Jorge, sede do Corinthians?"
    },
    "manchetes": [
     {
-     "titulo": "Ao vivo: Austrália x Brasil | Amistosos 2026 | Amistosos da Seleção Brasileira",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjRtb3g1TllZcFU5SHJDZmFfUllaYmlVSWhQQUZqVEpqWlNDY3ZlUnFvRlNrQ3Z5Ml85X2l5YkRHTHNSeWo1Rl8zbDN6Q3NuVmZkemtBbzlxZ29nN1Nrc2g2bE5hMk5CcXNzdmdSRks0bVQ0RkMwLXo3S042d0ZLU3Z6RTBfdnhoRnRfNThjcw?oc=5"
+     "titulo": "Polícia Federal faz vistoria na sede social do Corinthians",
+     "fonte": "iG Esportes",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSlpvVEIybWlqcF9TWWNRZllBMl9YNFc0SEppeTJlbEg3eFVBSTRMQzIwT2xwZTNyNGQzLTlhbjJoXzFCRFVTU0tSSnEwbHdRZWhsVzRCMUlXY01Xa3ZnWjNDbVNKZmNlR29MeHVoX0tJNFpiXzA3TjJJWjRUMUdibl9uRUowNklQeUtBRWtGbS1udnBEbTV6a2wyNlpxeGViNmVid1ZKS2M2dHZhd1BJUUR2MzVIQ2tOSElN0gHAAUFVX3lxTFBvTHVKbW1TUUh2WHotMXczR0VVTG9xUzR3Qmoxa3dpdF90TmpjNWJEdHRZQ2NoMjFUMktvblExNzkxNGpQVDE5ZGpsWFI3UVJjVUFCQWFQbkZjb091VXdadllfQVp3LUM5Nmo5eUZlanV6VUwtRjRjQWdoaUwxS3FoSFJiQ0liUjU5T3NPRVdpQlZ6MHNJU3NUN0RjZVFTZU1RYXRRWm16anBwUkRtWkNFSFRsWEpsSnlVazAtV012Xw?oc=5"
     },
     {
-     "titulo": "Corintiano do LivePorTi brinca sobre torcer contra jogadores do Corinthians na Seleção",
-     "fonte": "Bolavip Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUDhTSkhQVEJ4NVlLNllGdDNNNDd0cU8zM1U3NU9DV210UmxlaUN2aUF1X1dTQ1kyOVo0UjZ2bVBqeEwxUVFkNno1aFBPdjNoZ21WYW95bzQ3bjhSUlBvUmlpUG1yZFpVVkt3WjVTcTZQbkRtM1FwR1RFeHczQy11bkFid0ZxbTRBV09OUEtRZkJlWEE4VFA0WE1FMGFwd0VtOHlCT0JRUlI2RlpmSjJCQV83bFFzcXlCV285ckdkZ0xabUk3Q3RxbQ?oc=5"
+     "titulo": "Polícia Federal faz averiguação no Parque São Jorge, sede do Corinthians",
+     "fonte": "CNN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQW9TRU0xaHMwMWxkSjVHbl96NkxUeWJ3ZldVb3hOei1mNXhsZVZlbTRTaDBoVUl3clR0bjV5NFBOakc2Y3VBSGFJeVB3SmVlRmtCbElBcVR2MXZLWGxQclFweGxBUGtWS1JLa0xrajlPa3YySUVwd283MFlkWGN6VkZJNVFEWU9oWVRQY2hDVHF4YTVNVkJ4QUJJMUpQLVB2dXZOOVdEdG1Wc2xIYkdfNlZER2w1Z3d4aUZmSjhSa0s1ZGFNRGcxdTJ3?oc=5"
     },
     {
-     "titulo": "Saiba onde assistir aos jogadores do Corinthians em amistoso da Seleção contra a Austrália",
+     "titulo": "Pioneira do Corinthians celebra evolução do futebol feminino e relembra tempos no Parque São Jorge",
      "fonte": "meutimao.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMzFSd1JvRTFiM2ZqeFBZWXJJaWY3LXNfbjd2MDdtNEthbTZmQzZFNXJ0eTZDV3QzWmk4bDBqSG9uWlFQeXNGTF9Va00xeW1VV0g4WWx4UW1tbi0xdTRaSE1hV3NQZzh1bTdyTmZmTXNBQUh4SS16dk4zaGpNQlI1bmtGZlNxVjFiZGdIalJTV0paMUpHaDlmcnFkbl9TbEkycnNWUllnbm53RzNHSnZhSElnTFc5OUpaVVVkeFF0dzdLSkV6SVM1YkFMSExYOTFSVjYwOXh2U0VlVUh6TjVOZDBGVdIB0wFBVV95cUxNYzQ5TWJ4Mzd2VTdscm1nSnRuaDFWb0hoVXRPQmpLajBEMHFocm9YUjltUWJKc1BlNnUxQUJyNGZucUk3SGRIVWVWaE9lNFQ5S0ZHbDF6Wk5LV29fMmhOSFliWmE2b3U3ZmpLeEFiRU1HVUxJTjZMcnJZSmFqSDRacGUzYkVUd0IzaUZFb25GRjVtbGpYZFZ6YzdMYWIybDUwbUJrMF8xRlBJc18yMFlzMVhadDlUU1BUdG5TZjhfcmQ2T1gtRmk3LWhTX3lOeXQ3b1d3?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZUJmQWxROC13bEFlcWVnYzBXTHdsU1o3dWFvSkFXdThKTzlIQ19Ra2FOa0lBQnZ5bDBtbmdFbTNQRnFUb1ZoQ0xHTFR5MnJEbk9mNHR5RUlKX2hiV2t0cHdySEg2VTgxclI0aTZlOEZtWC1hdklYeTVFdndqN1o1LW0wNVI4YVV2UzRaa25aTTIxRUs3Nm9oeGFLMk1lOFA5YUZvWDRZc0FpMDZlUGR0U2liemFvajB5S2tqSnVieG9VN0NVMGlZTmRydHZLSUdXZmRFNlVKMHJWakRDeDZkMFVkLUh1THRPeHl5dUJn0gHeAUFVX3lxTE5NT0lmajFqWUticU9XSVhzVkZvTVhuTGlOTVd3VjFuLWhCdGJFMmlaa2RxRkRJUFVwREFJaVRqeTh6OUVvemxCR0drZEpSaE5PLTRvbVFxMXZaM3VLc1NQMW1qV2MtYWZyYVBYNHFweHJoSDdHcmJWUmYtZWIzVmpqSWxJTkt3Z3pUM3MyUkNPbE1hSm42dmk2UmVnT3NTaUE5QjROMEEyMG9taHNMR1ZnVXBpeWhkYWQwVnZfNUxyQzZPOG9WMnk0WE9WaDNDTENkSmQ2T0tscl9MY2FkUQ?oc=5"
     },
     {
-     "titulo": "Seleção Brasileira enfrenta Austrália em amistoso; saiba onde assistir",
-     "fonte": "metropoles.com",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWnQ4SktXeVd3eE4zMGpVT09RaU9uZ0lrb1NzZGJLdnJiUUhyTGotaGVhOFFQQl8ycHF3OE5jZzZNdF9ic1ZuTHhEZmptdlR2b0loNnhISkZBV1UzZmozMHpXNDVIYUpBa1F1TXpSOElWRFZaVVNGRXNfQktNUFZ6NkdrUE9FYndQeVo2aWcwNElIcl9CcGh6VkdaYWJsUFZJRWNodlVFTUQ?oc=5"
+     "titulo": "Checamos: o que a Polícia Federal foi fazer na sede do Corinthians nesta quinta-feira",
+     "fonte": "ge.globo.com",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSVZ1cnpVNlhzRERmZTB0alptaFhKeWh2RE9SR1dyTUI2SjJFbjF3QkM1WUhxeGM4eVNjTTRKdU5KUDJodmFIcExFbjRTczRTMXUtZHlEeGxrR01EaWd6NS05eWdyMlFvR2x0R2RIajhQOXMxWkwyU195cF9ia21hUGJUb3VFeVNEOGdsTmNTUEhOUWlSbnR3aHFvdmZtNHhBdVVLWFdVVWc2MnRfR0RqRVVyVW9HQUlKTms3VFVRWHhYdFpPbUp5aE9yZmZUTVBQbExTR1JMUXJ3cGRKNTg4dWV1ZTgxWXZpTUhVUtIB-wFBVV95cUxPSzFzUk52Nmp2c1lqeFAycjVXS1V3Wm9TQV9IVy1TM1RZdHVnRUhoWWdtZVBmd3pJUERuMHFlNGcydmQ5b1ZteTZzUWdiczNEaVZJY0IzZVUzeUhIa3VFd3RMUzYtU0dzU05WeUxvY19uSnhQOFFvRW0ydVZjMnRnZ2VNMHp5eXRSMnRKdFVjakxRTVpucFBpM2liN1pDNnlLVlRfa09fQTBJRVFESzV4amw0SDVEY3ZMaUhUZy1BajZJX2JUTUJzWU5VZW9DWkxoMnZmdG5FTUkxUlJOd3A5VHBvNjJrby1BWFh4blNHUERwZkFFMW1lbk9FUQ?oc=5"
     },
     {
-     "titulo": "Brasil x Austrália: onde assistir ao vivo, horário e escalações do amistoso da Seleção",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPckk0aHZGdHN3NUo3UG1CcnktUTdUeDBxQWplTmRNUkZQOXlWekY4SGszUnF2U18zSHZtUGZUSVM3WnhmTEE4aXFxMmtzSW9hU3o2aDd2WGZqUTlIMFhlbE5NbF9jazEzR3k0eVpQWUNPSlExNmU3cWlXa1E1V3N0eFdfVFc0NWlsUWJISEN4b09QQ25uc2pObGluQTRGSThSSVNndWZabDlCa3VrYXBYY1UwYmU0SnpKM21tUTlhQS13TklEY1ZURGRRRnRRUkw2Tm8tYXh6MWpfSTlld0dram9rVDNrN0VFZzRQNmpR0gH8AUFVX3lxTE9fbkZNclVYQ2Z2TEY5RlVRN2ktaVhjV0FQcFI5MXlqcnNiRlozdWd1VFpoU3JiQjdwX0hxVlVDOVZJbk1lWmFtMmM2VE5FSkJpbGN4SkttbjR4RE80THRKY2FJaUtYR0dwZkRNb1dVeDdoZ185ekFJMVJaVTBsdGoxNUtqTWpWaHZ3RjhtSGNMbUdLcjdrZlgtQng2dlh5M0VmSEZINzJnb0FoWjNyNjY4ZGV1WjJNS0J2ODBXMVFUV1BYcFZlbGRUSzdFLUpBazdlSXljSW9yYk9PbFpYN01OTHB1cFNoVjFDYlVlQm5OUHFzSVNvaHhWemwzcA?oc=5"
+     "titulo": "Polícia Federal marca presença na sede do Corinthians; saiba motivo",
+     "fonte": "tmc.com.br",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWl95bEkwbzZEYjlocm9wRWJoWnN2WGljQnIxS0JWaUVVYU54eVk4aVJyOERVYTlaWkhiQUJNWjJYaVUwNEt0Mm12c1gtR0NZOGxxbFJ6MUpKcDlxVjJmdEJnbS14N3FtOGJGOElaM0V3dy1GQ1RFTE1ZQ3pGMWl0bkRQOTVQelMtX3B0MjdXUFMtaUVnaEI5MVhpYmQtYkUzd0h2LWZacXRtQmhveGZXYnNaU0lYaDg?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "GANHAR FLA-FLU É NORMAL! O SESC RJ Flamengo venceu o Fluminense por 3 sets a 1 na noite desta quinta-feira (24), na Arena Niterói, pela estreia na Copa SuperVôlei. O grande destaque da partida foi a oposta Tainara, que chamou a responsabilidad",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Flamengo",
+    "Fluminense"
+   ],
+   "foco": true,
+   "nota": 61.2,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 88,
+    "midia": 75,
+    "aderencia": 100
+   },
+   "trafego_google": 0,
+   "termos_trends": [],
+   "n_fontes": 5,
+   "n_manchetes": 12,
+   "assinatura": "flumi|flame|super|copa",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Esse resultado diz mais sobre o Flamengo do que o placar mostra.",
+    "titulo_thumb": "FLAMENGO: O QUE O JOGO REVELOU",
+    "pergunta_enquete": "Qual sua opinião: GANHAR FLA-FLU É NORMAL! O SESC RJ Flamengo venceu o Fluminense por 3 sets a 1 na noite de?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Sesc RJ Flamengo vence o Fluminense no primeiro desafio na Copa SuperVôlei",
+     "fonte": "flamengo.com.br",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTTg0SjNOTllLZmVTWXJ1SUJjenFOSnNMR1VETGJOLWpCajBWdWs0NVBWRXNWUnU0VTdWem1hOHJ6R2o4czBJS3ZMX1EwMEszMUhXYjdhWlJicjB4S3B1aFpReGZaU3kyU3JMd1dJOFIwOUZ4Y3JWdTN5WVdWMV9sS0xiUUJiT2l5bUt4WGp6Y25GdXdseS1sTWY4ekhabmdTVDVFZUlodjlMdUFDWGdLWWFUVEdFakdjbXc?oc=5"
+    },
+    {
+     "titulo": "Sesc RJ Flamengo defeats Fluminense in Copa SuperVôlei opener",
+     "fonte": "flamengo.com.br",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN2s3UUEtTFEtUzJybmp6MkVnQlduSEduY1lQUzdCSVEwZzNMZjJCUGxod3g1RUZYYmN4QWpGNTVZbEE4T2hIN29tdFJGSE9hUmRPLVAwUUk2ZzdfMGl6MTcwQWkwQzZGSHhfZDFwUkZIeWRkRzE4WUgyY1ZOZ1Noa1RPTFZJQVhHcTZobU9GUmItU1lOOUNId3ljRENSQQ?oc=5"
+    },
+    {
+     "titulo": "Com Sesc Flamengo e Fluminense, Copa Supervôlei começa hoje",
+     "fonte": "ge.globo.com",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFNrLXNIdER1QzVrZGttcnhjY0lTd0t4Yml4MXN4cXhHMFVsbWpjSFpHczF0NTU3WlVCdzlybDBZMjlad19fbnl0Qmk0TF9sVFZSTVE3QWJUX1FvdWNZam1rZUhDejctQmUzZjA0WldfSlBONlJuczFwbEZ5SkVIeFBDSTVSVEpabkRORUFpTUJxdTB6OWxTN1NPSWRVOGdUSWfSAbABQVVfeXFMTVRFU1A1SndrOVJjbm05T1V2UTNyWHZBVlZOUGEyRnNwUHdqbHQzUV92NFloLWpyTEdmTTJITkxPa3p0cUxmbGRoZTlrSkExZllTRXN5cHdkU3FVblktbmdPeTllN0RSQll0WTlEblRWTmoybDdvMkx6VUdDNEZYN05Xa2RQejFzOWFzVVZ3clgtYUJtcU9NOFFaa2hDT0tGdEswWTltTkpMbjMxekp5WGE?oc=5"
+    },
+    {
+     "titulo": "Flamengo vence primeira partida oficial da Arena Niterói",
+     "fonte": "A Tribuna RJ",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS2lWTkVoaTdNcENjOUREN2ZyYmRLLW9NUnJyQmlfTUlfak9HLTN6YkJQaEVnbHBZdEl3VEo5NUFwdHJyZElLMzU1dmRxSFJSZDNTZ3N5LW4wT2JBSGtmZ3VsYUFBcU5SdmVZR3p3OGw5clZ5VW8xaHRWVmNaVlBWUjl4V1gzdjVjbmRFeGp4Z2h0cFl2QlpMMU9n?oc=5"
+    },
+    {
+     "titulo": "GANHAR FLA-FLU É NORMAL! O SESC RJ Flamengo venceu o Fluminense por 3 sets a 1 na noite desta quinta-feira (24), na Arena Niterói, pela estreia na Copa SuperVôlei. O grande destaque da partida foi a oposta Tainara, que chamou a responsabilidad",
+     "fonte": "instagram.com",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2d0pVejlBVTRUbWJqX01VN1Z3Qm9JbnlDUElwZWZkWGwzclFiODZSNTNyMTFoLUUzdnI1SW9lX0NhN0laSVhVbURpaWRhdW5VZVE?oc=5"
     }
    ]
   },
@@ -80,18 +136,18 @@
     "Corinthians"
    ],
    "foco": true,
-   "nota": 62.9,
+   "nota": 60.6,
    "sinais": {
     "busca": 0,
-    "aceleracao": 89,
+    "aceleracao": 81,
     "midia": 81,
     "aderencia": 100
    },
    "trafego_google": 0,
    "termos_trends": [],
    "n_fontes": 6,
-   "n_manchetes": 9,
-   "assinatura": "corin|atras|acord|uniao",
+   "n_manchetes": 8,
+   "assinatura": "acord|corin|atras|parce",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
@@ -128,166 +184,105 @@
    ]
   },
   {
-   "tema": "Polícia Federal faz averiguação no Parque São Jorge, sede do Corinthians",
-   "categoria": "Notícia do dia",
+   "tema": "Seleção Brasileira enfrenta Austrália em amistoso; saiba onde assistir",
+   "categoria": "Seleção",
    "clubes": [
     "Corinthians"
    ],
    "foco": true,
-   "nota": 61.9,
+   "nota": 60.4,
    "sinais": {
     "busca": 0,
     "aceleracao": 90,
-    "midia": 75,
+    "midia": 67,
     "aderencia": 100
    },
    "trafego_google": 0,
    "termos_trends": [],
-   "n_fontes": 5,
+   "n_fontes": 4,
    "n_manchetes": 5,
-   "assinatura": "corin|polic|feder|sede",
+   "assinatura": "selec|austr|amist|assis",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Todo mundo está falando disso. E você, concorda?",
-    "titulo_thumb": "CORINTHIANS: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Polícia Federal faz averiguação no Parque São Jorge, sede do Corinthians?"
+    "formato": "Lista ou ranking (3 a 5 min)",
+    "gancho": "Se eu fosse o técnico da Seleção, a lista seria outra.",
+    "titulo_thumb": "A MINHA SELEÇÃO",
+    "pergunta_enquete": "Qual sua opinião: Seleção Brasileira enfrenta Austrália em amistoso; saiba onde assistir?"
    },
    "manchetes": [
     {
-     "titulo": "Polícia Federal faz vistoria na sede social do Corinthians",
-     "fonte": "iG Esportes",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSlpvVEIybWlqcF9TWWNRZllBMl9YNFc0SEppeTJlbEg3eFVBSTRMQzIwT2xwZTNyNGQzLTlhbjJoXzFCRFVTU0tSSnEwbHdRZWhsVzRCMUlXY01Xa3ZnWjNDbVNKZmNlR29MeHVoX0tJNFpiXzA3TjJJWjRUMUdibl9uRUowNklQeUtBRWtGbS1udnBEbTV6a2wyNlpxeGViNmVid1ZKS2M2dHZhd1BJUUR2MzVIQ2tOSElN0gHAAUFVX3lxTFBvTHVKbW1TUUh2WHotMXczR0VVTG9xUzR3Qmoxa3dpdF90TmpjNWJEdHRZQ2NoMjFUMktvblExNzkxNGpQVDE5ZGpsWFI3UVJjVUFCQWFQbkZjb091VXdadllfQVp3LUM5Nmo5eUZlanV6VUwtRjRjQWdoaUwxS3FoSFJiQ0liUjU5T3NPRVdpQlZ6MHNJU3NUN0RjZVFTZU1RYXRRWm16anBwUkRtWkNFSFRsWEpsSnlVazAtV012Xw?oc=5"
+     "titulo": "Ao vivo: Austrália x Brasil | Amistosos 2026 | Amistosos da Seleção Brasileira",
+     "fonte": "ge.globo.com",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjRtb3g1TllZcFU5SHJDZmFfUllaYmlVSWhQQUZqVEpqWlNDY3ZlUnFvRlNrQ3Z5Ml85X2l5YkRHTHNSeWo1Rl8zbDN6Q3NuVmZkemtBbzlxZ29nN1Nrc2g2bE5hMk5CcXNzdmdSRks0bVQ0RkMwLXo3S042d0ZLU3Z6RTBfdnhoRnRfNThjcw?oc=5"
     },
     {
-     "titulo": "Polícia Federal faz averiguação no Parque São Jorge, sede do Corinthians",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQW9TRU0xaHMwMWxkSjVHbl96NkxUeWJ3ZldVb3hOei1mNXhsZVZlbTRTaDBoVUl3clR0bjV5NFBOakc2Y3VBSGFJeVB3SmVlRmtCbElBcVR2MXZLWGxQclFweGxBUGtWS1JLa0xrajlPa3YySUVwd283MFlkWGN6VkZJNVFEWU9oWVRQY2hDVHF4YTVNVkJ4QUJJMUpQLVB2dXZOOVdEdG1Wc2xIYkdfNlZER2w1Z3d4aUZmSjhSa0s1ZGFNRGcxdTJ3?oc=5"
+     "titulo": "Corintiano do LivePorTi brinca sobre torcer contra jogadores do Corinthians na Seleção",
+     "fonte": "Bolavip Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUDhTSkhQVEJ4NVlLNllGdDNNNDd0cU8zM1U3NU9DV210UmxlaUN2aUF1X1dTQ1kyOVo0UjZ2bVBqeEwxUVFkNno1aFBPdjNoZ21WYW95bzQ3bjhSUlBvUmlpUG1yZFpVVkt3WjVTcTZQbkRtM1FwR1RFeHczQy11bkFid0ZxbTRBV09OUEtRZkJlWEE4VFA0WE1FMGFwd0VtOHlCT0JRUlI2RlpmSjJCQV83bFFzcXlCV285ckdkZ0xabUk3Q3RxbQ?oc=5"
     },
     {
-     "titulo": "Pioneira do Corinthians celebra evolução do futebol feminino e relembra tempos no Parque São Jorge",
+     "titulo": "Saiba onde assistir aos jogadores do Corinthians em amistoso da Seleção contra a Austrália",
      "fonte": "meutimao.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZUJmQWxROC13bEFlcWVnYzBXTHdsU1o3dWFvSkFXdThKTzlIQ19Ra2FOa0lBQnZ5bDBtbmdFbTNQRnFUb1ZoQ0xHTFR5MnJEbk9mNHR5RUlKX2hiV2t0cHdySEg2VTgxclI0aTZlOEZtWC1hdklYeTVFdndqN1o1LW0wNVI4YVV2UzRaa25aTTIxRUs3Nm9oeGFLMk1lOFA5YUZvWDRZc0FpMDZlUGR0U2liemFvajB5S2tqSnVieG9VN0NVMGlZTmRydHZLSUdXZmRFNlVKMHJWakRDeDZkMFVkLUh1THRPeHl5dUJn0gHeAUFVX3lxTE5NT0lmajFqWUticU9XSVhzVkZvTVhuTGlOTVd3VjFuLWhCdGJFMmlaa2RxRkRJUFVwREFJaVRqeTh6OUVvemxCR0drZEpSaE5PLTRvbVFxMXZaM3VLc1NQMW1qV2MtYWZyYVBYNHFweHJoSDdHcmJWUmYtZWIzVmpqSWxJTkt3Z3pUM3MyUkNPbE1hSm42dmk2UmVnT3NTaUE5QjROMEEyMG9taHNMR1ZnVXBpeWhkYWQwVnZfNUxyQzZPOG9WMnk0WE9WaDNDTENkSmQ2T0tscl9MY2FkUQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMzFSd1JvRTFiM2ZqeFBZWXJJaWY3LXNfbjd2MDdtNEthbTZmQzZFNXJ0eTZDV3QzWmk4bDBqSG9uWlFQeXNGTF9Va00xeW1VV0g4WWx4UW1tbi0xdTRaSE1hV3NQZzh1bTdyTmZmTXNBQUh4SS16dk4zaGpNQlI1bmtGZlNxVjFiZGdIalJTV0paMUpHaDlmcnFkbl9TbEkycnNWUllnbm53RzNHSnZhSElnTFc5OUpaVVVkeFF0dzdLSkV6SVM1YkFMSExYOTFSVjYwOXh2U0VlVUh6TjVOZDBGVdIB0wFBVV95cUxNYzQ5TWJ4Mzd2VTdscm1nSnRuaDFWb0hoVXRPQmpLajBEMHFocm9YUjltUWJKc1BlNnUxQUJyNGZucUk3SGRIVWVWaE9lNFQ5S0ZHbDF6Wk5LV29fMmhOSFliWmE2b3U3ZmpLeEFiRU1HVUxJTjZMcnJZSmFqSDRacGUzYkVUd0IzaUZFb25GRjVtbGpYZFZ6YzdMYWIybDUwbUJrMF8xRlBJc18yMFlzMVhadDlUU1BUdG5TZjhfcmQ2T1gtRmk3LWhTX3lOeXQ3b1d3?oc=5"
     },
     {
-     "titulo": "Checamos: o que a Polícia Federal foi fazer na sede do Corinthians nesta quinta-feira",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSVZ1cnpVNlhzRERmZTB0alptaFhKeWh2RE9SR1dyTUI2SjJFbjF3QkM1WUhxeGM4eVNjTTRKdU5KUDJodmFIcExFbjRTczRTMXUtZHlEeGxrR01EaWd6NS05eWdyMlFvR2x0R2RIajhQOXMxWkwyU195cF9ia21hUGJUb3VFeVNEOGdsTmNTUEhOUWlSbnR3aHFvdmZtNHhBdVVLWFdVVWc2MnRfR0RqRVVyVW9HQUlKTms3VFVRWHhYdFpPbUp5aE9yZmZUTVBQbExTR1JMUXJ3cGRKNTg4dWV1ZTgxWXZpTUhVUtIB-wFBVV95cUxPSzFzUk52Nmp2c1lqeFAycjVXS1V3Wm9TQV9IVy1TM1RZdHVnRUhoWWdtZVBmd3pJUERuMHFlNGcydmQ5b1ZteTZzUWdiczNEaVZJY0IzZVUzeUhIa3VFd3RMUzYtU0dzU05WeUxvY19uSnhQOFFvRW0ydVZjMnRnZ2VNMHp5eXRSMnRKdFVjakxRTVpucFBpM2liN1pDNnlLVlRfa09fQTBJRVFESzV4amw0SDVEY3ZMaUhUZy1BajZJX2JUTUJzWU5VZW9DWkxoMnZmdG5FTUkxUlJOd3A5VHBvNjJrby1BWFh4blNHUERwZkFFMW1lbk9FUQ?oc=5"
+     "titulo": "Seleção Brasileira enfrenta Austrália em amistoso; saiba onde assistir",
+     "fonte": "Metrópoles",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWnQ4SktXeVd3eE4zMGpVT09RaU9uZ0lrb1NzZGJLdnJiUUhyTGotaGVhOFFQQl8ycHF3OE5jZzZNdF9ic1ZuTHhEZmptdlR2b0loNnhISkZBV1UzZmozMHpXNDVIYUpBa1F1TXpSOElWRFZaVVNGRXNfQktNUFZ6NkdrUE9FYndQeVo2aWcwNElIcl9CcGh6VkdaYWJsUFZJRWNodlVFTUQ?oc=5"
     },
     {
-     "titulo": "Polícia Federal marca presença na sede do Corinthians; saiba motivo",
-     "fonte": "tmc.com.br",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWl95bEkwbzZEYjlocm9wRWJoWnN2WGljQnIxS0JWaUVVYU54eVk4aVJyOERVYTlaWkhiQUJNWjJYaVUwNEt0Mm12c1gtR0NZOGxxbFJ6MUpKcDlxVjJmdEJnbS14N3FtOGJGOElaM0V3dy1GQ1RFTE1ZQ3pGMWl0bkRQOTVQelMtX3B0MjdXUFMtaUVnaEI5MVhpYmQtYkUzd0h2LWZacXRtQmhveGZXYnNaU0lYaDg?oc=5"
+     "titulo": "Brasil x Austrália: onde assistir ao vivo, horário e escalações do amistoso da Seleção",
+     "fonte": "ge.globo.com",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPckk0aHZGdHN3NUo3UG1CcnktUTdUeDBxQWplTmRNUkZQOXlWekY4SGszUnF2U18zSHZtUGZUSVM3WnhmTEE4aXFxMmtzSW9hU3o2aDd2WGZqUTlIMFhlbE5NbF9jazEzR3k0eVpQWUNPSlExNmU3cWlXa1E1V3N0eFdfVFc0NWlsUWJISEN4b09QQ25uc2pObGluQTRGSThSSVNndWZabDlCa3VrYXBYY1UwYmU0SnpKM21tUTlhQS13TklEY1ZURGRRRnRRUkw2Tm8tYXh6MWpfSTlld0dram9rVDNrN0VFZzRQNmpR0gH8AUFVX3lxTE9fbkZNclVYQ2Z2TEY5RlVRN2ktaVhjV0FQcFI5MXlqcnNiRlozdWd1VFpoU3JiQjdwX0hxVlVDOVZJbk1lWmFtMmM2VE5FSkJpbGN4SkttbjR4RE80THRKY2FJaUtYR0dwZkRNb1dVeDdoZ185ekFJMVJaVTBsdGoxNUtqTWpWaHZ3RjhtSGNMbUdLcjdrZlgtQng2dlh5M0VmSEZINzJnb0FoWjNyNjY4ZGV1WjJNS0J2ODBXMVFUV1BYcFZlbGRUSzdFLUpBazdlSXljSW9yYk9PbFpYN01OTHB1cFNoVjFDYlVlQm5OUHFzSVNvaHhWemwzcA?oc=5"
     }
    ]
   },
   {
-   "tema": "Conmebol confirma Nubank Parque como estádio de Palmeiras x Fluminense na Libertadores",
-   "categoria": "Notícia do dia",
+   "tema": "Corinthians x XV de Jaú: veja prováveis escalações e onde assistir ao jogo do Paulista sub-20",
+   "categoria": "Jogo e resultado",
    "clubes": [
-    "Palmeiras",
-    "Fluminense"
-   ],
-   "foco": true,
-   "nota": 59.8,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 79,
-    "midia": 81,
-    "aderencia": 100
-   },
-   "trafego_google": 0,
-   "termos_trends": [],
-   "n_fontes": 6,
-   "n_manchetes": 7,
-   "assinatura": "palme|flumi|liber|parqu",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Todo mundo está falando disso. E você, concorda?",
-    "titulo_thumb": "PALMEIRAS: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Conmebol confirma Nubank Parque como estádio de Palmeiras x Fluminense na Libertadores?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Conmebol confirma Palmeiras x Fluminense no Nubank Parque",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUXlMZWtaaGUwSGdyMHBrMEc5TVRhMm9mdW5xUXNBcVdrVnFPdTgyRlpEYTdwdzBfZzljN0JlU1ZWQjUtSnpGN2lVUktLbU91OTBCbi1ETlRFSWJaeFFIZXUwNmhYZWE2RlNuUVN1OHYwbUYtS2pXVkJuTWMtOE5hR2hnaGhVaVBuZkJkZFYwNlduS2ZhTTh3Z0sxZkZweEZqTW5YdGozZ2RSX2xaTFNPSGdpalpqYVFqUjFaVlBiUVNOMlk3T2FaeTRYTE9icHJDczMzeWZjTlFvcEczRy0wb082NHVCamJVbVNHaVZhSQ?oc=5"
-    },
-    {
-     "titulo": "🏟 Decidimos em casa! Nossa @dudacabreira fala sobre o palco do jogo de volta da semifinal da Libertadores, que será o nosso Nubank Parque! #palmeiras #palmeirasonline",
-     "fonte": "instagram.com",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nak4wV0U0d0RLMV9XblNnWTZvVV9ScWlzU0N2d3RPUU1sRTdaSnlDeDBGV2JSZDlrN0NGVVhrNm1hQS15c2dKaFdOX1ZJbmFKblBoQjhn?oc=5"
-    },
-    {
-     "titulo": "PM aguarda ajustes no Nubank Parque para liberar mais visitantes em Palmeiras x Fluminense",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMW9KNW5haHh0aHpHaGx0Vzhfd2YyN2x2a0lCMXZPY1VqdWJPNW5GS2RSSzkzNDlWckFXUkhucndjUndHLWdzWG9nSl9HU3RqR3JmSGZlWnRmZDJTTlVFZFRPd1gxNzZ5dkhrNlRfX0NsdGZnb3FiUjRlTW1hZlQyelEzQUpFN0V5Um1reENwQmRWM2ZYNFBZQUJGenBYY3BIMXpER2pRZXpDdjF2MTB3WGhNbWJBT2M2WHI2TjNTaVTSAcYBQVVfeXFMUGl3Y3lXSEZlY05Ca2h0c1o5cEJUaGVoaDJTc25lNlQ0OU1CS29qZnBpbEJ3SmdaUms3SlMwUUMxOENfbjdRdTJuQWNBamF6Yk1oSlVWNnpvQ0JFZnZ6RHRjSEtSNTZDWmVaNW16NHhFNFlzRFpjMk9FR19BdTRnc2NQdUNrRHhzUVlCTFRFMkwxYWRScnN2blJzWmRKVlhHUk1QVHFvV1c0dmZUZ1NzVFkzVGZMMDRmODBKQmNFdEd4anZBaTh3?oc=5"
-    },
-    {
-     "titulo": "Conmebol define datas das semifinais da Libertadores, e Globo exibirá Palmeiras x Fluminense",
-     "fonte": "Estadão",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPODl4YTU3ZUY4dFkwZUxvSFFGVWhqZlkxUHRmVU9kd1pEWGpqVERVZDBZYzlBbDBNU2Z5ZHBEd2QwbTg0Q1owQWN6cFdsTUF0Z24xZ3pPT1UzWEVMOHVtcUNfTm5pc3lQdjliMUZfQzdOdGFMQzFFYjl6c1FyYTBuX0NYNGRwbFhFMEF3bTJqRTc0dlZsRFNyZjB0TENoTDl6M0REeEg0WHBER0dacTJZS0NnbVdIZHE3MHVNaVZnTGtVQlRXdjk0R1Y1NjV0SVBlMWFybUJZaVcxejB6?oc=5"
-    },
-    {
-     "titulo": "Conmebol confirma Nubank Parque como estádio de Palmeiras x Fluminense na Libertadores",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaW9MTjMyQ01kLUdmU1dYVW5ob3dLTFRELTVfdEpmMU9qTV9wTkdjb1Y4ZmFaV1FPQXdydkt5VnlZRmFNT2lCOFFSaU5XVHR1dWxZWEl6bzNpLVVKdnVxTzFIdnl3dl9hWVVwRWFBU2J3UEVTdUxkUVlHTEN6aHhHM1RCaXhqLUFxNm9wWDY5MEx4YUNlaHJXbmI3QTNOSzNOVEpjVXZIUGpFdktGUkU3MC1hOEJaOEQwQXJFNzVhT2xteWc0OGsyc0xqWmg0ZElSWmozeTEwZV8?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "INGRESSOS PARA A FINAL DO BRASILEIRÃO FEMININO! 🏟️🇾🇪 São Paulo e Corinthians decidem o título no dia 3 de outubro, às 16h30, no MorumBIS. As vendas começam neste sábado (26) para os sócios-torcedores: ⭐ 7 estrelas: 26/09, às 10h ⭐ 6 estr",
-   "categoria": "Técnico",
-   "clubes": [
-    "Corinthians",
-    "São Paulo"
+    "Corinthians"
    ],
    "foco": true,
    "nota": 59.7,
    "sinais": {
     "busca": 0,
-    "aceleracao": 66,
-    "midia": 100,
+    "aceleracao": 88,
+    "midia": 67,
     "aderencia": 100
    },
    "trafego_google": 0,
    "termos_trends": [],
-   "n_fontes": 13,
-   "n_manchetes": 19,
-   "assinatura": "corin|femin|paulo|brasi",
+   "n_fontes": 4,
+   "n_manchetes": 4,
+   "assinatura": "pauli|sub-2|corin|jogo",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Opinião forte (60 a 90 s)",
-    "gancho": "O problema no Corinthians não é só o técnico, e eu explico por quê.",
-    "titulo_thumb": "CORINTHIANS: A CULPA É DE QUEM?",
-    "pergunta_enquete": "Qual sua opinião: INGRESSOS PARA A FINAL DO BRASILEIRÃO FEMININO! 🏟️🇾🇪 São Paulo e Corinthians decidem o tít?"
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Esse resultado diz mais sobre o Corinthians do que o placar mostra.",
+    "titulo_thumb": "CORINTHIANS: O QUE O JOGO REVELOU",
+    "pergunta_enquete": "Qual sua opinião: Corinthians x XV de Jaú: veja prováveis escalações e onde assistir ao jogo do Paulista sub?"
    },
    "manchetes": [
     {
-     "titulo": "TV Brasil transmite Corinthians x São Paulo pela final do Brasileirão Feminino Série A1 neste sábado (26)",
-     "fonte": "O Universo da TV",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM3JKS3J2UEtTMTZFRlV5X1kyRlZrTjZMRkhzRjNteEZENzc3a3cyQ3VaVVU5ZWxocVJndGhhTFVRcjZ2VlJlTGpEZFNxaThhdnJicklqaS1uZWNvc0hFbzVVc091Q2F2VXhNZmNHd2Vtc014UDU2Z2tndnpjVUgwSl84aWp2azA?oc=5"
+     "titulo": "Corinthians x Mogi no jogo 3 da semifinal Paulista de basquete: onde assistir ao vivo e horário",
+     "fonte": "ge.globo.com",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQczBEaWdKT0RWVWNiRldHVTJhelppNV9NQ1dDVi1EOUtkVDlOLW5Xa3pKQVhRclVZUnRtakMzYlhEalp1Q0lacDVsS3VRMjlnRm9EM2JicVJRZFNScEU2dXpvdVRQUDFDZVRoWTRxVERxSFB3bFFVQmRKMTYybWRzQ2Nib0JwRU0wSXEyOTFXd2FaZW5GclJKblJGTkNEeVpuMWJOamlVV3Y1N3J4M2FMR2RCakYtREQ3Yk5KQk1NTFBfSWxLcXhtMkEyQk5UR21hUWhHWWFfd1ZkaG0yRlFNYkNUcHE1WHNpSW5nYzZRZFFHcDhxaHdrY1Q0ZTY2Y1ZENE44elhn0gGUAkFVX3lxTE8wLXVEV2pWTWVtaTlCOHBmUjBnRUw0WGdacGFzSVVsSlZ3VkNqeW85V3J0WmNJOGxiOHlRMEJWbDlKSWVVZThkSkRCMTBQZnd6YVBLeXY5R2g1SjFWOFBxYjdJcFlVZkxKOEYtQnpSMlpXakhXbnRSaUJkeEUxRl9BN3pEUkY2N0xhVU1oVW1zQ3dZdWJpVlpzcGJNeF9wazJwZEgxN2t6dVZzT0JjZWR4aTVrcG5wZF9YUUlFMWxraUozc0xDenN6dk80VG1EQk9wZnJzNlh5dWhuYUFPeDJiZTE2VlJ0c011NmZXZVR3VnFiNFBnTEpLemNoMGotemN5YXlaYzhraDVaTGJuZzYxdlhycg?oc=5"
     },
     {
-     "titulo": "Corinthians x São Paulo Feminino Palpite – Notícias e análise (26/09)",
-     "fonte": "UmDois Esportes",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3hiYTFLc29Oc21HaEhMUnJsbG1qRU00QmpQdEZDQTcyNk1lcGcxWkhveDl2OWVVV09TNlhUXzNUQ1VQckNTd3E4bGRRanFXOElqTC1MaTQ3SVQ2bG9neV80dUVHbjZQTTdUZjlZRzBqS0UyTi01RkZiRUdic09xSDN1d0NWZmhXWkx3ME04bmlvMjhrTzZrSC1fMjkwRk0?oc=5"
-    },
-    {
-     "titulo": "Ao vivo: Corinthians x São Paulo | Final | Campeonato Brasileiro Feminino",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQXdncUlHVlZOalJTbHBIVGZqNE5hcDJ3cXlvRFUtUkhZT2NCMGJCMW1paFNYV1dEZzhOVHJLNnBzUEZUaWdSRG5FTTFLV2lBZndxNlA1bERZMXdCRVJLUnZmVzFoSjFZMG9KdzFxbkp5RkFUT1lnQ1RDY0gyWjlRLWtXMHdaQXNXZjFjcURjNko1bnBxMkREWXk5TGRzQW1aQkxGbld0UHVaZnp4V190M2JKUWxtQkt4VWZ6QUZ3a3RHeFd6OFNIREV6VlFJUENL?oc=5"
-    },
-    {
-     "titulo": "Dupla do Corinthians projeta final do Brasileirão Feminino contra o São Paulo",
-     "fonte": "meutimao.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOXzMyYWRnclZiN2ZaYjJnN1hUYzdDZFZkQzZZOVBsb1lzU1oyVVd1ZmxNcWZ4cGMwZVZYandXMy1RYTJwa1ptOXdYaVA4SjZyeFVMbXl0VkZpaUdBLThDVC1sc2R4Rl9xOTB4YW0wdmNQdHZiRUx0QUlnV29QeXpLeXUzaFJOaGZrcnZjeHc4TTczZkE2Zi1NZlBBbHJ5UnNBSWp1alItbzhWbHNMNExHSXYwdDEtM21jVlZXYlE0bW45ZWZaTzNhbC1hNkxpRHNobXfSAcIBQVVfeXFMTTNPWGNHQ1dob1RaOHRUN0RROFN6X1pHeFNNcVdZeGVrNUpLekJndmprTE9lbmZKZm1IWWI1NDlpSEp3ZHNiSWJ2R2hkQXM5SUFjcDNiREx2TVRRcEp4UnJ0Z3BGcXh0dGtpUmlvbGFNLV9JUTEwS3VhdjVnYktiS0dlR09jWE9UcHBNNFB6dWZJSF9KbmU3Qmw2eXRjZGRwYVJVQW1oTTUxRVQ2VWhnM1RrNWVlM3RTNXlvc2p5bno1VEE?oc=5"
-    },
-    {
-     "titulo": "São Paulo divulga venda de ingressos para decisão do Brasileirão Feminino contra o Corinthians",
+     "titulo": "Corinthians x XV de Jaú: veja prováveis escalações e onde assistir ao jogo do Paulista sub-20",
      "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3Jfd0RoZjFyb0lEMDVrZE02ZXg5NGJOM3BSVFlOYzNfd2M0bEpHek1wMmRadWlUcjVWWExfVjhwbExSRjZsN1BHdS1FcG1vRl9Ga1VFY3hhRkczeUNwS3l4Tlhwd3p0eC1VWXJ6QlB6REpfZExzOWpXTGxTbWNsc3RHQmN3aXI1Tk5abU5VeC0yX3dtaFpIQUtMeDViWlAzd0RyOVVBYmt1UkXSAbABQVVfeXFMTVJaeFFLNE5aT283Y085VEFlNHU1MW9Ydlo2RHg5MGJ4SkRtY2QtNWhEdWRpNUNPeExNUGNvZXloNkNGUDNFdVlyOEQ2N2R0UlZTQi11aHh5N3FybEZtZS01eWtxQlRUbDJVaG1wZFYxV1praW1hZ1dUdW1IR3NFVXpxNlZ1VTV2NFhUSFctQlZWTlJHc0xkelVCU3ROVXoxTFZzTXhlRVN6YUhOeVZkWDU?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUFIzU3E1cG02cDlzb1BCc2twcXpoZ1VMYXl5Tzg3LUFlSEFiWExRdTJSTlhBWE11N3FmVjR0M0JTaFlLMGlyWlBrNVZfSVJOdTRjcWcydDdGUk1YNWc0ei1OTkZfN2hlaW54UTRUbFlmajJUS1ZJVWVaWmJpRXFwbnNHam9iUm1tYVdQMUNYUWhNWVZtakduMmt6N01XWENwR2N3eF95WFFqTlVJSkFJNTlpUWZKMFowZ0tCRlUteWZJY01qUEg3Sm5yREYtMVZMN1hhRW5aR2xadnPSAeABQVVfeXFMTXU0NEdMdVdId0RxLUlDa3VxU3RRcmVIWWMzTVdmS000eXlraGoxSG5DV0xUYVEtNDQ5bFQtMS1kVlpPRGtKTG9KSXFwSmVldVV0eTdBdG8tVnJkd2dkaHFsSW45Y085eVRHZU9ZRWVGdXF3cVgzanNjXzNtQUJTbmNqM2NPcnFSTUJ6T0c4eUFEUjAxV1c0ZmMtOElEc21rWGhyZndSV3d0aTd1NC0ydF8tbFFib3BNeC1FOUZnSVNnYVVIcUp4dUdVbEV3VWtrVW5rZ3A4T3cyUG5DdlV0YlI?oc=5"
+    },
+    {
+     "titulo": "Atacante do Corinthians projeta duelo por vaga nas oitavas do Paulista Sub-20",
+     "fonte": "meutimao.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbzdOajg4ejVUTDlGY3ZPb0d5cUg3RG9vRlF1aXZFNnBYZjFvTkpWUEhyZ2xKaElzVlRubDllTllnbTFIOEVJY1Q5dWs4d2hZb0VlcU42UWpCUEFFQi1tdzFJTlF4RXA4a1V5d3lRc1JobW43WjBXRFA3TUhYemNTUFNfc3RZNjRzaHc4XzZMbTFTb3ZwdzRJRDd2a0JsMEFfT0lGR1prZXBKbXo4TUlDZVpjSjdPRzZnZ2xFY1RxQl80enA0OWx4VExFcGJZVjFXOFHSAcIBQVVfeXFMTmZtZzBnNGlxXzdZeWVKbmotN2pKUFZCNDJWQXN2Y2ZpSkNLam5rSEJoTEVjLUR3SnFGbmlXY1BTSUxnNFN0SXhON3F3YzU5aEswaTZJX1RNTVJZZUlqSi0tVWtZdGNOQzV5Q3BkWTV1RWRFSVZuNmJGZHN6T1M5WklBempGVnhhS2Uyd0NabHh2bmJDdnhmck1HbHlwMmFTY2FYVlF5UkFIMW9Oa25ORmE5Z2d4Wi1QSVdtNEdJdVBhOUE?oc=5"
+    },
+    {
+     "titulo": "Com vantagem do empate, Timão recebe XV de Jaú pelo Campeonato Paulista Sub-20",
+     "fonte": "site do Corinthians",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbVdZckZqNDc4SDAwcEp1alBQMk1YZl9JV19jbU5EM2g4UmVLekVBM0VWdXZTdnVVV3JvenVraldva1hNdTV4emxCcS1Od1lqX2phQ1ZrQmtITnRDekJjUV9qTzYyeGc2TTlTRVFTdGJxMkpvTnJyYm83bXpkeERVel96ejNRLXJpeG5SdzVmVVpuQXlyYjltcnhqUi00bGN4RWtrdWVfa1ZNeE1QdVpYU2FoWFVGSWtI?oc=5"
     }
    ]
   },
@@ -310,7 +305,7 @@
    "termos_trends": [],
    "n_fontes": 2,
    "n_manchetes": 2,
-   "assinatura": "lino|flame|samue|pedro",
+   "assinatura": "samue|lino|pedro|flame",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Lista ou ranking (3 a 5 min)",
@@ -321,7 +316,7 @@
    "manchetes": [
     {
      "titulo": "Pedro e Samuel Lino (Flamengo), Martinelli (Flu) e Danilo (Botafogo) representam o futebol carioca na Seleção",
-     "fonte": "ge",
+     "fonte": "ge.globo.com",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORlRTdFNMaFM2SVBOclk1dUxmYVJNczN6ME1HZDBnZ1doYlhTYlJLVFVHZFpzai1QUHRNbmJWX3J6UkI3VmdVMXVKZ1hEZUhrVzUwdGVhQnJuZTVnb2ZqcXNQQUlnUmZTNlplTGFZZThFVXY1emlhWmJqWWw3Y2hQR2RxazRfemN2SExzY0VtMUE2MThsSTVhY1RDVHh5Z1E1RXZLZkdjRTdaQldJdnh3MFpCNTU1ZktUZkFMZnRWdmJMRXBKX2VUNzZJZGRCdmdDTVNWSFEzaGMwbDBqYll6UlRXZWVXTVZhUFFj0gHrAUFVX3lxTE5GVFN0U0xoUzZJUE5yWTV1TGZhUk1zM3owTUdkMGdnV2hiWFNiUktUVUdkWnNqLVBQdE1uYlZfcnpSQjdWZ1UxdUpnWERlSGtXNTB0ZWFCcm5lNWdvZmpxc1BBSWdSZlM2WmVMYVllOEVVdjV6aWFaYmpZbDdjaFBHZHFrNF96Y3ZITHNjRW0xQTYxOGxJNWFjVENUeHlnUTVFdktmR2NFN1pCV0l2eHcwWkI1NTVmS1RmQUxmdFZ2YkxFcEpfZVQ3NklkZEJ2Z0NNU1ZIUTNoYzBsMGpiWXpSVFdlZVdNVmFQUWM?oc=5"
     },
     {
@@ -350,7 +345,7 @@
    "termos_trends": [],
    "n_fontes": 2,
    "n_manchetes": 2,
-   "assinatura": "pode|flame|corin|gover",
+   "assinatura": "pode|flame|corin|dinhe",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
@@ -372,48 +367,6 @@
    ]
   },
   {
-   "tema": "Conmebol revela prêmios da Libertadores: Flamengo lidera",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Flamengo",
-    "Palmeiras",
-    "Vasco",
-    "Fluminense"
-   ],
-   "foco": true,
-   "nota": 59.2,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 100,
-    "midia": 46,
-    "aderencia": 100
-   },
-   "trafego_google": 0,
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "premi|flame|conme|lider",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Todo mundo está falando disso. E você, concorda?",
-    "titulo_thumb": "FLAMENGO: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Conmebol revela prêmios da Libertadores: Flamengo lidera?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Conmebol divulga premiações de Flamengo, Palmeiras, Fluminense, Vasco e Atlético",
-     "fonte": "No Ataque",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTmlkcG14WDVzUGxMNHQxZFhKSlNFRmhEQjBNYWhLc0UxR0pfQlVRUFJTMmY0Ni11RmtPa2dlZm1ENXJGWTViVnZNOTRkcGNjd3lOVmJJYnZMenZfREctdTltdFlkUHdNbHVJdUlraldqUS1vQ1ZZOXV4RktpYXhINWxkdmMzOGh4TUh5UEtZNXIta2pOT2djZFBQU25wYnRINXo0NjlucFVtb05yZ1BmaHdlRUN2MmFVZFRyQjJQTQ?oc=5"
-    },
-    {
-     "titulo": "Conmebol revela prêmios da Libertadores: Flamengo lidera",
-     "fonte": "TV Sim Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXg5TTBkYVItUGtqUW10dXdMcjNrYkNsR0h3R3NwN3dscVNnSGI0dWJ0YkJpVEIyNUNFVjg3dm5nSE9RVmhyRlIwWlRDYUt6OUotTlJXSi1zN0UxZXNHcXRSQ0k3Q1ZacG9meDdFOFpFMFhEZjZXN2hQSFMzbHN5ejNsM2hIa19fWmJGWThITGFIUHA1angtWklkcTVHR0E3eVpKYkZrOWlYcmc?oc=5"
-    }
-   ]
-  },
-  {
    "tema": "Lula manda indireta a Memphis: 'Corinthians ainda pagava aluguel para ele'",
    "categoria": "Notícia do dia",
    "clubes": [
@@ -431,7 +384,7 @@
    "termos_trends": [],
    "n_fontes": 2,
    "n_manchetes": 2,
-   "assinatura": "lula|corin|memph|pagav",
+   "assinatura": "memph|lula|corin|manda",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
@@ -453,6 +406,45 @@
    ]
   },
   {
+   "tema": "Corinthians atrasa pagamentos à Fazenda e pode perder PSJ",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 59.2,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 100,
+    "midia": 46,
+    "aderencia": 100
+   },
+   "trafego_google": 0,
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "pode|atras|corin|milho",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Esse resultado diz mais sobre o Corinthians do que o placar mostra.",
+    "titulo_thumb": "CORINTHIANS: O QUE O JOGO REVELOU",
+    "pergunta_enquete": "Qual sua opinião: Corinthians atrasa pagamentos à Fazenda e pode perder PSJ?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Corinthians atrasa pagamentos à Fazenda e pode perder PSJ",
+     "fonte": "ABCD Jornal",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMjJWd3l5bnNoSG12UktZcHBKOEZzVTVMc2p6MF9oU2N6MG1Cc180TlJTYVYwd3F1VDUybG1ablRZUzJUeExFTmtvTXhHSWk2Z1MtWDhwMGpMR0pBUl9BVlc3dHBFdHNXMnB4emFuVDg0al9mSTJUeHhRSjJtaGgteTdjS3BVbllTa2J1Z2NSOEtkZG5uRGFmV3IwTml3VC14QUUtZTYyZjgzMVZHTVVRQ9IBtgFBVV95cUxPdjF0Ti1HUWFLNzNseV83MjRyTjA4X3lMLVMwZGNKS2hteHAxTFVzVVhONThCOW91cW1oU0VodWY4Zy1TT2pKQjNMTHFRN2IwUVVXcnRKVjZCTkJQTVJ0eWZoWl9hMDJ0aVNFT19ZdU5LUVJhQUNqbmVuVEhodUwtT3ZRbDE5WG9BS2IxYjVyZmZham1Hd1JiTGVaajlGTVRDOW5ScEpUa1lCZmg3WnlBbVpUQlBPZw?oc=5"
+    },
+    {
+     "titulo": "Por que atraso de R$ 20 milhões pode custar R$ 500 milhões ao Corinthians?",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNclItYkp0bjhvd1RCdENPcmpvVk1keGVDSnFDNjgwYTFGcGRmcm14TjZrXzlYNTlGdmZkY1ZHTEtMTGRpQmlwT212YXhWUzNEbFlyRl9HRXNGMU1feElzWEpMUGR3d3hGVy1TSmoxY0xZNU1vVkRTYnJVOHVCbmc2dE10VVUxQWRrNTVYMUlLbF9nbXd5b0V5R3l2Rnhtd1NTZ0ZXSndKVG1fM0V4a19hZnEyM2V5cU1GSFVFVGFQNElCQTZ3V2dJeE9jbU9seGxOcmh4OVAwNWQtUHRxSHhNRGRreWdVaXZPemRFWTBocDlOaDZvVWc?oc=5"
+    }
+   ]
+  },
+  {
    "tema": "São Paulo Sub-20 x EC São Bernardo: onde assistir, horário e detalhes",
    "categoria": "Notícia do dia",
    "clubes": [
@@ -470,7 +462,7 @@
    "termos_trends": [],
    "n_fontes": 2,
    "n_manchetes": 2,
-   "assinatura": "assis|paulo|berna|sub-2",
+   "assinatura": "paulo|sub-2|berna|assis",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
@@ -510,7 +502,7 @@
    "termos_trends": [],
    "n_fontes": 2,
    "n_manchetes": 2,
-   "assinatura": "deixa|paulo|gremi|propo",
+   "assinatura": "paulo|deixa|gremi|roger",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 3 min)",
@@ -549,7 +541,7 @@
    "termos_trends": [],
    "n_fontes": 2,
    "n_manchetes": 2,
-   "assinatura": "base|colom|palme|refor",
+   "assinatura": "colom|refor|palme|base",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
@@ -589,7 +581,7 @@
    "termos_trends": [],
    "n_fontes": 2,
    "n_manchetes": 2,
-   "assinatura": "visit|palme|bombe|aguar",
+   "assinatura": "visit|aguar|bombe|palme",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
@@ -628,7 +620,7 @@
    "termos_trends": [],
    "n_fontes": 14,
    "n_manchetes": 15,
-   "assinatura": "palme|brasi|valio|jogad",
+   "assinatura": "brasi|palme|valio|jogad",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
@@ -639,7 +631,7 @@
    "manchetes": [
     {
      "titulo": "Palmeiras domina ranking dos jogadores mais valiosos do futebol brasileiro em estudo do CIES",
-     "fonte": "abcdjornal.com.br",
+     "fonte": "ABCD Jornal",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZXFNUFJKM0NISU9qN2dyWGkzQ1NxUm9TSmliYzh1d0hLY1dnMnV3VklBWWZMbWRuYkJzcjdwUmljUUxaM0xUc05kZkhiUkktbjRmOTNqb2FRUjVibVBXUUZ3QXVXb3gzbENfUU9MT2Q2aFlDUnpWOXZFQjJwX3Nqdm11cUNmQXNvVXdnYUJ4M3NZVThvTlkyYXAxOEh2XzduWEdreGI4ODJaQmlDOUU5bl8zSUIyVlp4MUNPdXhXcmpxUUpPajBCaWR2eHZyRHd6anZDUWhRcHpibkJ5WHRaMFdvUzTSAeQBQVVfeXFMT2VxTVBSSjNDSElPajdnclhpM0NTcVJvU0ppYmM4dXdIS2NXZzJ1d1ZJQVlmTG1kbmJCc3I3cFJpY1FMWjNMVHNOZGZIYlJJLW40Zjkzam9hUVI1Ym1QV1FGd0F1V294M2xDX1FPTE9kNmhZQ1J6Vjl2RUIycF9zanZtdXFDZkFzb1V3Z2FCeDNzWVU4b05ZMmFwMThIdl83blhHa3hiODgyWkJpQzlFOW5fM0lCMlZaeDFDT3V4V3JqcVFKT2owQmlkdnh2ckR3emp2Q1FoUXB6Ym5CeVh0WjBXb1M0?oc=5"
     },
     {
@@ -665,56 +657,57 @@
    ]
   },
   {
-   "tema": "Estudiantes define estádio para jogo contra o Flamengo pela semifinal da Libertadores",
-   "categoria": "Notícia do dia",
+   "tema": "INGRESSOS PARA A FINAL DO BRASILEIRÃO FEMININO! 🏟️🇾🇪 São Paulo e Corinthians decidem o título no dia 3 de outubro, às 16h30, no MorumBIS. As vendas começam neste sábado (26) para os sócios-torcedores: ⭐ 7 estrelas: 26/09, às 10h ⭐ 6 estr",
+   "categoria": "Técnico",
    "clubes": [
-    "Flamengo"
+    "Corinthians",
+    "São Paulo"
    ],
    "foco": true,
-   "nota": 57.5,
+   "nota": 58.9,
    "sinais": {
     "busca": 0,
-    "aceleracao": 58,
+    "aceleracao": 63,
     "midia": 100,
     "aderencia": 100
    },
    "trafego_google": 0,
    "termos_trends": [],
    "n_fontes": 12,
-   "n_manchetes": 12,
-   "assinatura": "flame|estud|liber|estad",
+   "n_manchetes": 19,
+   "assinatura": "corin|brasi|femin|paulo",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Todo mundo está falando disso. E você, concorda?",
-    "titulo_thumb": "FLAMENGO: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Estudiantes define estádio para jogo contra o Flamengo pela semifinal da Libertadores?"
+    "formato": "Opinião forte (60 a 90 s)",
+    "gancho": "O problema no Corinthians não é só o técnico, e eu explico por quê.",
+    "titulo_thumb": "CORINTHIANS: A CULPA É DE QUEM?",
+    "pergunta_enquete": "Qual sua opinião: INGRESSOS PARA A FINAL DO BRASILEIRÃO FEMININO! 🏟️🇾🇪 São Paulo e Corinthians decidem o tít?"
    },
    "manchetes": [
     {
-     "titulo": "Libertadores: Flamengo já sabe em qual estádio jogará a primeira semifinal",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcE0zcEcyXzdmcU8xdWR6U0UxS0dNMkk0WWlwb2MyTl8zS0s0YUFTd1Q1bnBOU0IycEQ0MEpCWG13Z0ozYnl1T1MwVU0yNndvWE9XTURfNlJJZ1pGeTk5R004SVJuOFNaLWsyam5feE9UV3gwY2tBSUxEY1VsdXRTTXowNkdNNmstem5ZMDVZTmJKYVNxWU9DaG5OaVU3WVI3SEF5SWZ6NFU4aFRMMmljaUhJOTdaUWUta0I3Z3hIQmVJSkRoUFptMg?oc=5"
+     "titulo": "Corinthians x São Paulo Feminino Palpite – Notícias e análise (26/09)",
+     "fonte": "UmDois Esportes",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3hiYTFLc29Oc21HaEhMUnJsbG1qRU00QmpQdEZDQTcyNk1lcGcxWkhveDl2OWVVV09TNlhUXzNUQ1VQckNTd3E4bGRRanFXOElqTC1MaTQ3SVQ2bG9neV80dUVHbjZQTTdUZjlZRzBqS0UyTi01RkZiRUdic09xSDN1d0NWZmhXWkx3ME04bmlvMjhrTzZrSC1fMjkwRk0?oc=5"
     },
     {
-     "titulo": "Estudiantes confirma estádio para semifinal da Libertadores contra o Flamengo",
+     "titulo": "TV Brasil transmite Corinthians x São Paulo pela final do Brasileirão Feminino Série A1 neste sábado (26)",
+     "fonte": "O Universo da TV",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM3JKS3J2UEtTMTZFRlV5X1kyRlZrTjZMRkhzRjNteEZENzc3a3cyQ3VaVVU5ZWxocVJndGhhTFVRcjZ2VlJlTGpEZFNxaThhdnJicklqaS1uZWNvc0hFbzVVc091Q2F2VXhNZmNHd2Vtc014UDU2Z2tndnpjVUgwSl84aWp2azA?oc=5"
+    },
+    {
+     "titulo": "Ao vivo: Corinthians x São Paulo | Final | Campeonato Brasileiro Feminino",
+     "fonte": "ge.globo.com",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQXdncUlHVlZOalJTbHBIVGZqNE5hcDJ3cXlvRFUtUkhZT2NCMGJCMW1paFNYV1dEZzhOVHJLNnBzUEZUaWdSRG5FTTFLV2lBZndxNlA1bERZMXdCRVJLUnZmVzFoSjFZMG9KdzFxbkp5RkFUT1lnQ1RDY0gyWjlRLWtXMHdaQXNXZjFjcURjNko1bnBxMkREWXk5TGRzQW1aQkxGbld0UHVaZnp4V190M2JKUWxtQkt4VWZ6QUZ3a3RHeFd6OFNIREV6VlFJUENL?oc=5"
+    },
+    {
+     "titulo": "Dupla do Corinthians projeta final do Brasileirão Feminino contra o São Paulo",
+     "fonte": "meutimao.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOXzMyYWRnclZiN2ZaYjJnN1hUYzdDZFZkQzZZOVBsb1lzU1oyVVd1ZmxNcWZ4cGMwZVZYandXMy1RYTJwa1ptOXdYaVA4SjZyeFVMbXl0VkZpaUdBLThDVC1sc2R4Rl9xOTB4YW0wdmNQdHZiRUx0QUlnV29QeXpLeXUzaFJOaGZrcnZjeHc4TTczZkE2Zi1NZlBBbHJ5UnNBSWp1alItbzhWbHNMNExHSXYwdDEtM21jVlZXYlE0bW45ZWZaTzNhbC1hNkxpRHNobXfSAcIBQVVfeXFMTTNPWGNHQ1dob1RaOHRUN0RROFN6X1pHeFNNcVdZeGVrNUpLekJndmprTE9lbmZKZm1IWWI1NDlpSEp3ZHNiSWJ2R2hkQXM5SUFjcDNiREx2TVRRcEp4UnJ0Z3BGcXh0dGtpUmlvbGFNLV9JUTEwS3VhdjVnYktiS0dlR09jWE9UcHBNNFB6dWZJSF9KbmU3Qmw2eXRjZGRwYVJVQW1oTTUxRVQ2VWhnM1RrNWVlM3RTNXlvc2p5bno1VEE?oc=5"
+    },
+    {
+     "titulo": "São Paulo divulga venda de ingressos para decisão do Brasileirão Feminino contra o Corinthians",
      "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ05xMTN1WHB5UFYxUk5XNmJXZlM1TGd3MnFNbnBPaXV4T1lpQzFtZjd1dHhHUmJpX0J5X3JDTld2SXliU1ZCVllPWWRSVXo4enZibGJYTDVNTVcxTm1qQmpMVC12XzMxXy1yYVlEbHFPYWpuY2R4RHJyVGU1Z21sSkFiZDRDakZaa3gzQ0xUdFhwaE1jZGJZZ1dVQ2dBSER3aUQyVzk3eEZjT1c0VDN5Rl81cF9tVW0teThEa2txOFJsb0wtNWJCT9IByAFBVV95cUxOQ05xMTN1WHB5UFYxUk5XNmJXZlM1TGd3MnFNbnBPaXV4T1lpQzFtZjd1dHhHUmJpX0J5X3JDTld2SXliU1ZCVllPWWRSVXo4enZibGJYTDVNTVcxTm1qQmpMVC12XzMxXy1yYVlEbHFPYWpuY2R4RHJyVGU1Z21sSkFiZDRDakZaa3gzQ0xUdFhwaE1jZGJZZ1dVQ2dBSER3aUQyVzk3eEZjT1c0VDN5Rl81cF9tVW0teThEa2txOFJsb0wtNWJCTw?oc=5"
-    },
-    {
-     "titulo": "Estudiantes x Flamengo: veja onde será o jogo de ida da semifinal da Libertadores",
-     "fonte": "Diário do Rio",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUkxDRENXdGdDbDRLZUwyR0NYR2dkYzJ4VnZSSzcwQ3VIQVp4ektsR082eDl1Vl8xMUlSYTE2cU9yYjJZQlpyUzJhdU9YZEJrbmpVNHpSWjFSQkRHcHY2WmFCZ2JaTURiNzRmMjNROURXUDVwMGJ3Yl81d0JYVXVOOG4yRUUtc2dqcUFNcldWZ2lWMHo3eEQzYmZ1b09vaHBseng5RnBXN09DYVc3WFVaaWExSzllNTllN0hQXzJKVlFCRVdlcmpZMEgwcTJpc3BpZFNR?oc=5"
-    },
-    {
-     "titulo": "Estudiantes x Flamengo pela Libertadores tem local definido; confira",
-     "fonte": "Rádio Itatiaia",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeEliaG4ya2NJUW9IVGswTDVPNG94SHVfNnhUa3dad1VqcnRxbUdMZnhXeE1sZUpZZXRvOFZGSFpaYnRqNlducGZBTjRZbzhFYko0LUk1elVuNjZOQWxVd2t2bmxHNDhVdldRTTVhQkh3YkMxU2VuNElneVhJWDRIbW5QWWI3Wk4tSm9GdjE5djZLR083UHZnT3ZFbkpRTEJZOFZad1BsZ1B5dnVzXzRiTFJqd3psbENqcXRzWFEtUUNMUVZyemJrZmhZVnVVZ2tqSHlZUDRZejc5cWtBSV9FT0tndkxGdUlOaHQ0?oc=5"
-    },
-    {
-     "titulo": "Estudiantes define estádio para enfrentar o Flamengo na Liberta",
-     "fonte": "Revista PLACAR",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYXlscmo4aWR4RDdBbnkxXy1UQUdnT3NwOWRPNGtZaGNfdENUM2pSTnpwaXFnd0syaEJYVmR5S3VzTTZTQXZjVklwd0xfb1BYVUpsWDctUHJUYXZIR1RfcVJLWnBSVkVfRkdsdEdfaGZUVDdleWZjcFdEajhtTENqazdhZTFlcDFybHFUbEpXajB2Y0dqWkFCc1VrZmlMdzRDdXVqWk9lNA?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3Jfd0RoZjFyb0lEMDVrZE02ZXg5NGJOM3BSVFlOYzNfd2M0bEpHek1wMmRadWlUcjVWWExfVjhwbExSRjZsN1BHdS1FcG1vRl9Ga1VFY3hhRkczeUNwS3l4Tlhwd3p0eC1VWXJ6QlB6REpfZExzOWpXTGxTbWNsc3RHQmN3aXI1Tk5abU5VeC0yX3dtaFpIQUtMeDViWlAzd0RyOVVBYmt1UkXSAbABQVVfeXFMTVJaeFFLNE5aT283Y085VEFlNHU1MW9Ydlo2RHg5MGJ4SkRtY2QtNWhEdWRpNUNPeExNUGNvZXloNkNGUDNFdVlyOEQ2N2R0UlZTQi11aHh5N3FybEZtZS01eWtxQlRUbDJVaG1wZFYxV1praW1hZ1dUdW1IR3NFVXpxNlZ1VTV2NFhUSFctQlZWTlJHc0xkelVCU3ROVXoxTFZzTXhlRVN6YUhOeVZkWDU?oc=5"
     }
    ]
   }
