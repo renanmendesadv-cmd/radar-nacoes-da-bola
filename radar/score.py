@@ -37,9 +37,10 @@ def _tem(texto_norm: str, termo: str) -> bool:
 
 
 def tem_vocab(t: str) -> bool:
-    """Vocabulário de futebol (início de palavra) ou padrão "Time x Time"."""
-    if re.search(r"[a-z] x [a-z]", t):
-        return True
+    """Vocabulário de futebol (início de palavra).
+
+    O padrão "A x B" sozinho não basta: reality shows e enquetes também usam.
+    Jogos entram pelos nomes dos clubes, da Seleção ou das competições."""
     return any(re.search(r"(?<![a-z0-9])" + re.escape(v), t) for v in C.VOCAB_FUTEBOL)
 
 
@@ -194,7 +195,10 @@ def nota_aceleracao(itens: list[dict], assin: list[str], historico: dict, agora:
                 anterior = max(anterior, qtd)
     n = len(itens)
     crescimento = n / (n + anterior)  # tema novo -> 1.0; estável -> 0.5; caindo -> < 0.5
-    return 0.5 * razao + 0.5 * crescimento
+    # Volume recente conta junto com a proporção: 2 manchetes novas não podem valer
+    # mais do que 12 manchetes, 6 delas nas últimas horas.
+    volume_recente = min(1.0, math.log1p(recentes) / math.log1p(6))
+    return 0.35 * razao + 0.35 * volume_recente + 0.30 * crescimento
 
 
 # ---------------------------------------------------------------- sugestões
@@ -221,6 +225,9 @@ def sugestao(cat: str, ent: dict, rep_titulo: str) -> dict:
         "Polêmica e bastidor": ("Explicador de bastidor (2 a 4 min)",
                                 f"O que ninguém está contando sobre essa crise {no_alvo}.",
                                 f"{CL}: O QUE ESTÁ POR TRÁS"),
+        "Finanças e gestão": ("Explicador de bastidor (2 a 4 min)",
+                              f"O buraco {no_alvo} é maior do que parece. Eu explico em 2 minutos.",
+                              f"{CL}: A CONTA CHEGOU"),
         "Lesão e desfalque": ("React rápido (1 a 2 min)",
                               f"Esse desfalque muda tudo {para_alvo} nos próximos jogos.",
                               f"{CL} SEM ELE: E AGORA?"),

@@ -46,10 +46,10 @@ INTERNACIONAL = [
 
 # Palavras que indicam futebol (filtro dos termos do Google Trends).
 VOCAB_FUTEBOL = [
-    "futebol", "gol", "jogo", "tecnico", "treinador", "rodada", "campeonato", "brasileirao",
-    "libertadores", "sul-americana", "copa do brasil", "escalacao", "elenco", "contratacao",
-    "reforco", "arbitragem", "var", "penalti", "cbf", "stjd", "torcida", "classificacao",
-    "zagueiro", "atacante", "goleiro", "meia", "estadio", "clube", "partida", "classico",
+    "futebol", "gol ", "gols", "golaco", "jogo", "tecnico", "treinador", "rodada", "campeonato", "brasileirao",
+    "libertadores", "sul-americana", "copa do brasil", "escalac", "elenco", "contratac",
+    "reforc", "arbitr", "var ", "penalti", "cbf", "stjd", "torcida", "classific",
+    "zagueiro", "atacante", "goleiro", "meia ", "estadio", "clube", "partida", "classico",
     "placar", "amistoso", "selecao", "elenco", "titular", "artilheiro", "torcedor",
 ]
 
@@ -70,6 +70,9 @@ CATEGORIAS = {
     "Polêmica e bastidor": ["polemic", "briga entre", "brigam", "bate-boca", "critica", "confusao", "protesto", "punicao",
                             "stjd", "denuncia", "racismo", "diretoria", "presidente", "eleicao",
                             "bastidor", "crise", "vaias"],
+    "Finanças e gestão": ["divida", "parcela", "pagamento", "salario", "acordo com a uniao", "receita federal",
+                          "balanco", "penhora", "patrocin", "saf ", "orcamento", "fazenda nacional",
+                          "profut", "credor", "calote", "faturamento"],
     "Lesão e desfalque": ["lesao", "machuc", "desfalque", "cirurgia", "departamento medico", "fora de"],
     "Seleção": ["selecao", "convoca", "eliminatorias", "copa do mundo"],
     "Jogo e resultado": ["vence ", "venceu", "empata", "empate", "perde", "derrota", "vitoria",
@@ -77,7 +80,7 @@ CATEGORIAS = {
 }
 
 # Categorias com maior potencial de corte viral recebem bônus de aderência.
-BONUS_VIRAL = {"Polêmica e bastidor": 0.25, "Arbitragem e VAR": 0.2, "Mercado da bola": 0.15,
+BONUS_VIRAL = {"Finanças e gestão": 0.15, "Polêmica e bastidor": 0.25, "Arbitragem e VAR": 0.2, "Mercado da bola": 0.15,
                "Técnico": 0.15}
 
 # Pesos da nota final (somam 1.0). Espelham o documento de estratégia.

@@ -107,5 +107,11 @@ def test_aderencia_rebaixa_tema_sem_ligacao():
     b = bruto()
     b["termos"] += ruido["termos"]
     temas = score.pontuar(b, {}, agora)
-    posicao = [t["tema"] for t in temas].index(next(t["tema"] for t in temas if "Costa Rica" in t["tema"]))
-    assert posicao >= 3
+    nomes = [t["tema"] for t in temas]
+    costa = [i for i, n in enumerate(nomes) if "Costa Rica" in n]
+    assert not costa or costa[0] >= 3  # some ou fica atrás dos temas dos clubes do canal
+
+
+def test_financas_e_reality_show():
+    assert score.categoria("Corinthians atrasa parcelas de acordo com a União") == "Finanças e gestão"
+    assert not score.eh_futebol("Enquete A Fazenda: Ana x João")

@@ -181,8 +181,8 @@ def videos_da_pagina(handle: str) -> list[dict]:
         return []
     videos, vistos = [], set()
     padroes = [
-        r'"videoId":"([\w-]{11})".{0,600}?"title":\{"runs":\[\{"text":"((?:[^"\\]|\\.)*)"',
-        r'"contentId":"([\w-]{11})".{0,1500}?"title":\{"content":"((?:[^"\\]|\\.)*)"',
+        r'"videoId":"([\w-]{11})".{0,3000}?"title":\{"runs":\[\{"text":"((?:[^"\\]|\\.)*)"',
+        r'"contentId":"([\w-]{11})".{0,3000}?"title":\{"content":"((?:[^"\\]|\\.)*)"',
     ]
     for padrao in padroes:
         for vid, titulo in re.findall(padrao, html):
@@ -219,8 +219,13 @@ def coletar(buscas: list[str], handle: str | None, channel_id: str | None) -> di
     if cid:
         xml = fetch(YT_FEED.format(cid=cid), insistir_404=True)
         videos = parse_channel_feed(xml) if xml else []
+        if not videos:  # feed alternativo: playlist de uploads (UC... -> UU...)
+            xml = fetch(YT_FEED.replace("channel_id", "playlist_id").format(cid="UU" + cid[2:]), insistir_404=True)
+            videos = parse_channel_feed(xml) if xml else []
+        log.info("Vídeos do canal via RSS: %d", len(videos))
     if not videos and handle:
         videos = videos_da_pagina(handle)
+        log.info("Vídeos do canal via página: %d", len(videos))
     status["Canal (RSS YouTube)"] = len(videos)
 
     return {"termos": termos, "noticias": noticias, "videos": videos,
