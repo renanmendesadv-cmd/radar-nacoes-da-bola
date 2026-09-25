@@ -68,8 +68,7 @@ def main() -> int:
         "status": bruto["status"],
         "canal_id": bruto.get("channel_id"),
         "videos_recentes": bruto["videos"][:10],
-        "termos_futebol": [t["termo"] for t in bruto["termos"]
-                           if score.eh_futebol(t["termo"] + " " + " ".join(n["titulo"] for n in t["noticias"]))],
+        "termos_futebol": [t["termo"] for t in bruto["termos"] if score.termo_de_futebol(t)],
         "pesos": C.PESOS,
         "temas": temas[: C.TOP_PAINEL],
     }

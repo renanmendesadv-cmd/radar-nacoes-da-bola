@@ -54,6 +54,22 @@ def _clubes(t: str, tabela: dict, vocab: bool) -> list[str]:
     return achados
 
 
+def outro_esporte(texto: str) -> bool:
+    t = " " + norm(texto) + " "
+    return any(re.search(r"(?<![a-z0-9])" + re.escape(k), t) for k in C.OUTROS_ESPORTES)
+
+
+def termo_de_futebol(termo: dict) -> bool:
+    """Termo do Trends só conta se ele mesmo, ou a maioria das notícias ligadas, for de futebol."""
+    if outro_esporte(termo["termo"]):
+        return False
+    e = entidades(termo["termo"])
+    if e["foco"] or e["br"] or e["selecao"] or e["comp_br"] or e["intl"] or e["vocab"]:
+        return True
+    nots = [n["titulo"] for n in termo["noticias"] if not espanhol(n["titulo"])]
+    return bool(nots) and sum(eh_futebol(n) and not outro_esporte(n) for n in nots) * 2 > len(nots)
+
+
 def espanhol(texto: str) -> bool:
     palavras = norm(texto).split()
     return sum(1 for p in palavras if p in C.MARCAS_ESPANHOL) >= 2
@@ -250,12 +266,12 @@ def sugestao(cat: str, ent: dict, rep_titulo: str) -> dict:
 
 def pontuar(bruto: dict, historico: dict, agora: datetime | None = None) -> list[dict]:
     agora = agora or datetime.now(timezone.utc)
-    termos = [t for t in bruto["termos"]
-              if eh_futebol(t["termo"] + " " + " ".join(n["titulo"] for n in t["noticias"]))]
+    termos = [t for t in bruto["termos"] if termo_de_futebol(t)]
     for t in termos:
-        t["noticias"] = [n for n in t["noticias"] if not espanhol(n["titulo"])]
+        t["noticias"] = [n for n in t["noticias"] if not espanhol(n["titulo"]) and not outro_esporte(n["titulo"])]
     noticias = [n for n in bruto["noticias"]
-                if not espanhol(n["titulo"]) and eh_futebol(n["titulo"] + " " + n["busca"])]
+                if not espanhol(n["titulo"]) and not outro_esporte(n["titulo"])
+                and eh_futebol(n["titulo"] + " " + n["busca"])]
     videos_tok = [(v, tokens(v["titulo"]), entidades(v["titulo"])) for v in bruto["videos"]]
 
     grupos = agrupar(noticias)

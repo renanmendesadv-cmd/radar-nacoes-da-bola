@@ -115,3 +115,12 @@ def test_aderencia_rebaixa_tema_sem_ligacao():
 def test_financas_e_reality_show():
     assert score.categoria("Corinthians atrasa parcelas de acordo com a União") == "Finanças e gestão"
     assert not score.eh_futebol("Enquete A Fazenda: Ana x João")
+
+
+def test_outros_esportes_e_termos():
+    assert score.outro_esporte("GANHAR FLA-FLU É NORMAL! O Sesc RJ Flamengo venceu o Fluminense na Copa SuperVôlei")
+    assert not score.outro_esporte("Flamengo vence o Fluminense no Maracanã")
+    celeb = {"termo": "solange gomes", "noticias": [{"titulo": "Solange Gomes fala sobre reality"},
+                                                   {"titulo": "Solange Gomes posta foto"}]}
+    assert not score.termo_de_futebol(celeb)
+    assert score.termo_de_futebol({"termo": "flamengo x palmeiras", "noticias": []})

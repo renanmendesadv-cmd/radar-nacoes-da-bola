@@ -29,6 +29,10 @@ CLUBES_BR = {
 APELIDOS_AMBIGUOS = {"bahia", "fortaleza", "ceara", "santos", "galo", "colorado", "sao paulo",
                      "juventude", "mirassol", "athletico", "sport recife"}
 
+# Outros esportes dos mesmos clubes (vôlei, basquete...): manchetes com estas palavras saem.
+OUTROS_ESPORTES = ["volei", "supervolei", "superliga", "basquete", "nbb", "futsal", "handebol",
+                   "sesc rj", "beach tennis", "e-sports", "esports", "natacao", "remo "]
+
 # Palavras típicas de espanhol: manchetes nessa língua saem do radar (canal é em português).
 MARCAS_ESPANHOL = ["el", "los", "del", "con", "y", "hoy", "recibe", "partido", "futbol", "las", "ante"]
 
