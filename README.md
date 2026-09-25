@@ -39,6 +39,11 @@ edite `radar/config.py` à vontade.
 
 Na primeira vez, o e-mail pode cair no Lixo eletrônico do Hotmail. Marque como "Não é lixo eletrônico".
 
+## Atualizar o radar
+
+Novas versões vêm como um novo `radar.yml`. Substitua o conteúdo do arquivo e salve: na execução seguinte
+o código em `radar/` é reinstalado (ajustes feitos à mão em `radar/config.py` são sobrescritos; o histórico fica).
+
 ## Problemas comuns
 
 | Sintoma | O que fazer |

@@ -36,14 +36,37 @@ def _tem(texto_norm: str, termo: str) -> bool:
     return re.search(r"(?<![a-z0-9])" + re.escape(termo) + r"(?![a-z0-9])", texto_norm) is not None
 
 
+def tem_vocab(t: str) -> bool:
+    """Vocabulário de futebol (início de palavra) ou padrão "Time x Time"."""
+    if re.search(r"[a-z] x [a-z]", t):
+        return True
+    return any(re.search(r"(?<![a-z0-9])" + re.escape(v), t) for v in C.VOCAB_FUTEBOL)
+
+
+def _clubes(t: str, tabela: dict, vocab: bool) -> list[str]:
+    achados = []
+    for clube, apelidos in tabela.items():
+        for a in apelidos:
+            if _tem(t, a) and (vocab or a not in C.APELIDOS_AMBIGUOS):
+                achados.append(clube)
+                break
+    return achados
+
+
+def espanhol(texto: str) -> bool:
+    palavras = norm(texto).split()
+    return sum(1 for p in palavras if p in C.MARCAS_ESPANHOL) >= 2
+
+
 def entidades(texto: str) -> dict:
     t = " " + norm(texto) + " "
-    foco = [c for c, al in C.CLUBES_FOCO.items() if any(_tem(t, a) for a in al)]
-    br = [c for c, al in C.CLUBES_BR.items() if any(_tem(t, a) for a in al)]
+    vocab = tem_vocab(t)
+    foco = _clubes(t, C.CLUBES_FOCO, vocab)
+    br = _clubes(t, C.CLUBES_BR, vocab)
     sel = any(_tem(t, a) for a in C.SELECAO)
     intl = [a for a in C.INTERNACIONAL if _tem(t, a)]
     comp = any(_tem(t, a) for a in C.COMPETICOES_BR)
-    return {"foco": foco, "br": br, "selecao": sel, "intl": intl, "comp_br": comp}
+    return {"foco": foco, "br": br, "selecao": sel, "intl": intl, "comp_br": comp, "vocab": vocab}
 
 
 def categoria(texto: str) -> str:
@@ -57,9 +80,8 @@ def categoria(texto: str) -> str:
 
 
 def eh_futebol(texto: str) -> bool:
-    t = " " + norm(texto) + " "
     e = entidades(texto)
-    return bool(e["foco"] or e["br"] or e["selecao"] or e["intl"] or e["comp_br"]) or any(v in t for v in C.VOCAB_FUTEBOL)
+    return bool(e["foco"] or e["br"] or e["selecao"] or e["intl"] or e["comp_br"] or e["vocab"])
 
 
 def jaccard(a: set, b: set) -> float:
@@ -77,21 +99,24 @@ def agrupar(noticias: list[dict]) -> list[dict]:
             n = dict(n, _tok=tokens(n["titulo"]), _ent=entidades(n["titulo"]))
             unicas.append(n)
 
+    # Cada tema nasce de uma manchete-semente; as próximas só entram se forem parecidas com ela.
+    # Comparar com a semente (e não com qualquer membro) evita o "efeito corrente", em que
+    # dezenas de notícias diferentes acabam grudadas num tema só.
     grupos: list[dict] = []
     for n in unicas:
         melhor, melhor_sim = None, 0.0
+        n_ent = set(n["_ent"]["foco"] + n["_ent"]["br"])
         for g in grupos:
-            sim = max(jaccard(n["_tok"], m["_tok"]) for m in g["itens"])
-            ent_comum = set(n["_ent"]["foco"] + n["_ent"]["br"]) & g["ents"]
-            comuns = max(len(n["_tok"] & m["_tok"]) for m in g["itens"])
-            if sim >= 0.34 or (ent_comum and comuns >= 3):
-                if sim > melhor_sim or melhor is None:
+            semente = g["itens"][0]
+            sim = jaccard(n["_tok"], semente["_tok"])
+            comuns = len(n["_tok"] & semente["_tok"])
+            if (sim >= 0.34 or (n_ent & g["ents"] and comuns >= 3)) and sim > melhor_sim - 1e-9:
+                if melhor is None or sim > melhor_sim:
                     melhor, melhor_sim = g, sim
         if melhor is None:
-            melhor = {"itens": [], "ents": set()}
+            melhor = {"itens": [], "ents": n_ent}
             grupos.append(melhor)
         melhor["itens"].append(n)
-        melhor["ents"] |= set(n["_ent"]["foco"] + n["_ent"]["br"])
     return grupos
 
 
@@ -99,6 +124,32 @@ def _representante(itens: list[dict]) -> dict:
     def centralidade(n):
         return sum(len(n["_tok"] & m["_tok"]) for m in itens if m is not n)
     return max(itens, key=lambda n: (centralidade(n), -len(n["titulo"])))
+
+
+def entidades_do_tema(itens: list[dict], termos: list[str]) -> dict:
+    """Clubes/contexto citados em pelo menos 1/3 das manchetes do tema."""
+    n = len(itens)
+    minimo = max(1, math.ceil(n / 3))
+    cont_foco, cont_br = Counter(), Counter()
+    sel = comp = intl = 0
+    for i in itens:
+        e = i["_ent"]
+        cont_foco.update(e["foco"]); cont_br.update(e["br"])
+        sel += e["selecao"]; comp += e["comp_br"]; intl += bool(e["intl"])
+    for t in termos:
+        e = entidades(t)
+        cont_foco.update(e["foco"]); cont_br.update(e["br"])
+    return {
+        "foco": [c for c, q in cont_foco.most_common() if q >= minimo],
+        "br": [c for c, q in cont_br.most_common() if q >= minimo],
+        "selecao": sel >= minimo, "comp_br": comp >= minimo, "intl": ["x"] if intl >= minimo else [],
+    }
+
+
+def categoria_do_tema(itens: list[dict]) -> str:
+    votos = Counter(categoria(i["titulo"]) for i in itens)
+    votos.pop("Notícia do dia", None)
+    return votos.most_common(1)[0][0] if votos else "Notícia do dia"
 
 
 def assinatura(tok_counter: Counter) -> list[str]:
@@ -194,7 +245,10 @@ def pontuar(bruto: dict, historico: dict, agora: datetime | None = None) -> list
     agora = agora or datetime.now(timezone.utc)
     termos = [t for t in bruto["termos"]
               if eh_futebol(t["termo"] + " " + " ".join(n["titulo"] for n in t["noticias"]))]
-    noticias = [n for n in bruto["noticias"] if eh_futebol(n["titulo"] + " " + n["busca"])]
+    for t in termos:
+        t["noticias"] = [n for n in t["noticias"] if not espanhol(n["titulo"])]
+    noticias = [n for n in bruto["noticias"]
+                if not espanhol(n["titulo"]) and eh_futebol(n["titulo"] + " " + n["busca"])]
     videos_tok = [(v, tokens(v["titulo"]), entidades(v["titulo"])) for v in bruto["videos"]]
 
     grupos = agrupar(noticias)
@@ -234,9 +288,8 @@ def pontuar(bruto: dict, historico: dict, agora: datetime | None = None) -> list
     for g in grupos:
         itens = g["itens"]
         rep = _representante(itens)
-        texto_all = " ".join(i["titulo"] for i in itens) + " " + " ".join(g["termos"])
-        ent = entidades(texto_all)
-        cat = categoria(texto_all)
+        ent = entidades_do_tema(itens, g["termos"])
+        cat = categoria_do_tema(itens)
         cont = Counter(t for i in itens for t in i["_tok"])
         assin = assinatura(cont)
         fontes = {i["fonte"] for i in itens if i.get("fonte")}
@@ -247,7 +300,9 @@ def pontuar(bruto: dict, historico: dict, agora: datetime | None = None) -> list
             "midia": nota_midia(len(fontes)),
             "aderencia": nota_aderencia(ent, cat),
         }
-        nota = 100 * sum(C.PESOS[k] * v for k, v in sinais.items())
+        # A aderência também multiplica a nota: um assunto quente sem ligação com o canal
+        # (jogo de outro país, notícia fora do futebol brasileiro) não deve liderar a pauta.
+        nota = 100 * sum(C.PESOS[k] * v for k, v in sinais.items()) * (0.55 + 0.45 * sinais["aderencia"])
 
         coberto = None
         for v, vt, ve in videos_tok:

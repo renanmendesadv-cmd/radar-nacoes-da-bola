@@ -73,3 +73,39 @@ def test_main_ponta_a_ponta(tmp_path):
     assert dados["temas"] and dados["termos_futebol"]
     html = (tmp_path / "data" / "ultimo-email.html").read_text("utf-8")
     assert "Gancho" in html and "Grave primeiro" in html
+
+
+def test_ruido_real_da_primeira_execucao():
+    # Casos vistos na 1ª execução real (24/09/2026)
+    assert not score.eh_futebol("Quaest: intenções de voto para o Senado na Bahia")
+    assert score.entidades("Bahia vence o clássico e sobe na tabela")["br"] == ["Bahia"]
+    assert score.espanhol("Con James a bordo, Nacional recibe a Millonarios")
+    assert not score.espanhol("Flamengo recebe o Palmeiras no Maracanã")
+    assert score.categoria("Golpe no governo") == "Notícia do dia"
+
+
+def test_sem_efeito_corrente():
+    base = [
+        "Flamengo vence o Bahia no Maracanã",
+        "Flamengo e Corinthians disputam final feminina",
+        "Ingressos para final feminina entre Corinthians e Flamengo",
+        "Corinthians atrasa parcelas de acordo com a União",
+        "Palmeiras anuncia venda de ingressos para o clássico",
+    ]
+    noticias = [{"titulo": t, "fonte": f"F{i}", "url": "", "publicado": None, "busca": "x"}
+                for i, t in enumerate(base)]
+    grupos = score.agrupar(noticias)
+    assert max(len(g["itens"]) for g in grupos) <= 2
+
+
+def test_aderencia_rebaixa_tema_sem_ligacao():
+    agora = AGORA
+    ruido = {"termos": [{"termo": "costa rica x curacao", "trafego": 5000, "publicado": agora.isoformat(),
+                         "noticias": [{"titulo": "Costa Rica x Curaçao: onde assistir ao vivo", "url": "", "fonte": "A"},
+                                      {"titulo": "Costa Rica x Curaçao: escalações", "url": "", "fonte": "B"}]}],
+             "noticias": [], "videos": []}
+    b = bruto()
+    b["termos"] += ruido["termos"]
+    temas = score.pontuar(b, {}, agora)
+    posicao = [t["tema"] for t in temas].index(next(t["tema"] for t in temas if "Costa Rica" in t["tema"]))
+    assert posicao >= 3

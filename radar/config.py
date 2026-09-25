@@ -24,6 +24,14 @@ CLUBES_BR = {
     "Mirassol": ["mirassol"], "Ceará": ["ceara"], "Juventude": ["juventude"],
 }
 
+# Apelidos que também são nomes de estado, cidade ou palavra comum. Só contam como clube
+# quando a manchete tem vocabulário de futebol (evita "Bahia" em notícia de eleição).
+APELIDOS_AMBIGUOS = {"bahia", "fortaleza", "ceara", "santos", "galo", "colorado", "sao paulo",
+                     "juventude", "mirassol", "athletico", "sport recife"}
+
+# Palavras típicas de espanhol: manchetes nessa língua saem do radar (canal é em português).
+MARCAS_ESPANHOL = ["el", "los", "del", "con", "y", "hoy", "recibe", "partido", "futbol", "las", "ante"]
+
 # Competições nacionais (aderência média mesmo sem clube citado).
 COMPETICOES_BR = ["brasileirao", "serie a", "serie b", "libertadores", "copa do brasil",
                   "sul-americana", "paulistao", "carioca"]
@@ -41,7 +49,8 @@ VOCAB_FUTEBOL = [
     "futebol", "gol", "jogo", "tecnico", "treinador", "rodada", "campeonato", "brasileirao",
     "libertadores", "sul-americana", "copa do brasil", "escalacao", "elenco", "contratacao",
     "reforco", "arbitragem", "var", "penalti", "cbf", "stjd", "torcida", "classificacao",
-    "zagueiro", "atacante", "goleiro", "meia", "estadio", "clube", " x ", " vs ",
+    "zagueiro", "atacante", "goleiro", "meia", "estadio", "clube", "partida", "classico",
+    "placar", "amistoso", "selecao", "elenco", "titular", "artilheiro", "torcedor",
 ]
 
 # Buscas no Google News (últimas 24 h). Cada uma vira uma consulta RSS.

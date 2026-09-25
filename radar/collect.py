@@ -8,6 +8,7 @@ Toda falha de rede é registrada e ignorada: se uma fonte cair, o radar segue co
 """
 from __future__ import annotations
 
+import json
 import logging
 import re
 import time
@@ -28,7 +29,7 @@ NEWS_URL = "https://news.google.com/rss/search?q={q}+when:1d&hl=pt-BR&gl=BR&ceid
 YT_FEED = "https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
 
 
-def fetch(url: str, tentativas: int = 3, pausa: float = 2.0) -> str | None:
+def fetch(url: str, tentativas: int = 3, pausa: float = 2.0, insistir_404: bool = False) -> str | None:
     """GET com poucas tentativas e pausa crescente (respeita limites das fontes)."""
     for i in range(tentativas):
         try:
@@ -36,7 +37,7 @@ def fetch(url: str, tentativas: int = 3, pausa: float = 2.0) -> str | None:
             if r.status_code == 200:
                 return r.text
             log.warning("HTTP %s em %s", r.status_code, url)
-            if r.status_code in (404, 403):
+            if r.status_code in (404, 403) and not insistir_404:
                 return None
         except requests.RequestException as e:
             log.warning("Falha de rede em %s: %s", url, e)
@@ -172,6 +173,32 @@ def parse_channel_feed(xml: str) -> list[dict]:
     return videos
 
 
+def videos_da_pagina(handle: str) -> list[dict]:
+    """Plano B: lê os títulos na página /videos do canal quando o RSS do YouTube falha
+    (o feed às vezes responde 404/500 para servidores de nuvem)."""
+    html = fetch(f"https://www.youtube.com/{handle.lstrip('/')}/videos")
+    if not html:
+        return []
+    videos, vistos = [], set()
+    padroes = [
+        r'"videoId":"([\w-]{11})".{0,600}?"title":\{"runs":\[\{"text":"((?:[^"\\]|\\.)*)"',
+        r'"contentId":"([\w-]{11})".{0,1500}?"title":\{"content":"((?:[^"\\]|\\.)*)"',
+    ]
+    for padrao in padroes:
+        for vid, titulo in re.findall(padrao, html):
+            if vid in vistos:
+                continue
+            try:
+                titulo = json.loads(f'"{titulo}"')
+            except ValueError:
+                pass
+            vistos.add(vid)
+            videos.append({"titulo": titulo, "url": f"https://www.youtube.com/watch?v={vid}", "publicado": None})
+        if videos:
+            break
+    return videos[:15]
+
+
 def coletar(buscas: list[str], handle: str | None, channel_id: str | None) -> dict:
     status = {}
 
@@ -190,8 +217,10 @@ def coletar(buscas: list[str], handle: str | None, channel_id: str | None) -> di
     videos = []
     cid = channel_id or (resolve_channel_id(handle) if handle else None)
     if cid:
-        xml = fetch(YT_FEED.format(cid=cid))
+        xml = fetch(YT_FEED.format(cid=cid), insistir_404=True)
         videos = parse_channel_feed(xml) if xml else []
+    if not videos and handle:
+        videos = videos_da_pagina(handle)
     status["Canal (RSS YouTube)"] = len(videos)
 
     return {"termos": termos, "noticias": noticias, "videos": videos,
