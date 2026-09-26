@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-25T15:52:30.531818+00:00",
- "data_br": "25/09/2026 12:52",
+ "gerado_em": "2026-09-26T15:03:29.915870+00:00",
+ "data_br": "26/09/2026 12:03",
  "status": {
   "Google Trends": 10,
-  "Google News": 1000,
+  "Google News": 987,
   "Canal (RSS YouTube)": 15
  },
  "canal_id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
@@ -60,8 +60,8 @@
   }
  ],
  "termos_futebol": [
-  "jair cunha",
-  "mauro junior",
+  "áfrica do sul x guiné",
+  "eslovênia x escócia",
   "globoplay"
  ],
  "pesos": {
@@ -72,228 +72,119 @@
  },
  "temas": [
   {
-   "tema": "Dupla do Corinthians é titular em empate da Seleção Brasileira contra a Austrália",
-   "categoria": "Seleção",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 68.3,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 97,
-    "midia": 96,
-    "aderencia": 100
-   },
-   "trafego_google": 0,
-   "termos_trends": [],
-   "n_fontes": 9,
-   "n_manchetes": 12,
-   "assinatura": "selec|austr|brasi|empat",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Lista ou ranking (3 a 5 min)",
-    "gancho": "Se eu fosse o técnico da Seleção, a lista seria outra.",
-    "titulo_thumb": "A MINHA SELEÇÃO",
-    "pergunta_enquete": "Qual sua opinião: Dupla do Corinthians é titular em empate da Seleção Brasileira contra a Austrália?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Goleiro do Corinthians e da Seleção Brasileira se destaca",
-     "fonte": "SóEsporte",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdkxteENzbV9ienlWODdVbGJKTFAyc2RxMHltelpUQ3o1b2ZjVlBUelBFcW1URV9kVV91WFJEcXViMzhISWxYUUpBVUdOdzV5UGhUNE5aZWNkMTJzTk8wOVI2UTlqUjM0bU1ITnhyY3N3TXdBRHItbjRrWHBRckIySVE4ZXVuSXNRbXl3?oc=5"
-    },
-    {
-     "titulo": "Imprensa internacional repercute empate da Seleção com a Austrália: “O Brasil já não é o Brasil”",
-     "fonte": "365Scores",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlUtMUNWWWZzMVlUWE9WZmZ3QndDQUpaUnFBbHdobU1pOTVCQWZxVEIyZl9CaFRDSDZlTk5SNVRCbXBaajFPdmxNY3ZFdEFzdGxyX256REFfd1dUQ1hHekc1dmJCY090ZkxQM0NQS1BJd05HUXllSTBXdERmNTNlNjBqcVZfOWpZeDVGSUpEeVhkZHN2V2xaNkN3?oc=5"
-    },
-    {
-     "titulo": "Seleção Brasileira fica apenas no empate em amistoso contra Austrália",
-     "fonte": "band.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcmZhWjFLOEE2QmYyT2RsMG1zWnZJcThkYmhVZlUtZEtrRGMzV2NwLXlJakFGUmZWelhIZmFfR0RuVUhCM2p5Ums3bHFuTzdiYVh6Q1lxZkhtRkIzNmZWdGVCTDNGU2VFTDd4VWo0X0tiR204UHhLbFIwWXNDOG8zeW5UcHl5dFF3VmcyUGhxVWd0a0VUdVFjNkI4ekkwM3phenZva0s3Szh2alZEUVJwVXFHejBaSTFRRzd6UXFPTndyMXRQSW1EVw?oc=5"
-    },
-    {
-     "titulo": "Atacante australiano cita Corinthians e Memphis após marcar golaço contra a Seleção Brasileira",
-     "fonte": "meutimao.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaEthcmJocmw4cFRxcWVyU2hYUDRRVV9xbDVIbm9GanVRX3VOUmU2X1RvR0szblgzalBNZmw5amREcnpkak84RG0wd0prQTQtZkdPWlV6MXFiMjJOYnZkYk5rVjloTG90aHR2MkprVVR3NGFZVE9UQmRBVml4UWNzV1dJNjBmMC1hRlVvZWhHVUVCbTRVcV81amRQYm9GV0VqUzMyNHQ3SnIzVkNYbDFzU0lzeHJhWllDVHk2ZTdkRExNYUtmT0JHa3BuNUxXZlNIMWVXX0t0NnNPY19Wczg4UWgzajJETFFK0gHYAUFVX3lxTFBKejNLcERXbE1XNU9NdGNuaVdBOEhrQlJNbWRWdV9zVUIxbjd6YWtFSzNlTC1acnozcFF1UkYtWEJ4ZHhXSDV1ZmRXS19HTmY1NWFfcXV0TDFqeGVqQXp0UTdwODhDeXhaN1dnSlJwT0pVNGFKaTVtUGNnTk11RHhGTlZ0Y0lnQjUyUV9jSUM3QV9nbGsyVzRfcUNtckxMeUdhV3NhNEhJT0NoVUc0amliRXQ4RUs3TFNRdjNaOEd6VTFBcEpmOUxtdzFFbUx0b2VwNXd4MTlSNA?oc=5"
-    },
-    {
-     "titulo": "Cotação ZH: as notas dos jogadores da Seleção Brasileira no empate contra a Austrália",
-     "fonte": "GZH",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWXFxQXNYb18weWxqcjduUmwxRmV5RldSanlfMnBJb29YTEg0ZW51Tnc3OHpuUWxpdlJaUjFXeUhXTHcxTEozc01DazRSQnFOZXRYOFg0cTNPWTBQS2JRSlRVMHo2YzM5T1ctVjB6d3dUc212V1lFS3BsUzR4S2VnSHp3LXcwUHowNjEtTkQ3ZDZxOEZfcl9EVngycjR6WTlWZ293eTB4c0M1QVhlVUZtZkdTMWJfLUVEMUxYUVQwNWhpRkhOUVUzT0lJamxqdE0ydHJIUkxxQ2xMWjllUlRkYUhFYUVKN25uSmczNUxKUWZtcE9vQUZuN3BJN21jOFJIb0E?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Corinthians x São Paulo: onde assistir ao vivo, horário, palpite e prováveis escalações da final do Brasileirão feminino",
-   "categoria": "Jogo e resultado",
+   "tema": "Corinthians x São Paulo hoje: horário e onde assistir ao primeiro jogo da final do Brasileirão Feminino",
+   "categoria": "Arbitragem e VAR",
    "clubes": [
     "Corinthians",
     "São Paulo"
    ],
    "foco": true,
-   "nota": 64.3,
+   "nota": 62.0,
    "sinais": {
     "busca": 0,
-    "aceleracao": 81,
+    "aceleracao": 73,
     "midia": 100,
     "aderencia": 100
    },
    "trafego_google": 0,
    "termos_trends": [],
-   "n_fontes": 16,
-   "n_manchetes": 22,
-   "assinatura": "corin|femin|brasi|paulo",
+   "n_fontes": 34,
+   "n_manchetes": 44,
+   "assinatura": "corin|paulo|femin|brasi",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Esse resultado diz mais sobre o Corinthians do que o placar mostra.",
-    "titulo_thumb": "CORINTHIANS: O QUE O JOGO REVELOU",
-    "pergunta_enquete": "Qual sua opinião: Corinthians x São Paulo: onde assistir ao vivo, horário, palpite e prováveis escalações da?"
+    "formato": "Corte de debate (30 a 60 s)",
+    "gancho": "Foi ou não foi? Olha esse lance antes de responder.",
+    "titulo_thumb": "FOI PÊNALTI?",
+    "pergunta_enquete": "Qual sua opinião: Corinthians x São Paulo hoje: horário e onde assistir ao primeiro jogo da final do Brasile?"
    },
    "manchetes": [
     {
-     "titulo": "Diretora do Corinthians revela ansiedade por final do Brasileiro e disputa da Libertadores Feminina",
-     "fonte": "meutimao.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOelRiVi1QWEktdzJJUDBIOHdZQWpXY212MEhyaExDZXVpVmZqTHdwTXdTOTk4bm1USjNTd19JRGU3WXk5OEZWZEVCcGgxUzEwckhWeklUVVlGTXRqamdwVjVmZGxYcWFSUjNqdGdpMWo5SVhwcDg2bVpkQWJpZkE4VFJWR0RjM0Q3YThTWUVtU1Z6NWxSbTNjaUhzdzREbHNERVJXQ2x3NWZCcU1DLUtMUENjS1IzY002Q0VSTDQ2QWRTMi00M2RBck9RWXkydXA3aTBNVnRCNWpsRjF2ejFKRWpTU0hjZHZkTzN1c1lwVdIB3wFBVV95cUxPVnNZQ0tpSTJBLWs5UDVPSWI1VHJFNlNWV0xEUDU1ejItNExkUFVhLVIzdEUzekllLTc5b3lHZXQ1c1hNUDd4U3VrUFY0RDVoakkxdEo4TE1XVjhPdm1lalRtWUwxMzkzM1Z3dnNxNDBrTU5SVG4wWjFzSkh6OFFoUDZFaGtkZngzYTJQUEljbGx6cVNRTWwyS0JLVC1zZEhrQWRiZmRCemZHb254dllQZ0RkRExsY1pKWWNNTWJyOGw1dTV2LS16WWxyVWpBTklmTzBUOWRGbWRtZkYyeFZ3?oc=5"
+     "titulo": "Corinthians x São Paulo pela ida da final do Brasileirão Feminino: veja detalhes da partida",
+     "fonte": "arqtricolor.com",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHY3Tm4xYnM0UGtlY0pnU0RxLTc2Q2pQNHNWSDNQTHAtV3V2RDFKR0NpU2ltdndOazUyWndUQnZsa3loMTEzeDdNTm1QTHJkRmR4SVpONW9nLVBzVHgyeC0zeWU2Smxmd2lqQU9GWDNmUlBPVlFNYkZuZW9XS3JTSnkxa3lacjFvVUtCMlh6QXY4QW9HZzBCdXZ6cTNxVFZvRUE?oc=5"
     },
     {
-     "titulo": "Ao vivo: São Paulo x Santos | Rodada 21 | Campeonato Brasileiro",
-     "fonte": "ge.globo.com",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOGZEX0Y5UjU1c2drVTZObGpRQzR1cXFhZHFtUU5LRkp4QmxibXVRMXcwZ2MyT2lnR2hJSW1Sb292M05GQzc2QmFSYzFRSFpDbmFua0pGbHpCaDgtbWdkSVRoY0lKcjNUalNLZGpTSWxRM0RXY2dZdWFZTC1fX0dzdXowOGNlVVFMOXlPempVSzhYS0lH?oc=5"
+     "titulo": "Corinthians x São Paulo: onde assistir à final do Brasileirão Feminino",
+     "fonte": "O TEMPO",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGdMUjhiQXFGMGFRVm52WVNKb0xCRnplQnFsUnM0Rk5OQy1RcVMzUDFobV80ZjZ2dzB5RHBKenJSRzZPN3phcDVpdG1NN1BROXR0SDFTZktQOF9aTU83RTloTEtSN1VzMW9rS2JtUFpVWmQ3Tk5WZlJRbEZKWmJVTktmcHFhbkUxNzI5V0VNcDRGSFpJNXJpU0hEMXBDUENBcVJoSFNSampqakRUeEFWbnVxZWZnQ0VHY25ycTNqYjkzWmtm?oc=5"
     },
     {
-     "titulo": "Corinthians e São Paulo disputam final do Brasileirão Feminino ao vivo na TV Brasil -",
-     "fonte": "Portal Cambé",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVDV3c0o2QjNRaERFdjJDM0ZISDFhbmF6Qk5ibzlRZWpXU0ZjaUY0aXp6ZzM1dk55eHh1MFdkQVhzbDhkLTEzN2h4TjZubTE2cmN6SHRFUHcyNmk0aWtadjY0cHhpRVNHWHVuMHppYlZ4SjdoRkxZS2ZaUGIzTGxfUTJTaEJjR0FsNklnMW5rcw?oc=5"
+     "titulo": "Corinthians e São Paulo rivalizam em final do Brasileiro Feminino",
+     "fonte": "redeutv.com.br",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXRvVVExUGtZMHF2TEJ1ZFBoaVdmZlhMbUFYX1JzT2ZmeDlNaFpodkdrNlFFQkFER1Y0TTRVa004a0VJY1ZJa0wxQWV5SXVOZWZEaDhjTTRHX0NNcXpMX1loR3l4Q290ejBDSTU3em5jclpNbEYzeV9ERzlKN2dXak8zVVpCWnZwNHlndjJzSTZVUQ?oc=5"
     },
     {
-     "titulo": "Brasileirão Feminino: TV Brasil transmite Corinthians e São Paulo",
-     "fonte": "TV Brusque",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjJGR0gxYno2SkgzNW1jYTJGSnY2WmsyOXBoZkdHY3FYU2dBNVFZVjBnY0ZnbmxUTFo2YlRrcDV1WEZ1OGVMSy1LbFhER2F1cDAtbUVOd3AtX0IxUHY4MlZKX2lvamZjMkFlcDluUV91WDBKa1Fyb3M4NGJiSm1MNFNxNTY3TW5pVTFIeWdwLVRvM2thamw2eVhpc25XYWdURExTVG9hODFNRktmdDl4c0hR?oc=5"
+     "titulo": "Corinthians x São Paulo: Veja como assistir a final do Brasileirão Feminino",
+     "fonte": "Tribuna de Jundiaí",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaDlaVmdGem1YX2xuMmpGRnMzSE1CSWh4Rm1tOVdYdjN6R0RjcFZrQXp3U1RYUkFNSkxpUXdiVEF5ek05WDNYYjhUV2xMNE1DSnlQcG1RN1VkUkN2YVp0b2ZiNnVmZU13YURrY3FrQ0pmc2xpSVlVQUtNQUtJaFkzUGN6Ym9kV1ZmRS04X2tHQmlhR1lLN1Q4UmVPa3ZlWnh6SWRzNzFGQUplenV4Mk1YenpCQkI2YzQ?oc=5"
     },
     {
-     "titulo": "Corinthians Feminino em busca de mais um título no Brasileirão",
-     "fonte": "meutimao.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTWdIb2tobTlWX3JmYmVBQ1dLUDFkV1JYYlRIWmVJaVhoTDhobGZYTDRiWFV1YWRKdzZCMnNvSS1NOWlSTktrMlAydUQyVEtOZlRITG5xRFM3WmRfOWJrQm54UGM5Zl9admhiWmdEc0tYTExvQ1NSNi15dExKYkRrR29JZjRfckNsTlB6bVFTZGVOak9ad2ctUWd1RmRqQ3RZU1ZsTWZNYzBnU19oOGpWRDdIWTYybUF5UVdF0gHAAUFVX3lxTE12dDQxbDZ2ZndHS3ZBYnJ4X3dxNksyRHN0MklaSThHVUxOT2JseGtRa0tSdS1uZi1wal9JZUhSUE93RXRtQzF1SDNBSjRManQ4ak9oNTFSSVhFNG9aYXp0azBUVldlWU9uSXc3UGp2Z2U2Q3pGd1hYa1NPeEdvczVvSGxuOTVjMlI0UHI1NEJhaWxTTHZKYmlzMjAya3YwQXRzQ21KcWFibXgzdVdHZ3JranROei12X3d0ckQxUnA5dQ?oc=5"
+     "titulo": "Corinthians e São Paulo fazem 1ª final do Brasileirão feminino; ouça na RB",
+     "fonte": "band.com.br",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS3ZpRUF0REFMZ0YwRHhzbnRTTU9pTkVXQ1lFeWYxQlprQkVNS0Q4NTRQZUxhUWNuU2U3WXdHXzh6LVl4U0NEb2I5X1NZYTBvak14SU85SGRGLUVTY3Y0T0VkS0NsMHhwaXBTTzlTNEhvVXZPUUJ0T09kbTRMS2F2Y01xQk5xdU1BTzNNX2RDQXVvOV9MYXF3QTh2ZmE3eE9jbEYzcVZYSmtDWHhSdy1N?oc=5"
     }
    ]
   },
   {
-   "tema": "Estudiantes confirma estádio para semifinal da Libertadores contra o Flamengo",
-   "categoria": "Notícia do dia",
+   "tema": "À CNN, Bap estima perda de R$ 430 milhões no Flamengo com fim das bets",
+   "categoria": "Polêmica e bastidor",
    "clubes": [
     "Flamengo"
    ],
    "foco": true,
-   "nota": 58.7,
+   "nota": 59.1,
    "sinais": {
     "busca": 0,
-    "aceleracao": 68,
-    "midia": 92,
-    "aderencia": 100
-   },
-   "trafego_google": 0,
-   "termos_trends": [],
-   "n_fontes": 8,
-   "n_manchetes": 8,
-   "assinatura": "flame|liber|estud|semif",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Todo mundo está falando disso. E você, concorda?",
-    "titulo_thumb": "FLAMENGO: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Estudiantes confirma estádio para semifinal da Libertadores contra o Flamengo?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Estudiantes confirma estádio para semifinal contra Flamengo",
-     "fonte": "vgnoticias.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaUlrQ0VGQ0lUVEhLdWhtSUdmbTZrdE1vMnlYT0pjOVAyelRCV1Jyc2UwYVRxVHJwbzRWaXgwWTJlY2hNb0RhUFAwVlRrTXlDekNVa1hIVEJfWW03VVFHNnlXbnFtX3RQU21mQkhtNmFpUzJoeXRQaTc5bXZ2ZFdEOU1ldkdwRU5lNF9veHlxek5xalVOTWdjWk5TdTFzV1JQbVpuRVduRFc?oc=5"
-    },
-    {
-     "titulo": "Flamengo avança às semifinais da Libertadores e confirma datas contra o Estudiantes",
-     "fonte": "boca.com.br",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNajRJMy1lLUhZeGdnUVFMMFNrUU5KZVZxeC1yWHdUbkg3UXl6TnlsY0dvS0pVUDl4aEhFWE5pdVpkOXJseVBOUDlNTGpZZm1Pb3k2amJRa3Bpenlsb3p4ZnRTWEZyY0FpVUp1RU94a3J6c0h4ekJXb05hZkYzS2I5bA?oc=5"
-    },
-    {
-     "titulo": "Flamengo enfrentará Estudiantes no Estádio UNO pela semifinal da Libertadores",
-     "fonte": "JM Online",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaUUzWUs2bFF5OXJ5cWRKTGRQOS1neEhvcTlQV05lX2ZWNWVSelVDTUQ5d3A1eVZDVm54YlBscGVlTWhhN1pTa2dHNjVabjVMVHZJSWlZRnZzMld4anBCUzFPbVg1RGtTN2xlY3VySG5UamZPNjltcW8zQXpQekVvMkt0Zi1XTkk2cm9PbTMya3E3WHZ1aXpRX0UxRDRKMWliQVVyN1lTX2Ria2NXeFRHOTFEM0VvdFRnSGfSAcIBQVVfeXFMTnVQT3lxdWlHTTVjMmxlUGZwZVdEQzNvaDJNNmlEWjVIZy13b2ZFa2xDejF4VXNvb3N0Mmd5RVF4ZGN3OGl4SXNHNjB5RlpXT1pqOEx1QmFyU0hoVTlRSmctWU5qMEFfQlJMRWVuOFFVeFpSeWt5MHBPcWwxUWtpX09TZVFnbGZKTnVfbzlrSlVEVVRGZFUxWjNqeVBGem0tcjdTaXVFdUVJbTVkYzJqX0NkcXowT0ZrbGpUd3ZMNnNtZWc?oc=5"
-    },
-    {
-     "titulo": "Libertadores: Flamengo já sabe em qual estádio jogará a primeira semifinal",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcE0zcEcyXzdmcU8xdWR6U0UxS0dNMkk0WWlwb2MyTl8zS0s0YUFTd1Q1bnBOU0IycEQ0MEpCWG13Z0ozYnl1T1MwVU0yNndvWE9XTURfNlJJZ1pGeTk5R004SVJuOFNaLWsyam5feE9UV3gwY2tBSUxEY1VsdXRTTXowNkdNNmstem5ZMDVZTmJKYVNxWU9DaG5OaVU3WVI3SEF5SWZ6NFU4aFRMMmljaUhJOTdaUWUta0I3Z3hIQmVJSkRoUFptMg?oc=5"
-    },
-    {
-     "titulo": "Estudiantes confirma estádio para semifinal da Libertadores contra o Flamengo",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ05xMTN1WHB5UFYxUk5XNmJXZlM1TGd3MnFNbnBPaXV4T1lpQzFtZjd1dHhHUmJpX0J5X3JDTld2SXliU1ZCVllPWWRSVXo4enZibGJYTDVNTVcxTm1qQmpMVC12XzMxXy1yYVlEbHFPYWpuY2R4RHJyVGU1Z21sSkFiZDRDakZaa3gzQ0xUdFhwaE1jZGJZZ1dVQ2dBSER3aUQyVzk3eEZjT1c0VDN5Rl81cF9tVW0teThEa2txOFJsb0wtNWJCT9IByAFBVV95cUxOQ05xMTN1WHB5UFYxUk5XNmJXZlM1TGd3MnFNbnBPaXV4T1lpQzFtZjd1dHhHUmJpX0J5X3JDTld2SXliU1ZCVllPWWRSVXo4enZibGJYTDVNTVcxTm1qQmpMVC12XzMxXy1yYVlEbHFPYWpuY2R4RHJyVGU1Z21sSkFiZDRDakZaa3gzQ0xUdFhwaE1jZGJZZ1dVQ2dBSER3aUQyVzk3eEZjT1c0VDN5Rl81cF9tVW0teThEa2txOFJsb0wtNWJCTw?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Dupla de R$ 630 milhões: Palmeiras tem os jogadores mais valiosos do futebol brasileiro, diz estudo",
-   "categoria": "Mercado da bola",
-   "clubes": [
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 58.6,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 62,
+    "aceleracao": 64,
     "midia": 100,
     "aderencia": 100
    },
    "trafego_google": 0,
    "termos_trends": [],
-   "n_fontes": 13,
-   "n_manchetes": 15,
-   "assinatura": "palme|brasi|valio|jogad",
+   "n_fontes": 10,
+   "n_manchetes": 11,
+   "assinatura": "flame|bets|milho|estim",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "React rápido (1 a 3 min)",
-    "gancho": "Essa negociação pode mudar o Palmeiras, ou virar o erro do ano.",
-    "titulo_thumb": "PALMEIRAS: VALE O INVESTIMENTO?",
-    "pergunta_enquete": "Qual sua opinião: Dupla de R$ 630 milhões: Palmeiras tem os jogadores mais valiosos do futebol brasileiro, d?"
+    "formato": "Explicador de bastidor (2 a 4 min)",
+    "gancho": "O que ninguém está contando sobre essa crise no Flamengo.",
+    "titulo_thumb": "FLAMENGO: O QUE ESTÁ POR TRÁS",
+    "pergunta_enquete": "Qual sua opinião: À CNN, Bap estima perda de R$ 430 milhões no Flamengo com fim das bets?"
    },
    "manchetes": [
     {
-     "titulo": "Flaco López vive jejum de gols no Palmeiras em fase decisiva da temporada",
-     "fonte": "Araraquara News",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNTJ5WnBUVHMtTTAtSUo4cWdYT0ZUV2Y2NFM3eE9TZkUyTzFPTDdBbmNGZ09jMExJQmluTTFQQ3o0QWhhTTk5TXNfMkRtbElNM2ZQdFNpWG5hRDFPM3J3dlFLb0p4eFpqQXZhRmFReEtfeFMzYXJ4VzVNSlRVV0FGRjVEYm8tWlIwYjNkRF9qcDZTQ1JiWEpTdjFIT3pWNXRMc3BnTEh5ZmpSQ21Sek9lSmFZdE1YZw?oc=5"
+     "titulo": "Bets: Flamengo estima perda de até R$ 430 milhões com proibição",
+     "fonte": "BPMoney",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2hvemhmYVoxV2tpbWJNUHhkM3NlSUE2S1ZHNHZocHZSNkxZQm4zbGd1WE1weWtmMW9GOGNMcWFRRUszc1F4VUZvUlFnQ3RjTlRESXZKMEp4dTJjZUlTV21Fd241ZjRnUVVrRktIV1hpYWFPM25YTmZPdnhnbjctLWNFOHBwcWs2NTdsbEJmdVJKRzREM2NYT2VR?oc=5"
     },
     {
-     "titulo": "Flaco López segue na mira da Europa mesmo após renovar com o Palmeiras; entenda",
-     "fonte": "Palmeiras Online",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRFNVTm1Kc1IxdjV5ZnlRQVQyR1hvRlFmb1pJTjluTktUUVczVEY4RkNDZmxOVUVIZTY1cWQzcXQwRThoWGNhWVR4aURUb3ZfdnlqcGpRQzVUdFp3M2VfcllSY3pjT2RMMlNqaW1HWndmbjdjWktKYXhhMVhWMHV3blVPVTlfclk5dm82eW1wX2FCS2dteHpxYzBVTUs2eDFHMU9qVEx3NDVGdTJ3Y25qdEJGUlJpa2ZJYXc?oc=5"
+     "titulo": "Rodrigo Mattos: Por que o Flamengo estima prejuízo em R$ 400 milhões com veto às bets",
+     "fonte": "UOL",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdnlVdm9yV3RjWHg1SG9Jd3ZwQ0pVdnBGaTVqQ0lQSVRBUm96Qll5emF1aGxjdVhNME5nczJJVmRWdkhMMW9rT2cxRVRtZUJaQThKblB0azRlcnVKc3JDQ0x6QWxGdmt2S3JhVkxSUGxsTjQ1VjV1YkJnbVJGYkFMUjBBT2c0aHlIeVR0eXpmakJVbXR0RVdXSzF3al9IcTNIcXZlMmp1X3o5Y1pRU1BHOTVCTnJpSkg5RXgwVGJFdjYxdXZKSEp4MFlGSWtzWmVSRnEw?oc=5"
     },
     {
-     "titulo": "Artilheiro do Palmeiras no ano, Flaco López completa um mês sem marcar",
-     "fonte": "iG Esportes",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeWFiUW8xVUhoa3FJck1jSjFoN2QzYzg1cGN4Wmhqd05zQ1FsOVprQUZPTFotaXpLeVV6U05iRkY5dFFMeWEtS2tLN3UxNzBudUt0aUl6NmpCQmJ1RjRJZ3p3ZUpLSzgzdmx1WWpqekxHejJ3V3h4bm12RVQ0Ymo4OWNBZllNVVN1eWFqSnhTQmtNTUpLY1ItaWVtY1lBb1ZrVU5rX1VLM0k0VjFiRzdHOS1nZ3BtTnF1NU9PTWxwRzBPOEttb2dhblBxTQ?oc=5"
+     "titulo": "Sem bets, Flamengo prevê impacto nas receitas em 2027. Prejuízo deve chegar a R$ 400 milhões",
+     "fonte": "jmonline.com.br",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTk5GVmNHMUJ1alk3TUhNWkpoNHNkeGg4cUFNMzJpSEZWNWo5eWRhUmlJQlRrWk9Wc05GcG9DN1hSZ0U4Y3pDeGwtMmFWT1Y2VmozaExvVUMxV3BIZVFseG93OHBhcDB6UXZFRUVzek80dnZrZHczbG51cTdEcGxIb3Y4UU9yTlhfSHZRQ3UxNUtzRkpGV05xSmhqT2RISzFrc1pVS1ZfRERIZHAwNmxQeW00LWZOQXZtQ0ZPV0x2OVh5ZUtiZmxJbF930gHSAUFVX3lxTE1GNzVSdHRUbC1iaTFYQTVqc0F5eS1yY3drYVlGT2tqRVFzV0JEUXlpSDlhLWxOYldoZ2x0bE9HOUtVclJuLTNQRkliS3pxTkM1bXlfWm10M1l0aTIxNW4wWVVuQlIxbVotZ3hSWGtwQnU5RDhPMUxHRmM5MVJhN1BlM01WbkNCRFJIWlU0WU8xMmsyNWRkYlBaa2FnQWtXRlZGeDdTTFB2eUZmV25CalJLSGZsbWh5eWVWSFJzY2pHRmVrOTJkczY4Sy1Vd1ZzenJWdw?oc=5"
     },
     {
-     "titulo": "Flaco López vira jogador mais valioso do Brasil com salto de 810% em quatro anos no Palmeiras",
-     "fonte": "ge.globo.com",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWlM5b1FBbkZ0RmVKdm8yOUpjM3cwdWVORm80Z0Q5dlNCNzFIZkNMcXdjOFhKdktBUW5Pc09UTFM3c2NvelA0c2treGRWYVlPTDRlNVZSMFBJcEwyNEpVMzkyS1E1SEF1M1FmcU5XZzl2Q0F4TnNVclA0SGpTRDhGc1daVi1VaUlOdUo1YjJWcDBnaWs4N2pMUHl6ME0zQWxWcUUydExLR3RHcm1IOFN2N0NOS0EzM0pURVpzYjNRX1gwLUNrOHBkdnFXbE1sZk1DSEZmdkJsZ05iWHhTWHlfYmZoX2ZoNE5qWVFvUGhCZGF4azlKX25LOF9ONmNyUdIBjAJBVV95cUxOTjc4QXVCS1FXeXhNS3E1T2VkbTNyVlkxMmtfOUkwVWJDRFlLSHBvYWwyMGNINXNBZDFrSWZBYTlLTDB5VUNIbXpaRWp1VVlETGpkNEVYREdTQlF4R2JNak9BRVNrM2g3ZC1nTEhabVNCRl9DZlRuVG1ZVVlza1BSVGxpOXNIWm9iODlhalR5QkpOc1paV0pYMkJkN0hQZzFINU4wS3R3OUpBNHFZTlFhajJRaTZ3d1hBR1BQMlVwbFA2WXoySkowLTBFZEE4T3pOdnJTSDFBNkc4YnhmcXFPc1pJb2Q1RVlvZjJsU2IxQmNLTkM4NlpfWDV2cjM1cTFFbXJXcXJMY25HRHZs?oc=5"
+     "titulo": "Flamengo estima perda de até R$ 430 milhões com fim das bets: “Impactos desastrosos”",
+     "fonte": "Agora RN",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAteGllVE9fSlk5Zk02SkdBREJIdndVMUtRWDJjeVUzZy1CRkNvUFlFbzZZWkM1aTRlTmZtLUZSQjVucjhkRDR1QWNhZU5lV21rVUhaaXZMbTZXS3c2RllQei12dmcwSkNtQi1DYXZQTGczaVVSalE?oc=5"
     },
     {
-     "titulo": "Palmeiras domina ranking dos jogadores mais valiosos do futebol brasileiro em estudo do CIES",
-     "fonte": "ABCD Jornal",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcWZFVHZXSUhUOXhwbnpZV3ljYUlBQ2U3aXJFX09SeVluUkNHUUc0Qmk4dzhqbWdNbjhKeThaV0ZqRUVRci1Zd2VJSUJJV0NmUWl6QjVvTDcxMmtDMG0xNm0wdVlrMjFiOWY4WjhTenV5anExWVppSXdoUnRCdDV1Vi12V1FBa2d3aXBYS1F5REVUXzk1SWh3OGl4dFBHdGNvS0JJTzk1bXJQNnRzZ0xJR3hWajBEWmc5ZHN1c2Q5WXRrVms3dm1ZYjR2WXNNWUtlRG5CYlp4WFhVclpNMXd30gHkAUFVX3lxTE9lcU1QUkozQ0hJT2o3Z3JYaTNDU3FSb1NKaWJjOHV3SEtjV2cydXdWSUFZZkxtZG5iQnNyN3BSaWNRTFozTFRzTmRmSGJSSS1uNGY5M2pvYVFSNWJtUFdRRndBdVdveDNsQ19RT0xPZDZoWUNSelY5dkVCMnBfc2p2bXVxQ2ZBc29Vd2dhQngzc1lVOG9OWTJhcDE4SHZfN25YR2t4Yjg4MlpCaUM5RTluXzNJQjJWWngxQ091eFdyanFRSk9qMEJpZHZ4dnJEd3pqdkNRaFFwemJuQnlYdFowV29TNA?oc=5"
+     "titulo": "Bap estima perda de até R$ 430 milhões para o Flamengo após proibição das bets",
+     "fonte": "Times Brasil | CNBC",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWGdycDVyY0VvelBMSGFCNXVZdUs4cmZldG9ZdnVLZl96ZTlPeEg1Wi1tTXhBdmVaaGhWVEVXT0FVdTFTNkdlVlpJYThBemx5dmZRaVVQREt0TGFfRTJYckd4M0dkSXIyMHAwZ09obWNTZko0VkNFckhqNFR3clM5bEVoeFB0bVY1QXlpX2pSZG12SGZWamU3VnNQSXJpNzlxWkltLUtGZ0R3djlqZlA0elUwa0w?oc=5"
     }
    ]
   },
   {
-   "tema": "Irankunda, autor do gol da Austrália em amistoso, revela que conhece Palmeiras e Corinthians no Brasil",
-   "categoria": "Notícia do dia",
+   "tema": "Corinthians perde valor milionário com fim das bets",
+   "categoria": "Jogo e resultado",
    "clubes": [
-    "Corinthians",
-    "Palmeiras"
+    "Corinthians"
    ],
    "foco": true,
    "nota": 58.5,
@@ -307,141 +198,95 @@
    "termos_trends": [],
    "n_fontes": 3,
    "n_manchetes": 3,
-   "assinatura": "corin|palme|conhe|brasi",
+   "assinatura": "bets|corin|valor|impac",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Esse resultado diz mais sobre o Corinthians do que o placar mostra.",
+    "titulo_thumb": "CORINTHIANS: O QUE O JOGO REVELOU",
+    "pergunta_enquete": "Qual sua opinião: Corinthians perde valor milionário com fim das bets?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Corinthians perde valor milionário com fim das bets",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRFdBZG5qQ3FvQ2xEMGJneUhKSzBPeVFVVGtoZXJNOGdKaGtnYWR3OEFhcHRQZWlnWmwyQ2RYXzRKdmdrd05iYlRGMEtZYXZRZlJTZFJhdjRzQWEtaThLZVc4UGZJQ3V6bDRKOXFhVFYzQXNaaHdLb3A5YVkzZGM4OHZjaUVqNWtPTUFITDgtWGFBQkF3R3c2c0wyeWNIbnBSYktCaUtCdVRZa2VRUGc?oc=5"
+    },
+    {
+     "titulo": "FIM DAS BETS: Corinthians calcula impacto financeiro após proibição das casas de apostas",
+     "fonte": "jmonline.com.br",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaWJYVEZZVWJHZjUzS3psQ2R2S0EycUFwc1JkR0dCOFZWWnp5Q25VdTRqTU0wX200TERXazQ1MXJVNXFZMlVtNmFrS1E2MDdGcGxUSGJzV1VBMlZiMkRBSndoWFpPSXdpdnBRWW5NbGxfMThScV9TRWl0QW42N3ptYl9HUlRIOWZ4YjF4R0lvazF6b1Qwei05dVg1VUtGUFFtUnBTUHNib1RDSTdFUjJPTHF0ZEVkbmlwNzc4NmZQdGVrZ1lOaUNB0gHPAUFVX3lxTE1UOWVWbUxSWU9YclVnMWdsNmxtUkFWdW1PVjNZbEdjNXVjaE1HSW1YamZyNlhMc1NvT2Q0NUl6ZFdDN2dyOXFadkZ1dDdDY2ROTHRhMndmV19pRVBmVkM3ZTVab1hTZDdydDJQN1BLc0tpdkNhRXNYTVVjUWItQmw1VjFCQUQzQVc1d21jOG01VHNVTHZiTlN3TF9UQjVsZDd1MTNhcXRWTVEwOHNsQ2hRRjY4YTY5NVc4dmZmWVN5cGozNFkySnI1NUFqSUhMWQ?oc=5"
+    },
+    {
+     "titulo": "Corinthians prevê impacto de quase meio bilhão de reais com restrição de bets; valor pode aumentar",
+     "fonte": "meutimao.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUHREWmpfVXRFSkFiNzZZVzl2NnFTTl9JUnFvZjBpMldaYzRRWEZleEliWGVxWGNiak1Wcm8teWFnY2NrekNXSC1ndk0tbFNra1pQNFhUOEFtb3NsTXV6eVlGVzdqbUZNakNoU3N6VjFYVTV3ZE5zcFJiZ1hsQjdtYS1ianM1a0dLR1B1YXltU2FFbm8zMWIzczVELWliM3dJeVZwbW9yTjd0R0VxT0ZvUjZpckF1cktCTVVrWXpoSG1HWXNISlVoc1FLQ00xTl9lODRVQXI4elBITmFZRVpVaTNPZDE1RUswNmJ5S9IB3AFBVV95cUxQVG5CUTJQa1o4M05nNHB2R1c3d3Y4ZjBiWGdjQVNEMmU5anN1cFZFLWxZdllyc1VqR2N0bVpvWnJJQnNKeHFfbUwyWEYzS1ZBYm5jWXBzT05fb3I2QUJXcEhJUFZTbFNMaGtIank4LURLSnk4VTg3aHcyNWw4R19ucmxoRTJQelZsRnc5NmN4dnVDMkNYM2tJWXBoMS1EdU15Qkl4eVZEcXZZcWtLV1IwdDFoV0RxcFNDUzhyVmtUYXEyTTdTS2VPVnVMRV9CUnJ6d0tqMjFDcnIzQjZR?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Fluminense enfrenta Palmeiras nas semifinais da Libertadores; ida no Maracanã em 14 de outubro",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Palmeiras",
+    "Fluminense"
+   ],
+   "foco": true,
+   "nota": 55.7,
+   "sinais": {
+    "busca": 33,
+    "aceleracao": 47,
+    "midia": 58,
+    "aderencia": 100
+   },
+   "trafego_google": 100,
+   "termos_trends": [
+    "globoplay"
+   ],
+   "n_fontes": 3,
+   "n_manchetes": 4,
+   "assinatura": "semif|flumi|palme|liber",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
     "gancho": "Todo mundo está falando disso. E você, concorda?",
-    "titulo_thumb": "CORINTHIANS: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Irankunda, autor do gol da Austrália em amistoso, revela que conhece Palmeiras e Corinthia?"
+    "titulo_thumb": "PALMEIRAS: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Fluminense enfrenta Palmeiras nas semifinais da Libertadores; ida no Maracanã em 14 de out?"
    },
    "manchetes": [
     {
-     "titulo": "'Depay joga lá?': australiano que fez golaço contra o Brasil nasceu em campo de refugiados e conhece Corinthians e Palmeiras",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNNWlTaFJ5LUExV2JSY0FPdXFZV2llbjFVYmVfdEV6UnR5ZW02LVhtaWdhLXF2djhURjNaREV3aEg4TC1CN0JlRXpsbnNSV2UyQzFJT0NKUUlXZEpFT0pfWHh1N0F3ZkFJazY5NXJGODJsdWY4TGh6ckV0MWxCQ0dlMk1uOW5UNnlKeHNwdGlzRnlzR1J3UXl1bnJ0Nk1rV1pLYTVrX20zOHdYMVprcV9JeHhPTUllMnZEUmFoQlp0cWl6TWJoLU4yUk85VUNzNUxRT2VDdE5qenBHZ3I0OEtuTkxqSUJtR1M0ckhOMktZakw4bW1BdTM5LXBNRGlGY0libGxtS2gzeFZKQzQ4WWJEaFRJN1NfNlk?oc=5"
+     "titulo": "Palmeiras chega às semifinais da Libertadores e encara Fluminense com ida no Maracanã em 14 de outubro",
+     "fonte": "boca.com.br",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMmtGU3NpNEpUcUJrSzJ2MUVqMHZaMEVwMWk5OWJpbEJjVjEyZm0tZUFoT2pvZ1RoSkdTMTNQdm40U1VOVkVaMWxYWVdCNG52NDZMaE1GMlpYdjdKUU9sbGRaQ0ZucmxNY0VqMGE4UjJFQ3p0N0xkTVlwcFhTRGVha1JuWTNwUQ?oc=5"
     },
     {
-     "titulo": "Irankunda, autor do gol da Austrália em amistoso, revela que conhece Palmeiras e Corinthians no Brasil",
-     "fonte": "ge.globo.com",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNelJYOC12WTBjY3hrY2dFTmlzc1BQb08ybVVOcDB5dmFqM1ltZl9yOUstbVFFODRsQWtzb0Z3UFBFbW1oRWctLUpuY1RaMHY5THFYSm1oa0tiLUo4dmRkLUxHN3RYY0dBZEdHTWVwSnI1QjBjR2RpN0t2LUlRYVFkMFpZQkpEcU1ncFZhYUZlbU1hZHFlX0hPUEFjcV9BRWFMOVk2Q0JrWnAzOFVqMGZpVWJMSWFPNElDWkFRaE5rS0pVY2phSncxeUxCMTJOY0c0bHhpVDlOVlR4TDdEajFiaGlwa3NUZjdnWnhHNlZYdHZvRDZaZ3ZYMHNhN3M0RUU4aElacXd5SdIBlgJBVV95cUxObnN2aDVxRkhXS3dYWHFERUlEQWZlVGpuNElGNUpYejdfOFpzR0ZsMnBrZi1Pa3JnOEVKVkpHSFlWbF8xTFJFd2FQV2ZoZ1V5V0p1amhuX3ctUXAwa3pBa2NMOWV1ZEQybFhoRGFZcFFYUk5OUHlabWJ6enR5SEpGVGxEZE8xd05tbmlMckk2ZmF5UXAwdERtT2ROUGh4anJWZy1pU0pWTE10Q2ZkOW5wNGU2aVpyVjhNQTlPeGkxeHpWT2swV3EzTFZGVjRycGlobE1Vbk95NFJncGJWWkRDTGhXRWJVRGl6V1g0Qmw4akY3NTZ0dnc5aWtQamRGSVE0SllZT1prZXJEaVFqS01mdy1TVnJIQQ?oc=5"
+     "titulo": "Fluminense enfrenta Palmeiras nas semifinais da Libertadores; ida no Maracanã em 14 de outubro",
+     "fonte": "boca.com.br",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaF9BalJTS0hZd3p0Z3JDTXpFTzlET19hTGVPYlFPUlBBdFhmNmZDWDFPS0NUcVV6ZmtLemdpYVhYN2JIN0R0c0JRNHVpV2x1VFczN0xFLVUxNzFLY0NWbVhaWXlRdVJ0bXZIN1hoVzVoaHY0V0FSdXNsNHMzOER2U2tWVW5QTGR5LVE?oc=5"
     },
     {
-     "titulo": "Autor de gol contra o Brasil, atacante conhece Corinthians e Palmeiras",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYmNRbHZYWGV5d1Q0T285enVuOFVXMGEtdEIwNHIzLTFCRFZYNnM3QUU3UVFFNXBqMzVOTWlMdmcybjh0bldGbVViSGd3bXUtQUNzdEVyMU1QV1o3WWdhR3o0X1ZFRHQtdjVqZ2kzN1ZyekZzc19QVGZid1M2ZjlkTnJzNEd0QkJwMWlmNFFDSlNFY3JwN2hWNDZrQzRaUWxZT2g2TFhlQWtZN1MzbU91TUdpaWVQNkVDM0E?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Jair revive infância com Bontempo em reencontro na Seleção: \"Se não fosse ele, eu não estaria aqui\"",
-   "categoria": "Seleção",
-   "clubes": [],
-   "foco": false,
-   "nota": 58.4,
-   "sinais": {
-    "busca": 50,
-    "aceleracao": 90,
-    "midia": 58,
-    "aderencia": 70
-   },
-   "trafego_google": 1000,
-   "termos_trends": [
-    "jair cunha"
-   ],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "selec|jair|aqui|infan",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Lista ou ranking (3 a 5 min)",
-    "gancho": "Se eu fosse o técnico da Seleção, a lista seria outra.",
-    "titulo_thumb": "A MINHA SELEÇÃO",
-    "pergunta_enquete": "Qual sua opinião: Jair revive infância com Bontempo em reencontro na Seleção: \"Se não fosse ele, eu não esta?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Jair revive infância com Bontempo em reencontro na Seleção: \"Se não fosse ele, eu não estaria aqui\"",
-     "fonte": "ge",
-     "url": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2026/09/22/jair-revive-infancia-com-bontempo-em-reencontro-na-selecao-se-nao-fosse-ele-eu-nao-estaria-aqui.ghtml"
-    },
-    {
-     "titulo": "Jair x Murillo: compare números após a Copa do Mundo",
-     "fonte": "LANCE!",
-     "url": "https://www.lance.com.br/santos/jair-ou-murillo-numeros-sao-parecidos-veja-o-que-pode-ter-pesado-na-convocacao-do-ex-santos.html"
-    },
-    {
-     "titulo": "Novo zagueiro da Seleção comenta lesão grave, Série B e reserva na Europa",
-     "fonte": "Band",
-     "url": "https://www.band.com.br/esportes/futebol/selecao-brasileira/novo-zagueiro-da-selecao-superou-lesao-grave-serie-b-e-reserva-na-europa"
-    }
-   ]
-  },
-  {
-   "tema": "Palmeiras Online. . 🇺🇾 A data FIFA começou e já teve Verdão em campo! Nossa @macamillo_g fala sobre como foi o jogo entre Uruguai e Japão para Piquerez e Martínez.",
-   "categoria": "Seleção",
-   "clubes": [
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 58.3,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 70,
-    "midia": 87,
-    "aderencia": 100
-   },
-   "trafego_google": 0,
-   "termos_trends": [],
-   "n_fontes": 7,
-   "n_manchetes": 7,
-   "assinatura": "palme|data|fifa|traba",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Lista ou ranking (3 a 5 min)",
-    "gancho": "Se eu fosse o técnico da Seleção, a lista seria outra.",
-    "titulo_thumb": "A MINHA SELEÇÃO",
-    "pergunta_enquete": "Qual sua opinião: Palmeiras Online. . 🇺🇾 A data FIFA começou e já teve Verdão em campo! Nossa @macamillo_g f?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Uruguai anuncia convocação de jogador do Palmeiras para substituir lesionado Valverde na Data Fifa",
+     "titulo": "Conmebol define datas das semifinais da Libertadores, e Globo exibirá Palmeiras x Fluminense",
      "fonte": "Estadão",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOUFUclEtX3FMNEtHejNxUGp0ZkJ5VFFlSFRNMl9PcnNra3hjR3FwVkpoQm5CbWtQeVlKRkQ1UjRCMUZzeUw0b1ZwM2FadTRrYjgxV1JOdUczX1NnUW4yaFhSUC1IbXpfWmdkb3VoSTk2SGhOZ0tPOTNsdzQ2ekVTSXhTTFhtU3lLX1FWMnUxaHBPZmZrbjg1TGhkNkt6b3FXdkItNzVBSmxiNGk0bkFCa3JaR1hiZXN2eVdKRVNTVHhEUHE4VWR4LXRqRWxUc0RJY3pMR2ZXYy1PeDR4bDZmZGpCUzN2UQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPODl4YTU3ZUY4dFkwZUxvSFFGVWhqZlkxUHRmVU9kd1pEWGpqVERVZDBZYzlBbDBNU2Z5ZHBEd2QwbTg0Q1owQWN6cFdsTUF0Z24xZ3pPT1UzWEVMOHVtcUNfTm5pc3lQdjliMUZfQzdOdGFMQzFFYjl6c1FyYTBuX0NYNGRwbFhFMEF3bTJqRTc0dlZsRFNyZjB0TENoTDl6M0REeEg0WHBER0dacTJZS0NnbVdIZHE3MHVNaVZnTGtVQlRXdjk0R1Y1NjV0SVBlMWFybUJZaVcxejB6?oc=5"
     },
     {
-     "titulo": "Palmeiras retoma trabalhos na Data Fifa com três objetivos definidos",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmktblVvR0ltSEdRcHRVMHQ4MWNWNDFFdjJUVE1fU3BQOE83YzNsRHhFY0xVWnhTSlVKdm5xbWhHTmdRcWNNSjZKNVEzWnhGcFBiWWF2ajJ6STVWbk4yQ003R2x5UV8zZXFGXzVFRm15WmZPbXNTVXJVWVdBMmxGNmFZNFpzTVhlTGNobkh0Z1NodGZpcjQ5UU1nT2xvVWhGZHh1VDdwajBoTVR2?oc=5"
-    },
-    {
-     "titulo": "Sub-17 classificado, sub-20 vivo em dois torneios: como está a base do Palmeiras na Data Fifa",
-     "fonte": "ge.globo.com",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQc000YVBIcXNCN1RLSG12bFpEaS01QTBrd1hTdXVYRE4wQlVkZmQxaWxHU2FyZ2RYdWNIYy1fQzFtcjlybW9GZjJPQW9rTGlPUWRIRkNvTmlJazhJS2ZEeWZFSjVSeW5BaldqNXBWenJXZ19CSWJGU1I3TFptNTJGMkRHampfMU1BMTF3T2dVV3NaMTVSbXNTd0NlQnVtRlhJLTlUYTdDMGRxX2lqMS1FREZ3alRJNDg0R0NNYjFXTHJBNHVxWUhqbllrZl9OV180RDFnY1ozckR4NEh0ZXJKRmRzWWcwdllRU2lkN0pyQncyV0XSAYICQVVfeXFMUGtYUEFzVk9zMENkZzdVcGJRTnJuclVzbHI4aHhjUG9OMVhCeGpOY3k5bEJqWGJXUlFOT0N1dVo2OXI2a0M4TUlUQ0VsRVBFaXBaVlg3WXNBeVpxdlhuTTVrWHd2RzRjdnZxaDhVMTNwQmlOc2g0Mmdrc3Y2c1BVNV9pTVJ5UlNqeTk3TWVCR1RrV05Cb29vcnV6VjdGMXdxZk1uZ2o0dHV1YWNHTGwzOXk1QWVuclE4aDJBa2U0RGZCYW9Nd0FQY3dOb1VjREZPNjFJTWo1N3pGWlE0M3otMlNWaUtkVzZUWlZ3U0JoTjlKTnNEV2czNU5tWndTd2FLMHl3?oc=5"
-    },
-    {
-     "titulo": "Palmeiras retoma os trabalhos desfalcado e monitora convocados para sequência após a data Fifa",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM3FTQXlMLWY1LUJaWl9WanJMQThGNmI1S1RCd0N2ZmtMMk91SVF0M2N0MU1iOHlmNTRhZ25xRnVXR3RMbzk2Z0VpeWEyaHdjTnJYRndaRzhicERIRU5uVnZrdE5ybVF5LTlqLS0wUi15QnFFaU5uaWFIMlNrc0hXN3hPbmctOVVLNlAwRzZ6NTh1Y2FzaG5kOUxJT3pFOHNuMXhHYUNZNHU3OXRTS0FkWm5iRnYyZUNUeDhjb0NXaHZVaW9PcjNGUmREV0R6eS1QcFZmLTFBT0xsTTDSAeABQVVfeXFMUHRER3plUWFCOXU1RXhMNi1LWFFnVHNnd2hranpyT0UxZ1ZQbEZ5M0hiRDFFZzVYUVZYTzFvY2ZMU0JBNXZTQ2NDVzcyWTg2VEVaUWVLM2ZMczdUZ3JQZWlVazNwWUVwM1ZjLWxXOXlQWGs1MmdQV2JobkNIcU5SdXdLcjB4b19oWk9TbzZHcTZxeW45aFl3NWFBSllfbzhyUG13R3VabnlZTzBpS1p0T1FRZ1Z0TWZZMDF4dXpHZS1VOFZSSmRBV3RUc0tYYm45em9XdlFwb0JBejZOYnZFdHY?oc=5"
-    },
-    {
-     "titulo": "Palmeiras se reapresenta nesta sexta; o que Abel trabalhará na Data Fifa",
-     "fonte": "Rádio Itatiaia",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONGFQOWpWSDRjUU90c0hYVWJ0YXY2QVY2SzhKQTFvSENKQ05SYXNXSi1qa05kSXBnNjdTMXJSTFl0UUpQaVlVRGRhaGZnTzlvUVFSZGRobHVCSGVRb1hiRzJtVGV6Z0JLNHBNc2JSM3dYbWExd1NmVHRVLWxxdWZlSFVfUFFVUXJBVUw2WE1JSVd3c21IZTFUd0pCNTM4d1ZCLVpJSXdyZVlBRDJLNDJzYm9WY0NiZ1Zkb255VWlsV3h2dU1vTGVHUWVlcmZCbWZ2QTlkUTU4RGJId0xZRzVwQWFmcU9QNU93eTQyNGM0M0VybU0?oc=5"
+     "titulo": "Libertadores: Nubank Parque é confirmado para semifinal entre Palmeiras e Fluminense",
+     "fonte": "canal flunews",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHV3RXhJZ1A5cXN5ZDV5anV1TlkteHRvMHZoa2dmR2JQUldwTy1jSG93bmoyVTJ4VE96bk0tdERlWml6TE5TbzhZVGFfSjRPU1U1MTIwLTJHWm90bnZVRUU3MEhPU0VNOEtRWGEzQzl0dnZKTlhveVI4TXNvcjBUbWl5V0ZTUUNzaG5tZUoyUzdSTGh2Tkt2SFBTWHhoUmc5V05lS3R0TGs5OUxzX1A3WDlMX2VFdmsyb01leWhEYVM?oc=5"
     }
    ]
   },
   {
-   "tema": "Corinthians aposta no retorno de Yuri Alberto para reagir e sair da crise",
-   "categoria": "Polêmica e bastidor",
+   "tema": "José Boto: \"Vencer, vencer, vencer\" é o lema no Flamengo",
+   "categoria": "Notícia do dia",
    "clubes": [
-    "Corinthians"
+    "Flamengo"
    ],
    "foco": true,
-   "nota": 57.8,
+   "nota": 54.8,
    "sinais": {
     "busca": 0,
-    "aceleracao": 81,
+    "aceleracao": 71,
     "midia": 67,
     "aderencia": 100
    },
@@ -449,341 +294,524 @@
    "termos_trends": [],
    "n_fontes": 4,
    "n_manchetes": 4,
-   "assinatura": "alber|corin|yuri|retor",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "O que ninguém está contando sobre essa crise no Corinthians.",
-    "titulo_thumb": "CORINTHIANS: O QUE ESTÁ POR TRÁS",
-    "pergunta_enquete": "Qual sua opinião: Corinthians aposta no retorno de Yuri Alberto para reagir e sair da crise?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Yuri Alberto está perto de voltar ao Corinthians? Entenda o progresso",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdmE1YldHZ0JZRDVpQnBXQ2JsLUhRbzdvTG13bUQtdGJWM2NsVG9UY01zQjhrdkw5a3JLY3FreS1saXU4eUNQSkRtM3NmYkh2TkhGc2dhcGRMT01sS1ZwcUcwQWV0ZWRpTWExaGhLTjNkLUFXd1NYOUkybmIyRDFoSVVhbGp0Q3R4U1p2V2c1Uml5R0V0ajFaOFBvYVdoSmVHbGh0VDhKc2QyZ2FtMVA5STAyUlNsUVFWa1k5ekptdGdYOXFWLXVERUFtY25JX2pIZG53TmRDNjROTUh6aTBJMENQbHFKZkhmRWh2M1FEZE5Wdw?oc=5"
-    },
-    {
-     "titulo": "Corinthians aposta no retorno de Yuri Alberto para reagir e sair da crise",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXM3dW5IaWhzZXJqVGIyRFd0dm1jVmxXdWxPbzdkVnZQd0IzZ002OWFNaWgyNFdqcE5ibGhmNFBqMGJMS190QnFFU3MyeFFPNFBROExuelBYY1VVVTN2N3dmLUU4MU9qaTFGTjJONXJ2cFh4Rk5LQkxEYmxUaVFNWVdFNHdhdzB0TzE5bmlfbXI1NzdvVEctU0Y4RkpqdGNUNGFNLVpwaU9fRklOZTRXQTluTlVlZw?oc=5"
-    },
-    {
-     "titulo": "Yuri Alberto próximo de retorno ao Corinthians; entenda o processo de recuperação",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTnp0aXB4c3BEaHJyTnZrMHI1MVJ0Qmx0Wkp0Yk5qcF8tdHZoTWozTktwdVdwdmVtN0h6VDNXdGMya2NkamdOMkxoSkRzRmRsdVVCdENxbzlfSlFaR1NvMDY5OThpQ3FFcUlWTlZob2x3S19nS2lHSzRibk5KQ2VjcHJFWnJveWUtbVRWdkdFRlZhSFFnUW1mWXJpOUJNTE5fQjZucU8xX3lyMWs2VEM3czlOZ1J6LWdERlIzN090WjdqQW50RzU0SmpQZ9IB0AFBVV95cUxNZE1iT1UzNTlWeHBsRnJqQnRrM2FyNXB0VjgtS1NJNG13OUxNdW1OaUEySzBaajZCblRZdF9FLTk0anAwQktGWF91cHJRY0JEUmN2MGxaTDBoT2lsS2xOUEdPRXJITGNzbU9KQ1BlblFDcHJHUTJYQ1JVMThUSDZMd2Z1aHpRTEpjZ2hBcmFOd2FNajdKOGM3WTNBOXZxRG5OTU5USE5mcWRZMVFYdWxNN0FNZDVVaVhjMXN5U3Q1SDlXRFpobmM0MHZIckFmUFYt?oc=5"
-    },
-    {
-     "titulo": "Sem comprovantes de pagamentos, agente de Yuri Alberto pede ordem nas dívidas do Corinthians",
-     "fonte": "abcmais.com",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaW9fanRFOVdoYXpuUmRWZkIwVUttSHU2RTRmYkpSRHhycnpxSVRCNGEzWXlIU21RT09pVFdBN2J3V2Y3SHFKMHYwbVF0T2ZDNzlkR0xkSHAtbko4VEo0VjVvTzV1eks5WUlPRjhVUWE3dkhtQ3NUQnIxZ2c2OXdXQkdheTNPQ2tOREJrdkg1ZVJPQ2Y1SGlrZmF0R3Fab3dIVE12Z3JOMDRpYnFmV3I5VDd6Sk1jVmlpWVFNRktxOHE?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "\"Ancelotti tem muito trabalho\": jornal espanhol faz crítica à Seleção após empate",
-   "categoria": "Polêmica e bastidor",
-   "clubes": [],
-   "foco": false,
-   "nota": 56.2,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 90,
-    "midia": 58,
-    "aderencia": 95
-   },
-   "trafego_google": 0,
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "selec|traba|ancel|empat",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "O que ninguém está contando sobre essa crise na Seleção.",
-    "titulo_thumb": "SELEÇÃO: O QUE ESTÁ POR TRÁS",
-    "pergunta_enquete": "Qual sua opinião: \"Ancelotti tem muito trabalho\": jornal espanhol faz crítica à Seleção após empate?"
-   },
-   "manchetes": [
-    {
-     "titulo": "“Ancelotti tem muito trabalho” e “Brasil não é mais Brasil”: jornais criticam seleção",
-     "fonte": "InfoMoney",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUVlSbk1SbWotY042VlhNQmI4V1VuYkU0V2x1a1pjVVpiWkN2UXA5anptUXBoazlNZkMyVENFQVpXTHlwcTdGRVdDWWVTZEY3ajZsd1UwdXdoMDdaZUJHMFhCaUJEVklQNldUYTM1U3RpTHJwUmhMaXB0ZTV3WWNyaU50aFd3VWhOYkFraEJyc2JLVVBKWENGaVBEcUI2dkpBRktFblJHcHNocndmd2YxcnRSZHJ6T05Ib3Q40gHAAUFVX3lxTFBZNmRSaHM5RlpodHBiTzRLNjg5eDJ1RDd0anExelhJUmFWVFVSVFVVWlZHaGozN2RJQ0FZdTNFMW1GblRJaUxfcUVUeWhJVXpyYlBkbnRnOU1qWmh2SEs2R2JDVENjQmREMGxoVGFaRHFBUUcyUHVuLW5SRmpEcTJRM1pPdjA2S0Nyc1d1bU1zNjdTZGFDdWwtZndnWEx3N1BSLVpZRjdETXVvSlhiT3F4QTBnWGw1VnhDU3g1bWdrUg?oc=5"
-    },
-    {
-     "titulo": "Empate com Austrália faz parecer que trabalho de Ancelotti na seleção acabou de começar (e mal); análise",
-     "fonte": "O GLOBO",
-     "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQM2pySlBpVHFIWHdLVlZKdFNqSEcyeDRXdGlXZUdGR0N3LVpQZHA3eTJ5UXAxSklGRXd3Z0w4VUd3RU1OQXAtVnVXNTI3ekVYajRZQmRwcl9aYUZaMHlRU24xX2ZVTTFnWUVUMkVpN1ptSlZSSm4wWjFaWWhTVVpScjNhNlprZC1KY2JHYl93ZlM0QkR3azRGeGx6TGh4a3ZUTFlfS2lPanktaXJQWkVPSGtnTHN6XzY4d1J3ZE42OTNQcTlGY2xkdkg3U1hjVzA3b1N5WFBsUVBwakZ6RG1OZnk1ZEZrQkY3Z1VSd3BWazJoa05GdERndTVNbkF2NzZXQ0FCRGJWQXhhNnFLSWxBVWNDNXFWR1Zid2ktMFA4MS1RQzl3ZURpcmN2d2PSAbsCQVVfeXFMUGV0SE9aM1hVbG11SVdSQWJlWlBjVUl1RUpoaWhHWnhMUlFCcXo4ZHJWS3RNaXExZmhuMzlvUGQ0VTE4RlMyRFB3ZHQtRGlPVHdFbVJwS0ktUkh6bVpERGVCaVhsdWh3R3lxVDFGbUdZbjM1alRzWE9teEVvNlZqcVg2VTA5MFRSRXJ6SGZoaF9tNUFMNjNSNThENEJPVnpfUTRqbG9CazNEcElhdHNjZFIxOUtfdE1sb1lnc0x5WHJnX2c4bWFOUmtKYTBIbGZORTltbVBQckw2ZVh4WUpOYk5PY0NNci1PeENONTdqTFl2ajcwLTVqNVpXSU43b2lpd0kyLWI4NUk5Q2xxUFpKY3I5bUdNMVFwbFR3bUtFdmVBbGktNHNURXZiVTV6TFFGLUVmVWRWUUlXajhn?oc=5"
-    },
-    {
-     "titulo": "\"Ancelotti tem muito trabalho\": jornal espanhol faz crítica à Seleção após empate",
-     "fonte": "ge.globo.com",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZkJkdGRIOUs0UzJFZFUyT2Z3cGI2SU5DY0tXcHJhQ1plTGRXQjFWNmRnQnZtdl9PaGFHajVTTmFUU0djVy1BUkQxa2tSSkFvcS1PakQ3aF9fMVJKaWI3WnRZdjNLS0ZnZ1VEMExET0tVbVd1NmVWTFZ5TXNZT0d4bXViYzRsVWZHanVDMUdSOFFtMDE4MjdDWFh0azdFNmJWUHRJWDBPYi14b1Z5UTQwaW5IT2VwWWZ2a0g5TUlCR0Q2SXZBLUh4VTlUR2VuM1JlbURBNUt0MTZqcmlHZDN6NFdmUkxnbU5IWlHSAfgBQVVfeXFMUGlKWVdPY3g1MzNBTzJsdVhQdHNxTXNhdDlGZy05VXhMUUU1cC1FNm15NWV0SDFLUzhKS0FlZWltTGloYncwa3RfMEUtSGdsMzktbk5wSVJQbUtkelR6YlVaTmxGZ1VaM0Fpb0JGankwMDJnVVhzU2tNekpiZy1ldTVRYWFndHhhQkpXSzdyUE9SQ3pVTXJhRzJ5MllINXpaS2l4YW5RZ2JQSUFRRVo1U1ZVZlllNnBHWi1Tc3hndzI2VGJIQm12TTMyc21Rc1NIYkh6aUJkVVhvMkFXOUF4MHMxSHpkV1p2bjNVNEwyS0pyZTQtYmdMN2c?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Com gol de Rayan no fim, Brasil empata com a Austrália no primeiro jogo após a Copa do Mundo de 2026",
-   "categoria": "Seleção",
-   "clubes": [],
-   "foco": false,
-   "nota": 55.4,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 100,
-    "midia": 100,
-    "aderencia": 70
-   },
-   "trafego_google": 0,
-   "termos_trends": [],
-   "n_fontes": 15,
-   "n_manchetes": 15,
-   "assinatura": "brasi|empat|austr|copa",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Lista ou ranking (3 a 5 min)",
-    "gancho": "Se eu fosse o técnico da Seleção, a lista seria outra.",
-    "titulo_thumb": "A MINHA SELEÇÃO",
-    "pergunta_enquete": "Qual sua opinião: Com gol de Rayan no fim, Brasil empata com a Austrália no primeiro jogo após a Copa do Mun?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Seleção Brasileira empata com a Austrália em amistoso após a Copa do Mundo de 2026",
-     "fonte": "Folha Vitória",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEJLNUhTSEV4c2tHWjFwbmF6cHV4WDc1cXdrQkhjQTVtX3JfMWFaaW1JdExwYVlHMHpkQnBqV0pER1htYTZaLW9FSmNManRMWnljLWtvcEU5YjhGMndUZS0wS2o0SUM0MUhDbTZjUzZnTml6c29BT3VWWmctUmRDWU9sTHktbFVnaXEwdmN6OFVwU1ROSXZUS3JHQ2ZwQUk5RURYMDZEd0hXX3N1cVVKZ2tWUC1ITFU5Z1FnLUtHOVVGMVRh?oc=5"
-    },
-    {
-     "titulo": "Brasil decepciona e empata com a Austrália em primeiro jogo pós-Copa do Mundo",
-     "fonte": "Diário dos Campos",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFhPVDFXYU92dzJIcUhyN2EtdGdNSFN6UnBmVEpBSTU4dXlqU0VWamhLSTNGNHI1U05MY05fWmd0UW9pVDNsMWp6RFppNEtHWlV3UDMxWlVzdDE0YS1xc19mLU5NaFRuWFhMcmRfcDBGUmlzM09oMDdlUS1DTVRCQ0t3OUFBZWpTaTVDdmhLNDBXZ0RQb2pzTmZCYnR5ZnNJdWxKNnViTU1JdXgyX3fSAbMBQVVfeXFMTWpGTjQ2NEx3ZThTdTBuRDRjVi1QXzlLUmxsenZiQzUxQ3EwYnRMZHpuYWZyNTZzS0FCeUVXUUt0X3dtNEM5R3lGelNaY05PSXkwYW5sZ1ozeEMwUTN4RXNGS0ZTT1paWEMyeVpSdXRVUVExUEFESEg5WVFHc2U4dlRwVk1iNlo4Z3J2SjVmWWpOOGJ6a0xiakx3VWlpdldHb1g3VFBQaGRBWEtmbG5CQjRwbDQ?oc=5"
-    },
-    {
-     "titulo": "Brasil empata com a Austrália no 1º amistoso após a Copa",
-     "fonte": "CartaCapital",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcy1aRjlrR1JGVl81b0h2X28wWnlXOGdaRTNfZG9UUnJ1SkNWR0lGdWxxNUhrWkI5WDBpM1J6Nkd6am8zRkJiYlcxUlhHdUMxM2wxdi1aMjgweVdJczZKY2RJaWhQTGVNTWZDdlVSOUladXVHN1Z0VVRXdnR3VTJOa1BsNnRVZHBjRHRBWUVjdkxGeVlzZE9lNUF4SGc0QQ?oc=5"
-    },
-    {
-     "titulo": "Brasil empata com a Austrália no primeiro jogo após a Copa do Mundo",
-     "fonte": "Correio do Povo",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX1UxUEJEeVdHZzViVGRrbHRncGRydGlRd1I2REpxVXMzcHlTa2pfX25MNm40SDhjRld1QVM3RElWc1FjdE5oQU9laEZCM1pfVFk3VVFwVXBPZVIyTUhNVmsxRjJ4MWpPTFkyWDZIN04wb3R3Q0RPZ3lqbEp0M2s0bjF6TlVqLWhuUWV3c3EtR0M1blhmLXhvVnBBOFlBX0FtMGhheS02cURaamlLV3N3VGdwNm9EeGgyUjR0UXJQT0xfdzJXSl84OHoyMWxvYnRQSTNV?oc=5"
-    },
-    {
-     "titulo": "No primeiro jogo pós-Copa, Brasil joga mal, mas empata no fim",
-     "fonte": "A Tribuna RJ",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWl9vUlFzQnJQcUdlZXNKc2tsZWROeEtNNG8yUk1uMzZVRktwTWR2cWNEMVQyMURtVE1EYlFCOFlXLUlldEhhVXUzbkpJT0NUcjNIeFJZUDJYZVVRekVGNDNNUmpIa18yV2Z4QUhiOWoxVUh6cVBQZnpuTzVKWWloTE9idm9ueENiTk80WFNMZWxnQ3ppZUR3RXRfY0hyZw?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Jardim se aproxima, pelo Flamengo, de marca alcançada no Cruzeiro",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Flamengo",
-    "Cruzeiro"
-   ],
-   "foco": true,
-   "nota": 54.6,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 85,
-    "midia": 46,
-    "aderencia": 100
-   },
-   "trafego_google": 0,
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "jardi|cruze|alcan|marca",
+   "assinatura": "boto|flame|jose|lema",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
     "gancho": "Todo mundo está falando disso. E você, concorda?",
     "titulo_thumb": "FLAMENGO: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Jardim se aproxima, pelo Flamengo, de marca alcançada no Cruzeiro?"
+    "pergunta_enquete": "Qual sua opinião: José Boto: \"Vencer, vencer, vencer\" é o lema no Flamengo?"
    },
    "manchetes": [
     {
-     "titulo": "Em alta no Flamengo, Leonardo Jardim se aproxima de marca alcançada pelo Cruzeiro",
-     "fonte": "No Ataque",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVEl0Tk1JSlByY2FLNHZRR3VMY19tMm1nVkdiY1hFTFl5LWRxUmhieVpIcVc1N2MzQVF1ZTRLN19FeDR1LUZ5akMwQlFFU1pXTXRqVmFmZjZkMjNkdVMwUko4UldLWHdtTl9hU01wR3VXU3BBSEU2MDdTRjNlWnkwS2Q4WWt0NWFMbEctS0d3SE5iOTM5Z2JPVTljVnRrM0Q2OEhWZzl4V0duZVJkRk52V0s2WXM2aFlBRGNwdXpEQm5MZVNkTVRGRkR0TDNLWkYwZlNMNW1rSmNJYzFjbUN3?oc=5"
+     "titulo": "José Boto: \"Vencer, vencer, vencer\" é o lema no Flamengo",
+     "fonte": "CNN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZnlmQVhSLURCOXZpYzVLNjFLUUZ1MFRHbDgzUjJ1N0tYS1NDaEJvUlpxbk1yRjN5SXB5YkRGR093RWNWLThBUWxRNm9QUnY5Yjc3Q0tldXJ0ZEpPZ0xSWnZfR0dLX21RampLd0MzYlFobFNGbVkyZVRBaGhkS3FPbzJQREE0anBpdnQyd210enJMTHNPWk94aWJMYWxWUS0tVlVCRzMtZ3ppcWc?oc=5"
     },
     {
-     "titulo": "Jardim se aproxima, pelo Flamengo, de marca alcançada no Cruzeiro",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPc05XdG0zSHBTaU5zeGxCNUhyMkt3dkxJa3ZVc0dQSjV4Zk40czBDX0xpT3JlQ21hMnY5UElnVDZIVkVhZXA3ZE5Rbm5EdzltbWdrZkh5c0tMZU9EM3oydTJlbXdNdmxnYlpxSnZJb0tRVzRZSlhtYjUzZEhaRlI1VE9lZ0ZQbWRPX1FLWmQxb21vbDBWbEJQUmZwbFVOZTVsT3pKVmVNOVlWZzgtY0FiZl9GekI0aGk5WGVSTGx1N1lVb3NyN3VsMGtXWkswSUJYaU1TQ2pNci1DU0U3NkdMN0EzLTZaY1U?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Sportingbet notifica Palmeiras sobre rescisão de contrato de patrocínio caso Lula proíba bets",
-   "categoria": "Mercado da bola",
-   "clubes": [
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 54.6,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 85,
-    "midia": 46,
-    "aderencia": 100
-   },
-   "trafego_google": 0,
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "notif|palme|patro|bets",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 3 min)",
-    "gancho": "Essa negociação pode mudar o Palmeiras, ou virar o erro do ano.",
-    "titulo_thumb": "PALMEIRAS: VALE O INVESTIMENTO?",
-    "pergunta_enquete": "Qual sua opinião: Sportingbet notifica Palmeiras sobre rescisão de contrato de patrocínio caso Lula proíba b?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Sportingbet notifica Palmeiras sobre rescisão de contrato de patrocínio se Lula proibir bets, diz jornal",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPbURjd01HRFd6M3dTZ1FPenhqY2YwVmVfYlRQSHFsTS1sLUJucFJJVnVoLUp2OVhfY3R0X29aNlZTb3Q5NXcyRWF1c2tlRUMwVEpsTW95QmZLakxGWE5IZ2MyeUlKbDhZbXVxNTdNZXZLRVQySGpNZ0QzXzhsR0dKelNFWWpmYW5jNlViMGN6VHZtNi1lNVJKbXZjdWxhdHNLeGZMdU1QYUsyMEtfXzV1YWpQQU5yMjF6c0RaVjdBVEEzY0Q1RlBicVhOSll3a1o3RnFTbWVNZ0FMdDZVQTk5anJWU3pjb01zMkw5RU5UMGk1WHhWZ2pTQWpxYkRXNGcxdWdLOEwtUmdGTWpTNDVYX0F1VktySXFuVzc4endn?oc=5"
+     "titulo": "José Boto coloca Prestianni entre nomes capazes de atuar no Flamengo: “Excelente jogador”",
+     "fonte": "365Scores",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFBpUE55cVY1TFRYYkdlZHBfR2hWQ3dTNzh2bnQ3Umkya1VYX3I0d3RndnctSV9Ta1N6V3pKLW54QWRVUVd2LVFCb1N0UFZxVXRCVjNLa0Vxbjh2dk10dVNiYktaN3ZHVU9uR2h3R2RJbUJrZkJtSnNEZTRhbktQVldCejh1ZF9YVXRsSGVB?oc=5"
     },
     {
-     "titulo": "Sportingbet notifica Palmeiras sobre rescisão de contrato de patrocínio caso Lula proíba bets",
-     "fonte": "Estadão",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOUs0VEVFcXBRWTlFTWhYdWNwWk0wdnktVERncHFUTGdxaGtkQXRJSVRpcm1MSGZ2TjVYdlZWVE11aWVwNDhoNWpjZ2JoSWpiQkdPQUNZa2VxY3Q0MjFLTEYxeVJ2VWhtdkEyem8wWHZVZzQ4a0lEUjU4a1ZJbDBBVGZ4OVlPN21nTzJaNFFiR0IzcnVQTUR3QUc1eXFOV2tZUVpYMjFIRGJqZHpMM1ZNU2pHd3Y3dmxvRVl0N01fZVAzYzRkWC1sU1NXUENoYVh2ZjlaRNIB2gFBVV95cUxOSi1IUjh6TGtLN0R4RDZCU1VTTE9kaTlRQzhFeHNPb2NNcm5nMzIxUlB4TUIzR3J0V2Zld0M1anpwYl9rRnBrcVhkcE5FR2NFbW5iakE1QTlfSnV3Z1MzeWRxWjBUZnBGdmZjdnZjU0ZEY1BBeFZCNnhRSW9EdG5MYVUyel9VYW9ZUkdXOEZvVUMxbU5fSWNJYXpkUUZrSmdPSFBSQ1liRGNkRVd4THVUZ3dMLTl4UjJZS255M1EyTWdtNUFhMExnUThZNWdpdVZSblpKSWdsUUV3dw?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Palmeiras perde R$ 100 milhões garantidos com fim das bets. Qual o impacto?",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Palmeiras",
-    "Vasco"
-   ],
-   "foco": true,
-   "nota": 54.6,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 85,
-    "midia": 46,
-    "aderencia": 100
-   },
-   "trafego_google": 0,
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "palme|bets|fim|perde",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Esse resultado diz mais sobre o Palmeiras do que o placar mostra.",
-    "titulo_thumb": "PALMEIRAS: O QUE O JOGO REVELOU",
-    "pergunta_enquete": "Qual sua opinião: Palmeiras perde R$ 100 milhões garantidos com fim das bets. Qual o impacto??"
-   },
-   "manchetes": [
-    {
-     "titulo": "Fim das bets? Patrocinadora de Palmeiras e Vasco se posiciona sobre parcerias",
+     "titulo": "José Boto usa o hino do Flamengo como lema do trabalho no clube",
      "fonte": "Rádio Itatiaia",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ3lLVVJzalBZSUtVcTNIaTlVOUdzNFJYSWhfTnVpeWdKOUxWbkdqbzQxdTJfRk9HMFRrTk10Ty1MM25kWmVTVGpma3ZveUxjenFkcm1tWHdZeG1STEVpd0VaRlB3Tkd6SHNFYzhhb1VhWm5rXzhUYzFISURtbTc1cGNrMXYxSHFKMmdmYWNyR0s0SXBDOE5NWlZJUFhtQkJmVVpDZTA2TmdvRWl6MDcyWTE1SjBLUFhITXVxZDA4U2RnUjdGV183SHI0dnZWeW9faVlnSw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSE5qNHlQc1d4eE1wMmtwMmdJcXNWWV83cnlqVXpTa2xxLTVFT3VRWEtuMWZKTVNHRlk2WkZScTJ3LUFuN1FMNU5hWTVxamF5OWZrSkRidFJ0Z0Q5a1JzMXgxNTc2a2gyVWRZb3FJbFVaLWswRUZyTEYtVHhERWYxS0ZVLVRvdEFMeTBPQ1ljUEZ1QVZ3V0VscV93U2pSb0NZcll4TmF6SkJZVTc2N1FMbmQ5VGJmUDQ2V2hDVURsTmc3bzR3MkRyZjZ0aFZnTlVQLUhpUnhnQUFzOGNHMnFLODVFWmliZw?oc=5"
     },
     {
-     "titulo": "Palmeiras perde R$ 100 milhões garantidos com fim das bets. Qual o impacto?",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTVpTdFRYQlVDMXl6STdxSUNiUmFTR0I3NXRrbF9GeEdsZlhIRWF3YUtXR0JoLVN4V05IOC12M0Eyd0JPWVdaSjJfVnhid1FGNW9WTWM5X3Y5NGtXb19YRFM2dEFEenF4Q2pMRzhMWTRYTFlDUFpqMV9OS215TnMtT1JvZ3A1WThzT2ZtTTVSM2lfYjIyRTFKU2JvYVRJUGpFdjZiWkJwWVp3NzhKRkdOa0dFTUlkdnRLYmZ4RklWa2kyM1ZNWGpsajVGc2hJRUtfajlHWVRGcU9YaHBH?oc=5"
+     "titulo": "José Boto cita quatro jogadores de Portugal que poderiam jogar no Flamengo",
+     "fonte": "cartacapital.com.br",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQbUp6NjYwZGtfU29lRFNwdEVFand5OExMejZtTnlrT1E4MEFnRFlORFRDMjlFR1g0Y2VtZTgzSlJqcWN2QWROdGZZU2RsdHpMY2wxZXppRVM4SHp3Q19CaURrUlRpV2VldTItUVFmOGFvNGNoWWJyUGlVNGduUjJOZEQzTWk2QlZ1MGdIZnF1V2NPYWlpLVIzQklodEMwWGdUMmwxOE1TbTdibVVNTWtRdUh3dDdxbERISE5VdzFJVzlvdW1aSEZuMEFpTGIxSU5PeTZrQWdycGI5NGhiRDdHWld5RDZnZjZrUms3VGluWW04T3pVRmxyZ2VJbl8za1RSWXZTODU1RQ?oc=5"
     }
    ]
   },
   {
-   "tema": "Neto aponta Abel Ferreira e dirigentes do Palmeiras no Vasco a partir de 2028",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Palmeiras",
-    "Vasco"
-   ],
-   "foco": true,
-   "nota": 54.6,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 85,
-    "midia": 46,
-    "aderencia": 100
-   },
-   "trafego_google": 0,
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "palme|abel|ferre|parti",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Todo mundo está falando disso. E você, concorda?",
-    "titulo_thumb": "PALMEIRAS: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Neto aponta Abel Ferreira e dirigentes do Palmeiras no Vasco a partir de 2028?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Neto aponta Abel Ferreira e dirigentes do Palmeiras no Vasco a partir de 2028",
-     "fonte": "JM Online",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUkUxV2c4WHplRGVCNGRvT1R4Y19SbWg4R1ptYzNiYW41YnplMXB2dEI0VTFJci1qR2ZEUVRLZjZLeTRraDhUU1BqQzkzTlhxSTVBT3ZfWGZRRDNsZVd3ZHJodGRWdHM0aUNhOV9VRE9LdzFVRmlQODFjeTdkaldISVZwU0hfc0JSZ2NWbEJCZUtsN1NqRUQyYm5VcUhEc3NySzllVjhPWGQ0M2RrTDFkcV9ZcXFpcmlmRUHSAcIBQVVfeXFMTk1zU1RGN2VXY3czWGVtZi1jLVVWZGhqdS1wTHd2RHlTTkVwQVRjNHFpZVRURzRUbFQ3OF9yaUVzNkNEMkxUUDctVmMtVEVob0xPQUZiZkpwdE9oQXdUZlFxcm4zZmlRN3NMMUc2dDA2WHA4SmxHektjOUJ6bUFVWE1zcEY1WGdnNVJLeF9FTjh2ZVZmVmRlbDdYUnlUMXFrcUFOaXRXWlVGN1pvTThUT3RBYjE5V1V3dWdBeUZGQW5rSWc?oc=5"
-    },
-    {
-     "titulo": "Abel Ferreira vira alvo de gigante do futebol português para a próxima temporada, entra na mira da imprensa europeia e gera apreensão no Palmeiras",
-     "fonte": "Guia do Boleiro",
-     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPYm43MlE2TW1iakQwXzJiWmdEQm5SbGcwbm5rZDhXTC1ZT1c0bzdodHV5bmdkUWZzSmlKLUN0b2s2cjFhWGpaLUN3eGFGY3NPb2tDVG5vcVJHS1RnNEd1Q3Fwbzc5QmFFdU04dDhxQ0xBSnFnYzIxbXlGcnRleWJRVXVUdktXN01DRy0yMHZNLTFwTzFUaWVoZUt0enc1aU1EeV9MNUhjdjFTbkdvNVJReC05WWdIUUVac2JjVGdXNmhxellUUU9xODB5NGlVY2RrWERUY3l4Z0RjRnBwejYwVk1wVjdWb2FiZEFWbHF3QlNaSkpDMGYtUXdMcVlTaV9CbFVLeTZnMU9NRnJjekZIMHBQVDQ?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Corinthians vai receber R$ 10 milhões antecipados pela FFU",
+   "tema": "CBF NEGA PEDIDO DO SÃO PAULO, E DJHORDNEY ESTÁ FORA DO SAN-SÃO ❌ O São Paulo solicitou a liberação antecipada de Djhordney, mas o pedido não foi atendido pela CBF. Convocado para os amistosos da Seleção Brasileira Sub-20 na Espan",
    "categoria": "Seleção",
    "clubes": [
-    "Corinthians"
+    "São Paulo"
    ],
    "foco": true,
-   "nota": 54.3,
+   "nota": 54.1,
    "sinais": {
     "busca": 0,
-    "aceleracao": 76,
+    "aceleracao": 64,
+    "midia": 75,
+    "aderencia": 100
+   },
+   "trafego_google": 0,
+   "termos_trends": [],
+   "n_fontes": 5,
+   "n_manchetes": 5,
+   "assinatura": "paulo|pedid|cbf|sub-2",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Lista ou ranking (3 a 5 min)",
+    "gancho": "Se eu fosse o técnico da Seleção, a lista seria outra.",
+    "titulo_thumb": "A MINHA SELEÇÃO",
+    "pergunta_enquete": "Qual sua opinião: CBF NEGA PEDIDO DO SÃO PAULO, E DJHORDNEY ESTÁ FORA DO SAN-SÃO ❌ O São Paulo solicitou a l?"
+   },
+   "manchetes": [
+    {
+     "titulo": "NFL no Maracanã contraria São Paulo e libera camisas do futebol brasileiro",
+     "fonte": "Santa Portal",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONlRyRDV0V3gxRmRIRmZRelFWVWRDQTFiMlVCMWEySTNoakdTbjNzQWlFcDVJUXVCczZORlliWkxUejJNOWVNREcxUlNMS1RGRk1fV0EyYllqU3BNUDQ3RzNxWVZWNTVCY2lIbHRVaEczNlVjdzR3RlZWcmdjQjJOMDAyOHBKaDNMNHYxN1RpbW9vbWVwZEY0dHJpSWVMcDBIalZVU19kM0Q2NGpENHBV?oc=5"
+    },
+    {
+     "titulo": "CBF nega pedido do São Paulo e Dorival tem problema confirmado",
+     "fonte": "Blog do São Paulo",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNlZlUHBuOXl2dUJ6dVlldDBERC1zdEN5Ujc4ZFIwTm5zMXRZQjBxVGlWS2w0VEdUSHFNMlQ4S05lU1BzMnRwMGhaeWFZcW1wLU11eHRGU2tpS0JXblp4anh3ellCR1RjWlBGTWhrcFM4UnoyWXJwZjNjSktMUWlZRjh0akFwTTk2bUJOVndjZ0JreFpWcTVrQlp4NVI?oc=5"
+    },
+    {
+     "titulo": "CBF rejeita pedido do São Paulo e Djhordney está fora do San-São",
+     "fonte": "arqtricolor.com",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT1k3QWp6bDNXaEp4WlFOSllHd2xoY190WnM3UnZ5VFI5U09UZEdRcUFieVJncmdDLXlUYkphSG1YR2wxOW9LYVkwcTRZODN0U0k5WXhSU2FXeTAzdHFfLVM5cDhaMEFMOUxzNkR1VDJpSGthUDdfQkRFNkdTWHZzWFY0Y2dmbTR4WFcxNFRrcWZndw?oc=5"
+    },
+    {
+     "titulo": "CBF NEGA PEDIDO DO SÃO PAULO, E DJHORDNEY ESTÁ FORA DO SAN-SÃO ❌ O São Paulo solicitou a liberação antecipada de Djhordney, mas o pedido não foi atendido pela CBF. Convocado para os amistosos da Seleção Brasileira Sub-20 na Espan",
+     "fonte": "instagram.com",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sOTd5TFFzeG10aDdES1dzNklNRDRxeERMVklKeGJxTW1QU2l2ZnFzRVhraV85LXYyY194WGFfcjROZzY2Y1lBbFlrejFDLWNzV0E?oc=5"
+    },
+    {
+     "titulo": "Joia do São Paulo mantém sequência de convocações para Seleção Sub-20 em 2026",
+     "fonte": "Rádio Itatiaia",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQV2NyOWg1NVh3YlRnNW1iYmZERjVuUzVFcm9WbEhSekhNbHIxV1pPaWozWXZPM0ZBRFJqVjRQdFRkaF9zaHBMU0ZUdXY3SEE3NUdMN0ZOU0xsLS1xQ1NjQ09tNVZvUXR2UzRUSnhxZFNndUNIenFyQW1oQV9va0pnaWN0X29xQUw5dGFrNmotQ3lhQzUzNmstM0pVTHE3WkllQktDUDRNTjNlSWhMZHFJSEdEV2VNZ3BNb09yOHpHbGtKa3BZVE9XY3JKbGhlX3diSGNmWjl0ZGVjd1B5S3dQbU83aElndWd4TTZMaHNqb3hxUTg3bHEwMEJ4WTBRQ0k?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Oposição pede saída de Lamacchia do Palmeiras após filho vencer leilão por SAF do Vasco",
+   "categoria": "Finanças e gestão",
+   "clubes": [
+    "Palmeiras",
+    "Vasco"
+   ],
+   "foco": true,
+   "nota": 53.7,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 46,
+    "midia": 100,
+    "aderencia": 100
+   },
+   "trafego_google": 0,
+   "termos_trends": [],
+   "n_fontes": 11,
+   "n_manchetes": 11,
+   "assinatura": "palme|saida|leila|oposi",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Explicador de bastidor (2 a 4 min)",
+    "gancho": "O buraco no Palmeiras é maior do que parece. Eu explico em 2 minutos.",
+    "titulo_thumb": "PALMEIRAS: A CONTA CHEGOU",
+    "pergunta_enquete": "Qual sua opinião: Oposição pede saída de Lamacchia do Palmeiras após filho vencer leilão por SAF do Vasco?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Oposição do Palmeiras pede saída de Lamacchia após negócio envolvendo SAF do Vasco",
+     "fonte": "jmonline.com.br",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa3JQZVRTU1lYWTVSRnVNcXZxOVdmeU54TDk4dVNiQnVLQkpoelIwM2tnWWxuejc4UFZqZGQtdW55MXRFaGZJLWRtWlNXc1VxOTJ4VkNqUkl3aWl4ZW1yb2tseVdVbjQ2cXhVUTRsVXMyT3ZPU3JscEZXUDU4emNIZUNxUTY4dXFRWEJWWldtSWFodDJvRENDSFBQR0FuVDhkVVlGVGFnbnJ6b2k5bXJWUEJWcU9jY0UxYXF0cEU2bFNfT29oTmlqWtIByAFBVV95cUxNa3JQZVRTU1lYWTVSRnVNcXZxOVdmeU54TDk4dVNiQnVLQkpoelIwM2tnWWxuejc4UFZqZGQtdW55MXRFaGZJLWRtWlNXc1VxOTJ4VkNqUkl3aWl4ZW1yb2tseVdVbjQ2cXhVUTRsVXMyT3ZPU3JscEZXUDU4emNIZUNxUTY4dXFRWEJWWldtSWFodDJvRENDSFBQR0FuVDhkVVlGVGFnbnJ6b2k5bXJWUEJWcU9jY0UxYXF0cEU2bFNfT29oTmlqWg?oc=5"
+    },
+    {
+     "titulo": "Oposição do Palmeiras cobra saída de marido de Leila após leilão do Vasco",
+     "fonte": "UOL",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNd2Y5Z29NUHUzYjZmY1E1UVVqeW1jUUZTMWxGeVNpQVgwTy1VZlo1dHZiZjl2UDhZNnlVc1NoUlNWZjQtdG91UXZON3lzbUdDTmpOenNFQUswNllNaVVzVHVUdENCOUZfYU5nY0tOSGV4T2VhWlJHUzM0eEVBSVVodm5zb3Y0YVFDbDU0UVdhS0VSWUhmN0dueDZ6aTV3SjVKNmwwcHE2N3BRUnVrbkYzVURKQUdlT0MtdmlhSXlQNXFlcmwtV2xoQTVuWUhzc0dtS2JYdV9fZEh3d2Q1Vmc?oc=5"
+    },
+    {
+     "titulo": "Oposição do Palmeiras exige saída de marido de Leila Pereira após leilão do Vasco",
+     "fonte": "Araraquara News",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdnVDRFV6MTFlN1RBdE9kREVBbk5QY0l6U2lWN1FOemNUMVRqbGFtcTVtUWhRRlJwcEJ5Q3dHTDdhNVYydFkzM0pJbFJwc1FwVS1HT0VPNXhoRFAwOGZsaFJSTFRzSmdzYVcwTmtHVHFGMGJNRWZUUUhpcWlNQlFQQzRkdXlrSEhJcmdTQ2JKb2RyNTFPaDJld21oTFpPLTU3MWdlN0tXc2FxV3o2RVM2eENUWEVodkxKQmk3N2IzMVU?oc=5"
+    },
+    {
+     "titulo": "Oposição exige saída de Lamacchia do Palmeiras após filho vencer leilão por SAF do Vasco | Esportes | O Liberal",
+     "fonte": "O Liberal",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRFFITE1kS203WTNSSTlaYnBPcDVHekFRakVwemlhdFF5ZTRmTkx2TXVtZjNKTUozb3FuT01LajZtRnFMUlNYWDkzUmpZa0lnUm93a0lxVkdqRVczYU5mTHNvNHJkUjFMTTNpQkJlZUxXSWFVdUN3S2wyU0hPX2VzZGxKLXktTTJmd3JxVXB5R29hTnlrX0ZLeUZHNmFfNkQ1QXhaV0lmU2JfTWJzcU5pOWFzUHRnYzBreXBMbVZmVkNoeTVISVdDSDdVb0JFb01JdUHSAdIBQVVfeXFMTURRSExNZEttN1kzUkk5WmJwT3A1R3pBUWpFcHppYXRReWU0Zk5Mdk11bWYzSk1KM29xbk9NS2o2bUZxTFJTWFg5M1JqWWtJZ1Jvd2tJcVZHakVXM2FOZkxzbzRyZFIxTE0zaUJCZWVMV0lhVXVDd0tsMlNIT19lc2RsSi15LU0yZndycVVweUdvYU55a19GS3lGRzZhXzZENUF4WldJZlNiX01ic3FOaTlhc1B0Z2Mwa3lwTG1WZlZDaHk1SElXQ0g3VW9CRW9NSXVB?oc=5"
+    },
+    {
+     "titulo": "Conselheiros pedem saída de esposo de Leila Pereira do Palmeiras",
+     "fonte": "ABCD Jornal",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQalp5ZFRFOVFwUVlDQ0lkSVU3Y1A2STFOZ2ZaOWowQV9Xb0dNb1NjSXQzMGUtcEFPclU1V1lrX3AtZUtGNnFPektDNUFuZ1NHcko0anFIbDdqMUdhN1A2d2NZRFJRX3ZaRVdraks3Q3VSZTBQSklSdWZQVDdkSmxJSUJETU1EUHpZY21IN041TjkzalZwbTJ4Zlo2NW5YOEotUkNGTHc2RDZibTlzY3JOMFRCSTFKSjEwQ3fSAb8BQVVfeXFMT1dUREJaVHFhLWkzRkJ6U1h3V05RSFRudDVqN2ZnV2cxeGZyOUs3Q3k5M2NFZ3pzUlBKT2x4bDR1VkZUbERQNG9VQ2hCQzZfM0ZzVnUtenJ3cHJMOGszaEcwdzdvTGRuMkExQ1pvakpXbEZlNk5QNFA2VnVFb0tQYkdoSjFiQVZRdFJ0d2duVWRrQnhIUTUyaExxYUk5V0lXcXN1Y2RWY2FEd3FmRDhpenRPNndaOFEzVU5fZFVyZVE?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Pedrinho pede liberação para realizar Vasco e Flamengo em São Januário",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Flamengo",
+    "Vasco"
+   ],
+   "foco": true,
+   "nota": 53.5,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 73,
     "midia": 58,
     "aderencia": 100
    },
    "trafego_google": 0,
    "termos_trends": [],
    "n_fontes": 3,
-   "n_manchetes": 5,
-   "assinatura": "corin|receb|milho|antec",
+   "n_manchetes": 3,
+   "assinatura": "flame|vasco|janua|pedri",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Todo mundo está falando disso. E você, concorda?",
+    "titulo_thumb": "FLAMENGO: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Pedrinho pede liberação para realizar Vasco e Flamengo em São Januário?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Vasco tenta levar clássico contra o Flamengo para São Januário",
+     "fonte": "TV Sim Brasil",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSnlPY05VcTZnbEQ1V1FpbVJMUXd5dXFkS1kwYTVyZUtNYWN1RV9PdUI3U3JJNzFreE5aMlNCbmhoV0Vpc0tVZ25tUEJRRFdIWGlka1BNVjEwRl9qOENaeHdMdERhbV9fbngzR3dELURXbXpMQTd2Y3pIRXlRbUZ6cWV4SU9oZTc2NUlKSHpiN2V4dHhCUVVtMnFTMjB6STIyX2hmU29IeW9ZR3Nzb3NOdzNpMGVqbWNOcTY2RWVn?oc=5"
+    },
+    {
+     "titulo": "Vasco x Flamengo em São Januário: entenda o pedido de Pedrinho e os vetos recentes do Bepe",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMDB6c1ltemVFLTRsWGtzalNsZ01zY3FxS2tUYmRRaTg4VTdjVHlHVExtRGJzWmNpQ1NGaWMzLUZSTWtNQ3RQLUhwaXd6NkpHWHhMVGNGNk8zS1BFQmxQS2xTS0JIY1VsbE5BQk5vOHlJS0gwSWVJTmdDbGFnUjJDalFQWlJSLWd4NmZXcFdHMmJ5QWs0ZlhfRFVnOFhlSzd1MkppSjVMTENxZGE2QWVHdkdVT1AwMS1STEJ3YjJoMk1uMk5qdkE5czIxdjk5LVhYd2JYNzhLYUZkQ1pqN0JaZFNwcjJHa1ZZX0xv0gH6AUFVX3lxTE1WTEtRU1h6RDVMeW5lUEpuSUQ3MUxOc29TSURsTUNlbENPTWdqb3dOR2tGZG45bHd1dWp4T3MyVjQwX0xacDBSb1pVaXZtbnp0VjBPRms5emlwdnVqV2owdnVjeXV6dGNQd0dGX2V5NWkySDRXRmczMGh5amVhYlJBQmgzVnhnYml3MUw1MzdISXpCVlRub3dVaHNxZHQ2cWlhVjZFeTFvYldtUlRGU2JDNDlpR0cwZDNMU0JYTEQwRnVkUDRwYzFwdElZZjgtMV9yVWxZa0NTT3Jld1pSMjNfMXRHVXpvaEg5eFNnNVY1c3dUaUlUQkVsMHc?oc=5"
+    },
+    {
+     "titulo": "Pedrinho pede liberação para realizar Vasco e Flamengo em São Januário",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWE9EeGxqOTZOVG5PWXNpRXR1NXV6MWtUZFpSRlpELU5rVU1NTG11ajFaWTJ0QjlVaDh6U1AtRm9hdEpPZ2dXYXZNU3pWcjNYb283dHhWdUZrWFdYUTk1Y2IxRHFnQkZfcldXbTRLaFk4bk9HXzlJZ25rRW1IQmhtRHh3YXUyQWlnNnhGZ09ZM2xjeHBLYmtFeXlsbktka0RUN0VhV19jbjY2d0pwckJIdFVsSTlwZ1ZjeGlUcm00WUxvMjI0UmNtQnBRak1GZWNPamRsR0ZmNDJfVWdRMXh6akNtU3NNSmRoRnMwTmZzYkk?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Jogador do Corinthians anuncia nascimento de filho com nome inédito no Brasil",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 53.5,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 73,
+    "midia": 58,
+    "aderencia": 100
+   },
+   "trafego_google": 0,
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "jogad|nome|inedi|nasci",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Todo mundo está falando disso. E você, concorda?",
+    "titulo_thumb": "CORINTHIANS: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Jogador do Corinthians anuncia nascimento de filho com nome inédito no Brasil?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Jogador do Corinthians anuncia nascimento do filho com nome inédito no Brasil",
+     "fonte": "nsctotal.com.br",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPejRIeGhpa3hmXzB5SElhNUFOSEh0bmlRaVVvQ2pER2RSSXhTekN3bElYYXliZG1nR3RrYVIzSmh2SFNrRjZON3NmdTUyY0N1LVpPUHUyZF9NT2FFa3UzQWZDeHNOVzYwWkoycE5vTmJFUlJMb3Jxd01QRTBQSnFSYi0tWXNHNHlzZFFLOXJ2RGt4SnQ0aDdMOUd2V2JxTDhzaEp0aXVXQnZBR3RYbFpsMUFrQzE?oc=5"
+    },
+    {
+     "titulo": "Jogador do Corinthians anuncia nascimento do segundo filho que tem nome inédito no Brasil",
+     "fonte": "Midiamax",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOanhMYkQwMlY0Qk50WmJYREZhQ2xZeVc2N0dVQmhkbTh1VzFETDdnaDU2aFVMcUtzZnNCaW1tX1Q1NkZTR2M3b2NYbVpsS0c1NmhuNGZVakNCZmdTeC1aNE9sSlVtcGk4NGdSZ1Y4bWw4Z0dsNE5yS3Uxb2VhXzdnWnhyajZHbkdOMDFqbTF6dGxGMllVM21IX2VCQk1Xdm81bVFnWkVFSW1kUU9zWWstU0lyUm9ZUko3Mm1EZERVWjRPUQ?oc=5"
+    },
+    {
+     "titulo": "Jogador do Corinthians anuncia nascimento de filho com nome inédito no Brasil",
+     "fonte": "tmc.com.br",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR1UtU2JFWFkwRFR4Ry1wN3ZjRUZmOXYwYkVreFp1X09UMGJKSmlYd0I3ODhjdFFEX0E4ZFQ1MzEzeE91RUJlUS13OEJLd2FWVWR5U1lCMV9hT2t3ZHJYRGNkVGxxTlgtRGxXczN4blRkWXJRUEJNVmxNeDlnY0J6b0xKMXNLWDQ0UF9zWA?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Bap, presidente do Flamengo, se pronuncia sobre possível fim das bets no Brasil",
+   "categoria": "Polêmica e bastidor",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 51.3,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 38,
+    "midia": 100,
+    "aderencia": 100
+   },
+   "trafego_google": 0,
+   "termos_trends": [],
+   "n_fontes": 11,
+   "n_manchetes": 16,
+   "assinatura": "flame|bets|fim|brasi",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Explicador de bastidor (2 a 4 min)",
+    "gancho": "O que ninguém está contando sobre essa crise no Flamengo.",
+    "titulo_thumb": "FLAMENGO: O QUE ESTÁ POR TRÁS",
+    "pergunta_enquete": "Qual sua opinião: Bap, presidente do Flamengo, se pronuncia sobre possível fim das bets no Brasil?"
+   },
+   "manchetes": [
+    {
+     "titulo": "GOVERNO PROÍBE APOSTAS ESPORTIVAS NO BRASIL E PRESIDENTE DO FLAMENGO PROJETA GRANDES PROBLEMAS FINANCEIROS!",
+     "fonte": "instagram.com",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SU0lxV09YV1c1dTFVMGRMSHVYMEIzRWtFbzhVUTBlbWR4V3A5LXZKM19odjl5V2lHYzFHYVdQNjVOMGh2OGFQUE0xNlZZRExPcDBnTFBn?oc=5"
+    },
+    {
+     "titulo": "FLAMENGO DIVULGA NOTA DEFENDENDO A PERMANÊNCIA DAS BETS NO BRASIL!",
+     "fonte": "instagram.com",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81aDVKeGRHSEotOUNWQVNEcHZJdVp4MXNvMk1IVjNGV2VNM1JEdEtObGVXR0VTYkFPWXJDVVByZDZtZ3dkRThrZ2c2a1NYSU93S3Q0emlR?oc=5"
+    },
+    {
+     "titulo": "Quem leva? Veja caminhos de Flamengo e Palmeiras até o fim do Brasileirão",
+     "fonte": "Metrópoles",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmhYVlJXR19WcWU4WXh3RWU3dHdUTXFuZW1SaDZPRWw2UTlqYmpPc2JFeHhhR3JtTkhjbXRFOW92M3M3OTJ0My1tRDhZVmp1Mk5qQy13V1JIOVRHdjFSTGo0eXlFQ2VvX1JhT0RheDhLSVhGLURKSS13c0t3WGFMdHJKZlB2RWNEeVpRSVY5R2xlVUZ5M3lMUFlLalI1eUxJUUlad3AwYUdOTFRF?oc=5"
+    },
+    {
+     "titulo": "Flamengo, Fluminense e Grêmio se manifestam sobre proibição das bets no Brasil",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXhMRW5KRHJlV0tpYlJLNWwtc3o0MXdjWHFpWU9qMnJsRG5UblZkOWpES25hYTVhT1hUQV9UTk00eFdmMkJrTERRRlA3NDVQT1NSMlpSY29xRHhHZW40eDI4ZU9URE9INF9CdUt5WFIwMVZOcnBUMVE4T2taNm5JQXJQQnQzWkhNeDJxZWxwOVkxVnNiR2VFeV9heE80R3A4a1AwWg?oc=5"
+    },
+    {
+     "titulo": "Martelo batido: fim das bets no Brasil preocupa o Flamengo",
+     "fonte": "NossoFla",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UYzAwdnlKc0IwLWQxX2dhS2tqQmhidWcxTFdHNVpSc3BVeS04ejlBd0pKcXZESzhhd2JITnd2REF5SVJzbHdnTVpSNUFCOUI2THdPa1d3SklJXzBjRUxxTmppZWpGQ2F3MjU2M0VjMktZTTVDTHc?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Boto diz que Prestianni, acusado de racismo por Vini, \"caberia no Flamengo\"",
+   "categoria": "Polêmica e bastidor",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 49.9,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 61,
+    "midia": 58,
+    "aderencia": 100
+   },
+   "trafego_google": 0,
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "vini|caber|boto|flame",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Explicador de bastidor (2 a 4 min)",
+    "gancho": "O que ninguém está contando sobre essa crise no Flamengo.",
+    "titulo_thumb": "FLAMENGO: O QUE ESTÁ POR TRÁS",
+    "pergunta_enquete": "Qual sua opinião: Boto diz que Prestianni, acusado de racismo por Vini, \"caberia no Flamengo\"?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Boto diz que Prestianni, acusado de racismo por Vini, \"caberia no Flamengo\"",
+     "fonte": "Metrópoles",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaDdVLUxtVlB6LV85VnlFRG9KQ0tZTU11T3QyRWdUV3ltR2NqN3Q5bHVSSkZOY0gyd3ZqaXQyLW15YzgwaWRNUkswY3h0M2pTX2RHRjVmSDc4NmRQMzNPNDBVU2pVRy1WS0VvWkpRaEhEVjRJa2dRajBGUVVwWm9POFg3WVZmdUxpS2xRc1JwNEsycHZsckdydG1JMFdfa1BjbkpobU1nSUxwcFE?oc=5"
+    },
+    {
+     "titulo": "Boto cita desafeto de Vini Jr. entre nomes que caberiam no Flamengo",
+     "fonte": "NossoFla",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xT2IxNTZZcDc2UVNYTk9VajUtaTc1X29kQTR2NWxqZ0VjVEdYWHVSaEtGbWlUdlNHcU9UX3ZPUFdSMFY3U0pxZ2M5QU04WjVjNlVZN0VXVXRac1BuZDV6NVdjRnc5aXk2akFmajZnMkFkbExZ?oc=5"
+    },
+    {
+     "titulo": "Boto inclui Prestianni, acusado de racismo por Vini Jr, em lista de jogadores que \"caberiam no Flamengo\"",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVnZuX2g5UDNLRTQ5V3lGb3Q3WmhQYlJQLUMzNXVKNTdZYS0wbVBDOFpSa1hzV0pBTVdWb2JDelVjaTEySUE1T1IwQ1p6N1hTN0R3R25tVTQ4dDl3dDdiZzJQX29BMXpseVJqZVFsMkV1dGtaSVdKZm9CSUxMaEV2RFc3SV9mcnVQMjlEMFNZajlyMHl1Tk9yX2VJZnlUblNTakVfajM2bXB1d2FhMHJ1bnRGRTNTOGptcGdDUU01dG9TaEtxc25OU2s5VHNSd3hJSmhMcl9ZMW0ybnZIT2JFQ3BoMllfWkZINnVVLWc5RmNwV0kwcEZ6Z0NfY0NSUdIBjAJBVV95cUxOM1ozNW1lZDJOS3dmYkRlOTdqWGU2R2VLcERQNmVLT3ZFUFoyMlNhWm55N2ZhTXpQdDdlYjNXTnBFUlo3d0NtTm5yWUZMX0VOTi1qcVNpb0RrdDdVUkRBamo2NDNTWTJnaWNZRnA0MzZTNlU1aXNHdkpBOXUtSzFSd0tGWUI5eWZPcVhEamR4ZEZBWDdaN2dUdjNwb0JsT2lRS2Q5b3JxdE9RWHcyakNlR0dNaEtyU0F4RWVQczZvU0k2NUZNa0lKYmVIMnYxNUVONTlZZEEyMTBiUjdRNEcxanZ0UkV3b1JxWGdMMDJ3aVY5MGhCZFJzaFQzeldnc09kdVNOMmp3cFMxVkY5?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "NFL no Rio: técnico dos Cowboys compara tamanho de Dallas e Flamengo",
+   "categoria": "Técnico",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 49.4,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 48,
+    "midia": 75,
+    "aderencia": 100
+   },
+   "trafego_google": 0,
+   "termos_trends": [],
+   "n_fontes": 5,
+   "n_manchetes": 6,
+   "assinatura": "cowbo|tecni|flame|nfl",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Opinião forte (60 a 90 s)",
+    "gancho": "O problema no Flamengo não é só o técnico, e eu explico por quê.",
+    "titulo_thumb": "FLAMENGO: A CULPA É DE QUEM?",
+    "pergunta_enquete": "Qual sua opinião: NFL no Rio: técnico dos Cowboys compara tamanho de Dallas e Flamengo?"
+   },
+   "manchetes": [
+    {
+     "titulo": "TÉCNICO DO DALLAS COWBOYS, DA NFL, ELOGIA FLAMENGO E ESTRUTURAS DO CT NINHO DO URUBU! Remix de @espnbrasil",
+     "fonte": "instagram.com",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSVpoSUhTTWlHR18xTklGQkNSWGVIMmJ2cVJPSUZKNTBCVXJkMWFZOHpnRUZsRnlhRTByR1NZckozQl9tVERsUm96eGVFZkpPT3pkdU1n?oc=5"
+    },
+    {
+     "titulo": "Técnico dos Cowboys compara cobrança da franquia na NFL à do Flamengo",
+     "fonte": "Rádio Itatiaia",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORGNWRldWNGtzcHJNZTRxQjB4Q0tMUFMtSjd1aFNDNl9lOWtxZHNPV19pc2xDeGNFem82MjFqTXRYN0pPby1IdGFuSlcyODA0SWdOU2hwNXhVV2w1UVMwakdja1FleHF1YmY5OG1ac3pidFFYSTFJay1mRmV2RUU0LUpqbllRazJLRmNFNDBpeWMyY2dmX1l2X3FVdklGTmVGSUxVRmJLQ2FyUUhVUjJtRkwwbU9kc3NodUt6WDZxNnU4dHo2QmlMNw?oc=5"
+    },
+    {
+     "titulo": "Técnico dos Cowboys compara gigante da NFL ao Flamengo e revela pressão no time: 'Estamos acostumados'",
+     "fonte": "espn.com.br",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FSXktYW5ZVWFFVlFHcVp6bEpHVWNLVWlyZ3V3V0todmM2OFNSTFgteERQX2FPb3hLY1RmUG9nNDlRcVBocFcxNHJaSm02bWtRd3k5SEI3Q3VuRkxhVEE?oc=5"
+    },
+    {
+     "titulo": "NFL no Rio: técnico dos Cowboys compara tamanho de Dallas e Flamengo",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcWtreVlJM1JRcHpCRU0ySnBNQmhwc0Q0V2lfbE9tY29TT1lzR0UxMkV5UkhrMlNkX0VuWVRvdU45ckVyXy1JMGdQZHZYdGQ2TkM2d290NHhPdWpKczhYQmpXMVFXQm05UllJMzRRZTBIQmp5QWkyUlNXQ29YUlQ4Qk85TmNydGd0aXFXZTdsVkc0M2lKTjBhc1Z5MUd6bVEyaXp4Rkl3VkI3U1pfaldNV3ZqM01wQQ?oc=5"
+    },
+    {
+     "titulo": "Técnico dos Cowboys compara time com Flamengo e é sincero sobre pressão na NFL: 'O mundo todo assiste ao que fazemos'",
+     "fonte": "espn.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQalpxeWdvYnZXMnBjelFpczRrU2VTZzNFYzJXbmt5bF9XaWJva1dHZ1ozU0dqM1R2UjBnaEhUbnJKM3R5U2wxSkFZeUM1ZXRGUTBYVjNaaGpGeGdRU29oUnpBZkxTazJFTDFXLWlieFd4Vy1LUFBGTWx3aDFndnA3dVJkVFAzNjgzclZCbXk4STNKWExlQTEtYUV5ckFlR0RBWlZGdFI3M3k5ZUpXRGhPR2toSlptUzVlOVVIOE11V2hRS2ZSZmZUT2NVV3hDLW1XRkh1QXJMZktxX3paYmN0WA?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Pedro Morisco surpreso com 1ª convocação para a Seleção: “Pensava em criar casca e daqui a um ou dois anos ser chamado”",
+   "categoria": "Seleção",
+   "clubes": [],
+   "foco": false,
+   "nota": 48.1,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 94,
+    "midia": 67,
+    "aderencia": 70
+   },
+   "trafego_google": 0,
+   "termos_trends": [],
+   "n_fontes": 4,
+   "n_manchetes": 4,
+   "assinatura": "moris|surpr|pedro|convo",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Lista ou ranking (3 a 5 min)",
     "gancho": "Se eu fosse o técnico da Seleção, a lista seria outra.",
     "titulo_thumb": "A MINHA SELEÇÃO",
-    "pergunta_enquete": "Qual sua opinião: Corinthians vai receber R$ 10 milhões antecipados pela FFU?"
+    "pergunta_enquete": "Qual sua opinião: Pedro Morisco surpreso com 1ª convocação para a Seleção: “Pensava em criar casca e daqui a?"
    },
    "manchetes": [
     {
-     "titulo": "Corinthians vai receber antecipação de cotas de TV | Valor é pequeno comparado aos caos financeiro",
+     "titulo": "Convocado pela primeira vez, Pedro Morisco admite surpresa ao ser chamado para a Seleção",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYm5Ca1p2VnlNZWhFZXIxWUlxblQ5YXpZS2I1b3BIZGNPa253YlNlMG9zcWhhOW5IclVrT2ZweDVWUXEtckF1cVhXUGd5STB2OFcwOHZkMmdOaldmYTRVc1lkYUY1aW1sQ0llcTJXcE9NNzhOQ0djZE0tcDY0X2cwWDg5OEU5dFo0OVZwLWttYTJudHRIQ041ajhybHdfS0nSAaQBQVVfeXFMTVFvN2ZFVjc5S3BrOVBZbUFBWDNvTE1pa0VlQWZKVXYzb3BoSUlIV2NwRmE1d0t2Z1dfdHd0Q09QNGl6U1VrYWNvUnJtdlJvQm8xQUdzLU5KV19kUmNiYW1VZGg4THRxdU1NLU9Vem5sUW9reGtIRVFmNy0yZUU4TUlQQ0JRYVhBQlBsSWZPMlo4YlJEY3BsMDdfaU1rSzR0Ulp4MmY?oc=5"
+    },
+    {
+     "titulo": "Pedro Morisco admite surpresa com convocação: \"Pensava em um ou dois anos\"",
+     "fonte": "band.com.br",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd05nT2dGcmxDUUVJYlE1aFpUMUlpUk5OR2UxUXF1eDJvclZveWgtSjFSYk52TExhaHFLVzVXMWlzNVBJblUtQ3UxRHM5ZzZLbDN4d2k5SDZzTDdfSlJIYkxKMlIwcV94R0h5VkpUdHAzcGFJNWlNVUtaMmpjVEdHYUlJMjduMHptN19WQ1BXX3ctUlNpdmoyVEMxeXVWRXJGR0RWcmswSGdxY3RFUnV6Q01HYmZVdDRpem51WmxiUm5YMzlabk5BWHk1WQ?oc=5"
+    },
+    {
+     "titulo": "Pedro Morisco revela surpresa com convocação para a Seleção",
+     "fonte": "iG Esportes",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVmJ6UElRYkU1TzRPWGdMbjE2Um4wVjEtZFBaSlNwN1lMQkk0OTI1TTlVOEg3d0VkQ0VTYjRNZFRIdHFjOWRCRGFFQU4xc2ZOMEVqb19RTmxqdDVBem5JTHk2VXJ3NksxTGdKaXZ4S1lkZ3pMSzdleTd1eXRpUkNZdGR3cWdjVS0yZ2JTME1TRWcxR1NaNXg2QzRqUC1VbTh6QTFTRTBXNUdXSThzVndYblhTcXhTX3pBbDAzUNIBwgFBVV95cUxNSlZ6TEduQ3d0S2RKbDQyalluM0ZhSzJvQ0dkME5qOWV5RHlHMndjcXJUWV9WMlczcWQ1bHNMMnp5ZkF5UDNEaFBXekhHNVlNVW0tNnY2NXVXV2xSTUVVaC1salV1WkpJNV9jOGZ5b3JZQ2NTMmx4SHFFbjBJZDlpQkUtWjA5eWJsX2JSbVJrek5CQmt2aER6QlprM0h6Z2tpLWx6bFdzUVAtZTFvd0MzQVJTMnNQNGN2a2lzaTI3QXZrZw?oc=5"
+    },
+    {
+     "titulo": "Pedro Morisco surpreso com 1ª convocação para a Seleção: “Pensava em criar casca e daqui a um ou dois anos ser chamado”",
+     "fonte": "CBF",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQcmpkdHhQVHVMWmdlbnZUOXJkeFhURWJ0ajNUS0VQU3o3TmllMzlhUHNZTWdHcDRSdmRyVXBSZG5rRzhNV0VQVkh5WlRQWWF5TG9INk02b3dBcXBOVXUyZlBEZFdxTEhFZW93T1NuU2tHZUxRclZHSFZwWllrUU1aTnIyaHo3QzFGTUVfNzU5dUp5MlVheGR3YkNmYVJUZEtuenJ6LVJhcTJ4c1ptblNiY2RGLXFQWkZkb1J6a1M1b2ZCTXhza0w2eTFDS1dzYS1EX0xVWHdJZ0llMzlyNkFBQzJZWS1tM01BVHh4VEdmUmc4RjBuV05xbFczbHVBSzZ2dzJSVnFsOTZhbXU3ZWE2Mml3?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Corinthians renova patrocínio com fornecedora de água e passa a estampar marca nos uniformes",
+   "categoria": "Mercado da bola",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 47.9,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 48,
+    "midia": 67,
+    "aderencia": 100
+   },
+   "trafego_google": 0,
+   "termos_trends": [],
+   "n_fontes": 4,
+   "n_manchetes": 6,
+   "assinatura": "patro|corin|renov|unifo",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 3 min)",
+    "gancho": "Essa negociação pode mudar o Corinthians, ou virar o erro do ano.",
+    "titulo_thumb": "CORINTHIANS: VALE O INVESTIMENTO?",
+    "pergunta_enquete": "Qual sua opinião: Corinthians renova patrocínio com fornecedora de água e passa a estampar marca nos uniform?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Últimas do Corinthians: proibição de casas apostas, renovação com patrocinadora e dupla na Seleção",
      "fonte": "meutimao.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOU3hjVDRJS21aS3lpNWpxUHAxZGdpUFpuYzVIT182Nm8tSURTa284X2JXWDdSenktRC0yQmFPeWpMY0I3bHRLTEFMTlhuNy04ZUh2MncyNzVSQWtkQUYwaDdpak1kMDJPdWo2RV9EaHdYQlk4UmRoNURsMlZDY3NhLWNsTjYySWJKZE5WV1EyYjhLM1hNX0ZMN3Q0WjN1blJRNG9wQ1hNZXdRUERURmJxaHJ1RnZDYnVjNE44aFhFcklxeDIzTTJiMEI2akhpaGQxSF9vUXNKX0ZSTC1yZDNVRE90WjRWS0Q1SWlBWWRB0gHuAUFVX3lxTE5TeGNUNElLbVpLeWk1anFQcDFkZ2lQWm5jNUhPXzY2by1JRFNrbzhfYldYN1J6eS1ELTJCYU95akxjQjdsdEtMQUxOWG43LThlSHYydzI3NVJBa2RBRjBoN2lqTWQwMk91ajZFX0Rod1hCWThSZGg1RGwyVkNjc2EtY2xONjJJYkpkTlZXUTJiOEszWE1fRkw3dDRaM3VuUlE0b3BDWE1ld1FQRFRGYnFocnVGdkNidWM0TjhoWEVySXF4MjNNMmIwQjZqSGloZDFIX29Rc0pfRlJMLXJkM1VET3RaNFZLRDVJaUFZZEE?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZ0tZZkRMVzZyNkNlX2N0NGpaLV9pU1FJa0dIRnhIZUx2cHRkV2NrZmxDYnEtTExnb05EMGNfdW9ad1B2ZmlWazQ0ZktxRGJWZ2NNZTR3ckRzYkNhaEU4bDdDa3ozS3IxLXY4V3pUbWtHaFRvX2hsNU9CUnJ2R0Zfa3JOMm05cmg4QWVPclhLdjdRaGtjZHNuV1F4bUxTcmxoY2xRcnJ6aHcyY1c3dzBVQ0w2ODNGR0tFSXI2VnFLbXRCdjNtdGtKRlVSZ2JxSGUyeS1RM2tVNW13ZkZKUk0yall6U1FYVHJMOVdV0gHbAUFVX3lxTE1XOXVHY05Mb2VaUGZqak5MU1FoclZkR3BsSXhJYmlpQVJhNE1aNlMwOUJRU1JwbzRGb3hHX2hJMVYzRFRtMVhlYnlwYWZweXo2elRneV9SSDY0Q0VxeGxjekFyZmhFYlNBTFNQV04xV1psUjNMMWxDb2w2bVJpSHBxYkR3ckxtTjhtWGhicVhyb3pzNjJDRmFHU0VNWXAxTG5LR1FwbEtnNFUwZWRrejIyQXFDS3dlVFAyQjlvQkFFWnloOGxBS0xxWURieU1rYVFsbjBSakkwVVRxMA?oc=5"
     },
     {
-     "titulo": "Corinthians vai receber R$ 10 milhões antecipados pela FFU",
+     "titulo": "Corinthians renova com patrocinadora e estampa marca nos uniformes",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNXzN2cXpvWldWQV96Q2FTTFRaNnBRUXJhUEhWcUdEQTUxVjhUTC1VOEhSSHpFOWhiWDh4YWZ0cEYwV0dYcF9uaWJZVFlWbEhtUUduQWxFYlpHTGRYaUpkcnZBaVlZZ1U0VUpYbUtEeVR1VnNWMUlNTUREcTdsX1hELUtIUVdJVEdQU1J0TmVVUVMzSktGQlpidEFaRV9UNjBNTmVaRnRBYTdySjFVUUFkYkdiZzVjU1950gG-AUFVX3lxTE5FN0JySzg4T29ISXdscTU2RHdveEtBZEJscExZRlRVUGh4UTNFR0U4MFFLc0Y3NVZOaTRkWDJyRExxTXZseGpybk9yb3poY0VWOS1LS3A5Y2ZNQzMxTFVBemxuYWJRblJDWlhfdmUwUC10VHFzd1owZ0hjbGczTEdhMmFYQmpRRXlfTHp6RzJtcmtfdlVHRzM1OGM2Q0hIb0FmUlZXbl9aMzRseHROajVDbXZMYzFTdHZGZVNVT2c?oc=5"
+    },
+    {
+     "titulo": "Governo Federal anuncia proibição de casas de apostas no Brasil; Corinthians monitora patrocínio",
+     "fonte": "meutimao.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdlozTlBnTkRrZzJPSEo4bzZWV21yOHV2X0FJNU40UzMyVGo4WE8xaUw0VDN1ZDRxTC1lNXptRFcyVGY4cFpWT3lyNi1rWWc0QW9hNVpESkU5NHhwSUpROFgtWlYzLU5HRWNCYjV0MlFaOFJNMUZ4NlRReDVvNTJfa2hIeTB5cXQ4X3hZSXZHaTJrR0lIZGg1YmRoaHN0QnlBeDhQblV5TXN0R3M3andfTUYzeVRUd0taTm9ZMmRBSWNzWmJicUJhZXFiTnBRYm5HcWxmaFRKVlVPTWhVRXdobDEzRDc1c0RVLWfSAdoBQVVfeXFMUHBCN1ZZa0xPMnFZRHNQN0FWUW9JSzlTdWFCZnJ2UEttaF9kZjYyS2xjR2Y5MTZIVTdwNjJMY05SVFZic1FXQVlaYm9DX3FLclhFTElzZ1BVZkVlblZyZFRRSDJhcnJnRkdNZHNmdDVKWXNiWW9yV0VUek1BRGxjaVptU25qZEtJRy1PMTlaNURVaTFZYUdrLXMtWVY2QU5pSjdYRTFfektCM1hySU5BZEh5MzVaOWhQdW5pTEp5TUdMMEtFUmw1cjZBVDdmcnM2VE1XYUZDT0NBOXc?oc=5"
+    },
+    {
+     "titulo": "Corinthians anuncia renovação com patrocinador e amplia acordo",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEhUQlBPZC04NFBLRHBmTW5HNHBpeGozWVNWc2FOOG1BbGlpZW9yOTVpTmlZd2pBMkNsWUJLYnNXQmFBNjFTbG5BSXc5YkNscklGeVB2aEdQZ25IajRyZ1hxWERuY21pTHE1ZVJINVlWX2hlb0tGVm9LNUZlZDFObHNCUHd4cElNdmZFME1CYU1obTlMSG1ITTFPeUZMNng0clNCM0g3SQ?oc=5"
+    },
+    {
+     "titulo": "Corinthians renova patrocínio com fornecedora de água e passa a estampar marca nos uniformes",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLTdnZjJKX0lvdlg5c2FTWlg0LWx6RkZ4X0lFYS1NNFFtTjRxNDhHVmluU1ZndzB6N1QtT2FCUUZPbUJVZ2t4c3Q1SEgwNWxpNGdTS0VYbm00bktfaDdWeS1Nb0c5TW5MWkVOUGloZ0FDMWF0eEp5b2hndUpNTXdrM0l4aFhtN3MyeXVDQThCckZKSnB2dkxxWmU3QzNOUTFyZEVLaEt4MmRjZ2VJeFFadXdsNW1EZWJlQ0hleVgxU28zMnpQWm5jQkQ1TXpCS193Tk5QU3JTRE9fUXhDTS1PVHdURUZCc281UXgtX0YxRkJKbWpwdGpZ0gGGAkFVX3lxTE4xRUtmckhKUmhRWTBpREJneHcxRl9FamU4cDQ1aWwyX0NJS1ktNGJlNGNkN3NYQktmaE1ldnpyZVBSdUJVbDJ4N1RWSktYdzJTRkNVQmRLd0JkcExJcGJJOHRHbTRVdzJ3NU9CX2Q3UGxjWjFTajU4NkRyVFc4ell3VnlBZ282MlVxbmpWQ0k5V05ndXp1QzEwUVVOWFhzVHBwUzhWV203b3VoVkt1Y3A0MUdXTDY3NVRDNzZXbjNlc3pqQy1IZ2VnMXc3Y0ZiVTVXTi0zVjRZX29jZHR1enJ5U1RRNTBPMTEtQ0xtS21lWk9iMkVNSGxLRGlWenpKaWZXZ2pmTWc?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Valencia recebe confiança do Flamengo mesmo com poucos minutos",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 47.2,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 60,
+    "midia": 46,
+    "aderencia": 100
+   },
+   "trafego_google": 0,
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "confi|flame|valen|jogad",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Todo mundo está falando disso. E você, concorda?",
+    "titulo_thumb": "FLAMENGO: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Valencia recebe confiança do Flamengo mesmo com poucos minutos?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Valencia recebe confiança do Flamengo mesmo com poucos minutos",
      "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTi1OekRkZGlKRVc1ckdWM19Yc0pMWHlWV3lnZUxJb2ZBQkF5N0dvQmJYTTl6ZE5qN2xvQ1FGZzJYcVA5X3g5QUJpd1dfX1Fid0hSQVN1dUZCSzFPbC1VOGYwUGpRYWwxV3Exa0d5MEpCc1VwamhTQmp2Ums2RmlUcXpuRkRmOTBiay1JNndWMkluZG9LaVJvSXJOQmgycGtmeEJjd0d4b2VubV9xbllPM2Z4U0lBX25ScWFqY1VLV29UZ29DTkw2RE03TjIwQjVXdG5qQjFtTlc5Z0UtQzdseno0bw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaUFaa29PWnRqZXhSRDEyTkRvTktHeElkOVp5a2lObE5kYUtXSW52MjJWeHlYNlJYcnZBYllLWUJjTTNvS3JaWndDZkoxUGpQU0dxMGhCeWlqa2lyUE5udTFkX1lJQjJRYWZnRXl4LXZOeXNOTEFLXzBqUmtuX2QybVRySTY0cUZZWXFZeUZXcVpaZWpIclg1eWNwbG5Rakw1Q2FOZWpvRjlZNGtJMGNVNmg4bHZsQUtoc01zbjMxT1A3RHZMRW1CRDlJUTZVdi1zZFhpYmdiWlduMkVQRXdrZzlNbU9MZw?oc=5"
     },
     {
-     "titulo": "Corinthians recebe R$ 10 milhões de surpresa, e jogador do Timão marca 2 gols pela Seleção Brasileira",
-     "fonte": "jornalcruzeiro.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQR1dsLTRsSTJtd1RtZVhaYy1yQ2t2UndZYVVhTGl1M3lNOS11WGxTQVdKOHFqSzJKUm03S3hDLV85SXZrVGpiLUV1WmtOSHhXSkd1cGZXR0RQWEZaZFFpbGRESTgzaFcxX2Nvb0FZaVhyMHRMaWhPcmVNLUlkY1Rzd1pXSTlnV1N4QW9Lb25iT1o3dnZ3dUhDZmVkRjBZaFVSNlNWOUZ2VzdGenBOa3pHY0wxN0pvVkNCNlZtUFg4UmtSUWxwbGpRZWN3Skd1Z0V4LUtBbjJCWTNYcjdQeUxzWFZnRDdqWVJOcmFhQ3hReHBiUHZVcWJJVWtTSlk?oc=5"
-    },
-    {
-     "titulo": "Corinthians vai receber R$ 10 milhões nos próximos dias",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZi11blRWODZwc0FURS1kNHU2dXJsRHlwVW50YWVha21iOUZtd083NlFJcGY3bGJGNUs5dEkxczdldE0zZFR4OVdoTVdOWE5wd19EX2hoUDBoVWs1WExTYkE4UDhDQWtubVcySnFBenNidGxEd1FuejY2b19adkhHS05NM2lzVXFpeWpRS09QazgzV29lbWdRa2lWdDBNVXpWQmV1TVFPOW9KVno4Yll4ZTdMVnllVTM4WV92dUlGM29OanZocFRiUW1wWFh4VXpieDZERFdqU1NVQl9PajZB?oc=5"
-    },
-    {
-     "titulo": "Saiba o que o Corinthians fará com os R$ 10 milhões da FFU",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZTZRMkQ3ME05WTQwWFIzY3BYeXlBVFlZRW9ZR09pUnNwYy1ydUJtYWhUMG1NeFJIY2xrZGltZHh2UFZkN1ZRZERtc2szZ3NUOGppWXlZMVdPRF9kdG1IQTZnTDEyT3BQbFBsa0hwYnlYSFFIWGp5ekE1WVRvSXh5alY0U3daVTNOYXF2ZXdNdEJFZGVINUM0cXhBS1JlLVN3WXFFQ1M5bkdvLTdtbXZ5cGJicmpWaUtDUlpFZHRRTjA1WGVNeG5CWUdnd1NLMURvT2xvYXdIR19qXzd4cXc?oc=5"
+     "titulo": "Flamengo prega cautela com Valencia e confia em evolução; Jardim revela planejamento: \"Jogador que acredito\"",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdFRyOXRjaFpucHBiVzdVV0tNeDZBc0ZGcHhsWlhNWnVFNzg5bndoM0VvY3U0UEdVQkZjNm42N3poNkpOemVDTkE2aWRFRXJwdDZsMW8wOGZFZXBnY1pKVDd3VWZLLWRJZmlBYnktZVh0TzVVODN5aTdVRTdjRXRSbnVtV2NWWEdVMDZ6dkdIU29JTXZiUEd4Y0VNZzJFVVNTWHV5VXZUT3puWWdSM2poRlN6Wm9pTVFYV0FKdXNuY3hDUnV5aTdhRXNCREExRkgxQUtLM09oemUzTXNIQlRTOS1fM1RGb0hrZ1lsMFozQTlqWVpHOV83Y3V1TjlWZldWelJZ0gGSAkFVX3lxTE8zQTc5MlJyRVlnM255cXdnbkJMTm1ZZV9jbm9jNW9aVzhZNlFON0VwT1pRY0doNDk5ZU9iZXprZUxCcU9pQWZMRlY0dU1UNUpiWWpTVmt1YjMzMlZKOURCSE9mUEdEcWJ6UnZpYnJua2hsRDhlUHYzWXJxcWhoLVB0ZjRPeTRiWnVrX3ZZTWxsRmxDbjlCOEJQWkJKREFybEpnZHU0THc4ZzlUWF8zT0FLeEttb1czVzAwendYVjBnakMzNEQ3RUdXYzRPQjlIUjdUZlpyUFAtOWQ0WEVSaldyUnZXOWYtZjh2dGEwVDROenNybEZhSm9rMHRLQzRtcVhuTW0yUDNnMklyWlpHM0F0U3c?oc=5"
     }
    ]
   }
