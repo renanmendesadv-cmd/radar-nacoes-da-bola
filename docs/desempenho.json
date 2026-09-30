@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-30T03:00:39.373747+00:00",
+ "gerado_em": "2026-09-30T03:08:36.525450+00:00",
  "canal": {
   "id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
   "nome": "NAÇÕES DA BOLA o canal de todas as torcidas",
@@ -135,7 +135,7 @@
    "formato": "Lives",
    "duracao": "2:43:15",
    "pct_assistido": 0.7,
-   "fica_30s": 100,
+   "fica_30s": null,
    "metade_sai_em": "3:16",
    "metade_sai_pct": 2,
    "maior_queda": {
@@ -151,7 +151,7 @@
    "formato": "Lives",
    "duracao": "2:33:56",
    "pct_assistido": 1.1,
-   "fica_30s": 100,
+   "fica_30s": null,
    "metade_sai_em": "3:05",
    "metade_sai_pct": 2,
    "maior_queda": {
@@ -167,7 +167,7 @@
    "formato": "Lives",
    "duracao": "2:16:48",
    "pct_assistido": 1.1,
-   "fica_30s": 100,
+   "fica_30s": null,
    "metade_sai_em": "2:44",
    "metade_sai_pct": 2,
    "maior_queda": {
@@ -183,7 +183,7 @@
    "formato": "Lives",
    "duracao": "2:31:09",
    "pct_assistido": 1.0,
-   "fica_30s": 100,
+   "fica_30s": null,
    "metade_sai_em": "3:01",
    "metade_sai_pct": 2,
    "maior_queda": {
@@ -199,7 +199,7 @@
    "formato": "Lives",
    "duracao": "2:22:45",
    "pct_assistido": 0.9,
-   "fica_30s": 100,
+   "fica_30s": null,
    "metade_sai_em": "2:51",
    "metade_sai_pct": 2,
    "maior_queda": {
@@ -254,22 +254,10 @@
  ],
  "melhores_dias": [
   {
-   "quando": "terça",
-   "n_videos": 2,
-   "mediana_v7": 2021,
-   "indice": 15.25
-  },
-  {
    "quando": "domingo",
    "n_videos": 7,
    "mediana_v7": 327,
    "indice": 2.47
-  },
-  {
-   "quando": "sábado",
-   "n_videos": 2,
-   "mediana_v7": 153,
-   "indice": 1.15
   },
   {
    "quando": "quinta",
@@ -302,12 +290,6 @@
    "n_videos": 24,
    "mediana_v7": 236,
    "indice": 1.78
-  },
-  {
-   "quando": "tarde (12h–18h)",
-   "n_videos": 2,
-   "mediana_v7": 144,
-   "indice": 1.09
   },
   {
    "quando": "madrugada (0h–6h)",
@@ -409,11 +391,11 @@
   "Finanças e gestão": 1.0,
   "Lesão e desfalque": 1.0,
   "Seleção": 1.0,
-  "Jogo e resultado": 0.976
+  "Jogo e resultado": 0.964
  },
  "recomendacoes": [
   "Quem mais traz inscritos: Lives (14 nas últimas 4 semanas).",
   "Maior origem de público: Página inicial e inscrições (85% das views).",
-  "Melhor momento para publicar: terça, noite (18h–24h) (mediana de views nos 7 primeiros dias)."
+  "Melhor momento para publicar: domingo, noite (18h–24h) (mediana de views nos 7 primeiros dias)."
  ]
 }
