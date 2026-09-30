@@ -143,6 +143,13 @@ def _analytics():
         "semana": [{"views": 30000, "estimatedMinutesWatched": 20000, "subscribersGained": 120, "subscribersLost": 20}],
         "semana_anterior": [{"views": 25000, "estimatedMinutesWatched": 18000, "subscribersGained": 100, "subscribersLost": 25}],
         "retencao": {"canal000000": curva, "canal000001": curva},
+        # Views por dia crescendo de 3.000 a 3.540 (tendência de alta) e dados de 12 meses / 90 dias.
+        "dias28": [{"day": f"2026-08-{25 + i:02d}" if i < 7 else f"2026-09-{i - 6:02d}", "views": 3000 + 20 * i,
+                    "estimatedMinutesWatched": 2000} for i in range(28)],
+        "ano_formatos": [{"creatorContentType": "shorts", "views": 500000, "estimatedMinutesWatched": 60000},
+                         {"creatorContentType": "videoOnDemand", "views": 200000, "estimatedMinutesWatched": 150000},
+                         {"creatorContentType": "liveStream", "views": 80000, "estimatedMinutesWatched": 180000}],
+        "shorts90": [{"creatorContentType": "shorts", "views": 150000}],
     }
 
 

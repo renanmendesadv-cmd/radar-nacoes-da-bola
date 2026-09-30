@@ -40,6 +40,8 @@ def montar_email(dados: dict, top: int, painel_url: str | None) -> tuple[str, st
     data_br = dados["data_br"]
     temas = dados["temas"][:top]
     assunto = f"Radar Nações da Bola: {len(temas)} pautas para hoje ({data_br[:5]})"
+    if dados.get("alertas"):
+        assunto = f"🔥 Tendência no YouTube + {len(temas)} pautas para hoje ({data_br[:5]})"
 
     blocos = []
     for i, t in enumerate(temas, 1):
@@ -87,6 +89,30 @@ def montar_email(dados: dict, top: int, painel_url: str | None) -> tuple[str, st
   </td></tr>
  </table>
 </td></tr>""")
+
+    bloco_alertas = ""
+    if dados.get("alertas"):
+        itens_a = []
+        for a in dados["alertas"]:
+            ex = "".join(f'<li style="margin:0 0 3px"><a href="{_e(v["url"])}" style="color:{VERDE}">{_e(v["titulo"])}</a>'
+                         f' <span style="color:{CINZA}">({_e(v["canal"])} · {_e(v["formato"])} · {_n(v["views"])} views)</span></li>'
+                         for v in a["exemplos"][:2])
+            vel = f'{a["velocidade"]:.1f}'.replace(".", ",")
+            eng = f'{a["engajamento"]:.1f}'.replace(".", ",")
+            dica = f'<p style="margin:6px 0 0;font:13px/1.45 Arial,sans-serif;color:{TINTA}">{_e(a["dica_do_canal"])}</p>' if a.get("dica_do_canal") else ""
+            itens_a.append(f"""
+ <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#FFF7ED;border:1px solid #F5C08A;border-radius:8px;margin:0 0 10px">
+  <tr><td style="padding:14px 16px">
+   <p style="margin:0 0 4px;font:700 12px Arial,sans-serif;color:#9A3412;letter-spacing:.06em;text-transform:uppercase">Tendência em alta · formato: {_e(a["formato_em_alta"])}</p>
+   <h2 style="margin:0 0 6px;font:700 17px/1.3 Arial,sans-serif;color:{TINTA}">{_e(a["tema"])}</h2>
+   <p style="margin:0 0 6px;font:14px/1.45 Arial,sans-serif;color:{TINTA}">{a["n_videos"]} vídeo(s), {_n(a["views"])} views em 48 h. O mais forte tem <b>{vel}x mais views por hora</b> que a média do futebol no YouTube, com engajamento <b>{eng}x</b> a média.</p>
+   <p style="margin:0 0 6px;font:14px/1.45 Arial,sans-serif;color:{TINTA}"><b>Faça também:</b> {_e(a["sugestao"])}.</p>
+   <ul style="margin:0;padding-left:18px;font:13px/1.4 Arial,sans-serif">{ex}</ul>
+   {dica}
+  </td></tr>
+ </table>""")
+        bloco_alertas = (f'<tr><td style="padding:0 0 8px"><h2 style="margin:0 0 8px;font:700 18px Arial,sans-serif;color:#9A3412">'
+                         f'🔥 Alerta: assunto bombando no YouTube</h2>{"".join(itens_a)}</td></tr>')
 
     ag = dados.get("agenda") or {}
     linhas_jogo = []
@@ -136,6 +162,7 @@ def montar_email(dados: dict, top: int, painel_url: str | None) -> tuple[str, st
  <p style="margin:0 0 12px;font:15px/1.5 Arial,sans-serif;color:{CINZA}">As {len(temas)} pautas com maior nota hoje, de 0 a 100. A nota soma buscas no Google, velocidade com que o assunto cresce, quantos veículos falam dele, views no YouTube nas últimas 48 h e o quanto combina com o canal.</p>
  {link_painel}
 </td></tr>
+{bloco_alertas}
 {''.join(blocos)}
 {bloco_jogos}
 {bloco_buscas}
@@ -185,6 +212,20 @@ def montar_email_raiox(rel: dict, painel_url: str | None) -> tuple[str, str, str
     def ind(x):
         return f"{x:.1f}x".replace(".", ",") if x is not None else "—"
 
+    m = rel.get("monetizacao")
+    if m:
+        e = m["estimativa_rs"]
+        rs = lambda x: f"R$ {x:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")  # noqa: E731
+        el = m["elegibilidade"]
+        status = ("O canal cumpre os requisitos do Programa de Parcerias." if el["cumpre"] else
+                  f"Requisitos do Programa de Parcerias: {el['inscritos']:,} de {el['meta_inscritos']:,} inscritos e "
+                  f"~{el['horas_12m']:,} de {el['meta_horas']:,} horas assistidas em 12 meses.".replace(",", "."))
+        partes.append(f'<h2 {h2}>Estimativa de monetização (próximos 30 dias)</h2>'
+                      f'<p {txt}><b>{rs(e["pessimista"])} a {rs(e["otimista"])}</b> (provável: <b>{rs(e["provavel"])}</b>), '
+                      f'com cerca de {_n(sum(m["previsao_views_30d"].values()))} views previstas '
+                      f'(tendência {("+" if m["tendencia_pct"] >= 0 else "")}{str(m["tendencia_pct"]).replace(".", ",")}%).</p>'
+                      f'<p style="margin:0 0 6px;font:12px/1.5 Arial,sans-serif;color:{CINZA}">{_e(status)} Estimativa com RPM de referência, '
+                      f'não é valor garantido; ajuste com o RPM real do YouTube Studio na aba Monetização do painel. Não inclui Super Chat nem membros.</p>')
     partes.append(tabela("Formatos que rendem (últimas 4 semanas)", ["Formato", "% das views", "Inscritos", "Views em 7 dias (mediana)", "vs. canal"],
                          [[_e(f["formato"]), f'{f.get("pct_views", 0):.0f}%', f.get("inscritos", "—"), _n(f["mediana_v7"]), ind(f["indice"])]
                           for f in rel["formatos"]]))

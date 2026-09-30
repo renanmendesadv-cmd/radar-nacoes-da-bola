@@ -125,7 +125,8 @@ aside{display:flex;flex-direction:column;gap:16px}
 .yt .cab b{color:var(--ink)}
 .yt ol{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:2px}
 .jogo .conf{font-size:12px;color:var(--muted)}
-.abas{display:flex;gap:4px;border-bottom:1px solid var(--line)}
+.abas{display:flex;flex-wrap:wrap;gap:4px;border-bottom:1px solid var(--line)}
+@media (max-width:560px){.aba{font-size:14px;padding:8px 8px;letter-spacing:.04em}.abas a{width:100%;margin:2px 0 6px!important}}
 .aba{font:700 16px var(--display);letter-spacing:.08em;text-transform:uppercase;background:none;border:0;border-bottom:3px solid transparent;color:var(--muted);padding:8px 12px;cursor:pointer;margin-bottom:-1px}
 .aba[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
 .dz{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,340px),1fr));gap:16px}
@@ -141,6 +142,22 @@ aside{display:flex;flex-direction:column;gap:16px}
 .barra{display:inline-block;height:8px;border-radius:4px;background:var(--bar);vertical-align:middle;margin-right:6px}
 .recs{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
 .box.larga{grid-column:1/-1}
+.alertas{display:flex;flex-direction:column;gap:10px}
+.alerta{background:var(--card);border:1px solid color-mix(in srgb,var(--hot) 45%,transparent);border-left:5px solid var(--hot);border-radius:10px;padding:12px 16px;display:flex;flex-direction:column;gap:6px;font-size:14px}
+.alerta .tipo{font:700 12px var(--display);letter-spacing:.1em;text-transform:uppercase;color:var(--hot)}
+.alerta h4{margin:0;font:700 19px/1.2 var(--display)}
+.alerta ul{margin:0;padding-left:18px}
+.calc{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:12px}
+.campo{display:flex;flex-direction:column;gap:4px;font-size:14px}
+.campo input[type=number]{font:600 16px var(--body);padding:6px 8px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--ink);width:100%}
+.campo input[type=range]{width:100%;accent-color:var(--accent)}
+.grande{font:800 clamp(34px,6vw,48px)/1 var(--display);font-variant-numeric:tabular-nums}
+.meta-barra{height:10px;border-radius:5px;background:var(--bar-bg);overflow:hidden}
+.meta-barra i{display:block;height:100%;background:var(--bar)}
+.serie{display:flex;align-items:flex-end;gap:2px;height:80px}
+.serie i{flex:1;background:var(--bar);border-radius:2px 2px 0 0;min-height:1px}
+.aviso{font-size:13px;color:var(--muted)}
+@media print{.abas,.filtros{display:none}}
 </style>
 
 <div class="wrap">
@@ -158,7 +175,13 @@ aside{display:flex;flex-direction:column;gap:16px}
   <div class="abas" role="tablist" aria-label="Seções do painel">
     <button class="aba" role="tab" id="aba-pautas" aria-controls="painel-pautas" aria-selected="true" type="button">Pautas do dia</button>
     <button class="aba" role="tab" id="aba-desempenho" aria-controls="painel-desempenho" aria-selected="false" type="button">Desempenho do canal</button>
+    <button class="aba" role="tab" id="aba-monetizacao" aria-controls="painel-monetizacao" aria-selected="false" type="button">Monetização</button>
+    <a href="guia.html" style="margin-left:auto;align-self:center;font-size:14px">Guia de leitura (imprimir)</a>
   </div>
+
+  <section id="painel-monetizacao" role="tabpanel" aria-labelledby="aba-monetizacao" hidden>
+    <div id="mz-conteudo" style="display:flex;flex-direction:column;gap:16px"></div>
+  </section>
 
   <section id="painel-desempenho" role="tabpanel" aria-labelledby="aba-desempenho" hidden>
     <div id="dz-conteudo" style="display:flex;flex-direction:column;gap:16px"></div>
@@ -181,6 +204,10 @@ aside{display:flex;flex-direction:column;gap:16px}
 
   <div class="grid">
     <div class="principal">
+      <section id="sec-alertas" hidden>
+        <h3 class="secao-t" style="margin-bottom:8px;color:var(--hot)">🔥 Bombando no YouTube agora</h3>
+        <div class="alertas" id="alertas"></div>
+      </section>
       <section id="sec-jogos" hidden>
         <h3 class="secao-t" style="margin-bottom:8px">Jogos que rendem conteúdo</h3>
         <div class="jogos" id="jogos"></div>
@@ -369,6 +396,27 @@ aside{display:flex;flex-direction:column;gap:16px}
     });
     document.getElementById("sec-jogos").hidden = !box.children.length;
   }
+  function desenharAlertas(lista){
+    var box = document.getElementById("alertas");
+    box.replaceChildren();
+    lista.forEach(function(a){
+      var vel = a.velocidade.toLocaleString("pt-BR", {maximumFractionDigits:1});
+      var eng = a.engajamento.toLocaleString("pt-BR", {maximumFractionDigits:1});
+      box.appendChild(el("article", {cls:"alerta"}, [
+        el("span", {cls:"tipo", text:"Formato em alta: " + a.formato_em_alta + " · " + a.origem}),
+        el("h4", {text:a.tema}),
+        el("span", {text: a.n_videos + (a.n_videos === 1 ? " vídeo, " : " vídeos, ") + num(a.views) + " views em 48 h. O mais forte tem " + vel +
+          "x mais views por hora que a média do futebol no YouTube, com engajamento " + eng + "x a média (" +
+          a.engajamento_pct.toLocaleString("pt-BR") + "%)."}),
+        el("span", null, [el("b", {text:"Faça também: "}), document.createTextNode(a.sugestao + ".")]),
+        a.dica_do_canal ? el("span", {cls:"aviso", text:a.dica_do_canal}) : null,
+        el("ul", null, a.exemplos.map(function(v){
+          return el("li", null, [link(v.url, v.titulo), el("span", {cls:"fonte-m", text:" · " + v.canal + " · " + v.formato + " · " + num(v.views) + " views"})]);
+        }))
+      ]));
+    });
+    document.getElementById("sec-alertas").hidden = !lista.length;
+  }
   function desenharBuscas(b){
     var box = document.getElementById("buscas");
     box.replaceChildren();
@@ -406,6 +454,7 @@ aside{display:flex;flex-direction:column;gap:16px}
     (d.videos_recentes || []).slice(0, 6).forEach(function(v){ vids.appendChild(el("li", null, [link(v.url, v.titulo)])); });
     if (!(d.videos_recentes || []).length) vids.appendChild(el("li", {text:"Feed do canal indisponível nesta execução."}));
 
+    desenharAlertas(d.alertas || []);
     desenharJogos(d.agenda || {});
     desenharBuscas(d.buscas_torcedor || {});
     var pesos = document.getElementById("pesos");
@@ -497,23 +546,127 @@ aside{display:flex;flex-direction:column;gap:16px}
       return [el("span", null, [link(v.url, v.titulo), el("span", {cls:"fonte-m", text:" · " + v.formato + " · " + v.categoria})]), num(v.v7)]; }))]));
     box.appendChild(g);
   }
-  function abrirAba(nome){
-    var dz = nome === "desempenho";
-    document.getElementById("aba-pautas").setAttribute("aria-selected", String(!dz));
-    document.getElementById("aba-desempenho").setAttribute("aria-selected", String(dz));
-    document.getElementById("painel-pautas").hidden = dz;
-    document.getElementById("painel-pautas").style.display = dz ? "none" : "flex";
-    document.getElementById("painel-desempenho").hidden = !dz;
-    if (dz && !dzCarregado){
-      dzCarregado = true;
-      if (window.RADAR_DESEMPENHO !== undefined){ desenharDesempenho(window.RADAR_DESEMPENHO); return; }
-      fetch("desempenho.json", {cache:"no-store"}).then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
-        .then(desenharDesempenho, function(){ desenharDesempenho(null); });
+  var desempenhoP = null;
+  function carregarDesempenho(){
+    if (!desempenhoP){
+      desempenhoP = window.RADAR_DESEMPENHO !== undefined ? Promise.resolve(window.RADAR_DESEMPENHO)
+        : fetch("desempenho.json", {cache:"no-store"}).then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
+            .catch(function(){ return null; });
     }
+    return desempenhoP;
   }
-  document.getElementById("aba-pautas").addEventListener("click", function(){ abrirAba("pautas"); try { history.replaceState(null, "", "#"); } catch (e) {} });
-  document.getElementById("aba-desempenho").addEventListener("click", function(){ abrirAba("desempenho"); try { history.replaceState(null, "", "#desempenho"); } catch (e) {} });
+  var mzCarregado = false;
+  var ABAS = ["pautas", "desempenho", "monetizacao"];
+  function abrirAba(nome){
+    ABAS.forEach(function(a){
+      var ativo = a === nome;
+      document.getElementById("aba-" + a).setAttribute("aria-selected", String(ativo));
+      var p = document.getElementById("painel-" + a);
+      p.hidden = !ativo;
+      if (a === "pautas") p.style.display = ativo ? "flex" : "none";
+    });
+    if (nome === "desempenho" && !dzCarregado){ dzCarregado = true; carregarDesempenho().then(desenharDesempenho); }
+    if (nome === "monetizacao" && !mzCarregado){ mzCarregado = true; carregarDesempenho().then(desenharMonetizacao); }
+  }
+  ABAS.forEach(function(a){
+    document.getElementById("aba-" + a).addEventListener("click", function(){
+      abrirAba(a); try { history.replaceState(null, "", a === "pautas" ? "#" : "#" + a); } catch (e) {}
+    });
+  });
+
+  // ------------------------------------------------------------ aba Monetização
+  function reais(v){ return v.toLocaleString("pt-BR", {style:"currency", currency:"BRL"}); }
+  function lerRPM(){ try { return JSON.parse(localStorage.getItem("radar-rpm") || "null"); } catch (e) { return null; } }
+  function salvarRPM(o){ try { localStorage.setItem("radar-rpm", JSON.stringify(o)); } catch (e) {} }
+  function desenharMonetizacao(r){
+    var box = document.getElementById("mz-conteudo");
+    box.replaceChildren();
+    var m = r && !r.oculto ? r.monetizacao : null;
+    if (!m){
+      box.appendChild(el("div", {cls:"vazio", text:"A estimativa aparece depois que o Raio-X do canal rodar (precisa do acesso somente leitura ao YouTube Analytics)."}));
+      return;
+    }
+    var FORMATOS = ["Vídeos longos", "Lives", "Shorts"];
+    var salvo = lerRPM() || {};
+    var rpm = {}, campos = {};
+    FORMATOS.forEach(function(f){ rpm[f] = salvo[f] !== undefined ? salvo[f] : m.rpm_referencia[f][1]; });
+    var crescimento = m.tendencia_pct;
+
+    box.appendChild(el("p", {cls:"aviso", style:"margin:0", text:
+      "Estimativa de quanto o canal pode receber de anúncios nos próximos 30 dias, a partir das views reais dos últimos 28 dias (" +
+      num(m.views_28d) + " views, média de " + num(m.media_diaria) + " por dia) e da tendência. É uma projeção, não um valor garantido. " +
+      "Não inclui Super Chat, membros nem patrocínios."}));
+
+    var total = el("div", {cls:"grande", text:"—"});
+    var faixa = el("div", {cls:"aviso"});
+    var tabelaBox = el("div");
+    function recalcular(){
+      var fator = 1 + crescimento / 100, soma = 0, linhas = [];
+      var base = 1 + m.tendencia_pct / 100;
+      FORMATOS.forEach(function(f){
+        var views = (m.previsao_views_30d[f] || 0) / base * fator;
+        var v = views / 1000 * rpm[f];
+        soma += v;
+        if (views >= 1) linhas.push([f, num(Math.round(views)), reais(rpm[f]), reais(v)]);
+      });
+      total.textContent = reais(soma);
+      var lo = 0, hi = 0;
+      FORMATOS.forEach(function(f){
+        var views = (m.previsao_views_30d[f] || 0) / base * fator;
+        lo += views / 1000 * m.rpm_referencia[f][0]; hi += views / 1000 * m.rpm_referencia[f][2];
+      });
+      faixa.textContent = "Faixa de referência para este volume: " + reais(lo) + " (pessimista) a " + reais(hi) + " (otimista).";
+      tabelaBox.replaceChildren(tabela(["Formato", "Views previstas", "RPM", "Estimativa"], linhas));
+      salvarRPM(rpm);
+    }
+
+    var entradas = el("div", {cls:"calc"});
+    FORMATOS.forEach(function(f){
+      var inp = el("input", {type:"number", min:"0", step:"0.05", value:String(rpm[f]), "aria-label":"RPM de " + f});
+      inp.addEventListener("input", function(){ var v = parseFloat(inp.value.replace(",", ".")); rpm[f] = isNaN(v) ? 0 : v; recalcular(); });
+      campos[f] = inp;
+      entradas.appendChild(el("label", {cls:"campo"}, [el("span", {text:"RPM de " + f + " (R$ a cada mil views)"}), inp,
+        el("span", {cls:"aviso", text:"Referência: " + reais(m.rpm_referencia[f][0]) + " a " + reais(m.rpm_referencia[f][2])})]));
+    });
+    var rotulo = el("span", {text:""});
+    var slider = el("input", {type:"range", min:"-50", max:"100", step:"5", value:String(Math.round(crescimento)), "aria-label":"Crescimento das views"});
+    function txtCresc(){ rotulo.textContent = "Views nos próximos 30 dias: " + (crescimento >= 0 ? "+" : "") + Math.round(crescimento) + "% (tendência atual: " + (m.tendencia_pct >= 0 ? "+" : "") + m.tendencia_pct.toLocaleString("pt-BR") + "%)"; }
+    slider.addEventListener("input", function(){ crescimento = parseFloat(slider.value); txtCresc(); recalcular(); });
+    txtCresc();
+    entradas.appendChild(el("label", {cls:"campo"}, [rotulo, slider]));
+
+    var cenarios = el("div", {cls:"filtros"}, [el("span", {cls:"rot", text:"Cenário"})].concat([["pessimista", 0], ["provável", 1], ["otimista", 2]].map(function(c){
+      var b = el("button", {cls:"pill", type:"button", text:c[0]});
+      b.addEventListener("click", function(){ FORMATOS.forEach(function(f){ rpm[f] = m.rpm_referencia[f][c[1]]; campos[f].value = String(rpm[f]); }); recalcular(); });
+      return b;
+    })));
+
+    var g = el("div", {cls:"dz"});
+    g.appendChild(caixa("Estimativa para os próximos 30 dias", null, [total, faixa, tabelaBox], true));
+    g.appendChild(caixa("Ajuste a conta", "Troque o RPM pelo valor real do canal: YouTube Studio > Receita > RPM. Os valores ficam salvos neste navegador.",
+      [cenarios, entradas], true));
+    var el_ = m.elegibilidade;
+    function meta(nome, atual, alvo){
+      var pct = Math.min(100, alvo ? 100 * atual / alvo : 0);
+      return el("div", {cls:"campo"}, [el("span", {text:nome + ": " + num(atual) + " de " + num(alvo) + (atual >= alvo ? " ✓" : "")}),
+        el("div", {cls:"meta-barra"}, [el("i", {style:"width:" + pct + "%"})])]);
+    }
+    g.appendChild(caixa("Programa de Parcerias do YouTube", el_.cumpre ? "Pelos números do Analytics, o canal cumpre os requisitos de monetização por anúncios." :
+      "Para receber dos anúncios, o canal precisa estar no Programa de Parcerias. Estes são os requisitos (a confirmação oficial fica no YouTube Studio > Ganhar dinheiro).",
+      [meta("Inscritos", el_.inscritos, el_.meta_inscritos), meta("Horas assistidas em 12 meses (sem Shorts, aproximado)", el_.horas_12m, el_.meta_horas)]
+        .concat(el_.shorts_90d !== null ? [el("span", {cls:"aviso", text:"Ou: " + num(el_.shorts_90d) + " de " + num(el_.meta_shorts) + " views de Shorts em 90 dias."})] : [])));
+    if ((m.serie_diaria || []).length){
+      var mx = Math.max.apply(null, m.serie_diaria.map(function(d){ return d.views; })) || 1;
+      g.appendChild(caixa("Views por dia (últimos 28 dias)", "Base da tendência.", [el("div", {cls:"serie", role:"img", "aria-label":"Views por dia"},
+        m.serie_diaria.map(function(d){ return el("i", {style:"height:" + Math.max(2, 100 * d.views / mx) + "%", title:d.dia + ": " + d.views + " views"}); }))]));
+    }
+    box.appendChild(g);
+    box.appendChild(el("p", {cls:"aviso", text:"Como a conta é feita: views previstas de cada formato ÷ 1.000 × RPM. O RPM já desconta a parte do YouTube e considera que nem toda view mostra anúncio. " +
+      "Referências padrão para canais brasileiros de futebol: vídeos longos R$ 2 a 8, lives R$ 1,50 a 6, Shorts R$ 0,05 a 0,35 por mil views."}));
+    recalcular();
+  }
   if (location.hash === "#desempenho") abrirAba("desempenho");
+  if (location.hash === "#monetizacao") abrirAba("monetizacao");
 
   document.querySelectorAll(".pill").forEach(function(b){
     b.addEventListener("click", function(){

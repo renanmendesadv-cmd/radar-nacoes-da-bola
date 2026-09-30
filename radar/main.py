@@ -29,7 +29,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from . import agenda, analytics, buscas, collect, config as C, report, score, youtube
+from . import agenda, analytics, buscas, collect, config as C, report, score, tendencias, youtube
 
 RAIZ = Path(__file__).resolve().parent.parent
 
@@ -132,6 +132,22 @@ def main() -> int:
         temas, agora, os.environ.get("YOUTUBE_API_KEY"), estado, DADOS / "youtube-cache.json",
         fatores, bruto.get("channel_id"), get=yt_get)
 
+    # Alertas de tendência: assuntos ligados ao canal bombando no YouTube (views/hora e engajamento).
+    alertas = []
+    chave_yt = os.environ.get("YOUTUBE_API_KEY")
+    if chave_yt:
+        try:
+            em_alta = youtube.em_alta_esportes(chave_yt, get=yt_get)
+        except (youtube.CotaEsgotada, RuntimeError) as e:
+            log.warning("YouTube (Em alta): %s", e)
+            em_alta = []
+        desempenho = raiox
+        if desempenho is None and (DOCS / "desempenho.json").exists():
+            desempenho = json.loads((DOCS / "desempenho.json").read_text("utf-8"))
+        alertas = tendencias.detectar(temas, em_alta, agora, DADOS / "youtube-base.json", estado, desempenho,
+                                      bruto.get("channel_id"))
+        bruto["status"]["Alertas de tendência"] = len(alertas) or "nenhum hoje"
+
     # Agenda: ESPN; se ela falhar, as buscas do Google ("palmeiras x ldu"); e os jogos citados nas manchetes.
     eventos = bruto.get("eventos") if fixtures else agenda.coletar_espn()
     bruto["status"]["Agenda (ESPN)"] = len(eventos or [])
@@ -153,6 +169,7 @@ def main() -> int:
         "agenda": jogos,
         "buscas_torcedor": {k: buscas.especificas(k, v)[:6] for k, v in bruto["sugestoes"].items()
                             if k in C.BUSCAS_TORCEDOR},
+        "alertas": alertas,
         "temas": temas[: C.TOP_PAINEL],
     }
     DOCS.mkdir(parents=True, exist_ok=True)

@@ -114,6 +114,31 @@ def _relevante(video: dict, consulta: str, clube: str | None) -> bool:
     return bool((resto & tv) if resto else (base & tv))
 
 
+def video_da_api(v: dict) -> dict:
+    """Item de videos.list -> dicionário compacto (views, curtidas, comentários, duração, live)."""
+    from .analytics import _duracao_s
+    sn, st = v.get("snippet", {}), v.get("statistics", {})
+    def n(k):
+        x = st.get(k)
+        return int(x) if x not in (None, "") else None  # curtidas podem estar ocultas
+    return {
+        "id": v["id"], "titulo": sn.get("title", ""), "descricao": sn.get("description", "")[:300],
+        "canal": sn.get("channelTitle", ""), "canal_id": sn.get("channelId", ""),
+        "publicado": sn.get("publishedAt"), "views": n("viewCount") or 0, "likes": n("likeCount"),
+        "comentarios": n("commentCount"), "duracao_s": _duracao_s((v.get("contentDetails") or {}).get("duration", "")),
+        "live": "liveStreamingDetails" in v or sn.get("liveBroadcastContent") in ("live", "upcoming"),
+        "url": f"https://www.youtube.com/watch?v={v['id']}",
+    }
+
+
+def em_alta_esportes(chave: str, get=requests.get) -> list[dict]:
+    """Lista "Em alta" do YouTube na categoria Esportes, Brasil (videos.list chart=mostPopular: 1 unidade)."""
+    res = _get(get, "videos", {"part": "snippet,statistics,contentDetails,liveStreamingDetails",
+                               "chart": "mostPopular", "regionCode": "BR", "videoCategoryId": "17",
+                               "maxResults": 50}, chave)
+    return [video_da_api(v) for v in res.get("items", [])]
+
+
 def buscar(consulta: str, agora: datetime, chave: str, get=requests.get, clube: str | None = None,
            canal_id: str | None = None) -> dict:
     desde = (agora - timedelta(hours=C.YT_HORAS)).astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -123,19 +148,16 @@ def buscar(consulta: str, agora: datetime, chave: str, get=requests.get, clube: 
     ids = [i["id"]["videoId"] for i in res.get("items", []) if i.get("id", {}).get("videoId")]
     videos = []
     if ids:
-        det = _get(get, "videos", {"part": "snippet,statistics", "id": ",".join(ids)}, chave)
-        for v in det.get("items", []):
-            sn, st = v.get("snippet", {}), v.get("statistics", {})
-            videos.append({
-                "id": v["id"], "titulo": sn.get("title", ""), "descricao": sn.get("description", "")[:300],
-                "canal": sn.get("channelTitle", ""), "canal_id": sn.get("channelId", ""),
-                "publicado": sn.get("publishedAt"), "views": int(st.get("viewCount", 0) or 0),
-                "url": f"https://www.youtube.com/watch?v={v['id']}",
-            })
+        # Mesmo custo (1 unidade) com mais partes: duração e live servem para os alertas de tendência.
+        det = _get(get, "videos", {"part": "snippet,statistics,contentDetails,liveStreamingDetails",
+                                   "id": ",".join(ids)}, chave)
+        videos = [video_da_api(v) for v in det.get("items", [])]
     videos = [v for v in videos if _relevante(v, consulta, clube)]
     videos.sort(key=lambda v: v["views"], reverse=True)
     total = sum(v["views"] for v in videos)
+    campos = ("id", "titulo", "canal", "views", "likes", "comentarios", "publicado", "duracao_s", "live", "url")
     return {
+        "amostra": [{k: v[k] for k in campos} for v in videos[:25]],
         "consulta": consulta,
         "n_videos": len(videos),
         "mais_de": bool(res.get("nextPageToken")) and len(ids) >= 25,

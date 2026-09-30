@@ -173,6 +173,16 @@ def coletar(cli: Cliente, agora: datetime) -> dict:
     except ErroAnalytics as e:  # dimensão nova: se a API recusar, o radar classifica pela duração
         log.info("Analytics sem creatorContentType (%s); formatos pela duração do vídeo.", e)
         bruto["formatos"] = None
+    # Monetização: views por dia (tendência), horas assistidas em 12 meses e views de Shorts em 90 dias.
+    bruto["dias28"] = cli.relatorio(ini28, fim, "views,estimatedMinutesWatched", dimensions="day", sort="day")
+    try:
+        bruto["ano_formatos"] = cli.relatorio(fim - timedelta(days=364), fim, "views,estimatedMinutesWatched",
+                                              dimensions="creatorContentType")
+        bruto["shorts90"] = cli.relatorio(fim - timedelta(days=89), fim, "views", dimensions="creatorContentType")
+    except ErroAnalytics as e:
+        log.info("Analytics sem creatorContentType para 12 meses (%s); horas estimadas no total.", e)
+        bruto["ano_formatos"] = None
+        bruto["ano_total"] = cli.relatorio(fim - timedelta(days=364), fim, "views,estimatedMinutesWatched")
     sem_ini = fim - timedelta(days=6)
     bruto["semana"] = cli.relatorio(sem_ini, fim, "views,estimatedMinutesWatched,subscribersGained,subscribersLost")
     bruto["semana_anterior"] = cli.relatorio(sem_ini - timedelta(days=7), sem_ini - timedelta(days=1),
@@ -425,8 +435,55 @@ def analisar(bruto: dict, fatores_anteriores: dict | None = None, gerado_em: str
                     "v7": v["v7"], "publicado": v["publicado_br"]} for v in top_v7],
         "fatores_categoria": fatores,
     }
+    rel["monetizacao"] = monetizacao(bruto, rel)
     rel["recomendacoes"] = recomendacoes(rel)
     return rel
+
+
+def _tendencia(dias: list[dict]) -> float:
+    """Variação esperada para os próximos 30 dias, pela reta das views diárias (limitada a ±30%)."""
+    ys = [float(d["views"]) for d in dias]
+    if len(ys) < 14 or not sum(ys):
+        return 0.0
+    n = len(ys)
+    xm, ym = (n - 1) / 2, sum(ys) / n
+    inclinacao = sum((i - xm) * (y - ym) for i, y in enumerate(ys)) / sum((i - xm) ** 2 for i in range(n))
+    # Diferença entre o meio dos próximos 30 dias e a média atual, em proporção da média.
+    variacao = inclinacao * ((n - 1) - xm + 15.5) / ym if ym else 0.0
+    return max(-0.3, min(0.3, variacao))
+
+
+def monetizacao(bruto: dict, rel: dict) -> dict:
+    """Base para a estimativa de 30 dias: views previstas por formato + elegibilidade ao Programa de Parcerias.
+    Os reais saem no painel (aba Monetização), onde o RPM pode ser ajustado."""
+    fmts = {f["formato"]: f for f in rel["formatos"]}
+    dias = bruto.get("dias28") or []
+    total28 = sum(float(d["views"]) for d in dias) or sum(f.get("views", 0) for f in rel["formatos"])
+    tend = _tendencia(dias)
+    soma_fmt = sum(fmts.get(k, {}).get("views", 0) for k in C.RPM_REFERENCIA) or 1
+    previsao = {}
+    for nome in C.RPM_REFERENCIA:
+        parte = fmts.get(nome, {}).get("views", 0) / soma_fmt
+        previsao[nome] = round(total28 / 28 * 30 * (1 + tend) * parte)
+    cenarios = {c: round(sum(previsao[k] / 1000 * C.RPM_REFERENCIA[k][i] for k in previsao), 2)
+                for i, c in enumerate(("pessimista", "provavel", "otimista"))}
+    # Horas públicas de vídeos longos e lives em 12 meses (Shorts não contam para o Programa de Parcerias).
+    if bruto.get("ano_formatos"):
+        horas = sum(float(f["estimatedMinutesWatched"]) for f in bruto["ano_formatos"]
+                    if f["creatorContentType"] != "shorts") / 60
+        shorts90 = sum(float(f["views"]) for f in bruto.get("shorts90") or [] if f["creatorContentType"] == "shorts")
+    else:
+        horas = sum(float(f["estimatedMinutesWatched"]) for f in bruto.get("ano_total") or []) / 60
+        shorts90 = None
+    inscritos = rel["canal"].get("inscritos", 0)
+    return {
+        "views_28d": round(total28), "media_diaria": round(total28 / 28), "tendencia_pct": round(100 * tend, 1),
+        "previsao_views_30d": previsao, "rpm_referencia": C.RPM_REFERENCIA, "estimativa_rs": cenarios,
+        "serie_diaria": [{"dia": d["day"], "views": int(float(d["views"]))} for d in dias],
+        "elegibilidade": {"inscritos": inscritos, "horas_12m": round(horas), "shorts_90d": round(shorts90) if shorts90 is not None else None,
+                          "meta_inscritos": C.YPP_INSCRITOS, "meta_horas": C.YPP_HORAS_12M, "meta_shorts": C.YPP_SHORTS_90D,
+                          "cumpre": inscritos >= C.YPP_INSCRITOS and (horas >= C.YPP_HORAS_12M or (shorts90 or 0) >= C.YPP_SHORTS_90D)},
+    }
 
 
 def recomendacoes(rel: dict) -> list[str]:

@@ -383,3 +383,46 @@ def test_raiox_diario_sem_email_nem_ajuste(tmp_path):
     assert not (tmp_path / "data" / "pesos-aprendidos.json").exists()
     assert not (tmp_path / "data" / "ultimo-raiox.html").exists()
     assert "ultimo_raiox" not in json.loads((tmp_path / "data" / "estado.json").read_text("utf-8"))
+
+
+def _video(i, views, horas, likes, dur=600, titulo=None, live=False):
+    from datetime import timedelta
+    return {"id": f"v{i}", "titulo": titulo or f"Vídeo {i}", "canal": f"Canal {i}", "canal_id": f"UC{i}", "views": views,
+            "likes": likes, "comentarios": likes // 10, "duracao_s": dur, "live": live, "descricao": "",
+            "publicado": (AGORA - timedelta(hours=horas)).isoformat(), "url": f"https://www.youtube.com/watch?v=v{i}"}
+
+
+def test_alertas_de_tendencia(tmp_path):
+    from radar import tendencias
+    comum = [{"tema": f"Pauta comum {k}", "clubes": ["Palmeiras"], "ja_coberto": None, "sinais": {"aderencia": 100},
+              "manchetes": [], "youtube": {"amostra": [_video(100 + 10 * k + j, 2000, 40, 60) for j in range(5)]}}
+             for k in range(3)]
+    quente = {"tema": "Arrascaeta sofre fratura e desfalca o Flamengo", "clubes": ["Flamengo"], "ja_coberto": None,
+              "sinais": {"aderencia": 100}, "manchetes": [{"titulo": "Arrascaeta sofre fratura e desfalca o Flamengo"}],
+              "youtube": {"amostra": [_video(1, 300000, 5, 18000, dur=45), _video(2, 80000, 6, 4000, dur=50),
+                                      _video(3, 30000, 10, 900)]}}
+    em_alta = [_video(50, 400000, 8, 30000, dur=40, titulo="Seleção Brasileira: Ancelotti convoca novo atacante"),
+               _video(51, 900000, 6, 50000, dur=40, titulo="NBA: lance incrível do Lakers no basquete")]
+    estado = {}
+    alertas = tendencias.detectar([quente] + comum, em_alta, AGORA, tmp_path / "base.json", estado)
+    temas = [a["tema"] for a in alertas]
+    assert temas[0].startswith("Arrascaeta") or temas[1].startswith("Arrascaeta")
+    assert any("Seleção Brasileira" in t for t in temas)
+    assert not any("NBA" in t for t in temas) and not any("Pauta comum" in t for t in temas)
+    a = next(a for a in alertas if a["tema"].startswith("Arrascaeta"))
+    assert a["formato_em_alta"] == "Shorts" and "Reels" in a["sugestao"] and a["velocidade"] >= 3
+    # No dia seguinte, o mesmo assunto não é avisado de novo.
+    assert tendencias.detectar([quente] + comum, em_alta, AGORA, tmp_path / "base.json", estado) == []
+
+
+def test_monetizacao_estimada(tmp_path):
+    r, d = _rodar(tmp_path, RAIOX="1")
+    m = json.loads((tmp_path / "docs" / "desempenho.json").read_text("utf-8"))["monetizacao"]
+    e = m["estimativa_rs"]
+    assert 0 < e["pessimista"] < e["provavel"] < e["otimista"]
+    assert m["tendencia_pct"] > 0 and m["views_28d"] == sum(3000 + 20 * i for i in range(28))
+    assert set(m["previsao_views_30d"]) == {"Vídeos longos", "Lives", "Shorts"}
+    el = m["elegibilidade"]
+    assert el["horas_12m"] == 5500 and el["cumpre"] is True  # (150.000 + 180.000) min / 60
+    html = (tmp_path / "data" / "ultimo-raiox.html").read_text("utf-8")
+    assert "Estimativa de monetização" in html

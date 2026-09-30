@@ -13,6 +13,17 @@ O **Raio-X do canal** é atualizado **todo dia** na aba **Desempenho do canal** 
 onde o público sai dos vídeos, origens de tráfego, melhor dia e horário, vídeos que trouxeram inscritos. O Raio-X
 **ajusta sozinho**, uma vez por semana (na segunda), o peso de cada tema na nota do radar.
 
+**Alertas de tendência**: quando um assunto ligado ao canal explode no YouTube (vídeos com 3x ou mais views por hora
+que a média do futebol e engajamento acima da média), o e-mail do dia abre com um 🔥 alerta dizendo o formato em alta
+(Short, live ou vídeo longo) e sugerindo que o canal faça também. Fontes: os vídeos que o radar já busca para cada pauta
+e a lista "Em alta" de Esportes do YouTube no Brasil (1 unidade da cota). Limites em `radar/config.py` (`ALERTA_*`).
+
+**Monetização**: a aba Monetização do painel estima quanto o canal pode receber de anúncios nos próximos 30 dias
+(views previstas por formato ÷ 1.000 × RPM), mostra os requisitos do Programa de Parcerias e deixa ajustar o RPM
+com o valor real do YouTube Studio. É projeção, não valor garantido. Faixas de referência em `RPM_REFERENCIA`.
+
+**Guia de leitura** de uma página, para imprimir: `docs/guia.html` (link no painel).
+
 Custo: zero. Chaves e senhas ficam só nos Secrets do GitHub.
 
 ## Como a nota é calculada

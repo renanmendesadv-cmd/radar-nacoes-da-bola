@@ -162,3 +162,26 @@ TIPOS_CONTEUDO = [
 # Tipos ligados a jogo: sem palavra de categoria no título, contam como "Jogo e resultado"
 # no ajuste de pesos do radar.
 TIPOS_DE_JOGO = {"Transmissão de jogo", "Pré-jogo", "Pós-jogo", "Sai pro Jogo (programa)"}
+
+# ---- Alertas de tendência no YouTube ----------------------------------------------
+# Um assunto vira alerta quando, nas últimas 48 h, tem vídeos com views por hora bem acima
+# da média do futebol no YouTube (linha de base dos últimos 14 dias) E engajamento
+# (curtidas + comentários / views) pelo menos na média, com ligação ao canal.
+ALERTA_FATOR_VELOCIDADE = 3.0   # views/hora >= 3x a média
+ALERTA_FATOR_ENGAJAMENTO = 1.0  # engajamento >= a média
+ALERTA_MIN_VIEWS = 20_000       # o vídeo mais forte do assunto precisa ter pelo menos isto
+ALERTA_MAX_POR_DIA = 3
+ALERTA_REPETIR_APOS_DIAS = 3    # o mesmo assunto não é avisado de novo antes disso
+
+# ---- Estimativa de monetização (30 dias) --------------------------------------------
+# RPM = quanto o canal recebe a cada 1.000 views (já descontada a parte do YouTube), em reais.
+# São faixas de referência para canais brasileiros de futebol e variam muito com época do ano,
+# anunciantes e país do público. Troque pelo RPM real do canal (YouTube Studio > Receita)
+# no próprio painel, aba Monetização.
+RPM_REFERENCIA = {             # (pessimista, provável, otimista)
+    "Vídeos longos": (2.0, 4.0, 8.0),
+    "Lives": (1.5, 3.0, 6.0),
+    "Shorts": (0.05, 0.15, 0.35),
+}
+# Programa de Parcerias do YouTube (monetização por anúncios).
+YPP_INSCRITOS, YPP_HORAS_12M, YPP_SHORTS_90D = 1_000, 4_000, 10_000_000
