@@ -423,7 +423,7 @@ def test_monetizacao_estimada(tmp_path):
     assert m["tendencia_pct"] > 0 and m["views_28d"] == sum(3000 + 20 * i for i in range(28))
     assert set(m["previsao_views_30d"]) == {"Vídeos longos", "Lives", "Shorts"}
     el = m["elegibilidade"]
-    assert el["horas_12m"] == 5500 and el["cumpre"] is True  # (150.000 + 180.000) min / 60
+    assert el["horas_12m"] == 2400 and el["cumpre"] is True  # horas públicas; o canal já é monetizado
     html = (tmp_path / "data" / "ultimo-raiox.html").read_text("utf-8")
     assert "Estimativa de monetização" in html
 
@@ -461,3 +461,25 @@ def test_ler_csv_do_alcance():
     assert fracao == {"2026-09-15": {"v1": [2000, 80.0]}}
     pct = alcance.ler_csv(cab + "20260915,UC1,v1,BR,1000,5.0\n")
     assert pct == {"2026-09-15": {"v1": [1000, 50.0]}}
+
+
+def test_requisitos_do_programa_de_parcerias(tmp_path):
+    r, d = _rodar(tmp_path, RAIOX="1")
+    rel = json.loads((tmp_path / "docs" / "desempenho.json").read_text("utf-8"))
+    req = rel["requisitos"]
+    it = {i["id"]: i for i in req["itens"]}
+    # 2.400 h públicas: privados e Shorts ficam fora da conta.
+    assert it["horas_12m"]["atual"] == 2400 and it["horas_12m"]["status"] == "abaixo" and "Faltam 1.600 h" in it["horas_12m"]["acao"]
+    assert req["horas"]["projecao_30d"] == 2400 and len(req["horas"]["por_mes"]) >= 12
+    assert it["inscritos"]["status"] == "ok" and it["atividade"]["status"] == "ok"
+    assert it["advertencias"]["status"] == "conferir"
+    assert req["pendencias"] == ["Horas assistidas públicas (12 meses)"] and it["nivel_inicial"]["status"] == "abaixo"
+    assert "não tiram a monetização" in req["nota"]
+    # E-mail diário sinaliza; no dia seguinte (mesma pendência) não repete; semanal sempre mostra.
+    diario = (tmp_path / "data" / "ultimo-email.html").read_text("utf-8")
+    assert "Monetização: requisito abaixo da meta" in diario
+    assert "Requisitos do Programa de Parcerias" in (tmp_path / "data" / "ultimo-raiox.html").read_text("utf-8")
+    env = dict(os.environ, FIXTURES_DIR=str(F), AGORA="2026-09-25T11:00:00+00:00", DRY_RUN="1", OUT_DIR=str(tmp_path))
+    env.pop("YOUTUBE_API_KEY", None)
+    subprocess.run([sys.executable, "-m", "radar.main"], cwd=RAIZ, env=env, capture_output=True, text=True)
+    assert "Monetização: requisito abaixo da meta" not in (tmp_path / "data" / "ultimo-email.html").read_text("utf-8")

@@ -130,7 +130,16 @@ def _analytics():
                           "averageViewPercentage": 35.0 if dur > 180 else 80.0, "subscribersGained": ins * 2})
     curva = [{"elapsedVideoTimeRatio": x / 100, "audienceWatchRatio": y}
              for x, y in [(1, 1.0), (5, 0.62), (10, 0.55), (20, 0.5), (30, 0.46), (50, 0.4), (70, 0.33), (100, 0.2)]]
+    # 12 meses: 16 vídeos com 12.000 min cada; o canal000001 ficou privado e os Shorts (3, 4 e 5) não contam
+    # -> 12 x 12.000 min = 2.400 h públicas (abaixo das 4.000 h).
+    status12 = {v["id"]: {"privacidade": "private" if v["id"] == "canal000001" else "public",
+                          "duracao_s": v["duracao_s"], "live": v["live"]} for v in videos}
+    min12 = [{"video": v["id"], "estimatedMinutesWatched": 12000, "views": 1000} for v in videos]
+    dias365 = [{"day": (AGORA - timedelta(days=368 - i)).date().isoformat(), "estimatedMinutesWatched": 500, "views": 100}
+               for i in range(365)]
     return {
+        "min_video_12m": min12, "status_video_12m": status12, "dias365": dias365,
+        "ultimo_envio": max(v["publicado"] for v in videos),
         "canal": {"id": "UCdemo", "nome": "Canal de demonstração", "inscritos": 10000},
         "periodo": {"inicio": "2026-08-25", "fim": "2026-09-21", "janela_inicio": "2026-06-24"},
         "videos": videos, "por_video": por_video, "v7": v7,

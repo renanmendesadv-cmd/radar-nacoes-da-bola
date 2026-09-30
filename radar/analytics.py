@@ -151,7 +151,7 @@ def coletar(cli: Cliente, agora: datetime) -> dict:
 
     videos = []
     for i in range(0, len(ids), 50):
-        res = cli.dados("videos", part="snippet,contentDetails,statistics,liveStreamingDetails",
+        res = cli.dados("videos", part="snippet,contentDetails,statistics,liveStreamingDetails,status",
                         id=",".join(ids[i:i + 50]))
         for v in res.get("items", []):
             videos.append({
@@ -159,6 +159,7 @@ def coletar(cli: Cliente, agora: datetime) -> dict:
                 "duracao_s": _duracao_s(v["contentDetails"].get("duration")),
                 "live": "liveStreamingDetails" in v,
                 "views_total": int(v.get("statistics", {}).get("viewCount", 0) or 0),
+                "privacidade": (v.get("status") or {}).get("privacyStatus", "public"),
             })
 
     bruto = {"canal": {"id": canal["id"], "nome": canal["snippet"]["title"],
@@ -178,6 +179,23 @@ def coletar(cli: Cliente, agora: datetime) -> dict:
         bruto["formatos"] = None
     # Monetização: views por dia (tendência), horas assistidas em 12 meses e views de Shorts em 90 dias.
     bruto["dias28"] = cli.relatorio(ini28, fim, "views,estimatedMinutesWatched", dimensions="day", sort="day")
+    # Requisitos do Programa de Parcerias: horas públicas de 12 meses, vídeo a vídeo (só vídeos que
+    # continuam públicos e não são Shorts contam), e a curva diária de 365 dias (janela móvel).
+    ini365 = fim - timedelta(days=364)
+    bruto["dias365"] = cli.relatorio(ini365, fim, "estimatedMinutesWatched,views", dimensions="day", sort="day")
+    bruto["min_video_12m"] = cli.relatorio(ini365, fim, "estimatedMinutesWatched,views", dimensions="video",
+                                           sort="-estimatedMinutesWatched", maxResults=200)
+    ids12 = [r["video"] for r in bruto["min_video_12m"]]
+    status12 = {}
+    for i in range(0, len(ids12), 50):
+        res = cli.dados("videos", part="status,contentDetails,liveStreamingDetails", id=",".join(ids12[i:i + 50]))
+        for v in res.get("items", []):
+            status12[v["id"]] = {"privacidade": (v.get("status") or {}).get("privacyStatus", "public"),
+                                 "duracao_s": _duracao_s((v.get("contentDetails") or {}).get("duration")),
+                                 "live": "liveStreamingDetails" in v}
+    bruto["status_video_12m"] = status12
+    # Último envio público (atividade: canais parados por 6 meses podem perder a monetização).
+    bruto["ultimo_envio"] = max((v["publicado"] for v in videos if v.get("privacidade", "public") == "public"), default=None)
     try:
         bruto["ano_formatos"] = cli.relatorio(fim - timedelta(days=364), fim, "views,estimatedMinutesWatched",
                                               dimensions="creatorContentType")
@@ -474,6 +492,9 @@ def analisar(bruto: dict, fatores_anteriores: dict | None = None, gerado_em: str
     elif alcance_erro:
         rel["alcance"] = {"erro": alcance_erro}
     rel["monetizacao"] = monetizacao(bruto, rel, videos)
+    rel["requisitos"] = requisitos(bruto, rel, videos)
+    if rel["requisitos"].get("horas_publicas") is not None:
+        rel["monetizacao"]["elegibilidade"]["horas_12m"] = rel["requisitos"]["horas_publicas"]
     rel["recomendacoes"] = recomendacoes(rel)
     return rel
 
@@ -590,6 +611,117 @@ def monetizacao(bruto: dict, rel: dict, videos: dict | None = None) -> dict:
                           "monetizado": C.CANAL_MONETIZADO,
                           "cumpre": C.CANAL_MONETIZADO or inscritos >= C.YPP_INSCRITOS and (horas >= C.YPP_HORAS_12M or (shorts90 or 0) >= C.YPP_SHORTS_90D)},
     }
+
+
+def _mil(n) -> str:
+    """12345 -> '12.345' (separador de milhar brasileiro, sem mexer no resto do texto)."""
+    return f"{int(round(n)):,}".replace(",", ".")
+
+
+def _curto(st: dict) -> bool:
+    return not st.get("live") and 0 < (st.get("duracao_s") or 0) <= 180
+
+
+def requisitos(bruto: dict, rel: dict, videos: dict) -> dict:
+    """Checklist do Programa de Parcerias: o que dá para medir (com valor atual e meta) e o que
+    precisa ser conferido no YouTube Studio. Status: "ok", "abaixo", "risco" (ok hoje, mas cai
+    abaixo em 30 dias) ou "conferir"."""
+    fim = date.fromisoformat(bruto["periodo"]["fim"])
+    monetizado = C.CANAL_MONETIZADO
+    itens = []
+
+    def item(chave, nome, atual, meta, ok, nivel, texto, acao=None, status=None):
+        itens.append({"id": chave, "nome": nome, "atual": atual, "meta": meta, "nivel": nivel,
+                      "status": status or ("ok" if ok else "abaixo"), "texto": texto, "acao": acao})
+
+    inscritos = rel["canal"].get("inscritos", 0)
+
+    # Horas públicas de 12 meses (vídeos longos e lives que continuam públicos).
+    horas = mes = None
+    min12 = bruto.get("min_video_12m")
+    if min12 is not None:
+        st = bruto.get("status_video_12m") or {}
+        tot_min = sum(float(r["estimatedMinutesWatched"]) for r in min12) or 1
+        pub_min = sum(float(r["estimatedMinutesWatched"]) for r in min12
+                      if r["video"] in st and st[r["video"]]["privacidade"] == "public" and not _curto(st[r["video"]]))
+        fracao = pub_min / tot_min
+        horas = round(pub_min / 60)
+        dias = bruto.get("dias365") or []
+        saem = sum(float(d["estimatedMinutesWatched"]) for d in dias[:30]) / 60 * fracao
+        entram = sum(float(d["estimatedMinutesWatched"]) for d in dias[-28:]) / 60 * fracao / 28 * 30
+        proj = round(horas - saem + entram)
+        por_mes = defaultdict(float)
+        for d in dias:
+            por_mes[d["day"][:7]] += float(d["estimatedMinutesWatched"]) / 60 * fracao
+        mes = {"por_mes": [{"mes": k, "horas": round(v)} for k, v in sorted(por_mes.items())],
+               "saem_30d": round(saem), "entram_30d": round(entram), "projecao_30d": proj,
+               "fora_da_conta": round((tot_min - pub_min) / 60)}
+        meta = C.YPP_HORAS_12M
+        status = "ok" if horas >= meta and proj >= meta else ("risco" if horas >= meta else "abaixo")
+        falta = max(0, meta - horas)
+        texto = (f"{_mil(horas)} h públicas nos últimos 12 meses (vídeos longos e lives; Shorts, privados e apagados não contam). "
+                 f"Nos próximos 30 dias saem da conta ~{_mil(saem)} h e entram ~{_mil(entram)} h no ritmo atual: "
+                 f"projeção de {_mil(proj)} h.")
+        acao = (None if status == "ok" else
+                f"Faltam {_mil(falta)} h. Lives longas e vídeos longos contam; "
+                f"seriam uns {_mil(falta / 12)} h a mais por mês durante um ano.")
+        item("horas_12m", "Horas assistidas públicas (12 meses)", horas, meta, horas >= meta, "anúncios", texto, acao, status)
+
+    item("inscritos", "Inscritos", inscritos, C.YPP_INSCRITOS, inscritos >= C.YPP_INSCRITOS, "anúncios",
+         f"{_mil(inscritos)} inscritos.")
+    shorts90 = None
+    if bruto.get("shorts90") is not None:
+        shorts90 = round(sum(float(f["views"]) for f in bruto["shorts90"] if f["creatorContentType"] == "shorts"))
+        item("shorts_90d", "Alternativa às horas: views de Shorts (90 dias)", shorts90, C.YPP_SHORTS_90D,
+             shorts90 >= C.YPP_SHORTS_90D, "anúncios",
+             "Caminho alternativo às 4.000 h. Basta cumprir um dos dois.", None,
+             "ok" if shorts90 >= C.YPP_SHORTS_90D else ("ok" if horas and horas >= C.YPP_HORAS_12M else "abaixo"))
+
+    # Nível inicial (Super Chat, membros, Shopping).
+    envios90 = sum(1 for v in videos.values() if v.get("privacidade", "public") == "public"
+                   and datetime.fromisoformat(v["publicado"].replace("Z", "+00:00")).astimezone(BR).date() >= fim - timedelta(days=89))
+    ok_ini = (inscritos >= C.YPP_INICIAL_INSCRITOS and envios90 >= C.YPP_INICIAL_ENVIOS_90D
+              and ((horas or 0) >= C.YPP_INICIAL_HORAS or (shorts90 or 0) >= C.YPP_INICIAL_SHORTS))
+    item("nivel_inicial", "Nível inicial (Super Chat, membros, Shopping)", None, None, ok_ini, "Supers e membros",
+         f"{_mil(inscritos)} de {_mil(C.YPP_INICIAL_INSCRITOS)} inscritos, {envios90} de {C.YPP_INICIAL_ENVIOS_90D} envios públicos em 90 dias e "
+         f"{_mil(horas) if horas is not None else '?'} de {_mil(C.YPP_INICIAL_HORAS)} h (ou {_mil(C.YPP_INICIAL_SHORTS)} views de Shorts em 90 dias).")
+
+    # Atividade: o que pode tirar a monetização de quem já está no programa.
+    ult = bruto.get("ultimo_envio")
+    if ult:
+        parado = (fim - datetime.fromisoformat(ult.replace("Z", "+00:00")).astimezone(BR).date()).days
+    else:
+        parado = 90
+    item("atividade", "Canal ativo (envios públicos)", parado, C.YPP_DIAS_INATIVIDADE, parado < C.YPP_DIAS_INATIVIDADE - 30,
+         "manter a monetização",
+         (f"Último envio público há {parado} dias." if ult else "Nenhum envio público nos últimos 90 dias.") +
+         f" Canais sem envios por {C.YPP_DIAS_INATIVIDADE // 30} meses podem ter a monetização revisada.",
+         None if parado < C.YPP_DIAS_INATIVIDADE - 30 else "Publique algo (vídeo, live ou Short) para manter o canal ativo.",
+         "ok" if parado < C.YPP_DIAS_INATIVIDADE - 30 else ("risco" if parado < C.YPP_DIAS_INATIVIDADE else "abaixo"))
+
+    # Itens que a API não informa: conferir no Studio.
+    for chave, nome, texto in [
+        ("advertencias", "Sem advertências das Diretrizes da Comunidade nem de direitos autorais",
+         "YouTube Studio > Conteúdo/Status do canal. Atenção nas transmissões de jogo: imagem ou áudio da TV geram reivindicação."),
+        ("adsense", "AdSense para YouTube ativo e vinculado", "YouTube Studio > Ganhar dinheiro > AdSense."),
+        ("dois_fatores", "Verificação em duas etapas na conta Google", "myaccount.google.com > Segurança."),
+        ("politicas", "Políticas de monetização (conteúdo reutilizado, adequado para anunciantes)",
+         "YouTube Studio > Ganhar dinheiro mostra se há algum problema."),
+    ]:
+        item(chave, nome, None, None, True, "manter a monetização", texto, None, "conferir")
+
+    # Horas e Shorts são caminhos alternativos; e se as horas já estão abaixo, o nível inicial cai pelo
+    # mesmo motivo: um aviso só para a mesma causa.
+    horas_abaixo = any(i["id"] == "horas_12m" and i["status"] != "ok" for i in itens)
+    medidos = [i for i in itens if i["status"] in ("abaixo", "risco") and i["id"] != "shorts_90d"
+               and not (i["id"] == "nivel_inicial" and horas_abaixo)]
+    return {"monetizado": monetizado, "itens": itens, "horas_publicas": horas, "horas": mes,
+            "pendencias": [i["nome"] for i in medidos],
+            "resumo": ("Todos os requisitos medidos estão atingidos." if not medidos else
+                       f"{len(medidos)} requisito(s) medido(s) abaixo da meta: " + "; ".join(i["nome"] for i in medidos) + "."),
+            "nota": ("O canal já está no Programa de Parcerias: requisitos de entrada abaixo da meta não tiram a monetização, "
+                     "mas indicam queda de audiência. O que pode tirar é inatividade, advertências ou violação de políticas."
+                     if monetizado else "")}
 
 
 def recomendacoes(rel: dict) -> list[str]:

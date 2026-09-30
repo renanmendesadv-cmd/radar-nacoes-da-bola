@@ -189,3 +189,7 @@ YPP_INSCRITOS, YPP_HORAS_12M, YPP_SHORTS_90D = 1_000, 4_000, 10_000_000
 # O canal já está no Programa de Parcerias (informado pelo dono). Os requisitos de entrada
 # (4.000 h / 10 mi de views em Shorts) não se aplicam a quem já foi aprovado.
 CANAL_MONETIZADO = True
+# Nível inicial do Programa de Parcerias (Super Chat, membros, Shopping).
+YPP_INICIAL_INSCRITOS, YPP_INICIAL_HORAS, YPP_INICIAL_SHORTS, YPP_INICIAL_ENVIOS_90D = 500, 3_000, 3_000_000, 3
+# O YouTube pode revisar a monetização de canais sem envios públicos por 6 meses.
+YPP_DIAS_INATIVIDADE = 180

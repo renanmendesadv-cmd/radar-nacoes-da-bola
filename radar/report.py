@@ -114,6 +114,18 @@ def montar_email(dados: dict, top: int, painel_url: str | None) -> tuple[str, st
         bloco_alertas = (f'<tr><td style="padding:0 0 8px"><h2 style="margin:0 0 8px;font:700 18px Arial,sans-serif;color:#9A3412">'
                          f'🔥 Alerta: assunto bombando no YouTube</h2>{"".join(itens_a)}</td></tr>')
 
+    bloco_req = ""
+    av = dados.get("aviso_requisitos")
+    if av:
+        lis = "".join(f'<li style="margin:0 0 4px"><b>{_e(i["nome"])}:</b> {_e(i["texto"])}'
+                      f'{(" <b>" + _e(i["acao"]) + "</b>") if i.get("acao") else ""}</li>' for i in av["itens"])
+        bloco_req = (f'<tr><td style="padding:0 0 14px"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" '
+                     f'style="background:#FEF3C7;border:1px solid #F0C36D;border-radius:8px"><tr><td style="padding:12px 16px;font:14px/1.45 Arial,sans-serif;color:{TINTA}">'
+                     f'<p style="margin:0 0 6px;font:700 15px Arial,sans-serif;color:#8A5A00">⚠️ Monetização: requisito abaixo da meta</p>'
+                     f'<ul style="margin:0 0 6px;padding-left:18px">{lis}</ul>'
+                     f'<p style="margin:0;font-size:12px;color:{CINZA}">{_e(av["nota"])} Detalhes na aba Monetização do painel. '
+                     f'Este aviso se repete no máximo uma vez por semana.</p></td></tr></table></td></tr>')
+
     ag = dados.get("agenda") or {}
     linhas_jogo = []
     for e in (ag.get("resultados") or [])[:3]:
@@ -163,6 +175,7 @@ def montar_email(dados: dict, top: int, painel_url: str | None) -> tuple[str, st
  {link_painel}
 </td></tr>
 {bloco_alertas}
+{bloco_req}
 {''.join(blocos)}
 {bloco_jogos}
 {bloco_buscas}
@@ -215,7 +228,8 @@ def montar_email_raiox(rel: dict, painel_url: str | None) -> tuple[str, str, str
         th = "".join(f'<th align="left" style="padding:4px 8px 4px 0;font:600 12px Arial,sans-serif;color:{CINZA}">{c}</th>' for c in cab)
         tr = "".join("<tr>" + "".join(f'<td style="padding:4px 8px 4px 0;font:13px Arial,sans-serif;color:{TINTA};border-top:1px solid #DDE3DE">{c}</td>' for c in l) + "</tr>"
                      for l in linhas)
-        return f'<h2 {h2}>{titulo}</h2><table role="presentation" cellpadding="0" cellspacing="0" width="100%"><tr>{th}</tr>{tr}</table>'
+        cabeca = f'<h2 {h2}>{titulo}</h2>' if titulo else ""
+        return f'{cabeca}<table role="presentation" cellpadding="0" cellspacing="0" width="100%"><tr>{th}</tr>{tr}</table>'
 
     def ind(x):
         return f"{x:.1f}x".replace(".", ",") if x is not None else "—"
@@ -239,6 +253,20 @@ def montar_email_raiox(rel: dict, painel_url: str | None) -> tuple[str, str, str
                       f'(tendência {("+" if m["tendencia_pct"] >= 0 else "")}{str(m["tendencia_pct"]).replace(".", ",")}%).</p>'
                       f'<p style="margin:0 0 6px;font:12px/1.5 Arial,sans-serif;color:{CINZA}">{_e(status)} Estimativa com RPM de referência, '
                       f'não é valor garantido; ajuste com o RPM real do YouTube Studio na aba Monetização do painel. Não inclui Super Chat nem membros.</p>')
+    req = rel.get("requisitos")
+    if req:
+        simb = {"ok": "✅", "abaixo": "⚠️", "risco": "⚠️", "conferir": "🔎"}
+        def val(i):
+            if i["atual"] is None:
+                return "—"
+            if i["id"] == "atividade":
+                return f'{i["atual"]} dias'
+            return f'{i["atual"]:,} de {i["meta"]:,}'.replace(",", ".")
+        partes.append(f'<h2 {h2}>Requisitos do Programa de Parcerias</h2><p {txt}><b>{_e(req["resumo"])}</b></p>'
+                      + (f'<p style="margin:0 0 6px;font:12px/1.5 Arial,sans-serif;color:{CINZA}">{_e(req["nota"])}</p>' if req["nota"] else ""))
+        partes.append(tabela("", ["", "Requisito", "Situação", "Detalhe"],
+                             [[simb[i["status"]], _e(i["nome"]), val(i), _e(i["texto"]) + (f' <b>{_e(i["acao"])}</b>' if i.get("acao") else "")]
+                              for i in req["itens"]]))
     real = (m or {}).get("receita_real")
     if real:
         rs = lambda x: f"R$ {x:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")  # noqa: E731

@@ -21,6 +21,11 @@ e a lista "Em alta" de Esportes do YouTube no Brasil (1 unidade da cota). Limite
 **Monetização**: a aba Monetização do painel estima quanto o canal pode receber de anúncios nos próximos 30 dias
 (views previstas por formato ÷ 1.000 × RPM), mostra os requisitos do Programa de Parcerias e deixa ajustar o RPM
 com o valor real do YouTube Studio. É projeção, não valor garantido. Faixas de referência em `RPM_REFERENCIA`.
+A mesma aba traz o **checklist do Programa de Parcerias**, com ✅ atingido, ⚠️ não atingido ou em risco, e 🔎 conferir no Studio.
+Destaque para as **horas públicas dos últimos 12 meses**: calculadas vídeo a vídeo, sem Shorts, privados e apagados, com a
+projeção de 30 dias. Se algum requisito medido estiver abaixo da meta, o e-mail diário avisa (no máximo uma vez por semana, ou
+antes se a pendência mudar). Para canal já monetizado (`CANAL_MONETIZADO`), os requisitos de entrada funcionam como termômetro:
+ficar abaixo não tira a monetização; inatividade, advertências e violação de políticas, sim.
 
 **Guia de leitura** de uma página, para imprimir: `docs/guia.html` (link no painel).
 

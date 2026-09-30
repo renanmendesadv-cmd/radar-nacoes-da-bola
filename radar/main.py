@@ -174,6 +174,7 @@ def main() -> int:
         "buscas_torcedor": {k: buscas.especificas(k, v)[:6] for k, v in bruto["sugestoes"].items()
                             if k in C.BUSCAS_TORCEDOR},
         "alertas": alertas,
+        "aviso_requisitos": _aviso_requisitos(raiox, estado, local),
         "temas": temas[: C.TOP_PAINEL],
     }
     DOCS.mkdir(parents=True, exist_ok=True)
@@ -212,6 +213,23 @@ def main() -> int:
     estado["ultimo_email"] = agora.isoformat()
     ESTADO.write_text(json.dumps(estado, ensure_ascii=False, indent=1), "utf-8")
     return codigo_final
+
+
+def _aviso_requisitos(raiox: dict | None, estado: dict, local: datetime) -> dict | None:
+    """Aviso no e-mail diário quando algum requisito medido do Programa de Parcerias está abaixo da
+    meta. Aparece no máximo uma vez por semana, ou antes se a lista de pendências mudar."""
+    req = (raiox or {}).get("requisitos")
+    if not req or not req["pendencias"]:
+        estado.pop("aviso_requisitos", None)
+        return None
+    ant = estado.get("aviso_requisitos") or {}
+    hoje = local.date()
+    mudou = ant.get("pendencias") != req["pendencias"]
+    if not mudou and ant.get("dia") and (hoje - datetime.fromisoformat(ant["dia"]).date()).days < 7:
+        return None
+    estado["aviso_requisitos"] = {"dia": hoje.isoformat(), "pendencias": req["pendencias"]}
+    itens = [i for i in req["itens"] if i["nome"] in req["pendencias"]]
+    return {"resumo": req["resumo"], "nota": req["nota"], "itens": itens}
 
 
 def _dia_de_raiox(local: datetime, estado: dict) -> bool:
