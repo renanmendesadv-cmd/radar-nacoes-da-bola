@@ -405,5 +405,50 @@
     }
    ]
   }
+ },
+ "sao paulo cuca classico potira": {
+  "dia": "2026-09-29",
+  "resultado": {
+   "consulta": "São Paulo Cuca clássico Potira",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "sao paulo potira naty homenagem": {
+  "dia": "2026-09-29",
+  "resultado": {
+   "consulta": "São Paulo Potira Naty homenagem",
+   "n_videos": 3,
+   "mais_de": false,
+   "views": 1327,
+   "top": [
+    {
+     "titulo": "🖤 HOMENAGEM A NATY POTIRA NO SAN-SÃO!",
+     "canal": "Energia 97 FM",
+     "views": 1156,
+     "url": "https://www.youtube.com/watch?v=5m-b2M2bpaM",
+     "publicado": "2026-09-29T21:44:54Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "Homenagem.",
+     "canal": "Craques da Resenha ",
+     "views": 166,
+     "url": "https://www.youtube.com/watch?v=vrYDKjjfxlg",
+     "publicado": "2026-09-30T01:10:26Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "MORRE AOS 39 NATY POTIRA, TORCEDORA DO SANTOS, E VELÓRIO SERÁ NA QUADRA DO CLUBE",
+     "canal": "Fervo da Fama com Camila Valente",
+     "views": 5,
+     "url": "https://www.youtube.com/watch?v=3wry4DOGVQY",
+     "publicado": "2026-09-29T18:40:32Z",
+     "do_canal": false
+    }
+   ]
+  }
  }
 }

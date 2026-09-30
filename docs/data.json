@@ -1,68 +1,17 @@
 {
- "gerado_em": "2026-09-30T03:00:39.373747+00:00",
- "data_br": "30/09/2026 00:00",
+ "gerado_em": "2026-09-30T03:02:54.666049+00:00",
+ "data_br": "30/09/2026 00:02",
  "status": {
   "Google Trends": 10,
-  "Google News": 982,
-  "Canal (RSS YouTube)": 15,
-  "Buscas do torcedor": 18,
-  "YouTube (48 h)": 12,
+  "Google News": 981,
+  "Canal (RSS YouTube)": 0,
+  "Buscas do torcedor": 17,
+  "YouTube (48 h)": 10,
   "Agenda (ESPN)": 200,
   "Agenda (buscas Google)": 1
  },
  "canal_id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
- "videos_recentes": [
-  {
-   "titulo": "ESPANHA X CROÁCIA - 2ª RODADA",
-   "url": "https://www.youtube.com/watch?v=ABGH1zdZRN0",
-   "publicado": "2026-09-29T21:02:23+00:00"
-  },
-  {
-   "titulo": "BÉLGICA   X  FRANÇA - 2ª RODADA",
-   "url": "https://www.youtube.com/watch?v=LipNKeyEO1k",
-   "publicado": "2026-09-29T09:39:36+00:00"
-  },
-  {
-   "titulo": "NORUEGA  X  PORTUGAL - 2ª  RODADA",
-   "url": "https://www.youtube.com/watch?v=JdjD9CTWZi8",
-   "publicado": "2026-09-28T07:15:05+00:00"
-  },
-  {
-   "titulo": "NORUEGA X PORTUGAL",
-   "url": "https://www.youtube.com/watch?v=NXHprVpRKOY",
-   "publicado": "2026-09-27T20:51:55+00:00"
-  },
-  {
-   "titulo": "A NOVA SELEÇÃO NA TERRA DOS CANGURUS/NDB PERGUNTA; QUAL É O CRAQUE DO BR-26 ?/BATISTA SALVA O INTER?",
-   "url": "https://www.youtube.com/watch?v=__pBi2iRdIo",
-   "publicado": "2026-09-25T00:41:19+00:00"
-  },
-  {
-   "titulo": "FLU AFUNDA TIMÃO /VERDÃO PARA NAS MÃOS DE EX/TRICOLOR BATE INTER NO SUFOCO/MENGÃO ABRE SOBRE VERDÃO",
-   "url": "https://www.youtube.com/watch?v=5G-G0JQj4rU",
-   "publicado": "2026-09-23T12:41:04+00:00"
-  },
-  {
-   "titulo": "SAI PRO JOGO   #218",
-   "url": "https://www.youtube.com/watch?v=KTLAoFp-OXM",
-   "publicado": "2026-09-21T21:21:17+00:00"
-  },
-  {
-   "titulo": "CORINTHIANS  X  FLUMINENSE - 28ª RODADA",
-   "url": "https://www.youtube.com/watch?v=ixh02th_l_k",
-   "publicado": "2026-09-20T21:15:48+00:00"
-  },
-  {
-   "titulo": "TOCA E  RECEBE - VC PERGUNTA  E NÓS RESPONDEMOS NA HORA",
-   "url": "https://www.youtube.com/watch?v=ZhHREGjaq8U",
-   "publicado": "2026-09-18T00:44:57+00:00"
-  },
-  {
-   "titulo": "CORINTHIANS  X  ESTUDIANTES -  JOGO DA VOLTA",
-   "url": "https://www.youtube.com/watch?v=4CY4MadeZa0",
-   "publicado": "2026-09-17T03:05:07+00:00"
-  }
- ],
+ "videos_recentes": [],
  "termos_futebol": [
   "felipe melo"
  ],
@@ -180,11 +129,11 @@
     "Flamengo"
    ],
    "foco": true,
-   "nota": 76.4,
+   "nota": 76.0,
    "sinais": {
     "busca": 60,
-    "aceleracao": 44,
-    "midia": 100,
+    "aceleracao": 45,
+    "midia": 96,
     "aderencia": 100,
     "youtube": 97
    },
@@ -192,9 +141,9 @@
    "trafego_google": 0,
    "busca_torcedor": "arrascaeta flamengo",
    "termos_trends": [],
-   "n_fontes": 10,
-   "n_manchetes": 11,
-   "assinatura": "arras|flame|punho|quart",
+   "n_fontes": 9,
+   "n_manchetes": 10,
+   "assinatura": "arras|flame|quart|rio",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 2 min)",
@@ -215,7 +164,7 @@
     },
     {
      "titulo": "Arrascaeta chega quarta (30) no Brasil, e Flamengo define data de cirurgia",
-     "fonte": "cnnbrasil.com.br",
+     "fonte": "CNN Brasil",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzZuUk9tRUZ4OWY0T1l2VnRlZkNBWVRZQjlmcWtSZUx5MmVMR24xZFVpUjJIeWRndmZYamxoM1AyU1pVbmlhN3o1SU8wS0NnZURQdDhOVlp3d0tFbm1BdEJQUzk2M2NMX2FTUmJaY25ndDJqRzliZ3RSbklUSElQMWw4S0oxSDNjRW1BWGpJSWhxM0dOX25QTkZ6VWdhR01uU3dQa0dQOFFyWDhzNEdHYU52ZmtkcUtqNmhtZFF6Nm1vZw?oc=5"
     },
     {
@@ -263,6 +212,96 @@
    }
   },
   {
+   "tema": "Santos anuncia homenagem a Naty Potira com patch na camisa para clássico contra São Paulo",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "São Paulo",
+    "Santos"
+   ],
+   "foco": true,
+   "nota": 63.8,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 96,
+    "midia": 92,
+    "aderencia": 100,
+    "youtube": 50
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 8,
+   "n_manchetes": 8,
+   "assinatura": "santo|homen|potir|naty",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Todo mundo está falando disso. E você, concorda?",
+    "titulo_thumb": "SÃO PAULO: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Santos anuncia homenagem a Naty Potira com patch na camisa para clássico contra São Paulo?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Bruno Lima: Santos atende torcida e homenageia Naty Potira na camisa contra o São Paulo",
+     "fonte": "UOL",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeTdxSmJqZTUzNWxRTnllMDNfb3QzSDJ0QjR1VHVfY0pKZE5fVUVqb3dJa1BzUzhpUkEwQUlMODJieC1oWE5DN25ZQzByWXhWamtjWHVDSXlXLWhCdjI3Tnljb29sSHdZV0ZmTXBya1cyTF9NSi1ud3ktSUhGdXpfWnZTTkgxUjZZM00zWGROelZ1VHlwX0RPV081MHJfV1pYdDNOS1FwbFJlVkxYUUlTT2d4VUVEdU41bThrdzRKcENwU1BHQmdmcTN2QlJ4YjZpeUxnd3Q2QQ?oc=5"
+    },
+    {
+     "titulo": "Santos anuncia homenagem a Naty Potira com patch na camisa para clássico contra São Paulo",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNU0F0cVdvcnM1UVR3OG1MX2pfNkJ3djBBSlJkdTVWMkFyblhoMk1oTk5PLXRrZ25Hc0RlcEFINFMxYjlLaHdkZUhVVE9hUm4xQXBTR2ZrS2FfYnY3V3NSVWp6Q0haSGZrSUhZS3Y4TW9ZM0FpY2tHYnl4YmI0a0RGV2xLYW5nN21LMlFkV2NUeFRJNkRDTkxIZkRORlY4M3FIV0dJYzJZQ0NXb0U5ZkpzYVB6ZlNSZFZxYmJjQzUzbVBJMFVwSmFFYVVEbmdoUzl4RGVEWWtfcGNvNHVvRk9rQTJSR0VOWnRpaGRKYnl5VkZBZVd6NHJNMmt4b2NmQzdhNDl4XzFJdWE?oc=5"
+    },
+    {
+     "titulo": "Santos fará homenagem para Naty Potira no clássico contra o São Paulo",
+     "fonte": "CNN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWlg2Sk1IRGcyUjd2bE50ZjlPQXNZaURzanl4M241WER5VjVzLTFkcmxtcXZmMXVzY1VSeXVqNzhudGJDUm5yMEYzUUNJSDY4al9zbURrUVNUZVFVR1FNU0cwSktDVHBWMndIWTNiRFlUZC10NXlzVEMtRURnNGtnS2tkUGdoOTlQTXpDc3FUZ0xsem9oT0hlaHhmc0NyR0ZzbTJDTWhTVE5mSURuSm1TT3dXejhzTHMtM1o5LUF5T1g?oc=5"
+    },
+    {
+     "titulo": "Santos homenageará Naty Potira na camisa em clássico contra o São Paulo",
+     "fonte": "Santa Portal",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeU1mVFhkNWtOTFA5XzVnR01uaUhWdC1tdld0cmI4UGkxbHREako4Q1B0cUVNWTVsMU9oaDBOeG1OR2o4alpvZjJHaXpENFJUUlRUd0s3T0pzU04xNTJsSmNicTAxeHlWZFFwQzhpdVBsZnl1Nk9tVU00cDh2cEJjei1FUmNneWhkeVhvOVAtYmZjZkRxWkNGSjlxclFxcURDZGNiWFE4U2Qwd0xsV0tNWHFycERlVkE?oc=5"
+    },
+    {
+     "titulo": "Santos prepara homenagem a Naty Potira em clássico",
+     "fonte": "tmc.com.br",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFdsbGExLWRoUHVka0xhWVpqN1E1aTZPZFZvNjFDTlQ5Q2x2TEM4cWMzYlo4ek1MQ0xMMTZwVmZtNGw0cTZ1UzJvMjE2RFJzYjZncm5LY3RvWm1ockNtUU94czJyeU9OYmJ4VkR5RHpoX3FOdEozUl9nX2l3VXJoUGV3WU4?oc=5"
+    }
+   ],
+   "youtube": {
+    "consulta": "São Paulo Potira Naty homenagem",
+    "n_videos": 3,
+    "mais_de": false,
+    "views": 1327,
+    "top": [
+     {
+      "titulo": "🖤 HOMENAGEM A NATY POTIRA NO SAN-SÃO!",
+      "canal": "Energia 97 FM",
+      "views": 1156,
+      "url": "https://www.youtube.com/watch?v=5m-b2M2bpaM",
+      "publicado": "2026-09-29T21:44:54Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Homenagem.",
+      "canal": "Craques da Resenha ",
+      "views": 166,
+      "url": "https://www.youtube.com/watch?v=vrYDKjjfxlg",
+      "publicado": "2026-09-30T01:10:26Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "MORRE AOS 39 NATY POTIRA, TORCEDORA DO SANTOS, E VELÓRIO SERÁ NA QUADRA DO CLUBE",
+      "canal": "Fervo da Fama com Camila Valente",
+      "views": 5,
+      "url": "https://www.youtube.com/watch?v=3wry4DOGVQY",
+      "publicado": "2026-09-29T18:40:32Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
    "tema": "Corinthians apresenta déficit de R$ 278 milhões até julho e omite dívida em balancete",
    "categoria": "Finanças e gestão",
    "clubes": [
@@ -283,7 +322,7 @@
    "termos_trends": [],
    "n_fontes": 8,
    "n_manchetes": 10,
-   "assinatura": "defic|corin|julho|milho",
+   "assinatura": "corin|defic|julho|milho",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Explicador de bastidor (2 a 4 min)",
@@ -299,7 +338,7 @@
     },
     {
      "titulo": "Corinthians registra deficit financeiro de r$ 32 milhões em julho",
-     "fonte": "araraquaranews.com.br",
+     "fonte": "Araraquara News",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQXlJdEFDaGc0UnQzSHJPemhNdExKOGdGVUF5U1N6OU53VWR2MlBPbWhTWEZvbTBMeTdpZW9lQTRVUWdmX3hUY1dHSVFhamsybHFMZXMxdmxNS3lKZzVrY1VjNEcySmtQRGFJZFEzdHJ6bDVKNVgwRWtEdUZNZzdlWlhORUxCak9xMklGZkdRc1VwRENpZnBpOC12VkgxeTJwdmowVFVaNHQ0UQ?oc=5"
     },
     {
@@ -314,7 +353,7 @@
     },
     {
      "titulo": "Corinthians vê déficit aumentar 258% acima do previsto e dívida dispara",
-     "fonte": "cnnbrasil.com.br",
+     "fonte": "CNN Brasil",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdVlpRlQ3TjNMcU1jdUlLRUk2QjZpaXlsUDF1MkhaeDFkWEhuYXY4R19JWktTSllFQTl4bTlIMTMyRG5QN1d0MDJGRnduZVVmM1pydlk4bmtZWjBRYXhlVF8zYzVwd0FRbTV6QjEyTnZuSVFtMW1VR2NzY0ZnRmw4SEJfMEs4bl9BYjk4STVhUjVYUk44cWg3V2MxWVlhYnlHRkV0bUNoMWtHdnlTY0Fhck5Takh2NlJPeVJVNGR4ckdFa0xvMXBOOA?oc=5"
     }
    ],
@@ -346,167 +385,6 @@
       "views": 10771,
       "url": "https://www.youtube.com/watch?v=Yw2N8dKUWUI",
       "publicado": "2026-09-30T01:04:32Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Santos anuncia homenagem a Naty Potira com patch na camisa para clássico contra São Paulo",
-   "categoria": "Lesão e desfalque",
-   "clubes": [
-    "São Paulo",
-    "Santos"
-   ],
-   "foco": true,
-   "nota": 61.1,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 78,
-    "midia": 100,
-    "aderencia": 100,
-    "youtube": 52
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 13,
-   "n_manchetes": 16,
-   "assinatura": "santo|paulo|class|potir",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 2 min)",
-    "gancho": "Esse desfalque muda tudo para o São Paulo nos próximos jogos.",
-    "titulo_thumb": "SÃO PAULO SEM ELE: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Santos anuncia homenagem a Naty Potira com patch na camisa para clássico contra São Paulo?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Cuca causa ‘espanto’ no Santos e prepara mudanças para encarar o São Paulo",
-     "fonte": "Santistas",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yN0RTVkNCLUY0V24tQjluY1I0LS1tM015TFFQWVdtZUYtRi1hWFlual9memp0ZjlEQ3hMYTJlQ1BvRE91YmxmVlZOWEVmaW1RTDNJZTlEVllkbE0tMFZZQUZ4VDlWbDlUdk9vVA?oc=5"
-    },
-    {
-     "titulo": "Santos anuncia homenagem a Naty Potira com patch na camisa para clássico contra São Paulo",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNU0F0cVdvcnM1UVR3OG1MX2pfNkJ3djBBSlJkdTVWMkFyblhoMk1oTk5PLXRrZ25Hc0RlcEFINFMxYjlLaHdkZUhVVE9hUm4xQXBTR2ZrS2FfYnY3V3NSVWp6Q0haSGZrSUhZS3Y4TW9ZM0FpY2tHYnl4YmI0a0RGV2xLYW5nN21LMlFkV2NUeFRJNkRDTkxIZkRORlY4M3FIV0dJYzJZQ0NXb0U5ZkpzYVB6ZlNSZFZxYmJjQzUzbVBJMFVwSmFFYVVEbmdoUzl4RGVEWWtfcGNvNHVvRk9rQTJSR0VOWnRpaGRKYnl5VkZBZVd6NHJNMmt4b2NmQzdhNDl4XzFJdWE?oc=5"
-    },
-    {
-     "titulo": "Santos fará homenagem para Naty Potira no clássico contra o São Paulo",
-     "fonte": "cnnbrasil.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWlg2Sk1IRGcyUjd2bE50ZjlPQXNZaURzanl4M241WER5VjVzLTFkcmxtcXZmMXVzY1VSeXVqNzhudGJDUm5yMEYzUUNJSDY4al9zbURrUVNUZVFVR1FNU0cwSktDVHBWMndIWTNiRFlUZC10NXlzVEMtRURnNGtnS2tkUGdoOTlQTXpDc3FUZ0xsem9oT0hlaHhmc0NyR0ZzbTJDTWhTVE5mSURuSm1TT3dXejhzTHMtM1o5LUF5T1g?oc=5"
-    },
-    {
-     "titulo": "São Paulo x Santos: Debate PLACAR analisa pressão no clássico",
-     "fonte": "Revista PLACAR",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUWtXR05DYTNXQ1AyU1pzQTNTcE1hSDdZXzhDcVJZdUlDVllJWG9Pa3djN3pRWE05SERhRzIzMDN4UV9QZTU4NFFjQ0plek9odXNwQjRsRUxhOTlIUFlIV3pFbTVvMDlHX0w1NWdVNEZ4TTI5bC1rMFctNGllX1FDRGtSWFpLazhlbEJKbHpBai1aV3ZUUnpkVExsdw?oc=5"
-    },
-    {
-     "titulo": "Santos homenageará Naty Potira na camisa em clássico contra o São Paulo",
-     "fonte": "Santa Portal",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeU1mVFhkNWtOTFA5XzVnR01uaUhWdC1tdld0cmI4UGkxbHREako4Q1B0cUVNWTVsMU9oaDBOeG1OR2o4alpvZjJHaXpENFJUUlRUd0s3T0pzU04xNTJsSmNicTAxeHlWZFFwQzhpdVBsZnl1Nk9tVU00cDh2cEJjei1FUmNneWhkeVhvOVAtYmZjZkRxWkNGSjlxclFxcURDZGNiWFE4U2Qwd0xsV0tNWHFycERlVkE?oc=5"
-    }
-   ],
-   "youtube": {
-    "consulta": "São Paulo Potira clássico Naty",
-    "n_videos": 5,
-    "mais_de": false,
-    "views": 1117,
-    "top": [
-     {
-      "titulo": "🖤 HOMENAGEM A NATY POTIRA NO SAN-SÃO!",
-      "canal": "Energia 97 FM",
-      "views": 913,
-      "url": "https://www.youtube.com/watch?v=5m-b2M2bpaM",
-      "publicado": "2026-09-29T21:44:54Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "Santos Influencer Naty Potira Dies at 39 💔 #shorts #natypotira #santosfc #neymar #rip",
-      "canal": "NOW&NEXT",
-      "views": 105,
-      "url": "https://www.youtube.com/watch?v=Df7MfD77Nt4",
-      "publicado": "2026-09-29T21:00:37Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "Naty Potira, influenciadora e torcedora do Santos, será velada em São Paulo",
-      "canal": "Coca que Cola",
-      "views": 94,
-      "url": "https://www.youtube.com/watch?v=80scqWcrPXE",
-      "publicado": "2026-09-28T15:03:10Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Lesão de Arrascaeta pelo Uruguai pode render indenização ao Flamengo pela Fifa",
-   "categoria": "Lesão e desfalque",
-   "clubes": [
-    "Flamengo"
-   ],
-   "foco": true,
-   "nota": 61.0,
-   "sinais": {
-    "busca": 60,
-    "aceleracao": 47,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": 50
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "arrascaeta flamengo",
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "lesao|inden|arras|flame",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 2 min)",
-    "gancho": "Esse desfalque muda tudo para o Flamengo nos próximos jogos.",
-    "titulo_thumb": "FLAMENGO SEM ELE: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Lesão de Arrascaeta pelo Uruguai pode render indenização ao Flamengo pela Fifa?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Lesão de Arrascaeta vai render indenização para o Flamengo? Entenda",
-     "fonte": "exame.com",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3FMZUFFOVJPakNRaHVUaWIzYUc3bUZidnpiTDNwYks1ZVYzQzJLclN5eW1FYVdKUzVBbmw5V0RNZy1rVGtSWFM4V1EtazZrYkpQazUzM3l4eHpWQXNaWUpQakRrYnZ4Z0J2Rng1NTBmN3JReW1YQXp2bVNhRDZfMGtoTzhBTUI0YTVjQmFSZVh2RnFIeWYwVA?oc=5"
-    },
-    {
-     "titulo": "Lesão de Arrascaeta pelo Uruguai pode render indenização ao Flamengo pela Fifa",
-     "fonte": "Goal.com",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZEN0SjZ6dkpfU1lkaTF4SWhiQnNxTWltTmhoWGM0WkEtMkx6T3pyZlF2TkxwRzM5RkYwQ0x2Zk9SekI4alhQNTdQNzdrcnNvcGVaTkpzalJycFJtQW1QWlNWeFBYYkFTM2p1VVhaU0FqTFk2TFB1LUdzZS1tYnlCZ2NvcVBwdlFmS1VNTVhlTUx6QUFiempPNVZEenpaRmhFTG5hVVphMFhLOWpXN0F1TGJuMzlCc3ZjNHZ3QTJDclczWFdQa0RNU3piWUlUMk5VeUE?oc=5"
-    },
-    {
-     "titulo": "Flamengo recebe da Fifa por lesão de Arrascaeta na seleção do Uruguai? Entenda como funciona indenização",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONXZHU3dGZ0JyRjZhaUxkaVo4UVNlc3BlT21odzlyc0tUSl85X2hGSllQZDFZNjBfUjlreHRKbUJUeENncEQwUHh6ZzgyYVpDTk9iTXlzLWJZaWdjcGwzbWZwNDMwUGxWTkk0WTJ0N2NaS0pSOTd3ZkZOMi1iYldqLTBIY0FBRk95TzljdHdsMWpqajZRT082ZGNtMkF5YUFLLWFjWWJGZnJqbm9EWUc3ckJrSkRuZWVfQlFXbk56ZTJnSmlFZmNNSTkteE5MNElxM2lQallfb1ZBekdjX1o5MGRtTWRzZXNnWm51Z296SHlsNG9ST1NITg?oc=5"
-    }
-   ],
-   "youtube": {
-    "consulta": "Flamengo Arrascaeta Lesão indenização",
-    "n_videos": 2,
-    "mais_de": false,
-    "views": 2034,
-    "top": [
-     {
-      "titulo": "FLAMENGO PODE RECEBER INDENIZAÇÃO POR LESÃO DO ARRASCAETA #flamengo #arrascaeta #fifa",
-      "canal": "Davi CRF",
-      "views": 1770,
-      "url": "https://www.youtube.com/watch?v=2pHCPNYTiy0",
-      "publicado": "2026-09-29T00:38:16Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "ARRASCAETA FORA! SEM JORGINHO NA LIBERTADORES O PROBLEMA AUMENTA! NOVO GRAMADO MARACA!+",
-      "canal": "NAÇÃO DO ALÊ",
-      "views": 264,
-      "url": "https://www.youtube.com/watch?v=nFbC3fKZ1WM",
-      "publicado": "2026-09-28T22:30:08Z",
       "do_canal": false
      }
     ]
@@ -585,7 +463,7 @@
    "termos_trends": [],
    "n_fontes": 4,
    "n_manchetes": 4,
-   "assinatura": "palme|reuni|gover|botaf",
+   "assinatura": "palme|botaf|reuni|gover",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 3 min)",
@@ -596,7 +474,7 @@
    "manchetes": [
     {
      "titulo": "Palmeiras descarta reunião com governo e tem cautela sobre contrato com bet",
-     "fonte": "cnnbrasil.com.br",
+     "fonte": "CNN Brasil",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN3VkT2ltX3UxeUpKd2wyeUltMHZjMkVjampMbDB1U2d6TUk4ZV9rR2lqcTRQaEhESFc3U2U0cTdqbm5JYzVhSGp4Zm1MeEFjTm9WWkpzVHpqSzdYcENkV0hqUjNzdnJlWlk2SGc0WVZqcDJnREZ0RWQ5a1BoY3JqZmVuMTdxbmZDWE95RWlILUh0bXhQZ3UzTkZtRjRoa3NhMVNfWEw5d253OGt5M202c0ZJVHFIVmNIVEZwMFNMYkxzLUhJQ2k2eEFHVms?oc=5"
     },
     {
@@ -649,82 +527,68 @@
    }
   },
   {
-   "tema": "Flamengo terá desfalques importantes antes de duelo pela Libertadores",
-   "categoria": "Lesão e desfalque",
+   "tema": "Santos fará homenagem à Naty Potira com patch especial em clássico contra São Paulo",
+   "categoria": "Jogo e resultado",
    "clubes": [
-    "Flamengo"
+    "São Paulo",
+    "Santos"
    ],
    "foco": true,
-   "nota": 58.0,
+   "nota": 58.8,
    "sinais": {
-    "busca": 60,
-    "aceleracao": 8,
-    "midia": 58,
+    "busca": 50,
+    "aceleracao": 73,
+    "midia": 92,
     "aderencia": 100,
-    "youtube": 82
+    "youtube": 0
    },
-   "fator_categoria": 1.0,
+   "fator_categoria": 0.976,
    "trafego_google": 0,
-   "busca_torcedor": "arrascaeta flamengo",
+   "busca_torcedor": "cuca treinador",
    "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "desfa|flame|liber|aumen",
+   "n_fontes": 8,
+   "n_manchetes": 11,
+   "assinatura": "paulo|santo|class|prepa",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "React rápido (1 a 2 min)",
-    "gancho": "Esse desfalque muda tudo para o Flamengo nos próximos jogos.",
-    "titulo_thumb": "FLAMENGO SEM ELE: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Flamengo terá desfalques importantes antes de duelo pela Libertadores?"
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Esse resultado diz mais sobre o São Paulo do que o placar mostra.",
+    "titulo_thumb": "SÃO PAULO: O QUE O JOGO REVELOU",
+    "pergunta_enquete": "Qual sua opinião: Santos fará homenagem à Naty Potira com patch especial em clássico contra São Paulo?"
    },
    "manchetes": [
     {
-     "titulo": "Flamengo terá desfalques importantes antes de duelo pela Libertadores",
-     "fonte": "sportbuzz.com.br",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ240T29fMjd2UVV2NVk3VHNZNTRVdXJGSEw4V0phM2NnbExTMGZnRklISDNzMjdRM3ItcFVUS0ZfUGxTUlBXdS1PcmpDWVhTQWU5bTgxU0xkZkZHdkVTS2ZuOU5UaHIxNkVESUt1dGtUVFRhZ2h2bThOSHdRR21QVnJ1a3pWSkR3cFJvX05iR0NqcXVLMFRKNDVCUFZlOGotdFI4RHN0Z2d2NWFXcWRqcTJYNUE?oc=5"
+     "titulo": "Cuca causa ‘espanto’ no Santos e prepara mudanças para encarar o São Paulo",
+     "fonte": "Santistas",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yN0RTVkNCLUY0V24tQjluY1I0LS1tM015TFFQWVdtZUYtRi1hWFlual9memp0ZjlEQ3hMYTJlQ1BvRE91YmxmVlZOWEVmaW1RTDNJZTlEVllkbE0tMFZZQUZ4VDlWbDlUdk9vVA?oc=5"
     },
     {
-     "titulo": "Sem Arrascaeta, Flamengo trabalha opções para volta da Data Fifa; Jorginho também desfalca na Libertadores",
+     "titulo": "São Paulo x Santos: Debate PLACAR analisa pressão no clássico",
+     "fonte": "Revista PLACAR",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUWtXR05DYTNXQ1AyU1pzQTNTcE1hSDdZXzhDcVJZdUlDVllJWG9Pa3djN3pRWE05SERhRzIzMDN4UV9QZTU4NFFjQ0plek9odXNwQjRsRUxhOTlIUFlIV3pFbTVvMDlHX0w1NWdVNEZ4TTI5bC1rMFctNGllX1FDRGtSWFpLazhlbEJKbHpBai1aV3ZUUnpkVExsdw?oc=5"
+    },
+    {
+     "titulo": "Confira o treino de preparação do Santos para enfrentar o São Paulo, pelo Brasileirão",
      "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRXg2bkREUGo5Qk5KR24xSmR4cDlKaGxKR0Y5MXJGYVhmOW9DSDlnWmhLU1Fja2Y0Z2RnVVg5X29rRmlFMEo3aUJ6bWJvdFpHVGVVWnVmQXJMdkJncDZScVIyczg2NHYwOVRZakhJTE5UdHltcHdnTkxoSXNqZTNGQWV5TlZ4WklNZnNvOHhCMnduN0hwYjhGQ0E3cTBPdkYxeGdSbFQ2NjF2YXJoODFEeTl6aUtqZjh5QTRBTGNUVmc3VmtsallZUzc0WkVTYUFLak9TUjZCMW9JbHhOYjI5OG1tS0hLYk9hTXhHMjg4RHA1cXVpRHVCV0ZQUjU3eFlQdXdr0gGSAkFVX3lxTE1fbllleGRSYk9ZU25udmVBREVfdHVKTVFQellYQVR2V0JBMHVsSlZzalNkSDVlUWFwYWlpWGROTDdETnVkdGxScDMxS2Qtd2dJZkQ4aTVQUUxhVUpZSFJPck1sV0tQSjFIN0p6V1BwQnBNVU9mRW5KS3dPXy0wMVNvclpoNjNXMHBQSGdRVzVqRG9HLVBPOTRGU2U1M25pVWpjRklWMmVrRGh3X1FGZ0JjemNrSGNtYTluOGRTZkczUWhxeW85NEtVeWF5SkE2aklqTzBHaXgzT3JCWTJSYm1mS0xBWFQxa1NiTVpVamNMN29EbUlSUnVLbEdDcVB2cEV4aVRZRnN1WmNtSWVESXdrNlE?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOGRSZ2xCaVdCUkxydGFGUEphWWVYMHV2WnhuZnRZT3VRQnVUck9PNzZwMXc5Ul9PdEo2dXRMY0x0TFFOZkJ3OVJCRTZnUjJHUjB3dkhsVjQxNGVMUnpnVHdNSW1kMjBOU0tsSF9laDZrcDY1SE9XRHlBb0pCMzNZNHl4TjhXUEtJQXl5bWpMakZ0cF90YjF0dGtJRDdvbzFra0tTQ0dmdW1RaVp4d3FubUs4bVlGSkZla2tvSWJoWVpEU3BvRy1TOVFjbDRwal93NFM00gHTAUFVX3lxTFA4ZFJnbEJpV0JSTHJ0YUZQSmFZZVgwdXZaeG5mdFlPdVFCdVRyT083NnAxdzlSX090SjZ1dExjTHRMUU5mQnc5UkJFNmdSMkdSMHd2SGxWNDE0ZUxSemdUd01JbWQyME5TS2xIX2VoNmtwNjVIT1dEeUFvSkIzM1k0eXhOOFdQS0lBeXltakxqRnRwX3RiMXR0a0lEN29vMWtrS1NDR2Z1bVFpWnh3cW5tSzhtWUZKRmVra29JYmhZWkRTcG9HLVM5UWNsNHBqX3c0UzQ?oc=5"
     },
     {
-     "titulo": "Desfalques do Flamengo na Libertadores seguem aumentando; confira a lista",
-     "fonte": "cnnbrasil.com.br",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV0JaaV9lUGR2d1lrQ2stR0VnZHF3WlRWUnlUam40anZnUVRjNnFiRVllMUFpOFhpUzdIVnFkOUMyMGV0X3l1Y0J1S2RRaXgwRnljRUN3cWNZeUkzZl9HaFlYaHI4UlBITEdXQTRkNVdXQ050bEtmaTdvWGZtY1V4TFVkTy1uVmY0M3ZJcW1RbW02V1lrbkh2R2J1U3E0dGFtRFhhNWw3S1ptTmtTUlRqdzE4UVpJcThSOTIwTUdXTUItWng0YnJr?oc=5"
+     "titulo": "Santos vai homenagear a influenciadora Naty Potira no clássico contra o São Paulo",
+     "fonte": "A Tribuna",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd1VBNFpEQml0NWRaNk9xdGZ5Zkp1WWtnam9FaVdPdWdBMGpIRFZZbnZJNUF4TWdRM1htb1QyeWE4VkZBc2JaQnZBUndzaW41ZmNxOS1BVGo1SHdxYjRISUxTRFB2WVB6Zm9rSXctdTFZVUxobGx6TTJxSFpTYThvQVBJZHBSQ1RxM1lNN1o5U3N3TXA0Q0V3N3U1YVgwNU1HWWRpSmNBTUZaTFRlOGFmcnB3ZXowME5Ua1ZrQlIzc19ZcEVQbWlISzBJcDRoekdTME5v?oc=5"
+    },
+    {
+     "titulo": "Escalação: Cuca prepara Santos com mudanças e sem Neymar para o clássico contra o São Paulo",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQUNIbEpMa1diY3dROEZrQ2djZmIyTDhOd3U0ZnBETWMzT0RBR3pETGUwa3gwa1dLdEtaWVFwQktJVFNoRVl0V0llNWJDTWxSM05HMXpuLVNVamlVc25QalBDQ0F0Q296dnRMNTFGcEF6ZUlQTC1hZHIwOWlESlF0RzhfUi1iWXlOb05pU21Kc1Yyb1dmdGFucnFTRENpWHNaNkhLTHJRc0lUaExEWDMwcG1kNHVka0x5RGlhTHQySlFCUzFkSVpiWm5EOHNsMHdTV082QzF0Mnd3NUlJVzlDWF96S08ta3IzVk1NMVRKUGw0c3ZNaG1idk9XMms2bmFGVkhPTzVIRdIBlgJBVV95cUxPelU1ekl4U0F4dU1iRjRpam1mQ2FCLVk3T3NFNWs2OWVrUVhOdVhkWXpNVHRQSXFfek5DN1JPQW1RaEU2cEIta1Q5RHlqWWxfUDE1S2hjenk0MDVVZkVtdXNDQUQ1djNiUGVwTjFjMXVoSE85UUpBbFIyc1FNczdYOU82YXdYVlFUV3hzWHJfT19yODVBd2kxOThEdzJ2YXA3Q2JhdW5HNW5lem9DcEVSN3lOTFphdll1cEhUMU9ub0VpelNrMjMtSHRjRGRoVUFCQVFCaWpNSkFQdkhCam9Pb2lUdTc4bTVVRGIwU01rNTYxeGtQN0JSMGE0RWdKNlBNck5GWjgzdVloN0dZWHo0THdwc005QQ?oc=5"
     }
    ],
    "youtube": {
-    "consulta": "Flamengo desfalques importantes",
-    "n_videos": 24,
+    "consulta": "São Paulo Cuca clássico Potira",
+    "n_videos": 0,
     "mais_de": false,
-    "views": 41351,
-    "top": [
-     {
-      "titulo": "FLAMENGO AGENDA CIRURGIA ARRASCAETA! FLAMENGO VOLTA AOS TREINOS QUARTA-FEIRA! DESFALQUES NA LIBERTA",
-      "canal": "Wesley FLA 12",
-      "views": 10010,
-      "url": "https://www.youtube.com/watch?v=2OCRRcpU0dg",
-      "publicado": "2026-09-29T19:17:30Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "URGENTE: ARRASCAETA LESIONADO! FLA DESMENTE INFORMAÇÃO! ESTUDIANTES COM VÁRIOS DESFALQUES! NOTICIAS",
-      "canal": "Visão Rubro-Negra",
-      "views": 9668,
-      "url": "https://www.youtube.com/watch?v=XDMaIz8C6aU",
-      "publicado": "2026-09-28T16:42:08Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "JOGO COM CONFUSÃO! ESTUDIANTES PODE TER TRÊS DESFALQUES PARA PARTIDA DIANTE DO FLAMENGO NA LIBERTA!",
-      "canal": "Paparazzo Rubro-Negro",
-      "views": 7370,
-      "url": "https://www.youtube.com/watch?v=Ebz0bouSyRA",
-      "publicado": "2026-09-28T14:45:00Z",
-      "do_canal": false
-     }
-    ]
+    "views": 0,
+    "top": []
    }
   },
   {
@@ -735,10 +599,10 @@
     "Fluminense"
    ],
    "foco": true,
-   "nota": 57.7,
+   "nota": 58.4,
    "sinais": {
     "busca": 60,
-    "aceleracao": 75,
+    "aceleracao": 78,
     "midia": 58,
     "aderencia": 100,
     "youtube": 0
@@ -749,7 +613,7 @@
    "termos_trends": [],
    "n_fontes": 3,
    "n_manchetes": 3,
-   "assinatura": "palme|receb|visit|nuban",
+   "assinatura": "visit|palme|receb|visto",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
@@ -783,6 +647,77 @@
    }
   },
   {
+   "tema": "Lesão de Arrascaeta pelo Uruguai pode render indenização ao Flamengo pela Fifa",
+   "categoria": "Lesão e desfalque",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 56.4,
+   "sinais": {
+    "busca": 60,
+    "aceleracao": 28,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": 50
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "arrascaeta flamengo",
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "inden|flame|arras|lesao",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "Esse desfalque muda tudo para o Flamengo nos próximos jogos.",
+    "titulo_thumb": "FLAMENGO SEM ELE: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Lesão de Arrascaeta pelo Uruguai pode render indenização ao Flamengo pela Fifa?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Lesão de Arrascaeta vai render indenização para o Flamengo? Entenda",
+     "fonte": "Exame",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3FMZUFFOVJPakNRaHVUaWIzYUc3bUZidnpiTDNwYks1ZVYzQzJLclN5eW1FYVdKUzVBbmw5V0RNZy1rVGtSWFM4V1EtazZrYkpQazUzM3l4eHpWQXNaWUpQakRrYnZ4Z0J2Rng1NTBmN3JReW1YQXp2bVNhRDZfMGtoTzhBTUI0YTVjQmFSZVh2RnFIeWYwVA?oc=5"
+    },
+    {
+     "titulo": "Lesão de Arrascaeta pelo Uruguai pode render indenização ao Flamengo pela Fifa",
+     "fonte": "Goal.com",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZEN0SjZ6dkpfU1lkaTF4SWhiQnNxTWltTmhoWGM0WkEtMkx6T3pyZlF2TkxwRzM5RkYwQ0x2Zk9SekI4alhQNTdQNzdrcnNvcGVaTkpzalJycFJtQW1QWlNWeFBYYkFTM2p1VVhaU0FqTFk2TFB1LUdzZS1tYnlCZ2NvcVBwdlFmS1VNTVhlTUx6QUFiempPNVZEenpaRmhFTG5hVVphMFhLOWpXN0F1TGJuMzlCc3ZjNHZ3QTJDclczWFdQa0RNU3piWUlUMk5VeUE?oc=5"
+    },
+    {
+     "titulo": "Flamengo recebe da Fifa por lesão de Arrascaeta na seleção do Uruguai? Entenda como funciona indenização",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONXZHU3dGZ0JyRjZhaUxkaVo4UVNlc3BlT21odzlyc0tUSl85X2hGSllQZDFZNjBfUjlreHRKbUJUeENncEQwUHh6ZzgyYVpDTk9iTXlzLWJZaWdjcGwzbWZwNDMwUGxWTkk0WTJ0N2NaS0pSOTd3ZkZOMi1iYldqLTBIY0FBRk95TzljdHdsMWpqajZRT082ZGNtMkF5YUFLLWFjWWJGZnJqbm9EWUc3ckJrSkRuZWVfQlFXbk56ZTJnSmlFZmNNSTkteE5MNElxM2lQallfb1ZBekdjX1o5MGRtTWRzZXNnWm51Z296SHlsNG9ST1NITg?oc=5"
+    }
+   ],
+   "youtube": {
+    "consulta": "Flamengo Arrascaeta Lesão indenização",
+    "n_videos": 2,
+    "mais_de": false,
+    "views": 2034,
+    "top": [
+     {
+      "titulo": "FLAMENGO PODE RECEBER INDENIZAÇÃO POR LESÃO DO ARRASCAETA #flamengo #arrascaeta #fifa",
+      "canal": "Davi CRF",
+      "views": 1770,
+      "url": "https://www.youtube.com/watch?v=2pHCPNYTiy0",
+      "publicado": "2026-09-29T00:38:16Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "ARRASCAETA FORA! SEM JORGINHO NA LIBERTADORES O PROBLEMA AUMENTA! NOVO GRAMADO MARACA!+",
+      "canal": "NAÇÃO DO ALÊ",
+      "views": 264,
+      "url": "https://www.youtube.com/watch?v=nFbC3fKZ1WM",
+      "publicado": "2026-09-28T22:30:08Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
    "tema": "Bahia intensifica preparação para enfrentar o Palmeiras",
    "categoria": "Notícia do dia",
    "clubes": [
@@ -803,7 +738,7 @@
    "termos_trends": [],
    "n_fontes": 4,
    "n_manchetes": 4,
-   "assinatura": "palme|bahia|enfre|prepa",
+   "assinatura": "palme|bahia|enfre|inten",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
@@ -859,79 +794,6 @@
    }
   },
   {
-   "tema": "Flamengo aciona STF e reforça ação das bets contra proibição do governo",
-   "categoria": "Mercado da bola",
-   "clubes": [
-    "Flamengo"
-   ],
-   "foco": true,
-   "nota": 51.0,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 72,
-    "midia": 87,
-    "aderencia": 100,
-    "youtube": 19
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 7,
-   "n_manchetes": 7,
-   "assinatura": "bets|flame|stf|refor",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 3 min)",
-    "gancho": "Essa negociação pode mudar o Flamengo, ou virar o erro do ano.",
-    "titulo_thumb": "FLAMENGO: VALE O INVESTIMENTO?",
-    "pergunta_enquete": "Qual sua opinião: Flamengo aciona STF e reforça ação das bets contra proibição do governo?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Flamengo pede ao STF para entrar em ação contra veto às bets",
-     "fonte": "esporte.ig.com.br",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQU5XUUVJcVBNRDhVc0ZULTd4UUg5OXZsbGZla0ltdGV1X3YyZnpSOEd2ZXFHcDBEQlN0bUJ0TFNpX2ozeXZESFE3Ry1GdEh0NGk5VVBKUVBFbEJmcmFJamFzaG9fVWhwVjFxSGxFSEUtREllU21GWElwTERaT3FaelBycHE2bFZvUXpMTDNfY3hDUC1YeEU5TUIwUkNnUU5PaktNeU96Y0prV21RRkFKZElaRjZYcHVwbVlTYmFB0gHDAUFVX3lxTE9nREk2VXlweExwdF93LWMyRk9uQ29rc2ZvLUp1X21YbzlyMFNoc2NzTHV2UzUtRjFjOVp2SS1UbWtzZm5tMnBLaTVCTzFTLU9rbWNaUXV3ZHplVzlpOEtyM2JQMFl2LU0wWHEtRVdPNkYwQkhSVWxIb1JRM3B2azY2aWZZZHZWQVdmV1UxTWNfMFR4eGhZbW1yVjQ1Ym1pSEJ1c0dzek5TQjBEbUVMM0laRDZxeUlja2NBU081Wi1Ha2o2RQ?oc=5"
-    },
-    {
-     "titulo": "Flamengo entra com petição contra veto às bets no STF",
-     "fonte": "O Dia",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZURDQUl3RHl4VG83YmVRU0N5cDJQT2dBdS1fYWVSb0tQOXlIemtVVVM0MDhnQXlRNTNSS1UzbVJhWTZJd0FwdFE2aFhzMEQtdXczd25mUEtzbXNqRC1uY1o1VFdlN2prZjRrMUs1eWhWQm9lRHNRbTFBSVItVndFQ3N1V2pLby1KRnNYNFdpR1pic0RfdDZ6VHNQUU5YUEdzLXo2UE91bGFDXzNZTk1SeUQwMHrSAboBQVVfeXFMUDM1aUF3RnQ0MXdFOVdtanY0ZjJwcjRLcUVfRElPTkpXN2pyRzZ6OU1vUlFTWXpZeUxOQkFMbjYwaGk3dnNUTG8zWTFSeXV4N2dHSFhxbzkzcmpPX2FIRkxBYTM5bjBicUtLTWc0QWdEY2lFa1ZtdWswVW9sd3Bna1MzUUFOcHU2alZieHkyY3JzMUxkT0tTNVpnQll4LVhSZW1iSVAzU3dHRHFPeXBKX002ZG1wbVQ2NXFB?oc=5"
-    },
-    {
-     "titulo": "Flamengo aciona STF e reforça ação das bets contra proibição do governo",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcE83SkJDM25zdkJJeFc0N05hYUlSM2lBTjNSdnk0OHF6cklPaWJhZWpBWm85eGNpSDBFNjdBN1dEay02NjRvSXl0MWdnSktwRWtrNVlWMU15aUNadWM0cFVVRklBTHJHd0NHUjFKck1vN0g2azZtQ2NxeEhlNE8tTzR4Q2N3eFBFcnhabXZsR1FQUmFQRExxZXktalRhTndPNmpULXRFN0lHVi0yalFTbW00SVg3OHktbnRUX3BUZ2JhcTBmb2FyUEh3QjZDQURMOTFDYjdfbmhiODZK?oc=5"
-    },
-    {
-     "titulo": "Flamengo se antecipa a clubes e pede ingresso em ação no STF contra fim das bets",
-     "fonte": "oglobo.globo.com",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcU8yQU9ETUhRMWN5cnNIbTQ1RVVVZWFoNV8zYVFDdm43OERTSnlGMDhpa2d1Y0ZsRVRfbnpVYV9BWjFYeXBJM19UU1ZfWmgzcER3MlBWRHB5UGdwOVRibEJSOWN1VGhHMEZMcjZ2OG9JcVJkSEZDWG5wVk9vRmVaX2RlQWJ2WVNiMDAxMVNyS093TnVQTENIMlU4OElIa1VmRUlialNRSElDZ2ZFSlhoNlhPcU9PNXRxX3JqZ2ZPdE5jLXNvalR0YVM2U0xJUVU2ekNiS2J3NA?oc=5"
-    },
-    {
-     "titulo": "Flamengo ingressa no Supremo para reforçar pedido de suspensão da proibição das bets",
-     "fonte": "CBN",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMHB0ektKSnJkbWRzcjdrZXRlUzgzQ1czYUdwbWRxbkY2dW1LaEtGTjk0cXJ2Q0dDTnAzT3lWOTczaEduM3JKT2gtMjZoWXFsWlpfMjRCdTdvS2hqZW9ZTjRPMlVPLUl5RzVjaUtVcWpfaEpzMXlXQXNWRFVGNUZ4S1Blb0cwSG1QVWczR0JkMFBoU3NuckF5Q0hlLXhfckgyNmZSVmlkSmVqYnVQTUt5Q0pnWEQwX0JHazNxUzE3RXphZ3BEY2lMdEthN0t0dG5lSUFZdE14WUEzU1RJb05LdmFuaktOQdIB5gFBVV95cUxQMHB0ektKSnJkbWRzcjdrZXRlUzgzQ1czYUdwbWRxbkY2dW1LaEtGTjk0cXJ2Q0dDTnAzT3lWOTczaEduM3JKT2gtMjZoWXFsWlpfMjRCdTdvS2hqZW9ZTjRPMlVPLUl5RzVjaUtVcWpfaEpzMXlXQXNWRFVGNUZ4S1Blb0cwSG1QVWczR0JkMFBoU3NuckF5Q0hlLXhfckgyNmZSVmlkSmVqYnVQTUt5Q0pnWEQwX0JHazNxUzE3RXphZ3BEY2lMdEthN0t0dG5lSUFZdE14WUEzU1RJb05LdmFuaktOQQ?oc=5"
-    }
-   ],
-   "youtube": {
-    "consulta": "Flamengo bets ação",
-    "n_videos": 1,
-    "mais_de": false,
-    "views": 11,
-    "top": [
-     {
-      "titulo": "Xeque Mate!!! Torcida do Flamengo revoltada, Lula Caindo nas pesquisas após ação contra as BET's.",
-      "canal": "Brasil Sob Análise",
-      "views": 11,
-      "url": "https://www.youtube.com/watch?v=V5gSRPp5AN4",
-      "publicado": "2026-09-28T22:25:14Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
    "tema": "Neymar deve ser reforço no Santos contra o Flamengo pelo Brasileirão",
    "categoria": "Mercado da bola",
    "clubes": [
@@ -939,10 +801,10 @@
     "Santos"
    ],
    "foco": true,
-   "nota": 50.6,
+   "nota": 53.3,
    "sinais": {
     "busca": 0,
-    "aceleracao": 57,
+    "aceleracao": 66,
     "midia": 67,
     "aderencia": 100,
     "youtube": null
@@ -953,7 +815,7 @@
    "termos_trends": [],
    "n_fontes": 4,
    "n_manchetes": 4,
-   "assinatura": "santo|flame|brasi|neyma",
+   "assinatura": "santo|flame|neyma|deve",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 3 min)",
@@ -974,7 +836,7 @@
     },
     {
      "titulo": "Neymar deve ser reforço no Santos contra o Flamengo pelo Brasileirão",
-     "fonte": "cnnbrasil.com.br",
+     "fonte": "CNN Brasil",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ3JEQ2ktWVJJUjhzbVQ0bnI4X3E0SW0xb3NKb0xmREVHQUloYVNWTjE1VWZ4Q196T0JLd1Z1blhscGJFcW9kbkdubWdNLXJlOTYtY2RvellPek1qQXlGaTBtMjBCRkQtcjJjX1V3eUhQLWhrbWV2WFZwSkQ0b1NQZW1zdUE3MU1OV2JCNTRmd0VpWVFDTXFLd0R4bDRxRnExQmFNX3VINnF6OGhDXzNNR3IycWVNa3o2VW40ZWVXRQ?oc=5"
     },
     {
@@ -985,60 +847,49 @@
    ]
   },
   {
-   "tema": "São Paulo atualiza parcial de ingressos vendidos para final do Brasileirão Feminino contra o Corinthians",
-   "categoria": "Mercado da bola",
+   "tema": "Flamengo terá desfalques importantes antes de duelo pela Libertadores",
+   "categoria": "Lesão e desfalque",
    "clubes": [
-    "Corinthians",
-    "São Paulo"
+    "Flamengo"
    ],
    "foco": true,
-   "nota": 50.6,
+   "nota": 52.0,
    "sinais": {
-    "busca": 0,
-    "aceleracao": 41,
-    "midia": 92,
+    "busca": 60,
+    "aceleracao": 8,
+    "midia": 58,
     "aderencia": 100,
     "youtube": null
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": null,
+   "busca_torcedor": "arrascaeta flamengo",
    "termos_trends": [],
-   "n_fontes": 8,
-   "n_manchetes": 10,
-   "assinatura": "femin|paulo|final|corin",
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "liber|flame|desfa|lista",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "React rápido (1 a 3 min)",
-    "gancho": "Essa negociação pode mudar o Corinthians, ou virar o erro do ano.",
-    "titulo_thumb": "CORINTHIANS: VALE O INVESTIMENTO?",
-    "pergunta_enquete": "Qual sua opinião: São Paulo atualiza parcial de ingressos vendidos para final do Brasileirão Feminino contra?"
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "Esse desfalque muda tudo para o Flamengo nos próximos jogos.",
+    "titulo_thumb": "FLAMENGO SEM ELE: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Flamengo terá desfalques importantes antes de duelo pela Libertadores?"
    },
    "manchetes": [
     {
-     "titulo": "Feminino: São Paulo tenta quebrar recorde de público em jogo contra o Corinthians",
-     "fonte": "ABCD Jornal",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVlc4UkkxR0xDWWZWRWpDbzlfdGdtaXk3bU5fNWZiak03RGd4XzJkSkc4eFNVR2NaaWZXY3lUU21UT2NwRVoxanBGczdqeTdNZmVsWmxoWW53TG8wSjQ4SGNwbkVPYkdsd3ZYS3V5bXBKUGk0T0pLYTRHQ2hmTC1KUnBTUXdOUEdtWUNIVzNCUmg4aWVTSjZpaW9QUjh4UVY5VXZyZDZPd2Q3NDRhRHVpdmJ3RHVDUWM1aXlrRWpLS3d6OTJrUFgxTU9JTGVuaDTSAdQBQVVfeXFMT1NBWHFkX0Z3aDlMQXFySGdmRDdWdnVMSk1tWUwxXzl4ZnB0SjNNLWpZbHFqdHpTVVAtTy1YVXc2VVZ6VWFkWE5WRUNpRFg3dnFtTGVyRkdfMWQ1ME90LTBaYVU4WUFreFJGV2RNMjVyNEJwaS1HSlpEWE9zTndGTVlTaDQ5VjVfakkwSWYwODBPbXdSQVhubWxqalA5Y3dQZjVmUXhQOFBpOVdoakt0NGQ4a3lEN1ZjZ0VIOV9WcVJxYzZTUWl3SFV1NVJKNEQ2MmhPWWw?oc=5"
+     "titulo": "Flamengo terá desfalques importantes antes de duelo pela Libertadores",
+     "fonte": "sportbuzz.com.br",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ240T29fMjd2UVV2NVk3VHNZNTRVdXJGSEw4V0phM2NnbExTMGZnRklISDNzMjdRM3ItcFVUS0ZfUGxTUlBXdS1PcmpDWVhTQWU5bTgxU0xkZkZHdkVTS2ZuOU5UaHIxNkVESUt1dGtUVFRhZ2h2bThOSHdRR21QVnJ1a3pWSkR3cFJvX05iR0NqcXVLMFRKNDVCUFZlOGotdFI4RHN0Z2d2NWFXcWRqcTJYNUE?oc=5"
     },
     {
-     "titulo": "São Paulo x Corinthians: Final feminina pode quebrar recorde de público",
-     "fonte": "Tribuna de Jundiaí",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVHFDTkFMWkE2UjJad1VaZEpDVkhDZ0NqYm9QV1p2SVJHMEdyWHNrRVoxZ2J0NnFPaFdrOUMzN2N2ZHNWd25kVkxKYXJoc2NJTXg4QlJkekJGVUJhTVFobFNJaldBd3ZIbkw5MkNuOWE5SkE2UE45SVJBWjZudWd6MWVhXzFGYkI0SHVfUXpzTGpDSk10OGpaTWJkZzhfaTZmT2NuR2E4dnJ5WU5TWWhqNjJ5ZmtvS0tq?oc=5"
+     "titulo": "Sem Arrascaeta, Flamengo trabalha opções para volta da Data Fifa; Jorginho também desfalca na Libertadores",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRXg2bkREUGo5Qk5KR24xSmR4cDlKaGxKR0Y5MXJGYVhmOW9DSDlnWmhLU1Fja2Y0Z2RnVVg5X29rRmlFMEo3aUJ6bWJvdFpHVGVVWnVmQXJMdkJncDZScVIyczg2NHYwOVRZakhJTE5UdHltcHdnTkxoSXNqZTNGQWV5TlZ4WklNZnNvOHhCMnduN0hwYjhGQ0E3cTBPdkYxeGdSbFQ2NjF2YXJoODFEeTl6aUtqZjh5QTRBTGNUVmc3VmtsallZUzc0WkVTYUFLak9TUjZCMW9JbHhOYjI5OG1tS0hLYk9hTXhHMjg4RHA1cXVpRHVCV0ZQUjU3eFlQdXdr0gGSAkFVX3lxTE1fbllleGRSYk9ZU25udmVBREVfdHVKTVFQellYQVR2V0JBMHVsSlZzalNkSDVlUWFwYWlpWGROTDdETnVkdGxScDMxS2Qtd2dJZkQ4aTVQUUxhVUpZSFJPck1sV0tQSjFIN0p6V1BwQnBNVU9mRW5KS3dPXy0wMVNvclpoNjNXMHBQSGdRVzVqRG9HLVBPOTRGU2U1M25pVWpjRklWMmVrRGh3X1FGZ0JjemNrSGNtYTluOGRTZkczUWhxeW85NEtVeWF5SkE2aklqTzBHaXgzT3JCWTJSYm1mS0xBWFQxa1NiTVpVamNMN29EbUlSUnVLbEdDcVB2cEV4aVRZRnN1WmNtSWVESXdrNlE?oc=5"
     },
     {
-     "titulo": "São Paulo mira recorde de público no futebol feminino com final no Morumbi",
-     "fonte": "Portal ABC do ABC",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZb3lUY242TExiWmNpMlA0aVM2Z3ktSUtQdGdSZEhETXNVTF9XcGRrTmozSVVyTm0zRHJGVHRXVXlpZkV6TExiSnY2YVJSMGFTay1vc0NOQVNSaVJwc2tQcVhaTXBUOUZsTy1CM2JB?oc=5"
-    },
-    {
-     "titulo": "Corinthians sai na frente, mas São Paulo busca virada na 1ª final do Brasileiro feminino",
-     "fonte": "Estadão",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX0labFJBSlNuMmlyWUJDOTg5OExvdXdHdWFXbzJsWXdPYTAwOXBYUzdIN1BNM1dST08tZXBvS0RKa3dvTnAwUTBNMmtYTzkxTmtTNWNnQTBTcnI2THVTVkJzV0tYVzJYdlFzMmdEMHB1MWo4Y1MyNmpHZ2I0ekc3aTMwUWY3NWdSRDBwWThyeEdScWZkNlRuS3JZdTFWSFA3MXFvMXRKSEZ6Tm5hR01JSDVPWkduUlFoMnhVaU9NQk9UYlhoU1dzYmtlb3VwR1pOOVp6VUp3?oc=5"
-    },
-    {
-     "titulo": "RPC exibe a final do Brasileirão Feminino entre São Paulo x Corinthians",
-     "fonte": "Globo",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjU4bFNuTUlackdudk5JTjI1VDhNeTcyUVpMRGw0WDUwRHRQSldEWDRpcmZUTWx4X1JFWGRBTWg0WGFLempjV2ZWTUhGVTdtdlFMcXVlaG1CaDBldDV3UXc0dGVCUUkyZURscE1renEzRHdRVGNweVBmQldvZmhOM0p6eFM1MzdFeVNsTVlaaXJmNUlmZ3NnWEhLVzF2T2NVR20zU01RQ2VidmxTdHk3N1A2d0M0UHdf0gHHAUFVX3lxTFB1cWZfaFBkeTR6azdzelV1NlU4TGhDY19mMVk5NlhWdzBERG1ZMmQyU3BHMEVJaml6anJ1Q1JZLUlWWUhiWU5HNTZ2TzZXT0FkSWRoMWd5RjRjUFN6QjFZcTNELTZYcU5GZ2VzMWwtdE9XbmJZWnBnV0NiSktqYlhHSlpXR3VuOTYtZ2lBVnZ2R3RxTUFsbmRSQlpJZDB3aXo4S3dQeTRVQkNGRDl2RDFhaHZLaGpWODE3V0h0d1J2YXU4NThKWDQ?oc=5"
+     "titulo": "Desfalques do Flamengo na Libertadores seguem aumentando; confira a lista",
+     "fonte": "CNN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV0JaaV9lUGR2d1lrQ2stR0VnZHF3WlRWUnlUam40anZnUVRjNnFiRVllMUFpOFhpUzdIVnFkOUMyMGV0X3l1Y0J1S2RRaXgwRnljRUN3cWNZeUkzZl9HaFlYaHI4UlBITEdXQTRkNVdXQ050bEtmaTdvWGZtY1V4TFVkTy1uVmY0M3ZJcW1RbW02V1lrbkh2R2J1U3E0dGFtRFhhNWw3S1ptTmtTUlRqdzE4UVpJcThSOTIwTUdXTUItWng0YnJr?oc=5"
     }
    ]
   },
@@ -1063,7 +914,7 @@
    "termos_trends": [],
    "n_fontes": 1,
    "n_manchetes": 4,
-   "assinatura": "batis|willi|corin|sub-2",
+   "assinatura": "batis|corin|willi|sub-2",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Opinião forte (60 a 90 s)",
@@ -1126,7 +977,7 @@
    "manchetes": [
     {
      "titulo": "Déficit do Corinthians dispara e fica 258% acima do previsto; veja os números",
-     "fonte": "BNews SP",
+     "fonte": "bnewssaopaulo.com.br",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTDdsWkVGMGtwYmxGcm5SbUhDUUNrTGU1ZEF1U1dhNkpXNVdXUlhNZ09JRS10bXRvYzlCQ2t6WHJKVHdQYXlvS0x2R0pMREJyRjZzSm5kZTdqaHByUk5lZlZRVEZOVURTQTR3SXRTRDJSb3BfNi1YS25USjZheDFjd05RQWRNSWV1Wnh0VGNrZU50Z01fU191MXU5T0lfSm9BVDJFdUpFR2kzX3A4VVRwdE1xbzBQUkN0N1pocEtieVNfT2YzNWdZY2gtNNIB0AFBVV95cUxNYlFiY1ItUi1oYVpDaHM5R2ZiaHhBNVh6OG1YUGI3LUNLMzU2WE45Y0w1OHRTbjdMMTlrM3pKN01IQmR1R3JheXYydzhTQmZ4Tjd3Qk5xVlNvZFowb1dFbm5qdGZNbldWQjhmUkdFdTRfM2pUYWJCNHhKYktnMVo0dVZVSktmdVpNUy01MWFqZk1rM0UydlAxSDRlV3dabVFDNWVpSWdKTG16OHFTMEUzcHFYcWZMcTJmQm1OZ0FXaWk3SmU1cWZxUWhCTTVXTjJI?oc=5"
     },
     {
@@ -1136,57 +987,130 @@
     },
     {
      "titulo": "Corinthians amplia déficit e chega a R$ 278 milhões no ano",
-     "fonte": "R7 Esportes",
+     "fonte": "esportes.r7.com",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNlRnV0NQU3RnVzlDMmpuMXNtRDhoZWZzbzM4VDFFaWdrTTNTN0p3Rm5SUEU2WGU0SVdUWnRVZzVhSW91UmxCbHlOZVJmM1BqQUIwR0N0czVPY21MbGNOSnR5VzVvU040WUdIeldPenBneWJGdzdlMG9KTWZKUjZxTkdBVU5qN3Q2QTdlYUUzY2hsMVhKYV9FMXpkeUlQM0oyN3ZJ?oc=5"
     }
    ]
   },
   {
-   "tema": "Corinthians tenta mais uma vez quitar a Arena — agora colocando o naming rights na mesa para a Caixa",
-   "categoria": "Jogo e resultado",
+   "tema": "São Paulo calcula multa para rescindir com empresa que administra sócio-torcedor",
+   "categoria": "Notícia do dia",
    "clubes": [
-    "Corinthians"
+    "São Paulo"
    ],
    "foco": true,
    "nota": 49.9,
    "sinais": {
-    "busca": 35,
-    "aceleracao": 30,
+    "busca": 0,
+    "aceleracao": 61,
     "midia": 58,
     "aderencia": 100,
     "youtube": null
    },
-   "fator_categoria": 0.976,
+   "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "corinthians libertadores",
+   "busca_torcedor": null,
    "termos_trends": [],
    "n_fontes": 3,
    "n_manchetes": 3,
-   "assinatura": "right|namin|corin|caixa",
+   "assinatura": "paulo|empre|socio|resci",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Esse resultado diz mais sobre o Corinthians do que o placar mostra.",
-    "titulo_thumb": "CORINTHIANS: O QUE O JOGO REVELOU",
-    "pergunta_enquete": "Qual sua opinião: Corinthians tenta mais uma vez quitar a Arena — agora colocando o naming rights na mesa pa?"
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Todo mundo está falando disso. E você, concorda?",
+    "titulo_thumb": "SÃO PAULO: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: São Paulo calcula multa para rescindir com empresa que administra sócio-torcedor?"
    },
    "manchetes": [
     {
-     "titulo": "Corinthians já sabe o que pode fazer com a Hypera se perder naming rights da Arena",
-     "fonte": "br.bolavip.com",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTmR0X0RhWE15dUVYVzZxbEZvVGpWeFY2U3QydmI4ZlhCNEJNdHRyek5aUlVpajVVSXlldzlTbXBmTzM0T0w4NVIwa081MTV1Sy1hZFUxOW5DWDg3TTNQWFE4WHdDQWZUMGRiZk1tU2ZOVG13OU9NLWlwYmY3NmNWdGtlbDRuZTVvcU92djJMVjdzWW4zSmtpSXhiX0pkbVUtcVJodVFvcW5OR1JubG5KX1QzSQ?oc=5"
-    },
-    {
-     "titulo": "Samir Carvalho: Corinthians quer 10 anos de naming rights com Caixa e liberação de milhões",
+     "titulo": "Pedro Lopes: São Paulo e empresa divergem e sócio torcedor pode virar nova briga",
      "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMnI0eXRMWTlTTUROSXZpdXdhQzJDU1hSVTBRenEwYnJWaXhqOWJaR2lLdXdHdFFnZnhMak1BOWh4VmUyeEpReTJvVU1HbUk2eTI3RXhZMlNsVUN3YUhtcWJ6YzA1Y0N2bWZtQnVhOGxFRjFuZzNLTlB2TTBqMkRINjdjUFpBX3FEWWdHMlVGSGd1Q2ptNW94LVdiR0xWUlh0bm9veF9hTFQ2NTBJME1xclBiNjBBY0Jxcy1Da3pwTUpYMHUyekxwakVJYkxfOVNtWVJ3a0tXVkEtZE0?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYmpYSUE4QWRpNGR4MlJBOFRhcmotSmZqa1I2UXlNVXN0WnVBekd2czdaUmJubnJDaWpWYXl5YldHbGJXOEFXekVkRTdmRzNXem13anVKdmRhZEhBdEJwbTcyZzdsVF9VMWJkZnE4SkozbzRMaW5LM1ZvZ1JUREpKWDBJNmgwbDhoTUYzSkxEYnkwM19XbzNkdU4yUE8xOHZmRUZ1Q1VPU1FoMlZnSE56Wk12bm14ME04U0RpTERndnVkT1pCdWhzSS1QR3NzUQ?oc=5"
     },
     {
-     "titulo": "Corinthians tenta mais uma vez quitar a Arena — agora colocando o naming rights na mesa para a Caixa",
-     "fonte": "thefootball.com.br",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUkZ3dFl2UnZhSTRqVE9WeWZBWWpBNkU5WGQweFFHWS1XRDFkOW1ZSVhrU3pNNE1tOHRjcnNobkN3c0k4amU3a3VrU3M2V1dweFI2LURsSVl6cDhleG82Y1VwY2g0TGFhek02TWd4UEtOdE5nS3JMSG5tcGtpSWtVN0JtdlgxSE9IUW9BZG5yZ2ZfVFEwSmc2YmNXZkNwT25oRWNmWTUyQUlDaGNfOWdqZXBUN0c2cFhkX2JBNy1TNnRtTVJI?oc=5"
+     "titulo": "São Paulo prevê multa de R$ 3,7 milhões para rescindir com empresa que gere sócio-torcedor",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3c3S01YU2tDMk5CM3BranNFWl9zNHNBWlBpRmlnNEljUjNmT2tZRFgyaVlGVTdpdGJuZkVYRm54ZGpxVHJUZWhFSUxQQk5XTFV6Mm14dEZ0V01yLTNUMXdSVENCUGFlQTBaVEJsQ0hScjIzNThhRnNpZnp3T1FqMlFCckQ4SXV5TUVnOXd2Tk1GRVJLTUxfYTgzNGQwVVFoMUo4SE5B0gGmAUFVX3lxTE9TdzdLTVhTa0MyTkIzcGtqc0VaX3M0c0FaUGlGaWc0SWNSM2ZPa1lEWDJpWUZVN2l0Ym5mRVhGbnhkanFUclRlaEVJTFBCTldMVXoybXh0RnRXTXItM1Qxd1JUQ0JQYWVBMFpUQmxDSFJyMjM1OGFGc2lmendPUWoyUUJyRDhJdXlNRWc5d3ZOTUZFUktNTF9hODM0ZDBVUWgxSjhITkE?oc=5"
+    },
+    {
+     "titulo": "São Paulo calcula multa para rescindir com empresa que administra sócio-torcedor",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaEpYLU9QVlZNQTNrbEJqYl9rRkpFOHpJUmpNeDE0aFdpSVhBT1NMa19ncXZvSlk2SWpuQ3Q0VVhRaGZtRkRiZGFjcVZtLVhiUVVNTU96X2ZBY2tWZWlwbmFMaWlRekhMTzk5N3RHTnVfN1J4Sk5yY2o0ZW5uUGVlbjNaTmhJYXBHaDNuQ24xU0ZIRlVEMHVFUTR4dUdlZk50SDNXWC10b0lydUpXLWdXMWZSLWVFUjVwcEZiOXBud3lKckNGZVNoeVAtd0R2YXE4UGVjY0ZjWHF4NWE5dW1UWklqNEPSAfMBQVVfeXFMUFVwT19MVnpUaXFxUkFhNm4teTl2YnY4ZFhtbEJvOGtnRmdEVXdQQXNuVnM5bS1kTGJlSEdNSkNkYXFJOGVhTF9QWjVkWnRybVc1ekE5cHZmTktwNGJBMVFjOE1VZndpNUtiX1QtbFZic0x4b3NqYUZTbnFEUnNGclo2Sktkdk9TNVVkTlZVTFU1R0JYekJqMVotaUdOSDktRktzckpsV3ZVSDNUV09IaVNmbXlhZjB0ZnE4dnNaSTZsbzNkbFJQR2J4dlF4eXZUSDFmc2xTa05rcDJDRXJBeVZaQU9RRTJYQUdITEpWcTF2aDd3?oc=5"
     }
    ]
+  },
+  {
+   "tema": "Flamengo aciona STF e reforça ação das bets contra proibição do governo",
+   "categoria": "Mercado da bola",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 49.1,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 68,
+    "midia": 81,
+    "aderencia": 100,
+    "youtube": 19
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 6,
+   "n_manchetes": 6,
+   "assinatura": "bets|flame|stf|refor",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 3 min)",
+    "gancho": "Essa negociação pode mudar o Flamengo, ou virar o erro do ano.",
+    "titulo_thumb": "FLAMENGO: VALE O INVESTIMENTO?",
+    "pergunta_enquete": "Qual sua opinião: Flamengo aciona STF e reforça ação das bets contra proibição do governo?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Flamengo pede ao STF para entrar em ação contra veto às bets",
+     "fonte": "iG Esportes",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQU5XUUVJcVBNRDhVc0ZULTd4UUg5OXZsbGZla0ltdGV1X3YyZnpSOEd2ZXFHcDBEQlN0bUJ0TFNpX2ozeXZESFE3Ry1GdEh0NGk5VVBKUVBFbEJmcmFJamFzaG9fVWhwVjFxSGxFSEUtREllU21GWElwTERaT3FaelBycHE2bFZvUXpMTDNfY3hDUC1YeEU5TUIwUkNnUU5PaktNeU96Y0prV21RRkFKZElaRjZYcHVwbVlTYmFB0gHDAUFVX3lxTE9nREk2VXlweExwdF93LWMyRk9uQ29rc2ZvLUp1X21YbzlyMFNoc2NzTHV2UzUtRjFjOVp2SS1UbWtzZm5tMnBLaTVCTzFTLU9rbWNaUXV3ZHplVzlpOEtyM2JQMFl2LU0wWHEtRVdPNkYwQkhSVWxIb1JRM3B2azY2aWZZZHZWQVdmV1UxTWNfMFR4eGhZbW1yVjQ1Ym1pSEJ1c0dzek5TQjBEbUVMM0laRDZxeUlja2NBU081Wi1Ha2o2RQ?oc=5"
+    },
+    {
+     "titulo": "Flamengo entra com petição contra veto às bets no STF",
+     "fonte": "O Dia",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZURDQUl3RHl4VG83YmVRU0N5cDJQT2dBdS1fYWVSb0tQOXlIemtVVVM0MDhnQXlRNTNSS1UzbVJhWTZJd0FwdFE2aFhzMEQtdXczd25mUEtzbXNqRC1uY1o1VFdlN2prZjRrMUs1eWhWQm9lRHNRbTFBSVItVndFQ3N1V2pLby1KRnNYNFdpR1pic0RfdDZ6VHNQUU5YUEdzLXo2UE91bGFDXzNZTk1SeUQwMHrSAboBQVVfeXFMUDM1aUF3RnQ0MXdFOVdtanY0ZjJwcjRLcUVfRElPTkpXN2pyRzZ6OU1vUlFTWXpZeUxOQkFMbjYwaGk3dnNUTG8zWTFSeXV4N2dHSFhxbzkzcmpPX2FIRkxBYTM5bjBicUtLTWc0QWdEY2lFa1ZtdWswVW9sd3Bna1MzUUFOcHU2alZieHkyY3JzMUxkT0tTNVpnQll4LVhSZW1iSVAzU3dHRHFPeXBKX002ZG1wbVQ2NXFB?oc=5"
+    },
+    {
+     "titulo": "Flamengo aciona STF e reforça ação das bets contra proibição do governo",
+     "fonte": "UOL",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcE83SkJDM25zdkJJeFc0N05hYUlSM2lBTjNSdnk0OHF6cklPaWJhZWpBWm85eGNpSDBFNjdBN1dEay02NjRvSXl0MWdnSktwRWtrNVlWMU15aUNadWM0cFVVRklBTHJHd0NHUjFKck1vN0g2azZtQ2NxeEhlNE8tTzR4Q2N3eFBFcnhabXZsR1FQUmFQRExxZXktalRhTndPNmpULXRFN0lHVi0yalFTbW00SVg3OHktbnRUX3BUZ2JhcTBmb2FyUEh3QjZDQURMOTFDYjdfbmhiODZK?oc=5"
+    },
+    {
+     "titulo": "Flamengo se antecipa a clubes e pede ingresso em ação no STF contra fim das bets",
+     "fonte": "O GLOBO",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcU8yQU9ETUhRMWN5cnNIbTQ1RVVVZWFoNV8zYVFDdm43OERTSnlGMDhpa2d1Y0ZsRVRfbnpVYV9BWjFYeXBJM19UU1ZfWmgzcER3MlBWRHB5UGdwOVRibEJSOWN1VGhHMEZMcjZ2OG9JcVJkSEZDWG5wVk9vRmVaX2RlQWJ2WVNiMDAxMVNyS093TnVQTENIMlU4OElIa1VmRUlialNRSElDZ2ZFSlhoNlhPcU9PNXRxX3JqZ2ZPdE5jLXNvalR0YVM2U0xJUVU2ekNiS2J3NA?oc=5"
+    },
+    {
+     "titulo": "Flamengo ingressa no Supremo para reforçar pedido de suspensão da proibição das bets",
+     "fonte": "CBN",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMHB0ektKSnJkbWRzcjdrZXRlUzgzQ1czYUdwbWRxbkY2dW1LaEtGTjk0cXJ2Q0dDTnAzT3lWOTczaEduM3JKT2gtMjZoWXFsWlpfMjRCdTdvS2hqZW9ZTjRPMlVPLUl5RzVjaUtVcWpfaEpzMXlXQXNWRFVGNUZ4S1Blb0cwSG1QVWczR0JkMFBoU3NuckF5Q0hlLXhfckgyNmZSVmlkSmVqYnVQTUt5Q0pnWEQwX0JHazNxUzE3RXphZ3BEY2lMdEthN0t0dG5lSUFZdE14WUEzU1RJb05LdmFuaktOQdIB5gFBVV95cUxQMHB0ektKSnJkbWRzcjdrZXRlUzgzQ1czYUdwbWRxbkY2dW1LaEtGTjk0cXJ2Q0dDTnAzT3lWOTczaEduM3JKT2gtMjZoWXFsWlpfMjRCdTdvS2hqZW9ZTjRPMlVPLUl5RzVjaUtVcWpfaEpzMXlXQXNWRFVGNUZ4S1Blb0cwSG1QVWczR0JkMFBoU3NuckF5Q0hlLXhfckgyNmZSVmlkSmVqYnVQTUt5Q0pnWEQwX0JHazNxUzE3RXphZ3BEY2lMdEthN0t0dG5lSUFZdE14WUEzU1RJb05LdmFuaktOQQ?oc=5"
+    }
+   ],
+   "youtube": {
+    "consulta": "Flamengo bets ação",
+    "n_videos": 1,
+    "mais_de": false,
+    "views": 11,
+    "top": [
+     {
+      "titulo": "Xeque Mate!!! Torcida do Flamengo revoltada, Lula Caindo nas pesquisas após ação contra as BET's.",
+      "canal": "Brasil Sob Análise",
+      "views": 11,
+      "url": "https://www.youtube.com/watch?v=V5gSRPp5AN4",
+      "publicado": "2026-09-28T22:25:14Z",
+      "do_canal": false
+     }
+    ]
+   }
   }
  ]
 }
