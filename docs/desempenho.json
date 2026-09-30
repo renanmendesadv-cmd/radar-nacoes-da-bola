@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-30T03:27:47.674080+00:00",
+ "gerado_em": "2026-09-30T03:49:10.234918+00:00",
  "canal": {
   "id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
   "nome": "NAÇÕES DA BOLA o canal de todas as torcidas",
@@ -430,6 +430,161 @@
   "Lesão e desfalque": 1.0,
   "Seleção": 1.0,
   "Jogo e resultado": 1.056
+ },
+ "monetizacao": {
+  "views_28d": 15411,
+  "media_diaria": 550,
+  "tendencia_pct": 10.5,
+  "previsao_views_30d": {
+   "Vídeos longos": 36,
+   "Lives": 18173,
+   "Shorts": 38
+  },
+  "rpm_referencia": {
+   "Vídeos longos": [
+    2.0,
+    4.0,
+    8.0
+   ],
+   "Lives": [
+    1.5,
+    3.0,
+    6.0
+   ],
+   "Shorts": [
+    0.05,
+    0.15,
+    0.35
+   ]
+  },
+  "estimativa_rs": {
+   "pessimista": 27.33,
+   "provavel": 54.67,
+   "otimista": 109.34
+  },
+  "serie_diaria": [
+   {
+    "dia": "2026-08-31",
+    "views": 150
+   },
+   {
+    "dia": "2026-09-01",
+    "views": 213
+   },
+   {
+    "dia": "2026-09-02",
+    "views": 1417
+   },
+   {
+    "dia": "2026-09-03",
+    "views": 75
+   },
+   {
+    "dia": "2026-09-04",
+    "views": 35
+   },
+   {
+    "dia": "2026-09-05",
+    "views": 32
+   },
+   {
+    "dia": "2026-09-06",
+    "views": 818
+   },
+   {
+    "dia": "2026-09-07",
+    "views": 22
+   },
+   {
+    "dia": "2026-09-08",
+    "views": 2899
+   },
+   {
+    "dia": "2026-09-09",
+    "views": 71
+   },
+   {
+    "dia": "2026-09-10",
+    "views": 408
+   },
+   {
+    "dia": "2026-09-11",
+    "views": 45
+   },
+   {
+    "dia": "2026-09-12",
+    "views": 36
+   },
+   {
+    "dia": "2026-09-13",
+    "views": 1474
+   },
+   {
+    "dia": "2026-09-14",
+    "views": 193
+   },
+   {
+    "dia": "2026-09-15",
+    "views": 1066
+   },
+   {
+    "dia": "2026-09-16",
+    "views": 1860
+   },
+   {
+    "dia": "2026-09-17",
+    "views": 235
+   },
+   {
+    "dia": "2026-09-18",
+    "views": 52
+   },
+   {
+    "dia": "2026-09-19",
+    "views": 20
+   },
+   {
+    "dia": "2026-09-20",
+    "views": 1506
+   },
+   {
+    "dia": "2026-09-21",
+    "views": 243
+   },
+   {
+    "dia": "2026-09-22",
+    "views": 299
+   },
+   {
+    "dia": "2026-09-23",
+    "views": 55
+   },
+   {
+    "dia": "2026-09-24",
+    "views": 226
+   },
+   {
+    "dia": "2026-09-25",
+    "views": 39
+   },
+   {
+    "dia": "2026-09-26",
+    "views": 65
+   },
+   {
+    "dia": "2026-09-27",
+    "views": 1857
+   }
+  ],
+  "elegibilidade": {
+   "inscritos": 5910,
+   "horas_12m": 2478,
+   "shorts_90d": 70,
+   "meta_inscritos": 1000,
+   "meta_horas": 4000,
+   "meta_shorts": 10000000,
+   "cumpre": false
+  }
  },
  "recomendacoes": [
   "Quem mais traz inscritos: Lives (14 nas últimas 4 semanas).",
