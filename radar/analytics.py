@@ -27,7 +27,7 @@ from zoneinfo import ZoneInfo
 import requests
 
 from . import config as C
-from .score import categoria, entidades
+from .score import categoria, entidades, norm
 
 log = logging.getLogger("radar")
 
@@ -209,6 +209,26 @@ def coletar(cli: Cliente, agora: datetime) -> dict:
 
 # ---------------------------------------------------------------- análise (sem rede)
 
+CONFRONTO = __import__("re").compile(r"^[a-z0-9 .'-]{2,40}\s+x\s+[a-z0-9 .'-]{2,40}(\s+-\s+.*)?$")
+
+
+def tipo_do_video(titulo: str) -> str:
+    """"BOCA JUNIORS X SÃO PAULO - JOGO DE IDA" -> Transmissão de jogo; "SAI PRO JOGO #215" -> programa."""
+    import re
+    n = " ".join(norm(titulo.replace("#", " ")).split())
+    for nome, chaves in C.TIPOS_CONTEUDO:
+        for k in chaves:
+            if k == "confronto":
+                if "/" not in titulo and CONFRONTO.match(n):
+                    return nome
+            elif k == "multitemas":
+                if titulo.count("/") >= 2:
+                    return nome
+            elif re.search(r"(?<![a-z0-9])" + re.escape(k), n):
+                return nome
+    return "Outros"
+
+
 def formato_do_video(v: dict) -> str:
     if v.get("live"):
         return "Lives"
@@ -279,7 +299,10 @@ def analisar(bruto: dict, fatores_anteriores: dict | None = None, gerado_em: str
     videos = {v["id"]: dict(v) for v in bruto["videos"]}
     for vid, v in videos.items():
         v["formato"] = formato_do_video(v)
+        v["tipo"] = tipo_do_video(v["titulo"])
         v["categoria"] = categoria(v["titulo"])
+        if v["categoria"] == "Notícia do dia" and v["tipo"] in C.TIPOS_DE_JOGO:
+            v["categoria"] = "Jogo e resultado"
         e = entidades(v["titulo"])
         v["clubes"] = e["foco"] + e["br"]
         pub = datetime.fromisoformat(v["publicado"].replace("Z", "+00:00")).astimezone(BR)
@@ -328,10 +351,11 @@ def analisar(bruto: dict, fatores_anteriores: dict | None = None, gerado_em: str
                          "indice": round(_mediana([v["v7"] for v in vs]) / mediana_geral, 2) if vs and mediana_geral else None,
                          "pct_assistido": round(_mediana(pct), 1) if pct else None, **total_fmt.get(nome, {})})
 
-    # Temas (mesmas categorias do radar) e clubes
-    por_cat, por_clube = defaultdict(list), defaultdict(list)
+    # Temas (mesmas categorias do radar), tipos de conteúdo e clubes
+    por_cat, por_clube, por_tipo = defaultdict(list), defaultdict(list), defaultdict(list)
     for v in com_v7:
         por_cat[v["categoria"]].append(v["v7"])
+        por_tipo[v["tipo"]].append(v)
         for c in v["clubes"] or ["Sem clube"]:
             por_clube[c].append(v["v7"])
     def ranking(g):
@@ -339,6 +363,11 @@ def analisar(bruto: dict, fatores_anteriores: dict | None = None, gerado_em: str
                         "indice": round(_mediana(x) / mediana_geral, 2) if mediana_geral else None}
                        for k, x in g.items() if len(x) >= 2), key=lambda r: -(r["indice"] or 0))
     temas = ranking(por_cat)
+    tipos = sorted(({"nome": k, "n_videos": len(vs), "mediana_v7": round(_mediana([v["v7"] for v in vs])),
+                     "indice": round(_mediana([v["v7"] for v in vs]) / mediana_geral, 2) if mediana_geral else None,
+                     "inscritos7": sum(v["inscritos7"] or 0 for v in vs),
+                     "exemplo": vs[0]["titulo"]}
+                    for k, vs in por_tipo.items()), key=lambda r: -(r["indice"] or 0))
     clubes = ranking(por_clube)
     fatores = _fatores(por_cat, mediana_geral, fatores_anteriores or {})
 
@@ -388,7 +417,7 @@ def analisar(bruto: dict, fatores_anteriores: dict | None = None, gerado_em: str
     rel = {
         "gerado_em": gerado_em, "canal": bruto["canal"], "periodo": bruto["periodo"],
         "n_videos": len(videos), "n_videos_v7": len(com_v7), "mediana_v7": round(mediana_geral),
-        "resumo_semana": resumo, "formatos": formatos, "temas": temas, "clubes": clubes[:8],
+        "resumo_semana": resumo, "formatos": formatos, "tipos": tipos, "temas": temas, "clubes": clubes[:8],
         "retencao": retencao, "trafego": trafego, "melhores_dias": dias, "melhores_horarios": horarios,
         "videos_inscritos": inscritos,
         "top_v7": [{"titulo": v["titulo"], "url": v["url"], "formato": v["formato"], "categoria": v["categoria"],
@@ -411,6 +440,12 @@ def recomendacoes(rel: dict) -> list[str]:
     if ins:
         best = max(ins, key=lambda f: f["inscritos"])
         r.append(f"Quem mais traz inscritos: {best['formato']} ({best['inscritos']} nas últimas 4 semanas).")
+    tipos = [t for t in rel.get("tipos", [])
+             if t["n_videos"] >= C.RAIOX_MIN_VIDEOS_CATEGORIA and t["indice"] and t["nome"] != "Outros"]
+    if len(tipos) >= 2:
+        best, pior = tipos[0], tipos[-1]
+        r.append(f"Tipo de conteúdo que mais rende: {best['nome']} ({best['indice']:.1f}x a mediana, {best['n_videos']} vídeos); "
+                 f"o que menos rende: {pior['nome']} ({pior['indice']:.1f}x).")
     if rel["temas"]:
         t = rel["temas"][0]
         if t["indice"] and t["indice"] > 1.1:

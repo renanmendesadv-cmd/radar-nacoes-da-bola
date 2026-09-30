@@ -333,3 +333,42 @@ def test_casos_reais_v8():
     assert score.entidades("Flávio Araújo expõe atraso salarial do Flamengo-PI")["foco"] == []
     assert score.entidades("Atlético-MG vence o Flamengo")["foco"] == ["Flamengo"]
     assert score.entidades("Atlético-MG vence o Flamengo")["br"] == ["Atlético-MG"]
+
+
+def test_tipos_de_conteudo_do_canal(tmp_path):
+    from radar import analytics
+    assert analytics.tipo_do_video("BOCA JUNIORS   X   SÃO PAULO - JOGO DE IDA") == "Transmissão de jogo"
+    assert analytics.tipo_do_video("NORUEGA X PORTUGAL") == "Transmissão de jogo"
+    assert analytics.tipo_do_video("SAI  PRO JOGO  # 215") == "Sai pro Jogo (programa)"
+    assert analytics.tipo_do_video("FLU AFUNDA TIMÃO /VERDÃO PARA NAS MÃOS DE EX/TRICOLOR BATE INTER") == "Resenha multitemas"
+    assert analytics.tipo_do_video("TOCA E  RECEBE - VC PERGUNTA  E NÓS RESPONDEMOS NA HORA") == "Perguntas do público"
+    assert analytics.tipo_do_video("Flamengo vence e sobe na tabela") == "Outros"
+    r, d = _rodar(tmp_path, RAIOX="1")
+    rel = json.loads((tmp_path / "docs" / "desempenho.json").read_text("utf-8"))
+    tipos = {t["nome"]: t for t in rel["tipos"]}
+    assert tipos["Sai pro Jogo (programa)"]["n_videos"] == 3
+    # Programa sem palavra de categoria conta como "Jogo e resultado" no ajuste de pesos.
+    assert next(t for t in rel["temas"] if t["nome"] == "Jogo e resultado")["n_videos"] >= 6
+    assert not any("mais rende: Outros" in x for x in rel["recomendacoes"])
+    html = (tmp_path / "data" / "ultimo-raiox.html").read_text("utf-8")
+    assert "Tipos de conteúdo" in html and "Clubes que rendem" in html
+
+
+def test_videos_do_canal_pela_api():
+    class R:
+        def __init__(self, d, code=200):
+            self._d, self.status_code = d, code
+
+        def json(self):
+            return self._d
+
+    def get(url, params=None, **_):
+        assert params["key"] == "k"
+        if url.endswith("/channels"):
+            assert params.get("forHandle") == "@canal"
+            return R({"items": [{"id": "UCx", "contentDetails": {"relatedPlaylists": {"uploads": "UUx"}}}]})
+        return R({"items": [{"snippet": {"title": "SAI PRO JOGO #219", "publishedAt": "2026-09-29T23:00:00Z",
+                                         "resourceId": {"videoId": "abc"}}}]})
+    videos, cid = collect.videos_pela_api("@canal", None, "k", get=get)
+    assert cid == "UCx" and videos[0]["titulo"] == "SAI PRO JOGO #219" and videos[0]["url"].endswith("abc")
+    assert collect.videos_pela_api("@canal", None, "k", get=lambda *a, **k: R({}, 403)) == ([], None)

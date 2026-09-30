@@ -115,6 +115,10 @@ def _analytics():
         ("Proposta do Flamengo por atacante europeu", 13, 12, 300, False, 6000, 20),
         ("Palmeiras negocia reforço para 2027", 20, 12, 320, False, 5000, 15),
         ("São Paulo acerta renovação de titular", 27, 12, 280, False, 4000, 12),
+        ("PALMEIRAS  X  RIVAL - 30ª RODADA", 8, 23, 7200, True, 3500, 12),
+        ("SAI PRO JOGO #300", 9, 23, 5400, True, 1500, 3),
+        ("SAI PRO JOGO #301", 16, 23, 5400, True, 1700, 4),
+        ("SAI PRO JOGO #302", 23, 23, 5400, True, 1600, 3),
     ]
     for i, (t, dias, hora, dur, live, views7, ins) in enumerate(modelos):
         vid = f"canal{i:06d}"

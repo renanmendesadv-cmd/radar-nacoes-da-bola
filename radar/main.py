@@ -48,7 +48,7 @@ def _fixtures(pasta: Path) -> dict:
     if (pasta / "sugestoes.json").exists():
         extra["sugestoes_fixas"] = json.loads((pasta / "sugestoes.json").read_text("utf-8"))
     return {**extra, "termos": termos, "noticias": noticias, "videos": videos, "channel_id": "fixture",
-            "status": {"Google Trends": len(termos), "Google News": len(noticias), "Canal (RSS YouTube)": len(videos)}}
+            "status": {"Google Trends": len(termos), "Google News": len(noticias), "Vídeos do canal": len(videos)}}
 
 
 def main() -> int:
@@ -90,7 +90,7 @@ def main() -> int:
         bruto = _fixtures(Path(fixtures))
     else:
         bruto = collect.coletar(C.BUSCAS_NEWS, os.environ.get("CHANNEL_HANDLE", "@nacoesdabola"),
-                                os.environ.get("CHANNEL_ID") or None)
+                                os.environ.get("CHANNEL_ID") or None, os.environ.get("YOUTUBE_API_KEY") or None)
     log.info("Coleta: %s", bruto["status"])
 
     if not bruto["termos"] and not bruto["noticias"]:

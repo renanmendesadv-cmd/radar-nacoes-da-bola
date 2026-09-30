@@ -468,6 +468,13 @@ aside{display:flex;flex-direction:column;gap:16px}
     g.appendChild(caixa("Formatos que rendem", "Últimas 4 semanas. “vs. canal” compara as views em 7 dias com a mediana do canal.",
       [tabela(["Formato", "Views", "Inscritos", "Views em 7 dias", "vs. canal"], r.formatos.map(function(f){
         return [f.formato, barra(f.pct_views || 0), f.inscritos === undefined ? "—" : f.inscritos, num(f.mediana_v7), x(f.indice)]; }))]));
+    if ((r.tipos || []).length) g.appendChild(caixa("Tipos de conteúdo", "Transmissões, programas, resenhas... comparados pelas views em 7 dias.",
+      [tabela(["Tipo", "Vídeos", "Views em 7 dias", "vs. canal", "Inscritos"], r.tipos.map(function(t){
+        return [el("span", null, [document.createTextNode(t.nome), el("span", {cls:"fonte-m", text:" · ex.: " + t.exemplo.slice(0, 40)})]),
+          t.n_videos, num(t.mediana_v7), x(t.indice), "+" + t.inscritos7]; }))]));
+    if ((r.clubes || []).length) g.appendChild(caixa("Clubes que rendem", "Vídeos que citam o clube no título (mínimo de 2).",
+      [tabela(["Clube", "Vídeos", "Views em 7 dias", "vs. canal"], r.clubes.map(function(c){
+        return [c.nome, c.n_videos, num(c.mediana_v7), x(c.indice)]; }))]));
     g.appendChild(caixa("Temas que rendem", "Categorias do radar. O peso no radar é ajustado sozinho toda semana (0,85x a 1,15x).",
       [tabela(["Tema", "Vídeos", "Views em 7 dias", "vs. canal", "Peso no radar"], r.temas.map(function(t){
         return [t.nome, t.n_videos, num(t.mediana_v7), x(t.indice), r.fatores_categoria[t.nome] ? x(r.fatores_categoria[t.nome]) : "—"]; }))]));

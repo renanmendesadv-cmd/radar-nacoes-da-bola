@@ -146,3 +146,19 @@ RAIOX_MAX_VIDEOS = 40         # vídeos com análise individual (views nos 7 pri
 # dos vídeos do canal sobre ela (precisa de pelo menos RAIOX_MIN_VIDEOS_CATEGORIA vídeos).
 FATOR_CATEGORIA_MIN, FATOR_CATEGORIA_MAX = 0.85, 1.15
 RAIOX_MIN_VIDEOS_CATEGORIA = 3
+
+# Tipos de conteúdo do próprio canal (Raio-X). A ordem importa: vale o primeiro que casar.
+# "confronto" = título no formato "Time X Time" (transmissão); "multitemas" = vários assuntos
+# separados por "/" (resenha). Os demais casam por palavra (sem acento, minúsculas).
+TIPOS_CONTEUDO = [
+    ("Sai pro Jogo (programa)", ["sai pro jogo"]),
+    ("Perguntas do público", ["vc pergunta", "voce pergunta", "toca e recebe", "perguntas", "respondemos"]),
+    ("Pré-jogo", ["pre-jogo", "pre jogo", "esquenta", "aquecimento"]),
+    ("Pós-jogo", ["pos-jogo", "pos jogo"]),
+    ("React", ["react", "reagindo", "reacao"]),
+    ("Transmissão de jogo", ["confronto"]),
+    ("Resenha multitemas", ["multitemas"]),
+]
+# Tipos ligados a jogo: sem palavra de categoria no título, contam como "Jogo e resultado"
+# no ajuste de pesos do radar.
+TIPOS_DE_JOGO = {"Transmissão de jogo", "Pré-jogo", "Pós-jogo", "Sai pro Jogo (programa)"}

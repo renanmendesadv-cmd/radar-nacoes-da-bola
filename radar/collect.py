@@ -2,7 +2,9 @@
 
 - Google Trends: RSS de buscas em alta no Brasil.
 - Google News: RSS de busca, últimas 24 h, por termo.
-- YouTube: RSS público do canal (últimos ~15 vídeos), para saber o que já foi coberto.
+- YouTube: últimos ~15 vídeos do canal, para saber o que já foi coberto. Com a chave
+  YOUTUBE_API_KEY, lê pela API oficial (2 unidades da cota por dia); sem ela, ou se falhar,
+  pelo RSS público e, por último, pela página /videos do canal.
 
 Toda falha de rede é registrada e ignorada: se uma fonte cair, o radar segue com as outras.
 """
@@ -207,7 +209,41 @@ def videos_da_pagina(handle: str) -> list[dict]:
     return videos[:15]
 
 
-def coletar(buscas: list[str], handle: str | None, channel_id: str | None) -> dict:
+def videos_pela_api(handle: str | None, channel_id: str | None, chave: str,
+                    get=requests.get) -> tuple[list[dict], str | None]:
+    """Últimos 15 envios do canal pela YouTube Data API (channels + playlistItems = 2 unidades).
+    Nunca registra a URL, que leva a chave."""
+    api = "https://www.googleapis.com/youtube/v3"
+    try:
+        p = {"part": "contentDetails", "key": chave}
+        p.update({"id": channel_id} if channel_id else {"forHandle": handle})
+        r = get(f"{api}/channels", params=p, timeout=20)
+        itens = r.json().get("items") if r.status_code == 200 else None
+        if not itens:
+            log.warning("API do YouTube: canal não encontrado (HTTP %s).", r.status_code)
+            return [], channel_id
+        cid = itens[0]["id"]
+        uploads = itens[0]["contentDetails"]["relatedPlaylists"]["uploads"]
+        r = get(f"{api}/playlistItems", params={"part": "snippet", "playlistId": uploads,
+                                                "maxResults": 15, "key": chave}, timeout=20)
+        if r.status_code != 200:
+            log.warning("API do YouTube: vídeos do canal indisponíveis (HTTP %s).", r.status_code)
+            return [], cid
+        videos = []
+        for it in r.json().get("items", []):
+            sn = it.get("snippet", {})
+            vid = (sn.get("resourceId") or {}).get("videoId")
+            if vid:
+                videos.append({"titulo": sn.get("title", ""), "url": f"https://www.youtube.com/watch?v={vid}",
+                               "publicado": _data(sn.get("publishedAt", ""))})
+        return videos, cid
+    except (requests.RequestException, ValueError, KeyError, IndexError) as e:
+        log.warning("API do YouTube: falha ao ler os vídeos do canal (%s).", type(e).__name__)
+        return [], channel_id
+
+
+def coletar(buscas: list[str], handle: str | None, channel_id: str | None,
+            youtube_key: str | None = None) -> dict:
     status = {}
 
     xml = fetch(TRENDS_URL)
@@ -222,9 +258,12 @@ def coletar(buscas: list[str], handle: str | None, channel_id: str | None) -> di
         time.sleep(1.0)  # educado com a fonte gratuita
     status["Google News"] = len(noticias)
 
-    videos = []
-    cid = channel_id or (resolve_channel_id(handle) if handle else None)
-    if cid:
+    videos, cid = [], channel_id
+    if youtube_key:
+        videos, cid = videos_pela_api(handle, channel_id, youtube_key)
+        log.info("Vídeos do canal via API: %d", len(videos))
+    cid = cid or (resolve_channel_id(handle) if handle and not videos else None)
+    if cid and not videos:
         xml = fetch(YT_FEED.format(cid=cid), insistir_404=True)
         videos = parse_channel_feed(xml) if xml else []
         if not videos:  # feed alternativo: playlist de uploads (UC... -> UU...)
@@ -234,7 +273,7 @@ def coletar(buscas: list[str], handle: str | None, channel_id: str | None) -> di
     if not videos and handle:
         videos = videos_da_pagina(handle)
         log.info("Vídeos do canal via página: %d", len(videos))
-    status["Canal (RSS YouTube)"] = len(videos)
+    status["Vídeos do canal"] = len(videos)
 
     return {"termos": termos, "noticias": noticias, "videos": videos,
             "channel_id": cid, "status": status}

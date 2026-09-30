@@ -156,7 +156,7 @@ Variables > New repository variable*, nome `RAIOX_PAINEL`, valor `0`. A partir d
 | "Agenda (ESPN): sem resposta" | Desde 29/09/2026 o endereço principal da ESPN (`site.api.espn.com`) recusa os servidores do GitHub (HTTP 403). O radar tenta então `site.web.api.espn.com`, que funcionou em 30/09. Se os dois bloquearem, os jogos vêm das buscas do Google ("em alta nas buscas", sem data): confira data e horário antes de gravar |
 | "YouTube (48 h): sem chave" | Crie o Secret `YOUTUBE_API_KEY` (seção Força no YouTube) |
 | "YouTube (48 h): cota esgotada" | A cota diária acabou (execuções manuais demais). Volta sozinha no dia seguinte |
-| "Canal (RSS YouTube): sem resposta" | Em Settings > Secrets and variables > Actions > **Variables**, crie `CHANNEL_ID` com o ID do canal (começa com `UC`, aparece em youtube.com/account_advanced) |
+| "Vídeos do canal: sem resposta" | Com a chave `YOUTUBE_API_KEY` o radar lê os vídeos pela API oficial; sem ela, pelo RSS público, que às vezes falha. Se persistir, em Settings > Secrets and variables > Actions > **Variables**, crie `CHANNEL_ID` com o ID do canal (começa com `UC`, aparece em youtube.com/account_advanced) |
 | O radar parou depois de 2 meses | O GitHub desliga agendamentos de repositórios sem atividade. O próprio radar faz um commit por dia, o que normalmente evita isso; se acontecer, clique em "Enable workflow" na aba Actions |
 
 ## Testes

@@ -188,6 +188,11 @@ def montar_email_raiox(rel: dict, painel_url: str | None) -> tuple[str, str, str
     partes.append(tabela("Formatos que rendem (últimas 4 semanas)", ["Formato", "% das views", "Inscritos", "Views em 7 dias (mediana)", "vs. canal"],
                          [[_e(f["formato"]), f'{f.get("pct_views", 0):.0f}%', f.get("inscritos", "—"), _n(f["mediana_v7"]), ind(f["indice"])]
                           for f in rel["formatos"]]))
+    partes.append(tabela("Tipos de conteúdo", ["Tipo", "Vídeos", "Views em 7 dias", "vs. canal", "Inscritos"],
+                         [[_e(t["nome"]), t["n_videos"], _n(t["mediana_v7"]), ind(t["indice"]), f'+{t["inscritos7"]}']
+                          for t in rel.get("tipos", [])]))
+    partes.append(tabela("Clubes que rendem", ["Clube", "Vídeos", "Views em 7 dias", "vs. canal"],
+                         [[_e(c["nome"]), c["n_videos"], _n(c["mediana_v7"]), ind(c["indice"])] for c in rel.get("clubes", [])]))
     partes.append(tabela("Temas que rendem (categorias do radar)", ["Tema", "Vídeos", "Views em 7 dias", "vs. canal", "Peso no radar"],
                          [[_e(t["nome"]), t["n_videos"], _n(t["mediana_v7"]), ind(t["indice"]),
                            f'{rel["fatores_categoria"][t["nome"]]:.2f}x'.replace(".", ",") if t["nome"] in rel["fatores_categoria"] else "—"]
