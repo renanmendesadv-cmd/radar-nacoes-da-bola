@@ -361,7 +361,8 @@ def analisar(bruto: dict, fatores_anteriores: dict | None = None, gerado_em: str
     def ranking(g):
         return sorted(({"nome": k, "n_videos": len(x), "mediana_v7": round(_mediana(x)),
                         "indice": round(_mediana(x) / mediana_geral, 2) if mediana_geral else None}
-                       for k, x in g.items() if len(x) >= 2), key=lambda r: -(r["indice"] or 0))
+                       for k, x in g.items() if len(x) >= C.RAIOX_MIN_VIDEOS_CATEGORIA),
+                      key=lambda r: -(r["indice"] or 0))
     temas = ranking(por_cat)
     tipos = sorted(({"nome": k, "n_videos": len(vs), "mediana_v7": round(_mediana([v["v7"] for v in vs])),
                      "indice": round(_mediana([v["v7"] for v in vs]) / mediana_geral, 2) if mediana_geral else None,
@@ -446,11 +447,12 @@ def recomendacoes(rel: dict) -> list[str]:
         best, pior = tipos[0], tipos[-1]
         r.append(f"Tipo de conteúdo que mais rende: {best['nome']} ({best['indice']:.1f}x a mediana, {best['n_videos']} vídeos); "
                  f"o que menos rende: {pior['nome']} ({pior['indice']:.1f}x).")
-    if rel["temas"]:
-        t = rel["temas"][0]
+    temas = [t for t in rel["temas"] if t["nome"] in C.CATEGORIAS]  # sem "Notícia do dia"
+    if temas:
+        t = temas[0]
         if t["indice"] and t["indice"] > 1.1:
             r.append(f"Tema que mais rende: {t['nome']} ({t['indice']:.1f}x a mediana). O radar já dá peso maior a ele.")
-        fraco = rel["temas"][-1]
+        fraco = temas[-1]
         if fraco["indice"] and fraco["indice"] < 0.8 and fraco is not t:
             r.append(f"Tema que menos rende: {fraco['nome']} ({fraco['indice']:.1f}x). Vale buscar outro ângulo ou formato.")
     cedo = [x for x in rel["retencao"] if x.get("fica_30s") is not None and x["fica_30s"] < 60]

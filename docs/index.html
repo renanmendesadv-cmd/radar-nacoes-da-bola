@@ -472,7 +472,7 @@ aside{display:flex;flex-direction:column;gap:16px}
       [tabela(["Tipo", "Vídeos", "Views em 7 dias", "vs. canal", "Inscritos"], r.tipos.map(function(t){
         return [el("span", null, [document.createTextNode(t.nome), el("span", {cls:"fonte-m", text:" · ex.: " + t.exemplo.slice(0, 40)})]),
           t.n_videos, num(t.mediana_v7), x(t.indice), "+" + t.inscritos7]; }))]));
-    if ((r.clubes || []).length) g.appendChild(caixa("Clubes que rendem", "Vídeos que citam o clube no título (mínimo de 2).",
+    if ((r.clubes || []).length) g.appendChild(caixa("Clubes que rendem", "Vídeos que citam o clube no título (mínimo de 3).",
       [tabela(["Clube", "Vídeos", "Views em 7 dias", "vs. canal"], r.clubes.map(function(c){
         return [c.nome, c.n_videos, num(c.mediana_v7), x(c.indice)]; }))]));
     g.appendChild(caixa("Temas que rendem", "Categorias do radar. O peso no radar é ajustado sozinho toda semana (0,85x a 1,15x).",
