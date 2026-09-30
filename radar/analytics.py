@@ -697,7 +697,7 @@ def requisitos(bruto: dict, rel: dict, videos: dict) -> dict:
         parado = 90
     item("atividade", "Canal ativo (envios públicos)", parado, C.YPP_DIAS_INATIVIDADE, parado < C.YPP_DIAS_INATIVIDADE - 30,
          "manter a monetização",
-         ((f"Último envio público há {parado} dias." if parado else "Último envio público: hoje.") if ult else "Nenhum envio público nos últimos 90 dias.") +
+         ((f"Último envio público há {parado} dia{'s' if parado > 1 else ''}." if parado else "Último envio público: hoje.") if ult else "Nenhum envio público nos últimos 90 dias.") +
          f" Canais sem envios por {C.YPP_DIAS_INATIVIDADE // 30} meses podem ter a monetização revisada.",
          None if parado < C.YPP_DIAS_INATIVIDADE - 30 else "Publique algo (vídeo, live ou Short) para manter o canal ativo.",
          "ok" if parado < C.YPP_DIAS_INATIVIDADE - 30 else ("risco" if parado < C.YPP_DIAS_INATIVIDADE else "abaixo"))
