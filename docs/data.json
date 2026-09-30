@@ -1,14 +1,14 @@
 {
- "gerado_em": "2026-09-30T03:15:32.897434+00:00",
- "data_br": "30/09/2026 00:15",
+ "gerado_em": "2026-09-30T03:17:21.286889+00:00",
+ "data_br": "30/09/2026 00:17",
  "status": {
   "Google Trends": 10,
-  "Google News": 979,
+  "Google News": 980,
   "Vídeos do canal": 15,
   "Buscas do torcedor": 18,
-  "YouTube (48 h)": 10,
+  "YouTube (48 h)": 9,
   "Agenda (ESPN)": 200,
-  "Agenda (buscas Google)": 1
+  "Agenda (buscas Google)": 0
  },
  "canal_id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
  "videos_recentes": [
@@ -112,54 +112,35 @@
     "exemplo": "Palmeiras x Fluminense: Nubank Parque recebe visita técnica da PM"
    }
   ],
-  "nas_buscas": [
-   {
-    "tipo": "pré-jogo",
-    "fonte": "buscas do Google",
-    "clube": "Palmeiras",
-    "jogo": "Palmeiras x Ldu Quito",
-    "casa": "Palmeiras",
-    "fora": "Ldu Quito",
-    "confianca": "alta",
-    "posicao_busca": 2,
-    "manchetes": 0,
-    "exemplo": null,
-    "sugestoes": [
-     "palmeiras x ldu quito",
-     "palmeiras x ldu",
-     "palmeiras x ldu onde assistir"
-    ],
-    "gancho": "Palmeiras x Ldu Quito: o detalhe que pode decidir esse jogo.",
-    "titulo_thumb": "QUEM LEVA?",
-    "formato": "Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)"
-   }
-  ]
+  "nas_buscas": []
  },
  "buscas_torcedor": {
   "flamengo": [
    "flamengo x cruzeiro",
    "flamengo x corinthians",
-   "flamengo joga quando"
+   "flamengo libertadores"
   ],
   "corinthians": [
    "corinthians x estudiantes",
    "corinthians libertadores"
   ],
   "são paulo fc": [
-   "são paulo fc contratação"
+   "são paulo fc contratação",
+   "são paulo fc wikipedia",
+   "são paulo fc tem quantos anos"
   ],
   "palmeiras": [
    "palmeiras x ldu quito",
    "palmeiras x ldu",
-   "palmeiras x ldu onde assistir",
    "palmeiras e ldu",
+   "palmeiras x ldu onde assistir",
    "palmeiras x santos"
   ],
   "seleção brasileira": [
    "seleção brasileira convocação",
    "seleção brasileira feminina",
-   "seleção brasileira 2002",
    "seleção brasileira de futebol",
+   "seleção brasileira 2002",
    "seleção brasileira jogadores",
    "seleção brasileira x seleção haitiana de futebol"
   ],
@@ -174,17 +155,17 @@
  },
  "temas": [
   {
-   "tema": "Arrascaeta chega ao Rio nesta quarta, e Flamengo define data de cirurgia no punho",
+   "tema": "Arrascaeta chega ao Rio nesta quarta, e Flamengo define data de cirurgia no punho; veja detalhes",
    "categoria": "Lesão e desfalque",
    "clubes": [
     "Flamengo"
    ],
    "foco": true,
-   "nota": 76.0,
+   "nota": 76.4,
    "sinais": {
     "busca": 60,
-    "aceleracao": 45,
-    "midia": 96,
+    "aceleracao": 44,
+    "midia": 100,
     "aderencia": 100,
     "youtube": 97
    },
@@ -192,15 +173,15 @@
    "trafego_google": 0,
    "busca_torcedor": "arrascaeta flamengo",
    "termos_trends": [],
-   "n_fontes": 9,
-   "n_manchetes": 10,
-   "assinatura": "flame|arras|quart|rio",
+   "n_fontes": 10,
+   "n_manchetes": 11,
+   "assinatura": "arras|flame|data|quart",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 2 min)",
     "gancho": "Esse desfalque muda tudo para o Flamengo nos próximos jogos.",
     "titulo_thumb": "FLAMENGO SEM ELE: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Arrascaeta chega ao Rio nesta quarta, e Flamengo define data de cirurgia no punho?"
+    "pergunta_enquete": "Qual sua opinião: Arrascaeta chega ao Rio nesta quarta, e Flamengo define data de cirurgia no punho; veja de?"
    },
    "manchetes": [
     {
@@ -215,7 +196,7 @@
     },
     {
      "titulo": "Arrascaeta chega quarta (30) no Brasil, e Flamengo define data de cirurgia",
-     "fonte": "cnnbrasil.com.br",
+     "fonte": "CNN Brasil",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzZuUk9tRUZ4OWY0T1l2VnRlZkNBWVRZQjlmcWtSZUx5MmVMR24xZFVpUjJIeWRndmZYamxoM1AyU1pVbmlhN3o1SU8wS0NnZURQdDhOVlp3d0tFbm1BdEJQUzk2M2NMX2FTUmJaY25ndDJqRzliZ3RSbklUSElQMWw4S0oxSDNjRW1BWGpJSWhxM0dOX25QTkZ6VWdhR01uU3dQa0dQOFFyWDhzNEdHYU52ZmtkcUtqNmhtZFF6Nm1vZw?oc=5"
     },
     {
@@ -271,10 +252,10 @@
     "Botafogo"
    ],
    "foco": true,
-   "nota": 65.5,
+   "nota": 67.2,
    "sinais": {
-    "busca": 45,
-    "aceleracao": 53,
+    "busca": 50,
+    "aceleracao": 55,
     "midia": 75,
     "aderencia": 100,
     "youtube": 70
@@ -285,7 +266,7 @@
    "termos_trends": [],
    "n_fontes": 5,
    "n_manchetes": 5,
-   "assinatura": "palme|gover|botaf|flame",
+   "assinatura": "palme|gover|lula|botaf",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 3 min)",
@@ -296,12 +277,12 @@
    "manchetes": [
     {
      "titulo": "Lula conseguiu unir Palmeiras e Corinthians contra o governo",
-     "fonte": "causaoperaria.org.br",
+     "fonte": "Diário Causa Operária",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOURObkd2OGxiUVM2Uks1Zy1EQW9IRWlqV0tvOEdSMjBjUTd5VUs5SHlRMW11NFFlZWxWMzRPUFB6T2U4a04zVTlxcU5kdjBCY2JWWTJLT1kteXpINmt2X01HVGJrMmZ3ZjlpNE5sUVVDSVBlZTE3Q1hLd3puajlOQmZLR0VXR2xyaGhyMGItbHZ2ck5iQkhSbXpsbw?oc=5"
     },
     {
      "titulo": "Palmeiras descarta reunião com governo e tem cautela sobre contrato com bet",
-     "fonte": "cnnbrasil.com.br",
+     "fonte": "CNN Brasil",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN3VkT2ltX3UxeUpKd2wyeUltMHZjMkVjampMbDB1U2d6TUk4ZV9rR2lqcTRQaEhESFc3U2U0cTdqbm5JYzVhSGp4Zm1MeEFjTm9WWkpzVHpqSzdYcENkV0hqUjNzdnJlWlk2SGc0WVZqcDJnREZ0RWQ5a1BoY3JqZmVuMTdxbmZDWE95RWlILUh0bXhQZ3UzTkZtRjRoa3NhMVNfWEw5d253OGt5M202c0ZJVHFIVmNIVEZwMFNMYkxzLUhJQ2k2eEFHVms?oc=5"
     },
     {
@@ -311,7 +292,7 @@
     },
     {
      "titulo": "após fala de Lula, Botafogo, Flamengo, Palmeiras e outros grandes esvaziam reunião com o governo",
-     "fonte": "Blog Milton Figueiredo",
+     "fonte": "blogdomiltonfigueiredo.com.br",
      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNb01aR25aLUYwX3k4X3hJdGMxcDdXb2FWczh0MEJ5S01SLTRaV0ZyMVEweGk1N19xMUVJQlI5QWlVRTZ2aHJSZnhtdjhtV1Q0YjhRNWVaWnBPN2c0Yk54elZFNDhZdkZJbmpjUUJ5TW4zdzRsWExibFBVSHdkQmNJQjFQbWl3UWE5Zy1hQ3BlRUxMdGlWZ1dYb1c2X3JNbFloNXhTOE5fYVBTSFY3UERtc0VrbkJZZzJ6Zmc5NVFuaXEwelpHM0RxVndPeTU1NWFIanZHVTZkSDJwWWRmWnBBQ1ZLb1BBV3czckdlSE9rRWdWZw?oc=5"
     },
     {
@@ -390,7 +371,7 @@
     },
     {
      "titulo": "Corinthians registra deficit financeiro de r$ 32 milhões em julho",
-     "fonte": "araraquaranews.com.br",
+     "fonte": "Araraquara News",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQXlJdEFDaGc0UnQzSHJPemhNdExKOGdGVUF5U1N6OU53VWR2MlBPbWhTWEZvbTBMeTdpZW9lQTRVUWdmX3hUY1dHSVFhamsybHFMZXMxdmxNS3lKZzVrY1VjNEcySmtQRGFJZFEzdHJ6bDVKNVgwRWtEdUZNZzdlWlhORUxCak9xMklGZkdRc1VwRENpZnBpOC12VkgxeTJwdmowVFVaNHQ0UQ?oc=5"
     },
     {
@@ -405,7 +386,7 @@
     },
     {
      "titulo": "Corinthians vê déficit aumentar 258% acima do previsto e dívida dispara",
-     "fonte": "cnnbrasil.com.br",
+     "fonte": "CNN Brasil",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdVlpRlQ3TjNMcU1jdUlLRUk2QjZpaXlsUDF1MkhaeDFkWEhuYXY4R19JWktTSllFQTl4bTlIMTMyRG5QN1d0MDJGRnduZVVmM1pydlk4bmtZWjBRYXhlVF8zYzVwd0FRbTV6QjEyTnZuSVFtMW1VR2NzY0ZnRmw4SEJfMEs4bl9BYjk4STVhUjVYUk44cWg3V2MxWVlhYnlHRkV0bUNoMWtHdnlTY0Fhck5Takh2NlJPeVJVNGR4ckdFa0xvMXBOOA?oc=5"
     }
    ],
@@ -464,7 +445,7 @@
    "termos_trends": [],
    "n_fontes": 11,
    "n_manchetes": 14,
-   "assinatura": "santo|paulo|class|homen",
+   "assinatura": "santo|paulo|class|naty",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
@@ -485,7 +466,7 @@
     },
     {
      "titulo": "Santos fará homenagem para Naty Potira no clássico contra o São Paulo",
-     "fonte": "cnnbrasil.com.br",
+     "fonte": "CNN Brasil",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWlg2Sk1IRGcyUjd2bE50ZjlPQXNZaURzanl4M241WER5VjVzLTFkcmxtcXZmMXVzY1VSeXVqNzhudGJDUm5yMEYzUUNJSDY4al9zbURrUVNUZVFVR1FNU0cwSktDVHBWMndIWTNiRFlUZC10NXlzVEMtRURnNGtnS2tkUGdoOTlQTXpDc3FUZ0xsem9oT0hlaHhmc0NyR0ZzbTJDTWhTVE5mSURuSm1TT3dXejhzTHMtM1o5LUF5T1g?oc=5"
     },
     {
@@ -533,61 +514,6 @@
    }
   },
   {
-   "tema": "Palmeiras recebe vistoria da PM no Nubank Parque por ampliação do setor visitante contra o Fluminense",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Palmeiras",
-    "Fluminense"
-   ],
-   "foco": true,
-   "nota": 57.7,
-   "sinais": {
-    "busca": 60,
-    "aceleracao": 75,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": 0
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "nubank parque",
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "receb|visit|palme|parqu",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Todo mundo está falando disso. E você, concorda?",
-    "titulo_thumb": "PALMEIRAS: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Palmeiras recebe vistoria da PM no Nubank Parque por ampliação do setor visitante contra o?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Palmeiras x Fluminense: Nubank Parque recebe visita técnica da PM",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONExfYzFnRDNWZ2RMcF9xa204UXFTOXJoLWVGeXVDVWUtUTEwVFdRLXpuTmRrNklTaEMzeWJZN1YycDIyTkxKUF9xRXZ3aG00WndUM0h5VHRIVTR1QmhvVmg0enF6Z0lYUnphSEtmSEd6MDlqTWUxZTNhazNWMklzcHZYWko5cXp6aFdpN1N3RzItSG9WeWhQdXVIV2VhUWxpajFDMm1HOXdYQlF2UUdIVVg4amEwNWFhbUZXUkJha25LdHo5WUM1U3hLQll0QmpyVVhyRTNqbnVVUjQ1RHZxNE9wYjhJVWdvelhfTTdpQWgtWkNhQV90bQ?oc=5"
-    },
-    {
-     "titulo": "Palmeiras recebe vistoria da PM no Nubank Parque por ampliação do setor visitante contra o Fluminense",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRF9SRzNGUXh2SDJXOTkzclQ3dkZ2eGlvTDZ6RHVVYUZiWkQwTkxxVXR6eWVfZFoycXJ5NU5ydGZRZzBLakZkVnlrUUNBREcybmFHaEgxZWNDMGZ4U2R1ODFZekNjQkN2c2xIMVpZbzBqWDlBQzlmVkhxMFNyRnoyN1B6OVZSNXQ2d0ZOV0pBOHBwWXJ2bXJ5Y0FWNVpyejNlRjhj0gGjAUFVX3lxTFBEX1JHM0ZReHZIMlc5OTNyVDd2RnZ4aW9MNnpEdVVhRmJaRDBOTHFVdHp5ZV9kWjJxcnk1TnJ0ZlFnMEtqRmRWeWtRQ0FERzJuYUdoSDFlY0MwZnhTZHU4MVl6Q2NCQ3ZzbEgxWllvMGpYOUFDOWZWSHEwU3JGejI3UHo5VlI1dDZ3Rk5XSkE4cHBZcnZtcnljQVY1WnJ6M2VGOGM?oc=5"
-    },
-    {
-     "titulo": "Estádio do Palmeiras recebe primeira vistoria para ampliação dos visitantes",
-     "fonte": "Tribuna de Jundiaí",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRzdIZml3T2pzRWNQSkszZTlqbFh2dHZQREZNZlUzaTFtUTlfVUFmUkUweXJBZ3l3UXdnbGw2cWg1UjFwMUtXR1VfSW15c0RZaEVZeF85UlFNN2pCTlhWOHdKVnc1STZQMFRHNGJSb29FT0pEVUo4RlA3RTBjcWZ3VmdrdmY2ZFMtbW44cU5fUWtBczFsck1zSl9YTHFVOEo5aEctTEJZdFlGeU01eUp4Q0VBM0dQTDhMYXNPcVZnTQ?oc=5"
-    }
-   ],
-   "youtube": {
-    "consulta": "Palmeiras Nubank visitante recebe",
-    "n_videos": 0,
-    "mais_de": false,
-    "views": 0,
-    "top": []
-   }
-  },
-  {
    "tema": "Lesão de Arrascaeta pelo Uruguai pode render indenização ao Flamengo pela Fifa",
    "categoria": "Lesão e desfalque",
    "clubes": [
@@ -608,7 +534,7 @@
    "termos_trends": [],
    "n_fontes": 3,
    "n_manchetes": 3,
-   "assinatura": "lesao|inden|flame|arras",
+   "assinatura": "inden|flame|arras|lesao",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 2 min)",
@@ -619,7 +545,7 @@
    "manchetes": [
     {
      "titulo": "Lesão de Arrascaeta vai render indenização para o Flamengo? Entenda",
-     "fonte": "exame.com",
+     "fonte": "Exame",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3FMZUFFOVJPakNRaHVUaWIzYUc3bUZidnpiTDNwYks1ZVYzQzJLclN5eW1FYVdKUzVBbmw5V0RNZy1rVGtSWFM4V1EtazZrYkpQazUzM3l4eHpWQXNaWUpQakRrYnZ4Z0J2Rng1NTBmN3JReW1YQXp2bVNhRDZfMGtoTzhBTUI0YTVjQmFSZVh2RnFIeWYwVA?oc=5"
     },
     {
@@ -680,7 +606,7 @@
    "termos_trends": [],
    "n_fontes": 5,
    "n_manchetes": 5,
-   "assinatura": "santo|homen|naty|potir",
+   "assinatura": "naty|santo|homen|potir",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
@@ -691,7 +617,7 @@
    "manchetes": [
     {
      "titulo": "Bruno Lima: Santos atende torcida e homenageia Naty Potira na camisa contra o São Paulo",
-     "fonte": "UOL",
+     "fonte": "uol.com.br",
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeTdxSmJqZTUzNWxRTnllMDNfb3QzSDJ0QjR1VHVfY0pKZE5fVUVqb3dJa1BzUzhpUkEwQUlMODJieC1oWE5DN25ZQzByWXhWamtjWHVDSXlXLWhCdjI3Tnljb29sSHdZV0ZmTXBya1cyTF9NSi1ud3ktSUhGdXpfWnZTTkgxUjZZM00zWGROelZ1VHlwX0RPV081MHJfV1pYdDNOS1FwbFJlVkxYUUlTT2d4VUVEdU41bThrdzRKcENwU1BHQmdmcTN2QlJ4YjZpeUxnd3Q2QQ?oc=5"
     },
     {
@@ -749,79 +675,100 @@
    }
   },
   {
-   "tema": "Bahia intensifica preparação para enfrentar o Palmeiras",
+   "tema": "Palmeiras realiza treino recheado de gols; confira",
    "categoria": "Notícia do dia",
    "clubes": [
     "Palmeiras"
    ],
    "foco": true,
-   "nota": 54.0,
+   "nota": 54.6,
    "sinais": {
     "busca": 0,
-    "aceleracao": 68,
-    "midia": 67,
+    "aceleracao": 85,
+    "midia": 46,
     "aderencia": 100,
-    "youtube": 55
+    "youtube": null
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
    "busca_torcedor": null,
    "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 4,
-   "assinatura": "bahia|palme|prepa|enfre",
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "gols|reali|palme|reche",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
     "gancho": "Todo mundo está falando disso. E você, concorda?",
     "titulo_thumb": "PALMEIRAS: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Bahia intensifica preparação para enfrentar o Palmeiras?"
+    "pergunta_enquete": "Qual sua opinião: Palmeiras realiza treino recheado de gols; confira?"
    },
    "manchetes": [
     {
-     "titulo": "Bahia intensifica preparação para confronto com o Palmeiras",
-     "fonte": "deolhonacidade.net",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeGdfLWtTX2luZ1Q1ZG56eUlYRTBYQU9ERUhhNkVMemk5dldydm9tMlVMV2k2aXhwVlBpSTdFV0ZBR3F3clNOVWZxZDM3NkROdkk4b25Wc19fZEh2TVNRUUpLRGhRaGNocWg5eUR0cWxjOGcyMGpFZ0M0YnJWcDB2aEZYSzNLTXA0by1HQW1FOUoyQUhf?oc=5"
+     "titulo": "VÍDEO: Palmeiras realiza treinamento recheado de gols; confira",
+     "fonte": "imirante.com",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc0plUUkwZGdncnlrbVEySEloQkNZeGFJTW0tejNIcUs3Mkg0bnNhcTY3WnJZYkl0Z1k4YWRjR0tMUXZ3RnYyQTh6V1dWRVB0OEwxNjVOZjlOM3lZN1NPYXZOX25EUk93aWtXNWJaQkxfM2tid3A4aWlJQVplN0dSZDlJNzE4LUMtX2hJUkEtTlV1SThtdEhaVW93dHpQMzd3eVlR0gGoAUFVX3lxTE84bk9hT3dfNWtPd2w3b3RRc2dLNDB2bG1zWGJQUC1GZWtXdldDMV85bnZjNUJSQ2lCMXVDN2licHQ3dFYxOXp3UUFxenhrTEk5a00yMFpCcF91cU1jSS1NaDNZMHg2MUxjZERmSmZTbE5kZkVDcmE3VVlobW1YMkJINEptWEN3b1o1d3ZQSVZVNjNoOWo3WVVWWXJfaXZkWkZxMC1aNGlVUw?oc=5"
     },
     {
-     "titulo": "Bahia intensifica preparação para enfrentar o Palmeiras pelo Brasileirão",
-     "fonte": "Notícia Livre",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNDVJUm9iWlFaazNWU3FDWmxMbjJyS0hhNFZlZWcwRFNLRllWUTN4N2J0X0dhT2p5WFV4S2llRGFBWGxMQ2lkV3lfMzV2MWcwVmlxdnlCbWk0OG1TTFhmaW42YmctdHAxeW42OTZrVkRlX3BLLXh3RlJUd2ctSlViVTRhWVZVTmR5ZFRkZlBwU0pQeUhrRno5cXctRTNyWVlYMENZ?oc=5"
+     "titulo": "Palmeiras realiza treino recheado de gols; confira",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb3lJZVQ4aVNPTGd2ajUtNkVaeTlqbkd6ZjZTbHBjcFgyWDQyekxlR0pzeXZaSmpucXZ5QVlRUGx1S2RROVJOV0p3UVpTU3RpdGlsT3ZQUzVFcGcxUUZ0clN4cTdhejd0UGVmNTVQQXRqUDZuQXZEYkpLWFRmR18xR2hvVTNNREVBNXd6Sm5pdURjWi1XT1I0WNIBmAFBVV95cUxQb3lJZVQ4aVNPTGd2ajUtNkVaeTlqbkd6ZjZTbHBjcFgyWDQyekxlR0pzeXZaSmpucXZ5QVlRUGx1S2RROVJOV0p3UVpTU3RpdGlsT3ZQUzVFcGcxUUZ0clN4cTdhejd0UGVmNTVQQXRqUDZuQXZEYkpLWFRmR18xR2hvVTNNREVBNXd6Sm5pdURjWi1XT1I0WA?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Palmeiras recebe vistoria da PM no Nubank Parque por ampliação do setor visitante contra o Fluminense",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Palmeiras",
+    "Fluminense"
+   ],
+   "foco": true,
+   "nota": 53.8,
+   "sinais": {
+    "busca": 50,
+    "aceleracao": 69,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": 0
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "nubank parque",
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "palme|receb|visit|flumi",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Todo mundo está falando disso. E você, concorda?",
+    "titulo_thumb": "PALMEIRAS: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Palmeiras recebe vistoria da PM no Nubank Parque por ampliação do setor visitante contra o?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Palmeiras x Fluminense: Nubank Parque recebe visita técnica da PM",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONExfYzFnRDNWZ2RMcF9xa204UXFTOXJoLWVGeXVDVWUtUTEwVFdRLXpuTmRrNklTaEMzeWJZN1YycDIyTkxKUF9xRXZ3aG00WndUM0h5VHRIVTR1QmhvVmg0enF6Z0lYUnphSEtmSEd6MDlqTWUxZTNhazNWMklzcHZYWko5cXp6aFdpN1N3RzItSG9WeWhQdXVIV2VhUWxpajFDMm1HOXdYQlF2UUdIVVg4amEwNWFhbUZXUkJha25LdHo5WUM1U3hLQll0QmpyVVhyRTNqbnVVUjQ1RHZxNE9wYjhJVWdvelhfTTdpQWgtWkNhQV90bQ?oc=5"
     },
     {
-     "titulo": "Bahia intensifica preparação para enfrentar o Palmeiras",
-     "fonte": "bahia.ba",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOazFYcHZFVFpPdVV6dGxSNFJWQ2dhbXRUWE9YUUZicTVjWEIzbC1PTDdQb3RDcHR6ZmxZemdObDJNZmJtekdCN1hqU2VvOHhkWWZkUktBOU04TElkUWdmbEs1WTU3OEhvVXFabDBoNFRCWWFCajVXWlk4eThYMTRaSVZxZnNQejZ3?oc=5"
+     "titulo": "Palmeiras recebe vistoria da PM no Nubank Parque por ampliação do setor visitante contra o Fluminense",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRF9SRzNGUXh2SDJXOTkzclQ3dkZ2eGlvTDZ6RHVVYUZiWkQwTkxxVXR6eWVfZFoycXJ5NU5ydGZRZzBLakZkVnlrUUNBREcybmFHaEgxZWNDMGZ4U2R1ODFZekNjQkN2c2xIMVpZbzBqWDlBQzlmVkhxMFNyRnoyN1B6OVZSNXQ2d0ZOV0pBOHBwWXJ2bXJ5Y0FWNVpyejNlRjhj0gGjAUFVX3lxTFBEX1JHM0ZReHZIMlc5OTNyVDd2RnZ4aW9MNnpEdVVhRmJaRDBOTHFVdHp5ZV9kWjJxcnk1TnJ0ZlFnMEtqRmRWeWtRQ0FERzJuYUdoSDFlY0MwZnhTZHU4MVl6Q2NCQ3ZzbEgxWllvMGpYOUFDOWZWSHEwU3JGejI3UHo5VlI1dDZ3Rk5XSkE4cHBZcnZtcnljQVY1WnJ6M2VGOGM?oc=5"
     },
     {
-     "titulo": "Com Michel Araujo na transição, Bahia treina para enfrentar o Palmeiras",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNem5qaU5WQ0xSQzRwOWJRM1NhUEZ0VlVtaEc5TVAxZHMybllQd29vajI0eW5hLW9QbXpPSl8za19YVlpiRC1uSGVTZlNJVGl5RlM2REFSNWtibWh3UkRIdnUtMFIxb2d2ZGY2ZHllVkl5dk9hbHR4Snp0RmZ0MTRndEZDZk5QbVBKcDFfN0hYRTY0LWxrdUtpa0N5TFVHdmxKVk9QOWQwYV9sYjQzMFBoSm50TVZBMWNzWUg2Vkhfbks1RzNSU1B3ZHljZmVNdEprN1FiOV930gHkAUFVX3lxTFBKa0JkNWxwT2NVN2tDdTBLY1dQQ1M2VEhIRG5EUjY1Qks2RG5BVWp5SGQ5dklSWEVvUVplcWM3TkY5Z3lmREhOLXBwZkZ0SGV5elZRYjRKNnRieHNSNjBYVkVuaW5QZldmSm5IMXBjYW96cGxSZHNxUm9ONUk0ZEw2NTJlVkUwdDkwa3dhejhXZ2QzSmRRdU9jZU5ibVQ0X2dQVVl5LXNManF6VzlWWkJtWC1LdTQ0WERwNmw0d295T0lNU28tN0hKRVFPLWcwZEdudWFmUG1KT2NOT3EzRzlwYUdSaA?oc=5"
+     "titulo": "Estádio do Palmeiras recebe primeira vistoria para ampliação dos visitantes",
+     "fonte": "Tribuna de Jundiaí",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRzdIZml3T2pzRWNQSkszZTlqbFh2dHZQREZNZlUzaTFtUTlfVUFmUkUweXJBZ3l3UXdnbGw2cWg1UjFwMUtXR1VfSW15c0RZaEVZeF85UlFNN2pCTlhWOHdKVnc1STZQMFRHNGJSb29FT0pEVUo4RlA3RTBjcWZ3VmdrdmY2ZFMtbW44cU5fUWtBczFsck1zSl9YTHFVOEo5aEctTEJZdFlGeU01eUp4Q0VBM0dQTDhMYXNPcVZnTQ?oc=5"
     }
    ],
    "youtube": {
-    "consulta": "Palmeiras intensifica preparação",
-    "n_videos": 2,
+    "consulta": "Palmeiras Nubank visitante recebe",
+    "n_videos": 0,
     "mais_de": false,
-    "views": 5143,
-    "top": [
-     {
-      "titulo": "💚PALMEIRAS X BAHIA - VERDÃO TREINA EM DOIS PERÍODOS E PAULINHO APRESENTA EVOLUÇÃO!",
-      "canal": "FUTEBOL TOTAL OFICIAL",
-      "views": 5137,
-      "url": "https://www.youtube.com/watch?v=lLM6H0_j6cs",
-      "publicado": "2026-09-29T14:34:11Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "O Bahia retoma treinos e intensifica preparação para enfrentar o Palmeiras.",
-      "canal": "LR  ESPORTES",
-      "views": 6,
-      "url": "https://www.youtube.com/watch?v=2rj4ecNEaSA",
-      "publicado": "2026-09-29T11:45:06Z",
-      "do_canal": false
-     }
-    ]
+    "views": 0,
+    "top": []
    }
   },
   {
@@ -857,7 +804,7 @@
    "manchetes": [
     {
      "titulo": "Feminino: São Paulo tenta quebrar recorde de público em jogo contra o Corinthians",
-     "fonte": "ABCD Jornal",
+     "fonte": "abcdjornal.com.br",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVlc4UkkxR0xDWWZWRWpDbzlfdGdtaXk3bU5fNWZiak03RGd4XzJkSkc4eFNVR2NaaWZXY3lUU21UT2NwRVoxanBGczdqeTdNZmVsWmxoWW53TG8wSjQ4SGNwbkVPYkdsd3ZYS3V5bXBKUGk0T0pLYTRHQ2hmTC1KUnBTUXdOUEdtWUNIVzNCUmg4aWVTSjZpaW9QUjh4UVY5VXZyZDZPd2Q3NDRhRHVpdmJ3RHVDUWM1aXlrRWpLS3d6OTJrUFgxTU9JTGVuaDTSAdQBQVVfeXFMT1NBWHFkX0Z3aDlMQXFySGdmRDdWdnVMSk1tWUwxXzl4ZnB0SjNNLWpZbHFqdHpTVVAtTy1YVXc2VVZ6VWFkWE5WRUNpRFg3dnFtTGVyRkdfMWQ1ME90LTBaYVU4WUFreFJGV2RNMjVyNEJwaS1HSlpEWE9zTndGTVlTaDQ5VjVfakkwSWYwODBPbXdSQVhubWxqalA5Y3dQZjVmUXhQOFBpOVdoakt0NGQ4a3lEN1ZjZ0VIOV9WcVJxYzZTUWl3SFV1NVJKNEQ2MmhPWWw?oc=5"
     },
     {
@@ -883,6 +830,100 @@
    ]
   },
   {
+   "tema": "Estudiantes, rival do Flamengo na Libertadores, perde final na Argentina, e jogo acaba em briga",
+   "categoria": "Mercado da bola",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 53.3,
+   "sinais": {
+    "busca": 35,
+    "aceleracao": 31,
+    "midia": 67,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "flamengo libertadores",
+   "termos_trends": [],
+   "n_fontes": 4,
+   "n_manchetes": 4,
+   "assinatura": "flame|liber|estud|argen",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 3 min)",
+    "gancho": "Essa negociação pode mudar o Flamengo, ou virar o erro do ano.",
+    "titulo_thumb": "FLAMENGO: VALE O INVESTIMENTO?",
+    "pergunta_enquete": "Qual sua opinião: Estudiantes, rival do Flamengo na Libertadores, perde final na Argentina, e jogo acaba em ?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Estudiantes, rival do Flamengo na Libertadores, perde final na Argentina, e jogo acaba em briga",
+     "fonte": "Estadão",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUGV6MGlGeFlUazYzRzJZR1NfbGRnQWc5MzQ3aVNiTzVQUmlpeUpfcGFHQ1ZIeGRuT05EZ1RBZF9PMUZEZGdGdUk5cm03ZHM4NFNzSXduYkViRGp4bkdXdE03ZkZhTlFVSEswSk9xb0FsaDdNNVliRnBpRkRmTkFGd0hMZ1ZpYnp0aV80S0hESmcweXhmdDFGZV9LOHVDbmxwVjN3LXQ1cFc1Tk93QnVqOTVCWmZKVy1LR0lJcWc4NWRsemczUWQxUlE4WDJ6dTRpMnA3QVpRRFcyd2lzX2c?oc=5"
+    },
+    {
+     "titulo": "Rival do Flamengo negocia reforço de peso para semifinal da Libertadores",
+     "fonte": "nossofla.com.br",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xd0JyN0E0aDQ1NjlNMEE4UVNtb2l5ZjMxTWVEbUVGTFJraU00bFJRTDNwUEF5YkxkY2xKYjBIM3ZXaVdqN2tDWm1wT0VWczNEclNuY0tETV9aX2hzdElFQlVNc3BfWnJVUjhwdW1laS11YXdhY3Q4aGNQSjlrQQ?oc=5"
+    },
+    {
+     "titulo": "Estudiantes perde três jogadores antes de enfrentar o Flamengo pela Libertadores",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRVBXbDRZQUJwV1ZuWlBWTlM0WW9rNTl1YlhZTThyUkNuTGVxNkFzY1M0alFtWjl3S2JNZmtqLUFXb0lTakxZOWFMTV81UWlBTHZOOUlmbWJXSFo5aWt2dVBZaTZ5a25zWUdXYS1xa0kxeFZwRmttbDZwc3pQYXBpTHU4MG5aaXhPcTRpWE1MRlpubUVRY1RZZHltNVN3QUN4Y2xfOWNVX2VpVHdGLXo3UFZzMk1xTlFfNTBITEhmMGx4UlVWMHhkT2U0M0Z2TGdKQm1MT0ptM2RQR054ZENQcjdQUXRnTXZkR0dyYUdQQnllakg1czRBLUlQckdHdw?oc=5"
+    },
+    {
+     "titulo": "Vice-campeão mundial com a Argentina negocia com Estudiantes e vira opção para encarar Flamengo na Libertadores",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWlRwQ2c5Sjg1UC02dEx3M3VjOU9KVlFCemR1dGJQbHh0cU5sNGdHcHFWYWZqeEJDZ0kzMERSSkRKbEdwZUZuemdtTDR2ZnRJODN3YnV5aURQUkhYMUdzZ0ZldlBtWmNDdHREdVJGMUxMdXU2VWZ2a05QejYxdndsMGJRWUg0Ri1xRVJwQ09tMmhsSG9CZ19VV0JWNU1neElrTkxDOXdpSlp4YVczc0RLUkhOMGlwY2tjYk9KN2Q5UFZsVzJvNmhFY3RoWGhabkR3em11cGxLcjBkQ21vTUFqQUpHN3pmVEE4czQxOUhWdGxZQ29teTlseEotWmJ2UUNPb0E?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Corinthians já sabe o que pode fazer com a Hypera se perder naming rights da Arena",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 52.7,
+   "sinais": {
+    "busca": 40,
+    "aceleracao": 34,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.025,
+   "trafego_google": 0,
+   "busca_torcedor": "corinthians libertadores",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "corin|namin|right|quer",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Esse resultado diz mais sobre o Corinthians do que o placar mostra.",
+    "titulo_thumb": "CORINTHIANS: O QUE O JOGO REVELOU",
+    "pergunta_enquete": "Qual sua opinião: Corinthians já sabe o que pode fazer com a Hypera se perder naming rights da Arena?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Corinthians já sabe o que pode fazer com a Hypera se perder naming rights da Arena",
+     "fonte": "Bolavip Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTmR0X0RhWE15dUVYVzZxbEZvVGpWeFY2U3QydmI4ZlhCNEJNdHRyek5aUlVpajVVSXlldzlTbXBmTzM0T0w4NVIwa081MTV1Sy1hZFUxOW5DWDg3TTNQWFE4WHdDQWZUMGRiZk1tU2ZOVG13OU9NLWlwYmY3NmNWdGtlbDRuZTVvcU92djJMVjdzWW4zSmtpSXhiX0pkbVUtcVJodVFvcW5OR1JubG5KX1QzSQ?oc=5"
+    },
+    {
+     "titulo": "Samir Carvalho: Corinthians quer 10 anos de naming rights com Caixa e liberação de milhões",
+     "fonte": "uol.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMnI0eXRMWTlTTUROSXZpdXdhQzJDU1hSVTBRenEwYnJWaXhqOWJaR2lLdXdHdFFnZnhMak1BOWh4VmUyeEpReTJvVU1HbUk2eTI3RXhZMlNsVUN3YUhtcWJ6YzA1Y0N2bWZtQnVhOGxFRjFuZzNLTlB2TTBqMkRINjdjUFpBX3FEWWdHMlVGSGd1Q2ptNW94LVdiR0xWUlh0bm9veF9hTFQ2NTBJME1xclBiNjBBY0Jxcy1Da3pwTUpYMHUyekxwakVJYkxfOVNtWVJ3a0tXVkEtZE0?oc=5"
+    }
+   ]
+  },
+  {
    "tema": "Flamengo terá desfalques importantes antes de duelo pela Libertadores",
    "categoria": "Lesão e desfalque",
    "clubes": [
@@ -903,7 +944,7 @@
    "termos_trends": [],
    "n_fontes": 3,
    "n_manchetes": 3,
-   "assinatura": "liber|flame|desfa|aumen",
+   "assinatura": "desfa|flame|liber|aumen",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 2 min)",
@@ -924,50 +965,8 @@
     },
     {
      "titulo": "Desfalques do Flamengo na Libertadores seguem aumentando; confira a lista",
-     "fonte": "cnnbrasil.com.br",
+     "fonte": "CNN Brasil",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV0JaaV9lUGR2d1lrQ2stR0VnZHF3WlRWUnlUam40anZnUVRjNnFiRVllMUFpOFhpUzdIVnFkOUMyMGV0X3l1Y0J1S2RRaXgwRnljRUN3cWNZeUkzZl9HaFlYaHI4UlBITEdXQTRkNVdXQ050bEtmaTdvWGZtY1V4TFVkTy1uVmY0M3ZJcW1RbW02V1lrbkh2R2J1U3E0dGFtRFhhNWw3S1ptTmtTUlRqdzE4UVpJcThSOTIwTUdXTUItWng0YnJr?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Corinthians já sabe o que pode fazer com a Hypera se perder naming rights da Arena",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 51.2,
-   "sinais": {
-    "busca": 35,
-    "aceleracao": 34,
-    "midia": 46,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.025,
-   "trafego_google": 0,
-   "busca_torcedor": "corinthians libertadores",
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "namin|right|corin|carva",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Esse resultado diz mais sobre o Corinthians do que o placar mostra.",
-    "titulo_thumb": "CORINTHIANS: O QUE O JOGO REVELOU",
-    "pergunta_enquete": "Qual sua opinião: Corinthians já sabe o que pode fazer com a Hypera se perder naming rights da Arena?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Corinthians já sabe o que pode fazer com a Hypera se perder naming rights da Arena",
-     "fonte": "br.bolavip.com",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTmR0X0RhWE15dUVYVzZxbEZvVGpWeFY2U3QydmI4ZlhCNEJNdHRyek5aUlVpajVVSXlldzlTbXBmTzM0T0w4NVIwa081MTV1Sy1hZFUxOW5DWDg3TTNQWFE4WHdDQWZUMGRiZk1tU2ZOVG13OU9NLWlwYmY3NmNWdGtlbDRuZTVvcU92djJMVjdzWW4zSmtpSXhiX0pkbVUtcVJodVFvcW5OR1JubG5KX1QzSQ?oc=5"
-    },
-    {
-     "titulo": "Samir Carvalho: Corinthians quer 10 anos de naming rights com Caixa e liberação de milhões",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMnI0eXRMWTlTTUROSXZpdXdhQzJDU1hSVTBRenEwYnJWaXhqOWJaR2lLdXdHdFFnZnhMak1BOWh4VmUyeEpReTJvVU1HbUk2eTI3RXhZMlNsVUN3YUhtcWJ6YzA1Y0N2bWZtQnVhOGxFRjFuZzNLTlB2TTBqMkRINjdjUFpBX3FEWWdHMlVGSGd1Q2ptNW94LVdiR0xWUlh0bm9veF9hTFQ2NTBJME1xclBiNjBBY0Jxcy1Da3pwTUpYMHUyekxwakVJYkxfOVNtWVJ3a0tXVkEtZE0?oc=5"
     }
    ]
   },
@@ -993,7 +992,7 @@
    "termos_trends": [],
    "n_fontes": 4,
    "n_manchetes": 4,
-   "assinatura": "santo|flame|neyma|brasi",
+   "assinatura": "santo|flame|brasi|neyma",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 3 min)",
@@ -1014,12 +1013,12 @@
     },
     {
      "titulo": "Neymar deve ser reforço no Santos contra o Flamengo pelo Brasileirão",
-     "fonte": "cnnbrasil.com.br",
+     "fonte": "CNN Brasil",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ3JEQ2ktWVJJUjhzbVQ0bnI4X3E0SW0xb3NKb0xmREVHQUloYVNWTjE1VWZ4Q196T0JLd1Z1blhscGJFcW9kbkdubWdNLXJlOTYtY2RvellPek1qQXlGaTBtMjBCRkQtcjJjX1V3eUhQLWhrbWV2WFZwSkQ0b1NQZW1zdUE3MU1OV2JCNTRmd0VpWVFDTXFLd0R4bDRxRnExQmFNX3VINnF6OGhDXzNNR3IycWVNa3o2VW40ZWVXRQ?oc=5"
     },
     {
      "titulo": "Neymar avança em recuperação e deve reforçar Santos contra Flamengo",
-     "fonte": "O Dia",
+     "fonte": "odia.ig.com.br",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMUZ6ek1jSWxJNHR6bFFCaXpVVEtVV3BQR2ZGcVNVQnBqSnBQbDVxRHV5VExXWlpZQWNYODBsTl9zM2dmVFVrS3E2RTcxbEpsdUFzZUp6RVpHd2w2bWJUT1ZIV3lLQjBtcVR2aDYwWHBhdFlxSlZtTl96aVZMelh0TFlWOHJkeHRxQWhheXZOQk9YTVNPNGJjN01IMUtVYlVXR0hLeTdrZ0RhMVJ5cmZzVjNwNldHVm45SGg4TEZsYVlzOGpFRTV30gHMAUFVX3lxTE9kMTdvQlNscFZyVEw4NzNqN094S2YtbHowZ1lUejc4cjNldzBweDYyeGdrcFFWODhDeHRfSGQxQTc0NGVMcllqTFFLY1VwZTZWREhGXzl5UjJNV0JvdGxuZE1NaTg4Y2VpMXZlYTJkeFVjZWk4azVfSTdMb1ZjM2wxVWtvOUNfYlNtcWVROU44am45ejFac1FfOXktQ0JvYjg5eGp0aGdYZ0pDZjZQQmxDUmU1ZGpBcUdTQl9xeE9XRzlsVURRZ0dsMk5QbA?oc=5"
     }
    ]
@@ -1045,7 +1044,7 @@
    "termos_trends": [],
    "n_fontes": 1,
    "n_manchetes": 4,
-   "assinatura": "willi|batis|corin|sub-2",
+   "assinatura": "batis|corin|willi|sub-2",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Opinião forte (60 a 90 s)",
@@ -1057,7 +1056,7 @@
     {
      "titulo": "William Batista exalta evolução do time sub-20: \"Hoje, o Corinthians é respeitado\"",
      "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOFhTblg3RFJqWUJRRFZxSzNUN0VKRkozRVBVd3RDM3k2TDF0ZklUWWFzdW5pQThJSkJxbFlyUTFDYnQ5eV9xakVHUHNwMnEzaXo2bDZyVmw2REhOTVMxVElvUU5BSFdOeVZoWnpKMnhMZXN4ZElVSWw5SzFGYjlRaEZQTVhwYWRyMVA3WXBLNWMwOXAzLWNFd0hMM09IeE9lZGg2eHUxelZxY0s4V2lNUElmblpLZ3JMTlJ1bUp5NmtKT3NwdDNXQkU1a9IBywFBVV95cUxPOFhTblg3RFJqWUJRRFZxSzNUN0VKRkozRVBVd3RDM3k2TDF0ZklUWWFzdW5pQThJSkJxbFlyUTFDYnQ5eV9xakVHUHNwMnEzaXo2bDZyVmw2REhOTVMxVElvUU5BSFdOeVZoWnpKMnhMZXN4ZElVSWw5SzFGYjlRaEZQTVhwYWRyMVA3WXBLNWMwOXAzLWNFd0hMM09IeE9lZGg2eHUxelZxY0s4V2lNUElmblpLZ3JMTlJ1bUp5NmtKT3NwdDNXQkU1aw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWkFSXzM0Q3NrOHJSR2FVSDJtQTlWaE9RZFNNanpLMkUwM2hubUY3ZDdQNzg1Nkg4S2thZ0hwRkQ5c3d1aUkzQm9heks2bDBWdVQwUmd6Nk1SVGJab29ob2U4RUhaZkFYSUVfdE05SFhLeWVubmlwbkpDOWNOX0F3VHRpZ09rb1p2eUZ1YnV2Q2NWZE1vaUZYMWUyaU1tU1NTWHJVckRTb01Nb2ViVkJYVFZJNWNEVUhiSk4xdNIBywFBVV95cUxPOFhTblg3RFJqWUJRRFZxSzNUN0VKRkozRVBVd3RDM3k2TDF0ZklUWWFzdW5pQThJSkJxbFlyUTFDYnQ5eV9xakVHUHNwMnEzaXo2bDZyVmw2REhOTVMxVElvUU5BSFdOeVZoWnpKMnhMZXN4ZElVSWw5SzFGYjlRaEZQTVhwYWRyMVA3WXBLNWMwOXAzLWNFd0hMM09IeE9lZGg2eHUxelZxY0s4V2lNUElmblpLZ3JMTlJ1bUp5NmtKT3NwdDNXQkU1aw?oc=5"
     },
     {
      "titulo": "William Batista relata relação com Diniz antes do Corinthians: \"Meu Atibaia copiava ele\"",
@@ -1067,7 +1066,7 @@
     {
      "titulo": "William Batista, do sub-20 do Corinthians, se interessou por ser técnico jogando Brasfoot",
      "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMGRHZVYwWVdjaHIzR2tBN1NxUGp3dnE0NklwM09aWTZsRTNTTHRiWEdHRElfQ2N0X2RzLTBYaUNRaHg2a0UxbmZZZno4RHM1N3VPeks4VkEzWnRfaVBObDBvYkhZcDl1ZlRPZWthMkY3X2NPRGtxRmZNa29EbHJ5RXo2dE1SanYwQ3NfNUthOVBwYUQ1RXNjMjN6b2VTUi1QMFR6OERZTTVPa0ZNdnlzZUxCN2JGMkNDclA1Zm9QM01URU5ZX2VQeHRfN3ZHUFlZUzU4QlB3Y9IB1wFBVV95cUxPMGRHZVYwWVdjaHIzR2tBN1NxUGp3dnE0NklwM09aWTZsRTNTTHRiWEdHRElfQ2N0X2RzLTBYaUNRaHg2a0UxbmZZZno4RHM1N3VPeks4VkEzWnRfaVBObDBvYkhZcDl1ZlRPZWthMkY3X2NPRGtxRmZNa29EbHJ5RXo2dE1SanYwQ3NfNUthOVBwYUQ1RXNjMjN6b2VTUi1QMFR6OERZTTVPa0ZNdnlzZUxCN2JGMkNDclA1Zm9QM01URU5ZX2VQeHRfN3ZHUFlZUzU4QlB3Yw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNWFXQ05rTG5MeUpUVHFkOTg3bzY5TmZzXzhCZEZTT2poYlNDMUtlTklpTjJMcElHZEJEc0NNZ3BWRWFwVDZ4QURPTHBGeDJneVJoV2x2NmM1VUNnVFA1dTZ3S0NXUTBqaU1qYlNDUDVDVkxjNjJ6UUdiZVNHRENfWUVHZUwyYzYyTDdtd3d0UEUxaVFiX2dmMXFXUml3Y2d6NGtMYXRtbmU1S1NJZFg5Ym1NNHotZjRFMnMyLUhNR1c1V2J0MzFNQdIB1wFBVV95cUxPMGRHZVYwWVdjaHIzR2tBN1NxUGp3dnE0NklwM09aWTZsRTNTTHRiWEdHRElfQ2N0X2RzLTBYaUNRaHg2a0UxbmZZZno4RHM1N3VPeks4VkEzWnRfaVBObDBvYkhZcDl1ZlRPZWthMkY3X2NPRGtxRmZNa29EbHJ5RXo2dE1SanYwQ3NfNUthOVBwYUQ1RXNjMjN6b2VTUi1QMFR6OERZTTVPa0ZNdnlzZUxCN2JGMkNDclA1Zm9QM01URU5ZX2VQeHRfN3ZHUFlZUzU4QlB3Yw?oc=5"
     },
     {
      "titulo": "William Batista, do sub-20 do Corinthians, conta como e por que decidiu virar treinador",
@@ -1113,66 +1112,13 @@
     },
     {
      "titulo": "Corinthians tem déficit de R$ 278 mi no ano mesmo com receita acima da meta",
-     "fonte": "UOL",
+     "fonte": "uol.com.br",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV25abVJJbG43MXBvUkd5cEZaZ3J1cHd5ZU8yRlRrNkZLTkNubFRuM2Z2b1BySjlJQjVfUF9Oek1qMzRsN1liemd5Wk1LNVZ6VFZLQmRQWlc2dzZPOUdwcHNUbzA5bXJabV9lMm50dktZbmZycnBCVVB4TklCaTdQajJKVHY4ZE5xWDRKcm5uMS1TdlBYWENWTXBXNm45eExVUmlWc01kUms0ck0yWlR6THdmOC1vZXRhSktTQjBkeUNJT1NFM3ZqSTRtSWJCUzEwNlZQSjRERDh0Y2pfYllZ?oc=5"
     },
     {
      "titulo": "Corinthians amplia déficit e chega a R$ 278 milhões no ano",
      "fonte": "R7 Esportes",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNlRnV0NQU3RnVzlDMmpuMXNtRDhoZWZzbzM4VDFFaWdrTTNTN0p3Rm5SUEU2WGU0SVdUWnRVZzVhSW91UmxCbHlOZVJmM1BqQUIwR0N0czVPY21MbGNOSnR5VzVvU040WUdIeldPenBneWJGdzdlMG9KTWZKUjZxTkdBVU5qN3Q2QTdlYUUzY2hsMVhKYV9FMXpkeUlQM0oyN3ZJ?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Palmeiras Online. . 🚫 Palmeiras não deve usar linha de crédito do governo! Nossa @dudacabreira traz informações sobre a postura do Palmeiras em relação ao programa que visa reduzir o impacto do fim das bets nos clubes de futebol.",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Palmeiras",
-    "Vasco"
-   ],
-   "foco": true,
-   "nota": 49.3,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 67,
-    "midia": 46,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 4,
-   "assinatura": "traz|nossa|palme|usar",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Todo mundo está falando disso. E você, concorda?",
-    "titulo_thumb": "PALMEIRAS: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Palmeiras Online. . 🚫 Palmeiras não deve usar linha de crédito do governo! Nossa @dudacabr?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Palmeiras Online. . 🏟 São Januário nos traz boas lembranças! Nossa @macamillo_g fala sobre a vez em que o Palmeiras eliminou o Vasco em pleno São Januário, pela Libertadores de 1999.",
-     "fonte": "facebook.com",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQLXVWU2VjbnVJRDRxeERPaG1UQUVyRDJyQXVRSGFzVzQ4R3dCQWhkbUFNNXgtb3ZCN3A3QWtSZ2lqTmtrTU5sdHhyRFJKdi1BS3NlNlBlVzRHME5qbjI4LVVOY1dCVzIzRDkyNXlJUTZ5OF9VcXhTNkhiWVFPcS1fRGozR0p6Z1VtTmloV19Ma29QNC1XbFg1UlNBNGhmeDN3eVRVTURWZ3hMVVZMbm9DUDA4STdBOGw0MjJCRnhZU1VkREh2Nzg3RjBXa3pJUzFaNW9Td3I1dzU2Y19laVZfZkowSGdkSU8xbVF3ZVllNTF5SVU?oc=5"
-    },
-    {
-     "titulo": "🏟 São Januário nos traz boas lembranças! Nossa @macamillo_g fala sobre a vez em que o Palmeiras eliminou o Vasco em pleno São Januário, pela Libertadores de 1999. #palmeiras #palmeirasonline",
-     "fonte": "instagram.com",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tMWJ3MkdxV1Z1c0txNHg0RFlpTF9pUlNGRV9iZFJWTnNvTGtfVWxEQk9Od3hxQURxUWt2MzJXUDVKZURWYmU4amF3d0VTS2xXT3l3TlpR?oc=5"
-    },
-    {
-     "titulo": "Palmeiras Online. . 🚫 Palmeiras não deve usar linha de crédito do governo! Nossa @dudacabreira traz informações sobre a postura do Palmeiras em relação ao programa que visa reduzir o impacto do fim das bets nos clubes de futebol.",
-     "fonte": "facebook.com",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVXVMMmtsaFdHbWUxZFdhYnE2TEh1RHVPTDVHOGhXbGhJTWN6aWxpV1Q0MldkWWxEdG1fcjRkaDFmSkNjN2VyWHpNa29ONEhyOFVoVm1kb29TUm9MNnVNd2JNYW81ZVQ5ckZla3dLcHdLLUdqbHVLSWREX3RKelpfNVV5cUFScFd3TTJRS0ZXenlZeXJTMVh5ZENENzVwT0pJMk1mUEVyVVExUzRVU1VXc2ZfUWFCY0NINEw0NUJoLXlRZmwwTVVUV1oxWWZJdS1NWjRqSVVNeVk0bUs1aGswanNKQk1KXzE4dWtwNw?oc=5"
-    },
-    {
-     "titulo": "🚫 Palmeiras não deve usar linha de crédito do governo! Nossa @dudacabreira traz informações sobre a postura do Palmeiras em relação ao programa que visa reduzir o impacto do fim das bets nos clubes de futebol. #palmeiras #palmeirasonline",
-     "fonte": "instagram.com",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mS05UOGMxVVdmVWFLaVBZMUxBSlVLMGN6SXpqZG9MVFh2dnhFdFJnOUV1ZGVpSXY0ZVY0QUNZUGp5djM1NTdvV2JyMWZfdVVGQXI4YWl3?oc=5"
     }
    ]
   }
