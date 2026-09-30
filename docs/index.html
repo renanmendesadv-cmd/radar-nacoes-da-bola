@@ -477,7 +477,7 @@ aside{display:flex;flex-direction:column;gap:16px}
           v.fica_30s === null ? "—" : v.fica_30s + "%", v.metade_sai_em || "não chega",
           v.maior_queda ? v.maior_queda.de + "–" + v.maior_queda.ate + " (−" + v.maior_queda.pontos + " pts)" : "—"]; }))], true));
     g.appendChild(caixa("De onde vem o público", null, [tabela(["Origem", "Views"], r.trafego.map(function(t){ return [t.origem, barra(t.pct)]; }))]));
-    g.appendChild(caixa("Melhor dia e horário", "Mediana das views em 7 dias por dia e faixa de publicação (mínimo de 2 vídeos).",
+    g.appendChild(caixa("Melhor dia e horário", "Mediana das views em 7 dias por dia e faixa de publicação (mínimo de 3 vídeos).",
       [tabela(["Quando", "Vídeos", "Views em 7 dias", "vs. canal"], r.melhores_dias.concat(r.melhores_horarios).map(function(d){
         return [d.quando, d.n_videos, num(d.mediana_v7), x(d.indice)]; }))]));
     g.appendChild(caixa("Vídeos que trouxeram inscritos", null, [tabela(["Vídeo", "Inscritos"], r.videos_inscritos.map(function(v){

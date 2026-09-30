@@ -249,7 +249,9 @@ def analisar_retencao(pontos: list[dict], duracao_s: int) -> dict | None:
                if curva[i][0] >= abertura and curva[i][0] < 0.9 and curva[i + 1][0] > curva[i][0]]
     maior = max(trechos, key=lambda t: t[0] / (t[2] - t[1]), default=(0, 0, 0))
     return {
-        "fica_30s": round(100 * em(30)) if duracao_s > 60 else None,
+        # O YouTube mede a curva a cada ~1% do vídeo: numa live de 2 h isso dá 1 min e pouco,
+        # e "quanto fica após 30 s" não pode ser medido com essa precisão.
+        "fica_30s": round(100 * em(30)) if duracao_s > 60 and pts[0][0] * duracao_s <= 30 else None,
         "metade_sai_em": _mmss(metade * duracao_s) if metade is not None else None,
         "metade_sai_pct": round(100 * metade) if metade is not None else None,
         "maior_queda": {"de": _mmss(maior[1] * duracao_s), "ate": _mmss(maior[2] * duracao_s),
@@ -364,7 +366,7 @@ def analisar(bruto: dict, fatores_anteriores: dict | None = None, gerado_em: str
             g[chave_fn(v)].append(v["v7"])
         linhas = [{"quando": nomes_fn(k), "n_videos": len(x), "mediana_v7": round(_mediana(x)),
                    "indice": round(_mediana(x) / mediana_geral, 2) if mediana_geral else None}
-                  for k, x in g.items() if len(x) >= 2]
+                  for k, x in g.items() if len(x) >= C.RAIOX_MIN_VIDEOS_CATEGORIA]
         return sorted(linhas, key=lambda r: -(r["indice"] or 0))
     faixa = lambda h: next(n for a, b, n in FAIXAS if a <= h < b)  # noqa: E731
     dias = melhor(lambda v: v["dia_semana"], lambda k: DIAS[k])
@@ -426,9 +428,10 @@ def recomendacoes(rel: dict) -> list[str]:
         busca = next((x for x in rel["trafego"] if x["origem"] == "Busca do YouTube"), None)
         if busca and busca["pct"] >= 15:
             r.append("A busca pesa bastante: use no título os termos que o torcedor pesquisa (veja o radar diário).")
-    if rel["melhores_dias"]:
+    if rel["melhores_dias"] and (rel["melhores_dias"][0]["indice"] or 0) >= 1.2:
         d = rel["melhores_dias"][0]
-        h = rel["melhores_horarios"][0]["quando"] if rel["melhores_horarios"] else None
+        h = (rel["melhores_horarios"][0]["quando"]
+             if rel["melhores_horarios"] and (rel["melhores_horarios"][0]["indice"] or 0) >= 1.2 else None)
         r.append(f"Melhor momento para publicar: {d['quando']}" + (f", {h}" if h else "") +
                  " (mediana de views nos 7 primeiros dias).")
     return list(r)
