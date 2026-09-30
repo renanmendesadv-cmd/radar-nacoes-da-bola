@@ -220,6 +220,10 @@ def montar_email_raiox(rel: dict, painel_url: str | None) -> tuple[str, str, str
         status = ("O canal cumpre os requisitos do Programa de Parcerias." if el["cumpre"] else
                   f"Requisitos do Programa de Parcerias: {el['inscritos']:,} de {el['meta_inscritos']:,} inscritos e "
                   f"~{el['horas_12m']:,} de {el['meta_horas']:,} horas assistidas em 12 meses.".replace(",", "."))
+        if not el["cumpre"]:
+            status += (f" No ritmo atual o canal soma cerca de {el.get('horas_mes_ritmo', 0):,} h por mês; para chegar e ficar nas "
+                       f"{el['meta_horas']:,} h precisa de uns {el.get('horas_mes_necessarias', 0):,} h por mês. "
+                       "O valor abaixo é o que o canal receberia se já estivesse monetizado.").replace(",", ".")
         partes.append(f'<h2 {h2}>Estimativa de monetização (próximos 30 dias)</h2>'
                       f'<p {txt}><b>{rs(e["pessimista"])} a {rs(e["otimista"])}</b> (provável: <b>{rs(e["provavel"])}</b>), '
                       f'com cerca de {_n(sum(m["previsao_views_30d"].values()))} views previstas '

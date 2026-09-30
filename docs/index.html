@@ -642,6 +642,8 @@ aside{display:flex;flex-direction:column;gap:16px}
     })));
 
     var g = el("div", {cls:"dz"});
+    if (!m.elegibilidade.cumpre) g.appendChild(el("div", {cls:"demo larga", style:"grid-column:1/-1", text:
+      "Pelos números do Analytics, o canal ainda não cumpre os requisitos do Programa de Parcerias. Por isso, este valor é o que o canal receberia SE já estivesse monetizado. Veja abaixo quanto falta."}));
     g.appendChild(caixa("Estimativa para os próximos 30 dias", null, [total, faixa, tabelaBox], true));
     g.appendChild(caixa("Ajuste a conta", "Troque o RPM pelo valor real do canal: YouTube Studio > Receita > RPM. Os valores ficam salvos neste navegador.",
       [cenarios, entradas], true));
@@ -654,6 +656,9 @@ aside{display:flex;flex-direction:column;gap:16px}
     g.appendChild(caixa("Programa de Parcerias do YouTube", el_.cumpre ? "Pelos números do Analytics, o canal cumpre os requisitos de monetização por anúncios." :
       "Para receber dos anúncios, o canal precisa estar no Programa de Parcerias. Estes são os requisitos (a confirmação oficial fica no YouTube Studio > Ganhar dinheiro).",
       [meta("Inscritos", el_.inscritos, el_.meta_inscritos), meta("Horas assistidas em 12 meses (sem Shorts, aproximado)", el_.horas_12m, el_.meta_horas)]
+        .concat(el_.horas_mes_ritmo !== undefined ? [el("span", {cls:"aviso", text:"Ritmo atual: cerca de " + num(el_.horas_mes_ritmo) +
+          " h assistidas por mês. Para chegar e ficar nas " + num(el_.meta_horas) + " h (a conta é sempre dos últimos 12 meses), o canal precisa de uns " +
+          num(el_.horas_mes_necessarias) + " h por mês" + (el_.horas_mes_ritmo >= el_.horas_mes_necessarias ? " (ritmo suficiente)." : ". Lives longas e vídeos longos contam; Shorts não.")})] : [])
         .concat(el_.shorts_90d !== null ? [el("span", {cls:"aviso", text:"Ou: " + num(el_.shorts_90d) + " de " + num(el_.meta_shorts) + " views de Shorts em 90 dias."})] : [])));
     if ((m.serie_diaria || []).length){
       var mx = Math.max.apply(null, m.serie_diaria.map(function(d){ return d.views; })) || 1;

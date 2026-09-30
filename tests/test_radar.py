@@ -395,7 +395,7 @@ def _video(i, views, horas, likes, dur=600, titulo=None, live=False):
 def test_alertas_de_tendencia(tmp_path):
     from radar import tendencias
     comum = [{"tema": f"Pauta comum {k}", "clubes": ["Palmeiras"], "ja_coberto": None, "sinais": {"aderencia": 100},
-              "manchetes": [], "youtube": {"amostra": [_video(100 + 10 * k + j, 2000, 40, 60) for j in range(5)]}}
+              "manchetes": [], "youtube": {"amostra": [_video(100 + 10 * k + j, 2000, 40, 60) for j in range(8)]}}
              for k in range(3)]
     quente = {"tema": "Arrascaeta sofre fratura e desfalca o Flamengo", "clubes": ["Flamengo"], "ja_coberto": None,
               "sinais": {"aderencia": 100}, "manchetes": [{"titulo": "Arrascaeta sofre fratura e desfalca o Flamengo"}],
@@ -426,3 +426,13 @@ def test_monetizacao_estimada(tmp_path):
     assert el["horas_12m"] == 5500 and el["cumpre"] is True  # (150.000 + 180.000) min / 60
     html = (tmp_path / "data" / "ultimo-raiox.html").read_text("utf-8")
     assert "Estimativa de monetização" in html
+
+
+def test_linha_de_base_exige_amostra(tmp_path):
+    from radar import tendencias
+    poucos = [{"tema": "X", "clubes": ["Flamengo"], "ja_coberto": None, "sinais": {"aderencia": 100}, "manchetes": [],
+               "youtube": {"amostra": [_video(1, 300000, 5, 18000)]}}]
+    # Com 1 vídeo não há linha de base, e a lista "Em alta" não entra nela.
+    em_alta = [_video(9, 900000, 2, 50000, titulo="Flamengo vence clássico com golaço") for _ in range(30)]
+    assert tendencias.detectar(poucos, em_alta, AGORA, tmp_path / "b.json", {}) == []
+    assert json.loads((tmp_path / "b.json").read_text("utf-8")) == {}

@@ -476,12 +476,17 @@ def monetizacao(bruto: dict, rel: dict) -> dict:
         horas = sum(float(f["estimatedMinutesWatched"]) for f in bruto.get("ano_total") or []) / 60
         shorts90 = None
     inscritos = rel["canal"].get("inscritos", 0)
+    # Ritmo de horas: a janela de 12 meses é móvel; para chegar a 4.000 h e ficar, o canal precisa
+    # manter cerca de 333 h por mês (Shorts não contam).
+    min28 = sum(float(f.get("minutos") or 0) for f in rel["formatos"] if f["formato"] != "Shorts")
+    ritmo = round(min28 / 60 / 28 * 30)
     return {
         "views_28d": round(total28), "media_diaria": round(total28 / 28), "tendencia_pct": round(100 * tend, 1),
         "previsao_views_30d": previsao, "rpm_referencia": C.RPM_REFERENCIA, "estimativa_rs": cenarios,
         "serie_diaria": [{"dia": d["day"], "views": int(float(d["views"]))} for d in dias],
         "elegibilidade": {"inscritos": inscritos, "horas_12m": round(horas), "shorts_90d": round(shorts90) if shorts90 is not None else None,
                           "meta_inscritos": C.YPP_INSCRITOS, "meta_horas": C.YPP_HORAS_12M, "meta_shorts": C.YPP_SHORTS_90D,
+                          "horas_mes_ritmo": ritmo, "horas_mes_necessarias": round(C.YPP_HORAS_12M / 12),
                           "cumpre": inscritos >= C.YPP_INSCRITOS and (horas >= C.YPP_HORAS_12M or (shorts90 or 0) >= C.YPP_SHORTS_90D)},
     }
 

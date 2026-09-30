@@ -71,18 +71,24 @@ def _mediana(xs):
     return statistics.median(xs) if xs else None
 
 
+BASE_MIN_VIDEOS = 20  # um dia só entra na linha de base com amostra suficiente
+
+
 def atualizar_base(amostra: list[dict], agora: datetime, caminho: Path) -> dict:
-    """Guarda a mediana do dia e devolve a linha de base (mediana dos últimos 14 dias)."""
+    """Guarda a mediana do dia e devolve a linha de base (mediana dos últimos 14 dias).
+
+    A amostra vem só dos vídeos das pautas (futebol em geral). A lista "Em alta" fica de fora:
+    ela já é o topo do YouTube e puxaria a média para cima, escondendo as tendências."""
     try:
         hist = json.loads(caminho.read_text("utf-8")) if caminho.exists() else {}
     except ValueError:
         hist = {}
     hoje = agora.date().isoformat()
-    if amostra:
+    if len(amostra) >= BASE_MIN_VIDEOS:
         hist[hoje] = {"vph": _mediana([v["vph"] for v in amostra]), "eng": _mediana([v["eng"] for v in amostra]),
                       "n": len(amostra)}
     limite = (agora.date() - timedelta(days=14)).isoformat()
-    hist = {d: x for d, x in hist.items() if d >= limite}
+    hist = {d: x for d, x in hist.items() if d >= limite and x.get("n", 0) >= BASE_MIN_VIDEOS}
     caminho.parent.mkdir(parents=True, exist_ok=True)
     caminho.write_text(json.dumps(hist, ensure_ascii=False, indent=1), "utf-8")
     return {"vph": _mediana([x["vph"] for x in hist.values()]), "eng": _mediana([x["eng"] for x in hist.values()]),
@@ -115,7 +121,7 @@ def detectar(temas: list[dict], em_alta: list[dict], agora: datetime, base_path:
             grupos.append({"tema": t["tema"], "clubes": t.get("clubes", []), "ja_coberto": t.get("ja_coberto"),
                            "sinergia": t.get("sinais", {}).get("aderencia", 0) >= 60, "videos": vs,
                            "toks": set().union(*(tokens(m["titulo"]) for m in t.get("manchetes", [])[:5]) or [set()])})
-    alta = [metricas(v, agora) for v in em_alta if _horas(v.get("publicado"), agora) <= 72]
+    alta = [dict(metricas(v, agora), fonte="em_alta") for v in em_alta if _horas(v.get("publicado"), agora) <= 72]
     alta = [v for v in alta if sinergia(v["titulo"] + " " + v.get("descricao", "")[:120])]
     for v in alta:
         # Vídeo em alta sobre uma pauta do dia entra no grupo dela; senão vira um assunto próprio.
@@ -128,9 +134,10 @@ def detectar(temas: list[dict], em_alta: list[dict], agora: datetime, base_path:
             e = sinergia(v["titulo"] + " " + v.get("descricao", "")[:120])
             grupos.append({"tema": v["titulo"], "clubes": e["foco"] + e["br"], "ja_coberto": None, "sinergia": True,
                            "videos": [v], "toks": vt, "so_em_alta": True})
-    amostra = [v for g in grupos for v in g["videos"]]
+    amostra = [v for g in grupos if not g.get("so_em_alta") for v in g["videos"] if v.get("fonte") != "em_alta"]
     base = atualizar_base(amostra, agora, base_path)
     if not base["vph"]:
+        log.info("Tendências: linha de base ainda em formação (%d vídeos hoje; mínimo %d).", len(amostra), BASE_MIN_VIDEOS)
         return []
 
     # 2. Assuntos acima da média.
