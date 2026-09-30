@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-30T03:51:49.396162+00:00",
+ "gerado_em": "2026-09-30T04:06:26.282843+00:00",
  "canal": {
   "id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
   "nome": "NAÇÕES DA BOLA o canal de todas as torcidas",
@@ -431,6 +431,9 @@
   "Seleção": 1.0,
   "Jogo e resultado": 1.056
  },
+ "alcance": {
+  "erro": "ative a \"YouTube Reporting API\" no projeto do Google Cloud (README, seção Raio-X)"
+ },
  "monetizacao": {
   "views_28d": 15411,
   "media_diaria": 550,
@@ -585,8 +588,10 @@
    "meta_shorts": 10000000,
    "horas_mes_ritmo": 174,
    "horas_mes_necessarias": 333,
-   "cumpre": false
-  }
+   "monetizado": true,
+   "cumpre": true
+  },
+  "tem_receita_real": false
  },
  "recomendacoes": [
   "Quem mais traz inscritos: Lives (14 nas últimas 4 semanas).",
