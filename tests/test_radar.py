@@ -8,7 +8,7 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(RAIZ))
 
-from radar import collect, score  # noqa: E402
+from radar import agenda, collect, score  # noqa: E402
 from tests import make_fixtures  # noqa: E402
 
 make_fixtures.gerar()
@@ -124,3 +124,44 @@ def test_outros_esportes_e_termos():
                                                    {"titulo": "Solange Gomes posta foto"}]}
     assert not score.termo_de_futebol(celeb)
     assert score.termo_de_futebol({"termo": "flamengo x palmeiras", "noticias": []})
+
+
+def test_horario_reserva_nao_repete(tmp_path):
+    base = dict(os.environ, FIXTURES_DIR=str(F), AGORA=AGORA.isoformat(), OUT_DIR=str(tmp_path),
+                GITHUB_EVENT_NAME="schedule", EMAIL_TO="", SMTP_USER="", SMTP_PASS="")
+    r1 = subprocess.run([sys.executable, "-m", "radar.main"], cwd=RAIZ, env=base, capture_output=True, text=True)
+    assert r1.returncode == 0, r1.stderr
+    estado = json.loads((tmp_path / "data" / "estado.json").read_text("utf-8"))
+    assert estado["ultima_agendada"] == "2026-09-24"
+    r2 = subprocess.run([sys.executable, "-m", "radar.main"], cwd=RAIZ, env=base, capture_output=True, text=True)
+    assert r2.returncode == 0 and "horário reserva" in r2.stderr
+    manual = dict(base, GITHUB_EVENT_NAME="workflow_dispatch")
+    r3 = subprocess.run([sys.executable, "-m", "radar.main"], cwd=RAIZ, env=manual, capture_output=True, text=True)
+    assert r3.returncode == 0 and "temas pontuados" in r3.stderr
+
+
+def test_selecao_so_brasil():
+    assert not score.entidades("Cabo Verde x Ruanda: arbitragem polêmica nas Eliminatórias")["selecao"]
+    assert score.entidades("Seleção Brasileira enfrenta a Austrália")["selecao"]
+    assert score.entidades("Seleção de Ancelotti: Brasil treina no Rio")["selecao"]
+    ent = {"foco": [], "br": [], "selecao": False, "comp_br": False, "intl": ["x"]}
+    assert score.nota_aderencia(ent, "Arbitragem e VAR") <= 0.4
+
+
+def test_agenda_e_buscas_ponta_a_ponta(tmp_path):
+    env = dict(os.environ, FIXTURES_DIR=str(F), AGORA=AGORA.isoformat(), DRY_RUN="1", OUT_DIR=str(tmp_path))
+    r = subprocess.run([sys.executable, "-m", "radar.main"], cwd=RAIZ, env=env, capture_output=True, text=True)
+    assert r.returncode == 0, r.stderr
+    d = json.loads((tmp_path / "docs" / "data.json").read_text("utf-8"))
+    ag = d["agenda"]
+    assert [e["id"] for e in ag["resultados"]] == ["1"]            # vitória de ontem
+    assert "venceu" in ag["resultados"][0]["gancho"]
+    assert [e["id"] for e in ag["proximos"]] == ["2"]               # só o jogo dentro de 7 dias
+    assert ag["proximos"][0]["liga"] == "Libertadores"
+    assert ag["na_midia"] == []  # Palmeiras x Estudiantes já veio da ESPN: não repete
+    assert agenda.jogos_na_midia(["Palmeiras x Estudiantes: onde assistir", "Palmeiras x Estudiantes: escalações"])
+    spfc = next(t for t in d["temas"] if "São Paulo" in t["clubes"])
+    assert spfc["sinais"]["busca"] > 0 and "lesão" in spfc["busca_torcedor"]
+    assert d["buscas_torcedor"]["flamengo"] == ["flamengo meia europeu", "flamengo x bahia"]
+    html = (tmp_path / "data" / "ultimo-email.html").read_text("utf-8")
+    assert "Estudiantes" in html

@@ -35,6 +35,8 @@ NEWS = {
         ("VAR: Palmeiras pede áudio da arbitragem após pênalti não marcado", "Portal C", 2),
         ("Pênalti não marcado revolta Palmeiras; clube critica arbitragem", "Portal E", 5),
         ("Arbitragem: comissão da CBF analisa pênalti não marcado contra o Palmeiras", "Portal F", 1),
+        ("Palmeiras x Estudiantes: onde assistir e horário", "Portal B", 7),
+        ("Palmeiras x Estudiantes: escalações do jogo da Libertadores", "Portal G", 8),
     ],
     "Brasileirão": [
         ("Brasileirão: tabela esquenta na briga pelo título na reta final", "Portal B", 30),
@@ -55,6 +57,24 @@ TRENDS = [
 
 CANAL = [("AO VIVO: São Paulo FC x rival, pré-jogo e desfalque por lesão", 20),
          ("Live de debate da rodada do Brasileirão", 44)]
+
+
+AGENDA = [
+    {"id": "1", "data": "2026-09-23T23:00Z", "liga": "Brazilian Serie A", "casa": "Flamengo", "fora": "Bahia",
+     "placar_casa": 2, "placar_fora": 1, "estado": "post", "clube": "Flamengo"},
+    {"id": "2", "data": "2026-09-25T22:00Z", "liga": "CONMEBOL Libertadores", "casa": "Palmeiras",
+     "fora": "Estudiantes", "placar_casa": None, "placar_fora": None, "estado": "pre", "clube": "Palmeiras"},
+    {"id": "3", "data": "2026-08-10T22:00Z", "liga": "CONMEBOL Libertadores", "casa": "Corinthians",
+     "fora": "Antigo", "placar_casa": None, "placar_fora": None, "estado": "pre", "clube": "Corinthians"},
+    {"id": "4", "data": "2026-10-20T22:00Z", "liga": "Brazilian Serie A", "casa": "Santos",
+     "fora": "Corinthians", "placar_casa": None, "placar_fora": None, "estado": "pre", "clube": "Corinthians"},
+]
+
+SUGESTOES = {
+    "flamengo": ["flamengo x", "flamengo hoje", "flamengo meia europeu", "flamengo x bahia"],
+    "são paulo fc": ["são paulo fc lesão titular", "são paulo fc hoje"],
+    "palmeiras": ["palmeiras x estudiantes", "palmeiras hoje"],
+}
 
 
 def _item(titulo, fonte, horas):
@@ -79,6 +99,9 @@ def gerar():
     (PASTA / "trends.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:ht="https://trends.google.com/trending/rss">'
         f'<channel>{"".join(itens)}</channel></rss>', "utf-8")
+    import json
+    (PASTA / "agenda.json").write_text(json.dumps(AGENDA), "utf-8")
+    (PASTA / "sugestoes.json").write_text(json.dumps(SUGESTOES, ensure_ascii=False), "utf-8")
     entries = "".join(
         f"<entry><title>{escape(t)}</title><link rel=\"alternate\" href=\"https://www.youtube.com/@nacoesdabola\"/>"
         f"<published>{(AGORA - timedelta(hours=h)).isoformat()}</published></entry>" for t, h in CANAL)

@@ -44,6 +44,9 @@ def montar_email(dados: dict, top: int, painel_url: str | None) -> tuple[str, st
                        f'{_e(t["ja_coberto"]["titulo"])}</a>. Busque um ângulo novo.</p>')
         busca = (f' · buscas no Google: {t["trafego_google"]:,}+'.replace(",", ".")
                  if t["trafego_google"] else "")
+        if t.get("busca_torcedor"):
+            busca += f' · torcedor pesquisando “{_e(t["busca_torcedor"])}”'
+
         blocos.append(f"""
 <tr><td style="padding:0 0 14px">
  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#fff;border:1px solid #DDE3DE;border-radius:8px">
@@ -63,6 +66,35 @@ def montar_email(dados: dict, top: int, painel_url: str | None) -> tuple[str, st
  </table>
 </td></tr>""")
 
+    ag = dados.get("agenda") or {}
+    linhas_jogo = []
+    for e in (ag.get("resultados") or [])[:3]:
+        linhas_jogo.append(
+            f'<li style="margin:0 0 8px"><b>Pós-jogo · {_e(e["casa"])} {e["placar_casa"]} x {e["placar_fora"]} {_e(e["fora"])}</b>'
+            f'<br>“{_e(e["gancho"])}” <span style="color:{CINZA}">({_e(e["formato"])})</span></li>')
+    for e in (ag.get("proximos") or [])[:3]:
+        quando = "hoje" if e.get("em_horas", 99) < 20 else ("amanhã" if e.get("em_horas", 99) < 44 else f'em {round(e["em_horas"] / 24)} dias')
+        linhas_jogo.append(
+            f'<li style="margin:0 0 8px"><b>Pré-jogo · {_e(e["casa"])} x {_e(e["fora"])} ({quando})</b>'
+            f'<br>“{_e(e["gancho"])}” <span style="color:{CINZA}">({_e(e["formato"])})</span></li>')
+    for j in (ag.get("na_midia") or [])[:3]:
+        linhas_jogo.append(f'<li style="margin:0 0 8px"><b>Em pauta na mídia · {_e(j["jogo"])}</b>'
+                           f' <span style="color:{CINZA}">({j["manchetes"]} manchetes)</span></li>')
+    bloco_jogos = ""
+    if linhas_jogo:
+        bloco_jogos = (f'<tr><td style="padding:4px 0 14px"><h2 style="margin:0 0 8px;font:700 18px Arial,sans-serif;color:{TINTA}">'
+                       f'Jogos que rendem conteúdo</h2><ul style="margin:0;padding-left:18px;font:14px/1.45 Arial,sans-serif;color:{TINTA}">'
+                       f'{"".join(linhas_jogo)}</ul></td></tr>')
+    buscas_txt = []
+    for semente, lista in (dados.get("buscas_torcedor") or {}).items():
+        if lista:
+            buscas_txt.append(f"<b>{_e(semente)}</b>: " + ", ".join(_e(x) for x in lista[:3]))
+    bloco_buscas = ""
+    if buscas_txt:
+        bloco_buscas = (f'<tr><td style="padding:0 0 14px;font:14px/1.5 Arial,sans-serif;color:{TINTA}">'
+                        f'<h2 style="margin:0 0 6px;font:700 18px Arial,sans-serif">O torcedor está pesquisando</h2>'
+                        f'{"<br>".join(buscas_txt)}</td></tr>')
+
     termos = ", ".join(_e(t) for t in dados.get("termos_futebol", [])[:8]) or "nenhum termo de futebol no topo hoje"
     link_painel = (f'<p style="margin:0 0 18px"><a href="{_e(painel_url)}" style="display:inline-block;background:{VERDE};'
                    f'color:#fff;text-decoration:none;font:700 14px Arial,sans-serif;padding:10px 16px;border-radius:6px">'
@@ -78,6 +110,8 @@ def montar_email(dados: dict, top: int, painel_url: str | None) -> tuple[str, st
  {link_painel}
 </td></tr>
 {''.join(blocos)}
+{bloco_jogos}
+{bloco_buscas}
 <tr><td style="padding:6px 0 0;font:13px/1.5 Arial,sans-serif;color:{CINZA}">
  <p style="margin:0 0 6px"><b>Em alta no Google agora (futebol):</b> {termos}</p>
  <p style="margin:0">Fontes consultadas: {_e(', '.join(f'{k}: {v}' for k, v in dados['status'].items()))}. Enviado automaticamente pelo radar.</p>

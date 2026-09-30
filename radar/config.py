@@ -41,8 +41,11 @@ COMPETICOES_BR = ["brasileirao", "serie a", "serie b", "libertadores", "copa do 
                   "sul-americana", "paulistao", "carioca"]
 
 # Seleção e futebol internacional.
-SELECAO = ["selecao brasileira", "selecao", "copa do mundo", "eliminatorias", "convocacao"]
+# Seleção Brasileira. "selecao" sozinho só conta se a manchete também citar "brasil"
+# (evita "Cabo Verde x Ruanda pelas Eliminatórias" virar pauta da Seleção).
+SELECAO = ["selecao brasileira", "canarinho", "amarelinha"]
 INTERNACIONAL = [
+    "copa do mundo", "eliminatorias", "data fifa",
     "champions", "premier league", "la liga", "real madrid", "barcelona", "manchester",
     "liverpool", "chelsea", "arsenal", "psg", "bayern", "juventus", "milan", "inter de milao",
     "neymar", "vinicius", "endrick", "messi", "cristiano", "mbappe", "haaland",
@@ -78,7 +81,7 @@ CATEGORIAS = {
                           "balanco", "penhora", "patrocin", "saf ", "orcamento", "fazenda nacional",
                           "profut", "credor", "calote", "faturamento"],
     "Lesão e desfalque": ["lesao", "machuc", "desfalque", "cirurgia", "departamento medico", "fora de"],
-    "Seleção": ["selecao", "convoca", "eliminatorias", "copa do mundo"],
+    "Seleção": ["selecao brasileira", "canarinho", "convocacao da selecao", "convocados"],
     "Jogo e resultado": ["vence ", "venceu", "empata", "empate", "perde", "derrota", "vitoria",
                          "goleia", "goleada", "classifica", "eliminad", "rodada", "placar", "virada"],
 }
@@ -92,3 +95,21 @@ PESOS = {"busca": 0.30, "aceleracao": 0.30, "midia": 0.20, "aderencia": 0.20}
 
 TOP_EMAIL = 5      # pautas no e-mail
 TOP_PAINEL = 15    # pautas no painel
+
+
+# ---- Agenda de jogos (ESPN, gratuita) -------------------------------------------
+ESPN_IDS = {"Flamengo": 819, "Corinthians": 874, "São Paulo": 2026, "Palmeiras": 2029}
+ESPN_LIGAS = ["bra.1", "conmebol.libertadores", "conmebol.sudamericana", "bra.copa_do_brazil"]
+
+# ---- Buscas do torcedor (autocompletar do Google) --------------------------------
+BUSCAS_TORCEDOR = ["flamengo", "corinthians", "são paulo fc", "palmeiras", "seleção brasileira",
+                   "brasileirão"]
+NOMES_POR_EXECUCAO = 8   # nomes tirados das pautas do dia para consultar
+
+# Palavras que não indicam assunto nas sugestões de busca ("flamengo jogo hoje" é genérico).
+GENERICAS_BUSCA = set("""
+jogo jogos hoje joga vivo assistir onde horario escalacao tabela classificacao noticias noticia
+ultimas agora resultado placar proximo proximos ingresso ingressos elenco site oficial loja camisa
+hino simbolo historia titulos escudo wallpaper futemax multicanais globo sofascore ontem amanha
+x e de do da das dos fc sub feminino masculino ao
+""".split())

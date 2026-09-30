@@ -107,6 +107,15 @@ aside{display:flex;flex-direction:column;gap:16px}
 .box p{margin:0;font-size:14px;color:var(--muted)}
 .pesos{display:grid;grid-template-columns:1fr auto;gap:4px 12px;font-size:14px;margin-top:8px}
 .pesos span:nth-child(even){font-variant-numeric:tabular-nums;font-weight:600}
+.principal{display:flex;flex-direction:column;gap:16px;min-width:0}
+.jogos{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:10px}
+.jogo{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;display:flex;flex-direction:column;gap:6px;font-size:14px}
+.jogo .tipo{font:700 12px var(--display);letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
+.jogo.pos .tipo{color:var(--hot)}
+.jogo .partida{font:700 18px/1.2 var(--display)}
+.jogo .quando{color:var(--muted);font-size:13px}
+.secao-t{font:700 16px var(--display);letter-spacing:.1em;text-transform:uppercase;margin:0}
+.chip.torcedor{color:var(--accent)}
 .vazio{background:var(--card);border:1px dashed var(--line);border-radius:10px;padding:24px;text-align:center;color:var(--muted)}
 @media (prefers-reduced-motion:no-preference){.trilho i{transition:width .5s ease}}
 </style>
@@ -138,8 +147,20 @@ aside{display:flex;flex-direction:column;gap:16px}
   </div>
 
   <div class="grid">
-    <ol class="lista" id="lista" aria-live="polite"></ol>
+    <div class="principal">
+      <section id="sec-jogos" hidden>
+        <h3 class="secao-t" style="margin-bottom:8px">Jogos que rendem conteúdo</h3>
+        <div class="jogos" id="jogos"></div>
+      </section>
+      <h3 class="secao-t">Pautas do dia</h3>
+      <ol class="lista" id="lista" aria-live="polite"></ol>
+    </div>
     <aside>
+      <section class="box" id="box-buscas" hidden>
+        <h3>O torcedor está pesquisando</h3>
+        <p style="margin-bottom:8px">Sugestões do buscador do Google para cada clube, sem as buscas genéricas.</p>
+        <div id="buscas"></div>
+      </section>
       <section class="box">
         <h3>Em alta no Google</h3>
         <p id="termos-vazio" hidden>Nenhum termo de futebol no topo das buscas agora.</p>
@@ -192,6 +213,7 @@ aside{display:flex;flex-direction:column;gap:16px}
     var chips = el("div", {cls:"chips"}, [el("span", {cls:"chip cat", text:t.categoria})]
       .concat((t.clubes.length ? t.clubes : ["Geral"]).map(function(c){ return el("span", {cls:"chip clube", text:c}); }))
       .concat(t.trafego_google ? [el("span", {cls:"chip busca", text:(t.trafego_google).toLocaleString("pt-BR") + "+ buscas"})] : [])
+      .concat(t.busca_torcedor ? [el("span", {cls:"chip torcedor", text:"Pesquisado: “" + t.busca_torcedor + "”"})] : [])
       .concat([el("span", {cls:"chip", text:t.n_fontes + (t.n_fontes === 1 ? " veículo" : " veículos")})]));
 
     var s = t.sugestao;
@@ -249,6 +271,49 @@ aside{display:flex;flex-direction:column;gap:16px}
     temas.forEach(function(t, i){ ol.appendChild(cartao(t, i)); });
   }
 
+  function quando(e){
+    if (e.tipo === "pós-jogo") return "Resultado recente";
+    var h = e.em_horas;
+    var dt = new Date(e.data);
+    var hora = dt.toLocaleString("pt-BR", {weekday:"short", day:"2-digit", month:"2-digit", hour:"2-digit", minute:"2-digit", timeZone:"America/Sao_Paulo"});
+    return (h < 20 ? "Hoje · " : (h < 44 ? "Amanhã · " : "")) + hora;
+  }
+  function desenharJogos(ag){
+    var box = document.getElementById("jogos");
+    box.replaceChildren();
+    var itens = (ag.resultados || []).concat(ag.proximos || []);
+    itens.forEach(function(e){
+      var placar = e.tipo === "pós-jogo" ? " " + e.placar_casa + " x " + e.placar_fora + " " : " x ";
+      box.appendChild(el("div", {cls:"jogo" + (e.tipo === "pós-jogo" ? " pos" : "")}, [
+        el("span", {cls:"tipo", text:e.tipo + " · " + (e.liga || "")}),
+        el("span", {cls:"partida", text:e.casa + placar + e.fora}),
+        el("span", {cls:"quando", text:quando(e)}),
+        el("span", {text:"“" + e.gancho + "”"}),
+        el("span", {cls:"quando", text:e.formato})
+      ]));
+    });
+    (ag.na_midia || []).forEach(function(j){
+      box.appendChild(el("div", {cls:"jogo"}, [
+        el("span", {cls:"tipo", text:"em pauta na mídia"}),
+        el("span", {cls:"partida", text:j.jogo}),
+        el("span", {cls:"quando", text:j.manchetes + " manchetes hoje. Confira data e horário na matéria."}),
+        el("span", {text:j.exemplo})
+      ]));
+    });
+    document.getElementById("sec-jogos").hidden = !box.children.length;
+  }
+  function desenharBuscas(b){
+    var box = document.getElementById("buscas");
+    box.replaceChildren();
+    Object.keys(b).forEach(function(k){
+      if (!b[k] || !b[k].length) return;
+      box.appendChild(el("p", {style:"margin:0 0 6px;color:var(--ink)"}, [
+        el("b", {text:k + ": "}), document.createTextNode(b[k].slice(0, 4).join(" · "))
+      ]));
+    });
+    document.getElementById("box-buscas").hidden = !box.children.length;
+  }
+
   function desenhar(d){
     dados = d;
     document.getElementById("quando").textContent = d.data_br || "—";
@@ -274,6 +339,8 @@ aside{display:flex;flex-direction:column;gap:16px}
     (d.videos_recentes || []).slice(0, 6).forEach(function(v){ vids.appendChild(el("li", null, [link(v.url, v.titulo)])); });
     if (!(d.videos_recentes || []).length) vids.appendChild(el("li", {text:"Feed do canal indisponível nesta execução."}));
 
+    desenharJogos(d.agenda || {});
+    desenharBuscas(d.buscas_torcedor || {});
     var pesos = document.getElementById("pesos");
     Object.keys(NOMES).forEach(function(k){
       pesos.appendChild(el("span", {text:NOMES[k]}));

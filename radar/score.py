@@ -80,7 +80,7 @@ def entidades(texto: str) -> dict:
     vocab = tem_vocab(t)
     foco = _clubes(t, C.CLUBES_FOCO, vocab)
     br = _clubes(t, C.CLUBES_BR, vocab)
-    sel = any(_tem(t, a) for a in C.SELECAO)
+    sel = any(_tem(t, a) for a in C.SELECAO) or (_tem(t, "selecao") and _tem(t, "brasil"))
     intl = [a for a in C.INTERNACIONAL if _tem(t, a)]
     comp = any(_tem(t, a) for a in C.COMPETICOES_BR)
     return {"foco": foco, "br": br, "selecao": sel, "intl": intl, "comp_br": comp, "vocab": vocab}
@@ -179,6 +179,22 @@ def nota_busca(trafego: int) -> float:
     return min(1.0, math.log10(trafego) / 6) if trafego > 1 else 0.0
 
 
+def nota_busca_torcedor(tema_tokens: set[str], semente: str, lista: list[str]) -> tuple[float, str | None]:
+    """0,3 a 0,75 quando uma sugestão de busca sobre o assunto do tema aparece no autocompletar.
+
+    Ex.: semente "arrascaeta" e sugestão "arrascaeta cirurgia" num tema sobre a cirurgia dele.
+    Quanto mais alta a sugestão na lista, mais gente pesquisa."""
+    base = tokens(semente)
+    if not base or not base <= tema_tokens:
+        return 0.0, None
+    genericas = {g[:5] for g in C.GENERICAS_BUSCA}
+    for pos, s in enumerate(lista):
+        extra = {t for t in tokens(s) - base if t not in genericas}
+        if extra & tema_tokens:
+            return max(0.3, 0.75 - 0.05 * pos), s
+    return 0.0, None
+
+
 def nota_midia(n_fontes: int) -> float:
     return min(1.0, math.log1p(n_fontes) / math.log1p(10))
 
@@ -191,9 +207,12 @@ def nota_aderencia(ent: dict, cat: str) -> float:
     elif ent["br"] or ent["comp_br"]:
         base = 0.6
     elif ent["intl"]:
-        base = 0.5
+        base = 0.4
     else:
         base = 0.3
+    # O bônus de tema viral (polêmica, VAR, mercado...) só vale com ligação ao futebol brasileiro.
+    if not (ent["foco"] or ent["selecao"] or ent["br"] or ent["comp_br"]):
+        return min(base, 0.4)
     return min(1.0, base + C.BONUS_VIRAL.get(cat, 0.0))
 
 
@@ -317,8 +336,14 @@ def pontuar(bruto: dict, historico: dict, agora: datetime | None = None) -> list
         assin = assinatura(cont)
         fontes = {i["fonte"] for i in itens if i.get("fonte")}
 
+        toks_tema = set().union(*(i["_tok"] for i in itens)) | set().union(*(tokens(t) for t in g["termos"]))
+        busca_torcedor, sugestao_busca = 0.0, None
+        for semente, lista in (bruto.get("sugestoes") or {}).items():
+            n, s_ = nota_busca_torcedor(toks_tema, semente, lista)
+            if n > busca_torcedor:
+                busca_torcedor, sugestao_busca = n, s_
         sinais = {
-            "busca": nota_busca(g["trafego"]),
+            "busca": max(nota_busca(g["trafego"]), busca_torcedor),
             "aceleracao": nota_aceleracao(itens, assin, historico, agora),
             "midia": nota_midia(len(fontes)),
             "aderencia": nota_aderencia(ent, cat),
@@ -343,6 +368,7 @@ def pontuar(bruto: dict, historico: dict, agora: datetime | None = None) -> list
             "nota": round(nota, 1),
             "sinais": {k: round(v * 100) for k, v in sinais.items()},
             "trafego_google": g["trafego"],
+            "busca_torcedor": sugestao_busca,
             "termos_trends": g["termos"],
             "n_fontes": len(fontes),
             "n_manchetes": len(itens),

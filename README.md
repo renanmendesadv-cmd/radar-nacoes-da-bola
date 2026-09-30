@@ -1,6 +1,6 @@
 # Radar Nações da Bola
 
-Todo dia às 08:30 (horário de Brasília), o radar:
+Todo dia às 08:30 (horário de Brasília, com horários reserva às 10:00 e 12:00 caso o GitHub atrase), o radar:
 
 1. lê as buscas em alta no **Google Trends** e as notícias das últimas 24 h no **Google News**;
 2. junta manchetes parecidas em um único tema e dá uma nota de 0 a 100 para cada um;
