@@ -1,0 +1,419 @@
+{
+ "gerado_em": "2026-09-30T03:00:39.373747+00:00",
+ "canal": {
+  "id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
+  "nome": "NAÇÕES DA BOLA o canal de todas as torcidas",
+  "inscritos": 5910
+ },
+ "periodo": {
+  "inicio": "2026-08-31",
+  "fim": "2026-09-27",
+  "janela_inicio": "2026-06-30"
+ },
+ "n_videos": 62,
+ "n_videos_v7": 40,
+ "mediana_v7": 132,
+ "resumo_semana": {
+  "views": {
+   "atual": 2784,
+   "anterior": 4932,
+   "variacao": -43.6
+  },
+  "minutos": {
+   "atual": 2557,
+   "anterior": 3003,
+   "variacao": -14.9
+  },
+  "inscritos_ganhos": {
+   "atual": 7,
+   "anterior": 3,
+   "variacao": 133.3
+  },
+  "inscritos_perdidos": {
+   "atual": 2,
+   "anterior": 2,
+   "variacao": 0.0
+  }
+ },
+ "formatos": [
+  {
+   "formato": "Shorts",
+   "n_videos": 0,
+   "mediana_v7": 0,
+   "indice": null,
+   "pct_assistido": null,
+   "views": 32,
+   "pct_views": 0.2,
+   "inscritos": 0,
+   "minutos": 6
+  },
+  {
+   "formato": "Vídeos longos",
+   "n_videos": 0,
+   "mediana_v7": 0,
+   "indice": null,
+   "pct_assistido": null,
+   "views": 30,
+   "pct_views": 0.2,
+   "inscritos": 0,
+   "minutos": 25
+  },
+  {
+   "formato": "Lives",
+   "n_videos": 40,
+   "mediana_v7": 132,
+   "indice": 1.0,
+   "pct_assistido": 4.4,
+   "views": 15349,
+   "pct_views": 99.6,
+   "inscritos": 14,
+   "minutos": 9733
+  }
+ ],
+ "temas": [
+  {
+   "nome": "Notícia do dia",
+   "n_videos": 26,
+   "mediana_v7": 136,
+   "indice": 1.03
+  },
+  {
+   "nome": "Jogo e resultado",
+   "n_videos": 14,
+   "mediana_v7": 120,
+   "indice": 0.91
+  }
+ ],
+ "clubes": [
+  {
+   "nome": "São Paulo",
+   "n_videos": 2,
+   "mediana_v7": 2021,
+   "indice": 15.25
+  },
+  {
+   "nome": "Cruzeiro",
+   "n_videos": 2,
+   "mediana_v7": 226,
+   "indice": 1.71
+  },
+  {
+   "nome": "Flamengo",
+   "n_videos": 7,
+   "mediana_v7": 202,
+   "indice": 1.52
+  },
+  {
+   "nome": "Palmeiras",
+   "n_videos": 15,
+   "mediana_v7": 87,
+   "indice": 0.66
+  },
+  {
+   "nome": "Corinthians",
+   "n_videos": 9,
+   "mediana_v7": 85,
+   "indice": 0.64
+  },
+  {
+   "nome": "Sem clube",
+   "n_videos": 16,
+   "mediana_v7": 78,
+   "indice": 0.58
+  },
+  {
+   "nome": "Vasco",
+   "n_videos": 4,
+   "mediana_v7": 36,
+   "indice": 0.27
+  }
+ ],
+ "retencao": [
+  {
+   "titulo": "BOCA JUNIORS   X   SÃO PAULO - JOGO DE IDA",
+   "url": "https://www.youtube.com/watch?v=4ylvD1coqJg",
+   "formato": "Lives",
+   "duracao": "2:43:15",
+   "pct_assistido": 0.7,
+   "fica_30s": 100,
+   "metade_sai_em": "3:16",
+   "metade_sai_pct": 2,
+   "maior_queda": {
+    "de": "1:38",
+    "ate": "3:16",
+    "pontos": 94
+   },
+   "chega_ao_fim": 1
+  },
+  {
+   "titulo": "CORINTHIANS  X  ESTUDIANTES -  JOGO DA VOLTA",
+   "url": "https://www.youtube.com/watch?v=4CY4MadeZa0",
+   "formato": "Lives",
+   "duracao": "2:33:56",
+   "pct_assistido": 1.1,
+   "fica_30s": 100,
+   "metade_sai_em": "3:05",
+   "metade_sai_pct": 2,
+   "maior_queda": {
+    "de": "1:32",
+    "ate": "3:05",
+    "pontos": 78
+   },
+   "chega_ao_fim": 3
+  },
+  {
+   "titulo": "CORINTHIANS  X  FLUMINENSE - 28ª RODADA",
+   "url": "https://www.youtube.com/watch?v=ixh02th_l_k",
+   "formato": "Lives",
+   "duracao": "2:16:48",
+   "pct_assistido": 1.1,
+   "fica_30s": 100,
+   "metade_sai_em": "2:44",
+   "metade_sai_pct": 2,
+   "maior_queda": {
+    "de": "1:22",
+    "ate": "2:44",
+    "pontos": 88
+   },
+   "chega_ao_fim": 2
+  },
+  {
+   "titulo": "FLAMENGO  X  CORINTHIANS - 27ª RODADA",
+   "url": "https://www.youtube.com/watch?v=DeQazvF7_Bs",
+   "formato": "Lives",
+   "duracao": "2:31:09",
+   "pct_assistido": 1.0,
+   "fica_30s": 100,
+   "metade_sai_em": "3:01",
+   "metade_sai_pct": 2,
+   "maior_queda": {
+    "de": "1:31",
+    "ate": "3:01",
+    "pontos": 91
+   },
+   "chega_ao_fim": 9
+  },
+  {
+   "titulo": "SANTOS  X  PALMEIRAS -  VOLTA",
+   "url": "https://www.youtube.com/watch?v=B7OPvYomTC0",
+   "formato": "Lives",
+   "duracao": "2:22:45",
+   "pct_assistido": 0.9,
+   "fica_30s": 100,
+   "metade_sai_em": "2:51",
+   "metade_sai_pct": 2,
+   "maior_queda": {
+    "de": "1:26",
+    "ate": "2:51",
+    "pontos": 83
+   },
+   "chega_ao_fim": 2
+  }
+ ],
+ "trafego": [
+  {
+   "origem": "Página inicial e inscrições",
+   "views": 13073,
+   "pct": 84.8
+  },
+  {
+   "origem": "Vídeos sugeridos",
+   "views": 1133,
+   "pct": 7.4
+  },
+  {
+   "origem": "Sites e apps externos",
+   "views": 463,
+   "pct": 3.0
+  },
+  {
+   "origem": "Busca do YouTube",
+   "views": 257,
+   "pct": 1.7
+  },
+  {
+   "origem": "Página do canal",
+   "views": 204,
+   "pct": 1.3
+  },
+  {
+   "origem": "Notificações",
+   "views": 130,
+   "pct": 0.8
+  },
+  {
+   "origem": "Acesso direto ou desconhecido",
+   "views": 82,
+   "pct": 0.5
+  },
+  {
+   "origem": "Outras páginas do YouTube",
+   "views": 56,
+   "pct": 0.4
+  }
+ ],
+ "melhores_dias": [
+  {
+   "quando": "terça",
+   "n_videos": 2,
+   "mediana_v7": 2021,
+   "indice": 15.25
+  },
+  {
+   "quando": "domingo",
+   "n_videos": 7,
+   "mediana_v7": 327,
+   "indice": 2.47
+  },
+  {
+   "quando": "sábado",
+   "n_videos": 2,
+   "mediana_v7": 153,
+   "indice": 1.15
+  },
+  {
+   "quando": "quinta",
+   "n_videos": 6,
+   "mediana_v7": 123,
+   "indice": 0.93
+  },
+  {
+   "quando": "quarta",
+   "n_videos": 11,
+   "mediana_v7": 87,
+   "indice": 0.66
+  },
+  {
+   "quando": "segunda",
+   "n_videos": 9,
+   "mediana_v7": 86,
+   "indice": 0.65
+  },
+  {
+   "quando": "sexta",
+   "n_videos": 3,
+   "mediana_v7": 33,
+   "indice": 0.25
+  }
+ ],
+ "melhores_horarios": [
+  {
+   "quando": "noite (18h–24h)",
+   "n_videos": 24,
+   "mediana_v7": 236,
+   "indice": 1.78
+  },
+  {
+   "quando": "tarde (12h–18h)",
+   "n_videos": 2,
+   "mediana_v7": 144,
+   "indice": 1.09
+  },
+  {
+   "quando": "madrugada (0h–6h)",
+   "n_videos": 4,
+   "mediana_v7": 54,
+   "indice": 0.41
+  },
+  {
+   "quando": "manhã (6h–12h)",
+   "n_videos": 10,
+   "mediana_v7": 31,
+   "indice": 0.23
+  }
+ ],
+ "videos_inscritos": [
+  {
+   "titulo": "FLU AFUNDA TIMÃO /VERDÃO PARA NAS MÃOS DE EX/TRICOLOR BATE INTER NO SUFOCO/MENGÃO ABRE SOBRE VERDÃO",
+   "url": "https://www.youtube.com/watch?v=5G-G0JQj4rU",
+   "formato": "Lives",
+   "inscritos": 3,
+   "views": 332
+  },
+  {
+   "titulo": "SAI  PRO JOGO  # 215",
+   "url": "https://www.youtube.com/watch?v=yOxpDfqrsMw",
+   "formato": "Lives",
+   "inscritos": 3,
+   "views": 119
+  },
+  {
+   "titulo": "FORTALEZA  X   PALMEIRAS",
+   "url": "https://www.youtube.com/watch?v=VcO0pIotYMc",
+   "formato": "Lives",
+   "inscritos": 3,
+   "views": 511
+  },
+  {
+   "titulo": "NORUEGA X PORTUGAL",
+   "url": "https://www.youtube.com/watch?v=NXHprVpRKOY",
+   "formato": "Lives",
+   "inscritos": 2,
+   "views": 891
+  },
+  {
+   "titulo": "E AQUELA \"GORDURA\" VERDÃO?/PEIXÃO GRANDE VITÓRIA/ATÉ QUE ENFIM TRICOLOR/MENGÃO CHEGOU/ADEUS,MESSI",
+   "url": "https://www.youtube.com/watch?v=HPuRdmxKB-U",
+   "formato": "Lives",
+   "inscritos": 2,
+   "views": 270
+  }
+ ],
+ "top_v7": [
+  {
+   "titulo": "BOCA JUNIORS   X   SÃO PAULO - JOGO DE IDA",
+   "url": "https://www.youtube.com/watch?v=4ylvD1coqJg",
+   "formato": "Lives",
+   "categoria": "Notícia do dia",
+   "v7": 2916,
+   "publicado": "08/09 23:54"
+  },
+  {
+   "titulo": "CORINTHIANS  X  FLUMINENSE - 28ª RODADA",
+   "url": "https://www.youtube.com/watch?v=ixh02th_l_k",
+   "formato": "Lives",
+   "categoria": "Jogo e resultado",
+   "v7": 1571,
+   "publicado": "20/09 18:15"
+  },
+  {
+   "titulo": "FLAMENGO  X  CORINTHIANS - 27ª RODADA",
+   "url": "https://www.youtube.com/watch?v=DeQazvF7_Bs",
+   "formato": "Lives",
+   "categoria": "Jogo e resultado",
+   "v7": 1486,
+   "publicado": "13/09 19:53"
+  },
+  {
+   "titulo": "SANTOS  X  PALMEIRAS -  VOLTA",
+   "url": "https://www.youtube.com/watch?v=B7OPvYomTC0",
+   "formato": "Lives",
+   "categoria": "Notícia do dia",
+   "v7": 1429,
+   "publicado": "02/09 23:48"
+  },
+  {
+   "titulo": "SÃO PAULO X  BOCA JUNIORS - JOGO DE VOLTA",
+   "url": "https://www.youtube.com/watch?v=rNKkY2LwHrQ",
+   "formato": "Lives",
+   "categoria": "Notícia do dia",
+   "v7": 1126,
+   "publicado": "15/09 23:52"
+  }
+ ],
+ "fatores_categoria": {
+  "Mercado da bola": 1.0,
+  "Técnico": 1.0,
+  "Arbitragem e VAR": 1.0,
+  "Polêmica e bastidor": 1.0,
+  "Finanças e gestão": 1.0,
+  "Lesão e desfalque": 1.0,
+  "Seleção": 1.0,
+  "Jogo e resultado": 0.976
+ },
+ "recomendacoes": [
+  "Quem mais traz inscritos: Lives (14 nas últimas 4 semanas).",
+  "Maior origem de público: Página inicial e inscrições (85% das views).",
+  "Melhor momento para publicar: terça, noite (18h–24h) (mediana de views nos 7 primeiros dias)."
+ ]
+}

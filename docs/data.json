@@ -1,20 +1,70 @@
 {
- "gerado_em": "2026-09-30T02:15:22.629683+00:00",
- "data_br": "29/09/2026 23:15",
+ "gerado_em": "2026-09-30T03:00:39.373747+00:00",
+ "data_br": "30/09/2026 00:00",
  "status": {
   "Google Trends": 10,
-  "Google News": 979,
-  "Canal (RSS YouTube)": 0,
+  "Google News": 982,
+  "Canal (RSS YouTube)": 15,
   "Buscas do torcedor": 18,
   "YouTube (48 h)": 12,
   "Agenda (ESPN)": 200,
   "Agenda (buscas Google)": 1
  },
  "canal_id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
- "videos_recentes": [],
+ "videos_recentes": [
+  {
+   "titulo": "ESPANHA X CROÁCIA - 2ª RODADA",
+   "url": "https://www.youtube.com/watch?v=ABGH1zdZRN0",
+   "publicado": "2026-09-29T21:02:23+00:00"
+  },
+  {
+   "titulo": "BÉLGICA   X  FRANÇA - 2ª RODADA",
+   "url": "https://www.youtube.com/watch?v=LipNKeyEO1k",
+   "publicado": "2026-09-29T09:39:36+00:00"
+  },
+  {
+   "titulo": "NORUEGA  X  PORTUGAL - 2ª  RODADA",
+   "url": "https://www.youtube.com/watch?v=JdjD9CTWZi8",
+   "publicado": "2026-09-28T07:15:05+00:00"
+  },
+  {
+   "titulo": "NORUEGA X PORTUGAL",
+   "url": "https://www.youtube.com/watch?v=NXHprVpRKOY",
+   "publicado": "2026-09-27T20:51:55+00:00"
+  },
+  {
+   "titulo": "A NOVA SELEÇÃO NA TERRA DOS CANGURUS/NDB PERGUNTA; QUAL É O CRAQUE DO BR-26 ?/BATISTA SALVA O INTER?",
+   "url": "https://www.youtube.com/watch?v=__pBi2iRdIo",
+   "publicado": "2026-09-25T00:41:19+00:00"
+  },
+  {
+   "titulo": "FLU AFUNDA TIMÃO /VERDÃO PARA NAS MÃOS DE EX/TRICOLOR BATE INTER NO SUFOCO/MENGÃO ABRE SOBRE VERDÃO",
+   "url": "https://www.youtube.com/watch?v=5G-G0JQj4rU",
+   "publicado": "2026-09-23T12:41:04+00:00"
+  },
+  {
+   "titulo": "SAI PRO JOGO   #218",
+   "url": "https://www.youtube.com/watch?v=KTLAoFp-OXM",
+   "publicado": "2026-09-21T21:21:17+00:00"
+  },
+  {
+   "titulo": "CORINTHIANS  X  FLUMINENSE - 28ª RODADA",
+   "url": "https://www.youtube.com/watch?v=ixh02th_l_k",
+   "publicado": "2026-09-20T21:15:48+00:00"
+  },
+  {
+   "titulo": "TOCA E  RECEBE - VC PERGUNTA  E NÓS RESPONDEMOS NA HORA",
+   "url": "https://www.youtube.com/watch?v=ZhHREGjaq8U",
+   "publicado": "2026-09-18T00:44:57+00:00"
+  },
+  {
+   "titulo": "CORINTHIANS  X  ESTUDIANTES -  JOGO DA VOLTA",
+   "url": "https://www.youtube.com/watch?v=4CY4MadeZa0",
+   "publicado": "2026-09-17T03:05:07+00:00"
+  }
+ ],
  "termos_futebol": [
-  "méxico x peru",
-  "estados unidos x chile"
+  "felipe melo"
  ],
  "pesos": {
   "busca": 0.24,
@@ -23,8 +73,17 @@
   "aderencia": 0.16,
   "youtube": 0.2
  },
- "fatores_categoria": {},
- "raiox_em": null,
+ "fatores_categoria": {
+  "Mercado da bola": 1.0,
+  "Técnico": 1.0,
+  "Arbitragem e VAR": 1.0,
+  "Polêmica e bastidor": 1.0,
+  "Finanças e gestão": 1.0,
+  "Lesão e desfalque": 1.0,
+  "Seleção": 1.0,
+  "Jogo e resultado": 0.976
+ },
+ "raiox_em": "2026-09-30",
  "agenda": {
   "proximos": [
    {
@@ -38,7 +97,7 @@
     "estado": "pre",
     "clube": "São Paulo",
     "tipo": "pré-jogo",
-    "em_horas": 69,
+    "em_horas": 68,
     "gancho": "São Paulo x Santos: o detalhe que pode decidir esse jogo.",
     "titulo_thumb": "QUEM LEVA?",
     "formato": "Enquete: qual o seu palpite? (30 s)"
@@ -87,8 +146,7 @@
    "corinthians libertadores"
   ],
   "são paulo fc": [
-   "são paulo fc contratação",
-   "são paulo fc clube"
+   "são paulo fc contratação"
   ],
   "palmeiras": [
    "palmeiras x ldu quito",
@@ -122,11 +180,11 @@
     "Flamengo"
    ],
    "foco": true,
-   "nota": 76.0,
+   "nota": 76.4,
    "sinais": {
     "busca": 60,
-    "aceleracao": 45,
-    "midia": 96,
+    "aceleracao": 44,
+    "midia": 100,
     "aderencia": 100,
     "youtube": 97
    },
@@ -134,9 +192,9 @@
    "trafego_google": 0,
    "busca_torcedor": "arrascaeta flamengo",
    "termos_trends": [],
-   "n_fontes": 9,
-   "n_manchetes": 10,
-   "assinatura": "arras|flame|quart|data",
+   "n_fontes": 10,
+   "n_manchetes": 11,
+   "assinatura": "arras|flame|punho|quart",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 2 min)",
@@ -152,12 +210,12 @@
     },
     {
      "titulo": "Ídolo do Flamengo, Arrascaeta empreende fora do futebol com confeitaria no Rio que tem bolo com nome do jogador entre os mais vendidos",
-     "fonte": "nsctotal.com.br",
+     "fonte": "NSC Total",
      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaDZTOEx6ZVlnYjJSeDNqc0VMdV9OV1NQRy1wNkRia3VBNlZYb0d4ZG1CN0NNOXUwNER1SXBJZFE4MVZoOUZxeERMLUQ0blBuRFpQQjY3bkc1SmtvVnVON2J4aWpEU3psT3VkRVZsbURYZzZXWkloN1Fmam9OSlVIQlMtOWRGR2JhV0czb2Z2WXpwcTdOVVVCUUwtWmlORnVPdFZOZHNEMGJEb3pmQWtTOEwxd2t4dDBYNzl2Y2paLWRyV3hLaUM4R2NCdEhjZ1lKR3kzUGFPUUFTWERORlhPbzVQT1I4dFVIQXNxWGFmQjVPZWxRSG4yQ3pZNzkwdHM?oc=5"
     },
     {
      "titulo": "Arrascaeta chega quarta (30) no Brasil, e Flamengo define data de cirurgia",
-     "fonte": "CNN Brasil",
+     "fonte": "cnnbrasil.com.br",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzZuUk9tRUZ4OWY0T1l2VnRlZkNBWVRZQjlmcWtSZUx5MmVMR24xZFVpUjJIeWRndmZYamxoM1AyU1pVbmlhN3o1SU8wS0NnZURQdDhOVlp3d0tFbm1BdEJQUzk2M2NMX2FTUmJaY25ndDJqRzliZ3RSbklUSElQMWw4S0oxSDNjRW1BWGpJSWhxM0dOX25QTkZ6VWdhR01uU3dQa0dQOFFyWDhzNEdHYU52ZmtkcUtqNmhtZFF6Nm1vZw?oc=5"
     },
     {
@@ -205,74 +263,97 @@
    }
   },
   {
-   "tema": "Matheus Bidu pode desfalcar o Corinthians",
-   "categoria": "Notícia do dia",
+   "tema": "Corinthians apresenta déficit de R$ 278 milhões até julho e omite dívida em balancete",
+   "categoria": "Finanças e gestão",
    "clubes": [
     "Corinthians"
    ],
    "foco": true,
-   "nota": 61.8,
+   "nota": 62.0,
    "sinais": {
-    "busca": 55,
-    "aceleracao": 70,
-    "midia": 46,
+    "busca": 0,
+    "aceleracao": 63,
+    "midia": 92,
     "aderencia": 100,
-    "youtube": 42
+    "youtube": 81
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "matheus bidu",
+   "busca_torcedor": null,
    "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "bidu|pode|mathe|corin",
+   "n_fontes": 8,
+   "n_manchetes": 10,
+   "assinatura": "defic|corin|julho|milho",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Todo mundo está falando disso. E você, concorda?",
-    "titulo_thumb": "CORINTHIANS: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Matheus Bidu pode desfalcar o Corinthians?"
+    "formato": "Explicador de bastidor (2 a 4 min)",
+    "gancho": "O buraco no Corinthians é maior do que parece. Eu explico em 2 minutos.",
+    "titulo_thumb": "CORINTHIANS: A CONTA CHEGOU",
+    "pergunta_enquete": "Qual sua opinião: Corinthians apresenta déficit de R$ 278 milhões até julho e omite dívida em balancete?"
    },
    "manchetes": [
     {
-     "titulo": "Hérnia? Entenda o problema que pode afastar Matheus Bidu do Corinthians",
-     "fonte": "terra.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRk5WcWQ5OWo1YlhEUGVjVTdtckNnWTlqUXdqcldTLUVja18wQmlfWUtNZzVDaVV3ZDRqVktQZzgxZ2JuTU5neDRkOTZha2tFRjFLZHZHMTg2RWdXaUo0R0Z6d1lHalY1ZWdKbTdBdlV0RHNlc3hzS2lYVmRGZ3lLNTF6dWZJZmx3SEJpY2kxWVZyTTdDam9tQkU2d21mY1p0WVYwd3N6NElHOHBoV1hOZzJNS0t5MDBaQ05taHcwTEJDQzFIdXAyc0xNcnZ0RHY5NzR1MzI0aU1LeEY3VzJTemdmaGo1dDRTSnRIYmFSbTk5R0Rz?oc=5"
+     "titulo": "Corinthians apresenta balancete de julho com aumento do déficit",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRGs4aEU4LTBGTTd0dmFLb2Rua2hJaDhZY2lUdUpUaHAyU2J4dEFObFk2OG5tNjMtNVlqYlBEb3lMenRlRVk2WnB2aXRQVjBYcGw0SGc0bVF6X3pleUVnVXBGT0FoYmRDRHhEdkhHWmxRRXFaakJQdnpCc3hDMXp2dXpGSW1pem44N2lROFkxNzdSYTVaSHN1RHFVNDY5clVSS054ODRQSjR0cjhMME5YZ1NDcjhrVDVUOVlzMjJwQjRUbF9HLW1kU1B0UGh2cU9QM1BTYk1hZWJ4bzNuVi11VFItcU90emJZXy00?oc=5"
     },
     {
-     "titulo": "Matheus Bidu pode desfalcar o Corinthians",
-     "fonte": "VAVEL.com",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMXpUZU9rN3hkSndjX2ZnRlUwc0NLdVhuWXZteXZQYTMxZTZIWEpOQlU4aG1BcFZlVUtLeDFMcjJvcmtmekQ1RUM5Z2dnSWJ1M2NEWDU1WTNndWY3d0thNm1QbTZ0RG1raE1kMDQ2eVMxcXh2VjFlMEVMYmtfNFA0ckI4UUpPTTI2SHd2bjZQa2VRZ0JzeEMwT3pHTE95ay10NkdZcUo4Tmp0UU9aRXZN?oc=5"
+     "titulo": "Corinthians registra deficit financeiro de r$ 32 milhões em julho",
+     "fonte": "araraquaranews.com.br",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQXlJdEFDaGc0UnQzSHJPemhNdExKOGdGVUF5U1N6OU53VWR2MlBPbWhTWEZvbTBMeTdpZW9lQTRVUWdmX3hUY1dHSVFhamsybHFMZXMxdmxNS3lKZzVrY1VjNEcySmtQRGFJZFEzdHJ6bDVKNVgwRWtEdUZNZzdlWlhORUxCak9xMklGZkdRc1VwRENpZnBpOC12VkgxeTJwdmowVFVaNHQ0UQ?oc=5"
+    },
+    {
+     "titulo": "Déficit do Corinthians aumenta e chega a r$ 278 milhões | Clube tenta acordo com a caixa pela Arena",
+     "fonte": "meutimao.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdHNKMjFodjFDM2o1OEZaaGtCS1lUT2c0VUN3dVBieTFka1Jkb0l3NnNRN0FNRzBVNHBLRlBFd0dZTXB3Q2tvMERKMTFMTUd5dGM0bnZ3TzB6N2xrdmZoX1pWUjliLUkwbUVXUHlIM21aekROdzdyMUhGN2xWQmFQMW5TTXAyQmdkemhRZzFJeFdOUHhOR3VSWFBLczRveHQ4UElzUkxqbFdwejNfdE1kbTI4NnY1MUhRQ0tNOC1Ldk5XU2VRQTdYLUh2RVRzcm5JNEJZZ0JtS2ViNnBjZXBOekpSVWpfdXZV0gHuAUFVX3lxTE8wX0lTRkNQN0FqUkt5aFdtNHV0aUhFM2tIWnZyTThGRDl6RHJDU2RqQ0x1R0tETWNMeldrbWh3WVhsYXQyaVpFcVh1bmk3ei1MamRtM18tZ3dGSTVEN2JXRGtnbXBwQUplUFN2Y2VLa1poUDRFS2RpNkZQZGI3NDhTSUdWSHRjbHdHWVozdWctMzlkR1R2Zm1FVGFiNVdjNHhoREpUeVExUE8xUWpySnlUY1JTZWRJY2pZOXVTV3pFT2xNdEw3V2N0V2xYMHhlaEpoQzN4N1hycDJFZldzY2NtTVpGejNUblJiazRSYUE?oc=5"
+    },
+    {
+     "titulo": "Corinthians triplica déficit previsto para julho e chega a R$ 278 milhões de endividamento em 2026",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPUXVBeUp6cXNBcTBwZDNLSTdYNldwcEFMUlcydi1BU0NHSUNOMjRpRERVOHZFMTFsTm9XcDN1d3Z6dUh0Nk1USUFPLUJKTDZiWXdJdzlzSm5JMUstNU5iYTFLaS0xczg4cno0YnNfNUY2UENKQVlYWFlYZFdmMllVRndUYmRwelVic3JWUjRYaWhnVzlRNFJGaUp5aGtGNXBRRUtXZTVvMllmdXdraUJUSU9hYmtEaHUwR090RHlNc05WQS1CYnBpVHhfZFJTQlhKOE9OVGZsX0Q2NTRxSFdOSGJwQUc1NUc5em5tZS16Sm85bTZtaGdtOU1LVUdsZkxaZWlIUXpUZ2VrMFh4c2RDUndSYw?oc=5"
+    },
+    {
+     "titulo": "Corinthians vê déficit aumentar 258% acima do previsto e dívida dispara",
+     "fonte": "cnnbrasil.com.br",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdVlpRlQ3TjNMcU1jdUlLRUk2QjZpaXlsUDF1MkhaeDFkWEhuYXY4R19JWktTSllFQTl4bTlIMTMyRG5QN1d0MDJGRnduZVVmM1pydlk4bmtZWjBRYXhlVF8zYzVwd0FRbTV6QjEyTnZuSVFtMW1VR2NzY0ZnRmw4SEJfMEs4bl9BYjk4STVhUjVYUk44cWg3V2MxWVlhYnlHRkV0bUNoMWtHdnlTY0Fhck5Takh2NlJPeVJVNGR4ckdFa0xvMXBOOA?oc=5"
     }
    ],
    "youtube": {
-    "consulta": "Corinthians Matheus Bidu desfalcar",
-    "n_videos": 2,
+    "consulta": "Corinthians déficit apresenta",
+    "n_videos": 16,
     "mais_de": false,
-    "views": 478,
+    "views": 52325,
     "top": [
      {
-      "titulo": "PÉSSIMA NOTÍCIA! MATHEUS BIDU LESIONADO E DÉFICIT MILIONÁRIO ASSUSTA O CORINTHIANS!",
-      "canal": "Trincheira Corinthians",
-      "views": 381,
-      "url": "https://www.youtube.com/watch?v=Rv-U2nA-IJM",
-      "publicado": "2026-09-29T21:28:56Z",
+      "titulo": "CORINTHIANS FECHA COM DÉFICIT HISTÓRICO | DINIZ PODE MUDAR TIME",
+      "canal": "Meu Timão",
+      "views": 16159,
+      "url": "https://www.youtube.com/watch?v=0CQljKW1M9s",
+      "publicado": "2026-09-30T00:06:18Z",
       "do_canal": false
      },
      {
-      "titulo": "Matheus Bidu volta a desfalcar treino do Corinthians por dores no púbis 😱⚽",
-      "canal": "FUT inBRASA",
-      "views": 97,
-      "url": "https://www.youtube.com/watch?v=B45d8og093w",
-      "publicado": "2026-09-29T20:00:26Z",
+      "titulo": "CORINTHIANS REGISTRA DÉFICIT EM NOVO BALANCETE DIVULGADO | DINIZ PODE TER NOVO DESFALQUE",
+      "canal": "Meu Timão",
+      "views": 15755,
+      "url": "https://www.youtube.com/watch?v=t-ZO8rJ34HQ",
+      "publicado": "2026-09-29T22:18:36Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "DÉFICIT DO CORINTHIANS AUMENTA E CHEGA A R$ 278 MILHÕES | CLUBE TENTA ACORDO COM A CAIXA PELA ARENA",
+      "canal": "Meu Timão",
+      "views": 10771,
+      "url": "https://www.youtube.com/watch?v=Yw2N8dKUWUI",
+      "publicado": "2026-09-30T01:04:32Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "Santos prepara homenagem a Naty Potira no clássico contra o São Paulo",
-   "categoria": "Jogo e resultado",
+   "tema": "Santos anuncia homenagem a Naty Potira com patch na camisa para clássico contra São Paulo",
+   "categoria": "Lesão e desfalque",
    "clubes": [
     "São Paulo",
     "Santos"
@@ -292,28 +373,28 @@
    "termos_trends": [],
    "n_fontes": 13,
    "n_manchetes": 16,
-   "assinatura": "paulo|santo|class|homen",
+   "assinatura": "santo|paulo|class|potir",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Esse resultado diz mais sobre o São Paulo do que o placar mostra.",
-    "titulo_thumb": "SÃO PAULO: O QUE O JOGO REVELOU",
-    "pergunta_enquete": "Qual sua opinião: Santos prepara homenagem a Naty Potira no clássico contra o São Paulo?"
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "Esse desfalque muda tudo para o São Paulo nos próximos jogos.",
+    "titulo_thumb": "SÃO PAULO SEM ELE: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Santos anuncia homenagem a Naty Potira com patch na camisa para clássico contra São Paulo?"
    },
    "manchetes": [
     {
      "titulo": "Cuca causa ‘espanto’ no Santos e prepara mudanças para encarar o São Paulo",
-     "fonte": "santistas.net",
+     "fonte": "Santistas",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yN0RTVkNCLUY0V24tQjluY1I0LS1tM015TFFQWVdtZUYtRi1hWFlual9memp0ZjlEQ3hMYTJlQ1BvRE91YmxmVlZOWEVmaW1RTDNJZTlEVllkbE0tMFZZQUZ4VDlWbDlUdk9vVA?oc=5"
     },
     {
      "titulo": "Santos anuncia homenagem a Naty Potira com patch na camisa para clássico contra São Paulo",
-     "fonte": "terra.com.br",
+     "fonte": "Terra",
      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNU0F0cVdvcnM1UVR3OG1MX2pfNkJ3djBBSlJkdTVWMkFyblhoMk1oTk5PLXRrZ25Hc0RlcEFINFMxYjlLaHdkZUhVVE9hUm4xQXBTR2ZrS2FfYnY3V3NSVWp6Q0haSGZrSUhZS3Y4TW9ZM0FpY2tHYnl4YmI0a0RGV2xLYW5nN21LMlFkV2NUeFRJNkRDTkxIZkRORlY4M3FIV0dJYzJZQ0NXb0U5ZkpzYVB6ZlNSZFZxYmJjQzUzbVBJMFVwSmFFYVVEbmdoUzl4RGVEWWtfcGNvNHVvRk9rQTJSR0VOWnRpaGRKYnl5VkZBZVd6NHJNMmt4b2NmQzdhNDl4XzFJdWE?oc=5"
     },
     {
      "titulo": "Santos fará homenagem para Naty Potira no clássico contra o São Paulo",
-     "fonte": "CNN Brasil",
+     "fonte": "cnnbrasil.com.br",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWlg2Sk1IRGcyUjd2bE50ZjlPQXNZaURzanl4M241WER5VjVzLTFkcmxtcXZmMXVzY1VSeXVqNzhudGJDUm5yMEYzUUNJSDY4al9zbURrUVNUZVFVR1FNU0cwSktDVHBWMndIWTNiRFlUZC10NXlzVEMtRURnNGtnS2tkUGdoOTlQTXpDc3FUZ0xsem9oT0hlaHhmc0NyR0ZzbTJDTWhTVE5mSURuSm1TT3dXejhzTHMtM1o5LUF5T1g?oc=5"
     },
     {
@@ -381,7 +462,7 @@
    "termos_trends": [],
    "n_fontes": 3,
    "n_manchetes": 3,
-   "assinatura": "arras|inden|lesao|flame",
+   "assinatura": "lesao|inden|arras|flame",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 2 min)",
@@ -392,7 +473,7 @@
    "manchetes": [
     {
      "titulo": "Lesão de Arrascaeta vai render indenização para o Flamengo? Entenda",
-     "fonte": "Exame",
+     "fonte": "exame.com",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3FMZUFFOVJPakNRaHVUaWIzYUc3bUZidnpiTDNwYks1ZVYzQzJLclN5eW1FYVdKUzVBbmw5V0RNZy1rVGtSWFM4V1EtazZrYkpQazUzM3l4eHpWQXNaWUpQakRrYnZ4Z0J2Rng1NTBmN3JReW1YQXp2bVNhRDZfMGtoTzhBTUI0YTVjQmFSZVh2RnFIeWYwVA?oc=5"
     },
     {
@@ -453,7 +534,7 @@
    "termos_trends": [],
    "n_fontes": 2,
    "n_manchetes": 2,
-   "assinatura": "ex-fl|confu|resci|torci",
+   "assinatura": "resci|confu|torci|ex-fl",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Explicador de bastidor (2 a 4 min)",
@@ -469,7 +550,7 @@
     },
     {
      "titulo": "Ex-Flamengo e Palmeiras rescinde com time da Série C após gestos obscenos e confusão com torcida",
-     "fonte": "nsctotal.com.br",
+     "fonte": "NSC Total",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa0ZlcTE1ckNfaE9UQmRQUF9oSDh1dFRvcE01NTE3MlRaVXZWUlAwaWo2SnBiVG9mZklDY3pmSFNMa3pyOXFHZ21ER2ttWjJqT0s0UXkzMk9uVnU0ZG1kTVdET284YWpTTWNjMjZ5NDBYUzh5OEsyN280U3lramJqRC1NTVZYb1FTUFR3UjlkWjQ2ell6ZG1aYllodzdBTnFaTG9KS2ZJeC1haW85RTNBWmJ5UXM5emJBRjZEeEdlNnk3ZTlSd2lZYUxuRm12dw?oc=5"
     }
    ],
@@ -479,95 +560,6 @@
     "mais_de": false,
     "views": 0,
     "top": []
-   }
-  },
-  {
-   "tema": "Corinthians aumenta déficit para R$ 278 milhões até julho, 258% a mais do que o previsto",
-   "categoria": "Finanças e gestão",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 60.2,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 70,
-    "midia": 96,
-    "aderencia": 100,
-    "youtube": 60
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 9,
-   "n_manchetes": 10,
-   "assinatura": "defic|corin|julho|milho",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "O buraco no Corinthians é maior do que parece. Eu explico em 2 minutos.",
-    "titulo_thumb": "CORINTHIANS: A CONTA CHEGOU",
-    "pergunta_enquete": "Qual sua opinião: Corinthians aumenta déficit para R$ 278 milhões até julho, 258% a mais do que o previsto?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Corinthians apresenta balancete de julho com aumento do déficit",
-     "fonte": "terra.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRGs4aEU4LTBGTTd0dmFLb2Rua2hJaDhZY2lUdUpUaHAyU2J4dEFObFk2OG5tNjMtNVlqYlBEb3lMenRlRVk2WnB2aXRQVjBYcGw0SGc0bVF6X3pleUVnVXBGT0FoYmRDRHhEdkhHWmxRRXFaakJQdnpCc3hDMXp2dXpGSW1pem44N2lROFkxNzdSYTVaSHN1RHFVNDY5clVSS054ODRQSjR0cjhMME5YZ1NDcjhrVDVUOVlzMjJwQjRUbF9HLW1kU1B0UGh2cU9QM1BTYk1hZWJ4bzNuVi11VFItcU90emJZXy00?oc=5"
-    },
-    {
-     "titulo": "Déficit do Corinthians aumenta e chega a r$ 278 milhões | Clube tenta acordo com a caixa pela Arena",
-     "fonte": "meutimao.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdHNKMjFodjFDM2o1OEZaaGtCS1lUT2c0VUN3dVBieTFka1Jkb0l3NnNRN0FNRzBVNHBLRlBFd0dZTXB3Q2tvMERKMTFMTUd5dGM0bnZ3TzB6N2xrdmZoX1pWUjliLUkwbUVXUHlIM21aekROdzdyMUhGN2xWQmFQMW5TTXAyQmdkemhRZzFJeFdOUHhOR3VSWFBLczRveHQ4UElzUkxqbFdwejNfdE1kbTI4NnY1MUhRQ0tNOC1Ldk5XU2VRQTdYLUh2RVRzcm5JNEJZZ0JtS2ViNnBjZXBOekpSVWpfdXZV0gHuAUFVX3lxTE8wX0lTRkNQN0FqUkt5aFdtNHV0aUhFM2tIWnZyTThGRDl6RHJDU2RqQ0x1R0tETWNMeldrbWh3WVhsYXQyaVpFcVh1bmk3ei1MamRtM18tZ3dGSTVEN2JXRGtnbXBwQUplUFN2Y2VLa1poUDRFS2RpNkZQZGI3NDhTSUdWSHRjbHdHWVozdWctMzlkR1R2Zm1FVGFiNVdjNHhoREpUeVExUE8xUWpySnlUY1JTZWRJY2pZOXVTV3pFT2xNdEw3V2N0V2xYMHhlaEpoQzN4N1hycDJFZldzY2NtTVpGejNUblJiazRSYUE?oc=5"
-    },
-    {
-     "titulo": "Déficit do Corinthians dispara e fica 258% acima do previsto; veja os números",
-     "fonte": "BNews SP",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTDdsWkVGMGtwYmxGcm5SbUhDUUNrTGU1ZEF1U1dhNkpXNVdXUlhNZ09JRS10bXRvYzlCQ2t6WHJKVHdQYXlvS0x2R0pMREJyRjZzSm5kZTdqaHByUk5lZlZRVEZOVURTQTR3SXRTRDJSb3BfNi1YS25USjZheDFjd05RQWRNSWV1Wnh0VGNrZU50Z01fU191MXU5T0lfSm9BVDJFdUpFR2kzX3A4VVRwdE1xbzBQUkN0N1pocEtieVNfT2YzNWdZY2gtNNIB0AFBVV95cUxNYlFiY1ItUi1oYVpDaHM5R2ZiaHhBNVh6OG1YUGI3LUNLMzU2WE45Y0w1OHRTbjdMMTlrM3pKN01IQmR1R3JheXYydzhTQmZ4Tjd3Qk5xVlNvZFowb1dFbm5qdGZNbldWQjhmUkdFdTRfM2pUYWJCNHhKYktnMVo0dVZVSktmdVpNUy01MWFqZk1rM0UydlAxSDRlV3dabVFDNWVpSWdKTG16OHFTMEUzcHFYcWZMcTJmQm1OZ0FXaWk3SmU1cWZxUWhCTTVXTjJI?oc=5"
-    },
-    {
-     "titulo": "Corinthians tem déficit de R$ 278 mi no ano mesmo com receita acima da meta",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV25abVJJbG43MXBvUkd5cEZaZ3J1cHd5ZU8yRlRrNkZLTkNubFRuM2Z2b1BySjlJQjVfUF9Oek1qMzRsN1liemd5Wk1LNVZ6VFZLQmRQWlc2dzZPOUdwcHNUbzA5bXJabV9lMm50dktZbmZycnBCVVB4TklCaTdQajJKVHY4ZE5xWDRKcm5uMS1TdlBYWENWTXBXNm45eExVUmlWc01kUms0ck0yWlR6THdmOC1vZXRhSktTQjBkeUNJT1NFM3ZqSTRtSWJCUzEwNlZQSjRERDh0Y2pfYllZ?oc=5"
-    },
-    {
-     "titulo": "Corinthians triplica déficit previsto para julho e chega a R$ 278 milhões de endividamento em 2026",
-     "fonte": "terra.com.br",
-     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPUXVBeUp6cXNBcTBwZDNLSTdYNldwcEFMUlcydi1BU0NHSUNOMjRpRERVOHZFMTFsTm9XcDN1d3Z6dUh0Nk1USUFPLUJKTDZiWXdJdzlzSm5JMUstNU5iYTFLaS0xczg4cno0YnNfNUY2UENKQVlYWFlYZFdmMllVRndUYmRwelVic3JWUjRYaWhnVzlRNFJGaUp5aGtGNXBRRUtXZTVvMllmdXdraUJUSU9hYmtEaHUwR090RHlNc05WQS1CYnBpVHhfZFJTQlhKOE9OVGZsX0Q2NTRxSFdOSGJwQUc1NUc5em5tZS16Sm85bTZtaGdtOU1LVUdsZkxaZWlIUXpUZ2VrMFh4c2RDUndSYw?oc=5"
-    }
-   ],
-   "youtube": {
-    "consulta": "Corinthians Déficit aumenta",
-    "n_videos": 4,
-    "mais_de": false,
-    "views": 6865,
-    "top": [
-     {
-      "titulo": "DÉFICIT DO CORINTHIANS AUMENTA E CHEGA A R$ 278 MILHÕES | CLUBE TENTA ACORDO COM A CAIXA PELA ARENA",
-      "canal": "Meu Timão",
-      "views": 5655,
-      "url": "https://www.youtube.com/watch?v=Yw2N8dKUWUI",
-      "publicado": "2026-09-30T01:04:32Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "BAGUNÇA SEM FIM? CORINTHIANS TEM DÉFICIT MAIOR, COBRANÇA DO RCE E JOIAS NA VITRINE",
-      "canal": "Corinthiosidades",
-      "views": 843,
-      "url": "https://www.youtube.com/watch?v=fad-UEr4nfE",
-      "publicado": "2026-09-29T18:45:34Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "Corinthians aumenta déficit para R$ 278,7 milhões até julho, 258% acima do previsto. #futebol",
-      "canal": "Rádio Amigos Esportes",
-      "views": 207,
-      "url": "https://www.youtube.com/watch?v=_Bjj4oVP3_s",
-      "publicado": "2026-09-29T17:27:19Z",
-      "do_canal": false
-     }
-    ]
    }
   },
   {
@@ -593,7 +585,7 @@
    "termos_trends": [],
    "n_fontes": 4,
    "n_manchetes": 4,
-   "assinatura": "palme|gover|reuni|botaf",
+   "assinatura": "palme|reuni|gover|botaf",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 3 min)",
@@ -604,7 +596,7 @@
    "manchetes": [
     {
      "titulo": "Palmeiras descarta reunião com governo e tem cautela sobre contrato com bet",
-     "fonte": "CNN Brasil",
+     "fonte": "cnnbrasil.com.br",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN3VkT2ltX3UxeUpKd2wyeUltMHZjMkVjampMbDB1U2d6TUk4ZV9rR2lqcTRQaEhESFc3U2U0cTdqbm5JYzVhSGp4Zm1MeEFjTm9WWkpzVHpqSzdYcENkV0hqUjNzdnJlWlk2SGc0WVZqcDJnREZ0RWQ5a1BoY3JqZmVuMTdxbmZDWE95RWlILUh0bXhQZ3UzTkZtRjRoa3NhMVNfWEw5d253OGt5M202c0ZJVHFIVmNIVEZwMFNMYkxzLUhJQ2k2eEFHVms?oc=5"
     },
     {
@@ -614,7 +606,7 @@
     },
     {
      "titulo": "após fala de Lula, Botafogo, Flamengo, Palmeiras e outros grandes esvaziam reunião com o governo",
-     "fonte": "blogdomiltonfigueiredo.com.br",
+     "fonte": "Blog Milton Figueiredo",
      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNb01aR25aLUYwX3k4X3hJdGMxcDdXb2FWczh0MEJ5S01SLTRaV0ZyMVEweGk1N19xMUVJQlI5QWlVRTZ2aHJSZnhtdjhtV1Q0YjhRNWVaWnBPN2c0Yk54elZFNDhZdkZJbmpjUUJ5TW4zdzRsWExibFBVSHdkQmNJQjFQbWl3UWE5Zy1hQ3BlRUxMdGlWZ1dYb1c2X3JNbFloNXhTOE5fYVBTSFY3UERtc0VrbkJZZzJ6Zmc5NVFuaXEwelpHM0RxVndPeTU1NWFIanZHVTZkSDJwWWRmWnBBQ1ZLb1BBV3czckdlSE9rRWdWZw?oc=5"
     },
     {
@@ -657,6 +649,85 @@
    }
   },
   {
+   "tema": "Flamengo terá desfalques importantes antes de duelo pela Libertadores",
+   "categoria": "Lesão e desfalque",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 58.0,
+   "sinais": {
+    "busca": 60,
+    "aceleracao": 8,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": 82
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "arrascaeta flamengo",
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "desfa|flame|liber|aumen",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "Esse desfalque muda tudo para o Flamengo nos próximos jogos.",
+    "titulo_thumb": "FLAMENGO SEM ELE: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Flamengo terá desfalques importantes antes de duelo pela Libertadores?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Flamengo terá desfalques importantes antes de duelo pela Libertadores",
+     "fonte": "sportbuzz.com.br",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ240T29fMjd2UVV2NVk3VHNZNTRVdXJGSEw4V0phM2NnbExTMGZnRklISDNzMjdRM3ItcFVUS0ZfUGxTUlBXdS1PcmpDWVhTQWU5bTgxU0xkZkZHdkVTS2ZuOU5UaHIxNkVESUt1dGtUVFRhZ2h2bThOSHdRR21QVnJ1a3pWSkR3cFJvX05iR0NqcXVLMFRKNDVCUFZlOGotdFI4RHN0Z2d2NWFXcWRqcTJYNUE?oc=5"
+    },
+    {
+     "titulo": "Sem Arrascaeta, Flamengo trabalha opções para volta da Data Fifa; Jorginho também desfalca na Libertadores",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRXg2bkREUGo5Qk5KR24xSmR4cDlKaGxKR0Y5MXJGYVhmOW9DSDlnWmhLU1Fja2Y0Z2RnVVg5X29rRmlFMEo3aUJ6bWJvdFpHVGVVWnVmQXJMdkJncDZScVIyczg2NHYwOVRZakhJTE5UdHltcHdnTkxoSXNqZTNGQWV5TlZ4WklNZnNvOHhCMnduN0hwYjhGQ0E3cTBPdkYxeGdSbFQ2NjF2YXJoODFEeTl6aUtqZjh5QTRBTGNUVmc3VmtsallZUzc0WkVTYUFLak9TUjZCMW9JbHhOYjI5OG1tS0hLYk9hTXhHMjg4RHA1cXVpRHVCV0ZQUjU3eFlQdXdr0gGSAkFVX3lxTE1fbllleGRSYk9ZU25udmVBREVfdHVKTVFQellYQVR2V0JBMHVsSlZzalNkSDVlUWFwYWlpWGROTDdETnVkdGxScDMxS2Qtd2dJZkQ4aTVQUUxhVUpZSFJPck1sV0tQSjFIN0p6V1BwQnBNVU9mRW5KS3dPXy0wMVNvclpoNjNXMHBQSGdRVzVqRG9HLVBPOTRGU2U1M25pVWpjRklWMmVrRGh3X1FGZ0JjemNrSGNtYTluOGRTZkczUWhxeW85NEtVeWF5SkE2aklqTzBHaXgzT3JCWTJSYm1mS0xBWFQxa1NiTVpVamNMN29EbUlSUnVLbEdDcVB2cEV4aVRZRnN1WmNtSWVESXdrNlE?oc=5"
+    },
+    {
+     "titulo": "Desfalques do Flamengo na Libertadores seguem aumentando; confira a lista",
+     "fonte": "cnnbrasil.com.br",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV0JaaV9lUGR2d1lrQ2stR0VnZHF3WlRWUnlUam40anZnUVRjNnFiRVllMUFpOFhpUzdIVnFkOUMyMGV0X3l1Y0J1S2RRaXgwRnljRUN3cWNZeUkzZl9HaFlYaHI4UlBITEdXQTRkNVdXQ050bEtmaTdvWGZtY1V4TFVkTy1uVmY0M3ZJcW1RbW02V1lrbkh2R2J1U3E0dGFtRFhhNWw3S1ptTmtTUlRqdzE4UVpJcThSOTIwTUdXTUItWng0YnJr?oc=5"
+    }
+   ],
+   "youtube": {
+    "consulta": "Flamengo desfalques importantes",
+    "n_videos": 24,
+    "mais_de": false,
+    "views": 41351,
+    "top": [
+     {
+      "titulo": "FLAMENGO AGENDA CIRURGIA ARRASCAETA! FLAMENGO VOLTA AOS TREINOS QUARTA-FEIRA! DESFALQUES NA LIBERTA",
+      "canal": "Wesley FLA 12",
+      "views": 10010,
+      "url": "https://www.youtube.com/watch?v=2OCRRcpU0dg",
+      "publicado": "2026-09-29T19:17:30Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "URGENTE: ARRASCAETA LESIONADO! FLA DESMENTE INFORMAÇÃO! ESTUDIANTES COM VÁRIOS DESFALQUES! NOTICIAS",
+      "canal": "Visão Rubro-Negra",
+      "views": 9668,
+      "url": "https://www.youtube.com/watch?v=XDMaIz8C6aU",
+      "publicado": "2026-09-28T16:42:08Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "JOGO COM CONFUSÃO! ESTUDIANTES PODE TER TRÊS DESFALQUES PARA PARTIDA DIANTE DO FLAMENGO NA LIBERTA!",
+      "canal": "Paparazzo Rubro-Negro",
+      "views": 7370,
+      "url": "https://www.youtube.com/watch?v=Ebz0bouSyRA",
+      "publicado": "2026-09-28T14:45:00Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
    "tema": "Palmeiras recebe vistoria da PM no Nubank Parque por ampliação do setor visitante contra o Fluminense",
    "categoria": "Notícia do dia",
    "clubes": [
@@ -664,10 +735,10 @@
     "Fluminense"
    ],
    "foco": true,
-   "nota": 58.4,
+   "nota": 57.7,
    "sinais": {
     "busca": 60,
-    "aceleracao": 78,
+    "aceleracao": 75,
     "midia": 58,
     "aderencia": 100,
     "youtube": 0
@@ -678,7 +749,7 @@
    "termos_trends": [],
    "n_fontes": 3,
    "n_manchetes": 3,
-   "assinatura": "palme|receb|visit|ampli",
+   "assinatura": "palme|receb|visit|nuban",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
@@ -689,7 +760,7 @@
    "manchetes": [
     {
      "titulo": "Palmeiras x Fluminense: Nubank Parque recebe visita técnica da PM",
-     "fonte": "terra.com.br",
+     "fonte": "Terra",
      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONExfYzFnRDNWZ2RMcF9xa204UXFTOXJoLWVGeXVDVWUtUTEwVFdRLXpuTmRrNklTaEMzeWJZN1YycDIyTkxKUF9xRXZ3aG00WndUM0h5VHRIVTR1QmhvVmg0enF6Z0lYUnphSEtmSEd6MDlqTWUxZTNhazNWMklzcHZYWko5cXp6aFdpN1N3RzItSG9WeWhQdXVIV2VhUWxpajFDMm1HOXdYQlF2UUdIVVg4amEwNWFhbUZXUkJha25LdHo5WUM1U3hLQll0QmpyVVhyRTNqbnVVUjQ1RHZxNE9wYjhJVWdvelhfTTdpQWgtWkNhQV90bQ?oc=5"
     },
     {
@@ -712,176 +783,80 @@
    }
   },
   {
-   "tema": "Saiba os próximos passos do tratamento de Arrascaeta e como o Flamengo projeta seu retorno",
+   "tema": "Bahia intensifica preparação para enfrentar o Palmeiras",
    "categoria": "Notícia do dia",
    "clubes": [
-    "Flamengo"
+    "Palmeiras"
    ],
    "foco": true,
-   "nota": 56.4,
-   "sinais": {
-    "busca": 60,
-    "aceleracao": 28,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": 50
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "arrascaeta flamengo",
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "arras|flame|proxi|passo",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Todo mundo está falando disso. E você, concorda?",
-    "titulo_thumb": "FLAMENGO: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Saiba os próximos passos do tratamento de Arrascaeta e como o Flamengo projeta seu retorno?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Especialista revela quando Arrascaeta deve retornar ao Flamengo",
-     "fonte": "tmc.com.br",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTDlBZ0FvaXRXQlpNWGtQWWdRZWdOdVdyUGZzb0NLLVh3bGpFbUpHRUFrWFM4ajVtMlN0VzZkVERzcDYxZGFJN19lTUlEU0dReG5IdjV5aTR0TzFLZlo3bmRfdDYyMlhDRjJmbnRtb044OF84T1ZpNlNXWTJaaDVJOVVuVGZjSXRvMGF0cmx3?oc=5"
-    },
-    {
-     "titulo": "Flamengo define próximos passos de Arrascaeta após fratura no punho",
-     "fonte": "band.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXBXazlVNlBFeDAwTVlsdlYteFlzblVGcDJLdVVhUWk4d08zd3Q0NnBTb3paUDNqUGc2SUljbEZZSFMwTHZBQ0hEZHdHMkdkaDBrS1VvNXl4X1NVb3I0aUR2OTBfbEw3R2RsUVRIWkM2UkZOb1ktMjNvN0RieWNTM1JxMUhuSWJWaW5RNnhJcnBLbUIzaUZ1Um5vUjZzNmtHVTlGdl9WcVREQ3pKRmIySXFSWlQxc0FXbEkyRHAzZng?oc=5"
-    },
-    {
-     "titulo": "Saiba os próximos passos do tratamento de Arrascaeta e como o Flamengo projeta seu retorno",
-     "fonte": "ge.globo.com",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNR1EwRC1hRGozWE5EVXFYTlZadHB1ZHRpNHI3allMZlZ2djJYRkNnS2cwclVUVjBNbnZkcXpYVnloT1BLQVVXamxIZl9UUnZVZFZSR2hHV0l6a2gtRTdKYmEwQzhveU1YSTdyS2ZLWlVIU0l2WjBRZ3d4ZG1iZGtYaW4wbzNUV01yRDlIdGxzRXRPNUhvQkgtWUw2MzRQQVRxSzd0VzhIT25WVGVjS0JvVWFHTVpvOGNOVEc5bWVVcTVJbm1kaGxOYkJycE9XUHZoeEx2a1pxTFFSYmRoRHRKS0R2NG9BZ2JfcDJ3MWhiQ2HSAf8BQVVfeXFMT1lYTkp1RVhjMGp4NFhMbUtuTDJjYzBLTW9PU0lDbUg1TE5NdHN3cFBfbG1qc3g0VS1UbG9IaE04Ql91V1poUWFiUzMxMWh6ZXFrR0duNkg2WEZSbnRhUHRDNGo5WE03VjJ1alhKaWRkVVl3THFBRWtUczFvMWFjUU9HRl9zdHozd1YwVWdsSUpIVFhCb21ITkJWR19palh6MGkwQjJuRXJfSkR1aDlBQm81SlVfX0tBY2oyQ1d6RDRfQ0FhWlE1dHNkNVVnTU0xcVpiRzF0NnJCb2xSa0xMQW9vUVA2WHdGWEF5cXhvUENwRWxfemVHS1o5bG4tdmhJ?oc=5"
-    }
-   ],
-   "youtube": {
-    "consulta": "Flamengo Arrascaeta retorno passos",
-    "n_videos": 2,
-    "mais_de": false,
-    "views": 2090,
-    "top": [
-     {
-      "titulo": "Arrascaeta Cirurgia  Fratura no Punho e Retorno ao Brasil #futebol #flamengo",
-      "canal": "CORTE DO FLAZOEIRO",
-      "views": 1907,
-      "url": "https://www.youtube.com/watch?v=May2UZ7EuOw",
-      "publicado": "2026-09-28T21:30:05Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "ARRASCAETA VOLTA ao Brasil: cirurgia define retorno",
-      "canal": "Portal Rubro Negro News",
-      "views": 183,
-      "url": "https://www.youtube.com/watch?v=FTr2pQNz9Tc",
-      "publicado": "2026-09-29T15:05:57Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Lateral do Corinthians pode passar por cirurgia e ficar um mês fora",
-   "categoria": "Lesão e desfalque",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 56.0,
-   "sinais": {
-    "busca": 55,
-    "aceleracao": 73,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": 0
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "matheus bidu",
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "cirur|passa|corin|pode",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 2 min)",
-    "gancho": "Esse desfalque muda tudo para o Corinthians nos próximos jogos.",
-    "titulo_thumb": "CORINTHIANS SEM ELE: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Lateral do Corinthians pode passar por cirurgia e ficar um mês fora?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Lateral do Corinthians pode passar por cirurgia e ficar um mês fora",
-     "fonte": "terra.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbFRVNXpydlJQanoxMXllYTZyTEt6MGplb3o5d0xHbzRzZHZrUUszRHJPMWNlNVNsaWNKSXVOLTJFc1NyTFVsODR0ZUtlQlJ0aG4wWmRvZXlFWVhLZDRneUttcUFZa1RYekN2bGFmVnNEMHZBcUNIS1V0WVBlWEw3NE54ZTNST1ZWU3d6Z1ltSm5lQXRKWFpUZVFyakkzb180V25rWE1aY3N4ai1FREVvUzNkbmgxZVpGTUExd3cyZTJtMVNNcXdaa1NVTTVtcXpxQjBmVEhFV0dkVG5CNUduRVhCZ3JNbVg3RmVqU2l3cDE?oc=5"
-    },
-    {
-     "titulo": "Lateral do Corinthians deve passar por cirurgia",
-     "fonte": "tmc.com.br",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUFkWFJsSXJQMVFpMGNyRDgxSWJWMEVxRHJrWkFBbFpBWU5fU2RPSFlHOEx3VnBBYmxTb19jUmx5dVVUS2lTZWlfenMteFdVSHVKNEhwNkFRTzZHRmxGY1dtb0hEeFZmWVk5Y2NqbHNMZV9TUmc5NlpBYnNLQ3pOTWcyQlNiZmFWR08xcF9takdnU1hFMlRjb3NpM3liRzlC?oc=5"
-    },
-    {
-     "titulo": "Matheus Bidu pode passar por cirurgia e desfalcar o Corinthians por um mês",
-     "fonte": "365Scores",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaUlMWU5ib3FFbVVQbDdSY0RVNklGN2QxY3N1aDNpQ1N5VzV5QVhSMldyOU5pWHBpaFBzc1BrV1hDRVpWWFg0dlozdFlTLUJWQW5VaUx0MVVBSHFRc25jbUFwRjctb0FjYzhoNEh6SWJYM3NQejhyYmtWRkt2S2lkWHpVZElqNGNaWWhNMG5SVHZUQy1NUGl2YktLcXJDQQ?oc=5"
-    }
-   ],
-   "youtube": {
-    "consulta": "Corinthians Lateral cirurgia fora",
-    "n_videos": 0,
-    "mais_de": false,
-    "views": 0,
-    "top": []
-   }
-  },
-  {
-   "tema": "São Paulo calcula multa para rescindir com empresa que administra sócio-torcedor",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "São Paulo"
-   ],
-   "foco": true,
-   "nota": 54.9,
+   "nota": 54.0,
    "sinais": {
     "busca": 0,
-    "aceleracao": 78,
-    "midia": 58,
+    "aceleracao": 68,
+    "midia": 67,
     "aderencia": 100,
-    "youtube": null
+    "youtube": 55
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
    "busca_torcedor": null,
    "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "empre|paulo|socio|resci",
+   "n_fontes": 4,
+   "n_manchetes": 4,
+   "assinatura": "palme|bahia|enfre|prepa",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
     "gancho": "Todo mundo está falando disso. E você, concorda?",
-    "titulo_thumb": "SÃO PAULO: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: São Paulo calcula multa para rescindir com empresa que administra sócio-torcedor?"
+    "titulo_thumb": "PALMEIRAS: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Bahia intensifica preparação para enfrentar o Palmeiras?"
    },
    "manchetes": [
     {
-     "titulo": "Pedro Lopes: São Paulo e empresa divergem e sócio torcedor pode virar nova briga",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYmpYSUE4QWRpNGR4MlJBOFRhcmotSmZqa1I2UXlNVXN0WnVBekd2czdaUmJubnJDaWpWYXl5YldHbGJXOEFXekVkRTdmRzNXem13anVKdmRhZEhBdEJwbTcyZzdsVF9VMWJkZnE4SkozbzRMaW5LM1ZvZ1JUREpKWDBJNmgwbDhoTUYzSkxEYnkwM19XbzNkdU4yUE8xOHZmRUZ1Q1VPU1FoMlZnSE56Wk12bm14ME04U0RpTERndnVkT1pCdWhzSS1QR3NzUQ?oc=5"
+     "titulo": "Bahia intensifica preparação para confronto com o Palmeiras",
+     "fonte": "deolhonacidade.net",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeGdfLWtTX2luZ1Q1ZG56eUlYRTBYQU9ERUhhNkVMemk5dldydm9tMlVMV2k2aXhwVlBpSTdFV0ZBR3F3clNOVWZxZDM3NkROdkk4b25Wc19fZEh2TVNRUUpLRGhRaGNocWg5eUR0cWxjOGcyMGpFZ0M0YnJWcDB2aEZYSzNLTXA0by1HQW1FOUoyQUhf?oc=5"
     },
     {
-     "titulo": "São Paulo prevê multa de R$ 3,7 milhões para rescindir com empresa que gere sócio-torcedor",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3c3S01YU2tDMk5CM3BranNFWl9zNHNBWlBpRmlnNEljUjNmT2tZRFgyaVlGVTdpdGJuZkVYRm54ZGpxVHJUZWhFSUxQQk5XTFV6Mm14dEZ0V01yLTNUMXdSVENCUGFlQTBaVEJsQ0hScjIzNThhRnNpZnp3T1FqMlFCckQ4SXV5TUVnOXd2Tk1GRVJLTUxfYTgzNGQwVVFoMUo4SE5B0gGmAUFVX3lxTE9TdzdLTVhTa0MyTkIzcGtqc0VaX3M0c0FaUGlGaWc0SWNSM2ZPa1lEWDJpWUZVN2l0Ym5mRVhGbnhkanFUclRlaEVJTFBCTldMVXoybXh0RnRXTXItM1Qxd1JUQ0JQYWVBMFpUQmxDSFJyMjM1OGFGc2lmendPUWoyUUJyRDhJdXlNRWc5d3ZOTUZFUktNTF9hODM0ZDBVUWgxSjhITkE?oc=5"
+     "titulo": "Bahia intensifica preparação para enfrentar o Palmeiras pelo Brasileirão",
+     "fonte": "Notícia Livre",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNDVJUm9iWlFaazNWU3FDWmxMbjJyS0hhNFZlZWcwRFNLRllWUTN4N2J0X0dhT2p5WFV4S2llRGFBWGxMQ2lkV3lfMzV2MWcwVmlxdnlCbWk0OG1TTFhmaW42YmctdHAxeW42OTZrVkRlX3BLLXh3RlJUd2ctSlViVTRhWVZVTmR5ZFRkZlBwU0pQeUhrRno5cXctRTNyWVlYMENZ?oc=5"
     },
     {
-     "titulo": "São Paulo calcula multa para rescindir com empresa que administra sócio-torcedor",
-     "fonte": "ge.globo.com",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaEpYLU9QVlZNQTNrbEJqYl9rRkpFOHpJUmpNeDE0aFdpSVhBT1NMa19ncXZvSlk2SWpuQ3Q0VVhRaGZtRkRiZGFjcVZtLVhiUVVNTU96X2ZBY2tWZWlwbmFMaWlRekhMTzk5N3RHTnVfN1J4Sk5yY2o0ZW5uUGVlbjNaTmhJYXBHaDNuQ24xU0ZIRlVEMHVFUTR4dUdlZk50SDNXWC10b0lydUpXLWdXMWZSLWVFUjVwcEZiOXBud3lKckNGZVNoeVAtd0R2YXE4UGVjY0ZjWHF4NWE5dW1UWklqNEPSAfMBQVVfeXFMUFVwT19MVnpUaXFxUkFhNm4teTl2YnY4ZFhtbEJvOGtnRmdEVXdQQXNuVnM5bS1kTGJlSEdNSkNkYXFJOGVhTF9QWjVkWnRybVc1ekE5cHZmTktwNGJBMVFjOE1VZndpNUtiX1QtbFZic0x4b3NqYUZTbnFEUnNGclo2Sktkdk9TNVVkTlZVTFU1R0JYekJqMVotaUdOSDktRktzckpsV3ZVSDNUV09IaVNmbXlhZjB0ZnE4dnNaSTZsbzNkbFJQR2J4dlF4eXZUSDFmc2xTa05rcDJDRXJBeVZaQU9RRTJYQUdITEpWcTF2aDd3?oc=5"
+     "titulo": "Bahia intensifica preparação para enfrentar o Palmeiras",
+     "fonte": "bahia.ba",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOazFYcHZFVFpPdVV6dGxSNFJWQ2dhbXRUWE9YUUZicTVjWEIzbC1PTDdQb3RDcHR6ZmxZemdObDJNZmJtekdCN1hqU2VvOHhkWWZkUktBOU04TElkUWdmbEs1WTU3OEhvVXFabDBoNFRCWWFCajVXWlk4eThYMTRaSVZxZnNQejZ3?oc=5"
+    },
+    {
+     "titulo": "Com Michel Araujo na transição, Bahia treina para enfrentar o Palmeiras",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNem5qaU5WQ0xSQzRwOWJRM1NhUEZ0VlVtaEc5TVAxZHMybllQd29vajI0eW5hLW9QbXpPSl8za19YVlpiRC1uSGVTZlNJVGl5RlM2REFSNWtibWh3UkRIdnUtMFIxb2d2ZGY2ZHllVkl5dk9hbHR4Snp0RmZ0MTRndEZDZk5QbVBKcDFfN0hYRTY0LWxrdUtpa0N5TFVHdmxKVk9QOWQwYV9sYjQzMFBoSm50TVZBMWNzWUg2Vkhfbks1RzNSU1B3ZHljZmVNdEprN1FiOV930gHkAUFVX3lxTFBKa0JkNWxwT2NVN2tDdTBLY1dQQ1M2VEhIRG5EUjY1Qks2RG5BVWp5SGQ5dklSWEVvUVplcWM3TkY5Z3lmREhOLXBwZkZ0SGV5elZRYjRKNnRieHNSNjBYVkVuaW5QZldmSm5IMXBjYW96cGxSZHNxUm9ONUk0ZEw2NTJlVkUwdDkwa3dhejhXZ2QzSmRRdU9jZU5ibVQ0X2dQVVl5LXNManF6VzlWWkJtWC1LdTQ0WERwNmw0d295T0lNU28tN0hKRVFPLWcwZEdudWFmUG1KT2NOT3EzRzlwYUdSaA?oc=5"
     }
-   ]
+   ],
+   "youtube": {
+    "consulta": "Palmeiras intensifica preparação",
+    "n_videos": 2,
+    "mais_de": false,
+    "views": 5143,
+    "top": [
+     {
+      "titulo": "💚PALMEIRAS X BAHIA - VERDÃO TREINA EM DOIS PERÍODOS E PAULINHO APRESENTA EVOLUÇÃO!",
+      "canal": "FUTEBOL TOTAL OFICIAL",
+      "views": 5137,
+      "url": "https://www.youtube.com/watch?v=lLM6H0_j6cs",
+      "publicado": "2026-09-29T14:34:11Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "O Bahia retoma treinos e intensifica preparação para enfrentar o Palmeiras.",
+      "canal": "LR  ESPORTES",
+      "views": 6,
+      "url": "https://www.youtube.com/watch?v=2rj4ecNEaSA",
+      "publicado": "2026-09-29T11:45:06Z",
+      "do_canal": false
+     }
+    ]
+   }
   },
   {
    "tema": "Flamengo aciona STF e reforça ação das bets contra proibição do governo",
@@ -890,21 +865,21 @@
     "Flamengo"
    ],
    "foco": true,
-   "nota": 53.6,
+   "nota": 51.0,
    "sinais": {
     "busca": 0,
-    "aceleracao": 62,
-    "midia": 75,
+    "aceleracao": 72,
+    "midia": 87,
     "aderencia": 100,
-    "youtube": null
+    "youtube": 19
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
    "busca_torcedor": null,
    "termos_trends": [],
-   "n_fontes": 5,
-   "n_manchetes": 5,
-   "assinatura": "bets|flame|refor|proib",
+   "n_fontes": 7,
+   "n_manchetes": 7,
+   "assinatura": "bets|flame|stf|refor",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 3 min)",
@@ -914,133 +889,113 @@
    },
    "manchetes": [
     {
+     "titulo": "Flamengo pede ao STF para entrar em ação contra veto às bets",
+     "fonte": "esporte.ig.com.br",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQU5XUUVJcVBNRDhVc0ZULTd4UUg5OXZsbGZla0ltdGV1X3YyZnpSOEd2ZXFHcDBEQlN0bUJ0TFNpX2ozeXZESFE3Ry1GdEh0NGk5VVBKUVBFbEJmcmFJamFzaG9fVWhwVjFxSGxFSEUtREllU21GWElwTERaT3FaelBycHE2bFZvUXpMTDNfY3hDUC1YeEU5TUIwUkNnUU5PaktNeU96Y0prV21RRkFKZElaRjZYcHVwbVlTYmFB0gHDAUFVX3lxTE9nREk2VXlweExwdF93LWMyRk9uQ29rc2ZvLUp1X21YbzlyMFNoc2NzTHV2UzUtRjFjOVp2SS1UbWtzZm5tMnBLaTVCTzFTLU9rbWNaUXV3ZHplVzlpOEtyM2JQMFl2LU0wWHEtRVdPNkYwQkhSVWxIb1JRM3B2azY2aWZZZHZWQVdmV1UxTWNfMFR4eGhZbW1yVjQ1Ym1pSEJ1c0dzek5TQjBEbUVMM0laRDZxeUlja2NBU081Wi1Ha2o2RQ?oc=5"
+    },
+    {
+     "titulo": "Flamengo entra com petição contra veto às bets no STF",
+     "fonte": "O Dia",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZURDQUl3RHl4VG83YmVRU0N5cDJQT2dBdS1fYWVSb0tQOXlIemtVVVM0MDhnQXlRNTNSS1UzbVJhWTZJd0FwdFE2aFhzMEQtdXczd25mUEtzbXNqRC1uY1o1VFdlN2prZjRrMUs1eWhWQm9lRHNRbTFBSVItVndFQ3N1V2pLby1KRnNYNFdpR1pic0RfdDZ6VHNQUU5YUEdzLXo2UE91bGFDXzNZTk1SeUQwMHrSAboBQVVfeXFMUDM1aUF3RnQ0MXdFOVdtanY0ZjJwcjRLcUVfRElPTkpXN2pyRzZ6OU1vUlFTWXpZeUxOQkFMbjYwaGk3dnNUTG8zWTFSeXV4N2dHSFhxbzkzcmpPX2FIRkxBYTM5bjBicUtLTWc0QWdEY2lFa1ZtdWswVW9sd3Bna1MzUUFOcHU2alZieHkyY3JzMUxkT0tTNVpnQll4LVhSZW1iSVAzU3dHRHFPeXBKX002ZG1wbVQ2NXFB?oc=5"
+    },
+    {
      "titulo": "Flamengo aciona STF e reforça ação das bets contra proibição do governo",
      "fonte": "UOL",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcE83SkJDM25zdkJJeFc0N05hYUlSM2lBTjNSdnk0OHF6cklPaWJhZWpBWm85eGNpSDBFNjdBN1dEay02NjRvSXl0MWdnSktwRWtrNVlWMU15aUNadWM0cFVVRklBTHJHd0NHUjFKck1vN0g2azZtQ2NxeEhlNE8tTzR4Q2N3eFBFcnhabXZsR1FQUmFQRExxZXktalRhTndPNmpULXRFN0lHVi0yalFTbW00SVg3OHktbnRUX3BUZ2JhcTBmb2FyUEh3QjZDQURMOTFDYjdfbmhiODZK?oc=5"
     },
     {
      "titulo": "Flamengo se antecipa a clubes e pede ingresso em ação no STF contra fim das bets",
-     "fonte": "O GLOBO",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcU8yQU9ETUhRMWN5cnNIbTQ1RVVVZWFoNV8zYVFDdm43OERTSnlGMDhpa2d1Y0ZsRVRfbnpVYV9BWjFYeXBJM19UU1ZfWmgzcER3MlBWRHB5UGdwOVRibEJSOWN1VGhHMEZMcjZ2OG9JcVJkSEZDWG5wVk9vRmVaX2RlQWJ2WVNiMDAxMVNyS093TnVQTENIMlU4OElIa1VmRUlialNRSElDZ2ZFSlhoNlhPcU9PNXRxX3JqZ2ZPdE5jLXNvalR0YVM2U0xJUVU2ekNiS2J3NNIB5gFBVV95cUxNNjJrTFQxOGhhZnF0ejR6VS1ZRXdRN3hvX2UtZzFDWEhiWlptb0Q3WGhZV1JURDNNcXNzMy1HWlVYMUYzUU1LRXBNVW5PeWgtRENVam9ocXgwSnY3eC1CcjYzOFBRMm5hUjVqczNHc2FWVmRZRkdOWFNFTVdVOHhPZFplelFWZFdjUDEyS0NGdlVHd3FjdlNDYm1rNF9LU0ZObmpTeTlqVXZScEw5U3V3aElNelljNTJCNEVnOFRnU3BnYmY5WVF6SVJyWk5PRjIySUdOX2t5SDNhUUtoTFl6OU5zMEtFdw?oc=5"
+     "fonte": "oglobo.globo.com",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcU8yQU9ETUhRMWN5cnNIbTQ1RVVVZWFoNV8zYVFDdm43OERTSnlGMDhpa2d1Y0ZsRVRfbnpVYV9BWjFYeXBJM19UU1ZfWmgzcER3MlBWRHB5UGdwOVRibEJSOWN1VGhHMEZMcjZ2OG9JcVJkSEZDWG5wVk9vRmVaX2RlQWJ2WVNiMDAxMVNyS093TnVQTENIMlU4OElIa1VmRUlialNRSElDZ2ZFSlhoNlhPcU9PNXRxX3JqZ2ZPdE5jLXNvalR0YVM2U0xJUVU2ekNiS2J3NA?oc=5"
     },
     {
      "titulo": "Flamengo ingressa no Supremo para reforçar pedido de suspensão da proibição das bets",
      "fonte": "CBN",
      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMHB0ektKSnJkbWRzcjdrZXRlUzgzQ1czYUdwbWRxbkY2dW1LaEtGTjk0cXJ2Q0dDTnAzT3lWOTczaEduM3JKT2gtMjZoWXFsWlpfMjRCdTdvS2hqZW9ZTjRPMlVPLUl5RzVjaUtVcWpfaEpzMXlXQXNWRFVGNUZ4S1Blb0cwSG1QVWczR0JkMFBoU3NuckF5Q0hlLXhfckgyNmZSVmlkSmVqYnVQTUt5Q0pnWEQwX0JHazNxUzE3RXphZ3BEY2lMdEthN0t0dG5lSUFZdE14WUEzU1RJb05LdmFuaktOQdIB5gFBVV95cUxQMHB0ektKSnJkbWRzcjdrZXRlUzgzQ1czYUdwbWRxbkY2dW1LaEtGTjk0cXJ2Q0dDTnAzT3lWOTczaEduM3JKT2gtMjZoWXFsWlpfMjRCdTdvS2hqZW9ZTjRPMlVPLUl5RzVjaUtVcWpfaEpzMXlXQXNWRFVGNUZ4S1Blb0cwSG1QVWczR0JkMFBoU3NuckF5Q0hlLXhfckgyNmZSVmlkSmVqYnVQTUt5Q0pnWEQwX0JHazNxUzE3RXphZ3BEY2lMdEthN0t0dG5lSUFZdE14WUEzU1RJb05LdmFuaktOQQ?oc=5"
-    },
-    {
-     "titulo": "Contas do Flamengo: dívida por reforços e MP das bets pressionam orçamento rubro-negro",
-     "fonte": "No Ataque",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRHFHRnFkZlhveTlCd3ZHVk5Vdkozc1dpcS02Um8wbkVvZ1p5OHpFNVAxdkd4MGRTOTdSQXdnT1I2N2RYTTV5U25fM0R5XzVfV1hvWGdiSUZVY19HbjVLbDdxWXNvSkNFZElqd2pnQXVlLWlkaDFSUjVrSjljSDZ6Q1ZYM3J6TGNJWF95ck0yTmdOZlN3RFhIQm9rUk5xcHJpQi1LYld3TDlQejZ1Y2JzNGcyRlNYcUJxazVvd1B2SUZpR0ZsYW9oT01vLVBDVFltOWs1X1dTTjVabHZsdHJfbDNOMm5QQQ?oc=5"
-    },
-    {
-     "titulo": "'Como vou pagar Paquetá?': quanto Flamengo ainda tem em aberto por reforços após proibição de bets",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWEZFNVRTYjNPdkEyTV9YSGgtakpvMTg4c2psWHNhR0ZqWmZvRDBpVmhBN3FrVUNQNHBVOW15alZkTGdUNzBtSlN0VFA0WFZHZmptd19vb09scXpiTmZqLXlXRG11c2xUTVBuNXVQTTdrT0ZlN1l4SXozUE40aWtkcUthelBKN1ZlSmp4YlU4S1NxZGNyU0owamVnU1FQNE5sREgzRHVGN2JBUFpEV1E4MVFzQ3hwS2hITGR6Vno1YUFZX1FGbmRXQlBndkhlSTQ4MVhsem0tRlU?oc=5"
     }
-   ]
+   ],
+   "youtube": {
+    "consulta": "Flamengo bets ação",
+    "n_videos": 1,
+    "mais_de": false,
+    "views": 11,
+    "top": [
+     {
+      "titulo": "Xeque Mate!!! Torcida do Flamengo revoltada, Lula Caindo nas pesquisas após ação contra as BET's.",
+      "canal": "Brasil Sob Análise",
+      "views": 11,
+      "url": "https://www.youtube.com/watch?v=V5gSRPp5AN4",
+      "publicado": "2026-09-28T22:25:14Z",
+      "do_canal": false
+     }
+    ]
+   }
   },
   {
-   "tema": "REAÇÕES SANTISTAS - PALMEIRAS 3x0 SANTOS - COPA DO BRASIL 2026 - VAMOS RIR DO SANTOS! Rick Tocchet (FpexJLcX39)",
-   "categoria": "Notícia do dia",
+   "tema": "Neymar deve ser reforço no Santos contra o Flamengo pelo Brasileirão",
+   "categoria": "Mercado da bola",
    "clubes": [
-    "Palmeiras",
+    "Flamengo",
     "Santos"
    ],
    "foco": true,
-   "nota": 53.3,
-   "sinais": {
-    "busca": 35,
-    "aceleracao": 57,
-    "midia": 29,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "palmeiras x santos",
-   "termos_trends": [],
-   "n_fontes": 1,
-   "n_manchetes": 2,
-   "assinatura": "palme|brasi|copa|santo",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Todo mundo está falando disso. E você, concorda?",
-    "titulo_thumb": "PALMEIRAS: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: REAÇÕES SANTISTAS - PALMEIRAS 3x0 SANTOS - COPA DO BRASIL 2026 - VAMOS RIR DO SANTOS! Rick?"
-   },
-   "manchetes": [
-    {
-     "titulo": "REAÇÕES SANTISTAS - PALMEIRAS 3x0 SANTOS - COPA DO BRASIL 2026 - VAMOS RIR DO SANTOS! Rick Tocchet (FpexJLcX39)",
-     "fonte": "media.unisba.ac.id",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeFBfU0lTVTQxN0R5MGZBeWdadlA4QnBFWGhDajhSSk5Ka1ZhSDkxUV91ZmhORVlCR3duYm1fd3JVUEJCZ2t0OWJMRVA5eUxfMFg2TXhwTUh1QkpSZUItV04zZjkzY1VGZVhWNmcxZVdhdnhRTnFMWkdEQ3RfajVUdkVRVEo1bjA?oc=5"
-    },
-    {
-     "titulo": "🔴 AO VIVO: PALMEIRAS X SANTOS | QUARTAS DE FINAL | IDA | COPA DO BRASIL (26/08/26) Benvenuti Al Nord (eeFXb1bQ5L)",
-     "fonte": "media.unisba.ac.id",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQlpzV3AtbXlXTGZEekw4NzNCUnVvNGFfb0lxNXhnWXJNa0lZTnBiaTJmb2QzckZlRUZwQnJTZ1gtMHp4d1RXNVpZZ3pGNEVTMmJnMTV3N0J6eU1qSlZIUU9VTnp4ay1PemJUSFFGV3ZEbldjc01uTEFRa2ZlMVNPUUlR?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Flamengo terá desfalques importantes antes de duelo pela Libertadores",
-   "categoria": "Lesão e desfalque",
-   "clubes": [
-    "Flamengo"
-   ],
-   "foco": true,
-   "nota": 52.0,
-   "sinais": {
-    "busca": 60,
-    "aceleracao": 8,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "arrascaeta flamengo",
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "liber|desfa|flame|lista",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 2 min)",
-    "gancho": "Esse desfalque muda tudo para o Flamengo nos próximos jogos.",
-    "titulo_thumb": "FLAMENGO SEM ELE: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Flamengo terá desfalques importantes antes de duelo pela Libertadores?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Flamengo terá desfalques importantes antes de duelo pela Libertadores",
-     "fonte": "sportbuzz.com.br",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ240T29fMjd2UVV2NVk3VHNZNTRVdXJGSEw4V0phM2NnbExTMGZnRklISDNzMjdRM3ItcFVUS0ZfUGxTUlBXdS1PcmpDWVhTQWU5bTgxU0xkZkZHdkVTS2ZuOU5UaHIxNkVESUt1dGtUVFRhZ2h2bThOSHdRR21QVnJ1a3pWSkR3cFJvX05iR0NqcXVLMFRKNDVCUFZlOGotdFI4RHN0Z2d2NWFXcWRqcTJYNUE?oc=5"
-    },
-    {
-     "titulo": "Sem Arrascaeta, Flamengo trabalha opções para volta da Data Fifa; Jorginho também desfalca na Libertadores",
-     "fonte": "ge.globo.com",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRXg2bkREUGo5Qk5KR24xSmR4cDlKaGxKR0Y5MXJGYVhmOW9DSDlnWmhLU1Fja2Y0Z2RnVVg5X29rRmlFMEo3aUJ6bWJvdFpHVGVVWnVmQXJMdkJncDZScVIyczg2NHYwOVRZakhJTE5UdHltcHdnTkxoSXNqZTNGQWV5TlZ4WklNZnNvOHhCMnduN0hwYjhGQ0E3cTBPdkYxeGdSbFQ2NjF2YXJoODFEeTl6aUtqZjh5QTRBTGNUVmc3VmtsallZUzc0WkVTYUFLak9TUjZCMW9JbHhOYjI5OG1tS0hLYk9hTXhHMjg4RHA1cXVpRHVCV0ZQUjU3eFlQdXdr0gGSAkFVX3lxTE1fbllleGRSYk9ZU25udmVBREVfdHVKTVFQellYQVR2V0JBMHVsSlZzalNkSDVlUWFwYWlpWGROTDdETnVkdGxScDMxS2Qtd2dJZkQ4aTVQUUxhVUpZSFJPck1sV0tQSjFIN0p6V1BwQnBNVU9mRW5KS3dPXy0wMVNvclpoNjNXMHBQSGdRVzVqRG9HLVBPOTRGU2U1M25pVWpjRklWMmVrRGh3X1FGZ0JjemNrSGNtYTluOGRTZkczUWhxeW85NEtVeWF5SkE2aklqTzBHaXgzT3JCWTJSYm1mS0xBWFQxa1NiTVpVamNMN29EbUlSUnVLbEdDcVB2cEV4aVRZRnN1WmNtSWVESXdrNlE?oc=5"
-    },
-    {
-     "titulo": "Desfalques do Flamengo na Libertadores seguem aumentando; confira a lista",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV0JaaV9lUGR2d1lrQ2stR0VnZHF3WlRWUnlUam40anZnUVRjNnFiRVllMUFpOFhpUzdIVnFkOUMyMGV0X3l1Y0J1S2RRaXgwRnljRUN3cWNZeUkzZl9HaFlYaHI4UlBITEdXQTRkNVdXQ050bEtmaTdvWGZtY1V4TFVkTy1uVmY0M3ZJcW1RbW02V1lrbkh2R2J1U3E0dGFtRFhhNWw3S1ptTmtTUlRqdzE4UVpJcThSOTIwTUdXTUItWng0YnJr?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Sem venda de Allan, Palmeiras tem déficit de quase R$ 200 milhões até agosto",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 51.4,
+   "nota": 50.6,
    "sinais": {
     "busca": 0,
-    "aceleracao": 43,
+    "aceleracao": 57,
+    "midia": 67,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 4,
+   "n_manchetes": 4,
+   "assinatura": "santo|flame|brasi|neyma",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 3 min)",
+    "gancho": "Essa negociação pode mudar o Flamengo, ou virar o erro do ano.",
+    "titulo_thumb": "FLAMENGO: VALE O INVESTIMENTO?",
+    "pergunta_enquete": "Qual sua opinião: Neymar deve ser reforço no Santos contra o Flamengo pelo Brasileirão?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Flamengo veta pedido do Santos para antecipar o jogo pelo Brasileirão; entenda",
+     "fonte": "365Scores",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMEtRZHhfT1lJRDZYYzUwdnlEUTRIU3hQQWVHcFNyRUY1QUw1OU9IQjE4ZERpYTJNbUFfcGJUUnU0WTlfcm51R0U1RFBtQ244dVhfT2FJTlREd0ZJYVhyY3hFZGxVQjJkNDYxdkNXSU5rV0x2QXBIbVdwSmZ0UjR6VGUzM21iR0gzYmZJVEtfN3owWXZaZ0lieWM5Tk9UWFRJLXFQRXBiTUZKNGJMNEE?oc=5"
+    },
+    {
+     "titulo": "O Santos deve contar com Neymar no duelo contra o Flamengo, marcado para 8 de outubro, pela 29ª rodada do Campeonato Brasileiro. O atacante iniciou a transição para os trabalhos no campo após ficar afastado por cerca de um mês devido a uma lesão",
+     "fonte": "instagram.com",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oNlU4S0J1TGtuVVNGenByR2xWR3pBSklFSnRDdC1Na1VoUUhKZ0lDQXNFZjdqazFQY0lMcVR4b1lqYk41aGZ1NDltNC1nNWQtTHc?oc=5"
+    },
+    {
+     "titulo": "Neymar deve ser reforço no Santos contra o Flamengo pelo Brasileirão",
+     "fonte": "cnnbrasil.com.br",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ3JEQ2ktWVJJUjhzbVQ0bnI4X3E0SW0xb3NKb0xmREVHQUloYVNWTjE1VWZ4Q196T0JLd1Z1blhscGJFcW9kbkdubWdNLXJlOTYtY2RvellPek1qQXlGaTBtMjBCRkQtcjJjX1V3eUhQLWhrbWV2WFZwSkQ0b1NQZW1zdUE3MU1OV2JCNTRmd0VpWVFDTXFLd0R4bDRxRnExQmFNX3VINnF6OGhDXzNNR3IycWVNa3o2VW40ZWVXRQ?oc=5"
+    },
+    {
+     "titulo": "Neymar avança em recuperação e deve reforçar Santos contra Flamengo",
+     "fonte": "O Dia",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMUZ6ek1jSWxJNHR6bFFCaXpVVEtVV3BQR2ZGcVNVQnBqSnBQbDVxRHV5VExXWlpZQWNYODBsTl9zM2dmVFVrS3E2RTcxbEpsdUFzZUp6RVpHd2w2bWJUT1ZIV3lLQjBtcVR2aDYwWHBhdFlxSlZtTl96aVZMelh0TFlWOHJkeHRxQWhheXZOQk9YTVNPNGJjN01IMUtVYlVXR0hLeTdrZ0RhMVJ5cmZzVjNwNldHVm45SGg4TEZsYVlzOGpFRTV30gHMAUFVX3lxTE9kMTdvQlNscFZyVEw4NzNqN094S2YtbHowZ1lUejc4cjNldzBweDYyeGdrcFFWODhDeHRfSGQxQTc0NGVMcllqTFFLY1VwZTZWREhGXzl5UjJNV0JvdGxuZE1NaTg4Y2VpMXZlYTJkeFVjZWk4azVfSTdMb1ZjM2wxVWtvOUNfYlNtcWVROU44am45ejFac1FfOXktQ0JvYjg5eGp0aGdYZ0pDZjZQQmxDUmU1ZGpBcUdTQl9xeE9XRzlsVURRZ0dsMk5QbA?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "São Paulo atualiza parcial de ingressos vendidos para final do Brasileirão Feminino contra o Corinthians",
+   "categoria": "Mercado da bola",
+   "clubes": [
+    "Corinthians",
+    "São Paulo"
+   ],
+   "foco": true,
+   "nota": 50.6,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 41,
     "midia": 92,
     "aderencia": 100,
     "youtube": null
@@ -1050,40 +1005,186 @@
    "busca_torcedor": null,
    "termos_trends": [],
    "n_fontes": 8,
-   "n_manchetes": 9,
-   "assinatura": "milho|defic|palme|agost",
+   "n_manchetes": 10,
+   "assinatura": "femin|paulo|final|corin",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 3 min)",
+    "gancho": "Essa negociação pode mudar o Corinthians, ou virar o erro do ano.",
+    "titulo_thumb": "CORINTHIANS: VALE O INVESTIMENTO?",
+    "pergunta_enquete": "Qual sua opinião: São Paulo atualiza parcial de ingressos vendidos para final do Brasileirão Feminino contra?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Feminino: São Paulo tenta quebrar recorde de público em jogo contra o Corinthians",
+     "fonte": "ABCD Jornal",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVlc4UkkxR0xDWWZWRWpDbzlfdGdtaXk3bU5fNWZiak03RGd4XzJkSkc4eFNVR2NaaWZXY3lUU21UT2NwRVoxanBGczdqeTdNZmVsWmxoWW53TG8wSjQ4SGNwbkVPYkdsd3ZYS3V5bXBKUGk0T0pLYTRHQ2hmTC1KUnBTUXdOUEdtWUNIVzNCUmg4aWVTSjZpaW9QUjh4UVY5VXZyZDZPd2Q3NDRhRHVpdmJ3RHVDUWM1aXlrRWpLS3d6OTJrUFgxTU9JTGVuaDTSAdQBQVVfeXFMT1NBWHFkX0Z3aDlMQXFySGdmRDdWdnVMSk1tWUwxXzl4ZnB0SjNNLWpZbHFqdHpTVVAtTy1YVXc2VVZ6VWFkWE5WRUNpRFg3dnFtTGVyRkdfMWQ1ME90LTBaYVU4WUFreFJGV2RNMjVyNEJwaS1HSlpEWE9zTndGTVlTaDQ5VjVfakkwSWYwODBPbXdSQVhubWxqalA5Y3dQZjVmUXhQOFBpOVdoakt0NGQ4a3lEN1ZjZ0VIOV9WcVJxYzZTUWl3SFV1NVJKNEQ2MmhPWWw?oc=5"
+    },
+    {
+     "titulo": "São Paulo x Corinthians: Final feminina pode quebrar recorde de público",
+     "fonte": "Tribuna de Jundiaí",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVHFDTkFMWkE2UjJad1VaZEpDVkhDZ0NqYm9QV1p2SVJHMEdyWHNrRVoxZ2J0NnFPaFdrOUMzN2N2ZHNWd25kVkxKYXJoc2NJTXg4QlJkekJGVUJhTVFobFNJaldBd3ZIbkw5MkNuOWE5SkE2UE45SVJBWjZudWd6MWVhXzFGYkI0SHVfUXpzTGpDSk10OGpaTWJkZzhfaTZmT2NuR2E4dnJ5WU5TWWhqNjJ5ZmtvS0tq?oc=5"
+    },
+    {
+     "titulo": "São Paulo mira recorde de público no futebol feminino com final no Morumbi",
+     "fonte": "Portal ABC do ABC",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZb3lUY242TExiWmNpMlA0aVM2Z3ktSUtQdGdSZEhETXNVTF9XcGRrTmozSVVyTm0zRHJGVHRXVXlpZkV6TExiSnY2YVJSMGFTay1vc0NOQVNSaVJwc2tQcVhaTXBUOUZsTy1CM2JB?oc=5"
+    },
+    {
+     "titulo": "Corinthians sai na frente, mas São Paulo busca virada na 1ª final do Brasileiro feminino",
+     "fonte": "Estadão",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX0labFJBSlNuMmlyWUJDOTg5OExvdXdHdWFXbzJsWXdPYTAwOXBYUzdIN1BNM1dST08tZXBvS0RKa3dvTnAwUTBNMmtYTzkxTmtTNWNnQTBTcnI2THVTVkJzV0tYVzJYdlFzMmdEMHB1MWo4Y1MyNmpHZ2I0ekc3aTMwUWY3NWdSRDBwWThyeEdScWZkNlRuS3JZdTFWSFA3MXFvMXRKSEZ6Tm5hR01JSDVPWkduUlFoMnhVaU9NQk9UYlhoU1dzYmtlb3VwR1pOOVp6VUp3?oc=5"
+    },
+    {
+     "titulo": "RPC exibe a final do Brasileirão Feminino entre São Paulo x Corinthians",
+     "fonte": "Globo",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjU4bFNuTUlackdudk5JTjI1VDhNeTcyUVpMRGw0WDUwRHRQSldEWDRpcmZUTWx4X1JFWGRBTWg0WGFLempjV2ZWTUhGVTdtdlFMcXVlaG1CaDBldDV3UXc0dGVCUUkyZURscE1renEzRHdRVGNweVBmQldvZmhOM0p6eFM1MzdFeVNsTVlaaXJmNUlmZ3NnWEhLVzF2T2NVR20zU01RQ2VidmxTdHk3N1A2d0M0UHdf0gHHAUFVX3lxTFB1cWZfaFBkeTR6azdzelV1NlU4TGhDY19mMVk5NlhWdzBERG1ZMmQyU3BHMEVJaml6anJ1Q1JZLUlWWUhiWU5HNTZ2TzZXT0FkSWRoMWd5RjRjUFN6QjFZcTNELTZYcU5GZ2VzMWwtdE9XbmJZWnBnV0NiSktqYlhHSlpXR3VuOTYtZ2lBVnZ2R3RxTUFsbmRSQlpJZDB3aXo4S3dQeTRVQkNGRDl2RDFhaHZLaGpWODE3V0h0d1J2YXU4NThKWDQ?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "William Batista exalta evolução do time sub-20: \"Hoje, o Corinthians é respeitado\"",
+   "categoria": "Técnico",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 50.1,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 81,
+    "midia": 29,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 1,
+   "n_manchetes": 4,
+   "assinatura": "batis|willi|corin|sub-2",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Opinião forte (60 a 90 s)",
+    "gancho": "O problema no Corinthians não é só o técnico, e eu explico por quê.",
+    "titulo_thumb": "CORINTHIANS: A CULPA É DE QUEM?",
+    "pergunta_enquete": "Qual sua opinião: William Batista exalta evolução do time sub-20: \"Hoje, o Corinthians é respeitado\"?"
+   },
+   "manchetes": [
+    {
+     "titulo": "William Batista exalta evolução do time sub-20: \"Hoje, o Corinthians é respeitado\"",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWkFSXzM0Q3NrOHJSR2FVSDJtQTlWaE9RZFNNanpLMkUwM2hubUY3ZDdQNzg1Nkg4S2thZ0hwRkQ5c3d1aUkzQm9heks2bDBWdVQwUmd6Nk1SVGJab29ob2U4RUhaZkFYSUVfdE05SFhLeWVubmlwbkpDOWNOX0F3VHRpZ09rb1p2eUZ1YnV2Q2NWZE1vaUZYMWUyaU1tU1NTWHJVckRTb01Nb2ViVkJYVFZJNWNEVUhiSk4xdNIBywFBVV95cUxPOFhTblg3RFJqWUJRRFZxSzNUN0VKRkozRVBVd3RDM3k2TDF0ZklUWWFzdW5pQThJSkJxbFlyUTFDYnQ5eV9xakVHUHNwMnEzaXo2bDZyVmw2REhOTVMxVElvUU5BSFdOeVZoWnpKMnhMZXN4ZElVSWw5SzFGYjlRaEZQTVhwYWRyMVA3WXBLNWMwOXAzLWNFd0hMM09IeE9lZGg2eHUxelZxY0s4V2lNUElmblpLZ3JMTlJ1bUp5NmtKT3NwdDNXQkU1aw?oc=5"
+    },
+    {
+     "titulo": "William Batista relata relação com Diniz antes do Corinthians: \"Meu Atibaia copiava ele\"",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU2dKUklyZ0E3cDBPS2o2RDRWYlFKekV0R2p1bEVTT0w4NzdpbnpROGhZdHNKa0JjU0d2MmtyOWRvdjBhUFdKLU9QYjQwN1p3UVNIaGh3WERLQUM5NGVQeE1JTkhfMlY0U1pNOVNxcGsyZ01iTGdRdFVOWTlzNDZzTlFyZ3NNZWl3MGd6NS1LeXdvdXBCbV9uMVYzVkF0QzBfdm9FT3ZmTXMwRF93aVdjeXBNbUpYajZleHJPOU9BN1lmUXAzLWfSAdQBQVVfeXFMUGhfbERzTjRlZVF4ZV9HT2x5OUhFbkNvZnZhWHY0X1dKbzduQXVhRll0bk1TbG1VVGpPUDZLRnNLTDlEMVBJMUk3TUlub1o5LXNZREFZMVJlalNEOVUwd0Q3ZGNHbDFGWU9UQUpNakEyQ3VmTi1uem96aEhVb0xELXNBNG42VTVpaUZVLXZ4ZW54ekxYS3dQQTRCQ2xmZWdXWDlIT19ZTmtSNzF1MFR5MWlLTUJMUTJnTEdpTFhjTEpqZFo2UDhmRmNlTXdNcVpRSW8wOXk?oc=5"
+    },
+    {
+     "titulo": "William Batista, do sub-20 do Corinthians, se interessou por ser técnico jogando Brasfoot",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNWFXQ05rTG5MeUpUVHFkOTg3bzY5TmZzXzhCZEZTT2poYlNDMUtlTklpTjJMcElHZEJEc0NNZ3BWRWFwVDZ4QURPTHBGeDJneVJoV2x2NmM1VUNnVFA1dTZ3S0NXUTBqaU1qYlNDUDVDVkxjNjJ6UUdiZVNHRENfWUVHZUwyYzYyTDdtd3d0UEUxaVFiX2dmMXFXUml3Y2d6NGtMYXRtbmU1S1NJZFg5Ym1NNHotZjRFMnMyLUhNR1c1V2J0MzFNQdIB1wFBVV95cUxPMGRHZVYwWVdjaHIzR2tBN1NxUGp3dnE0NklwM09aWTZsRTNTTHRiWEdHRElfQ2N0X2RzLTBYaUNRaHg2a0UxbmZZZno4RHM1N3VPeks4VkEzWnRfaVBObDBvYkhZcDl1ZlRPZWthMkY3X2NPRGtxRmZNa29EbHJ5RXo2dE1SanYwQ3NfNUthOVBwYUQ1RXNjMjN6b2VTUi1QMFR6OERZTTVPa0ZNdnlzZUxCN2JGMkNDclA1Zm9QM01URU5ZX2VQeHRfN3ZHUFlZUzU4QlB3Yw?oc=5"
+    },
+    {
+     "titulo": "William Batista, do sub-20 do Corinthians, conta como e por que decidiu virar treinador",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSU1Jc2ZGc1htcUVSN0RRbUJQTC15Q3J4RGtCUjlGenpzbW8zSmZuTTBLdXA5el9pa2c2LUYtbHNyNU9sNGNpeU1tc2pNMW5fT3lCeEJYMVJiQVVmT3djenFlN21FMGtJRFFSdEhNemVtYkQ3bnZtZmJNX2hyalUtQm9CZG5KUnh5aVZJRXNIbkJTR2hYY1FQSEQ2VEpmSjdwQ1BIUHdINFI1YTZScUJnUmxTOVRwTjdiTjRXV3ZmN3FxYjV6LXfSAdQBQVVfeXFMTUl2Z1VuOFB4TC1pT1lJd1BtVW5aS095cUtmTm5nTHRwQ09QbUlfck1oaXY1RmRUamtvWFgxVFhmVVRCWWw4dUdpbTQwNG9jT2ExdXdfUXpHTkg4MHhkSmJONURtTVJ0dThxSzY4bWgzcGpfc3JLZUsza2RrQ0t1RDRDLWhOb0VTLTljV3g0dnFnX3hPa3Y2VnlONTRtTTdpSkNXakZrNjBwSXFjLTlvMlJiRXFucU5RbjdEUk1ZOUkzOUQ1U25LNzhUVjE1cldrUGFEV1Q?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Corinthians tem déficit de R$ 278 mi no ano mesmo com receita acima da meta",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 49.9,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 61,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "defic|corin|ano|acima",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
     "gancho": "Todo mundo está falando disso. E você, concorda?",
-    "titulo_thumb": "PALMEIRAS: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Sem venda de Allan, Palmeiras tem déficit de quase R$ 200 milhões até agosto?"
+    "titulo_thumb": "CORINTHIANS: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Corinthians tem déficit de R$ 278 mi no ano mesmo com receita acima da meta?"
    },
    "manchetes": [
     {
-     "titulo": "Entenda o motivo do déficit de quase R$ 200 milhões não incomodar o Palmeiras",
-     "fonte": "tmc.com.br",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZWtNdUpwYWp5YWw3ZjJuS1A4ODQwZ1UwbGpQeHZXTHBhMjZ4WnE0OVA3akYwS2JfWlZrMG4xNzQwRnZOcF9uSlJoTEVLMkpHNUNKZ25jVkFZb3hkT25nMW5pZkZKSkxRcGpIQklHRGNfMXlJWWZwTUE4M0UxQ1RBcnF0anJFQ3JSNndXeF9vTmthdU1YZmdsZGRSUk1fQWJRUWphcmgtOA?oc=5"
+     "titulo": "Déficit do Corinthians dispara e fica 258% acima do previsto; veja os números",
+     "fonte": "BNews SP",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTDdsWkVGMGtwYmxGcm5SbUhDUUNrTGU1ZEF1U1dhNkpXNVdXUlhNZ09JRS10bXRvYzlCQ2t6WHJKVHdQYXlvS0x2R0pMREJyRjZzSm5kZTdqaHByUk5lZlZRVEZOVURTQTR3SXRTRDJSb3BfNi1YS25USjZheDFjd05RQWRNSWV1Wnh0VGNrZU50Z01fU191MXU5T0lfSm9BVDJFdUpFR2kzX3A4VVRwdE1xbzBQUkN0N1pocEtieVNfT2YzNWdZY2gtNNIB0AFBVV95cUxNYlFiY1ItUi1oYVpDaHM5R2ZiaHhBNVh6OG1YUGI3LUNLMzU2WE45Y0w1OHRTbjdMMTlrM3pKN01IQmR1R3JheXYydzhTQmZ4Tjd3Qk5xVlNvZFowb1dFbm5qdGZNbldWQjhmUkdFdTRfM2pUYWJCNHhKYktnMVo0dVZVSktmdVpNUy01MWFqZk1rM0UydlAxSDRlV3dabVFDNWVpSWdKTG16OHFTMEUzcHFYcWZMcTJmQm1OZ0FXaWk3SmU1cWZxUWhCTTVXTjJI?oc=5"
     },
     {
-     "titulo": "Entenda por que Palmeiras deve reverter déficit de quase R$ 200 milhões em um mês",
-     "fonte": "ge.globo.com",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSFhWWWphTVpKV2pPbDdVRkQ1Wkh2STRYTTNOZ1ZqMmlmZ2Jadk1ERDF4X21ldGQ5SG9KcDdWZkZaUlZZTEFjLVFhSWlOdklaUFJSMFFsdHZnc2pueVpnc3hmU09LTDBMYjVNc0ppcmt3dFNTa0ZZeEFVYWRwbl8yLVhETVUyamItWkkxSW90UXR0amhkQ1lSRGRaNkRnRzJ1UWVWVFRvcU5oTTlyenV6TDJQal85X09lMlVOZ1hBbnVpazd5eGpadzFIZjQtQdIBzgFBVV95cUxOSFhWWWphTVpKV2pPbDdVRkQ1Wkh2STRYTTNOZ1ZqMmlmZ2Jadk1ERDF4X21ldGQ5SG9KcDdWZkZaUlZZTEFjLVFhSWlOdklaUFJSMFFsdHZnc2pueVpnc3hmU09LTDBMYjVNc0ppcmt3dFNTa0ZZeEFVYWRwbl8yLVhETVUyamItWkkxSW90UXR0amhkQ1lSRGRaNkRnRzJ1UWVWVFRvcU5oTTlyenV6TDJQal85X09lMlVOZ1hBbnVpazd5eGpadzFIZjQtQQ?oc=5"
-    },
-    {
-     "titulo": "Valeu a pena? Déficit de R$ 196 milhões expõe escolha do Palmeiras",
-     "fonte": "Bolavip Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeG5UUW04Z2tQSFVvYnRwdjktYjRxdFNkY3dWcnU3akVMczBScldhb2dxRUVVVzFnUGJaMnk3bVdxajc4U0hFaGo5V3VETURfelRwVDdCWHNEeXk0LXlsYXp2Q0ZydmoyOUVnUFB3dlNDdE5rekJhMzVMRzUyX1RvTkNmSnN2Y0FyRHBwNkFPeXRHMjc1R0J2TjBsWGJQNVJMN1RScE9PN3YzbUtXU1doVXdPdEJmX3pqMkE?oc=5"
-    },
-    {
-     "titulo": "Palmeiras tem déficit de R$ 196 milhões até agosto",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYzRXOUxmZlUtXzhWUUFtb3M3S3c5RU1xcFV0OWthTHVRVldOcUpMSGcyajNTZVFjcDBaR05nMWZaNzR0WmlubWkyQVFMY3lXSDFvclptelpRWnhDNnNUUkxRYWNWNzZvczNfWGRwYXhBWlhQU0RmeXZ1WWpVX3MtR0xVdHRIOFkxOGJaZ0plcWhoLUpJTVMxZWlJLVVzc21DVEdheHlpU2JNQQ?oc=5"
-    },
-    {
-     "titulo": "Palmeiras tem déficit de R$ 196 milhões até agosto, mas número não preocupa",
+     "titulo": "Corinthians tem déficit de R$ 278 mi no ano mesmo com receita acima da meta",
      "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaEZNang2MllDWkprVVNzN3NhbV9ib2FpMEJaZ29QRlpxLUhLRkdDa0laN0V1TG1OV0JnV05xaURGNWxZdVBobHdRNnMyU1BtYnBaUVdDUnZZbk9uMUhsRVA2dTlMbFAwQnREQzlSbVBoZzdEUm1jWHZoaFpuZzZjWGxheGZjMW1LME15T096Tms4NTlDNXNoWHJXQ3RCUVZzSHRmUjVxT3RqcHNpWVJ2dEY1WmtFbnp5OEtwZlAzY1h5VHFMSGxraGZPOEZvZ0JQeGZOZE8tS3NjMFRzZmc?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV25abVJJbG43MXBvUkd5cEZaZ3J1cHd5ZU8yRlRrNkZLTkNubFRuM2Z2b1BySjlJQjVfUF9Oek1qMzRsN1liemd5Wk1LNVZ6VFZLQmRQWlc2dzZPOUdwcHNUbzA5bXJabV9lMm50dktZbmZycnBCVVB4TklCaTdQajJKVHY4ZE5xWDRKcm5uMS1TdlBYWENWTXBXNm45eExVUmlWc01kUms0ck0yWlR6THdmOC1vZXRhSktTQjBkeUNJT1NFM3ZqSTRtSWJCUzEwNlZQSjRERDh0Y2pfYllZ?oc=5"
+    },
+    {
+     "titulo": "Corinthians amplia déficit e chega a R$ 278 milhões no ano",
+     "fonte": "R7 Esportes",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNlRnV0NQU3RnVzlDMmpuMXNtRDhoZWZzbzM4VDFFaWdrTTNTN0p3Rm5SUEU2WGU0SVdUWnRVZzVhSW91UmxCbHlOZVJmM1BqQUIwR0N0czVPY21MbGNOSnR5VzVvU040WUdIeldPenBneWJGdzdlMG9KTWZKUjZxTkdBVU5qN3Q2QTdlYUUzY2hsMVhKYV9FMXpkeUlQM0oyN3ZJ?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Corinthians tenta mais uma vez quitar a Arena — agora colocando o naming rights na mesa para a Caixa",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 49.9,
+   "sinais": {
+    "busca": 35,
+    "aceleracao": 30,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 0.976,
+   "trafego_google": 0,
+   "busca_torcedor": "corinthians libertadores",
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "right|namin|corin|caixa",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Esse resultado diz mais sobre o Corinthians do que o placar mostra.",
+    "titulo_thumb": "CORINTHIANS: O QUE O JOGO REVELOU",
+    "pergunta_enquete": "Qual sua opinião: Corinthians tenta mais uma vez quitar a Arena — agora colocando o naming rights na mesa pa?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Corinthians já sabe o que pode fazer com a Hypera se perder naming rights da Arena",
+     "fonte": "br.bolavip.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTmR0X0RhWE15dUVYVzZxbEZvVGpWeFY2U3QydmI4ZlhCNEJNdHRyek5aUlVpajVVSXlldzlTbXBmTzM0T0w4NVIwa081MTV1Sy1hZFUxOW5DWDg3TTNQWFE4WHdDQWZUMGRiZk1tU2ZOVG13OU9NLWlwYmY3NmNWdGtlbDRuZTVvcU92djJMVjdzWW4zSmtpSXhiX0pkbVUtcVJodVFvcW5OR1JubG5KX1QzSQ?oc=5"
+    },
+    {
+     "titulo": "Samir Carvalho: Corinthians quer 10 anos de naming rights com Caixa e liberação de milhões",
+     "fonte": "UOL",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMnI0eXRMWTlTTUROSXZpdXdhQzJDU1hSVTBRenEwYnJWaXhqOWJaR2lLdXdHdFFnZnhMak1BOWh4VmUyeEpReTJvVU1HbUk2eTI3RXhZMlNsVUN3YUhtcWJ6YzA1Y0N2bWZtQnVhOGxFRjFuZzNLTlB2TTBqMkRINjdjUFpBX3FEWWdHMlVGSGd1Q2ptNW94LVdiR0xWUlh0bm9veF9hTFQ2NTBJME1xclBiNjBBY0Jxcy1Da3pwTUpYMHUyekxwakVJYkxfOVNtWVJ3a0tXVkEtZE0?oc=5"
+    },
+    {
+     "titulo": "Corinthians tenta mais uma vez quitar a Arena — agora colocando o naming rights na mesa para a Caixa",
+     "fonte": "thefootball.com.br",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUkZ3dFl2UnZhSTRqVE9WeWZBWWpBNkU5WGQweFFHWS1XRDFkOW1ZSVhrU3pNNE1tOHRjcnNobkN3c0k4amU3a3VrU3M2V1dweFI2LURsSVl6cDhleG82Y1VwY2g0TGFhek02TWd4UEtOdE5nS3JMSG5tcGtpSWtVN0JtdlgxSE9IUW9BZG5yZ2ZfVFEwSmc2YmNXZkNwT25oRWNmWTUyQUlDaGNfOWdqZXBUN0c2cFhkX2JBNy1TNnRtTVJI?oc=5"
     }
    ]
   }

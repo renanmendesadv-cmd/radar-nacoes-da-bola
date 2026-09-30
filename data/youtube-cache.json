@@ -269,5 +269,141 @@
     }
    ]
   }
+ },
+ "flamengo bets acao": {
+  "dia": "2026-09-29",
+  "resultado": {
+   "consulta": "Flamengo bets ação",
+   "n_videos": 1,
+   "mais_de": false,
+   "views": 11,
+   "top": [
+    {
+     "titulo": "Xeque Mate!!! Torcida do Flamengo revoltada, Lula Caindo nas pesquisas após ação contra as BET's.",
+     "canal": "Brasil Sob Análise",
+     "views": 11,
+     "url": "https://www.youtube.com/watch?v=V5gSRPp5AN4",
+     "publicado": "2026-09-28T22:25:14Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "corinthians deficit apresenta": {
+  "dia": "2026-09-29",
+  "resultado": {
+   "consulta": "Corinthians déficit apresenta",
+   "n_videos": 16,
+   "mais_de": false,
+   "views": 52325,
+   "top": [
+    {
+     "titulo": "CORINTHIANS FECHA COM DÉFICIT HISTÓRICO | DINIZ PODE MUDAR TIME",
+     "canal": "Meu Timão",
+     "views": 16159,
+     "url": "https://www.youtube.com/watch?v=0CQljKW1M9s",
+     "publicado": "2026-09-30T00:06:18Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "CORINTHIANS REGISTRA DÉFICIT EM NOVO BALANCETE DIVULGADO | DINIZ PODE TER NOVO DESFALQUE",
+     "canal": "Meu Timão",
+     "views": 15755,
+     "url": "https://www.youtube.com/watch?v=t-ZO8rJ34HQ",
+     "publicado": "2026-09-29T22:18:36Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "DÉFICIT DO CORINTHIANS AUMENTA E CHEGA A R$ 278 MILHÕES | CLUBE TENTA ACORDO COM A CAIXA PELA ARENA",
+     "canal": "Meu Timão",
+     "views": 10771,
+     "url": "https://www.youtube.com/watch?v=Yw2N8dKUWUI",
+     "publicado": "2026-09-30T01:04:32Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "sao paulo socio-torcedor rescindir": {
+  "dia": "2026-09-29",
+  "resultado": {
+   "consulta": "São Paulo sócio-torcedor rescindir",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "palmeiras intensifica preparacao": {
+  "dia": "2026-09-29",
+  "resultado": {
+   "consulta": "Palmeiras intensifica preparação",
+   "n_videos": 2,
+   "mais_de": false,
+   "views": 5143,
+   "top": [
+    {
+     "titulo": "💚PALMEIRAS X BAHIA - VERDÃO TREINA EM DOIS PERÍODOS E PAULINHO APRESENTA EVOLUÇÃO!",
+     "canal": "FUTEBOL TOTAL OFICIAL",
+     "views": 5137,
+     "url": "https://www.youtube.com/watch?v=lLM6H0_j6cs",
+     "publicado": "2026-09-29T14:34:11Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "O Bahia retoma treinos e intensifica preparação para enfrentar o Palmeiras.",
+     "canal": "LR  ESPORTES",
+     "views": 6,
+     "url": "https://www.youtube.com/watch?v=2rj4ecNEaSA",
+     "publicado": "2026-09-29T11:45:06Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "palmeiras porto elogios": {
+  "dia": "2026-09-29",
+  "resultado": {
+   "consulta": "Palmeiras Porto elogios",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "flamengo desfalques importantes": {
+  "dia": "2026-09-29",
+  "resultado": {
+   "consulta": "Flamengo desfalques importantes",
+   "n_videos": 24,
+   "mais_de": false,
+   "views": 41351,
+   "top": [
+    {
+     "titulo": "FLAMENGO AGENDA CIRURGIA ARRASCAETA! FLAMENGO VOLTA AOS TREINOS QUARTA-FEIRA! DESFALQUES NA LIBERTA",
+     "canal": "Wesley FLA 12",
+     "views": 10010,
+     "url": "https://www.youtube.com/watch?v=2OCRRcpU0dg",
+     "publicado": "2026-09-29T19:17:30Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "URGENTE: ARRASCAETA LESIONADO! FLA DESMENTE INFORMAÇÃO! ESTUDIANTES COM VÁRIOS DESFALQUES! NOTICIAS",
+     "canal": "Visão Rubro-Negra",
+     "views": 9668,
+     "url": "https://www.youtube.com/watch?v=XDMaIz8C6aU",
+     "publicado": "2026-09-28T16:42:08Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "JOGO COM CONFUSÃO! ESTUDIANTES PODE TER TRÊS DESFALQUES PARA PARTIDA DIANTE DO FLAMENGO NA LIBERTA!",
+     "canal": "Paparazzo Rubro-Negro",
+     "views": 7370,
+     "url": "https://www.youtube.com/watch?v=Ebz0bouSyRA",
+     "publicado": "2026-09-28T14:45:00Z",
+     "do_canal": false
+    }
+   ]
+  }
  }
 }
