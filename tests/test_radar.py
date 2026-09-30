@@ -372,3 +372,14 @@ def test_videos_do_canal_pela_api():
     videos, cid = collect.videos_pela_api("@canal", None, "k", get=get)
     assert cid == "UCx" and videos[0]["titulo"] == "SAI PRO JOGO #219" and videos[0]["url"].endswith("abc")
     assert collect.videos_pela_api("@canal", None, "k", get=lambda *a, **k: R({}, 403)) == ([], None)
+
+
+def test_raiox_diario_sem_email_nem_ajuste(tmp_path):
+    # 24/09/2026 é quinta: painel atualizado, sem e-mail do Raio-X e sem mexer nos pesos.
+    r, d = _rodar(tmp_path)
+    assert r.returncode == 0, r.stderr
+    rel = json.loads((tmp_path / "docs" / "desempenho.json").read_text("utf-8"))
+    assert rel["tipos"] and all(v == 1.0 for v in rel["fatores_categoria"].values())
+    assert not (tmp_path / "data" / "pesos-aprendidos.json").exists()
+    assert not (tmp_path / "data" / "ultimo-raiox.html").exists()
+    assert "ultimo_raiox" not in json.loads((tmp_path / "data" / "estado.json").read_text("utf-8"))

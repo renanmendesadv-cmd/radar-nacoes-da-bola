@@ -11,8 +11,9 @@ Variáveis de ambiente (no GitHub, cadastre as sensíveis em Settings > Secrets)
   PANEL_URL       link do painel (GitHub Pages)
   YOUTUBE_API_KEY chave da YouTube Data API v3: sinal "Força no YouTube"   (Secret, opcional)
   YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_TOKEN
-                  OAuth só leitura do canal: Raio-X semanal           (Secrets, opcionais)
-  RAIOX=1         força o Raio-X hoje (sem esperar a segunda-feira)
+                  OAuth só leitura do canal: Raio-X (painel diário,
+                  e-mail e ajuste de pesos às segundas)               (Secrets, opcionais)
+  RAIOX=1         faz hoje o Raio-X completo de segunda (e-mail + pesos)
   RAIOX_PAINEL=0  não publica o Raio-X no painel (só e-mail)
   DRY_RUN=1       gera tudo, mas não envia e-mail
   FIXTURES_DIR    lê XMLs locais em vez da internet (testes)
@@ -70,20 +71,26 @@ def main() -> int:
     PESOS_APR = DADOS / "pesos-aprendidos.json"
     aprendidos = json.loads(PESOS_APR.read_text("utf-8")) if PESOS_APR.exists() else {}
 
-    # Raio-X semanal (segunda-feira): roda antes das pautas para que os fatores novos já valham hoje.
-    raiox, erro_raiox = None, None
-    if _dia_de_raiox(local, estado):
-        raiox, erro_raiox = _raiox(agora, aprendidos.get("categorias", {}), fixtures)
-        if raiox:
+    # Raio-X: todo dia atualiza a aba Desempenho do painel. Às segundas (ou com RAIOX=1) também
+    # ajusta os pesos das categorias e manda o e-mail. Roda antes das pautas para que os pesos
+    # novos já valham no mesmo dia.
+    semanal = _dia_de_raiox(local, estado)
+    raiox, erro_raiox = _raiox(agora, aprendidos.get("categorias", {}), fixtures)
+    if raiox:
+        if semanal:
             aprendidos = {"atualizado_em": agora.isoformat(), "base_videos": raiox["n_videos_v7"],
                           "categorias": raiox["fatores_categoria"]}
             DADOS.mkdir(parents=True, exist_ok=True)
             PESOS_APR.write_text(json.dumps(aprendidos, ensure_ascii=False, indent=1), "utf-8")
-            DOCS.mkdir(parents=True, exist_ok=True)
-            publico = os.environ.get("RAIOX_PAINEL", "1") != "0"
-            (DOCS / "desempenho.json").write_text(json.dumps(raiox if publico else {"oculto": True, "gerado_em": raiox["gerado_em"]},
-                                                             ensure_ascii=False, indent=1), "utf-8")
             estado["ultimo_raiox"] = local.date().isoformat()
+        else:
+            # Fora da segunda o painel mostra o peso que está valendo, não o que seria calculado hoje.
+            raiox["fatores_categoria"] = {k: aprendidos.get("categorias", {}).get(k, 1.0) for k in C.CATEGORIAS}
+        raiox["pesos_ajustados_em"] = aprendidos.get("atualizado_em")
+        DOCS.mkdir(parents=True, exist_ok=True)
+        publico = os.environ.get("RAIOX_PAINEL", "1") != "0"
+        (DOCS / "desempenho.json").write_text(json.dumps(raiox if publico else {"oculto": True, "gerado_em": raiox["gerado_em"]},
+                                                         ensure_ascii=False, indent=1), "utf-8")
     fatores = aprendidos.get("categorias", {})
 
     if fixtures:
@@ -161,7 +168,7 @@ def main() -> int:
     painel = os.environ.get("PANEL_URL")
     emails = [report.montar_email(dados, C.TOP_EMAIL, painel)]
     (DADOS / "ultimo-email.html").write_text(emails[0][1], "utf-8")
-    if raiox:
+    if raiox and semanal:
         emails.append(report.montar_email_raiox(raiox, painel))
         (DADOS / "ultimo-raiox.html").write_text(emails[1][1], "utf-8")
     codigo_final = 3 if erro_raiox else 0

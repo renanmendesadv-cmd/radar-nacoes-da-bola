@@ -9,9 +9,9 @@ Todo dia às 08:30 (horário de Brasília, com horários reserva até 12:00 caso
 5. monta a agenda de jogos (ESPN; se ela bloquear, as buscas do Google, ex.: "palmeiras x ldu");
 6. atualiza o **painel** (GitHub Pages) e manda um **e-mail** com as 5 melhores pautas.
 
-Toda **segunda-feira** ele também manda o **Raio-X do canal** (YouTube Analytics, só leitura): formatos e temas que rendem,
+O **Raio-X do canal** é atualizado **todo dia** na aba **Desempenho do canal** do painel; toda **segunda-feira** ele também vai por **e-mail** (YouTube Analytics, só leitura): formatos e temas que rendem,
 onde o público sai dos vídeos, origens de tráfego, melhor dia e horário, vídeos que trouxeram inscritos. O Raio-X
-**ajusta sozinho** o peso de cada tema na nota do radar. Ele também aparece na aba **Desempenho do canal** do painel.
+**ajusta sozinho**, uma vez por semana (na segunda), o peso de cada tema na nota do radar.
 
 Custo: zero. Chaves e senhas ficam só nos Secrets do GitHub.
 

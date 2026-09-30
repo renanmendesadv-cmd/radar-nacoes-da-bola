@@ -457,6 +457,10 @@ aside{display:flex;flex-direction:column;gap:16px}
       return;
     }
     var p = r.periodo, fmt = function(s){ return s.slice(8, 10) + "/" + s.slice(5, 7); };
+    var dia = function(iso){ return iso ? new Date(iso).toLocaleDateString("pt-BR", {day:"2-digit", month:"2-digit", timeZone:"America/Sao_Paulo"}) : "—"; };
+    box.appendChild(el("p", {style:"margin:0;color:var(--muted);font-size:14px", text:
+      "Números atualizados todo dia (último: " + dia(r.gerado_em) + "). E-mail e ajuste dos pesos do radar às segundas (último ajuste: " +
+      dia(r.pesos_ajustados_em) + ")."}));
     box.appendChild(el("p", {style:"margin:0;color:var(--muted);font-size:14px", text:
       r.canal.nome + " · YouTube Analytics de " + fmt(p.inicio) + " a " + fmt(p.fim) + " (o YouTube fecha os números com 2 a 3 dias de atraso). " +
       "“Views em 7 dias” = views de cada vídeo na primeira semana, para comparar vídeos de idades diferentes; mediana do canal: " + num(r.mediana_v7) + "."}));
