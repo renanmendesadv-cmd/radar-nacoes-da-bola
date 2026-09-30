@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-30T04:22:41.545419+00:00",
- "data_br": "30/09/2026 01:22",
+ "gerado_em": "2026-09-30T04:24:51.955483+00:00",
+ "data_br": "30/09/2026 01:24",
  "status": {
   "Google Trends": 10,
-  "Google News": 981,
+  "Google News": 977,
   "Vídeos do canal": 15,
   "Buscas do torcedor": 18,
   "YouTube (48 h)": 0,
@@ -159,8 +159,8 @@
   "seleção brasileira": [
    "seleção brasileira convocação",
    "seleção brasileira feminina",
-   "seleção brasileira 2002",
    "seleção brasileira de futebol",
+   "seleção brasileira 2002",
    "seleção brasileira jogadores",
    "seleção brasileira x seleção haitiana de futebol"
   ],
@@ -174,22 +174,7 @@
   ]
  },
  "alertas": [],
- "aviso_requisitos": {
-  "resumo": "1 requisito(s) medido(s) abaixo da meta: Horas assistidas públicas (12 meses).",
-  "nota": "O canal já está no Programa de Parcerias: requisitos de entrada abaixo da meta não tiram a monetização, mas indicam queda de audiência. O que pode tirar é inatividade, advertências ou violação de políticas.",
-  "itens": [
-   {
-    "id": "horas_12m",
-    "nome": "Horas assistidas públicas (12 meses)",
-    "atual": 2306,
-    "meta": 4000,
-    "nivel": "anúncios",
-    "status": "abaixo",
-    "texto": "2.306 h públicas nos últimos 12 meses (vídeos longos e lives; Shorts, privados e apagados não contam). Nos próximos 30 dias saem da conta ~284 h e entram ~173 h no ritmo atual: projeção de 2.195 h.",
-    "acao": "Faltam 1.694 h. Lives longas e vídeos longos contam; seriam uns 141 h a mais por mês durante um ano."
-   }
-  ]
- },
+ "aviso_requisitos": null,
  "temas": [
   {
    "tema": "Palmeiras recebe vistoria da PM no Nubank Parque por ampliação do setor visitante contra o Fluminense",
@@ -213,7 +198,7 @@
    "termos_trends": [],
    "n_fontes": 4,
    "n_manchetes": 4,
-   "assinatura": "palme|visit|visto|nuban",
+   "assinatura": "visit|palme|receb|parqu",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
@@ -234,7 +219,7 @@
     },
     {
      "titulo": "Palmeiras recebe vistoria da PM no Nubank Parque por ampliação do setor visitante contra o Fluminense",
-     "fonte": "Gazeta Esportiva",
+     "fonte": "gazetaesportiva.com",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRF9SRzNGUXh2SDJXOTkzclQ3dkZ2eGlvTDZ6RHVVYUZiWkQwTkxxVXR6eWVfZFoycXJ5NU5ydGZRZzBLakZkVnlrUUNBREcybmFHaEgxZWNDMGZ4U2R1ODFZekNjQkN2c2xIMVpZbzBqWDlBQzlmVkhxMFNyRnoyN1B6OVZSNXQ2d0ZOV0pBOHBwWXJ2bXJ5Y0FWNVpyejNlRjhj0gGjAUFVX3lxTFBEX1JHM0ZReHZIMlc5OTNyVDd2RnZ4aW9MNnpEdVVhRmJaRDBOTHFVdHp5ZV9kWjJxcnk1TnJ0ZlFnMEtqRmRWeWtRQ0FERzJuYUdoSDFlY0MwZnhTZHU4MVl6Q2NCQ3ZzbEgxWllvMGpYOUFDOWZWSHEwU3JGejI3UHo5VlI1dDZ3Rk5XSkE4cHBZcnZtcnljQVY1WnJ6M2VGOGM?oc=5"
     },
     {
@@ -265,7 +250,7 @@
    "termos_trends": [],
    "n_fontes": 9,
    "n_manchetes": 10,
-   "assinatura": "flame|arras|quart|nesta",
+   "assinatura": "flame|arras|quart|punho",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 2 min)",
@@ -296,7 +281,7 @@
     },
     {
      "titulo": "Arrascaeta chega ao Rio nesta quarta, e Flamengo define data de cirurgia no punho",
-     "fonte": "DeFato.com",
+     "fonte": "defato.com",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYlZrb25DVFNzUHFuTzJ2N043azIyeXNqYVJlcmktTmE0aTk0MXI3NG1hNHFvRnFyS2NPNkJJZEg2R21VWC1iMThYNkRfb05CaXpGQ0FKLVpORmc4RzBtcTFkQWVLTTRVekdKZjV0REdmb2FKTlBObFdwdFpOR0VzYmZST0czb0NhNzZJckhDT2gwTnRZUUVYVTlqM0NPN0hNTHNfNU5aM0RXYVpoaHdhcjM4YXVwMU9GN01V?oc=5"
     }
    ]
@@ -320,7 +305,7 @@
    "termos_trends": [],
    "n_fontes": 7,
    "n_manchetes": 7,
-   "assinatura": "selec|amist|raphi|india",
+   "assinatura": "selec|amist|raphi|corta",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Lista ou ranking (3 a 5 min)",
@@ -331,7 +316,7 @@
    "manchetes": [
     {
      "titulo": "Raphinha é cortado de amistoso da seleção brasileira contra a Índia",
-     "fonte": "placar.com.br",
+     "fonte": "Revista PLACAR",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXZsNnZBV2E1NkhVbUItcFkwNi0tdzI4RGtrVlBOelZESUdUV2JmOE1EbFJpVld4X05nNy0tYXBOUE9JbUswM0Y1c211elh1RDFGbVlxUmxRelpzZUoybTJBS3BOYnU3VzRUY2ZKS21rRVdEbXUxMVpSdHZsYndBUVVRM2Z3MUVfQkpfV2RCUzV5TnI4ejVoeDkzUWFKM2RNcEtkT2VwdkQ3dnM1Rnc?oc=5"
     },
     {
@@ -399,7 +384,7 @@
     },
     {
      "titulo": "São Paulo x Santos: Debate PLACAR analisa pressão no clássico",
-     "fonte": "placar.com.br",
+     "fonte": "Revista PLACAR",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUWtXR05DYTNXQ1AyU1pzQTNTcE1hSDdZXzhDcVJZdUlDVllJWG9Pa3djN3pRWE05SERhRzIzMDN4UV9QZTU4NFFjQ0plek9odXNwQjRsRUxhOTlIUFlIV3pFbTVvMDlHX0w1NWdVNEZ4TTI5bC1rMFctNGllX1FDRGtSWFpLazhlbEJKbHpBai1aV3ZUUnpkVExsdw?oc=5"
     },
     {
@@ -435,7 +420,7 @@
    "termos_trends": [],
    "n_fontes": 5,
    "n_manchetes": 5,
-   "assinatura": "corin|inter|trein|volta",
+   "assinatura": "corin|inter|volta|trein",
    "ja_coberto": {
     "titulo": "CORINTHIANS  X  ESTUDIANTES -  JOGO DA VOLTA",
     "url": "https://www.youtube.com/watch?v=4CY4MadeZa0"
@@ -475,7 +460,7 @@
    ]
   },
   {
-   "tema": "Flamengo aciona STF e reforça ação das bets contra proibição do governo",
+   "tema": "Flamengo pede ao STF para ingressar em ação contra o fim das bets",
    "categoria": "Mercado da bola",
    "clubes": [
     "Flamengo"
@@ -495,13 +480,13 @@
    "termos_trends": [],
    "n_fontes": 7,
    "n_manchetes": 8,
-   "assinatura": "flame|bets|stf|proib",
+   "assinatura": "bets|flame|stf|proib",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 3 min)",
     "gancho": "Essa negociação pode mudar o Flamengo, ou virar o erro do ano.",
     "titulo_thumb": "FLAMENGO: VALE O INVESTIMENTO?",
-    "pergunta_enquete": "Qual sua opinião: Flamengo aciona STF e reforça ação das bets contra proibição do governo?"
+    "pergunta_enquete": "Qual sua opinião: Flamengo pede ao STF para ingressar em ação contra o fim das bets?"
    },
    "manchetes": [
     {
@@ -511,7 +496,7 @@
     },
     {
      "titulo": "Flamengo recorre ao STF contra medida que proíbe bets e cita patrocínio de R$ 268,5 milhões",
-     "fonte": "Brasil 247",
+     "fonte": "brasil247.com",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT2NBMURXNTZiOGtzdzZIb21TR0VHalQtZmRGR3FuUHJFOHR2cllhOXZLSzF5YlQ2eVpBbGU0ZkszdFBnYmVBbVpCakYweHlSYnd0MDhUdVQ1dUhKVWxVbnZWdXZqcWJ5Q0RKdldhU0o3ZkRFUUlUcWl1VjRiZ1g3MjJBTkRjNkJZZW43dDlfZm9hUnRkYXM3TzVjRlpacngxbUJ4MzlQX01EaXRKQTgzMVJMZ0gwNlRqS3ZwdTVleVlfUQ?oc=5"
     },
     {
@@ -520,14 +505,14 @@
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbnhjMFhOdnRLNFdZZzltVktRNDB6ZzdtZzRSV2VBcHIwM3JSVmt2Mm51R0VGVEdzMXlJWURHMUtLVVZ4SkxFcWVyWm9GdGNQSUlRWVJ0dWlnRVlBT21fZUZUWnhQMnkwczV5UDlDUW5QNVhHTFhCaXd3TE1RSE0teUJDWkxsSko1bTdvMlpvMC12dUlYbzBIMm85TUVXOXVfUmxGSXN6UmdyRmRQcmpVWFludlFGTUZHdEZoTGlUTmxmUFlUMEJzOEtCWWVUdnVVcWdRalY5cUFzeXBCVWJDR3Braw?oc=5"
     },
     {
+     "titulo": "Flamengo pede ao STF para ingressar em ação contra o fim das bets",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV3FjUWFMTW1XWGFuS3h4SUNhcXkzZXVFS0Rmd1lmNW5UcEZMM3I5R3doRHE1T0J4a1o2S05ScDVUT3A1a0R5UmVzaV9jU2QyOTREYXRhWlNxb2lWYnF1U216YXZucWtzZTZZSTZISXVaT0tXV2lUeVlsX0JvNDRkRGpOT3JqN3hBeGw5NjF6R2RBSUZYMXNTSFdzN1RLUlhhOVpmelJHWVhNMHUyU2xCMUEyZlk3dmJmWUdWZWNVbHNBTmYxSl92cUdDOUROS2pGQnFJNzUyNS1jalhQUnRhZUtkR1UzQ1hvV2c?oc=5"
+    },
+    {
      "titulo": "Flamengo entra com petição contra veto às bets no STF",
      "fonte": "O Dia",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZURDQUl3RHl4VG83YmVRU0N5cDJQT2dBdS1fYWVSb0tQOXlIemtVVVM0MDhnQXlRNTNSS1UzbVJhWTZJd0FwdFE2aFhzMEQtdXczd25mUEtzbXNqRC1uY1o1VFdlN2prZjRrMUs1eWhWQm9lRHNRbTFBSVItVndFQ3N1V2pLby1KRnNYNFdpR1pic0RfdDZ6VHNQUU5YUEdzLXo2UE91bGFDXzNZTk1SeUQwMHrSAboBQVVfeXFMUDM1aUF3RnQ0MXdFOVdtanY0ZjJwcjRLcUVfRElPTkpXN2pyRzZ6OU1vUlFTWXpZeUxOQkFMbjYwaGk3dnNUTG8zWTFSeXV4N2dHSFhxbzkzcmpPX2FIRkxBYTM5bjBicUtLTWc0QWdEY2lFa1ZtdWswVW9sd3Bna1MzUUFOcHU2alZieHkyY3JzMUxkT0tTNVpnQll4LVhSZW1iSVAzU3dHRHFPeXBKX002ZG1wbVQ2NXFB?oc=5"
-    },
-    {
-     "titulo": "Flamengo entra no STF e engrossa coro das bets contra proibição do governo",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaUNaSm9zUUVyd2kwX3Y1NVBLZVFjVkw1bmk1SmVLUF84bGw0UFJtZGRzX0pzT0pOSFlQZGlEd2NoWkU5OHZlRVlZN1NocXZ2R3VUUUxUak9RRTNnaHZLa0VScTJsTFRoby0tc0Z6dC1CZjJTSE9NQ2ZHT01lbmpUaDhZMnF3Z1NUaWxYYkJHY1RhS0t5bDNCbEdHM1dsenRpQU1hbUFQZWR4LXV1eGluMjNIOFpTal93TmRpZFBsczB0UXFGZTlMWnFzZFVhLVMweW9rVklBYV8zWnpHT2hCaA?oc=5"
     }
    ]
   },
@@ -554,7 +539,7 @@
    "termos_trends": [],
    "n_fontes": 4,
    "n_manchetes": 4,
-   "assinatura": "palme|gover|reuni|lula",
+   "assinatura": "palme|gover|reuni|botaf",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 3 min)",
@@ -565,7 +550,7 @@
    "manchetes": [
     {
      "titulo": "Lula conseguiu unir Palmeiras e Corinthians contra o governo",
-     "fonte": "Diário Causa Operária",
+     "fonte": "causaoperaria.org.br",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOURObkd2OGxiUVM2Uks1Zy1EQW9IRWlqV0tvOEdSMjBjUTd5VUs5SHlRMW11NFFlZWxWMzRPUFB6T2U4a04zVTlxcU5kdjBCY2JWWTJLT1kteXpINmt2X01HVGJrMmZ3ZjlpNE5sUVVDSVBlZTE3Q1hLd3puajlOQmZLR0VXR2xyaGhyMGItbHZ2ck5iQkhSbXpsbw?oc=5"
     },
     {
@@ -606,7 +591,7 @@
    "termos_trends": [],
    "n_fontes": 4,
    "n_manchetes": 4,
-   "assinatura": "flame|arras|fifa|inden",
+   "assinatura": "flame|arras|fifa|lesao",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 2 min)",
@@ -617,7 +602,7 @@
    "manchetes": [
     {
      "titulo": "Lesão de Arrascaeta vai render indenização para o Flamengo? Entenda",
-     "fonte": "Exame",
+     "fonte": "exame.com",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3FMZUFFOVJPakNRaHVUaWIzYUc3bUZidnpiTDNwYks1ZVYzQzJLclN5eW1FYVdKUzVBbmw5V0RNZy1rVGtSWFM4V1EtazZrYkpQazUzM3l4eHpWQXNaWUpQakRrYnZ4Z0J2Rng1NTBmN3JReW1YQXp2bVNhRDZfMGtoTzhBTUI0YTVjQmFSZVh2RnFIeWYwVA?oc=5"
     },
     {
@@ -627,7 +612,7 @@
     },
     {
      "titulo": "Flamengo recebe da Fifa por lesão de Arrascaeta na seleção do Uruguai? Entenda como funciona indenização",
-     "fonte": "ESPN Brasil",
+     "fonte": "espn.com.br",
      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONXZHU3dGZ0JyRjZhaUxkaVo4UVNlc3BlT21odzlyc0tUSl85X2hGSllQZDFZNjBfUjlreHRKbUJUeENncEQwUHh6ZzgyYVpDTk9iTXlzLWJZaWdjcGwzbWZwNDMwUGxWTkk0WTJ0N2NaS0pSOTd3ZkZOMi1iYldqLTBIY0FBRk95TzljdHdsMWpqajZRT082ZGNtMkF5YUFLLWFjWWJGZnJqbm9EWUc3ckJrSkRuZWVfQlFXbk56ZTJnSmlFZmNNSTkteE5MNElxM2lQallfb1ZBekdjX1o5MGRtTWRzZXNnWm51Z296SHlsNG9ST1NITg?oc=5"
     },
     {
@@ -656,7 +641,7 @@
    "termos_trends": [],
    "n_fontes": 1,
    "n_manchetes": 2,
-   "assinatura": "preta|serie|melho|botaf",
+   "assinatura": "botaf|serie|melho|momen",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
@@ -674,6 +659,64 @@
      "titulo": "Botafogo-SP 2 x 0 Ponte Preta | Melhores momentos | 30ª rodada | Série B",
      "fonte": "ge",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPakJ6WG9nZTFQcHNsWWxjdUpxVGZCMElFUi1mdGt5NXJzSGJOVE1qRGZFbFFnTkFMWEFNOWcyWjF0LXV0MUZXUmg3V050eDRjNk9YZ25XNXZkbkp2blowYWUwbExlUy1nMlZlRmJHNm93YUs1ajBDZG5NNUd4c3lZTnI1RnFjNEZqVVVZV2dTLUVXNmZwZVIzTkhFb3kzTGptQnFmZ0xnZll1bzFD0gG7AUFVX3lxTE1vOXhUWXNMNXVDbmdMQlN0QllMZnRRVllkay1KZWFycmttNmtRSkdPVTdWRmJFYnZXdTJ4VFR3eExzckx3WjgzZHB4SXJHaUgxa3RBUkc5dVJTUlVOOXRUelJ3NkRrb1FSbHZ6WDlQVVEwYnl1aWp3eGpJLUhmVTk5RVdFeTZoa0o1b0p3Q3pCdjF3ZkJRQlNKcmV3RFk2VHdRTV9PUXVqU0E4U3lHTzlWR0dPQWdsNXZ6TUU?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Treino do Palmeiras: Abel dá sequência à preparação para o jogo contra o Bahia",
+   "categoria": "Técnico",
+   "clubes": [
+    "Palmeiras",
+    "Bahia"
+   ],
+   "foco": true,
+   "nota": 55.5,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 57,
+    "midia": 92,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 8,
+   "n_manchetes": 9,
+   "assinatura": "palme|bahia|trein|prepa",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Opinião forte (60 a 90 s)",
+    "gancho": "O problema no Palmeiras não é só o técnico, e eu explico por quê.",
+    "titulo_thumb": "PALMEIRAS: A CULPA É DE QUEM?",
+    "pergunta_enquete": "Qual sua opinião: Treino do Palmeiras: Abel dá sequência à preparação para o jogo contra o Bahia?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Bahia intensifica preparação para confronto com o Palmeiras",
+     "fonte": "deolhonacidade.net",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeGdfLWtTX2luZ1Q1ZG56eUlYRTBYQU9ERUhhNkVMemk5dldydm9tMlVMV2k2aXhwVlBpSTdFV0ZBR3F3clNOVWZxZDM3NkROdkk4b25Wc19fZEh2TVNRUUpLRGhRaGNocWg5eUR0cWxjOGcyMGpFZ0M0YnJWcDB2aEZYSzNLTXA0by1HQW1FOUoyQUhf?oc=5"
+    },
+    {
+     "titulo": "Bahia Realiza Treino Técnico Para Enfrentar O Palmeiras",
+     "fonte": "Taktá No AR",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOERNVlJhcEJ2R1ZpN0U4R1lBUVJqZG9ublRLWTVJY0w3cUtoNm9yY3h6THk1VTRwdXhlNXFTSndTUG42TXZLUS1wb2pZTVVsbDl4Q1BzTDE5QXRYSXRyWlNkSHoxRzB6QzJ2ckc4a1dOZUZkbHZlemY3SmxDbTF6b2NtWG43OFJKUUlHZ2R3?oc=5"
+    },
+    {
+     "titulo": "Bahia intensifica preparação para enfrentar o Palmeiras pelo Brasileirão",
+     "fonte": "Notícia Livre",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNDVJUm9iWlFaazNWU3FDWmxMbjJyS0hhNFZlZWcwRFNLRllWUTN4N2J0X0dhT2p5WFV4S2llRGFBWGxMQ2lkV3lfMzV2MWcwVmlxdnlCbWk0OG1TTFhmaW42YmctdHAxeW42OTZrVkRlX3BLLXh3RlJUd2ctSlViVTRhWVZVTmR5ZFRkZlBwU0pQeUhrRno5cXctRTNyWVlYMENZ?oc=5"
+    },
+    {
+     "titulo": "Bahia intensifica preparação para enfrentar o Palmeiras",
+     "fonte": "bahia.ba",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOazFYcHZFVFpPdVV6dGxSNFJWQ2dhbXRUWE9YUUZicTVjWEIzbC1PTDdQb3RDcHR6ZmxZemdObDJNZmJtekdCN1hqU2VvOHhkWWZkUktBOU04TElkUWdmbEs1WTU3OEhvVXFabDBoNFRCWWFCajVXWlk4eThYMTRaSVZxZnNQejZ3?oc=5"
+    },
+    {
+     "titulo": "Palmeiras segue preparação com foco em saída de jogo e marcação pressão",
+     "fonte": "ABCD Jornal",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSDNGbktyYTkzVmlMdlBobVJLTFNYNEMxY2xNUG1PWWk1eU8xSlY5bGhRbnhnS0luTlRuYmtXS1AxeGo3bEpwd1VhS1RiQVVVRGRjajdsV3FXanhLQi0zWGFCMFhwdzJFelRrZzcyX1NIUmJlMWlmeGFCa1h5dUl5eUtPTjY2UVQ0WGpoeGs0WmpCekliVWRrSjNEZjh6bDlhampKdWhKTUFxa3djS2x4bGFBT3lzb21iSEpxa1ZfMkN6T0HSAcgBQVVfeXFMTTBBMUgzSmttWFVKTjByT0c2eEMtNVpGZ05uYTlteE15a0NrcmVuNkg2dEQ2YUJLRlExckh4RW96UHNOSEJYTHVacDVhenppanMzQmFFMm5HbnVZZ2hSNm51N0ltOGVPekRXVVVna0tlOHpOOWk1QWJRTG9lSFZ1Z0tiYmlwdUtNdlpJUF8zRnA5T0FPV3V3Y24wTnNZYXJERjBid1pGVEt2R25rZkhUbktMbkw1d1lWd3Q4Wm9UX2lHamtENEFweFc?oc=5"
     }
    ]
   },
@@ -699,7 +742,7 @@
    "termos_trends": [],
    "n_fontes": 8,
    "n_manchetes": 12,
-   "assinatura": "paulo|femin|corin|brasi",
+   "assinatura": "paulo|femin|brasi|corin",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
@@ -725,7 +768,7 @@
     },
     {
      "titulo": "Grêmio x São Paulo: veja horário e onde assistir ao duelo pelo Brasileirão sub-17",
-     "fonte": "Gazeta Esportiva",
+     "fonte": "gazetaesportiva.com",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaVZsbnUybl9rbC1IWEpZVnF5NGExMlVncUVtWklPMklKaENUX3pUdFA0Y3NKaE55N3c1amxyVzh5dmV4RjZ3NXVTQWk1alBPcTJJVmdMYVkzRjRSNDFGTFhFejI4T1hSUVdfWDlLNnNLdlI3OFNXeGtrYjBjTFVmZ242WTdaTE1yMzd3a3Ixcmh3UmxUMHhNTVo3UldyUnR3V29teTRzSFpYM0tPM1FzMmoyTzZxUldNaHEwUkhWejJjX2lUR3M0?oc=5"
     },
     {
@@ -813,7 +856,7 @@
    "termos_trends": [],
    "n_fontes": 4,
    "n_manchetes": 4,
-   "assinatura": "paulo|empre|resci|socio",
+   "assinatura": "paulo|multa|empre|socio",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
@@ -834,71 +877,13 @@
     },
     {
      "titulo": "São Paulo prevê multa de R$ 3,7 milhões para rescindir com empresa que gere sócio-torcedor",
-     "fonte": "Gazeta Esportiva",
+     "fonte": "gazetaesportiva.com",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3c3S01YU2tDMk5CM3BranNFWl9zNHNBWlBpRmlnNEljUjNmT2tZRFgyaVlGVTdpdGJuZkVYRm54ZGpxVHJUZWhFSUxQQk5XTFV6Mm14dEZ0V01yLTNUMXdSVENCUGFlQTBaVEJsQ0hScjIzNThhRnNpZnp3T1FqMlFCckQ4SXV5TUVnOXd2Tk1GRVJLTUxfYTgzNGQwVVFoMUo4SE5B0gGmAUFVX3lxTE9TdzdLTVhTa0MyTkIzcGtqc0VaX3M0c0FaUGlGaWc0SWNSM2ZPa1lEWDJpWUZVN2l0Ym5mRVhGbnhkanFUclRlaEVJTFBCTldMVXoybXh0RnRXTXItM1Qxd1JUQ0JQYWVBMFpUQmxDSFJyMjM1OGFGc2lmendPUWoyUUJyRDhJdXlNRWc5d3ZOTUZFUktNTF9hODM0ZDBVUWgxSjhITkE?oc=5"
     },
     {
      "titulo": "São Paulo calcula multa para rescindir com empresa que administra sócio-torcedor",
      "fonte": "ge",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaEpYLU9QVlZNQTNrbEJqYl9rRkpFOHpJUmpNeDE0aFdpSVhBT1NMa19ncXZvSlk2SWpuQ3Q0VVhRaGZtRkRiZGFjcVZtLVhiUVVNTU96X2ZBY2tWZWlwbmFMaWlRekhMTzk5N3RHTnVfN1J4Sk5yY2o0ZW5uUGVlbjNaTmhJYXBHaDNuQ24xU0ZIRlVEMHVFUTR4dUdlZk50SDNXWC10b0lydUpXLWdXMWZSLWVFUjVwcEZiOXBud3lKckNGZVNoeVAtd0R2YXE4UGVjY0ZjWHF4NWE5dW1UWklqNEPSAfMBQVVfeXFMUFVwT19MVnpUaXFxUkFhNm4teTl2YnY4ZFhtbEJvOGtnRmdEVXdQQXNuVnM5bS1kTGJlSEdNSkNkYXFJOGVhTF9QWjVkWnRybVc1ekE5cHZmTktwNGJBMVFjOE1VZndpNUtiX1QtbFZic0x4b3NqYUZTbnFEUnNGclo2Sktkdk9TNVVkTlZVTFU1R0JYekJqMVotaUdOSDktRktzckpsV3ZVSDNUV09IaVNmbXlhZjB0ZnE4dnNaSTZsbzNkbFJQR2J4dlF4eXZUSDFmc2xTa05rcDJDRXJBeVZaQU9RRTJYQUdITEpWcTF2aDd3?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Treino do Palmeiras: Abel dá sequência à preparação para o jogo contra o Bahia",
-   "categoria": "Técnico",
-   "clubes": [
-    "Palmeiras",
-    "Bahia"
-   ],
-   "foco": true,
-   "nota": 54.8,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 58,
-    "midia": 87,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 7,
-   "n_manchetes": 8,
-   "assinatura": "palme|bahia|trein|prepa",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Opinião forte (60 a 90 s)",
-    "gancho": "O problema no Palmeiras não é só o técnico, e eu explico por quê.",
-    "titulo_thumb": "PALMEIRAS: A CULPA É DE QUEM?",
-    "pergunta_enquete": "Qual sua opinião: Treino do Palmeiras: Abel dá sequência à preparação para o jogo contra o Bahia?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Bahia intensifica preparação para confronto com o Palmeiras",
-     "fonte": "deolhonacidade.net",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeGdfLWtTX2luZ1Q1ZG56eUlYRTBYQU9ERUhhNkVMemk5dldydm9tMlVMV2k2aXhwVlBpSTdFV0ZBR3F3clNOVWZxZDM3NkROdkk4b25Wc19fZEh2TVNRUUpLRGhRaGNocWg5eUR0cWxjOGcyMGpFZ0M0YnJWcDB2aEZYSzNLTXA0by1HQW1FOUoyQUhf?oc=5"
-    },
-    {
-     "titulo": "Bahia Realiza Treino Técnico Para Enfrentar O Palmeiras",
-     "fonte": "Taktá No AR",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOERNVlJhcEJ2R1ZpN0U4R1lBUVJqZG9ublRLWTVJY0w3cUtoNm9yY3h6THk1VTRwdXhlNXFTSndTUG42TXZLUS1wb2pZTVVsbDl4Q1BzTDE5QXRYSXRyWlNkSHoxRzB6QzJ2ckc4a1dOZUZkbHZlemY3SmxDbTF6b2NtWG43OFJKUUlHZ2R3?oc=5"
-    },
-    {
-     "titulo": "Bahia intensifica preparação para enfrentar o Palmeiras pelo Brasileirão",
-     "fonte": "Notícia Livre",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNDVJUm9iWlFaazNWU3FDWmxMbjJyS0hhNFZlZWcwRFNLRllWUTN4N2J0X0dhT2p5WFV4S2llRGFBWGxMQ2lkV3lfMzV2MWcwVmlxdnlCbWk0OG1TTFhmaW42YmctdHAxeW42OTZrVkRlX3BLLXh3RlJUd2ctSlViVTRhWVZVTmR5ZFRkZlBwU0pQeUhrRno5cXctRTNyWVlYMENZ?oc=5"
-    },
-    {
-     "titulo": "Bahia intensifica preparação para enfrentar o Palmeiras",
-     "fonte": "bahia.ba",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOazFYcHZFVFpPdVV6dGxSNFJWQ2dhbXRUWE9YUUZicTVjWEIzbC1PTDdQb3RDcHR6ZmxZemdObDJNZmJtekdCN1hqU2VvOHhkWWZkUktBOU04TElkUWdmbEs1WTU3OEhvVXFabDBoNFRCWWFCajVXWlk4eThYMTRaSVZxZnNQejZ3?oc=5"
-    },
-    {
-     "titulo": "Treino do Palmeiras: Abel dá sequência à preparação para o jogo contra o Bahia",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUnN5THFHb2NlX09TalZKMWVBMkxtUzM2SDlNZ2x3cnFVckNrZVRZMjFhMmRqdXdTVHR0UUlBYnZoX1RBUnd0RTFiQXRpTS1Jc1hNWklMRWs4YTNQQXpPanVmdVdFT2s5V2EySGQ5N3U0TEZHOUxHWFJFZnJUTTc1bGtGeFJSeE9EU3hZMXFxOXlIMlhKYjJvb2tFS1NLOTV6N29UdF91NktBcG9hNHN1RHowRkJrSTZHclB4WGtHSlh6Qk9MM2dnTXg0b0dDNHF1akZzdU930gHkAUFVX3lxTE1NSzJ1Mm1yTllvUzk5RlVMX2F4bGg2N3NvWjQwbV93Vkw1eUtMZEpFd0F0UXY3eFc4UmFfQzh5aFR6QTdyRDVkbDVQWTdHUEVybzd4X0Z3VE9sVFZTRUtoQV9JQVB3bHhhSTVTaF9WUEV6MFN1QlJxcEFkdWpPRWR6UXkxWVBON3o3TFgtMDNzSTA3MzJSMzdIVTBmWW1WVUhJUW5BMHYwUGxNZzVGZUVfYUNnUHFDaDZmLWRBTjNhRW4xY05oMlgtRG82OVlQRDJFT19JQkp3ZC1oZTlIXzhSdFZWeQ?oc=5"
     }
    ]
   },
@@ -923,7 +908,7 @@
    "termos_trends": [],
    "n_fontes": 2,
    "n_manchetes": 2,
-   "assinatura": "corin|namin|right|quer",
+   "assinatura": "namin|corin|right|caixa",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
@@ -965,7 +950,7 @@
    "termos_trends": [],
    "n_fontes": 2,
    "n_manchetes": 2,
-   "assinatura": "flame|decis|arras|reta",
+   "assinatura": "flame|arras|decis|reta",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",

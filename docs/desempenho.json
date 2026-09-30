@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-30T04:22:41.545419+00:00",
+ "gerado_em": "2026-09-30T04:24:51.955483+00:00",
  "canal": {
   "id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
   "nome": "NAÇÕES DA BOLA o canal de todas as torcidas",
@@ -640,11 +640,11 @@
    {
     "id": "atividade",
     "nome": "Canal ativo (envios públicos)",
-    "atual": -2,
+    "atual": 1,
     "meta": 180,
     "nivel": "manter a monetização",
     "status": "ok",
-    "texto": "Último envio público há -2 dias. Canais sem envios por 6 meses podem ter a monetização revisada.",
+    "texto": "Último envio público há 1 dias. Canais sem envios por 6 meses podem ter a monetização revisada.",
     "acao": null
    },
    {
