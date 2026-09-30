@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-30T03:08:36.525450+00:00",
+ "gerado_em": "2026-09-30T03:15:32.897434+00:00",
  "canal": {
   "id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
   "nome": "NAÇÕES DA BOLA o canal de todas as torcidas",
@@ -70,18 +70,68 @@
    "minutos": 9733
   }
  ],
- "temas": [
+ "tipos": [
   {
-   "nome": "Notícia do dia",
-   "n_videos": 26,
-   "mediana_v7": 136,
-   "indice": 1.03
+   "nome": "Transmissão de jogo",
+   "n_videos": 19,
+   "mediana_v7": 251,
+   "indice": 1.89,
+   "inscritos7": 9,
+   "exemplo": "CORINTHIANS  X  FLUMINENSE - 28ª RODADA"
   },
   {
+   "nome": "Pré-jogo",
+   "n_videos": 1,
+   "mediana_v7": 205,
+   "indice": 1.55,
+   "inscritos7": 1,
+   "exemplo": "FRANÇA  X   INGLATERRA -  PRÉ-JOGO"
+  },
+  {
+   "nome": "Sai pro Jogo (programa)",
+   "n_videos": 6,
+   "mediana_v7": 136,
+   "indice": 1.03,
+   "inscritos7": 5,
+   "exemplo": "SAI PRO JOGO   #218"
+  },
+  {
+   "nome": "Perguntas do público",
+   "n_videos": 2,
+   "mediana_v7": 110,
+   "indice": 0.83,
+   "inscritos7": 1,
+   "exemplo": "TOCA E  RECEBE - VC PERGUNTA  E NÓS RESPONDEMOS NA HORA"
+  },
+  {
+   "nome": "Resenha multitemas",
+   "n_videos": 10,
+   "mediana_v7": 32,
+   "indice": 0.25,
+   "inscritos7": 3,
+   "exemplo": "LIBERTA TEM VITÓRIAS DO VERDÃO E FLU/TIMÃO EMPATA/NA SULA, PEIXE GANHA E TRICOLOR, ÚNICA DERROTA"
+  },
+  {
+   "nome": "Pós-jogo",
+   "n_videos": 2,
+   "mediana_v7": 23,
+   "indice": 0.17,
+   "inscritos7": 0,
+   "exemplo": "ESPANHA  X   ARGENTINA -  PÓS-JOGO - ANÁLISE"
+  }
+ ],
+ "temas": [
+  {
    "nome": "Jogo e resultado",
-   "n_videos": 14,
-   "mediana_v7": 120,
-   "indice": 0.91
+   "n_videos": 36,
+   "mediana_v7": 156,
+   "indice": 1.18
+  },
+  {
+   "nome": "Notícia do dia",
+   "n_videos": 4,
+   "mediana_v7": 42,
+   "indice": 0.32
   }
  ],
  "clubes": [
@@ -346,7 +396,7 @@
    "titulo": "BOCA JUNIORS   X   SÃO PAULO - JOGO DE IDA",
    "url": "https://www.youtube.com/watch?v=4ylvD1coqJg",
    "formato": "Lives",
-   "categoria": "Notícia do dia",
+   "categoria": "Jogo e resultado",
    "v7": 2916,
    "publicado": "08/09 23:54"
   },
@@ -370,7 +420,7 @@
    "titulo": "SANTOS  X  PALMEIRAS -  VOLTA",
    "url": "https://www.youtube.com/watch?v=B7OPvYomTC0",
    "formato": "Lives",
-   "categoria": "Notícia do dia",
+   "categoria": "Jogo e resultado",
    "v7": 1429,
    "publicado": "02/09 23:48"
   },
@@ -378,7 +428,7 @@
    "titulo": "SÃO PAULO X  BOCA JUNIORS - JOGO DE VOLTA",
    "url": "https://www.youtube.com/watch?v=rNKkY2LwHrQ",
    "formato": "Lives",
-   "categoria": "Notícia do dia",
+   "categoria": "Jogo e resultado",
    "v7": 1126,
    "publicado": "15/09 23:52"
   }
@@ -391,10 +441,13 @@
   "Finanças e gestão": 1.0,
   "Lesão e desfalque": 1.0,
   "Seleção": 1.0,
-  "Jogo e resultado": 0.964
+  "Jogo e resultado": 1.025
  },
  "recomendacoes": [
   "Quem mais traz inscritos: Lives (14 nas últimas 4 semanas).",
+  "Tipo de conteúdo que mais rende: Transmissão de jogo (1,9x a mediana, 19 vídeos); o que menos rende: Resenha multitemas (0,2x).",
+  "Tema que mais rende: Jogo e resultado (1,2x a mediana). O radar já dá peso maior a ele.",
+  "Tema que menos rende: Notícia do dia (0,3x). Vale buscar outro ângulo ou formato.",
   "Maior origem de público: Página inicial e inscrições (85% das views).",
   "Melhor momento para publicar: domingo, noite (18h–24h) (mediana de views nos 7 primeiros dias)."
  ]
