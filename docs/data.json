@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-30T04:58:21.065693+00:00",
- "data_br": "30/09/2026 01:58",
+ "gerado_em": "2026-09-30T05:01:34.820082+00:00",
+ "data_br": "30/09/2026 02:01",
  "status": {
   "Google Trends": 10,
-  "Google News": 979,
+  "Google News": 978,
   "Vídeos do canal": 15,
   "Buscas do torcedor": 18,
   "YouTube (48 h)": 0,
@@ -177,6 +177,61 @@
  "aviso_requisitos": null,
  "temas": [
   {
+   "tema": "Raphinha é cortado de amistoso da seleção brasileira contra a Índia",
+   "categoria": "Seleção",
+   "clubes": [],
+   "foco": false,
+   "nota": 68.3,
+   "sinais": {
+    "busca": 60,
+    "aceleracao": 92,
+    "midia": 96,
+    "aderencia": 70,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "raphinha seleção",
+   "termos_trends": [],
+   "n_fontes": 9,
+   "n_manchetes": 9,
+   "assinatura": "selec|raphi|corta|india",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Lista ou ranking (3 a 5 min)",
+    "gancho": "Se eu fosse o técnico da Seleção, a lista seria outra.",
+    "titulo_thumb": "A MINHA SELEÇÃO",
+    "pergunta_enquete": "Qual sua opinião: Raphinha é cortado de amistoso da seleção brasileira contra a Índia?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Raphinha é cortado da Seleção Brasileira; saiba detalhes",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcWhyLW41Y1BzN0NsVzg4RU8ySHNsVUZKQ05jVVR5dXVfMThWcWo0RzFkSEZGdFpSS1NrVVBWOXBSY1ZrbGtGZDNyLS1CdnJPOXYxNkFOUlBrTU1SOHl4ajhra3VVS19PMkJMZ0c3OVF4VEJka1VwS29kMTBnNDFNTTdxRWhCY3hMNEoxc0NpYWFtdkdOM3RDY0lHM0dDMzJWTHg2UTBZUVRIMWNaUzA4WHNDSTVneTQzRHNabUV2RWRvNXpQTlQ5QUNEQWNES1p6X1FtaERFbldFdw?oc=5"
+    },
+    {
+     "titulo": "Raphinha é cortado de amistoso da seleção brasileira contra a Índia",
+     "fonte": "Revista PLACAR",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXZsNnZBV2E1NkhVbUItcFkwNi0tdzI4RGtrVlBOelZESUdUV2JmOE1EbFJpVld4X05nNy0tYXBOUE9JbUswM0Y1c211elh1RDFGbVlxUmxRelpzZUoybTJBS3BOYnU3VzRUY2ZKS21rRVdEbXUxMVpSdHZsYndBUVVRM2Z3MUVfQkpfV2RCUzV5TnI4ejVoeDkzUWFKM2RNcEtkT2VwdkQ3dnM1Rnc?oc=5"
+    },
+    {
+     "titulo": "Raphinha é cortado da Seleção e não viaja para jogo com a Índia",
+     "fonte": "TV Sim Brasil",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZWZTd1laQzcyLXlBc04tNGNUbHpUUHg5SklHbF9DX2UzOUpUX2lQX1N5cDBYN0llSDE3MDh0MDBzLVQzdXBOM1RJbzV1SVl3OGJEeWtnZDBZV0RnOUIzX3FyVHFoMEVMb2tjeHJ3VEIycFcyeHZpeVdQT2VQc3RYdHBoYXZibWhLZjdNaXVNdnFPa29YSVNVbUIzaWtKU1NVdHVUaA?oc=5"
+    },
+    {
+     "titulo": "Raphinha é cortado da Seleção e ficará de fora de amistoso contra a Índia",
+     "fonte": "Metrópoles",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTVdNUHNJcnoyNldXSy1wNXFYeG9lTDRfQzJ2QXBjUnhUdFZYWkpxVjhhVE1WeHJBU3VyNnZsTU1uQXBBSUF4bGJfT29GTWdubmpqQ1dWYU54czFhT2pBNThlbG1CUjMtTzFOWGpSMlZ5T21vTGo3TV8wenJWT2tReHVOd01GMWtsQm1vQlVDcV9hLVl3NjJTY25fU2RWSXhrLUoybjk5T1pYakp5eGc?oc=5"
+    },
+    {
+     "titulo": "Raphinha tem edema na coxa e é cortado do amistoso da Seleção contra Índia",
+     "fonte": "CNN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTFhPdEVhQUNDTGtMOHI1UjgyNWEtTzlyclBweV9CT2RIcERfVmVJRjNTZ0hmRk9zMUVEaWJVSHdRVGNNSHVpUEZfdTVCSHNpWUdlcFVMRm9sM3ptZTR2WHRodXZrQk5PY1lQMGNKazd1amRyX0RfTXF2UFJVRG9ydVZqUkRFY0ZoYmRrT1ZCdkpXaVBXSVVMekhxek9rQlVzeWljN3RHeFF1b29ZOWpYb0ZweUtGZjVsN0M0MWdQc0VnUjhDVURoaTdyNWxuNkdFeWhQdWFFaw?oc=5"
+    }
+   ]
+  },
+  {
    "tema": "Palmeiras recebe vistoria da PM no Nubank Parque por ampliação do setor visitante contra o Fluminense",
    "categoria": "Notícia do dia",
    "clubes": [
@@ -198,7 +253,7 @@
    "termos_trends": [],
    "n_fontes": 4,
    "n_manchetes": 4,
-   "assinatura": "visit|palme|parqu|receb",
+   "assinatura": "palme|visit|nuban|receb",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
@@ -219,7 +274,7 @@
     },
     {
      "titulo": "Palmeiras recebe vistoria da PM no Nubank Parque por ampliação do setor visitante contra o Fluminense",
-     "fonte": "Gazeta Esportiva",
+     "fonte": "gazetaesportiva.com",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRF9SRzNGUXh2SDJXOTkzclQ3dkZ2eGlvTDZ6RHVVYUZiWkQwTkxxVXR6eWVfZFoycXJ5NU5ydGZRZzBLakZkVnlrUUNBREcybmFHaEgxZWNDMGZ4U2R1ODFZekNjQkN2c2xIMVpZbzBqWDlBQzlmVkhxMFNyRnoyN1B6OVZSNXQ2d0ZOV0pBOHBwWXJ2bXJ5Y0FWNVpyejNlRjhj0gGjAUFVX3lxTFBEX1JHM0ZReHZIMlc5OTNyVDd2RnZ4aW9MNnpEdVVhRmJaRDBOTHFVdHp5ZV9kWjJxcnk1TnJ0ZlFnMEtqRmRWeWtRQ0FERzJuYUdoSDFlY0MwZnhTZHU4MVl6Q2NCQ3ZzbEgxWllvMGpYOUFDOWZWSHEwU3JGejI3UHo5VlI1dDZ3Rk5XSkE4cHBZcnZtcnljQVY1WnJ6M2VGOGM?oc=5"
     },
     {
@@ -230,69 +285,13 @@
    ]
   },
   {
-   "tema": "Raphinha é cortado de amistoso da seleção brasileira contra a Índia",
-   "categoria": "Seleção",
-   "clubes": [],
-   "foco": false,
-   "nota": 66.1,
-   "sinais": {
-    "busca": 60,
-    "aceleracao": 87,
-    "midia": 92,
-    "aderencia": 70,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "raphinha seleção",
-   "termos_trends": [],
-   "n_fontes": 8,
-   "n_manchetes": 8,
-   "assinatura": "raphi|selec|corta|amist",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Lista ou ranking (3 a 5 min)",
-    "gancho": "Se eu fosse o técnico da Seleção, a lista seria outra.",
-    "titulo_thumb": "A MINHA SELEÇÃO",
-    "pergunta_enquete": "Qual sua opinião: Raphinha é cortado de amistoso da seleção brasileira contra a Índia?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Raphinha é cortado da Seleção Brasileira; saiba detalhes",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcWhyLW41Y1BzN0NsVzg4RU8ySHNsVUZKQ05jVVR5dXVfMThWcWo0RzFkSEZGdFpSS1NrVVBWOXBSY1ZrbGtGZDNyLS1CdnJPOXYxNkFOUlBrTU1SOHl4ajhra3VVS19PMkJMZ0c3OVF4VEJka1VwS29kMTBnNDFNTTdxRWhCY3hMNEoxc0NpYWFtdkdOM3RDY0lHM0dDMzJWTHg2UTBZUVRIMWNaUzA4WHNDSTVneTQzRHNabUV2RWRvNXpQTlQ5QUNEQWNES1p6X1FtaERFbldFdw?oc=5"
-    },
-    {
-     "titulo": "Raphinha é cortado de amistoso da seleção brasileira contra a Índia",
-     "fonte": "placar.com.br",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXZsNnZBV2E1NkhVbUItcFkwNi0tdzI4RGtrVlBOelZESUdUV2JmOE1EbFJpVld4X05nNy0tYXBOUE9JbUswM0Y1c211elh1RDFGbVlxUmxRelpzZUoybTJBS3BOYnU3VzRUY2ZKS21rRVdEbXUxMVpSdHZsYndBUVVRM2Z3MUVfQkpfV2RCUzV5TnI4ejVoeDkzUWFKM2RNcEtkT2VwdkQ3dnM1Rnc?oc=5"
-    },
-    {
-     "titulo": "Raphinha é cortado da Seleção e ficará de fora de amistoso contra a Índia",
-     "fonte": "Metrópoles",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTVdNUHNJcnoyNldXSy1wNXFYeG9lTDRfQzJ2QXBjUnhUdFZYWkpxVjhhVE1WeHJBU3VyNnZsTU1uQXBBSUF4bGJfT29GTWdubmpqQ1dWYU54czFhT2pBNThlbG1CUjMtTzFOWGpSMlZ5T21vTGo3TV8wenJWT2tReHVOd01GMWtsQm1vQlVDcV9hLVl3NjJTY25fU2RWSXhrLUoybjk5T1pYakp5eGc?oc=5"
-    },
-    {
-     "titulo": "Raphinha tem edema na coxa e é cortado do amistoso da Seleção contra Índia",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTFhPdEVhQUNDTGtMOHI1UjgyNWEtTzlyclBweV9CT2RIcERfVmVJRjNTZ0hmRk9zMUVEaWJVSHdRVGNNSHVpUEZfdTVCSHNpWUdlcFVMRm9sM3ptZTR2WHRodXZrQk5PY1lQMGNKazd1amRyX0RfTXF2UFJVRG9ydVZqUkRFY0ZoYmRrT1ZCdkpXaVBXSVVMekhxek9rQlVzeWljN3RHeFF1b29ZOWpYb0ZweUtGZjVsN0M0MWdQc0VnUjhDVURoaTdyNWxuNkdFeWhQdWFFaw?oc=5"
-    },
-    {
-     "titulo": "Seleção Brasileira: Raphinha é cortado por lesão e não jogará amistoso contra Índia",
-     "fonte": "Rádio Itatiaia",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcENvWnVJMkRfZmFVR2p3b2toVERIZVlrTlZ0czNOYzMyTF9Eci1HdE5LVlFmS3E3ajhYSTZBdzZYLTI4cl9iY1dXVWp3RHo4VmRWZFlvUzhtdUVlcDVsOFpvaTFETGxFLXNYdjRjcXB3VVo0RGZObTFtVDMtdS0xR040OFFaYjAybjBmU3M4WlVDdVByNDR4WXdFX3ltUE5fZGNpMlFRM0lYaW9PUFdqTXhhZGo5R1JxYUVwX2dlaU41TC0zX0c2ODI1TE9QX0FyTTFMeUgwN0hfd0RsVEdNag?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Santos anuncia homenagem a Naty Potira com patch na camisa para clássico contra São Paulo",
-   "categoria": "Notícia do dia",
+   "tema": "Flamengo aciona STF e reforça ação das bets contra proibição do governo",
+   "categoria": "Mercado da bola",
    "clubes": [
-    "São Paulo",
-    "Santos"
+    "Flamengo"
    ],
    "foco": true,
-   "nota": 61.3,
+   "nota": 61.0,
    "sinais": {
     "busca": 0,
     "aceleracao": 76,
@@ -305,65 +304,8 @@
    "busca_torcedor": null,
    "termos_trends": [],
    "n_fontes": 8,
-   "n_manchetes": 8,
-   "assinatura": "santo|homen|potir|naty",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Todo mundo está falando disso. E você, concorda?",
-    "titulo_thumb": "SÃO PAULO: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Santos anuncia homenagem a Naty Potira com patch na camisa para clássico contra São Paulo?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Bruno Lima: Santos atende torcida e homenageia Naty Potira na camisa contra o São Paulo",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeTdxSmJqZTUzNWxRTnllMDNfb3QzSDJ0QjR1VHVfY0pKZE5fVUVqb3dJa1BzUzhpUkEwQUlMODJieC1oWE5DN25ZQzByWXhWamtjWHVDSXlXLWhCdjI3Tnljb29sSHdZV0ZmTXBya1cyTF9NSi1ud3ktSUhGdXpfWnZTTkgxUjZZM00zWGROelZ1VHlwX0RPV081MHJfV1pYdDNOS1FwbFJlVkxYUUlTT2d4VUVEdU41bThrdzRKcENwU1BHQmdmcTN2QlJ4YjZpeUxnd3Q2QQ?oc=5"
-    },
-    {
-     "titulo": "Santos anuncia homenagem a Naty Potira com patch na camisa para clássico contra São Paulo",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNU0F0cVdvcnM1UVR3OG1MX2pfNkJ3djBBSlJkdTVWMkFyblhoMk1oTk5PLXRrZ25Hc0RlcEFINFMxYjlLaHdkZUhVVE9hUm4xQXBTR2ZrS2FfYnY3V3NSVWp6Q0haSGZrSUhZS3Y4TW9ZM0FpY2tHYnl4YmI0a0RGV2xLYW5nN21LMlFkV2NUeFRJNkRDTkxIZkRORlY4M3FIV0dJYzJZQ0NXb0U5ZkpzYVB6ZlNSZFZxYmJjQzUzbVBJMFVwSmFFYVVEbmdoUzl4RGVEWWtfcGNvNHVvRk9rQTJSR0VOWnRpaGRKYnl5VkZBZVd6NHJNMmt4b2NmQzdhNDl4XzFJdWE?oc=5"
-    },
-    {
-     "titulo": "Santos fará homenagem para Naty Potira no clássico contra o São Paulo",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWlg2Sk1IRGcyUjd2bE50ZjlPQXNZaURzanl4M241WER5VjVzLTFkcmxtcXZmMXVzY1VSeXVqNzhudGJDUm5yMEYzUUNJSDY4al9zbURrUVNUZVFVR1FNU0cwSktDVHBWMndIWTNiRFlUZC10NXlzVEMtRURnNGtnS2tkUGdoOTlQTXpDc3FUZ0xsem9oT0hlaHhmc0NyR0ZzbTJDTWhTVE5mSURuSm1TT3dXejhzTHMtM1o5LUF5T1g?oc=5"
-    },
-    {
-     "titulo": "Santos homenageará Naty Potira na camisa em clássico contra o São Paulo",
-     "fonte": "Santa Portal",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeU1mVFhkNWtOTFA5XzVnR01uaUhWdC1tdld0cmI4UGkxbHREako4Q1B0cUVNWTVsMU9oaDBOeG1OR2o4alpvZjJHaXpENFJUUlRUd0s3T0pzU04xNTJsSmNicTAxeHlWZFFwQzhpdVBsZnl1Nk9tVU00cDh2cEJjei1FUmNneWhkeVhvOVAtYmZjZkRxWkNGSjlxclFxcURDZGNiWFE4U2Qwd0xsV0tNWHFycERlVkE?oc=5"
-    },
-    {
-     "titulo": "Santos prepara homenagem a Naty Potira em clássico",
-     "fonte": "tmc.com.br",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFdsbGExLWRoUHVka0xhWVpqN1E1aTZPZFZvNjFDTlQ5Q2x2TEM4cWMzYlo4ek1MQ0xMMTZwVmZtNGw0cTZ1UzJvMjE2RFJzYjZncm5LY3RvWm1ockNtUU94czJyeU9OYmJ4VkR5RHpoX3FOdEozUl9nX2l3VXJoUGV3WU4?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Flamengo aciona STF e reforça ação das bets contra proibição do governo",
-   "categoria": "Mercado da bola",
-   "clubes": [
-    "Flamengo"
-   ],
-   "foco": true,
-   "nota": 60.7,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 75,
-    "midia": 92,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 8,
-   "n_manchetes": 9,
-   "assinatura": "bets|flame|stf|proib",
+   "n_manchetes": 10,
+   "assinatura": "bets|flame|stf|acao",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 3 min)",
@@ -393,9 +335,9 @@
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbnhjMFhOdnRLNFdZZzltVktRNDB6ZzdtZzRSV2VBcHIwM3JSVmt2Mm51R0VGVEdzMXlJWURHMUtLVVZ4SkxFcWVyWm9GdGNQSUlRWVJ0dWlnRVlBT21fZUZUWnhQMnkwczV5UDlDUW5QNVhHTFhCaXd3TE1RSE0teUJDWkxsSko1bTdvMlpvMC12dUlYbzBIMm85TUVXOXVfUmxGSXN6UmdyRmRQcmpVWFludlFGTUZHdEZoTGlUTmxmUFlUMEJzOEtCWWVUdnVVcWdRalY5cUFzeXBCVWJDR3Braw?oc=5"
     },
     {
-     "titulo": "Flamengo entra com petição contra veto às bets no STF",
-     "fonte": "odia.ig.com.br",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZURDQUl3RHl4VG83YmVRU0N5cDJQT2dBdS1fYWVSb0tQOXlIemtVVVM0MDhnQXlRNTNSS1UzbVJhWTZJd0FwdFE2aFhzMEQtdXczd25mUEtzbXNqRC1uY1o1VFdlN2prZjRrMUs1eWhWQm9lRHNRbTFBSVItVndFQ3N1V2pLby1KRnNYNFdpR1pic0RfdDZ6VHNQUU5YUEdzLXo2UE91bGFDXzNZTk1SeUQwMHrSAboBQVVfeXFMUDM1aUF3RnQ0MXdFOVdtanY0ZjJwcjRLcUVfRElPTkpXN2pyRzZ6OU1vUlFTWXpZeUxOQkFMbjYwaGk3dnNUTG8zWTFSeXV4N2dHSFhxbzkzcmpPX2FIRkxBYTM5bjBicUtLTWc0QWdEY2lFa1ZtdWswVW9sd3Bna1MzUUFOcHU2alZieHkyY3JzMUxkT0tTNVpnQll4LVhSZW1iSVAzU3dHRHFPeXBKX002ZG1wbVQ2NXFB?oc=5"
+     "titulo": "Flamengo pede ao STF para ingressar em ação contra o fim das bets",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV3FjUWFMTW1XWGFuS3h4SUNhcXkzZXVFS0Rmd1lmNW5UcEZMM3I5R3doRHE1T0J4a1o2S05ScDVUT3A1a0R5UmVzaV9jU2QyOTREYXRhWlNxb2lWYnF1U216YXZucWtzZTZZSTZISXVaT0tXV2lUeVlsX0JvNDRkRGpOT3JqN3hBeGw5NjF6R2RBSUZYMXNTSFdzN1RLUlhhOVpmelJHWVhNMHUyU2xCMUEyZlk3dmJmWUdWZWNVbHNBTmYxSl92cUdDOUROS2pGQnFJNzUyNS1jalhQUnRhZUtkR1UzQ1hvV2c?oc=5"
     }
    ]
   },
@@ -420,7 +362,7 @@
    "termos_trends": [],
    "n_fontes": 5,
    "n_manchetes": 5,
-   "assinatura": "corin|inter|trein|volta",
+   "assinatura": "corin|inter|volta|trein",
    "ja_coberto": {
     "titulo": "CORINTHIANS  X  ESTUDIANTES -  JOGO DA VOLTA",
     "url": "https://www.youtube.com/watch?v=4CY4MadeZa0"
@@ -482,7 +424,7 @@
    "termos_trends": [],
    "n_fontes": 4,
    "n_manchetes": 4,
-   "assinatura": "palme|gover|lula|reuni",
+   "assinatura": "palme|gover|botaf|lula",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 3 min)",
@@ -514,16 +456,74 @@
    ]
   },
   {
+   "tema": "Santos anuncia homenagem a Naty Potira com patch na camisa para clássico contra São Paulo",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "São Paulo",
+    "Santos"
+   ],
+   "foco": true,
+   "nota": 58.7,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 68,
+    "midia": 92,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 8,
+   "n_manchetes": 8,
+   "assinatura": "naty|potir|santo|homen",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Todo mundo está falando disso. E você, concorda?",
+    "titulo_thumb": "SÃO PAULO: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Santos anuncia homenagem a Naty Potira com patch na camisa para clássico contra São Paulo?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Bruno Lima: Santos atende torcida e homenageia Naty Potira na camisa contra o São Paulo",
+     "fonte": "UOL",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeTdxSmJqZTUzNWxRTnllMDNfb3QzSDJ0QjR1VHVfY0pKZE5fVUVqb3dJa1BzUzhpUkEwQUlMODJieC1oWE5DN25ZQzByWXhWamtjWHVDSXlXLWhCdjI3Tnljb29sSHdZV0ZmTXBya1cyTF9NSi1ud3ktSUhGdXpfWnZTTkgxUjZZM00zWGROelZ1VHlwX0RPV081MHJfV1pYdDNOS1FwbFJlVkxYUUlTT2d4VUVEdU41bThrdzRKcENwU1BHQmdmcTN2QlJ4YjZpeUxnd3Q2QQ?oc=5"
+    },
+    {
+     "titulo": "Santos anuncia homenagem a Naty Potira com patch na camisa para clássico contra São Paulo",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNU0F0cVdvcnM1UVR3OG1MX2pfNkJ3djBBSlJkdTVWMkFyblhoMk1oTk5PLXRrZ25Hc0RlcEFINFMxYjlLaHdkZUhVVE9hUm4xQXBTR2ZrS2FfYnY3V3NSVWp6Q0haSGZrSUhZS3Y4TW9ZM0FpY2tHYnl4YmI0a0RGV2xLYW5nN21LMlFkV2NUeFRJNkRDTkxIZkRORlY4M3FIV0dJYzJZQ0NXb0U5ZkpzYVB6ZlNSZFZxYmJjQzUzbVBJMFVwSmFFYVVEbmdoUzl4RGVEWWtfcGNvNHVvRk9rQTJSR0VOWnRpaGRKYnl5VkZBZVd6NHJNMmt4b2NmQzdhNDl4XzFJdWE?oc=5"
+    },
+    {
+     "titulo": "Santos fará homenagem para Naty Potira no clássico contra o São Paulo",
+     "fonte": "CNN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWlg2Sk1IRGcyUjd2bE50ZjlPQXNZaURzanl4M241WER5VjVzLTFkcmxtcXZmMXVzY1VSeXVqNzhudGJDUm5yMEYzUUNJSDY4al9zbURrUVNUZVFVR1FNU0cwSktDVHBWMndIWTNiRFlUZC10NXlzVEMtRURnNGtnS2tkUGdoOTlQTXpDc3FUZ0xsem9oT0hlaHhmc0NyR0ZzbTJDTWhTVE5mSURuSm1TT3dXejhzTHMtM1o5LUF5T1g?oc=5"
+    },
+    {
+     "titulo": "Santos homenageará Naty Potira na camisa em clássico contra o São Paulo",
+     "fonte": "Santa Portal",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeU1mVFhkNWtOTFA5XzVnR01uaUhWdC1tdld0cmI4UGkxbHREako4Q1B0cUVNWTVsMU9oaDBOeG1OR2o4alpvZjJHaXpENFJUUlRUd0s3T0pzU04xNTJsSmNicTAxeHlWZFFwQzhpdVBsZnl1Nk9tVU00cDh2cEJjei1FUmNneWhkeVhvOVAtYmZjZkRxWkNGSjlxclFxcURDZGNiWFE4U2Qwd0xsV0tNWHFycERlVkE?oc=5"
+    },
+    {
+     "titulo": "Santos prepara homenagem a Naty Potira em clássico",
+     "fonte": "tmc.com.br",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFdsbGExLWRoUHVka0xhWVpqN1E1aTZPZFZvNjFDTlQ5Q2x2TEM4cWMzYlo4ek1MQ0xMMTZwVmZtNGw0cTZ1UzJvMjE2RFJzYjZncm5LY3RvWm1ockNtUU94czJyeU9OYmJ4VkR5RHpoX3FOdEozUl9nX2l3VXJoUGV3WU4?oc=5"
+    }
+   ]
+  },
+  {
    "tema": "Murilo cita treinos intensos e foco do Palmeiras: \"Objetivos claros\"",
    "categoria": "Notícia do dia",
    "clubes": [
     "Palmeiras"
    ],
    "foco": true,
-   "nota": 59.3,
+   "nota": 57.8,
    "sinais": {
-    "busca": 35,
-    "aceleracao": 51,
+    "busca": 40,
+    "aceleracao": 41,
     "midia": 67,
     "aderencia": 100,
     "youtube": null
@@ -534,7 +534,7 @@
    "termos_trends": [],
    "n_fontes": 4,
    "n_manchetes": 4,
-   "assinatura": "palme|muril|claro|foco",
+   "assinatura": "muril|palme|objet|foco",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
@@ -584,7 +584,7 @@
    "termos_trends": [],
    "n_fontes": 1,
    "n_manchetes": 2,
-   "assinatura": "preta|serie|momen|melho",
+   "assinatura": "botaf|serie|melho|ponte",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
@@ -626,7 +626,7 @@
    "termos_trends": [],
    "n_fontes": 8,
    "n_manchetes": 10,
-   "assinatura": "corin|defic|julho|milho",
+   "assinatura": "defic|corin|julho|milho",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Explicador de bastidor (2 a 4 min)",
@@ -663,6 +663,53 @@
    ]
   },
   {
+   "tema": "Flamengo é o primeiro clube a entrar com pedido no STF contra fim das casas de apostas no Brasil",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 53.5,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 73,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "flame|entra|stf|apost",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Todo mundo está falando disso. E você, concorda?",
+    "titulo_thumb": "FLAMENGO: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Flamengo é o primeiro clube a entrar com pedido no STF contra fim das casas de apostas no ?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Flamengo entra no STF contra MP das bets e pede fim de barreira",
+     "fonte": "band.com.br",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLWlmOGU4UXpXRkhSUjE2NUtTdmkzY1ZlQ29DQ3M4TU5PeU00T1diMFlRc21hTTY2ZldjSzAwU3lGOXJ6a2NoRkUtRmZwZnFsU2JWT1U4djhNUVZ5VDc1MXVoZG9Yd1lBQzVZZkNTdHA4NXYwd2NqYTh0WHdJVC1Ebi1tNHZzUWpvZlhIZGtrRGVfdjdEUnpNaFNpazU?oc=5"
+    },
+    {
+     "titulo": "Flamengo é o primeiro clube a entrar com pedido no STF contra fim das casas de apostas no Brasil",
+     "fonte": "Estadão",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRUhuVV9jTVVNRnEtQjMxclpTQWl0NnpDdjU1dlhmUjZoTVBYUDN1T1Nmc09RM2FtMU5FMDYyZ1BObk15YnFaX2VPbG9PcEhwdDIyLXcxWEp0QlNwSU94SnlSeFRYS1hxU0hkQkJvQUdaVXJuNEZ4X2ktVXFCZDlkOVcyXzNoLW1Lb2xOa3VIcjJfc3V3TmkzYXZWSDd6S1RjQTZSX3FHOXdaWGwyUlM5QjlwNk5WUzhLRE1INW9jMjZUTkVaZkJwNVBkT2ctczlJZ1p3SGlMY0dteGZoV0RPdXJ3QQ?oc=5"
+    },
+    {
+     "titulo": "BAP ABRE O JOGO SOBRE SITUAÇÃO DO FLAMENGO COM A PROIBIÇÃO DAS CASAS DE APOSTAS",
+     "fonte": "instagram.com",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUaElSYTNpLXRBallXa3M3eV94RVVBUTRNQVU0OE5QVTA1TE1SR2gxVG4tMzZZY2dIOG5YcURDZGV3NDVsT19va3dIZzBVVHh1V3c?oc=5"
+    }
+   ]
+  },
+  {
    "tema": "Raphinha é cortado da Seleção Brasileira após lesão na coxa",
    "categoria": "Lesão e desfalque",
    "clubes": [],
@@ -681,7 +728,7 @@
    "termos_trends": [],
    "n_fontes": 2,
    "n_manchetes": 2,
-   "assinatura": "raphi|coxa|selec|corta",
+   "assinatura": "corta|selec|raphi|coxa",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 2 min)",
@@ -723,7 +770,7 @@
    "termos_trends": [],
    "n_fontes": 2,
    "n_manchetes": 2,
-   "assinatura": "right|corin|namin|quer",
+   "assinatura": "right|namin|corin|anos",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
@@ -745,18 +792,64 @@
    ]
   },
   {
-   "tema": "Ingressos para São Paulo x Corinthians: veja parcial de vendas e setores disponíveis para a final no Morumbi do Brasileirão Feminino",
-   "categoria": "Mercado da bola",
+   "tema": "São Paulo vota acordo de R$ 140 mi com Ticketmaster; entenda",
+   "categoria": "Finanças e gestão",
    "clubes": [
-    "Corinthians",
     "São Paulo"
    ],
    "foco": true,
-   "nota": 51.2,
+   "nota": 51.1,
+   "sinais": {
+    "busca": 50,
+    "aceleracao": 15,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "são paulo fc contratação",
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "vota|paulo|ticke|acord",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Explicador de bastidor (2 a 4 min)",
+    "gancho": "O buraco no São Paulo é maior do que parece. Eu explico em 2 minutos.",
+    "titulo_thumb": "SÃO PAULO: A CONTA CHEGOU",
+    "pergunta_enquete": "Qual sua opinião: São Paulo vota acordo de R$ 140 mi com Ticketmaster; entenda?"
+   },
+   "manchetes": [
+    {
+     "titulo": "São Paulo vota acordo de R$ 140 mi com Ticketmaster; entenda",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZWNHaXdjR0pvU2Q5U1ZuSk5neDF2X3hIZUF5NWpTbEh5Z2hLS21nVTN2d0RLYV9lMUJxYUZtNEJYQ2pVd2FZR2Z2c3JpUUEwaXdmUmZNd1BQZUYxU1hqZjZpQ0J6d0RMQVByVlExU0M3dmlXVjN0TUNVZFV2b0NzSURIVGRjWTBKalZLNXRXZWlPcGxNWW9VMjhqSDE3enFQYnBxU3phWXRYcTl2VDUyNHYtQWZkOUg1Um02ZUo5UEtzQkRWZ3o2bWhrSQ?oc=5"
+    },
+    {
+     "titulo": "São Paulo vota acordo de R$ 140 milhões para aliviar dívidas",
+     "fonte": "vgnoticias.com.br",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdk9qaVRTSkgyd1BObHFUNHU3UkRFWE5NS1JRN0ozcThweFd6eTNVSzlBbzZIeWlUV3ltTW9LRGRKUlhMd3d2eFpvcWd0M042a0NpZ3JSbmZPc2dPRDdxU3FRdUhzWE05WHpTYWlvTVFCcXZUak5TRTJTT3JGc0xnaTM1V3RUWDB2NWNoS01iS25UUFc5R0tvSlV3ZnhYZUpXM1p6YjRZVXE?oc=5"
+    },
+    {
+     "titulo": "São Paulo e Ticketmaster: clube vota contrato de R$ 110 milhões | Ge",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdnRwbzhfT19JOWJINXB6Y0tSN2tzX0pRTWJvQUlPMnh6Z0RQUjJ6V3VqM29SdXFfQ0tvcFFraE9nZFE4QnV5c1NPU3FuZ1VMcjRDNU1vY3I3dFhteDF1UWpBVTd5VWU3bC13U0RLeTNIdkZhLXd6blBjblZ4clpzNUVOTGtIbnRUVjFrdFN2M3pTVkQ2X01ZX3BxaENGTnowRXhQd2w4RUd5SFRsQnJlalRKdDNaQlNLQ3JZZkgxWTdjLXRLVHpEbUdGU2xsRVQydHZPenNPQ3pkMkxDVURSaTR3bTA?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "São Paulo calcula multa para rescindir com empresa que administra sócio-torcedor",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "São Paulo"
+   ],
+   "foco": true,
+   "nota": 50.6,
    "sinais": {
     "busca": 0,
-    "aceleracao": 40,
-    "midia": 96,
+    "aceleracao": 57,
+    "midia": 67,
     "aderencia": 100,
     "youtube": null
    },
@@ -764,15 +857,68 @@
    "trafego_google": 0,
    "busca_torcedor": null,
    "termos_trends": [],
-   "n_fontes": 9,
-   "n_manchetes": 12,
-   "assinatura": "femin|paulo|final|corin",
+   "n_fontes": 4,
+   "n_manchetes": 4,
+   "assinatura": "paulo|socio|empre|multa",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Todo mundo está falando disso. E você, concorda?",
+    "titulo_thumb": "SÃO PAULO: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: São Paulo calcula multa para rescindir com empresa que administra sócio-torcedor?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Pedro Lopes: São Paulo e empresa divergem e sócio torcedor pode virar nova briga",
+     "fonte": "UOL",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYmpYSUE4QWRpNGR4MlJBOFRhcmotSmZqa1I2UXlNVXN0WnVBekd2czdaUmJubnJDaWpWYXl5YldHbGJXOEFXekVkRTdmRzNXem13anVKdmRhZEhBdEJwbTcyZzdsVF9VMWJkZnE4SkozbzRMaW5LM1ZvZ1JUREpKWDBJNmgwbDhoTUYzSkxEYnkwM19XbzNkdU4yUE8xOHZmRUZ1Q1VPU1FoMlZnSE56Wk12bm14ME04U0RpTERndnVkT1pCdWhzSS1QR3NzUQ?oc=5"
+    },
+    {
+     "titulo": "São Paulo calcula multa de R$ 3,7 milhões para rescindir com a Feng; conselheiros falam em R$ 40 milhões",
+     "fonte": "São Paulo Blog",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTFFqYVZaS0d0eXRzRkJNX1IzckVHUE9mcGRZVWg0ZHJPY0JfV1BlNThZaXl4aVBDdXBVZXN2YlBXUGItSEZsZnpZaGZoMFEwT3BkZnVWbXNmOWRNdTQxRl9oMUk3UkJlVXl1eXlTUlpQUDdNY3l0ZDBoX3NJV3ZNWnhrU1hJWU41REhsR3ZSLThpVHF6OWczU2dITm5hbHNwTUZsUG9tXzc3WjQ3d2U2WVlkSjV5S1hSMUljbTFPWjNsal9UUDREc0xPZktmS2M?oc=5"
+    },
+    {
+     "titulo": "São Paulo prevê multa de R$ 3,7 milhões para rescindir com empresa que gere sócio-torcedor",
+     "fonte": "gazetaesportiva.com",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3c3S01YU2tDMk5CM3BranNFWl9zNHNBWlBpRmlnNEljUjNmT2tZRFgyaVlGVTdpdGJuZkVYRm54ZGpxVHJUZWhFSUxQQk5XTFV6Mm14dEZ0V01yLTNUMXdSVENCUGFlQTBaVEJsQ0hScjIzNThhRnNpZnp3T1FqMlFCckQ4SXV5TUVnOXd2Tk1GRVJLTUxfYTgzNGQwVVFoMUo4SE5B0gGmAUFVX3lxTE9TdzdLTVhTa0MyTkIzcGtqc0VaX3M0c0FaUGlGaWc0SWNSM2ZPa1lEWDJpWUZVN2l0Ym5mRVhGbnhkanFUclRlaEVJTFBCTldMVXoybXh0RnRXTXItM1Qxd1JUQ0JQYWVBMFpUQmxDSFJyMjM1OGFGc2lmendPUWoyUUJyRDhJdXlNRWc5d3ZOTUZFUktNTF9hODM0ZDBVUWgxSjhITkE?oc=5"
+    },
+    {
+     "titulo": "São Paulo calcula multa para rescindir com empresa que administra sócio-torcedor",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaEpYLU9QVlZNQTNrbEJqYl9rRkpFOHpJUmpNeDE0aFdpSVhBT1NMa19ncXZvSlk2SWpuQ3Q0VVhRaGZtRkRiZGFjcVZtLVhiUVVNTU96X2ZBY2tWZWlwbmFMaWlRekhMTzk5N3RHTnVfN1J4Sk5yY2o0ZW5uUGVlbjNaTmhJYXBHaDNuQ24xU0ZIRlVEMHVFUTR4dUdlZk50SDNXWC10b0lydUpXLWdXMWZSLWVFUjVwcEZiOXBud3lKckNGZVNoeVAtd0R2YXE4UGVjY0ZjWHF4NWE5dW1UWklqNEPSAfMBQVVfeXFMUFVwT19MVnpUaXFxUkFhNm4teTl2YnY4ZFhtbEJvOGtnRmdEVXdQQXNuVnM5bS1kTGJlSEdNSkNkYXFJOGVhTF9QWjVkWnRybVc1ekE5cHZmTktwNGJBMVFjOE1VZndpNUtiX1QtbFZic0x4b3NqYUZTbnFEUnNGclo2Sktkdk9TNVVkTlZVTFU1R0JYekJqMVotaUdOSDktRktzckpsV3ZVSDNUV09IaVNmbXlhZjB0ZnE4dnNaSTZsbzNkbFJQR2J4dlF4eXZUSDFmc2xTa05rcDJDRXJBeVZaQU9RRTJYQUdITEpWcTF2aDd3?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "São Paulo atualiza parcial de ingressos vendidos para final do Brasileirão Feminino contra o Corinthians",
+   "categoria": "Mercado da bola",
+   "clubes": [
+    "Corinthians",
+    "São Paulo"
+   ],
+   "foco": true,
+   "nota": 50.5,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 40,
+    "midia": 92,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 8,
+   "n_manchetes": 11,
+   "assinatura": "femin|paulo|corin|final",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 3 min)",
     "gancho": "Essa negociação pode mudar o Corinthians, ou virar o erro do ano.",
     "titulo_thumb": "CORINTHIANS: VALE O INVESTIMENTO?",
-    "pergunta_enquete": "Qual sua opinião: Ingressos para São Paulo x Corinthians: veja parcial de vendas e setores disponíveis para ?"
+    "pergunta_enquete": "Qual sua opinião: São Paulo atualiza parcial de ingressos vendidos para final do Brasileirão Feminino contra?"
    },
    "manchetes": [
     {
@@ -799,152 +945,6 @@
      "titulo": "Corinthians sai na frente, mas São Paulo busca virada na 1ª final do Brasileiro feminino",
      "fonte": "Estadão",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX0labFJBSlNuMmlyWUJDOTg5OExvdXdHdWFXbzJsWXdPYTAwOXBYUzdIN1BNM1dST08tZXBvS0RKa3dvTnAwUTBNMmtYTzkxTmtTNWNnQTBTcnI2THVTVkJzV0tYVzJYdlFzMmdEMHB1MWo4Y1MyNmpHZ2I0ekc3aTMwUWY3NWdSRDBwWThyeEdScWZkNlRuS3JZdTFWSFA3MXFvMXRKSEZ6Tm5hR01JSDVPWkduUlFoMnhVaU9NQk9UYlhoU1dzYmtlb3VwR1pOOVp6VUp3?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Ao vivo: Corinthians x Atlético-GO | Rodada 19 | Campeonato Brasileiro sub-17",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 50.3,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 54,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.056,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 4,
-   "assinatura": "brasi|sub-1|atlet|corin",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Esse resultado diz mais sobre o Corinthians do que o placar mostra.",
-    "titulo_thumb": "CORINTHIANS: O QUE O JOGO REVELOU",
-    "pergunta_enquete": "Qual sua opinião: Ao vivo: Corinthians x Atlético-GO | Rodada 19 | Campeonato Brasileiro sub-17?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Ao vivo: Palmeiras x Vasco | Rodada 19 | Campeonato Brasileiro sub-17",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUlJHWGVPUHVvX0hyeUswYmxiN08wSFEtdU44SkF6bXBEM2ltN0FvNVdwQkszQ1FmVmlORERHUl8xbzRGUE9qbG5hMnBBUlBZOV9SZjY2TlBTRThiNE9uTFl5YTl6LXJ5MGFZZDdlVlNCWjFTYndKTENUVzhEZlVOdXRsdnNUWG5XM2FxTE9ySFYzdw?oc=5"
-    },
-    {
-     "titulo": "Ao vivo: Corinthians x Atlético-GO | Rodada 19 | Campeonato Brasileiro sub-17",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZUlBWWRYVG5zdEZWZVluVEJ4QmlDSFZLajd4VWkzSkxNeFZQWmFoQUE3a0I1bzRNSzdIS1FjWUhZSUlpdVY1cjVnOFp5OGYtaGJndGN3U0JNSHVqbTMtNGYtbkRaSmlGaG1OZVlNWHZ6UEx4ZDZZVGxRZVdFQTFMR2FmMWI3UHV6cFg0Z1VsdFI3ckxZODdUX1RfdnE?oc=5"
-    },
-    {
-     "titulo": "Corinthians x Atlético-GO: veja onde assistir e prováveis escalações do duelo pelo Brasileiro sub-17",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcFV1RHhxWFJrT19OS2YyRHVtUDZ4ZG16Skxydm9nbWlCdzM2dXZ0V0lRT19CdnIxZlBNaVlQRGNOeG5vRlY3cURvT1ZYQlNkaTZnYTJOWElfekk1aVgwaVM3NEMwb0kzVDNTWVhCZHR5SUtiWjMxNUJOeFd3bFdyYmk4bUNvRWJBNnQtNWVqUDFvMDRQRTRiS2g5STNWTHlfTXowSGhkVFhsSy1ab0o3cl90Y2dZNnQxcm5KN1lZTVpCTGRxRDRuckE4ZEdqUFR1cVF2S25DdzZPYkF5cGpkSUhYWTfSAeoBQVVfeXFMT3VHTGJ4YUx1ME9IS3YxSWJOdG8yNHBSekFOTjB5alVTV1M3aU1wSFdCWVhWRWQ3Xzdici1kclhURDhTTHVMelF5S0dvV3dqczl3QlNxZWpseTRjZ2RRa1pRWjYtdWMxMmc5eEJpcmVpQklsc1dyRy1Rc29EekZwUTRnemN1d0xKUXJQd3QyeWFyMHFBY2V5MDJiX3RCeUpvSkh5X3ctaUZzcmp0SGZiRlBHSGVmUENaVFp5a01kemFNT05iMWo1QW9ESm9FY01mRi1aYmdvNnNhWmlxblpDNGVBTWVCbW1jT3J3?oc=5"
-    },
-    {
-     "titulo": "Saiba como adquirir os ingressos para assistir Corinthians e Atlético-GO no Brasileiro Sub-17",
-     "fonte": "meutimao.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOa2JrcnkwV1l4LVg3a3RIOXBpZmlNc1FmVHdwVXlCdnVieTk3bkNWRmRTWU1QOTdmMVVnd01OUXhGd3pXV1JlQzF0czNlT3FPZVRFLThzb01ZdGo4ZnJ2c1lzRFlkM0JhUDNqcmo1SjBHX3hUNkRqLXdGSi1RTk1teURVc0JfREpILW9RcjctU3lMWXVPREVZVUpLNUtxZGZNd00wZXplUmtnQnF6QTBDeVVCb3lyOTF3YWdoUTRVQTJsU1pBVUFtNWl2YzNQWmJVVVFPVVk3bUh1MTcwSlBIeDRjdElRRDTSAdcBQVVfeXFMTlBINlRYbkdhSExKdlVOWC1uX2hKNlJFbldrMlNZY0o3SFhISUxTVV9aUXZJTWh3LXJvZzRRLTJUM2pqRFB5MGtuNEpmcDJjTWQ3YlhVRGhHcTc3RU1VZ3hKb0lTVW1YZWZBUnNRY0ZJb0RFQmh5U25ndUszclR2SDkxa2hZSmlSek04NkI0eElPck9iNnlFRWdURDdfZFZBUFVYd1U2eXJTelZ3V1ptY2NzLUVoZ1B0T3NiNFlhYUhNbDZoSFVybk9oWEhjdlFTb0FMRE5nVHM?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Flamengo vence o Biguá e fecha passagem pelo Uruguai com 100% de aproveitamento",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Flamengo"
-   ],
-   "foco": true,
-   "nota": 49.9,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 60,
-    "midia": 46,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.056,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "vence|urugu|flame|passa",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Esse resultado diz mais sobre o Flamengo do que o placar mostra.",
-    "titulo_thumb": "FLAMENGO: O QUE O JOGO REVELOU",
-    "pergunta_enquete": "Qual sua opinião: Flamengo vence o Biguá e fecha passagem pelo Uruguai com 100% de aproveitamento?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Com Yago endiabrado nos três pontos, Flamengo vence o último amistoso no Uruguai",
-     "fonte": "Garrafão Rubro-negro",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZzVpbVVIYUdpeGtUMVY4VURCcDdGNDE2VFNzR0RVMWdhSVJyWW1TU1NzSWRfa1FjSkhaTGJxWGpheklHbUFKWTUzbXR1cGp6ZVpieGlnUEc2MU05RFR6cndUYmRpMHZWSzI1Q3JvNmhyRHhOUnIyQmo0a1lDbGFXdVdrd3NEcVY1SWtiUkJZeGtyLWl0SENmLUZSeTJ6UWJNaWFDZFJHcUVUdEtyNkFJNnlEX1M3Z2ptNnZONVB0SQ?oc=5"
-    },
-    {
-     "titulo": "Flamengo vence o Biguá e fecha passagem pelo Uruguai com 100% de aproveitamento",
-     "fonte": "flamengo.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnNna0dsQm80dW8tNFFULWdPTUxLdFh2REFQOGxRVnpkLWhIR1lWNl9WU2JsbW1qV3JpcUVMZ2J6cmN6a0lILURWNmF3bEJQeGZUdWlEdEgzb0hib0oxbjJWa1V2YVZxbENyelJyNUgyeWFSbVhRR2J6Yy1LTkF2dFZURTNFWmpfQ3c1Y1NkNzI5MlVNeUx3QTFaWXdsTld6Z3hfUVdGNFZWR2FsbUI1Sjl5M1BIbGswbGxsSjQxcE5lZw?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Bahia intensifica preparação para enfrentar o Palmeiras",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 49.7,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 54,
-    "midia": 67,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 4,
-   "assinatura": "bahia|palme|inten|prepa",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Todo mundo está falando disso. E você, concorda?",
-    "titulo_thumb": "PALMEIRAS: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Bahia intensifica preparação para enfrentar o Palmeiras?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Bahia intensifica preparação para confronto com o Palmeiras",
-     "fonte": "deolhonacidade.net",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeGdfLWtTX2luZ1Q1ZG56eUlYRTBYQU9ERUhhNkVMemk5dldydm9tMlVMV2k2aXhwVlBpSTdFV0ZBR3F3clNOVWZxZDM3NkROdkk4b25Wc19fZEh2TVNRUUpLRGhRaGNocWg5eUR0cWxjOGcyMGpFZ0M0YnJWcDB2aEZYSzNLTXA0by1HQW1FOUoyQUhf?oc=5"
-    },
-    {
-     "titulo": "Bahia intensifica preparação para enfrentar o Palmeiras pelo Brasileirão",
-     "fonte": "Notícia Livre",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNDVJUm9iWlFaazNWU3FDWmxMbjJyS0hhNFZlZWcwRFNLRllWUTN4N2J0X0dhT2p5WFV4S2llRGFBWGxMQ2lkV3lfMzV2MWcwVmlxdnlCbWk0OG1TTFhmaW42YmctdHAxeW42OTZrVkRlX3BLLXh3RlJUd2ctSlViVTRhWVZVTmR5ZFRkZlBwU0pQeUhrRno5cXctRTNyWVlYMENZ?oc=5"
-    },
-    {
-     "titulo": "Bahia intensifica preparação para enfrentar o Palmeiras",
-     "fonte": "bahia.ba",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOazFYcHZFVFpPdVV6dGxSNFJWQ2dhbXRUWE9YUUZicTVjWEIzbC1PTDdQb3RDcHR6ZmxZemdObDJNZmJtekdCN1hqU2VvOHhkWWZkUktBOU04TElkUWdmbEs1WTU3OEhvVXFabDBoNFRCWWFCajVXWlk4eThYMTRaSVZxZnNQejZ3?oc=5"
-    },
-    {
-     "titulo": "Com Michel Araujo na transição, Bahia treina para enfrentar o Palmeiras",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNem5qaU5WQ0xSQzRwOWJRM1NhUEZ0VlVtaEc5TVAxZHMybllQd29vajI0eW5hLW9QbXpPSl8za19YVlpiRC1uSGVTZlNJVGl5RlM2REFSNWtibWh3UkRIdnUtMFIxb2d2ZGY2ZHllVkl5dk9hbHR4Snp0RmZ0MTRndEZDZk5QbVBKcDFfN0hYRTY0LWxrdUtpa0N5TFVHdmxKVk9QOWQwYV9sYjQzMFBoSm50TVZBMWNzWUg2Vkhfbks1RzNSU1B3ZHljZmVNdEprN1FiOV930gHkAUFVX3lxTFBKa0JkNWxwT2NVN2tDdTBLY1dQQ1M2VEhIRG5EUjY1Qks2RG5BVWp5SGQ5dklSWEVvUVplcWM3TkY5Z3lmREhOLXBwZkZ0SGV5elZRYjRKNnRieHNSNjBYVkVuaW5QZldmSm5IMXBjYW96cGxSZHNxUm9ONUk0ZEw2NTJlVkUwdDkwa3dhejhXZ2QzSmRRdU9jZU5ibVQ0X2dQVVl5LXNManF6VzlWWkJtWC1LdTQ0WERwNmw0d295T0lNU28tN0hKRVFPLWcwZEdudWFmUG1KT2NOT3EzRzlwYUdSaA?oc=5"
     }
    ]
   }
