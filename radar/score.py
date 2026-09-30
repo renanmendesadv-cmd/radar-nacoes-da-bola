@@ -44,11 +44,17 @@ def tem_vocab(t: str) -> bool:
     return any(re.search(r"(?<![a-z0-9])" + re.escape(v), t) for v in C.VOCAB_FUTEBOL)
 
 
+def _tem_clube(t: str, apelido: str) -> bool:
+    """Como _tem, mas "Flamengo-PI" / "Palmeiras-AL" (outro clube, de outro estado) não contam."""
+    sufixo = "" if "-" in apelido else r"(?!-[a-z]{2}(?![a-z0-9]))"
+    return re.search(r"(?<![a-z0-9])" + re.escape(apelido) + r"(?![a-z0-9])" + sufixo, t) is not None
+
+
 def _clubes(t: str, tabela: dict, vocab: bool) -> list[str]:
     achados = []
     for clube, apelidos in tabela.items():
         for a in apelidos:
-            if _tem(t, a) and (vocab or a not in C.APELIDOS_AMBIGUOS):
+            if _tem_clube(t, a) and (vocab or a not in C.APELIDOS_AMBIGUOS):
                 achados.append(clube)
                 break
     return achados

@@ -103,8 +103,9 @@ TOP_PAINEL = 15    # pautas no painel
 
 
 # ---- Agenda de jogos -----------------------------------------------------------
-# ESPN (gratuita). Desde 29/09/2026 responde 403 para os servidores do GitHub Actions;
-# o radar tenta uma vez por host e, se bloqueado, usa as buscas do Google como plano B.
+# ESPN (gratuita). Desde 29/09/2026 site.api.espn.com responde 403 para o GitHub Actions;
+# site.web.api.espn.com funcionou em 30/09. O radar tenta um pedido por host e, se todos
+# bloquearem, usa as buscas do Google como plano B.
 ESPN_IDS = {"Flamengo": 819, "Corinthians": 874, "São Paulo": 2026, "Palmeiras": 2029}
 ESPN_LIGAS = ["bra.1", "conmebol.libertadores", "conmebol.sudamericana", "bra.copa_do_brazil"]
 ESPN_HOSTS = ["site.api.espn.com", "site.web.api.espn.com"]

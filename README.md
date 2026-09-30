@@ -153,7 +153,7 @@ Variables > New repository variable*, nome `RAIOX_PAINEL`, valor `0`. A partir d
 | Erro código 1 (fontes fora do ar) | O Google recusou a coleta naquele horário. O painel anterior é mantido; rode manualmente mais tarde |
 | Erro código 2 (falha no e-mail) | Confira `SMTP_USER` e `SMTP_PASS`. A senha tem que ser a **senha de app**, não a senha normal do Gmail |
 | Erro código 3 (falha no Raio-X) | As pautas do dia saíram. Veja a mensagem no log; se for "invalid_grant", refaça a Parte B do Raio-X |
-| "Agenda (ESPN): sem resposta" | A ESPN bloqueia os servidores do GitHub (HTTP 403 desde 29/09/2026). O radar usa as buscas do Google no lugar: os jogos aparecem como "em alta nas buscas", sem data. Confira data e horário antes de gravar |
+| "Agenda (ESPN): sem resposta" | Desde 29/09/2026 o endereço principal da ESPN (`site.api.espn.com`) recusa os servidores do GitHub (HTTP 403). O radar tenta então `site.web.api.espn.com`, que funcionou em 30/09. Se os dois bloquearem, os jogos vêm das buscas do Google ("em alta nas buscas", sem data): confira data e horário antes de gravar |
 | "YouTube (48 h): sem chave" | Crie o Secret `YOUTUBE_API_KEY` (seção Força no YouTube) |
 | "YouTube (48 h): cota esgotada" | A cota diária acabou (execuções manuais demais). Volta sozinha no dia seguinte |
 | "Canal (RSS YouTube): sem resposta" | Em Settings > Secrets and variables > Actions > **Variables**, crie `CHANNEL_ID` com o ID do canal (começa com `UC`, aparece em youtube.com/account_advanced) |

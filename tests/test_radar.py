@@ -313,3 +313,23 @@ def test_fator_categoria_mexe_na_nota():
             assert t["nota"] > n1[t["tema"]] or t["nota"] == 100
         else:
             assert t["nota"] == n1[t["tema"]]
+
+
+def test_casos_reais_v8():
+    # 29/09/2026: manchete com lista de clubes não confirma "Palmeiras x Vasco".
+    sug = {"palmeiras x": ["palmeiras x ldu", "palmeiras x ldu onde assistir", "palmeiras x a", "palmeiras x b",
+                           "palmeiras x c", "palmeiras x d", "palmeiras x e", "palmeiras x f", "palmeiras x g",
+                           "palmeiras x vasco da gama"]}
+    tit = ["Vencedor do prêmio Golden Boy foi oferecido a Santos, Botafogo, Flamengo, Palmeiras e Vasco"]
+    jogos = [j["jogo"] for j in agenda.jogos_das_buscas(sug, tit)]
+    assert "Palmeiras x Vasco" not in " ".join(jogos) and jogos[0].startswith("Palmeiras x Ldu")
+    assert agenda._confronto("palmeiras x ldu onde assistir", "palmeiras", "ldu")
+    assert agenda._confronto("flamengo enfrenta o estudiantes na libertadores", "flamengo", "estudiantes")
+    # Jogo que a ESPN conhece (mesmo fora da janela de 7 dias) não repete.
+    nb = [{"casa": "Palmeiras", "fora": "LDU", "manchetes": 0, "exemplo": None, "confianca": "média"}]
+    ag = {"proximos": [], "resultados": [], "na_midia": []}
+    assert agenda.unir_buscas(nb, ag, [{"casa": "LDU Quito", "fora": "Palmeiras"}]) == []
+    # "Flamengo-PI" é outro clube.
+    assert score.entidades("Flávio Araújo expõe atraso salarial do Flamengo-PI")["foco"] == []
+    assert score.entidades("Atlético-MG vence o Flamengo")["foco"] == ["Flamengo"]
+    assert score.entidades("Atlético-MG vence o Flamengo")["br"] == ["Atlético-MG"]

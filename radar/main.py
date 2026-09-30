@@ -131,7 +131,7 @@ def main() -> int:
     jogos = agenda.montar_agenda(eventos or [], agora)
     titulos = [n["titulo"] for n in bruto["noticias"]]
     jogos["na_midia"] = agenda.sem_repetir(agenda.jogos_na_midia(titulos), jogos)
-    jogos["nas_buscas"] = agenda.unir_buscas(agenda.jogos_das_buscas(bruto["sugestoes"], titulos), jogos)
+    jogos["nas_buscas"] = agenda.unir_buscas(agenda.jogos_das_buscas(bruto["sugestoes"], titulos), jogos, eventos)
     bruto["status"]["Agenda (buscas Google)"] = len(jogos["nas_buscas"])
     dados = {
         "gerado_em": agora.isoformat(),

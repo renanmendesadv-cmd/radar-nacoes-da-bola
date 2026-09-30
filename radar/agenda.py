@@ -89,6 +89,11 @@ def coletar_espn() -> list[dict]:
         if todos:
             break
     log.info("Agenda ESPN: %d jogos lidos", len(todos))
+    # Diagnóstico: próximo jogo que a ESPN conhece para cada clube.
+    for clube in C.ESPN_IDS:
+        prox = sorted(e["data"] or "" for e in todos.values() if e["clube"] == clube and e["estado"] == "pre")
+        log.info("ESPN %s: %d jogos, %d futuros, próximo em %s", clube,
+                 sum(1 for e in todos.values() if e["clube"] == clube), len(prox), prox[0] if prox else "-")
     return list(todos.values())
 
 
@@ -302,13 +307,17 @@ def jogos_das_buscas(sugestoes: dict[str, list[str]], titulos: list[str], por_cl
             manchetes, exemplo = 0, None
             curto = adv.split()[0] if len(adv.split()[0]) >= 3 else adv  # "ldu quito" -> "ldu"
             for t, tn in zip(titulos, titulos_n):
-                if _tem_palavra(tn, curto) and any(_tem_palavra(tn, a) for a in apelidos):
+                # Só conta manchete sobre o confronto ("Palmeiras x LDU", "contra a LDU"),
+                # não lista de clubes ("oferecido a Santos, Botafogo, Flamengo e Vasco").
+                if any(_confronto(tn, a, curto) for a in apelidos):
                     manchetes += 1
                     exemplo = exemplo or t
                     futuro += _conta(tn, SINAIS_FUTURO) > 0
                     passado += _conta(tn, SINAIS_PASSADO) > 0 or bool(PLACAR.search(tn))
             if passado > futuro:
                 continue  # jogo já disputado
+            if not futuro and not manchetes and j["melhor_pos"] >= 5:
+                continue  # busca antiga ou genérica ("flamengo x botafogo" na 9ª posição)
             nome = _nome_original(adv, titulos, "")
             if not nome and curto != adv:  # manchete diz "LDU", busca diz "ldu quito" -> "LDU Quito"
                 inicio = _nome_original(curto, titulos, "")
@@ -336,6 +345,14 @@ def jogos_das_buscas(sugestoes: dict[str, list[str]], titulos: list[str], por_cl
     return final
 
 
+def _confronto(tn: str, clube: str, adv: str) -> bool:
+    c, a = re.escape(clube), re.escape(adv)
+    b0, b1 = r"(?<![a-z0-9])", r"(?![a-z0-9])"
+    return bool(re.search(fr"{b0}{c}(?:-[a-z]{{2}})? ?x ?(?:o |a )?{a}{b1}|{b0}{a} ?x ?(?:o |a )?{c}{b1}", tn)
+                or (_tem_palavra(tn, clube) and re.search(
+                    fr"{b0}(?:contra|enfrenta|encara|recebe|visita|diante|pega) (?:o |a |do |da )?{a}{b1}", tn)))
+
+
 def _tem_palavra(texto_norm: str, termo: str) -> bool:
     return re.search(r"(?<![a-z0-9])" + re.escape(termo) + r"(?![a-z0-9])", texto_norm) is not None
 
@@ -347,9 +364,10 @@ def mesmo_jogo(casa1: str, fora1: str, casa2: str, fora2: str) -> bool:
     return ((a in c or c in a) and (b in f or f in b)) or ((a in f or f in a) and (b in c or c in b))
 
 
-def unir_buscas(nas_buscas: list[dict], agenda: dict) -> list[dict]:
-    """Tira das buscas os jogos que a ESPN já trouxe e absorve os "em pauta na mídia" repetidos."""
-    conhecidos = agenda["proximos"] + agenda["resultados"]
+def unir_buscas(nas_buscas: list[dict], agenda: dict, eventos: list[dict] | None = None) -> list[dict]:
+    """Tira das buscas os jogos que a ESPN já conhece (em qualquer data, inclusive os já disputados)
+    e absorve os "em pauta na mídia" repetidos."""
+    conhecidos = agenda["proximos"] + agenda["resultados"] + list(eventos or [])
     saida = [j for j in nas_buscas if not any(mesmo_jogo(j["casa"], j["fora"], e["casa"], e["fora"])
                                               for e in conhecidos)]
     restantes = []
