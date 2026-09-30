@@ -1,13 +1,13 @@
 {
- "gerado_em": "2026-09-30T05:01:34.820082+00:00",
- "data_br": "30/09/2026 02:01",
+ "gerado_em": "2026-09-30T16:31:14.945089+00:00",
+ "data_br": "30/09/2026 13:31",
  "status": {
   "Google Trends": 10,
-  "Google News": 978,
+  "Google News": 985,
   "Vídeos do canal": 15,
-  "Buscas do torcedor": 18,
-  "YouTube (48 h)": 0,
-  "Alertas de tendência": "nenhum hoje",
+  "Buscas do torcedor": 17,
+  "YouTube (48 h)": 12,
+  "Alertas de tendência": 3,
   "Agenda (ESPN)": 200,
   "Agenda (buscas Google)": 1
  },
@@ -65,7 +65,7 @@
   }
  ],
  "termos_futebol": [
-  "felipe melo"
+  "eritreia x áfrica do sul"
  ],
  "pesos": {
   "busca": 0.24,
@@ -98,7 +98,7 @@
     "estado": "pre",
     "clube": "São Paulo",
     "tipo": "pré-jogo",
-    "em_horas": 66,
+    "em_horas": 54,
     "gancho": "São Paulo x Santos: o detalhe que pode decidir esse jogo.",
     "titulo_thumb": "QUEM LEVA?",
     "formato": "Enquete: qual o seu palpite? (30 s)"
@@ -107,9 +107,21 @@
   "resultados": [],
   "na_midia": [
    {
+    "jogo": "Athletico-Pr x Flamengo",
+    "clube": "Flamengo",
+    "manchetes": 2,
+    "exemplo": "Athlético-PR x Flamengo: veja onde assistir o jogo da Copa do Brasil 2022"
+   },
+   {
+    "jogo": "Internacional x Corinthians - 29A",
+    "clube": "Corinthians",
+    "manchetes": 2,
+    "exemplo": "Serviço de Jogo: Internacional x Corinthians - 29ª rodada/Brasileirão 2026"
+   },
+   {
     "jogo": "Palmeiras x Fluminense",
     "clube": "Palmeiras",
-    "manchetes": 3,
+    "manchetes": 2,
     "exemplo": "Palmeiras x Fluminense: Nubank Parque recebe visita técnica da PM"
    }
   ],
@@ -173,87 +185,2225 @@
    "brasileirão série d"
   ]
  },
- "alertas": [],
+ "alertas": [
+  {
+   "tema": "Arrascaeta sofre fratura no punho em jogo do Uruguai, passará por cirurgia e preocupa o Flamengo",
+   "clubes": [
+    "Flamengo"
+   ],
+   "origem": "Pauta do radar",
+   "formato_em_alta": "Lives",
+   "sugestao": "Live de debate ou react ao vivo, com o assunto no título",
+   "dica_do_canal": "No seu canal, Transmissão de jogo rende 1,9x a média: puxe o assunto também na próxima live.",
+   "n_videos": 25,
+   "views": 12252312,
+   "velocidade": 3449.4,
+   "engajamento": 1.0,
+   "engajamento_pct": 2.8,
+   "exemplos": [
+    {
+     "titulo": "JOGO COMPLETO: AUSTRÁLIA X BRASIL | AMISTOSO DA SELEÇÃO | ge tv",
+     "canal": "ge tv",
+     "views": 11751273,
+     "url": "https://www.youtube.com/watch?v=fEI_DJ6UcVs",
+     "formato": "Lives",
+     "views_hora": 433911
+    },
+    {
+     "titulo": "ARRASCAETA SOFRE FRATURA! \"É INACREDITÁVEL! A INFORMAÇÃO É QUE O FLAMENGO...\" | LESÃO PELO URUGUAI!",
+     "canal": "Jovem Pan Esportes",
+     "views": 334982,
+     "url": "https://www.youtube.com/watch?v=ehiroZO9CwQ",
+     "formato": "Vídeos longos",
+     "views_hora": 7050
+    },
+    {
+     "titulo": "Arrascaeta sofre fratura e vai passar por cirurgia! 😰 Flamengo recebe péssima notícia e mais...",
+     "canal": "Giro Fla ",
+     "views": 46008,
+     "url": "https://www.youtube.com/watch?v=qlMzus29VoQ",
+     "formato": "Shorts",
+     "views_hora": 1438
+    }
+   ]
+  },
+  {
+   "tema": "Raphinha tem edema na coxa e é cortado de amistoso da Seleção Brasileira contra a Índia",
+   "clubes": [],
+   "origem": "Pauta do radar",
+   "formato_em_alta": "Lives",
+   "sugestao": "Live de debate ou react ao vivo, com o assunto no título",
+   "dica_do_canal": "No seu canal, Transmissão de jogo rende 1,9x a média: puxe o assunto também na próxima live.",
+   "n_videos": 10,
+   "views": 85462,
+   "velocidade": 296.5,
+   "engajamento": 2.0,
+   "engajamento_pct": 5.4,
+   "exemplos": [
+    {
+     "titulo": "RAPHINHA CORTADO DA SELEÇÃO; CRISTIANO RONALDO IRRITADO COM JJ; CITY CONDENADO | De Placa 30/06/26",
+     "canal": "TNT Sports Brasil",
+     "views": 67247,
+     "url": "https://www.youtube.com/watch?v=32AqxT56R5c",
+     "formato": "Lives",
+     "views_hora": 37302
+    },
+    {
+     "titulo": "BOM DIA ESPORTE: RAPHINHA CORTADO! CR7 IRRITADO, CITY PODE SER PUNIDO E CAOS NO CORINTHIANS 📱",
+     "canal": "Coy o Corintiano",
+     "views": 8568,
+     "url": "https://www.youtube.com/watch?v=Zr_c15aDIB4",
+     "formato": "Lives",
+     "views_hora": 5110
+    },
+    {
+     "titulo": "CORTE NA SELEÇÃO! BRASIL JÁ SABE QUANDO ENFRENTARÁ EUROPEUS! ANCELOTTI DESCARTA NOVA CONVOCAÇÃO!",
+     "canal": "Litoral News",
+     "views": 5545,
+     "url": "https://www.youtube.com/watch?v=UL5wXDQKAcw",
+     "formato": "Lives",
+     "views_hora": 1314
+    }
+   ]
+  },
+  {
+   "tema": "Corinthians x São Paulo na final do Brasileirão Feminino: onde assistir ao vivo, horário e escalação",
+   "clubes": [
+    "São Paulo",
+    "Corinthians"
+   ],
+   "origem": "Pauta do radar",
+   "formato_em_alta": "Shorts",
+   "sugestao": "Short de 30 a 60 s com a sua opinião ou reação (poste o mesmo vídeo como Reels no Instagram)",
+   "dica_do_canal": "Seu canal quase não tem Shorts: é uma chance de testar o formato com um assunto que já está bombando.",
+   "n_videos": 23,
+   "views": 2495581,
+   "velocidade": 225.9,
+   "engajamento": 1.3,
+   "engajamento_pct": 3.6,
+   "exemplos": [
+    {
+     "titulo": "Jornal BandNews FM / BandNews São Paulo | 30/09/2026",
+     "canal": "Rádio BandNews FM",
+     "views": 63397,
+     "url": "https://www.youtube.com/watch?v=mJ6Fp-20IfA",
+     "formato": "Lives",
+     "views_hora": 28415
+    },
+    {
+     "titulo": "Calor já acabou? São Paulo terá virada de tempo até o fim de semana; veja | CNN PRIME TIME",
+     "canal": "CNN Brasil",
+     "views": 181623,
+     "url": "https://www.youtube.com/watch?v=JSEGhZ2u9r4",
+     "formato": "Vídeos longos",
+     "views_hora": 11361
+    },
+    {
+     "titulo": "FLÁVIO BOLSONARO REAGE A GRITOS PRÓ-LULA DURANTE ATO EM SÃO PAULO",
+     "canal": "Itatiaia",
+     "views": 490704,
+     "url": "https://www.youtube.com/watch?v=XiuT45KgAUY",
+     "formato": "Shorts",
+     "views_hora": 10607
+    }
+   ]
+  }
+ ],
  "aviso_requisitos": null,
  "temas": [
   {
-   "tema": "Raphinha é cortado de amistoso da seleção brasileira contra a Índia",
+   "tema": "Corinthians x São Paulo na final do Brasileirão Feminino: onde assistir ao vivo, horário e escalação",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "São Paulo",
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 82.7,
+   "sinais": {
+    "busca": 75,
+    "aceleracao": 41,
+    "midia": 92,
+    "aderencia": 100,
+    "youtube": 99
+   },
+   "fator_categoria": 1.056,
+   "trafego_google": 0,
+   "busca_torcedor": "brasileiro série a",
+   "termos_trends": [],
+   "n_fontes": 8,
+   "n_manchetes": 10,
+   "assinatura": "paulo|femin|brasi|final",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Esse resultado diz mais sobre o São Paulo do que o placar mostra.",
+    "titulo_thumb": "SÃO PAULO: O QUE O JOGO REVELOU",
+    "pergunta_enquete": "Qual sua opinião: Corinthians x São Paulo na final do Brasileirão Feminino: onde assistir ao vivo, horário e?"
+   },
+   "manchetes": [
+    {
+     "titulo": "São Paulo vence Corinthians fora de casa e abre vantagem na final do Brasileirão Feminino",
+     "fonte": "Aquidauana Notícias",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tbTdUODZ1QUFiS19rV0hSdGNmRnBPWGJLbEp1NmEyWExJYW1ya29TaUNwaFpQUUpTdDJDX2VtZS13MTlwZDdrY19GVmlKZGo1NERPag?oc=5"
+    },
+    {
+     "titulo": "São Paulo x Santos: onde assistir ao vivo, horário e prováveis escalações pelo jogo atrasado da 21ª rodada da Série A",
+     "fonte": "JC",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQb2xzdVNDcmROVjloMEI3TTEzT2lxY0o1SUxEYzZtX3FkYklMcVFaUE9meTFYTmIzbThqU2Q0MlVRb3liNHpRVTFLclVILTdTSWxQNzNxUGNZSVFwVnlNeVB4Q0xlY1VxOWJRUGlMek1OX1VGVE4xV3FfeXlHNjcwenhBaE8tV19mYVVac204dnB6MGpUZlhIVWJVdWlwM0x1eGludFlTcnBUZW82cHFET1BQbS1IRW1PVFdjU0NhNENHQlhheUZ4dTQ0YW5pc01Qa0wwN3ZYRnFaWDZRd19QUWp1MGFWZ0RYQk5GeGozR3NrU180cm1RZXpxakp2SmFoT0pVR1BpZU1PLTJ2bS1kWA?oc=5"
+    },
+    {
+     "titulo": "Índia x Brasil ao vivo: onde assistir, horário e escalações",
+     "fonte": "JC",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS0NJekpqdDVodkt0aTZsWG10UjBJTTZpSDZaYU95TThUWHBwNlRZUDhsdzliRGhhR1NMLUtGaExJd1M5Tl9PQmlQWXcwbG0xZ3F4X0Z0dVZsel82Q3Q5QWp6TG9EaFkya0ROV01BZ2duWHh2dGc0a1l1ZDIxVTVMUE9zNUMyRENaeFEyOWhHaHNBd0tkLWRMNTdZZURNTE5EWGZxOGZEYjJHTW1odVVFeUR5N3RWSWVIUUxGa2lTaXFCVUJkWWpEaWo3Sjh3TW5yZEFPZHN3?oc=5"
+    },
+    {
+     "titulo": "Feminino: São Paulo tenta quebrar recorde de público em jogo contra o Corinthians",
+     "fonte": "ABCD Jornal",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVlc4UkkxR0xDWWZWRWpDbzlfdGdtaXk3bU5fNWZiak03RGd4XzJkSkc4eFNVR2NaaWZXY3lUU21UT2NwRVoxanBGczdqeTdNZmVsWmxoWW53TG8wSjQ4SGNwbkVPYkdsd3ZYS3V5bXBKUGk0T0pLYTRHQ2hmTC1KUnBTUXdOUEdtWUNIVzNCUmg4aWVTSjZpaW9QUjh4UVY5VXZyZDZPd2Q3NDRhRHVpdmJ3RHVDUWM1aXlrRWpLS3d6OTJrUFgxTU9JTGVuaDTSAdQBQVVfeXFMT1NBWHFkX0Z3aDlMQXFySGdmRDdWdnVMSk1tWUwxXzl4ZnB0SjNNLWpZbHFqdHpTVVAtTy1YVXc2VVZ6VWFkWE5WRUNpRFg3dnFtTGVyRkdfMWQ1ME90LTBaYVU4WUFreFJGV2RNMjVyNEJwaS1HSlpEWE9zTndGTVlTaDQ5VjVfakkwSWYwODBPbXdSQVhubWxqalA5Y3dQZjVmUXhQOFBpOVdoakt0NGQ4a3lEN1ZjZ0VIOV9WcVJxYzZTUWl3SFV1NVJKNEQ2MmhPWWw?oc=5"
+    },
+    {
+     "titulo": "São Paulo mira recorde de público no futebol feminino com final no Morumbi",
+     "fonte": "Portal ABC do ABC",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZb3lUY242TExiWmNpMlA0aVM2Z3ktSUtQdGdSZEhETXNVTF9XcGRrTmozSVVyTm0zRHJGVHRXVXlpZkV6TExiSnY2YVJSMGFTay1vc0NOQVNSaVJwc2tQcVhaTXBUOUZsTy1CM2JB?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "XiuT45KgAUY",
+      "titulo": "FLÁVIO BOLSONARO REAGE A GRITOS PRÓ-LULA DURANTE ATO EM SÃO PAULO",
+      "canal": "Itatiaia",
+      "views": 490704,
+      "likes": 10553,
+      "comentarios": 3296,
+      "publicado": "2026-09-28T18:15:35Z",
+      "duracao_s": 48,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=XiuT45KgAUY"
+     },
+     {
+      "id": "qUhr2fNwKZM",
+      "titulo": "FLÁVIO BOLSONARO CHAMA LULA DE “PAI DO TIGRINHO” DURANTE VISITA AO MERCADÃO, EM SÃO PAULO (SP)",
+      "canal": "Itatiaia",
+      "views": 216576,
+      "likes": 8084,
+      "comentarios": 1301,
+      "publicado": "2026-09-28T18:45:30Z",
+      "duracao_s": 48,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=qUhr2fNwKZM"
+     },
+     {
+      "id": "JSEGhZ2u9r4",
+      "titulo": "Calor já acabou? São Paulo terá virada de tempo até o fim de semana; veja | CNN PRIME TIME",
+      "canal": "CNN Brasil",
+      "views": 181623,
+      "likes": 772,
+      "comentarios": 18,
+      "publicado": "2026-09-30T00:32:04Z",
+      "duracao_s": 288,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=JSEGhZ2u9r4"
+     },
+     {
+      "id": "eXDQiCInw6o",
+      "titulo": "Polícia apreende helicóptero durante operação em São Paulo",
+      "canal": "Balanço Geral",
+      "views": 174894,
+      "likes": 114,
+      "comentarios": null,
+      "publicado": "2026-09-29T13:21:22Z",
+      "duracao_s": 126,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=eXDQiCInw6o"
+     },
+     {
+      "id": "vrOFJg0hJEs",
+      "titulo": "Idosa é esfaqueada por criminoso durante assalto em São Paulo #shorts #balançogeral",
+      "canal": "Balanço Geral",
+      "views": 132904,
+      "likes": 5401,
+      "comentarios": 608,
+      "publicado": "2026-09-29T12:24:22Z",
+      "duracao_s": 120,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=vrOFJg0hJEs"
+     },
+     {
+      "id": "bfoALUwnrvU",
+      "titulo": "A MAIOR E A MENOR batata de São Paulo 🍟😱",
+      "canal": "Recomendo sampa ",
+      "views": 122791,
+      "likes": 5964,
+      "comentarios": 189,
+      "publicado": "2026-09-29T15:20:15Z",
+      "duracao_s": 165,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=bfoALUwnrvU"
+     },
+     {
+      "id": "PTurIpy4Tk4",
+      "titulo": "Salles desiste de candidatura ao Senado por São Paulo e declara apoio à chapa Derrite e Prado",
+      "canal": "João notícias ",
+      "views": 116246,
+      "likes": 64,
+      "comentarios": 0,
+      "publicado": "2026-09-28T17:59:01Z",
+      "duracao_s": 1815,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=PTurIpy4Tk4"
+     },
+     {
+      "id": "gVnNFiEPXvM",
+      "titulo": "Experimentando os deliveries mais hypados de São Paulo! 🌯🍙🍪 #comida #review",
+      "canal": "Taleco",
+      "views": 102294,
+      "likes": 13424,
+      "comentarios": 19,
+      "publicado": "2026-09-28T21:17:27Z",
+      "duracao_s": 150,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=gVnNFiEPXvM"
+     },
+     {
+      "id": "V9ojc1m50A8",
+      "titulo": "Não tem como você esquecer , 1199 Deputada Federal por São Paulo 😍❤️",
+      "canal": "Vitória Souza Oficial",
+      "views": 89070,
+      "likes": 2397,
+      "comentarios": 161,
+      "publicado": "2026-09-28T19:37:08Z",
+      "duracao_s": 44,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=V9ojc1m50A8"
+     },
+     {
+      "id": "xgaOy9mSnaQ",
+      "titulo": "PADRE KELMON PARTICIPA DE ATO POLÍTICO DE FLÁVIO BOLSONARO EM SÃO PAULO",
+      "canal": "Itatiaia",
+      "views": 86798,
+      "likes": 2298,
+      "comentarios": 270,
+      "publicado": "2026-09-28T20:15:34Z",
+      "duracao_s": 36,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=xgaOy9mSnaQ"
+     },
+     {
+      "id": "YPGuxdgG2T0",
+      "titulo": "Jornal BandNews FM / BandNews São Paulo | 29/09/2026",
+      "canal": "Rádio BandNews FM",
+      "views": 74516,
+      "likes": 1580,
+      "comentarios": 7,
+      "publicado": "2026-09-29T14:14:00Z",
+      "duracao_s": 14426,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=YPGuxdgG2T0"
+     },
+     {
+      "id": "6ubiX5UrQAo",
+      "titulo": "Ônibus desgovernado causa acidente grave em São Paulo | #SBTCidades",
+      "canal": "SBT Jornalismo",
+      "views": 73099,
+      "likes": 597,
+      "comentarios": 257,
+      "publicado": "2026-09-28T22:53:42Z",
+      "duracao_s": 153,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=6ubiX5UrQAo"
+     },
+     {
+      "id": "Z-oQoQpPAdQ",
+      "titulo": "💢Haddad detona privatizações em São Paulo e deixa Tarcísio sem reação💢",
+      "canal": "Mídia NINJA",
+      "views": 70117,
+      "likes": 7586,
+      "comentarios": 756,
+      "publicado": "2026-09-30T03:22:53Z",
+      "duracao_s": 61,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Z-oQoQpPAdQ"
+     },
+     {
+      "id": "HIz0IP3j_fg",
+      "titulo": "Chegada de nova frente fria coloca São Paulo em alerta para temporais, ventos e até granizo",
+      "canal": "Jornal da Record",
+      "views": 68539,
+      "likes": 287,
+      "comentarios": null,
+      "publicado": "2026-09-29T12:57:26Z",
+      "duracao_s": 43,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=HIz0IP3j_fg"
+     },
+     {
+      "id": "JXBRGSNXvMg",
+      "titulo": "SANTOS COMEÇA PREPARAÇÃO PARA PEGAR O SÃO PAULO. HÁ RETORNOS IMPORTANTES",
+      "canal": "Fábio Sormani",
+      "views": 66699,
+      "likes": 4633,
+      "comentarios": 173,
+      "publicado": "2026-09-28T23:18:43Z",
+      "duracao_s": 827,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=JXBRGSNXvMg"
+     },
+     {
+      "id": "opH1A_fXoQo",
+      "titulo": "🔥Haddad expõe que Tarcísio deixou as contas de São Paulo sair de superávit para déficit🔥",
+      "canal": "Mídia NINJA",
+      "views": 63832,
+      "likes": 6206,
+      "comentarios": 513,
+      "publicado": "2026-09-30T03:56:52Z",
+      "duracao_s": 44,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=opH1A_fXoQo"
+     },
+     {
+      "id": "mJ6Fp-20IfA",
+      "titulo": "Jornal BandNews FM / BandNews São Paulo | 30/09/2026",
+      "canal": "Rádio BandNews FM",
+      "views": 63397,
+      "likes": 1739,
+      "comentarios": 3,
+      "publicado": "2026-09-30T14:17:23Z",
+      "duracao_s": 14421,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=mJ6Fp-20IfA"
+     },
+     {
+      "id": "3ZpWUIoxxR4",
+      "titulo": "Debate SP: Tarcísio e Haddad falam sobre segurança pública e saúde",
+      "canal": "globonews",
+      "views": 62272,
+      "likes": 881,
+      "comentarios": 414,
+      "publicado": "2026-09-30T02:13:47Z",
+      "duracao_s": 1756,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=3ZpWUIoxxR4"
+     },
+     {
+      "id": "tAtACUbx5J8",
+      "titulo": "CORINTHIANS X SÃO PAULO 🔥 #corinthians #spfc #futebol",
+      "canal": "Jok Análises",
+      "views": 59960,
+      "likes": 1453,
+      "comentarios": 283,
+      "publicado": "2026-09-29T02:43:36Z",
+      "duracao_s": 81,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=tAtACUbx5J8"
+     },
+     {
+      "id": "-xavMcGcjbY",
+      "titulo": "TORCIDAS ORGANIZADAS DO SÃO PAULO PROMETEM RECEPÇÃO HISTÓRICA NO MORUMBIS! GABRIEL SÁ DETALHA",
+      "canal": "UOL Esporte",
+      "views": 56124,
+      "likes": 745,
+      "comentarios": 38,
+      "publicado": "2026-09-28T19:44:58Z",
+      "duracao_s": 531,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=-xavMcGcjbY"
+     },
+     {
+      "id": "Ie-wCwtf6xA",
+      "titulo": "CASARES PROCESSA O SÃO PAULO E DEIXA O BAROLO FURIOSO | Papo de Craque TMC 2ª Edição SP - 29/09/2026",
+      "canal": "TMC Esporte",
+      "views": 46838,
+      "likes": 1565,
+      "comentarios": 38,
+      "publicado": "2026-09-29T23:08:37Z",
+      "duracao_s": 8864,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=Ie-wCwtf6xA"
+     },
+     {
+      "id": "Q1imEJTgOu8",
+      "titulo": "Mãe morre e filho autista desaparece em São Paulo; família procura criança em abrigos",
+      "canal": "Balanço Geral",
+      "views": 42492,
+      "likes": 403,
+      "comentarios": null,
+      "publicado": "2026-09-29T18:50:21Z",
+      "duracao_s": 328,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Q1imEJTgOu8"
+     },
+     {
+      "id": "0o9HFcwdyg0",
+      "titulo": "UMA NAVE EXTRATERRESTRE VAI POUSAR EM SÃO PAULO? A Previsão de Gilberto Rissato",
+      "canal": "GilbertoRissato",
+      "views": 33796,
+      "likes": 4763,
+      "comentarios": 143,
+      "publicado": "2026-09-29T00:19:46Z",
+      "duracao_s": 2275,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=0o9HFcwdyg0"
+     }
+    ],
+    "consulta": "São Paulo",
+    "n_videos": 23,
+    "mais_de": true,
+    "views": 2495581,
+    "top": [
+     {
+      "titulo": "FLÁVIO BOLSONARO REAGE A GRITOS PRÓ-LULA DURANTE ATO EM SÃO PAULO",
+      "canal": "Itatiaia",
+      "views": 490704,
+      "url": "https://www.youtube.com/watch?v=XiuT45KgAUY",
+      "publicado": "2026-09-28T18:15:35Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "FLÁVIO BOLSONARO CHAMA LULA DE “PAI DO TIGRINHO” DURANTE VISITA AO MERCADÃO, EM SÃO PAULO (SP)",
+      "canal": "Itatiaia",
+      "views": 216576,
+      "url": "https://www.youtube.com/watch?v=qUhr2fNwKZM",
+      "publicado": "2026-09-28T18:45:30Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Calor já acabou? São Paulo terá virada de tempo até o fim de semana; veja | CNN PRIME TIME",
+      "canal": "CNN Brasil",
+      "views": 181623,
+      "url": "https://www.youtube.com/watch?v=JSEGhZ2u9r4",
+      "publicado": "2026-09-30T00:32:04Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Arrascaeta sofre fratura no punho em jogo do Uruguai, passará por cirurgia e preocupa o Flamengo",
+   "categoria": "Lesão e desfalque",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 76.5,
+   "sinais": {
+    "busca": 60,
+    "aceleracao": 62,
+    "midia": 75,
+    "aderencia": 100,
+    "youtube": 96
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "arrascaeta flamengo",
+   "termos_trends": [],
+   "n_fontes": 5,
+   "n_manchetes": 5,
+   "assinatura": "arras|flame|urugu|sofre",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "Esse desfalque muda tudo para o Flamengo nos próximos jogos.",
+    "titulo_thumb": "FLAMENGO SEM ELE: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Arrascaeta sofre fratura no punho em jogo do Uruguai, passará por cirurgia e preocupa o Fl?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Arrascaeta sofre quinta lesão com o Uruguai, que já o fez desfalcar o Flamengo por 118 dias",
+     "fonte": "DeFato.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNemxvWk5ibk9SOUtrT2dEYU5HXzU3NjR2R1VTYU5sd05YWXNVRDRKVWswTV90ajNHbmtSSVM3RVFaSnNLekQwYkQzRVhwQ3lFQ1dLOGtyTHNhNXFONm9la21RR3pOVEdOaGktQjl0RU5Kb3hQYUpPS3ZKbFY5RGFTbllXV0FSd0xLZUVsSUZmdDA2UnJ4d01aX3preUM4ZzM0MzVwcnZrMWlyeUZneDluNWFnN3I?oc=5"
+    },
+    {
+     "titulo": "Sem Arrascaeta? Flamengo tem dois meias que pontuam mais do que o uruguaio no Cartola 2026",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYlRnU0NZZThpaEtRVnBpcDdGRkxwWXpUZ2hmT2FMSE93ZndGX05BbWZGT085SGxoMU8wa1p5UUY2cTZEVlpha0Q0ZDV4UjFLUEJyTl9PZGZFTHhiYXBoM2FsZk5wYzl5S3B6am5XLWNGYjBMcEEzNllDRVVJdW5ybTl3VGFEWlZOd3BET1p0TUhwVDI5NmtudzZiV3pBd1BILUk0MUxKVnpxMmk4UGNzTVFIZ1JYVWJ0VnpENHMwek1EYXFHTXJnUGpOSE9VbzZ5eEVCX1Exb1g3dDdfMnZibk94cm84Qlp0RWNYZdIB-wFBVV95cUxOVXN5S2dIV0R5ZDFfSWhHZll0OGtpRDNYVmpIZzBGQUdVNDRVTVFWWlo2SHVyWXhiNEJ5MU9JemtEVFFHSk56b1dsY29VZndrVGZTZUhFTVByeEtWU2dOV3pFRVktUHdlRnNIaEI1NmY5VWxSX3NESTJ3dmp2dDlQZGQwWkt6TE05SXUxbWc3Nnp1MEhuR25uckFTWEJJSTN3QlFqU3RUT2lESDZMR1IycFZhSHg4c0x3Q1lrWHZDZHBKNElSVi1yVTE1SDd5UTRzY0NvR1drbnQxMlR1ZmV3NWstZGs3MS00a0FTek85TkJoNmZuMjRmTjlVSQ?oc=5"
+    },
+    {
+     "titulo": "Arrascaeta sofre fratura no punho em jogo do Uruguai, passará por cirurgia e preocupa o Flamengo",
+     "fonte": "Estadão",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcUIyQWNFSjF3bUdDajlMZW9rckxkQ2FNX2xKZ1VnVVpsQXUzRFZlWFIzSld4eTU3ZFBmSUN3T3M4RS1GWm9Wd3dCRTNnd0xETnc4UnNJaW5pWi1tSWZxYzJPWHpMeTctVTFWTnBiUXN5Z2hFWGhIZ283Sk5tcTBrTVFHd3RWX1JNb0VSdUxybWJ5TmJMSllpNjRVelJzY25YU2diUjBNQ2lSZUFrR1JCYTJuWVQ1bDhVaVhzWlIyRjJqUDNTLW5ISlBPUjJwdVRjalFObnlsTTV2S0g4Unc?oc=5"
+    },
+    {
+     "titulo": "Arrascaeta desembarca no Rio de Janeiro nesta quarta-feira (30), após sofrer uma fratura no punho esquerdo durante um amistoso pela seleção do Uruguai. O meio-campista será desfalque do Flamengo nos próximos compromissos da temporada e passar",
+     "fonte": "instagram.com",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12NERwT0J3ZHJPQnlFMXVpdG9OaU91WnA1ZGlqS01iZzhvQjB5X3U1cmdLc0FPcW5IaVN5VG1nR21sZG1jWTl0SmVhRmdNRmhVcWc?oc=5"
+    },
+    {
+     "titulo": "Flamengo define data para cirurgia no punho de Arrascaeta",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbE5BTEpiOENSazBFbVZ2aDNUSkVhcVNXX1VfQmhySFctdkM4bUlMQmo3NnpCaHVwWmU2MWF2YzJpd1djd2hBSDVnbHJIQUVwUVR6OURIVndrS1M1OEg5S1Y4Wmh6RmR1dlhEVGI1UWV6ampDcms0QTRoQVFXRk9lMVpYLW1OZ0ZTYU5UQWtEWWk1S0gxT3dXb0dZTG5mdjFDcklueWxVUW91ZFhEY0FrNEFCMmV3ZTduUjlIdnY1cGk5dXE2Zk5sWVpIY09JMUwtcGVXLS1XRnA2Y1hRcXNB?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "ehiroZO9CwQ",
+      "titulo": "ARRASCAETA SOFRE FRATURA! \"É INACREDITÁVEL! A INFORMAÇÃO É QUE O FLAMENGO...\" | LESÃO PELO URUGUAI!",
+      "canal": "Jovem Pan Esportes",
+      "views": 334982,
+      "likes": 6626,
+      "comentarios": 558,
+      "publicado": "2026-09-28T17:00:21Z",
+      "duracao_s": 2100,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=ehiroZO9CwQ"
+     },
+     {
+      "id": "RGv_tQajDzo",
+      "titulo": "URGENTE! ARRASCAETA SOFRE FRATURA E VAI DESFALCAR O FLAMENGO NA LIBERTADORES!",
+      "canal": "Marcos FLA React",
+      "views": 47760,
+      "likes": 1811,
+      "comentarios": 88,
+      "publicado": "2026-09-28T17:09:11Z",
+      "duracao_s": 1482,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=RGv_tQajDzo"
+     },
+     {
+      "id": "qlMzus29VoQ",
+      "titulo": "Arrascaeta sofre fratura e vai passar por cirurgia! 😰 Flamengo recebe péssima notícia e mais...",
+      "canal": "Giro Fla ",
+      "views": 46008,
+      "likes": 1818,
+      "comentarios": 16,
+      "publicado": "2026-09-29T08:31:35Z",
+      "duracao_s": 170,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=qlMzus29VoQ"
+     },
+     {
+      "id": "evSPRHVX_NE",
+      "titulo": "Arrascaeta sofre lesão grave em amistoso do Uruguai #flamengo #brasileirão",
+      "canal": "J7sports",
+      "views": 37665,
+      "likes": 561,
+      "comentarios": 39,
+      "publicado": "2026-09-28T18:26:25Z",
+      "duracao_s": 28,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=evSPRHVX_NE"
+     },
+     {
+      "id": "Nw5tenksjtE",
+      "titulo": "FLAMENGO EM ALERTA! ARRASCAETA SOFRE FRATURA NO PUNHO E VAI PASSAR POR CIRURGIA! | SPORTSCENTER",
+      "canal": "ESPN Brasil",
+      "views": 8881,
+      "likes": 146,
+      "comentarios": 7,
+      "publicado": "2026-09-28T16:53:11Z",
+      "duracao_s": 495,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Nw5tenksjtE"
+     },
+     {
+      "id": "31e-MI7R_2o",
+      "titulo": "ARRASCAETA SOFRE FRATURA NO PUNHO E PASSARÁ POR CIRURGIA!",
+      "canal": "Lance!",
+      "views": 5640,
+      "likes": 66,
+      "comentarios": 2,
+      "publicado": "2026-09-28T17:26:17Z",
+      "duracao_s": 165,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=31e-MI7R_2o"
+     },
+     {
+      "id": "rVuH_wr6JO8",
+      "titulo": "😱⚽FLAMENGUISTAS PREOCUPADOS, ARRASCAETA SOFRE LESÃO SERIA😱 #arrascaeta #viral #flamengo",
+      "canal": "FootPlay BR",
+      "views": 4389,
+      "likes": 114,
+      "comentarios": 1,
+      "publicado": "2026-09-28T22:46:59Z",
+      "duracao_s": 19,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=rVuH_wr6JO8"
+     },
+     {
+      "id": "Kntx15XlYcc",
+      "titulo": "Arrascaeta SOFRE fratura no punho — e já tem cirurgia marcada",
+      "canal": "Agenda do Futebol",
+      "views": 3841,
+      "likes": 13,
+      "comentarios": 0,
+      "publicado": "2026-09-29T22:21:21Z",
+      "duracao_s": 6,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Kntx15XlYcc"
+     },
+     {
+      "id": "avks1axMDoo",
+      "titulo": "Arrascaeta SOFRE LESÃO no amistoso do URUGUAI! #mengo #arrascaeta #futebol #shorts",
+      "canal": "Borges Futebol ",
+      "views": 3150,
+      "likes": 89,
+      "comentarios": 6,
+      "publicado": "2026-09-28T17:01:16Z",
+      "duracao_s": 19,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=avks1axMDoo"
+     },
+     {
+      "id": "75gsGm0XciE",
+      "titulo": "Arrascaeta sofre quinta lesão com o Uruguai, que já o fez desfalcar o Flamengo por 118 dias",
+      "canal": "Radar da Bola",
+      "views": 1851,
+      "likes": 7,
+      "comentarios": 0,
+      "publicado": "2026-09-28T22:53:28Z",
+      "duracao_s": 6,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=75gsGm0XciE"
+     },
+     {
+      "id": "ZinsbKeDt8s",
+      "titulo": "Arrascaeta sofre lesão, fratura o punho em Uruguai x Coreia do Sul  #flamengo",
+      "canal": "CLUBE DA  BOLA ",
+      "views": 1438,
+      "likes": 24,
+      "comentarios": 0,
+      "publicado": "2026-09-28T23:49:09Z",
+      "duracao_s": 53,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=ZinsbKeDt8s"
+     },
+     {
+      "id": "RfsGpgUYMYM",
+      "titulo": "ARRASCAETA SOFRE LESÃO NO PUNHO EM AMISTOSO E QUEBRA O FLAMENGO #arrascaeta #flamengo #amistoso #fla",
+      "canal": "WagnerLove",
+      "views": 1352,
+      "likes": 26,
+      "comentarios": 3,
+      "publicado": "2026-09-29T09:00:11Z",
+      "duracao_s": 12,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=RfsGpgUYMYM"
+     },
+     {
+      "id": "AjNGzJ1OMnQ",
+      "titulo": "ARRASCAETA FORA DE NOVO!                                 #Flamengo #Arrascaeta #Zico #Mengo #Sagafla",
+      "canal": "SAGA FLA DUDU PONG SHOPPING ",
+      "views": 1296,
+      "likes": 63,
+      "comentarios": 6,
+      "publicado": "2026-09-29T10:58:59Z",
+      "duracao_s": 63,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=AjNGzJ1OMnQ"
+     },
+     {
+      "id": "knQkrqWK_z0",
+      "titulo": "Arrascaeta sofre quinta lesão pela seleção e desfalca o Flamengo",
+      "canal": "Futebol com Zé",
+      "views": 928,
+      "likes": 16,
+      "comentarios": 0,
+      "publicado": "2026-09-29T00:39:08Z",
+      "duracao_s": 50,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=knQkrqWK_z0"
+     },
+     {
+      "id": "RZKQ2NUl-ks",
+      "titulo": "118 DIAS SEM Arrascaeta: FRATURA",
+      "canal": "Portal Rubro Negro News",
+      "views": 802,
+      "likes": 34,
+      "comentarios": 3,
+      "publicado": "2026-09-29T01:08:51Z",
+      "duracao_s": 125,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=RZKQ2NUl-ks"
+     },
+     {
+      "id": "I28OgnHigoM",
+      "titulo": "IMPRENSA DEBATE! “E AGORA, QUEM VAI SUBSTITUIR?” ARRASCAETA SOFRE LESÃO E FLAMENGO TEM... URUGUAI",
+      "canal": "𝙅𝙖𝙘𝙠𝙨𝙤𝙣 𝙎𝙞𝙢𝙥𝙡𝙞𝙘𝙞𝙤 ᴮʳ",
+      "views": 673,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-09-28T20:00:21Z",
+      "duracao_s": 1065,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=I28OgnHigoM"
+     },
+     {
+      "id": "Rhbz0eIvmSM",
+      "titulo": "ARRASCAETA SOFRE LESÃO! 😔💔  E VAI  DESFALCAR O FLAMENGO!",
+      "canal": "Leandro Marques",
+      "views": 91,
+      "likes": 1,
+      "comentarios": 1,
+      "publicado": "2026-09-29T14:52:25Z",
+      "duracao_s": 144,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Rhbz0eIvmSM"
+     },
+     {
+      "id": "aDFrqLfIB9M",
+      "titulo": "Arrascaeta Brilhou Pelo Uruguai… Mas Terminou o Jogo Com Uma Péssima Notícia!",
+      "canal": "Paulo Fla",
+      "views": 77,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-09-28T21:02:29Z",
+      "duracao_s": 716,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=aDFrqLfIB9M"
+     },
+     {
+      "id": "IrVedSWYQX4",
+      "titulo": "🚨 ALERTA NO FLAMENGO! ARRASCAETA SOFRE FRATURA E VAI PASSAR POR CIRURGIA!",
+      "canal": "Históriasaleatórias ",
+      "views": 72,
+      "likes": 0,
+      "comentarios": 1,
+      "publicado": "2026-09-28T23:48:07Z",
+      "duracao_s": 4,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=IrVedSWYQX4"
+     },
+     {
+      "id": "cq2Q500urls",
+      "titulo": "Arrascaeta sofre fratura no punho em jogo do Uruguai, fará cirurgia e preocupa o Flamengo #flamengo",
+      "canal": "Bruno Calvani",
+      "views": 47,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-09-28T21:38:12Z",
+      "duracao_s": 40,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=cq2Q500urls"
+     },
+     {
+      "id": "Zt1xfji9gfA",
+      "titulo": "28 de setembro de 2026",
+      "canal": "Silvio Vieira | Advogado",
+      "views": 45,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-09-28T21:54:58Z",
+      "duracao_s": 11,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Zt1xfji9gfA"
+     },
+     {
+      "id": "dKEnz2YWV9g",
+      "titulo": "Lesão de Arrascaeta: Quanto Tempo Fora do Flamengo?",
+      "canal": "O Plantão do Futebol!",
+      "views": 22,
+      "likes": 2,
+      "comentarios": 0,
+      "publicado": "2026-09-28T23:30:17Z",
+      "duracao_s": 92,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=dKEnz2YWV9g"
+     },
+     {
+      "id": "LVNPdrnv--c",
+      "titulo": "🔥 BOMBA NO FLAMENGO! ARRASCAETA SOFRE FRATURA E PREOCUPA A NAÇÃO! 🚨🔴⚫",
+      "canal": "FlaPauta",
+      "views": 15,
+      "likes": 1,
+      "comentarios": 1,
+      "publicado": "2026-09-28T18:52:11Z",
+      "duracao_s": 12,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=LVNPdrnv--c"
+     },
+     {
+      "id": "KtGLpi2Pve8",
+      "titulo": "🚨 ARRASCAETA SOFRE FRATURA E PODE DESFALCAR O FLAMENGO NA SEMI DA LIBERTADORES!",
+      "canal": "FlaNeles",
+      "views": 14,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-09-28T21:00:05Z",
+      "duracao_s": 130,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=KtGLpi2Pve8"
+     }
+    ],
+    "consulta": "Flamengo Arrascaeta Uruguai sofre",
+    "n_videos": 24,
+    "mais_de": true,
+    "views": 501039,
+    "top": [
+     {
+      "titulo": "ARRASCAETA SOFRE FRATURA! \"É INACREDITÁVEL! A INFORMAÇÃO É QUE O FLAMENGO...\" | LESÃO PELO URUGUAI!",
+      "canal": "Jovem Pan Esportes",
+      "views": 334982,
+      "url": "https://www.youtube.com/watch?v=ehiroZO9CwQ",
+      "publicado": "2026-09-28T17:00:21Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "URGENTE! ARRASCAETA SOFRE FRATURA E VAI DESFALCAR O FLAMENGO NA LIBERTADORES!",
+      "canal": "Marcos FLA React",
+      "views": 47760,
+      "url": "https://www.youtube.com/watch?v=RGv_tQajDzo",
+      "publicado": "2026-09-28T17:09:11Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Arrascaeta sofre fratura e vai passar por cirurgia! 😰 Flamengo recebe péssima notícia e mais...",
+      "canal": "Giro Fla ",
+      "views": 46008,
+      "url": "https://www.youtube.com/watch?v=qlMzus29VoQ",
+      "publicado": "2026-09-29T08:31:35Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Ao vivo: Corinthians x Atlético-GO | Rodada 19 | Campeonato Brasileiro sub-17",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 69.0,
+   "sinais": {
+    "busca": 75,
+    "aceleracao": 66,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": 31
+   },
+   "fator_categoria": 1.056,
+   "trafego_google": 0,
+   "busca_torcedor": "brasileiro série a",
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 8,
+   "assinatura": "sub-1|brasi|corin|atlet",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Esse resultado diz mais sobre o Corinthians do que o placar mostra.",
+    "titulo_thumb": "CORINTHIANS: O QUE O JOGO REVELOU",
+    "pergunta_enquete": "Qual sua opinião: Ao vivo: Corinthians x Atlético-GO | Rodada 19 | Campeonato Brasileiro sub-17?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Ao vivo: Corinthians x Atlético-GO | Rodada 19 | Campeonato Brasileiro sub-17",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZUlBWWRYVG5zdEZWZVluVEJ4QmlDSFZLajd4VWkzSkxNeFZQWmFoQUE3a0I1bzRNSzdIS1FjWUhZSUlpdVY1cjVnOFp5OGYtaGJndGN3U0JNSHVqbTMtNGYtbkRaSmlGaG1OZVlNWHZ6UEx4ZDZZVGxRZVdFQTFMR2FmMWI3UHV6cFg0Z1VsdFI3ckxZODdUX1RfdnE?oc=5"
+    },
+    {
+     "titulo": "Corinthians pode igualar maior sequência de vitórias no Sub-17 no ano diante do Atlético-GO",
+     "fonte": "meutimao.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOU1wRklEUWMwY2RwRnZKcFJiRUg0MzdFNHdkcTVyWlRnaF9kc2pNQndIcjI2UzRmc3hXb2tZQTJiNU5MeUFtbGRMc21sQndfbTFDbUROQnVHMTZVLUV3TVNmMFVWNVU1UXZvS2RzVmFnU0drX0VjTDN5VmdEczFFejdvUy1MMkw1NERWaFN3dE1MLVI4enVrcEV4SkFUU2l0aUVob0J3RWFFN1dnWDdWYmxFa2JBTGpNSWtKQ1A1dXIzbWlUejVibW5wcEFYbTA0RW5FaGg2TWlxRWJ6aGpoVmtvRkbSAdQBQVVfeXFMTU96SVMyeERxSi01cUdLd1hqMzl3cjV5RzBmbTZMV1huR25qMFlxc2FRQThMRlN0dDl6cDZyU0xKYlktdTNtVXp1dEtHTHJGNXFRRUpWY3V3V3NsaE04SDA3Sk5RSTdPSzI4allfOV9lNjd2X2t3c3ZPZUI0SXdmSVpEZ3NwdnFyd1NqV1dpSUxzV1FiWDFKbXNFVjNEOXBhQTMtRXNta1ZXSUJzZGJQNlFuZEhKVjlFQUhHbVRNVmZrY3FKM3BGVlo3R1JvMGdGM205UEU?oc=5"
+    },
+    {
+     "titulo": "Ao vivo: Palmeiras x Vasco | Rodada 19 | Campeonato Brasileiro sub-17",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUlJHWGVPUHVvX0hyeUswYmxiN08wSFEtdU44SkF6bXBEM2ltN0FvNVdwQkszQ1FmVmlORERHUl8xbzRGUE9qbG5hMnBBUlBZOV9SZjY2TlBTRThiNE9uTFl5YTl6LXJ5MGFZZDdlVlNCWjFTYndKTENUVzhEZlVOdXRsdnNUWG5XM2FxTE9ySFYzdw?oc=5"
+    },
+    {
+     "titulo": "Ao vivo: Atlético-GO x América-MG | Rodada 31 | Campeonato Brasileiro Série B",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWjgwMXFYeGpKOXlZakZkZ2d6SWZRVXJxUURjVjFEMzJIbENBWXFuTVc0cm9IcXpoM2xvcE9obXBsUVVIZmxuOUtlZGs0cVdVeDFHTDg3Z0N0REw1eXFWOExORWZIWHhTcGh6VEtOT3FDMkFydGNYWmRoZmZaVFpkbVN6cVJfX0k2UkNoSzZ4NFJDeGhvVmJaVUlGZ1U?oc=5"
+    },
+    {
+     "titulo": "Corinthians busca confirmar mando de campo para a fase mata-mata do Brasileiro Sub-17; saiba tudo",
+     "fonte": "meutimao.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdHBDTHNMSzRPMnp2SENpNmFHNUxLYTdVZ3FDbXRBZFNEMFVXblhBUXpzeGt1a2JJUlRMZ195TFJKWld0NGtSclEyNm9sNlREZXktRWFUckJuUHotXzFMXzI5TnRVcEVmUzlOajY2dnFjNy1HbXRiWnJGTUYtd2ltWWg4ZW5ZYnZFZ2V6N0F4LWJadENCTE5KZS1VLXh2UWg5MnVobFdLM004dUg1LUNCQzN2YUI2T1lFcHJ1SzIydll1dGVWbnRnR1RqMzR2MUI5WHdtc2tWNDF4SVM00gHMAUFVX3lxTE9zUW5RTWExYW02Y1JtS1RqLXgyaEtoa0FPYVlnQW0zTG9JZnBaZkludkFnWmtVMzJrQk5STjE5MDgyMFlpQjZkLUtyRGdRaGh6Wk1xV3ZzMkUtMHJta0tvbTdIYVhROEE2ZGUweTBSc3BGTHZXWjJtcmZ1dFg2NU5hUDAwWHJLcXdsRGxQWHVLekNsZjdGS1Z1RDJlTTVtSmVCSVJFQTZ6MkxnZDFZUnZDN2pKdDNWcUE4WXVIdUVER1czUkRHbGlWVENERQ?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "AFKs-ZNnuMI",
+      "titulo": "HOJE TEM CORINTHIANS! 🖤🤍🔥",
+      "canal": "CONSENTINI",
+      "views": 104,
+      "likes": 2,
+      "comentarios": 1,
+      "publicado": "2026-09-30T03:31:20Z",
+      "duracao_s": 35,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=AFKs-ZNnuMI"
+     }
+    ],
+    "consulta": "Corinthians Brasileiro sub-17 Atlético-GO",
+    "n_videos": 1,
+    "mais_de": false,
+    "views": 104,
+    "top": [
+     {
+      "titulo": "HOJE TEM CORINTHIANS! 🖤🤍🔥",
+      "canal": "CONSENTINI",
+      "views": 104,
+      "url": "https://www.youtube.com/watch?v=AFKs-ZNnuMI",
+      "publicado": "2026-09-30T03:31:20Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Bidu lida com dores no púbis e pode desfalcar o Corinthians",
+   "categoria": "Lesão e desfalque",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 66.4,
+   "sinais": {
+    "busca": 60,
+    "aceleracao": 85,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": 41
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "corinthians x estudiantes",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "corin|pubis|dores|later",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "Esse desfalque muda tudo para o Corinthians nos próximos jogos.",
+    "titulo_thumb": "CORINTHIANS SEM ELE: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Bidu lida com dores no púbis e pode desfalcar o Corinthians?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Bidu lida com dores no púbis e pode desfalcar o Corinthians",
+     "fonte": "Tribuna de Jundiaí",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDJFZXRNdm1lU0xDWWFNUWV6NnpFYUw4M1A0M1RHdWI1WG1DaTZnZDdySXZMSnBDbkFWVU9oUzVnaVJYWUZvaWx5WTFDb0pjSWZPVjB3Q2laSnlFYnEtc3lIY1JFXzI0X294WHdDVmEzdktzTkZHR3hRV2JBb3BDem9tRDZBTXNaaHZaeHB5TVVzZ2ZObzZybG9BVFM0OERaLUFYSkhwZ0M1Zw?oc=5"
+    },
+    {
+     "titulo": "Lateral do Corinthians enfrenta dores no púbis e cirurgia é estudada pelo departamento médico",
+     "fonte": "meutimao.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ3JpVF8zWjBINHZtd0RORzZyZVJCTlczbW8tdmJSRUl0Rkl5cFVlc251TG1iWGZNV0xjQXdUNVMtcjlTNEVvaEREM1owOEZWR3M1RGUyYUlwUkk0Mm42UnlYQ1VsQmVtRjJGY0dXeXI2RUw4cU1qSUVPYlZjX0lSTU1jb0NRMDF1OENhai1xdWtaNmpxTGotSFV6RzNRaVNHdU1oVkVmR3RJcDhjODB1aDRVb2Q3cGdzTFd6STMwTTRzQmlRWUUwVnJpdWtsTEJrTzFEQ3dIUjktNnRfN0RELXlHY040U3PSAdcBQVVfeXFMUGRQU24xNnZySURYNzhIZUhVaHJZZEVuZnNKM3gxOTEybzJhVjhoTlE5MzlWbjE2MWNGODBSRno3aTM3aHdYNU1tSTRkdUZNckp0QVZDNmVZeTB2QWVOZG5ORnBXTVozUXJMdjdtM1l4eHY2TGJsX1daTUUza2xtMzQ4UVM3bWQ0N3VQZTVIeWd3dWRtNjVsRjJ5T0Z4dmE0eHlid1c1YTNfb2hmbVB6SFZITFZibThGUGxNSWRRcVBWZWdfXzYzcjFoNFhFMmRIZDdGdFM4VVE?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "B45d8og093w",
+      "titulo": "Matheus Bidu volta a desfalcar treino do Corinthians por dores no púbis 😱⚽",
+      "canal": "FUT inBRASA",
+      "views": 271,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-09-29T20:00:26Z",
+      "duracao_s": 4,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=B45d8og093w"
+     },
+     {
+      "id": "kLtnVlVOSNw",
+      "titulo": "LATEAL DO CORINTHIANS  ENFRNTA DORES NO  PUBIS E CIRGIA E  ESTUDA PELO DEPAMNTO  MÉDICO",
+      "canal": "Vai Corinthians  gavião  fiel",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-09-30T14:43:53Z",
+      "duracao_s": 16,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=kLtnVlVOSNw"
+     },
+     {
+      "id": "X0vRUt5PCWc",
+      "titulo": "LATEAL DO CORINTHIANS  ENFRNTA DORES NO  PUBIS E CIRGIA E  ESTUDA PELO DEPAMNTO  MÉDICO ",
+      "canal": "Vai Corinthians  gavião  fiel",
+      "views": 0,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-09-30T14:51:39Z",
+      "duracao_s": 1398,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=X0vRUt5PCWc"
+     }
+    ],
+    "consulta": "Corinthians dores púbis",
+    "n_videos": 3,
+    "mais_de": false,
+    "views": 271,
+    "top": [
+     {
+      "titulo": "Matheus Bidu volta a desfalcar treino do Corinthians por dores no púbis 😱⚽",
+      "canal": "FUT inBRASA",
+      "views": 271,
+      "url": "https://www.youtube.com/watch?v=B45d8og093w",
+      "publicado": "2026-09-29T20:00:26Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "LATEAL DO CORINTHIANS  ENFRNTA DORES NO  PUBIS E CIRGIA E  ESTUDA PELO DEPAMNTO  MÉDICO",
+      "canal": "Vai Corinthians  gavião  fiel",
+      "views": 0,
+      "url": "https://www.youtube.com/watch?v=kLtnVlVOSNw",
+      "publicado": "2026-09-30T14:43:53Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "LATEAL DO CORINTHIANS  ENFRNTA DORES NO  PUBIS E CIRGIA E  ESTUDA PELO DEPAMNTO  MÉDICO ",
+      "canal": "Vai Corinthians  gavião  fiel",
+      "views": 0,
+      "url": "https://www.youtube.com/watch?v=X0vRUt5PCWc",
+      "publicado": "2026-09-30T14:51:39Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Raphinha tem edema na coxa e é cortado de amistoso da Seleção Brasileira contra a Índia",
    "categoria": "Seleção",
    "clubes": [],
    "foco": false,
-   "nota": 68.3,
+   "nota": 66.4,
    "sinais": {
     "busca": 60,
-    "aceleracao": 92,
-    "midia": 96,
+    "aceleracao": 80,
+    "midia": 100,
     "aderencia": 70,
-    "youtube": null
+    "youtube": 80
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
    "busca_torcedor": "raphinha seleção",
    "termos_trends": [],
-   "n_fontes": 9,
-   "n_manchetes": 9,
-   "assinatura": "selec|raphi|corta|india",
+   "n_fontes": 11,
+   "n_manchetes": 11,
+   "assinatura": "raphi|corta|selec|amist",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Lista ou ranking (3 a 5 min)",
     "gancho": "Se eu fosse o técnico da Seleção, a lista seria outra.",
     "titulo_thumb": "A MINHA SELEÇÃO",
-    "pergunta_enquete": "Qual sua opinião: Raphinha é cortado de amistoso da seleção brasileira contra a Índia?"
+    "pergunta_enquete": "Qual sua opinião: Raphinha tem edema na coxa e é cortado de amistoso da Seleção Brasileira contra a Índia?"
    },
    "manchetes": [
     {
-     "titulo": "Raphinha é cortado da Seleção Brasileira; saiba detalhes",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcWhyLW41Y1BzN0NsVzg4RU8ySHNsVUZKQ05jVVR5dXVfMThWcWo0RzFkSEZGdFpSS1NrVVBWOXBSY1ZrbGtGZDNyLS1CdnJPOXYxNkFOUlBrTU1SOHl4ajhra3VVS19PMkJMZ0c3OVF4VEJka1VwS29kMTBnNDFNTTdxRWhCY3hMNEoxc0NpYWFtdkdOM3RDY0lHM0dDMzJWTHg2UTBZUVRIMWNaUzA4WHNDSTVneTQzRHNabUV2RWRvNXpQTlQ5QUNEQWNES1p6X1FtaERFbldFdw?oc=5"
+     "titulo": "Raphinha é cortado da Seleção Brasileira para amistoso",
+     "fonte": "Imirante",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN0J6amxoU2lnVXlsUU1TRnQtVVV1VzlkRlVLS3FwNTBYSktldFdSYmM3Y3JVbWFHSWIyeW54cWNuLUg3TEtheUd5bWFKekhNMWVoOFJOeTU0RnJRYzVZSlM5RFplU0I2QzZtQ0RKcjNSeXBIeGVNZ1lzYW9OdWk2TEdrRUhkME9NeVdTU2RWZzEtNzFUY1JVRm9IdTVzMlo2bEHSAacBQVVfeXFMUEV5LTltSm5tT3BDcWh3VjlYMXRWdXhqQ0RCRU1LQzhIU1BkRVlDazAwVkx2em91Qk9fOXlodjBZdHh6VDBWbnNMQ0RiOXZXOTBQakVrbUs4dmc1b1hnS3JCekFLc3prb0lwazNBUG1XZ0tFV2hzUEp6U0IySVR5N1RaTERhZUdGdl8zaHdETkN3SC0xZHZ5MWpqZEIzN3NBajNiTkZDN0E?oc=5"
     },
     {
-     "titulo": "Raphinha é cortado de amistoso da seleção brasileira contra a Índia",
-     "fonte": "Revista PLACAR",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXZsNnZBV2E1NkhVbUItcFkwNi0tdzI4RGtrVlBOelZESUdUV2JmOE1EbFJpVld4X05nNy0tYXBOUE9JbUswM0Y1c211elh1RDFGbVlxUmxRelpzZUoybTJBS3BOYnU3VzRUY2ZKS21rRVdEbXUxMVpSdHZsYndBUVVRM2Z3MUVfQkpfV2RCUzV5TnI4ejVoeDkzUWFKM2RNcEtkT2VwdkQ3dnM1Rnc?oc=5"
+     "titulo": "Raphinha é cortado da Seleção e desfalca Brasil em amistoso contra a Índia",
+     "fonte": "Diário do Nordeste",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVG5wdHU0eVI5ZWdZcUVSY2dreFJzdXJRTExkemV3b2JjYjA5QjNybW9fMVFZd0F3OVRTTjJyOXV1UnZXTGpFQUpWcHprZ0J2dUYzdzRZN0NkcDFJbGZtQVJXbDdPcF80S3FDMXBSOTNyWkkyczNUT3pLdVRsMEdqSXlibWJzTjNQdHhDdlM4bFRIdWtLMF8zbDlPNkVnSGplN2tBNnhrZlQ2MXJnMjhCcVVsRzhMRGEzM3JIUGtJYVpaREUxNDhsQ0k3M0JHRWdf?oc=5"
     },
     {
-     "titulo": "Raphinha é cortado da Seleção e não viaja para jogo com a Índia",
-     "fonte": "TV Sim Brasil",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZWZTd1laQzcyLXlBc04tNGNUbHpUUHg5SklHbF9DX2UzOUpUX2lQX1N5cDBYN0llSDE3MDh0MDBzLVQzdXBOM1RJbzV1SVl3OGJEeWtnZDBZV0RnOUIzX3FyVHFoMEVMb2tjeHJ3VEIycFcyeHZpeVdQT2VQc3RYdHBoYXZibWhLZjdNaXVNdnFPa29YSVNVbUIzaWtKU1NVdHVUaA?oc=5"
+     "titulo": "Raphinha é cortado e desfalca o Brasil contra a Índia",
+     "fonte": "Mais Goiás",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbW11RDNuMzVDYmN5akFoYlhLXzJIVEZGR1NFOXBlRFk0Z2Z2dnNrWm5fQnRNMVNobkRlajRjM1VXSkw5Y2kwMi14OGVuT2FSQzh3Z0dUX0Q3eUFIRVpUa1ZCeWx1dGhUWXdzRjZKWUJPWl84eExRaG5PdTZEV3FRZXhFV3NOMTFVdnhfd2Q2RXVFVXNmTDRuNFJBQ1dJeE5RWnViOW04RXcydF9EazdSOTRFRjdvbGNuYkIw?oc=5"
     },
     {
-     "titulo": "Raphinha é cortado da Seleção e ficará de fora de amistoso contra a Índia",
+     "titulo": "Raphinha tem edema na coxa e é cortado de amistoso da Seleção Brasileira contra a Índia",
+     "fonte": "gp1.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSE9ILUVIMWxMTDF6NzdpOGp2LUlPa3hybG9XZUw3YmFUc3FzNWU5emtXT3Vwd3Z0Q2tpVDBjQ1FNdWl2QkhZMUdzRjFPejdiMzBSV2lzY3hrVTR2QW9lYThwODVoVWxBN08wbDdvbE04UnJGRDFUSmlHRkdFVjM2cklYbnVxRnZObHBvRHZ2QjE3TVFMWXdnTFhQWHpsMHFtZ19xVkZva1IydHZtWXBPQnN1RHpGdVRXY1lHOHFXakdyQTl3aVJPZ0dUMXVGVk0xS3dQWWxfeG16MWJUa3RLcnkxb9IB6AFBVV95cUxOX0dncXRVWVQ1M0ZzV3F3ZTVJbzliUWhESndQMm1fa0VJMG8weEs5Z1JOMS1JQ29ZTHVwZS1vRExCNlJBaEVRcEVZdHJ6Y2x2U2dHX0ZCUXNlWmlQRHFXMU9zYU9NenFCaXpGcHFzeXd2WTFIcVh3TkQ1SHgtRFJaRTRPNWk1YVZDSjkteGJDVW9LNk1ZWlZoeW1ReVBWT1dDN0pSWXFwQVpPWXJIbVhZNmJhaXpEOW9kVWVsaTZfalZYVVZoT0hBQmthSUJJbFc5cXFlM05TUHdWLVpjQ2lTRXc5YTI3bzYw?oc=5"
+    },
+    {
+     "titulo": "Com edema na coxa, Raphinha é cortado de amistoso contra a Índia",
+     "fonte": "Folha BV",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzZUdXBLX3Y0Z1RULXB5ekN6XzVJbEVReS1Lc01jSWZRQTFHUFUyVEFDRVVvUTBhTVdBaDB5alA5My04Yjh5aWdURm5JUHd4M3JYajRObmNGdkJQUWRkVlZNN0V5OUpLLU1sVHR2eU9GUThRamVRZ2UwQ1ppUl9OR1U1QThGMGdUdXBaNTdjSks3S0pZejVNNVpfTjJPLTFh?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "32AqxT56R5c",
+      "titulo": "RAPHINHA CORTADO DA SELEÇÃO; CRISTIANO RONALDO IRRITADO COM JJ; CITY CONDENADO | De Placa 30/06/26",
+      "canal": "TNT Sports Brasil",
+      "views": 67247,
+      "likes": 3777,
+      "comentarios": 25,
+      "publicado": "2026-09-30T14:43:05Z",
+      "duracao_s": 5971,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=32AqxT56R5c"
+     },
+     {
+      "id": "Zr_c15aDIB4",
+      "titulo": "BOM DIA ESPORTE: RAPHINHA CORTADO! CR7 IRRITADO, CITY PODE SER PUNIDO E CAOS NO CORINTHIANS 📱",
+      "canal": "Coy o Corintiano",
+      "views": 8568,
+      "likes": 137,
+      "comentarios": 0,
+      "publicado": "2026-09-30T14:50:39Z",
+      "duracao_s": 4707,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=Zr_c15aDIB4"
+     },
+     {
+      "id": "UL5wXDQKAcw",
+      "titulo": "CORTE NA SELEÇÃO! BRASIL JÁ SABE QUANDO ENFRENTARÁ EUROPEUS! ANCELOTTI DESCARTA NOVA CONVOCAÇÃO!",
+      "canal": "Litoral News",
+      "views": 5545,
+      "likes": 432,
+      "comentarios": 21,
+      "publicado": "2026-09-30T12:18:04Z",
+      "duracao_s": 995,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=UL5wXDQKAcw"
+     },
+     {
+      "id": "GMpARUv1hKw",
+      "titulo": "Raphinha tem edema na coxa e é cortado do amistoso da Seleção contra Índia | CNN NOVO DIA",
+      "canal": "CNN Esportes",
+      "views": 1962,
+      "likes": 12,
+      "comentarios": 4,
+      "publicado": "2026-09-30T09:56:41Z",
+      "duracao_s": 166,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=GMpARUv1hKw"
+     },
+     {
+      "id": "zEJhEKdr8aE",
+      "titulo": "Raphinha Cortado! Brasil Perde O Camisa 10 Antes Do Amistoso Com A Índia!",
+      "canal": "Gazeta Fut",
+      "views": 691,
+      "likes": 4,
+      "comentarios": 0,
+      "publicado": "2026-09-30T12:50:04Z",
+      "duracao_s": 4,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=zEJhEKdr8aE"
+     },
+     {
+      "id": "Dp7CkCAYM6c",
+      "titulo": "RAPHINHA É CORTADO DA SELEÇÃO BRASILEIRA E NÃO ENFRENTA A ÍNDIA",
+      "canal": "UOL Esporte",
+      "views": 630,
+      "likes": 17,
+      "comentarios": 5,
+      "publicado": "2026-09-30T13:58:05Z",
+      "duracao_s": 189,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Dp7CkCAYM6c"
+     },
+     {
+      "id": "qQPVcc8lSLI",
+      "titulo": "BOM DIA ESPORTE: RAPHINHA CORTADO! CR7 IRRITADO, CITY PODE SER PUNIDO E CAOS NO CORINTHIANS",
+      "canal": "Coy o Corintiano",
+      "views": 538,
+      "likes": 170,
+      "comentarios": 1,
+      "publicado": "2026-09-30T14:36:47Z",
+      "duracao_s": 4708,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=qQPVcc8lSLI"
+     },
+     {
+      "id": "CB2axdWhKmg",
+      "titulo": "Raphinha é Cortado da Seleção Antes de Amistoso Contra a Índia #seleçãobrasileira",
+      "canal": "Futebol Pulse",
+      "views": 277,
+      "likes": 3,
+      "comentarios": 0,
+      "publicado": "2026-09-30T15:35:06Z",
+      "duracao_s": 6,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=CB2axdWhKmg"
+     },
+     {
+      "id": "C8dS0smyG94",
+      "titulo": "RAPHINHA FORA! Camisa 10 é CORTADO da Seleção #Raphinha #SeleçãoBrasileira #shorts",
+      "canal": "GuidoCortes",
+      "views": 4,
+      "likes": 2,
+      "comentarios": 1,
+      "publicado": "2026-09-30T15:30:16Z",
+      "duracao_s": 79,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=C8dS0smyG94"
+     },
+     {
+      "id": "Dc5AbzXnZAI",
+      "titulo": "RAPHINHA de fora da SELEÇÃO #seleçãobrasileira #brasil",
+      "canal": "DRACMA",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-09-30T15:01:17Z",
+      "duracao_s": 34,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Dc5AbzXnZAI"
+     }
+    ],
+    "consulta": "Seleção Brasileira Raphinha cortado Índia",
+    "n_videos": 10,
+    "mais_de": false,
+    "views": 85462,
+    "top": [
+     {
+      "titulo": "RAPHINHA CORTADO DA SELEÇÃO; CRISTIANO RONALDO IRRITADO COM JJ; CITY CONDENADO | De Placa 30/06/26",
+      "canal": "TNT Sports Brasil",
+      "views": 67247,
+      "url": "https://www.youtube.com/watch?v=32AqxT56R5c",
+      "publicado": "2026-09-30T14:43:05Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "BOM DIA ESPORTE: RAPHINHA CORTADO! CR7 IRRITADO, CITY PODE SER PUNIDO E CAOS NO CORINTHIANS 📱",
+      "canal": "Coy o Corintiano",
+      "views": 8568,
+      "url": "https://www.youtube.com/watch?v=Zr_c15aDIB4",
+      "publicado": "2026-09-30T14:50:39Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "CORTE NA SELEÇÃO! BRASIL JÁ SABE QUANDO ENFRENTARÁ EUROPEUS! ANCELOTTI DESCARTA NOVA CONVOCAÇÃO!",
+      "canal": "Litoral News",
+      "views": 5545,
+      "url": "https://www.youtube.com/watch?v=UL5wXDQKAcw",
+      "publicado": "2026-09-30T12:18:04Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Presidente do Barcelona se manifesta após corte de Raphinha da Seleção Brasileira por lesão: 'Preocupa muito'",
+   "categoria": "Lesão e desfalque",
+   "clubes": [],
+   "foco": false,
+   "nota": 62.8,
+   "sinais": {
+    "busca": 60,
+    "aceleracao": 68,
+    "midia": 87,
+    "aderencia": 70,
+    "youtube": 84
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "raphinha seleção",
+   "termos_trends": [],
+   "n_fontes": 7,
+   "n_manchetes": 7,
+   "assinatura": "lesao|raphi|brasi|selec",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "Esse desfalque muda tudo para a Seleção nos próximos jogos.",
+    "titulo_thumb": "SELEÇÃO SEM ELE: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Presidente do Barcelona se manifesta após corte de Raphinha da Seleção Brasileira por lesã?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Como Barcelona pode substituir Raphinha após nova lesão sofrida na seleção brasileira",
+     "fonte": "Trivela",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMUNpS0VWTG1sMlFDa2M2U1RrWUM4QmhNSmVBMU80d1dadmt0cGR6WFhnNVFOcmI3SlVVbHBNQ1NtUlZqcTJkRWJFWUFNWkRNeVNkQVlHZkFqbUtuZkowQ3hTOHhMMHduYWlPSG5hT2FqR1lVVVZwZ3RfLXJqeE45VVphQVRzQXJzdFQ1QzFieDBfMEx4RUE?oc=5"
+    },
+    {
+     "titulo": "A reação do presidente do Barcelona à lesão de Raphinha em amistoso pelo Brasil",
+     "fonte": "veja.abril.com.br",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa21fV21GZ2I1dWxBQ0VNMFZqc2t5MDRqcVc5VjItWV9lSVR2Tm1DbVNwdml1bm0zY2szYk83eE5ZdVdaUDRfbmRBZm5mNTNCZS1BdFZnTVhCTXdfZ0dWbjdjNWpRbnBQTXhoamdsNlJ2NmlqTm5lUVRVMW9DVnVLaDR4VGVFeWpOYVpnWVBLQkxqSW5RcDRRNUprZlBScExTdkFSTlVDRE40b1V3MEROY2JqdVc?oc=5"
+    },
+    {
+     "titulo": "Presidente do Barcelona se manifesta após corte de Raphinha da Seleção Brasileira por lesão: 'Preocupa muito'",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZEhOZWZoeWpFT1p3WERiV3lSLXZRYmJ5ZGJpVGV4OGxIZF9HVTU1TVdGQURBbmtrQWhJUmJhOHJrWTNucmdydlk3aGVFRXhuNERuZEJyQll2Z2Jiemd4R3BwS3YtdVBWQ1U5ZFRwcjN2OFA4cHA4UVhHdU9wbTNWMVdob3NIQ3MwMmZLQS1nVmJQbXdGdGxkY2FTRGZ3bEdQaGdLcmNxZDZKendiNGlrS1VFWWtZUFR1UmhUXzlfdlRTMzhFWXZMYg?oc=5"
+    },
+    {
+     "titulo": "Raphinha sofre nova lesão muscular e é cortado da seleção brasileira",
+     "fonte": "thefootball.com.br",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3dJa0lUbl9IMk9MQ1BEdnU1dGZuVWhxSklYYWktUzNRNG9LQjIzVWdPb2x4U0JuMi0xYnhDS09mOU9SUDBlaXdSd3NNbmRjbXlwaUcwRlZMNEhpQUg0SWN3VG5wN1R1LVhTbW4tMVZfc2Z0N2w0ck55eDNJb0tIWjczZGIyQVo1akVSQkx2ZElVWUZFbFFXQUNPMnM?oc=5"
+    },
+    {
+     "titulo": "Barcelona está furioso com Carlo Ancelotti após susto com lesão de Raphinha durante período com a seleção brasileira",
+     "fonte": "Goal.com",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNm43RkdYTUY4MEsxSFVSYURFYkdkUXdSb2cxUG1XTVNZNEVxTzEyVlhhZkdCeS03QjFON0UxdUtxa2R3ZUlhZWhRUm90bDVLY211cDNKRW4xT2tMVkw1ZXh2MUNUVHdYRXh4QzdHaTJ0aUVHV0I2Qks1V1JQdG4wVm9iX2c3ZUp5TFl6RWU4dGs4ci1wbnZmY0NMV2h4aEJ4QkFJWkhNWnVSaTlpU05ORXN1cXR5Z0tYaFlGelRkSEFERENRb3pnZG1pZjVodHBlelJySW1TRV9Ycno3X0FTQmxzUXdOSTdydTFKaXNKS2FwNmJ5XzZTVUM1NA?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "GhQGCfpf8o8",
+      "titulo": "Raphinha Has SUFFERED a New INJURY with Brazil!",
+      "canal": "RisingFooty",
+      "views": 27440,
+      "likes": 798,
+      "comentarios": 25,
+      "publicado": "2026-09-29T15:44:57Z",
+      "duracao_s": 64,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=GhQGCfpf8o8"
+     },
+     {
+      "id": "o4JrSdPTRFo",
+      "titulo": "RAPHINHA SE MACHUCOU? BARCELONA EM ALERTA!",
+      "canal": "Wevertonzera",
+      "views": 6517,
+      "likes": 232,
+      "comentarios": 1,
+      "publicado": "2026-09-30T14:00:31Z",
+      "duracao_s": 16,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=o4JrSdPTRFo"
+     },
+     {
+      "id": "x64byRWccPQ",
+      "titulo": "¿Qué le volvió a pasar a Raphinha? 😳 🫢",
+      "canal": "TZFùtbol",
+      "views": 2809,
+      "likes": null,
+      "comentarios": 2,
+      "publicado": "2026-09-29T18:11:27Z",
+      "duracao_s": 18,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=x64byRWccPQ"
+     },
+     {
+      "id": "H4Kq8SQPiiU",
+      "titulo": "😡 ANCELOTTI LESIONA a RAPHINHA 😡 #raphinha #brasil #fcbarcelona",
+      "canal": "El 10 del Barça",
+      "views": 2587,
+      "likes": 60,
+      "comentarios": 4,
+      "publicado": "2026-09-29T16:30:09Z",
+      "duracao_s": 27,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=H4Kq8SQPiiU"
+     },
+     {
+      "id": "NwLNUdEyitY",
+      "titulo": "¡ALARMA EN EL BARCELONA! RAPHINHA SALE LESIONADO CON BRASIL Y PREOCUPA A TODOS",
+      "canal": "DILEMA GOL",
+      "views": 2361,
+      "likes": 61,
+      "comentarios": 4,
+      "publicado": "2026-09-29T16:37:47Z",
+      "duracao_s": 49,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=NwLNUdEyitY"
+     },
+     {
+      "id": "Ae0Jr-hAFoA",
+      "titulo": "RAPHINHA TEM MUITO AZAR NA SELEÇÃO! 😭🇧🇷 SE MACHUCOU DE NOVO!",
+      "canal": "INTELIGÊNCIA FUTEBOL ",
+      "views": 2076,
+      "likes": null,
+      "comentarios": 2,
+      "publicado": "2026-09-29T21:17:04Z",
+      "duracao_s": 35,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Ae0Jr-hAFoA"
+     },
+     {
+      "id": "QyXa5X3C_Bc",
+      "titulo": "ALERTA NO BARCELONA! RAPHINHA SAI LESIONADO E PREOCUPA O BARCELONA #barcelona #raphinha #seleção",
+      "canal": "CFBR News",
+      "views": 1935,
+      "likes": 68,
+      "comentarios": 1,
+      "publicado": "2026-09-29T15:59:54Z",
+      "duracao_s": 54,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=QyXa5X3C_Bc"
+     },
+     {
+      "id": "Xz67PRkuhL8",
+      "titulo": "BAIXA DE PESO! RAPHINHA LESIONA-SE E DEIXA A SELEÇÃO EM ALERTA MÁXIMO #raphinha #selecao #futebol",
+      "canal": "Super Edinho",
+      "views": 1445,
+      "likes": 25,
+      "comentarios": 6,
+      "publicado": "2026-09-30T14:00:22Z",
+      "duracao_s": 21,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Xz67PRkuhL8"
+     },
+     {
+      "id": "dGakzWFMVvo",
+      "titulo": "BRASIL 4-2 AUSTRALIA: RAPHINHA TERMINA LESIONADO",
+      "canal": "KIKEGOL11",
+      "views": 1432,
+      "likes": 41,
+      "comentarios": 2,
+      "publicado": "2026-09-29T18:50:10Z",
+      "duracao_s": 89,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=dGakzWFMVvo"
+     },
+     {
+      "id": "mQiYPRIaU0Q",
+      "titulo": "Raphinha ligou o ALERTA no Barcelona 🚨",
+      "canal": "Blitzo",
+      "views": 1276,
+      "likes": 33,
+      "comentarios": 2,
+      "publicado": "2026-09-29T17:51:56Z",
+      "duracao_s": 54,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=mQiYPRIaU0Q"
+     },
+     {
+      "id": "orUQoDiU9Ek",
+      "titulo": "¿Se ha lesionado Raphinha con Brasil? El detalle que tranquiliza al Barça 🔵🔴",
+      "canal": "Nodo",
+      "views": 1053,
+      "likes": 16,
+      "comentarios": 0,
+      "publicado": "2026-09-29T21:01:53Z",
+      "duracao_s": 38,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=orUQoDiU9Ek"
+     },
+     {
+      "id": "6NldpViCpPQ",
+      "titulo": "🚨 RAPHINHA MARCA… ¡Y SALE LESIONADO!",
+      "canal": "Curioso del Deporte",
+      "views": 1015,
+      "likes": 17,
+      "comentarios": 1,
+      "publicado": "2026-09-29T18:54:08Z",
+      "duracao_s": 35,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=6NldpViCpPQ"
+     },
+     {
+      "id": "pSZgXTPY1rA",
+      "titulo": "🚨 RAPHINHA SE LESIONA CON BRASIL: ¿cuánto tiempo estará fuera? 😱",
+      "canal": "Pernia",
+      "views": 975,
+      "likes": 9,
+      "comentarios": 0,
+      "publicado": "2026-09-30T13:00:36Z",
+      "duracao_s": 26,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=pSZgXTPY1rA"
+     },
+     {
+      "id": "XKdr8KKfBj4",
+      "titulo": "BARCELONA,LESÃO RAPHINHA PREOCUPA ? JUVENTUS QUER AYARI? MAIS MINUTOS PARA ZHEGROVA?",
+      "canal": "BC fut EUROPA",
+      "views": 807,
+      "likes": 130,
+      "comentarios": 8,
+      "publicado": "2026-09-30T12:00:03Z",
+      "duracao_s": 792,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=XKdr8KKfBj4"
+     },
+     {
+      "id": "5Vf10G8QpVM",
+      "titulo": "A NEW UPDATE On Raphinha’s Injury With Brazil!",
+      "canal": "RisingFooty",
+      "views": 775,
+      "likes": 61,
+      "comentarios": 7,
+      "publicado": "2026-09-30T13:50:07Z",
+      "duracao_s": 65,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=5Vf10G8QpVM"
+     },
+     {
+      "id": "jbVk0QkQdiE",
+      "titulo": "Raphinha Injury Update | Barcelona Await Medical Update",
+      "canal": "Kovex Reports",
+      "views": 443,
+      "likes": null,
+      "comentarios": 0,
+      "publicado": "2026-09-29T15:09:10Z",
+      "duracao_s": 71,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=jbVk0QkQdiE"
+     },
+     {
+      "id": "XLquRufAv18",
+      "titulo": "🔵🔴¿QUÉ LESIÓN TIENE RAPHINHA? y LAPORTA no se CALLA. ¡ÚLTIMA hora BARÇA!",
+      "canal": "Culerada News",
+      "views": 438,
+      "likes": 52,
+      "comentarios": 2,
+      "publicado": "2026-09-30T11:30:16Z",
+      "duracao_s": 694,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=XLquRufAv18"
+     },
+     {
+      "id": "Ts67g8E267Q",
+      "titulo": "PLANTÃO URGENTE DA SELEÇÃO BRASILEIRA! SUBSTITUTO PARA RAPHINHA! ANCELOTTI FAZ A MELHOR ESCOLHA? E+",
+      "canal": "BTB SPORTS OFICIAL",
+      "views": 420,
+      "likes": 44,
+      "comentarios": 1,
+      "publicado": "2026-09-30T15:30:21Z",
+      "duracao_s": 638,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Ts67g8E267Q"
+     },
+     {
+      "id": "2UPh3nt2dCA",
+      "titulo": "🚨SE ENCIENDEN LAS ALARMAS! ANCELOTTI REVIENTA a RAPHINHA! POSIBLE LESIÓN del CAPITÁN del BARÇA!😡",
+      "canal": "LaMasiaFC",
+      "views": 289,
+      "likes": 20,
+      "comentarios": 1,
+      "publicado": "2026-09-29T17:49:03Z",
+      "duracao_s": 255,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=2UPh3nt2dCA"
+     },
+     {
+      "id": "V6pwrZJvIW4",
+      "titulo": "Raphinha: de melhor momento a nova lesão na Seleção",
+      "canal": "Oracle AI",
+      "views": 285,
+      "likes": 14,
+      "comentarios": 0,
+      "publicado": "2026-09-29T14:00:25Z",
+      "duracao_s": 32,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=V6pwrZJvIW4"
+     },
+     {
+      "id": "9sbZmAqC6PU",
+      "titulo": "Lesiones \"fantasma\" en los últimos parones? #raphinha #seleçãobrasileira #fcbarcelona #futbol",
+      "canal": "ClipsEn30",
+      "views": 229,
+      "likes": 6,
+      "comentarios": 1,
+      "publicado": "2026-09-30T10:33:21Z",
+      "duracao_s": 18,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=9sbZmAqC6PU"
+     },
+     {
+      "id": "eLBnc6-HU5w",
+      "titulo": "Raphinha Injury Update After Brazil vs Australia",
+      "canal": "ZROX Football",
+      "views": 106,
+      "likes": 2,
+      "comentarios": 0,
+      "publicado": "2026-09-29T19:15:48Z",
+      "duracao_s": 42,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=eLBnc6-HU5w"
+     },
+     {
+      "id": "FVyoNM0a0NU",
+      "titulo": "🚨 RAPHINHA INJURY SCARE! 😰 HAALAND TO BARÇA?! Man City GUILTY + Bayern Want Olmo",
+      "canal": "CulePodcast",
+      "views": 54,
+      "likes": 1,
+      "comentarios": 1,
+      "publicado": "2026-09-30T03:20:07Z",
+      "duracao_s": 926,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=FVyoNM0a0NU"
+     },
+     {
+      "id": "x_Ik9xG1nn8",
+      "titulo": "🚨Raphinha picks up injury with Brazil FC Barcelona #raphinha #barca #fcbarcelona #laliga",
+      "canal": "Gibson51",
+      "views": 10,
+      "likes": 2,
+      "comentarios": 0,
+      "publicado": "2026-09-29T22:19:35Z",
+      "duracao_s": 67,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=x_Ik9xG1nn8"
+     },
+     {
+      "id": "14KPp8S8IXQ",
+      "titulo": "RAPHINA siempre se lesiona con BRASIL cuando está en su mejor momento",
+      "canal": "MHORAES",
+      "views": 5,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-09-29T23:56:44Z",
+      "duracao_s": 47,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=14KPp8S8IXQ"
+     }
+    ],
+    "consulta": "Seleção Brasileira Raphinha lesão Barcelona",
+    "n_videos": 25,
+    "mais_de": true,
+    "views": 56782,
+    "top": [
+     {
+      "titulo": "Raphinha Has SUFFERED a New INJURY with Brazil!",
+      "canal": "RisingFooty",
+      "views": 27440,
+      "url": "https://www.youtube.com/watch?v=GhQGCfpf8o8",
+      "publicado": "2026-09-29T15:44:57Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "RAPHINHA SE MACHUCOU? BARCELONA EM ALERTA!",
+      "canal": "Wevertonzera",
+      "views": 6517,
+      "url": "https://www.youtube.com/watch?v=o4JrSdPTRFo",
+      "publicado": "2026-09-30T14:00:31Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "¿Qué le volvió a pasar a Raphinha? 😳 🫢",
+      "canal": "TZFùtbol",
+      "views": 2809,
+      "url": "https://www.youtube.com/watch?v=x64byRWccPQ",
+      "publicado": "2026-09-29T18:11:27Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Flamengo pede ingresso em ação no STF para participar do debate contra fim das bets",
+   "categoria": "Finanças e gestão",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 62.4,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 79,
+    "midia": 100,
+    "aderencia": 100,
+    "youtube": 57
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 29,
+   "n_manchetes": 34,
+   "assinatura": "bets|flame|stf|acao",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Explicador de bastidor (2 a 4 min)",
+    "gancho": "O buraco no Flamengo é maior do que parece. Eu explico em 2 minutos.",
+    "titulo_thumb": "FLAMENGO: A CONTA CHEGOU",
+    "pergunta_enquete": "Qual sua opinião: Flamengo pede ingresso em ação no STF para participar do debate contra fim das bets?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Flamengo se manifesta sobre ação no STF contra fim das bets",
+     "fonte": "O Dia",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWEZoLVNqZWx6Nkc2QzJ2T3dtRkhsVTl4R1hKblJBdmFxT2E3dnNNSW5YNHVzelhDZU5VSk9wQk1Db0pJNm52NnBZRTVZbk0wbWNoQXFsRUV3MThCZE9vbkNXWVlZWjA4b3h5RUUyanQ3LUc4RVEtTlh0eFUwSHA0STk1cUUzODdHSVFsdUNISU1XdXZyWE9ZZjlSZ2tCc2IyUG56UjU0czNzRlEyUUQwRVZkeFNUQy1tcHBiN9IBwgFBVV95cUxPbXNsNWUzTnQzaHl0ME1pTDBPVzZubjNZc0JQU200YWtFcjZQRkdpbGttTDFfWlBrcDd6bEdrby1fcnhVVVRLODl4bS13R0VWcVVMeVpoamNfa2VEZDJMOWRCUktvMWdWQl83S25Pc2JfQ3RyZVVCVzNlZFNKbnRySG5iaEJEb2Q3MnBSelNzeDFJYTBELXVHSmwwelNnaURaQ3Jvd1NrckpTNzlUUlBzVy1laWc3c3JleGhIQ0MwT080dw?oc=5"
+    },
+    {
+     "titulo": "FLAMENGO SE MANIFESTA SOBRE ENTRADA EM AÇÃO CONTRA MEDIDA PROVISÓRIA DAS BETS NO STF!",
+     "fonte": "instagram.com",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtSDVvdEY1WEJNWUFXX3gxRlJkd3BBZWQtSFd0aGpZamdwQ2U2T2plQXM0LWppcndBUWJQV19LVkNNNzBxeXR2SEJhX05mVTFQM2FGQ213?oc=5"
+    },
+    {
+     "titulo": "Flamengo vai ao STF contra MP que prevê fim das bets no Brasil",
+     "fonte": "Diário de São Paulo",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZk1hNXppQTVZU1loa0pmMEtfUHJ3RnFhdVF3TTNMREFzckJUUHJPN2pCak9wdHNNM3lPTUZKY1pOcVBQaDV0S0hObDZ6cXlFeWQyT2hJWjB6UHppZjI2QTljWTF6ZVgwc1pLdjJWZ2dUbEd1ekc5SmtkM2Yya3dacUg4QVpXRG1fWkZfaGNWajB2bGJDU294SXhfVUFGeHhRNlJ3bG53OUFGZU5qdnfSAbMBQVVfeXFMT2ItZHkwcGtzc1g5VkU1ZUpBZ3NsZ1RxemtYSXQycDJwRXgwdmtGTkxkYzh0N3IxMUlwUXg4bEtBdmdwbHRmUmtWSG5HbmtNSGt0cDhqVU1FYy1XbDZmWmxRYlh4aHhKWmpSdUlYSWVUMzBnQVIzOVY3VmpmYUlLZjdZc0xYWVNvemV1N3ZYcjZhQXdZeEcxUV9YZlZ6eGNROUdGV1UxUEtjRlp5VEJycXl3QXM?oc=5"
+    },
+    {
+     "titulo": "Flamengo vai ao STF para tentar barrar fim das bets no Brasil",
+     "fonte": "sportbuzz.com.br",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbGgxeS1EMkhjQ0o5Y0MzTkNrNV8wcFY4UUdtMGFmUkU0ZkxxMXlNd1h6bGVYWEh1VzhkWEw3a1hGdGFSQ0ZYSDBmSEV6VW5MMC1wVnZPWi1uMFZoNENMdDRZb2RiaWtyR2o0MmE5TGdlR1RUeFFqXzdqNXBmYU9XU0c2ZGtMaFFDSDduSW82VjNDSVpJcndGRldKemJaN2tUUGV0RFhIS2ZtUQ?oc=5"
+    },
+    {
+     "titulo": "Palmeiras segue Flamengo e vai ao STF contra proibição das bets",
+     "fonte": "bahia.ba",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeTNndmQwWm9UMC1PWHpYTzZ2RDRCUEFZZW5yVk1pUldwUkwxQjU0Ml9yOVROTkN1WFAyNEhPSDlyaXpkOURUay12NHhibHZwSW9JRUJ0SnBlVHNRaXF0NEJ2NTdzRGlTX3I5b1JzaTB2VnI4SXJjYTMzMUFySXB2czlZd1JVaUVPTWpKR2ZFbWE2cUE?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "D0nBG9zEsWg",
+      "titulo": "Palmeiras seguirá Flamengo em ação no STF contra restrições às bets e Leila Pereira toma decisão",
+      "canal": "JOGOS DE HOJE NA TV ",
+      "views": 3408,
+      "likes": 37,
+      "comentarios": 1,
+      "publicado": "2026-09-30T15:45:12Z",
+      "duracao_s": 10,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=D0nBG9zEsWg"
+     },
+     {
+      "id": "KWpq2E7skb8",
+      "titulo": "Flamengo vai à Justiça contra MP das bets? Saiba aqui",
+      "canal": "Bernardo Ramos",
+      "views": 575,
+      "likes": 116,
+      "comentarios": 12,
+      "publicado": "2026-09-30T12:39:27Z",
+      "duracao_s": 491,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=KWpq2E7skb8"
+     },
+     {
+      "id": "V5gSRPp5AN4",
+      "titulo": "Xeque Mate!!! Torcida do Flamengo revoltada, Lula Caindo nas pesquisas após ação contra as BET's.",
+      "canal": "Brasil Sob Análise",
+      "views": 11,
+      "likes": 4,
+      "comentarios": 0,
+      "publicado": "2026-09-28T22:25:14Z",
+      "duracao_s": 1142,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=V5gSRPp5AN4"
+     },
+     {
+      "id": "kknFQ3Tc8NY",
+      "titulo": "A ação oficial no STF que uniu Palmeiras e Flamengo fora de campo... 🤫⚖️ #shorts #palmeiras #futebol",
+      "canal": "ANALISE PALESTRINA",
+      "views": 6,
+      "likes": 3,
+      "comentarios": 6,
+      "publicado": "2026-09-30T15:17:20Z",
+      "duracao_s": 74,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=kknFQ3Tc8NY"
+     }
+    ],
+    "consulta": "Flamengo bets ação",
+    "n_videos": 4,
+    "mais_de": false,
+    "views": 4000,
+    "top": [
+     {
+      "titulo": "Palmeiras seguirá Flamengo em ação no STF contra restrições às bets e Leila Pereira toma decisão",
+      "canal": "JOGOS DE HOJE NA TV ",
+      "views": 3408,
+      "url": "https://www.youtube.com/watch?v=D0nBG9zEsWg",
+      "publicado": "2026-09-30T15:45:12Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Flamengo vai à Justiça contra MP das bets? Saiba aqui",
+      "canal": "Bernardo Ramos",
+      "views": 575,
+      "url": "https://www.youtube.com/watch?v=KWpq2E7skb8",
+      "publicado": "2026-09-30T12:39:27Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Xeque Mate!!! Torcida do Flamengo revoltada, Lula Caindo nas pesquisas após ação contra as BET's.",
+      "canal": "Brasil Sob Análise",
+      "views": 11,
+      "url": "https://www.youtube.com/watch?v=V5gSRPp5AN4",
+      "publicado": "2026-09-28T22:25:14Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Raphinha é cortado da seleção brasileira após exame apontar edema na coxa direita",
+   "categoria": "Seleção",
+   "clubes": [],
+   "foco": false,
+   "nota": 60.6,
+   "sinais": {
+    "busca": 60,
+    "aceleracao": 72,
+    "midia": 100,
+    "aderencia": 70,
+    "youtube": 56
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "raphinha seleção",
+   "termos_trends": [],
+   "n_fontes": 17,
+   "n_manchetes": 18,
+   "assinatura": "corta|raphi|selec|brasi",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Lista ou ranking (3 a 5 min)",
+    "gancho": "Se eu fosse o técnico da Seleção, a lista seria outra.",
+    "titulo_thumb": "A MINHA SELEÇÃO",
+    "pergunta_enquete": "Qual sua opinião: Raphinha é cortado da seleção brasileira após exame apontar edema na coxa direita?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Raphinha é cortado da Seleção por edema muscular",
+     "fonte": "Correio do Povo",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdHRDdUVGMHFzb3lRZG9Pa01zSEJHVUs1Z1ROWEdVV0k3QlVadG80RmZjNWdCaXZfcUtnMXRjVGdGRkpGQjZ3X1JRTlRULWhuVFVwT3BNcUFMQ0dMeTNxUjBLWFBQb1J6aVlyWkFrQmRTTkVPRTlWU3BfU0VDaC1IRWhYNWhxNFVBVVlUOUlscW5naDlDUi1Hc0dmNGVWaEh6QVYwLTRQdWFLU3JXY3ZDMHpxaG9iMk9XVXc?oc=5"
+    },
+    {
+     "titulo": "Raphinha é cortado do amistoso do Brasil contra a Índia após edema na coxa",
+     "fonte": "Diário da Manhã",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYXozNGhYYWdPbXBNR1BxMDFjX0lPZUlYbnZDdGhHU0Y0bVB5VThuZFBpX2lGb1hJNXRUT05WMUtOVjJxWmp0NzYzaU5OTVNSaDl2T0hvXzM1dklLSUJ0c0l1blBCZGJxQ3RWTEZaSGs4Szh4d3FfNnBFdHJBa1JtZXZaZDBGMGplQlVfbVlQakFOR2I4Y2ZBS3Jud21MRW9ucGF5RlJvbW1UZw?oc=5"
+    },
+    {
+     "titulo": "Raphinha é cortado da Seleção após edema na coxa direita",
+     "fonte": "Jornal da Orla de Santos",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNDhsQ3hkT0VGUldLbkY2WFBIRlpqVzlVYTlMc2FVd3BXZG5Yclk2N2J6TWNEYTVxejBtem5YMEZGOEg1MHVHRm5EUDZ3bFZONlMwVU1ZZlVzVnU4bkVzUWV3MTdhNjVlMlBnMlVEczZVOUlrYXlwMHUtcjB5SGtnQ1pha2UwTXVtem9jVUtIOURtS1FDUU4zQU1R?oc=5"
+    },
+    {
+     "titulo": "Raphinha é cortado da Seleção Brasileira após lesão na coxa direita",
+     "fonte": "A TARDE",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTHg3X1FNTERJTEJncDRuT0dpSVJyNjBSMVJrNXhNaDhiZE0xdFNJU0hBY3JmeXVPbVhTcV9BNFFOSy1vT2VLZ0xzbWxwLVVQLWxCNnprOUtRU1hjeGhlVFpjNkRqM2R3VkZILWlXOHFfcWM4cVR2UHpfalk4d0VSTUsxS28tQVlpck8yRXZnQlJzQXhJcXRlbEh3RUZ1TTRPZlVSM2VmeFN6Z9IBsgFBVV95cUxQTnQyOVpHYWZqWW4yMXRGbERKMDgwQjJ6LTVDdm9VQW9tWjh2VHdHV0FPeGpicXJORDJWZzcyVnZ2NTE5TnJwM1c2a1MxR0xvRE1ibG9HSGpudzdiV09OMG9DemV4WVltTkVoNHNJY0tJRDEwWDBoT3dYTUl2eEtQUllDQjhwR2NINjVaTUJuSGU1MHo0NTViMUZ6aGY3V0ZNMjBrVHRTU2xaNHNGdGgzRTJ3?oc=5"
+    },
+    {
+     "titulo": "Raphinha sofre lesão na coxa e é cortado da Seleção Brasileira",
+     "fonte": "Bnews",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWmtTMmxhU1NxdHVFNUFhNkY1ZVJaNmhHQWtOY0N2LUZHZ21yTVlyU3Bfekk3NEQ3aWhSQk9WT3RLTHVuOTduMml0TmZqMUk4Z1hRNzBNdXJFOVdmUnlCRmdKbFY0Zm1xd2FqYndaR0s4ZUg4ZUdaYV92RHE1Nk56NkZBQ2xZMUIzcDJWWUd2VWMxMXJWOFRnQjJHLWtjVmpsQ09QSHBLLW5jTi1LYW9McEp3UdIBswFBVV95cUxPWmtTMmxhU1NxdHVFNUFhNkY1ZVJaNmhHQWtOY0N2LUZHZ21yTVlyU3Bfekk3NEQ3aWhSQk9WT3RLTHVuOTduMml0TmZqMUk4Z1hRNzBNdXJFOVdmUnlCRmdKbFY0Zm1xd2FqYndaR0s4ZUg4ZUdaYV92RHE1Nk56NkZBQ2xZMUIzcDJWWUd2VWMxMXJWOFRnQjJHLWtjVmpsQ09QSHBLLW5jTi1LYW9McEp3UQ?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "GMpARUv1hKw",
+      "titulo": "Raphinha tem edema na coxa e é cortado do amistoso da Seleção contra Índia | CNN NOVO DIA",
+      "canal": "CNN Esportes",
+      "views": 1962,
+      "likes": 12,
+      "comentarios": 4,
+      "publicado": "2026-09-30T09:56:41Z",
+      "duracao_s": 166,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=GMpARUv1hKw"
+     },
+     {
+      "id": "Blg55_vgVaw",
+      "titulo": "Com lesão na coxa direita, Raphinha é cortado da Seleção",
+      "canal": "O Dia Online",
+      "views": 285,
+      "likes": 4,
+      "comentarios": 0,
+      "publicado": "2026-09-30T11:25:18Z",
+      "duracao_s": 4,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Blg55_vgVaw"
+     },
+     {
+      "id": "6K8iLaE1_Rk",
+      "titulo": "Raphinha cortado: 4ª lesão na mesma coxa em 3 anos #shorts",
+      "canal": "Recorte Esportivo",
+      "views": 20,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-09-30T09:35:18Z",
+      "duracao_s": 57,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=6K8iLaE1_Rk"
+     },
+     {
+      "id": "C8dS0smyG94",
+      "titulo": "RAPHINHA FORA! Camisa 10 é CORTADO da Seleção #Raphinha #SeleçãoBrasileira #shorts",
+      "canal": "GuidoCortes",
+      "views": 4,
+      "likes": 3,
+      "comentarios": 1,
+      "publicado": "2026-09-30T15:30:16Z",
+      "duracao_s": 79,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=C8dS0smyG94"
+     },
+     {
+      "id": "h6NIxfBBDm4",
+      "titulo": "Raphinha cortado: 14 gols, 1 edema e a coxa que já cobrou",
+      "canal": "Recorte Esportivo",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-09-30T16:00:03Z",
+      "duracao_s": 540,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=h6NIxfBBDm4"
+     }
+    ],
+    "consulta": "Seleção Brasileira Raphinha cortado coxa",
+    "n_videos": 5,
+    "mais_de": false,
+    "views": 2271,
+    "top": [
+     {
+      "titulo": "Raphinha tem edema na coxa e é cortado do amistoso da Seleção contra Índia | CNN NOVO DIA",
+      "canal": "CNN Esportes",
+      "views": 1962,
+      "url": "https://www.youtube.com/watch?v=GMpARUv1hKw",
+      "publicado": "2026-09-30T09:56:41Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Com lesão na coxa direita, Raphinha é cortado da Seleção",
+      "canal": "O Dia Online",
+      "views": 285,
+      "url": "https://www.youtube.com/watch?v=Blg55_vgVaw",
+      "publicado": "2026-09-30T11:25:18Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Raphinha cortado: 4ª lesão na mesma coxa em 3 anos #shorts",
+      "canal": "Recorte Esportivo",
+      "views": 20,
+      "url": "https://www.youtube.com/watch?v=6K8iLaE1_Rk",
+      "publicado": "2026-09-30T09:35:18Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "BOBADILLA TREINA E NEWTON AVANÇA NA RECUPERAÇÃO 🔴⚪⚫ O São Paulo ganhou novidades durante a preparação para o clássico contra o Santos. Em recuperação de um problema no ligamento colateral medial do joelho direito, Bobadilla particip",
+   "categoria": "Lesão e desfalque",
+   "clubes": [
+    "São Paulo",
+    "Santos"
+   ],
+   "foco": true,
+   "nota": 58.8,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 63,
+    "midia": 100,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 13,
+   "n_manchetes": 13,
+   "assinatura": "class|santo|paulo|prepa",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "Esse desfalque muda tudo para o São Paulo nos próximos jogos.",
+    "titulo_thumb": "SÃO PAULO SEM ELE: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: BOBADILLA TREINA E NEWTON AVANÇA NA RECUPERAÇÃO 🔴⚪⚫ O São Paulo ganhou novidades durante a?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Santos tem retorno de Arão e Cebolinha para clássico contra São Paulo",
      "fonte": "Metrópoles",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTVdNUHNJcnoyNldXSy1wNXFYeG9lTDRfQzJ2QXBjUnhUdFZYWkpxVjhhVE1WeHJBU3VyNnZsTU1uQXBBSUF4bGJfT29GTWdubmpqQ1dWYU54czFhT2pBNThlbG1CUjMtTzFOWGpSMlZ5T21vTGo3TV8wenJWT2tReHVOd01GMWtsQm1vQlVDcV9hLVl3NjJTY25fU2RWSXhrLUoybjk5T1pYakp5eGc?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTUhZX0xOYVZ2bTBTejhyNHBoTVNqUnlVd1R5RzgzSGk2Mk5obkRCdndBMURPMDlyeFZEX1V3VFZSVlJVelJTdGFaTUJYcC1XTUZRX081Smc1UW9aZnh4N1cyQWdGOEtzY1pjQmpKQnYtbjRsSjVHcTlIT3VoclhYdENyeXFqaUNXTm9YLV9SMkZiMFdocVRIaUFfNDVlYlFwQjVPM3VaQVM?oc=5"
     },
     {
-     "titulo": "Raphinha tem edema na coxa e é cortado do amistoso da Seleção contra Índia",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTFhPdEVhQUNDTGtMOHI1UjgyNWEtTzlyclBweV9CT2RIcERfVmVJRjNTZ0hmRk9zMUVEaWJVSHdRVGNNSHVpUEZfdTVCSHNpWUdlcFVMRm9sM3ptZTR2WHRodXZrQk5PY1lQMGNKazd1amRyX0RfTXF2UFJVRG9ydVZqUkRFY0ZoYmRrT1ZCdkpXaVBXSVVMekhxek9rQlVzeWljN3RHeFF1b29ZOWpYb0ZweUtGZjVsN0M0MWdQc0VnUjhDVURoaTdyNWxuNkdFeWhQdWFFaw?oc=5"
+     "titulo": "São Paulo perde titulares e acumula desfalques para clássico contra o Santos; veja provável time",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORkZBTmFWVXZubWF0QmR0UTJzSGlodTQ3bjNrUURsSUVXQzFDM21rVTV1TURDSmNHTHo2YVJkbk9iNmt0dEkwdkQ1dndpNGp1OHEwdXBRb1hpN2gyOW1rd1NyYngzYzd5NDRLSElNR1NZUkNRTVdYS0RyRmZXSVNFNFZ3TDBRTjdlMHdiaXdJOVhqa0ZsUmd4d0QzQ0U4SnZoQnliTG13Rm9LTTFPcVFPdW5Ta0Fsb1A2cWRmWFpRb2llclJKaXppajJYSWZ1RFg5cDZLdTdWNA?oc=5"
+    },
+    {
+     "titulo": "BOBADILLA TREINA E NEWTON AVANÇA NA RECUPERAÇÃO 🔴⚪⚫ O São Paulo ganhou novidades durante a preparação para o clássico contra o Santos. Em recuperação de um problema no ligamento colateral medial do joelho direito, Bobadilla particip",
+     "fonte": "instagram.com",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuWkdvTlpONzhrME4zaE1mMllFNk9XbUlTMU00ZC1TeTVfdHpWYm9VYkVmdl9DbExZVm55bVJ1RzY3WDFxQ2NySTZWVUpYYm5GcGc?oc=5"
+    },
+    {
+     "titulo": "Três opções geram dúvida em técnico do São Paulo para o clássico contra o Santos",
+     "fonte": "São Paulo Blog",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWpsMmZ6cEFXYko3aHl0U0FtMGx5QWNsMTRTcVZpNXVqQVhPdFo3a2w1ek1oUk13ZXU3MTk0NTVaWXRGUkViV2g1eE11X3BjNHI0UkFTMXRUaS1abFAtbURVX0g5Ry0tbDctN0FFMXJsUE9qVWdYSHBMUGhSMzJXaHpKR3dmenA5OUlDTDVJZVhMcXNNTWhkR2V3MUl6MEphZV90N01vQlRRejhzNWNDSmJMUFc?oc=5"
+    },
+    {
+     "titulo": "Coutinho pode ser novidade do Santos no clássico contra o São Paulo",
+     "fonte": "Jornal da Orla de Santos",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM3J3emZEUVJ2cS1rUWJxMWUydmZ3cDhoR0pndEd0VDU4dk5IZU95Z3RCVW5pZTJCTTJLSEJ0eFppUFhJd0FZLUlaa2ljTFdYY1JPOHVjOUt4YVdxSktmQ0dKVzBkNjBQaGNxcUE2T0wxSFYzLTdGaFRkVmRaUzFUdnNQNHhUZDdmN0NkdkNlYS1wSG12UUtkbEJmd1lwSFRXUzVhUk1CUHU?oc=5"
     }
    ]
+  },
+  {
+   "tema": "Flamengo perde mais em jogos sem Arrascaeta; veja comparação",
+   "categoria": "Lesão e desfalque",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 56.9,
+   "sinais": {
+    "busca": 60,
+    "aceleracao": 32,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "arrascaeta flamengo",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "jogos|compa|arras|flame",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "Esse desfalque muda tudo para o Flamengo nos próximos jogos.",
+    "titulo_thumb": "FLAMENGO SEM ELE: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Flamengo perde mais em jogos sem Arrascaeta; veja comparação?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Flamengo perde mais em jogos sem Arrascaeta; veja comparação",
+     "fonte": "vgnoticias.com.br",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYzBJa2hmNFBSMlVaV1dSQ2tWcHptTGkxcUl2VmRiNmVrQ05PODBHVnlXYVVzX3FOendqLWV1OVdvOXRFSzluVXRXa1h5ZTFhQzdONHQ3ZE83QjEyZ0xNRWNTUi02SnprZHA5Yk9CcjJOR2JKQm4yQXUxRzhGM0tLSFpPQW1FS3FNUzl6ZmJGelhmX05jRXV5Q3ltQUhkYWRYT0hwLWE0U3g?oc=5"
+    },
+    {
+     "titulo": "Desfalque de peso: Flamengo perde mais em jogos sem Arrascaeta; veja comparação",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWnoxU2xySmVCNkFpTTdHSFN6dkt2Tk42UERYaTVOXzhZalVOM3BGMTF3YTRfOHNkQ2ljYkZkQWp2dDB4VkFPMU9qbVBVQW1aUXp5Uk5SdDBuU0Zrd0l6Rlp2TGpXcDRRUzVpQzVBbFBoenh0Y2owMkhzcHdnMFVydmVmcGlXSEFlTEVHOXZBNlBRZlVFS2xWMlB6cGtzcGxlLVdEU1Y5SU9zZllpSFQzU3RYak95ZlEzMnVaT2hDWVc0R1ExcGlWbzNON19IbF9Qd1NNNEtHbmEweUVndkZF0gHuAUFVX3lxTE5BV3RxWG5tZnVQTnBjZ2pDRnpNaFBUR193MGRWV1FRVnRQNVVUenBqRFJNQVBtcllrRm51WFRQb19DVDlDaEFtNVNCc2l5LWoxdEVXc0xtT2lFYlktSjZoWVRkMjNmOElRNXFsYUFZeG5XX1EybXNBNGowMnpaU010bWJ2b0NERnY3VVQ2dkl2eDNHeklqUlBlYzNuckxqT21Md3U1UGk4WU1xa200akxITElndUpMNHhYNl9rNGZEaGROWWhubTUtNm5ER093MXJLUDVnUVM2Um1aZnI2eDRpOUJ2NXdRcVJJcHpzSGc?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Flamengo pode receber indenização por lesão de Arrascaeta",
+   "categoria": "Lesão e desfalque",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 56.9,
+   "sinais": {
+    "busca": 60,
+    "aceleracao": 32,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "arrascaeta flamengo",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "inden|lesao|arras|flame",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "Esse desfalque muda tudo para o Flamengo nos próximos jogos.",
+    "titulo_thumb": "FLAMENGO SEM ELE: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Flamengo pode receber indenização por lesão de Arrascaeta?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Flamengo pode receber indenização por lesão de Arrascaeta",
+     "fonte": "R7 Esportes",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWURpekNTcWwxNEdVSEZpeTZSRnoyMUs3SGRIV05qN0pqMjRNQkZJRXhoLU5fNG9SbGo4WkNOckcybzZEYklTVS12VVRRSnFwaVFTT3B2OWt6OXNncW54OVJ0cGk4RFN0SDlpNkVWRWpycTA4LXRFUWM5b2VyR1hzQ3NFRXFSN0ZkNW03VC00bldnY3lIVWtCek5PUml3aUZIbkI0?oc=5"
+    },
+    {
+     "titulo": "Lesão de Arrascaeta vai render indenização para o Flamengo? Entenda",
+     "fonte": "Exame",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3FMZUFFOVJPakNRaHVUaWIzYUc3bUZidnpiTDNwYks1ZVYzQzJLclN5eW1FYVdKUzVBbmw5V0RNZy1rVGtSWFM4V1EtazZrYkpQazUzM3l4eHpWQXNaWUpQakRrYnZ4Z0J2Rng1NTBmN3JReW1YQXp2bVNhRDZfMGtoTzhBTUI0YTVjQmFSZVh2RnFIeWYwVA?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Azul lança documentário e revela bastidores do voo especial em homenagem à Seleção Brasileira",
+   "categoria": "Polêmica e bastidor",
+   "clubes": [],
+   "foco": false,
+   "nota": 56.2,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 90,
+    "midia": 58,
+    "aderencia": 95,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "azul|selec|espec|docum",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Explicador de bastidor (2 a 4 min)",
+    "gancho": "O que ninguém está contando sobre essa crise na Seleção.",
+    "titulo_thumb": "SELEÇÃO: O QUE ESTÁ POR TRÁS",
+    "pergunta_enquete": "Qual sua opinião: Azul lança documentário e revela bastidores do voo especial em homenagem à Seleção Brasile?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Azul transforma voo especial da Seleção Brasileira em documentário",
+     "fonte": "Acontecendo Aqui",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUc3MmlCUFFkdlhEOU1YOHg1dVg2UDg1MGg1bENabFFLdE9Zd01FenFzZXQ5OHMxblBjV0hhVWZ1WXdOWUtpcDdUUXRNZlhzRzk4TUxhS3ViOHZkSDhjNEdMRGtudE9TSjVtRkIwcGtuRDVPaENpa1F0aGEyalJhd3pSb0NzM2hSOXJNTS1Ed2Z5cllma1BFT1pSNnhBRG9Ob3pza3Q2clRHWjlKcUE?oc=5"
+    },
+    {
+     "titulo": "Azul lança documentário revelando bastidores do voo especial em homenagem à Seleção Brasileira",
+     "fonte": "AEROIN",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmtBdGcteUcwLWFXYm15TkhYYmlxTFN4UDlwTE1RbUZ1UFcwZi14MDV6b0pvamxIUU5jckxrNTBRaDJzNFZMT29CdjVaYl9EbXJhYVNLN1h4SE0teGZ4di04X0luMElsaHFiQk52MXZuZTFrWWs0dW14Qm9HVmtwM3NQa05weEd4MGw5TXF2WVpyaTJhODlfYWRaQ2x4S3hEMmR4a0N5aFgzTUhvWGhWUTdIM3hscVk4MndYadIBvAFBVV95cUxOUmtBdGcteUcwLWFXYm15TkhYYmlxTFN4UDlwTE1RbUZ1UFcwZi14MDV6b0pvamxIUU5jckxrNTBRaDJzNFZMT29CdjVaYl9EbXJhYVNLN1h4SE0teGZ4di04X0luMElsaHFiQk52MXZuZTFrWWs0dW14Qm9HVmtwM3NQa05weEd4MGw5TXF2WVpyaTJhODlfYWRaQ2x4S3hEMmR4a0N5aFgzTUhvWGhWUTdIM3hscVk4MndYaQ?oc=5"
+    },
+    {
+     "titulo": "Azul lança documentário e revela bastidores do voo especial em homenagem à Seleção Brasileira",
+     "fonte": "VOENEWS",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS3VQbUlvZ1BqVEN3YktLWlN2LXp6cS1CV1YtcXBUSkRQbTEycXM4aWJHdDBldzk5enBTQ2ZJSFJkY3dDOUhpOWV6OUJRaG5FRTRLQkQxOXdEc3d3OHFoNHhadk9lM0c0RHZHNE5tbWlUdVNONzBuMjhnM1RsT0tUNjVZVTFFV2VUSWd6ZnBYT3FnOFRsM3hiUzNPbkJxSVE2VzAydGtnQjZraUxGLWttWXEyMU1ZS2J5?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Jogador revelado pelo Corinthians é suspenso por doping pela segunda vez",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 55.8,
+   "sinais": {
+    "busca": 75,
+    "aceleracao": 60,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": 0
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "brasileiro série a",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "dopin|corin|suspe|revel",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Todo mundo está falando disso. E você, concorda?",
+    "titulo_thumb": "CORINTHIANS: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Jogador revelado pelo Corinthians é suspenso por doping pela segunda vez?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Jogador revelado pelo Corinthians é suspenso por doping pela segunda vez",
+     "fonte": "meutimao.com.br",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcGc0aFVrYmNxN3pnSFVjQkJKVllqa2VWd192VThBaXRwX29vNmpzWnVtd1RDQUZQdV9QUUt2Ump1RTJaaHA2R3ZGVnZBUGxqNC1qQjM4cDdpUXowbmJtTDYxX0xna1d6Sk1nMnhNODZsdkJ3MHkzNFFyMy1od1ZnR2JDQk42bzAtT1dFVUlsYUlHM1lRWENaU05KT0tIeHZRNnFRaW54M3lmU1YwZmFTNENNTWJwNTB3aktDeXhwWjlJYTJhbHNxLXZhSQ?oc=5"
+    },
+    {
+     "titulo": "Ex-atacante do Corinthians volta a ser suspenso por doping e desfalca time da Série B do Brasileirão",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOXhLTkxpa215dWxhUkxGVWllRWNNVXhhbl91ZFlzalB0bnBwWl9ybWFOR1h0WkJEZXBUZlhScEd1V1NTNkVxSjB6MkRMQXMwZUFMdkhxSXBrQU9TdXVQMUJpbGNZY0NneVNLUVIzOFJOSlZLNUR1MWpsZDdfSzZLcWNkc0tCV09MWll0LXZCWWxtZFp4Q3JGRHFPdXB4VktJMEo3ZUxSMF9KellQekItYTZ1dEZMbG0yRE1aNGZZYXhFLU5jNFhTMFBnR3d4T2pEbHo5V3d6ZGFrdzBud0l0cTB5NFVmUVhm?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [],
+    "consulta": "Corinthians suspenso doping",
+    "n_videos": 0,
+    "mais_de": false,
+    "views": 0,
+    "top": []
+   }
   },
   {
    "tema": "Palmeiras recebe vistoria da PM no Nubank Parque por ampliação do setor visitante contra o Fluminense",
    "categoria": "Notícia do dia",
    "clubes": [
     "Palmeiras",
+    "Corinthians",
     "Fluminense"
    ],
    "foco": true,
-   "nota": 67.7,
+   "nota": 55.1,
    "sinais": {
     "busca": 60,
-    "aceleracao": 54,
-    "midia": 67,
+    "aceleracao": 53,
+    "midia": 75,
     "aderencia": 100,
-    "youtube": null
+    "youtube": 0
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
    "busca_torcedor": "nubank parque",
    "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 4,
-   "assinatura": "palme|visit|nuban|receb",
+   "n_fontes": 5,
+   "n_manchetes": 5,
+   "assinatura": "parqu|nuban|palme|receb",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
@@ -262,6 +2412,16 @@
     "pergunta_enquete": "Qual sua opinião: Palmeiras recebe vistoria da PM no Nubank Parque por ampliação do setor visitante contra o?"
    },
    "manchetes": [
+    {
+     "titulo": "Palmeiras receberá o Corinthians no Nubank Parque com capacidade reduzida",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWjJXTFptd3U1NldOTDZQYW5uY2k4VC1tY1Y4UVpTOUtVYnRQTTlOeXQyTG5BNXJqM2NCa0t4Q244dlEwNHozVmJiVzVfNTREN1JQTjZiM0ZTZHFvUXFEZEV1SjY0bGR1bHVfZlQ3WWhXWEJyaHZhODByN0FvYVNkdTNRcjltQzdlTG85cFF1bEFtTVk2MDh3a2stT3JNNmNtcVlpNngtckp0R2xZYmowbS1TVFA2MWN0cndBdTVQa2hobGxuU3MyamdoT3YtaTMzUGxIY3JfVGdxZ2vSAeoBQVVfeXFMUHZXNi1sSjlzTjBiOGlTXzd4MVA3bFJTWkZBZGwxRFdoSnBmVXBsUU9hZjJ3SllNZEwzVHFiWHRtdmt6QjJSWnRKNGZFdUhSY1lKVWlURm5ZS25FV1hxb19vS1Y3TWJINnpSRTJzQjloakhKQWU3bnlGemh3M3Q2cVZ6TkJNdGhSMlcycm5YVThQSEY0emxTbkdwQWphY0lUc3pTT0QxRWsteXdVSTNNeXEwUzI4bG9ZQnhQM1ZlNjNNOVdPaEdZalRoZE1UZnFaeG5NNHJFT3ctS081a0VaQ0hvTldjTmhCT2x3?oc=5"
+    },
+    {
+     "titulo": "Venda de ingressos para clássico contra Corinthians no Nubank Parque; Gol Norte com restrições",
+     "fonte": "palmeiras.com.br",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT3NyaGZia096TlJXS2ZYOXNBQ3R4bE5nRHNSQWdPZ2tNSGVyNnpFd2liUzFwWU55Uk5ZWXY0bW5aZElZa2l1QlBNbjl2UVJjMlZNZFZUa3lUc1Z2VnhtdFJFZWZUSVlSenFlWmR3aWNTNENlcXNjdWZzWURWRFNsYXJ4ckxNczZvS0pINXlRUG1CYW1FSG1LZm1iMnBwRHB1NV8wY0RKUmJuUXA1aGdpa2p5amNmSVlrekFSSEluY0Z3T0hobEluMFlKVUc?oc=5"
+    },
     {
      "titulo": "Palmeiras aguarda: Polícia Militar vistoria Nubank Parque para possível ampliação do setor visitante",
      "fonte": "ABCD Jornal",
@@ -276,347 +2436,29 @@
      "titulo": "Palmeiras recebe vistoria da PM no Nubank Parque por ampliação do setor visitante contra o Fluminense",
      "fonte": "gazetaesportiva.com",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRF9SRzNGUXh2SDJXOTkzclQ3dkZ2eGlvTDZ6RHVVYUZiWkQwTkxxVXR6eWVfZFoycXJ5NU5ydGZRZzBLakZkVnlrUUNBREcybmFHaEgxZWNDMGZ4U2R1ODFZekNjQkN2c2xIMVpZbzBqWDlBQzlmVkhxMFNyRnoyN1B6OVZSNXQ2d0ZOV0pBOHBwWXJ2bXJ5Y0FWNVpyejNlRjhj0gGjAUFVX3lxTFBEX1JHM0ZReHZIMlc5OTNyVDd2RnZ4aW9MNnpEdVVhRmJaRDBOTHFVdHp5ZV9kWjJxcnk1TnJ0ZlFnMEtqRmRWeWtRQ0FERzJuYUdoSDFlY0MwZnhTZHU4MVl6Q2NCQ3ZzbEgxWllvMGpYOUFDOWZWSHEwU3JGejI3UHo5VlI1dDZ3Rk5XSkE4cHBZcnZtcnljQVY1WnJ6M2VGOGM?oc=5"
-    },
-    {
-     "titulo": "Estádio do Palmeiras recebe primeira vistoria para ampliação dos visitantes",
-     "fonte": "Tribuna de Jundiaí",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRzdIZml3T2pzRWNQSkszZTlqbFh2dHZQREZNZlUzaTFtUTlfVUFmUkUweXJBZ3l3UXdnbGw2cWg1UjFwMUtXR1VfSW15c0RZaEVZeF85UlFNN2pCTlhWOHdKVnc1STZQMFRHNGJSb29FT0pEVUo4RlA3RTBjcWZ3VmdrdmY2ZFMtbW44cU5fUWtBczFsck1zSl9YTHFVOEo5aEctTEJZdFlGeU01eUp4Q0VBM0dQTDhMYXNPcVZnTQ?oc=5"
     }
-   ]
-  },
-  {
-   "tema": "Flamengo aciona STF e reforça ação das bets contra proibição do governo",
-   "categoria": "Mercado da bola",
-   "clubes": [
-    "Flamengo"
    ],
-   "foco": true,
-   "nota": 61.0,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 76,
-    "midia": 92,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 8,
-   "n_manchetes": 10,
-   "assinatura": "bets|flame|stf|acao",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 3 min)",
-    "gancho": "Essa negociação pode mudar o Flamengo, ou virar o erro do ano.",
-    "titulo_thumb": "FLAMENGO: VALE O INVESTIMENTO?",
-    "pergunta_enquete": "Qual sua opinião: Flamengo aciona STF e reforça ação das bets contra proibição do governo?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Flamengo pede para acompanhar ação no STF sobre suspensão de MP das bets",
-     "fonte": "band.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaEpiYlNyVC01aXRlMzdiNzlXeWotZDNSOWJDUkZnVjV3TEpUdjBkZmpyenpHU3pab3VTLWIyenlpRmlQS0NUODYtanZHMmJGOWJEQ0ZRSHdoU1pxdV93NUJZeGRBSXNzUkdTNzNkZDFjVWI0V3FvQ1pIbmVzaUczX28xa2V6ZHYtNk9FSXJWcHp1Rzk5REt1WFZKWUE2cjNvb3I4NHZNSFU?oc=5"
-    },
-    {
-     "titulo": "Flamengo aciona STF e reforça ação das bets contra proibição do governo",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcE83SkJDM25zdkJJeFc0N05hYUlSM2lBTjNSdnk0OHF6cklPaWJhZWpBWm85eGNpSDBFNjdBN1dEay02NjRvSXl0MWdnSktwRWtrNVlWMU15aUNadWM0cFVVRklBTHJHd0NHUjFKck1vN0g2azZtQ2NxeEhlNE8tTzR4Q2N3eFBFcnhabXZsR1FQUmFQRExxZXktalRhTndPNmpULXRFN0lHVi0yalFTbW00SVg3OHktbnRUX3BUZ2JhcTBmb2FyUEh3QjZDQURMOTFDYjdfbmhiODZK?oc=5"
-    },
-    {
-     "titulo": "Flamengo recorre ao STF contra medida que proíbe bets e cita patrocínio de R$ 268,5 milhões",
-     "fonte": "Brasil 247",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT2NBMURXNTZiOGtzdzZIb21TR0VHalQtZmRGR3FuUHJFOHR2cllhOXZLSzF5YlQ2eVpBbGU0ZkszdFBnYmVBbVpCakYweHlSYnd0MDhUdVQ1dUhKVWxVbnZWdXZqcWJ5Q0RKdldhU0o3ZkRFUUlUcWl1VjRiZ1g3MjJBTkRjNkJZZW43dDlfZm9hUnRkYXM3TzVjRlpacngxbUJ4MzlQX01EaXRKQTgzMVJMZ0gwNlRqS3ZwdTVleVlfUQ?oc=5"
-    },
-    {
-     "titulo": "Flamengo pede ao STF para entrar em ação contra veto às bets",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbnhjMFhOdnRLNFdZZzltVktRNDB6ZzdtZzRSV2VBcHIwM3JSVmt2Mm51R0VGVEdzMXlJWURHMUtLVVZ4SkxFcWVyWm9GdGNQSUlRWVJ0dWlnRVlBT21fZUZUWnhQMnkwczV5UDlDUW5QNVhHTFhCaXd3TE1RSE0teUJDWkxsSko1bTdvMlpvMC12dUlYbzBIMm85TUVXOXVfUmxGSXN6UmdyRmRQcmpVWFludlFGTUZHdEZoTGlUTmxmUFlUMEJzOEtCWWVUdnVVcWdRalY5cUFzeXBCVWJDR3Braw?oc=5"
-    },
-    {
-     "titulo": "Flamengo pede ao STF para ingressar em ação contra o fim das bets",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV3FjUWFMTW1XWGFuS3h4SUNhcXkzZXVFS0Rmd1lmNW5UcEZMM3I5R3doRHE1T0J4a1o2S05ScDVUT3A1a0R5UmVzaV9jU2QyOTREYXRhWlNxb2lWYnF1U216YXZucWtzZTZZSTZISXVaT0tXV2lUeVlsX0JvNDRkRGpOT3JqN3hBeGw5NjF6R2RBSUZYMXNTSFdzN1RLUlhhOVpmelJHWVhNMHUyU2xCMUEyZlk3dmJmWUdWZWNVbHNBTmYxSl92cUdDOUROS2pGQnFJNzUyNS1jalhQUnRhZUtkR1UzQ1hvV2c?oc=5"
-    }
-   ]
+   "youtube": {
+    "amostra": [],
+    "consulta": "Palmeiras Nubank visitante recebe",
+    "n_videos": 0,
+    "mais_de": false,
+    "views": 0,
+    "top": []
+   }
   },
   {
-   "tema": "Rochet volta aos treinos e pode reforçar o Inter contra o Corinthians",
-   "categoria": "Jogo e resultado",
+   "tema": "Corinthians: grupo tenta convencer conselheiro a disputar eleição",
+   "categoria": "Polêmica e bastidor",
    "clubes": [
     "Corinthians"
    ],
    "foco": true,
-   "nota": 60.2,
-   "sinais": {
-    "busca": 75,
-    "aceleracao": 32,
-    "midia": 75,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.056,
-   "trafego_google": 0,
-   "busca_torcedor": "brasileiro série a",
-   "termos_trends": [],
-   "n_fontes": 5,
-   "n_manchetes": 5,
-   "assinatura": "corin|inter|volta|trein",
-   "ja_coberto": {
-    "titulo": "CORINTHIANS  X  ESTUDIANTES -  JOGO DA VOLTA",
-    "url": "https://www.youtube.com/watch?v=4CY4MadeZa0"
-   },
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Esse resultado diz mais sobre o Corinthians do que o placar mostra.",
-    "titulo_thumb": "CORINTHIANS: O QUE O JOGO REVELOU",
-    "pergunta_enquete": "Qual sua opinião: Rochet volta aos treinos e pode reforçar o Inter contra o Corinthians?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Rochet volta aos treinos e pode reforçar o Inter contra o Corinthians",
-     "fonte": "Correio do Povo",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdWxnODdwZDdBWjNBYV9QSE9jdTNVM2tvNlhzeHZvZ1QyZU9sa1F5dDRlNDNtaHJ6TERRc1U1ekdGNzdCdVFIbGkteDhPYndjU3ZfMmxqeGRBTUFybjh5UlktaHo4Y2s3UEEtNUhQc2pRSnAxMmZ0MkRsb0I2NTNVNFFOLUEwVVJCZFY1SE9GVUZabTZTQ3A5bkowSEhOcjl1bEE5SUFaUHVzNTJpTzNhNFB4amNWa05nSWNRaXVTOEtDbGw3Smc?oc=5"
-    },
-    {
-     "titulo": "Trio do Internacional está pendurado contra Corinthians e pode perder GreNal pela Série A",
-     "fonte": "Rádio Itatiaia",
-     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMDR2UVhNM3p3LTJ2cFZMWHo2aEo0VUhhQUZnc0JnZGZYVWIzUHRpcGwtdUpVOXNOZi1iTWRSRER6dUJjMW1oa2NLUWJMeE9PU2VpOW1WT2tEWTNETnZCRjVJQk5fTXBQSnhXWVlkaXVsaC1uVmo4aDdsOUxIcWtlMHVLYVhXazBDNHhDc3hIUVlWSmVoc2Q4eDBEUWhRa2hkeGVNNFZYdEF6Nk11eFNBN0lHVXBnVXdRMXBRMVV6RkVRMXdIV18ydkZ1OGZqN1k5TGR6OURrejF3THZVN0lZZ0R5RVBmRXJTN1dycmZlOGM5MHdUNkRpZEZiNHZMLUktdXZOTUd2SVlBcUVKb3c?oc=5"
-    },
-    {
-     "titulo": "Elenco do Corinthians treina no CT focado na volta do Brasileirão",
-     "fonte": "meutimao.com.br",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYkpsSUlBWWE2ZFhqS0h4VkRleHItWjg0RFZlTkVnSVB5c3l2VkRoWnVlX1FpVG56NnIza1lZX2RyVFlqZ0RYeVBISXFvU1k1SUVRTE5qVmtjSHNiU3RSeGpMWlhyc3hFcjZvazdtLXFsU2NITXBQdi1WY0VNbUpQSldvOE1pZFg0ZFZLbXJhSi1fTVZtOE05V291cDhwTXVyUE03VjhKdW1SdzJ5cmZIbzBGNDVwUklCZ0YxZEl6MNIBxAFBVV95cUxQQnNBdGx5aWZNdUllR3ZFYlBLNTVxYl9ubU92VUU5RDh2X3pvSEx5Q05SaEN5Yl9yd2ZWcnV4NTlCT1ZMVk05OTZmeDA3UmUwOTdlaTl3ZDVYbUU2WVBUNC1xYWdrSDZrNkxYLUlDUDRRcVUxUk5RbEVKNWk2dzFEVjY3ZHFyRW9LZS1DdE0xdzFRNTBSQi1leDc5ZFowcTI1OHdYYk1Edm9FMnppVUFrVU03d2taM0RZRUxmTktPTm5ESUNQ?oc=5"
-    },
-    {
-     "titulo": "Yuri Alberto volta contra o Inter? Veja situação do camisa 9 do Corinthians",
-     "fonte": "band.com.br",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbFRuOGptaVBVRTJNcTZFSVJ0b2p1dXJpQkJ6UEp4MUtjX2d1eERTUWJwUkozakoyT1FZbmZLZy16eThBd2lEWDlDMk5Ld09RSFJ3bEJGY1RzTGx1Z3V2RFBWWVlXRTRHX2NFUW14dFVWXzNnV29fVUFYU1p3YzM4NHpxSEpCNXRWZ2VQenJKb1RwVWtpeWs1RVhGMVRxU0tUZ0lpRU1HRWlFdlA3UjVIUlFFU2tYUzJoaEFsS1k2VnNaQVdTbWNGZ0sxZE9TQQ?oc=5"
-    },
-    {
-     "titulo": "Rochet voltou a treinar no Inter e mira retorno contra o Corinthians",
-     "fonte": "Bolavip Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUFfTERwYWotdHNHMkRnTFdvMkRoVUdBeVJPWlhuT3lYZlF4TGVKaUVfWlFnODd5Zkg5ZE10eEpLZnFqSzlnaDFiRUhieDlpSXJ6QmpFNzhTSW15dXdfSXNaMlpRSGs0X2tOQWtPam5HS1FwQkJpMV9TY3J4R01FMGZSQWZCMHVmblFYVWF3UFdFcVcyY2kxc2R4TzZBWUdTRnBtN2RrWjZneFdZZ0FxbUhxT3hrMGd0R3AxRGNnUTZZZw?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "após fala de Lula, Botafogo, Flamengo, Palmeiras e outros grandes esvaziam reunião com o governo",
-   "categoria": "Mercado da bola",
-   "clubes": [
-    "Palmeiras",
-    "Flamengo",
-    "Botafogo"
-   ],
-   "foco": true,
-   "nota": 59.3,
-   "sinais": {
-    "busca": 45,
-    "aceleracao": 41,
-    "midia": 67,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "flamengo x corinthians",
-   "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 4,
-   "assinatura": "palme|gover|botaf|lula",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 3 min)",
-    "gancho": "Essa negociação pode mudar o Palmeiras, ou virar o erro do ano.",
-    "titulo_thumb": "PALMEIRAS: VALE O INVESTIMENTO?",
-    "pergunta_enquete": "Qual sua opinião: após fala de Lula, Botafogo, Flamengo, Palmeiras e outros grandes esvaziam reunião com o g?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Lula conseguiu unir Palmeiras e Corinthians contra o governo",
-     "fonte": "Diário Causa Operária",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOURObkd2OGxiUVM2Uks1Zy1EQW9IRWlqV0tvOEdSMjBjUTd5VUs5SHlRMW11NFFlZWxWMzRPUFB6T2U4a04zVTlxcU5kdjBCY2JWWTJLT1kteXpINmt2X01HVGJrMmZ3ZjlpNE5sUVVDSVBlZTE3Q1hLd3puajlOQmZLR0VXR2xyaGhyMGItbHZ2ck5iQkhSbXpsbw?oc=5"
-    },
-    {
-     "titulo": "Palmeiras descarta reunião com governo e tem cautela sobre contrato com bet",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN3VkT2ltX3UxeUpKd2wyeUltMHZjMkVjampMbDB1U2d6TUk4ZV9rR2lqcTRQaEhESFc3U2U0cTdqbm5JYzVhSGp4Zm1MeEFjTm9WWkpzVHpqSzdYcENkV0hqUjNzdnJlWlk2SGc0WVZqcDJnREZ0RWQ5a1BoY3JqZmVuMTdxbmZDWE95RWlILUh0bXhQZ3UzTkZtRjRoa3NhMVNfWEw5d253OGt5M202c0ZJVHFIVmNIVEZwMFNMYkxzLUhJQ2k2eEFHVms?oc=5"
-    },
-    {
-     "titulo": "Vencedor do prêmio Golden Boy foi oferecido a Santos, Botafogo, Flamengo, Palmeiras e Vasco",
-     "fonte": "jornalcruzeiro.com.br",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONmtjTjJvZHA3V3FWQnVMaGhBTW85dmZ1ZE8zT25qcXlTdmE0cDdqRTF0enMzNzIwSU5YR3kxMnBzTlNjbjNGT3I3T0hzREtldENqZkM5LUNlQUZRNmVjN0Z0VjhWODN4bjhFSkd5RVB6YXN2OFRfV29VWGhXbjg2SWw5eHdDSUE3aEVhWllRU292ZWJueC0ySGZlYTg5eVhmdHlCOENVMTVtTXJ0SnBGLXFsRkVhSlhEQzJqWmFsNXJXTWx4M05oMGtSVlJMQW8?oc=5"
-    },
-    {
-     "titulo": "após fala de Lula, Botafogo, Flamengo, Palmeiras e outros grandes esvaziam reunião com o governo",
-     "fonte": "Blog Milton Figueiredo",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNb01aR25aLUYwX3k4X3hJdGMxcDdXb2FWczh0MEJ5S01SLTRaV0ZyMVEweGk1N19xMUVJQlI5QWlVRTZ2aHJSZnhtdjhtV1Q0YjhRNWVaWnBPN2c0Yk54elZFNDhZdkZJbmpjUUJ5TW4zdzRsWExibFBVSHdkQmNJQjFQbWl3UWE5Zy1hQ3BlRUxMdGlWZ1dYb1c2X3JNbFloNXhTOE5fYVBTSFY3UERtc0VrbkJZZzJ6Zmc5NVFuaXEwelpHM0RxVndPeTU1NWFIanZHVTZkSDJwWWRmWnBBQ1ZLb1BBV3czckdlSE9rRWdWZw?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Santos anuncia homenagem a Naty Potira com patch na camisa para clássico contra São Paulo",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "São Paulo",
-    "Santos"
-   ],
-   "foco": true,
-   "nota": 58.7,
+   "nota": 54.6,
    "sinais": {
     "busca": 0,
-    "aceleracao": 68,
-    "midia": 92,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 8,
-   "n_manchetes": 8,
-   "assinatura": "naty|potir|santo|homen",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Todo mundo está falando disso. E você, concorda?",
-    "titulo_thumb": "SÃO PAULO: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Santos anuncia homenagem a Naty Potira com patch na camisa para clássico contra São Paulo?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Bruno Lima: Santos atende torcida e homenageia Naty Potira na camisa contra o São Paulo",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeTdxSmJqZTUzNWxRTnllMDNfb3QzSDJ0QjR1VHVfY0pKZE5fVUVqb3dJa1BzUzhpUkEwQUlMODJieC1oWE5DN25ZQzByWXhWamtjWHVDSXlXLWhCdjI3Tnljb29sSHdZV0ZmTXBya1cyTF9NSi1ud3ktSUhGdXpfWnZTTkgxUjZZM00zWGROelZ1VHlwX0RPV081MHJfV1pYdDNOS1FwbFJlVkxYUUlTT2d4VUVEdU41bThrdzRKcENwU1BHQmdmcTN2QlJ4YjZpeUxnd3Q2QQ?oc=5"
-    },
-    {
-     "titulo": "Santos anuncia homenagem a Naty Potira com patch na camisa para clássico contra São Paulo",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNU0F0cVdvcnM1UVR3OG1MX2pfNkJ3djBBSlJkdTVWMkFyblhoMk1oTk5PLXRrZ25Hc0RlcEFINFMxYjlLaHdkZUhVVE9hUm4xQXBTR2ZrS2FfYnY3V3NSVWp6Q0haSGZrSUhZS3Y4TW9ZM0FpY2tHYnl4YmI0a0RGV2xLYW5nN21LMlFkV2NUeFRJNkRDTkxIZkRORlY4M3FIV0dJYzJZQ0NXb0U5ZkpzYVB6ZlNSZFZxYmJjQzUzbVBJMFVwSmFFYVVEbmdoUzl4RGVEWWtfcGNvNHVvRk9rQTJSR0VOWnRpaGRKYnl5VkZBZVd6NHJNMmt4b2NmQzdhNDl4XzFJdWE?oc=5"
-    },
-    {
-     "titulo": "Santos fará homenagem para Naty Potira no clássico contra o São Paulo",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWlg2Sk1IRGcyUjd2bE50ZjlPQXNZaURzanl4M241WER5VjVzLTFkcmxtcXZmMXVzY1VSeXVqNzhudGJDUm5yMEYzUUNJSDY4al9zbURrUVNUZVFVR1FNU0cwSktDVHBWMndIWTNiRFlUZC10NXlzVEMtRURnNGtnS2tkUGdoOTlQTXpDc3FUZ0xsem9oT0hlaHhmc0NyR0ZzbTJDTWhTVE5mSURuSm1TT3dXejhzTHMtM1o5LUF5T1g?oc=5"
-    },
-    {
-     "titulo": "Santos homenageará Naty Potira na camisa em clássico contra o São Paulo",
-     "fonte": "Santa Portal",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeU1mVFhkNWtOTFA5XzVnR01uaUhWdC1tdld0cmI4UGkxbHREako4Q1B0cUVNWTVsMU9oaDBOeG1OR2o4alpvZjJHaXpENFJUUlRUd0s3T0pzU04xNTJsSmNicTAxeHlWZFFwQzhpdVBsZnl1Nk9tVU00cDh2cEJjei1FUmNneWhkeVhvOVAtYmZjZkRxWkNGSjlxclFxcURDZGNiWFE4U2Qwd0xsV0tNWHFycERlVkE?oc=5"
-    },
-    {
-     "titulo": "Santos prepara homenagem a Naty Potira em clássico",
-     "fonte": "tmc.com.br",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFdsbGExLWRoUHVka0xhWVpqN1E1aTZPZFZvNjFDTlQ5Q2x2TEM4cWMzYlo4ek1MQ0xMMTZwVmZtNGw0cTZ1UzJvMjE2RFJzYjZncm5LY3RvWm1ockNtUU94czJyeU9OYmJ4VkR5RHpoX3FOdEozUl9nX2l3VXJoUGV3WU4?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Murilo cita treinos intensos e foco do Palmeiras: \"Objetivos claros\"",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 57.8,
-   "sinais": {
-    "busca": 40,
-    "aceleracao": 41,
-    "midia": 67,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "murilo palmeiras",
-   "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 4,
-   "assinatura": "muril|palme|objet|foco",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Todo mundo está falando disso. E você, concorda?",
-    "titulo_thumb": "PALMEIRAS: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Murilo cita treinos intensos e foco do Palmeiras: \"Objetivos claros\"?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Murilo destaca treinos intensos do Palmeiras e aponta foco total na reta final",
-     "fonte": "Araraquara News",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaW5jNWZxLXRLTk5sdVZXX2JqajlPWFZEZG1NTGpmOVN0Y0diSlJjRHQxRWY0Si0tWFdPdURNejFiWFBSSjZJNW56NzI0LUFkTUVEN3RIRlpqWE1CMVdGd3Y0TFVmZDB3SE1YWGFSaFpSWVpXRW5tUDVSUUtYWkp3b0Iwd3JMcnRyLXFWTjFSNEdQeWhQUzRFRWswYzFNTFFNOVNVNHB5eTVSUmF6ZkFLcGx0NWlEbFdiTk4wdg?oc=5"
-    },
-    {
-     "titulo": "Murilo cita treinos intensos e foco do Palmeiras: \"Objetivos claros\"",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQenF1Rk42bWJCSnBqSXhYWXh3eUJQaGFHZWh6Y0haeHpIUy1mT0NMdDlxai1xdUpfaHdoQ2pSN1NoYUhGRHZ3ZWNxTU9GX1k5T25hamVOb1RzQnBEeURJazJDVFNRWVdvMDdyakFKd01qXzZ3Yl9KWXBqUEhvb0plU1htak1vcHNUWDV3VkVRamRmMmNibVhzZFZIemlRQ2ZfT2dibElBUEl1eS05VWxvUTd3c1JsbUV2ZENzZG44QlJEczZVeHhZTzdFUnhRNEJlQ055Y1ZiallHRVN3Tkd4d3pTbVlhbjNxVGRz?oc=5"
-    },
-    {
-     "titulo": "Murilo cita treinos intensos e foco do Palmeiras: “Objetivos claros”",
-     "fonte": "Jogada 10",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY1BVREgxWTRycFVTb19MWDlrd1pFS3ZWZEdLWEpJUXlPV2N3Mk96djFsNHV4bnBtNlF2WXBtYmgtR3ZsZzlybnhnMWtmUDhBSERMS2dkRHlETDJfMlpZYUlqSUdKdkNQdmZibmJFa1RZYkpsNFRpb3pkT0d0SHp5T0NDNmI1OGpaNFZPZkc3c2ZXcGU1ZjJwakZR0gGaAUFVX3lxTE9jUFVESDFZNHJwVVNvX0xYOWt3WkVLdlZkR0tYSklReU9XY3cyT3p2MWw0dXhucG02UXZZcG1iaC1HdmxnOXJueGcxa2ZQOEFIRExLZ2REeURMMl8yWllhSWpJR0p2Q1B2ZmJuYkVrVFliSmw0VGlvemRPR3RIenlPQ0M2YjU4alo0Vk9mRzdzZldwZTVmMnBqRlE?oc=5"
-    },
-    {
-     "titulo": "'Objetivos claros': Murilo é direto e projeta fim de temporada do Palmeiras",
-     "fonte": "Rádio Itatiaia",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVGxoa2xQbjNPMV9XTWNIdUZiUFpWaGFWMnk3NGlLcGNUdlRjM3U5eE1QMDJCT3JnQUFodGcxYlNrdFJKSGNCQkM4Z2NDQk1BeUVwRnJuY2ltQ2hjVTgyOWI5YmZVYmx0SF9lZWR0SDlBcVVWSXJVOEtlYWE4MWVqQmppREdMNEpkbTNKYWF5ZVFnXzFjSHJSTk43UC02M2NNOHFaaXFEUUNyT3VJa3BJcmZ5YlRIell0Tmc2RjY3dUlNelh1YWRGMnNjR2d5M1dDekR3QVBFdnRrVjNfeExWVk0yeHZMQkxsOXdNaUJsUTJtRmhs?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Botafogo-SP 2 x 0 Ponte Preta | Melhores momentos | 30ª rodada | Série B",
-   "categoria": "Jogo e resultado",
-   "clubes": [],
-   "foco": false,
-   "nota": 56.9,
-   "sinais": {
-    "busca": 75,
     "aceleracao": 85,
-    "midia": 29,
-    "aderencia": 60,
-    "youtube": null
-   },
-   "fator_categoria": 1.056,
-   "trafego_google": 0,
-   "busca_torcedor": "brasileiro série a",
-   "termos_trends": [],
-   "n_fontes": 1,
-   "n_manchetes": 2,
-   "assinatura": "botaf|serie|melho|ponte",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Esse resultado diz mais sobre o futebol brasileiro do que o placar mostra.",
-    "titulo_thumb": "FUTEBOL: O QUE O JOGO REVELOU",
-    "pergunta_enquete": "Qual sua opinião: Botafogo-SP 2 x 0 Ponte Preta | Melhores momentos | 30ª rodada | Série B?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Botafogo-SP 2 x 0 Ponte Preta | Campeonato Brasileiro Série B: melhores momentos",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSVYtU3FPakFLXzBKUzRfTkZ2MnR2NTc1cGcyV01rQXhfU1lWcmlmMHh6Yk04bkRmT211N0tidGFfUmF3cWo4QUFfb0htODNENU9tNV9HNC01NUJsQng1TS01aExpOUVHdFFIUW5DS0NJRTg5MXFUZnNaZGRaVHdtRUU2bVlhYWFaNWxWSjlvWTZEVERQbEJSRkg3RFlrYjc4VTBnOWcwdFVPOS0zaDJadWh3RUZQVmNQS0RJRDN3?oc=5"
-    },
-    {
-     "titulo": "Botafogo-SP 2 x 0 Ponte Preta | Melhores momentos | 30ª rodada | Série B",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPakJ6WG9nZTFQcHNsWWxjdUpxVGZCMElFUi1mdGt5NXJzSGJOVE1qRGZFbFFnTkFMWEFNOWcyWjF0LXV0MUZXUmg3V050eDRjNk9YZ25XNXZkbkp2blowYWUwbExlUy1nMlZlRmJHNm93YUs1ajBDZG5NNUd4c3lZTnI1RnFjNEZqVVVZV2dTLUVXNmZwZVIzTkhFb3kzTGptQnFmZ0xnZll1bzFD0gG7AUFVX3lxTE1vOXhUWXNMNXVDbmdMQlN0QllMZnRRVllkay1KZWFycmttNmtRSkdPVTdWRmJFYnZXdTJ4VFR3eExzckx3WjgzZHB4SXJHaUgxa3RBUkc5dVJTUlVOOXRUelJ3NkRrb1FSbHZ6WDlQVVEwYnl1aWp3eGpJLUhmVTk5RVdFeTZoa0o1b0p3Q3pCdjF3ZkJRQlNKcmV3RFk2VHdRTV9PUXVqU0E4U3lHTzlWR0dPQWdsNXZ6TUU?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Corinthians apresenta déficit de R$ 278 milhões até julho e omite dívida em balancete",
-   "categoria": "Finanças e gestão",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 55.0,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 55,
-    "midia": 92,
+    "midia": 46,
     "aderencia": 100,
     "youtube": null
    },
@@ -624,327 +2466,26 @@
    "trafego_google": 0,
    "busca_torcedor": null,
    "termos_trends": [],
-   "n_fontes": 8,
-   "n_manchetes": 10,
-   "assinatura": "defic|corin|julho|milho",
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "tenta|dispu|corin|grupo",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "O buraco no Corinthians é maior do que parece. Eu explico em 2 minutos.",
-    "titulo_thumb": "CORINTHIANS: A CONTA CHEGOU",
-    "pergunta_enquete": "Qual sua opinião: Corinthians apresenta déficit de R$ 278 milhões até julho e omite dívida em balancete?"
+    "gancho": "O que ninguém está contando sobre essa crise no Corinthians.",
+    "titulo_thumb": "CORINTHIANS: O QUE ESTÁ POR TRÁS",
+    "pergunta_enquete": "Qual sua opinião: Corinthians: grupo tenta convencer conselheiro a disputar eleição?"
    },
    "manchetes": [
     {
-     "titulo": "Corinthians apresenta balancete de julho com aumento do déficit",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRGs4aEU4LTBGTTd0dmFLb2Rua2hJaDhZY2lUdUpUaHAyU2J4dEFObFk2OG5tNjMtNVlqYlBEb3lMenRlRVk2WnB2aXRQVjBYcGw0SGc0bVF6X3pleUVnVXBGT0FoYmRDRHhEdkhHWmxRRXFaakJQdnpCc3hDMXp2dXpGSW1pem44N2lROFkxNzdSYTVaSHN1RHFVNDY5clVSS054ODRQSjR0cjhMME5YZ1NDcjhrVDVUOVlzMjJwQjRUbF9HLW1kU1B0UGh2cU9QM1BTYk1hZWJ4bzNuVi11VFItcU90emJZXy00?oc=5"
-    },
-    {
-     "titulo": "Corinthians registra deficit financeiro de r$ 32 milhões em julho",
-     "fonte": "Araraquara News",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQXlJdEFDaGc0UnQzSHJPemhNdExKOGdGVUF5U1N6OU53VWR2MlBPbWhTWEZvbTBMeTdpZW9lQTRVUWdmX3hUY1dHSVFhamsybHFMZXMxdmxNS3lKZzVrY1VjNEcySmtQRGFJZFEzdHJ6bDVKNVgwRWtEdUZNZzdlWlhORUxCak9xMklGZkdRc1VwRENpZnBpOC12VkgxeTJwdmowVFVaNHQ0UQ?oc=5"
-    },
-    {
-     "titulo": "Déficit do Corinthians aumenta e chega a r$ 278 milhões | Clube tenta acordo com a caixa pela Arena",
-     "fonte": "meutimao.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdHNKMjFodjFDM2o1OEZaaGtCS1lUT2c0VUN3dVBieTFka1Jkb0l3NnNRN0FNRzBVNHBLRlBFd0dZTXB3Q2tvMERKMTFMTUd5dGM0bnZ3TzB6N2xrdmZoX1pWUjliLUkwbUVXUHlIM21aekROdzdyMUhGN2xWQmFQMW5TTXAyQmdkemhRZzFJeFdOUHhOR3VSWFBLczRveHQ4UElzUkxqbFdwejNfdE1kbTI4NnY1MUhRQ0tNOC1Ldk5XU2VRQTdYLUh2RVRzcm5JNEJZZ0JtS2ViNnBjZXBOekpSVWpfdXZV0gHuAUFVX3lxTE8wX0lTRkNQN0FqUkt5aFdtNHV0aUhFM2tIWnZyTThGRDl6RHJDU2RqQ0x1R0tETWNMeldrbWh3WVhsYXQyaVpFcVh1bmk3ei1MamRtM18tZ3dGSTVEN2JXRGtnbXBwQUplUFN2Y2VLa1poUDRFS2RpNkZQZGI3NDhTSUdWSHRjbHdHWVozdWctMzlkR1R2Zm1FVGFiNVdjNHhoREpUeVExUE8xUWpySnlUY1JTZWRJY2pZOXVTV3pFT2xNdEw3V2N0V2xYMHhlaEpoQzN4N1hycDJFZldzY2NtTVpGejNUblJiazRSYUE?oc=5"
-    },
-    {
-     "titulo": "Corinthians triplica déficit previsto para julho e chega a R$ 278 milhões de endividamento em 2026",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPUXVBeUp6cXNBcTBwZDNLSTdYNldwcEFMUlcydi1BU0NHSUNOMjRpRERVOHZFMTFsTm9XcDN1d3Z6dUh0Nk1USUFPLUJKTDZiWXdJdzlzSm5JMUstNU5iYTFLaS0xczg4cno0YnNfNUY2UENKQVlYWFlYZFdmMllVRndUYmRwelVic3JWUjRYaWhnVzlRNFJGaUp5aGtGNXBRRUtXZTVvMllmdXdraUJUSU9hYmtEaHUwR090RHlNc05WQS1CYnBpVHhfZFJTQlhKOE9OVGZsX0Q2NTRxSFdOSGJwQUc1NUc5em5tZS16Sm85bTZtaGdtOU1LVUdsZkxaZWlIUXpUZ2VrMFh4c2RDUndSYw?oc=5"
-    },
-    {
-     "titulo": "Corinthians vê déficit aumentar 258% acima do previsto e dívida dispara",
+     "titulo": "Corinthians: grupo tenta convencer conselheiro a disputar eleição",
      "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdVlpRlQ3TjNMcU1jdUlLRUk2QjZpaXlsUDF1MkhaeDFkWEhuYXY4R19JWktTSllFQTl4bTlIMTMyRG5QN1d0MDJGRnduZVVmM1pydlk4bmtZWjBRYXhlVF8zYzVwd0FRbTV6QjEyTnZuSVFtMW1VR2NzY0ZnRmw4SEJfMEs4bl9BYjk4STVhUjVYUk44cWg3V2MxWVlhYnlHRkV0bUNoMWtHdnlTY0Fhck5Takh2NlJPeVJVNGR4ckdFa0xvMXBOOA?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Flamengo é o primeiro clube a entrar com pedido no STF contra fim das casas de apostas no Brasil",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Flamengo"
-   ],
-   "foco": true,
-   "nota": 53.5,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 73,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "flame|entra|stf|apost",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Todo mundo está falando disso. E você, concorda?",
-    "titulo_thumb": "FLAMENGO: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Flamengo é o primeiro clube a entrar com pedido no STF contra fim das casas de apostas no ?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Flamengo entra no STF contra MP das bets e pede fim de barreira",
-     "fonte": "band.com.br",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLWlmOGU4UXpXRkhSUjE2NUtTdmkzY1ZlQ29DQ3M4TU5PeU00T1diMFlRc21hTTY2ZldjSzAwU3lGOXJ6a2NoRkUtRmZwZnFsU2JWT1U4djhNUVZ5VDc1MXVoZG9Yd1lBQzVZZkNTdHA4NXYwd2NqYTh0WHdJVC1Ebi1tNHZzUWpvZlhIZGtrRGVfdjdEUnpNaFNpazU?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYzYwYWlJWmgyZVZpZGR6bzZuSzZDQkRhN1hmSkNGeGpCUE1QYWwyOVlCb2FtTVJfZTF5Sm56dzZqSGlOa3hyOThId1dFRmktNldSQlFEaHVfSUVMMWdKXzV3NjlHX0N0WUFuZzhLd043LWpUa0hPOWdySWRXN0hmM2NWWGhYcHI5ZjMwRlVNUFk0Z3NFRUxoS19KZ2hqeXMteVlyQmlhcTNocVlxTVlUbW1fRVRQMWZDTTFBNU84VEU?oc=5"
     },
     {
-     "titulo": "Flamengo é o primeiro clube a entrar com pedido no STF contra fim das casas de apostas no Brasil",
-     "fonte": "Estadão",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRUhuVV9jTVVNRnEtQjMxclpTQWl0NnpDdjU1dlhmUjZoTVBYUDN1T1Nmc09RM2FtMU5FMDYyZ1BObk15YnFaX2VPbG9PcEhwdDIyLXcxWEp0QlNwSU94SnlSeFRYS1hxU0hkQkJvQUdaVXJuNEZ4X2ktVXFCZDlkOVcyXzNoLW1Lb2xOa3VIcjJfc3V3TmkzYXZWSDd6S1RjQTZSX3FHOXdaWGwyUlM5QjlwNk5WUzhLRE1INW9jMjZUTkVaZkJwNVBkT2ctczlJZ1p3SGlMY0dteGZoV0RPdXJ3QQ?oc=5"
-    },
-    {
-     "titulo": "BAP ABRE O JOGO SOBRE SITUAÇÃO DO FLAMENGO COM A PROIBIÇÃO DAS CASAS DE APOSTAS",
-     "fonte": "instagram.com",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUaElSYTNpLXRBallXa3M3eV94RVVBUTRNQVU0OE5QVTA1TE1SR2gxVG4tMzZZY2dIOG5YcURDZGV3NDVsT19va3dIZzBVVHh1V3c?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Raphinha é cortado da Seleção Brasileira após lesão na coxa",
-   "categoria": "Lesão e desfalque",
-   "clubes": [],
-   "foco": false,
-   "nota": 52.9,
-   "sinais": {
-    "busca": 60,
-    "aceleracao": 67,
-    "midia": 46,
-    "aderencia": 70,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "raphinha seleção",
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "corta|selec|raphi|coxa",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 2 min)",
-    "gancho": "Esse desfalque muda tudo para a Seleção nos próximos jogos.",
-    "titulo_thumb": "SELEÇÃO SEM ELE: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Raphinha é cortado da Seleção Brasileira após lesão na coxa?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Seleção corta Raphinha após edema na coxa direita - 30/09/2026 - Esporte",
-     "fonte": "Folha de S.Paulo",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMF9yQXVsNTROMHZHclB3QUNhM3dFYXZxVlYzQ3NmRTVnWjgtT2o2SjZkcHF6SjJMX3djeTcxdUdYR0hrdDFQWUJQTlN2ZENjY09MQXQweHlGUC1haXd3bnY5LXRHTUVDSm1qYmphYXM0bmJITkxXU3JTYlE0dDBLdk1BRUp2am5ILTAwaFRDdnAzemhDMUcxSVhWNnFSbmtVdHVF?oc=5"
-    },
-    {
-     "titulo": "Raphinha é cortado da Seleção Brasileira após lesão na coxa",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX1dDZHdXWGRxVk5OY2QtQllrSV9RNU9hQzRNbDRpZmpwUlQ2ZXhJc21xTGJQYVZ0d2hUX2pCV1M5bHc1elhhdkd1SmwyOUlITGxlUVZPUDNweXBta1A4d29CNmJENndfdC1LVEFXVVkyLVhJLVY4SWZ6ZkJkWFFNdmppdTQtV09vLUdUYTZRT2dXOTZFSXZ1a2N6NGRMeEk3dExLdDFBZXY4bFlfdl94ZTR1b0pIeFh4V2VabnJTYVduU2UtM2UtRU10U211T0tlUWc2S3ZWaDBmWUlxdmVabg?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Corinthians já sabe o que pode fazer com a Hypera se perder naming rights da Arena",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 52.7,
-   "sinais": {
-    "busca": 35,
-    "aceleracao": 34,
-    "midia": 46,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.056,
-   "trafego_google": 0,
-   "busca_torcedor": "corinthians libertadores",
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "right|namin|corin|anos",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Esse resultado diz mais sobre o Corinthians do que o placar mostra.",
-    "titulo_thumb": "CORINTHIANS: O QUE O JOGO REVELOU",
-    "pergunta_enquete": "Qual sua opinião: Corinthians já sabe o que pode fazer com a Hypera se perder naming rights da Arena?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Corinthians já sabe o que pode fazer com a Hypera se perder naming rights da Arena",
-     "fonte": "Bolavip Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTmR0X0RhWE15dUVYVzZxbEZvVGpWeFY2U3QydmI4ZlhCNEJNdHRyek5aUlVpajVVSXlldzlTbXBmTzM0T0w4NVIwa081MTV1Sy1hZFUxOW5DWDg3TTNQWFE4WHdDQWZUMGRiZk1tU2ZOVG13OU9NLWlwYmY3NmNWdGtlbDRuZTVvcU92djJMVjdzWW4zSmtpSXhiX0pkbVUtcVJodVFvcW5OR1JubG5KX1QzSQ?oc=5"
-    },
-    {
-     "titulo": "Samir Carvalho: Corinthians quer 10 anos de naming rights com Caixa e liberação de milhões",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMnI0eXRMWTlTTUROSXZpdXdhQzJDU1hSVTBRenEwYnJWaXhqOWJaR2lLdXdHdFFnZnhMak1BOWh4VmUyeEpReTJvVU1HbUk2eTI3RXhZMlNsVUN3YUhtcWJ6YzA1Y0N2bWZtQnVhOGxFRjFuZzNLTlB2TTBqMkRINjdjUFpBX3FEWWdHMlVGSGd1Q2ptNW94LVdiR0xWUlh0bm9veF9hTFQ2NTBJME1xclBiNjBBY0Jxcy1Da3pwTUpYMHUyekxwakVJYkxfOVNtWVJ3a0tXVkEtZE0?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "São Paulo vota acordo de R$ 140 mi com Ticketmaster; entenda",
-   "categoria": "Finanças e gestão",
-   "clubes": [
-    "São Paulo"
-   ],
-   "foco": true,
-   "nota": 51.1,
-   "sinais": {
-    "busca": 50,
-    "aceleracao": 15,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "são paulo fc contratação",
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "vota|paulo|ticke|acord",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "O buraco no São Paulo é maior do que parece. Eu explico em 2 minutos.",
-    "titulo_thumb": "SÃO PAULO: A CONTA CHEGOU",
-    "pergunta_enquete": "Qual sua opinião: São Paulo vota acordo de R$ 140 mi com Ticketmaster; entenda?"
-   },
-   "manchetes": [
-    {
-     "titulo": "São Paulo vota acordo de R$ 140 mi com Ticketmaster; entenda",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZWNHaXdjR0pvU2Q5U1ZuSk5neDF2X3hIZUF5NWpTbEh5Z2hLS21nVTN2d0RLYV9lMUJxYUZtNEJYQ2pVd2FZR2Z2c3JpUUEwaXdmUmZNd1BQZUYxU1hqZjZpQ0J6d0RMQVByVlExU0M3dmlXVjN0TUNVZFV2b0NzSURIVGRjWTBKalZLNXRXZWlPcGxNWW9VMjhqSDE3enFQYnBxU3phWXRYcTl2VDUyNHYtQWZkOUg1Um02ZUo5UEtzQkRWZ3o2bWhrSQ?oc=5"
-    },
-    {
-     "titulo": "São Paulo vota acordo de R$ 140 milhões para aliviar dívidas",
-     "fonte": "vgnoticias.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdk9qaVRTSkgyd1BObHFUNHU3UkRFWE5NS1JRN0ozcThweFd6eTNVSzlBbzZIeWlUV3ltTW9LRGRKUlhMd3d2eFpvcWd0M042a0NpZ3JSbmZPc2dPRDdxU3FRdUhzWE05WHpTYWlvTVFCcXZUak5TRTJTT3JGc0xnaTM1V3RUWDB2NWNoS01iS25UUFc5R0tvSlV3ZnhYZUpXM1p6YjRZVXE?oc=5"
-    },
-    {
-     "titulo": "São Paulo e Ticketmaster: clube vota contrato de R$ 110 milhões | Ge",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdnRwbzhfT19JOWJINXB6Y0tSN2tzX0pRTWJvQUlPMnh6Z0RQUjJ6V3VqM29SdXFfQ0tvcFFraE9nZFE4QnV5c1NPU3FuZ1VMcjRDNU1vY3I3dFhteDF1UWpBVTd5VWU3bC13U0RLeTNIdkZhLXd6blBjblZ4clpzNUVOTGtIbnRUVjFrdFN2M3pTVkQ2X01ZX3BxaENGTnowRXhQd2w4RUd5SFRsQnJlalRKdDNaQlNLQ3JZZkgxWTdjLXRLVHpEbUdGU2xsRVQydHZPenNPQ3pkMkxDVURSaTR3bTA?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "São Paulo calcula multa para rescindir com empresa que administra sócio-torcedor",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "São Paulo"
-   ],
-   "foco": true,
-   "nota": 50.6,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 57,
-    "midia": 67,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 4,
-   "assinatura": "paulo|socio|empre|multa",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Todo mundo está falando disso. E você, concorda?",
-    "titulo_thumb": "SÃO PAULO: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: São Paulo calcula multa para rescindir com empresa que administra sócio-torcedor?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Pedro Lopes: São Paulo e empresa divergem e sócio torcedor pode virar nova briga",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYmpYSUE4QWRpNGR4MlJBOFRhcmotSmZqa1I2UXlNVXN0WnVBekd2czdaUmJubnJDaWpWYXl5YldHbGJXOEFXekVkRTdmRzNXem13anVKdmRhZEhBdEJwbTcyZzdsVF9VMWJkZnE4SkozbzRMaW5LM1ZvZ1JUREpKWDBJNmgwbDhoTUYzSkxEYnkwM19XbzNkdU4yUE8xOHZmRUZ1Q1VPU1FoMlZnSE56Wk12bm14ME04U0RpTERndnVkT1pCdWhzSS1QR3NzUQ?oc=5"
-    },
-    {
-     "titulo": "São Paulo calcula multa de R$ 3,7 milhões para rescindir com a Feng; conselheiros falam em R$ 40 milhões",
-     "fonte": "São Paulo Blog",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTFFqYVZaS0d0eXRzRkJNX1IzckVHUE9mcGRZVWg0ZHJPY0JfV1BlNThZaXl4aVBDdXBVZXN2YlBXUGItSEZsZnpZaGZoMFEwT3BkZnVWbXNmOWRNdTQxRl9oMUk3UkJlVXl1eXlTUlpQUDdNY3l0ZDBoX3NJV3ZNWnhrU1hJWU41REhsR3ZSLThpVHF6OWczU2dITm5hbHNwTUZsUG9tXzc3WjQ3d2U2WVlkSjV5S1hSMUljbTFPWjNsal9UUDREc0xPZktmS2M?oc=5"
-    },
-    {
-     "titulo": "São Paulo prevê multa de R$ 3,7 milhões para rescindir com empresa que gere sócio-torcedor",
-     "fonte": "gazetaesportiva.com",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3c3S01YU2tDMk5CM3BranNFWl9zNHNBWlBpRmlnNEljUjNmT2tZRFgyaVlGVTdpdGJuZkVYRm54ZGpxVHJUZWhFSUxQQk5XTFV6Mm14dEZ0V01yLTNUMXdSVENCUGFlQTBaVEJsQ0hScjIzNThhRnNpZnp3T1FqMlFCckQ4SXV5TUVnOXd2Tk1GRVJLTUxfYTgzNGQwVVFoMUo4SE5B0gGmAUFVX3lxTE9TdzdLTVhTa0MyTkIzcGtqc0VaX3M0c0FaUGlGaWc0SWNSM2ZPa1lEWDJpWUZVN2l0Ym5mRVhGbnhkanFUclRlaEVJTFBCTldMVXoybXh0RnRXTXItM1Qxd1JUQ0JQYWVBMFpUQmxDSFJyMjM1OGFGc2lmendPUWoyUUJyRDhJdXlNRWc5d3ZOTUZFUktNTF9hODM0ZDBVUWgxSjhITkE?oc=5"
-    },
-    {
-     "titulo": "São Paulo calcula multa para rescindir com empresa que administra sócio-torcedor",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaEpYLU9QVlZNQTNrbEJqYl9rRkpFOHpJUmpNeDE0aFdpSVhBT1NMa19ncXZvSlk2SWpuQ3Q0VVhRaGZtRkRiZGFjcVZtLVhiUVVNTU96X2ZBY2tWZWlwbmFMaWlRekhMTzk5N3RHTnVfN1J4Sk5yY2o0ZW5uUGVlbjNaTmhJYXBHaDNuQ24xU0ZIRlVEMHVFUTR4dUdlZk50SDNXWC10b0lydUpXLWdXMWZSLWVFUjVwcEZiOXBud3lKckNGZVNoeVAtd0R2YXE4UGVjY0ZjWHF4NWE5dW1UWklqNEPSAfMBQVVfeXFMUFVwT19MVnpUaXFxUkFhNm4teTl2YnY4ZFhtbEJvOGtnRmdEVXdQQXNuVnM5bS1kTGJlSEdNSkNkYXFJOGVhTF9QWjVkWnRybVc1ekE5cHZmTktwNGJBMVFjOE1VZndpNUtiX1QtbFZic0x4b3NqYUZTbnFEUnNGclo2Sktkdk9TNVVkTlZVTFU1R0JYekJqMVotaUdOSDktRktzckpsV3ZVSDNUV09IaVNmbXlhZjB0ZnE4dnNaSTZsbzNkbFJQR2J4dlF4eXZUSDFmc2xTa05rcDJDRXJBeVZaQU9RRTJYQUdITEpWcTF2aDd3?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "São Paulo atualiza parcial de ingressos vendidos para final do Brasileirão Feminino contra o Corinthians",
-   "categoria": "Mercado da bola",
-   "clubes": [
-    "Corinthians",
-    "São Paulo"
-   ],
-   "foco": true,
-   "nota": 50.5,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 40,
-    "midia": 92,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 8,
-   "n_manchetes": 11,
-   "assinatura": "femin|paulo|corin|final",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 3 min)",
-    "gancho": "Essa negociação pode mudar o Corinthians, ou virar o erro do ano.",
-    "titulo_thumb": "CORINTHIANS: VALE O INVESTIMENTO?",
-    "pergunta_enquete": "Qual sua opinião: São Paulo atualiza parcial de ingressos vendidos para final do Brasileirão Feminino contra?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Feminino: São Paulo tenta quebrar recorde de público em jogo contra o Corinthians",
-     "fonte": "ABCD Jornal",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVlc4UkkxR0xDWWZWRWpDbzlfdGdtaXk3bU5fNWZiak03RGd4XzJkSkc4eFNVR2NaaWZXY3lUU21UT2NwRVoxanBGczdqeTdNZmVsWmxoWW53TG8wSjQ4SGNwbkVPYkdsd3ZYS3V5bXBKUGk0T0pLYTRHQ2hmTC1KUnBTUXdOUEdtWUNIVzNCUmg4aWVTSjZpaW9QUjh4UVY5VXZyZDZPd2Q3NDRhRHVpdmJ3RHVDUWM1aXlrRWpLS3d6OTJrUFgxTU9JTGVuaDTSAdQBQVVfeXFMT1NBWHFkX0Z3aDlMQXFySGdmRDdWdnVMSk1tWUwxXzl4ZnB0SjNNLWpZbHFqdHpTVVAtTy1YVXc2VVZ6VWFkWE5WRUNpRFg3dnFtTGVyRkdfMWQ1ME90LTBaYVU4WUFreFJGV2RNMjVyNEJwaS1HSlpEWE9zTndGTVlTaDQ5VjVfakkwSWYwODBPbXdSQVhubWxqalA5Y3dQZjVmUXhQOFBpOVdoakt0NGQ4a3lEN1ZjZ0VIOV9WcVJxYzZTUWl3SFV1NVJKNEQ2MmhPWWw?oc=5"
-    },
-    {
-     "titulo": "São Paulo x Corinthians: Final feminina pode quebrar recorde de público",
-     "fonte": "Tribuna de Jundiaí",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVHFDTkFMWkE2UjJad1VaZEpDVkhDZ0NqYm9QV1p2SVJHMEdyWHNrRVoxZ2J0NnFPaFdrOUMzN2N2ZHNWd25kVkxKYXJoc2NJTXg4QlJkekJGVUJhTVFobFNJaldBd3ZIbkw5MkNuOWE5SkE2UE45SVJBWjZudWd6MWVhXzFGYkI0SHVfUXpzTGpDSk10OGpaTWJkZzhfaTZmT2NuR2E4dnJ5WU5TWWhqNjJ5ZmtvS0tq?oc=5"
-    },
-    {
-     "titulo": "São Paulo mira recorde de público no futebol feminino com final no Morumbi",
-     "fonte": "Portal ABC do ABC",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZb3lUY242TExiWmNpMlA0aVM2Z3ktSUtQdGdSZEhETXNVTF9XcGRrTmozSVVyTm0zRHJGVHRXVXlpZkV6TExiSnY2YVJSMGFTay1vc0NOQVNSaVJwc2tQcVhaTXBUOUZsTy1CM2JB?oc=5"
-    },
-    {
-     "titulo": "Corinthians x São Paulo na final do Brasileirão Feminino: onde assistir ao vivo, horário e escalação",
-     "fonte": "Estadão",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaklxVG1jUWdZMDBuMHdKWVhnR3JES0dlckpXSUZLNjZzZU9Ga3FOZkhZOVhaamx3eV8wblM2SUxJMExUOWZuZlM2UnJrcHoyYXo3YmpyZ3NfMjF4U3lkV2pjeng1Z1FJVFprV1F5Wm1NcmN6WEJoeVdkZlB2N190LVpVUnZTYm56STkyTWJrTGlQVGFfaHhWa2E1aXlqTVNJRXI4V01DQWhxbENoX1A1Yk1BTGxwNlZLMnNmbVprREhfSXVTdG50ZDZsQ1J0amx4SldTcHBPZnFSbFdCQmFuM1N4V2FSUQ?oc=5"
-    },
-    {
-     "titulo": "Corinthians sai na frente, mas São Paulo busca virada na 1ª final do Brasileiro feminino",
-     "fonte": "Estadão",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX0labFJBSlNuMmlyWUJDOTg5OExvdXdHdWFXbzJsWXdPYTAwOXBYUzdIN1BNM1dST08tZXBvS0RKa3dvTnAwUTBNMmtYTzkxTmtTNWNnQTBTcnI2THVTVkJzV0tYVzJYdlFzMmdEMHB1MWo4Y1MyNmpHZ2I0ekc3aTMwUWY3NWdSRDBwWThyeEdScWZkNlRuS3JZdTFWSFA3MXFvMXRKSEZ6Tm5hR01JSDVPWkduUlFoMnhVaU9NQk9UYlhoU1dzYmtlb3VwR1pOOVp6VUp3?oc=5"
+     "titulo": "Bastidores: grupo tenta convencer conselheiro a disputar eleição do Corinthians",
+     "fonte": "Rádio Itatiaia",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNjJ4UXB1YWt3eUtYejFXSlpBUkx3MEpWeWJvVEpTWkI1MENILXFSTTJBX3VsY3BFNGVRd25CWGZ0a3I1bGdEOW5Vd2pSdXVCTm1JdTZ6SGdYcVBoOGR3TTM3cmNLOW4wSXZ4UXYxb0VUVzVXR0VuY2kyOWVZLUhETkRuSVY5Uk5JWGh0a2FkQ1ltZFRPVm9WUG9JOUd1S2xuUUtHUEM0dmhjaXFTN3h0QWVVZUJzeG1nSi15R0ZNSGxseFN3UnlPSWZoVFA1d0tmd1N1MXRLUnFnTDU2ZTR3alI5dmFkdW9GRkkzYmlLZFhBZFBIa0IyRlZoR1hud2s?oc=5"
     }
    ]
   }

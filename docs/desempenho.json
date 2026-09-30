@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-30T05:01:34.820082+00:00",
+ "gerado_em": "2026-09-30T16:31:14.945089+00:00",
  "canal": {
   "id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
   "nome": "NAÇÕES DA BOLA o canal de todas as torcidas",
@@ -10,7 +10,7 @@
   "fim": "2026-09-27",
   "janela_inicio": "2026-06-30"
  },
- "n_videos": 63,
+ "n_videos": 62,
  "n_videos_v7": 40,
  "mediana_v7": 132,
  "resumo_semana": {
@@ -432,7 +432,121 @@
   "Jogo e resultado": 1.056
  },
  "alcance": {
-  "sem_dados": true,
+  "impressoes": 96550,
+  "ctr": 4.7,
+  "por_formato": [
+   {
+    "nome": "Lives",
+    "impressoes": 94630,
+    "ctr": 4.7,
+    "n_videos": 41
+   }
+  ],
+  "por_tipo": [
+   {
+    "nome": "Transmissão de jogo",
+    "impressoes": 74138,
+    "ctr": 5.6,
+    "n_videos": 21
+   },
+   {
+    "nome": "Sai pro Jogo (programa)",
+    "impressoes": 3341,
+    "ctr": 2.0,
+    "n_videos": 5
+   },
+   {
+    "nome": "Resenha multitemas",
+    "impressoes": 15700,
+    "ctr": 1.7,
+    "n_videos": 12
+   }
+  ],
+  "melhores": [
+   {
+    "titulo": "NORUEGA  X  PORTUGAL - 2ª  RODADA",
+    "url": "https://www.youtube.com/watch?v=JdjD9CTWZi8",
+    "impressoes": 2418,
+    "ctr": 23.4,
+    "formato": "Lives",
+    "pct_assistido": 1.1
+   },
+   {
+    "titulo": "BOTAFOGO   X   PALMEIRAS -  26ª RODADA",
+    "url": "https://www.youtube.com/watch?v=zZz2hBFqOLA",
+    "impressoes": 4774,
+    "ctr": 9.8,
+    "formato": "Lives",
+    "pct_assistido": 1.0
+   },
+   {
+    "titulo": "NORUEGA X PORTUGAL",
+    "url": "https://www.youtube.com/watch?v=NXHprVpRKOY",
+    "impressoes": 4644,
+    "ctr": 9.3,
+    "formato": "Lives",
+    "pct_assistido": 2.5
+   },
+   {
+    "titulo": "CORINTHIANS  X  FLUMINENSE - 28ª RODADA",
+    "url": "https://www.youtube.com/watch?v=ixh02th_l_k",
+    "impressoes": 7943,
+    "ctr": 7.2,
+    "formato": "Lives",
+    "pct_assistido": 1.1
+   },
+   {
+    "titulo": "BOCA JUNIORS   X   SÃO PAULO - JOGO DE IDA",
+    "url": "https://www.youtube.com/watch?v=4ylvD1coqJg",
+    "impressoes": 11144,
+    "ctr": 6.1,
+    "formato": "Lives",
+    "pct_assistido": 0.7
+   }
+  ],
+  "piores": [
+   {
+    "titulo": "A NOVA SELEÇÃO NA TERRA DOS CANGURUS/NDB PERGUNTA; QUAL É O CRAQUE DO BR-26 ?/BATISTA SALVA O INTER?",
+    "url": "https://www.youtube.com/watch?v=__pBi2iRdIo",
+    "impressoes": 3232,
+    "ctr": 1.1,
+    "formato": "Lives",
+    "pct_assistido": 13.0
+   },
+   {
+    "titulo": "E AQUELA \"GORDURA\" VERDÃO?/PEIXÃO GRANDE VITÓRIA/ATÉ QUE ENFIM TRICOLOR/MENGÃO CHEGOU/ADEUS,MESSI",
+    "url": "https://www.youtube.com/watch?v=HPuRdmxKB-U",
+    "impressoes": 6314,
+    "ctr": 1.3,
+    "formato": "Lives",
+    "pct_assistido": 4.6
+   },
+   {
+    "titulo": "SÃO PAULO X  BOCA JUNIORS - JOGO DE VOLTA",
+    "url": "https://www.youtube.com/watch?v=rNKkY2LwHrQ",
+    "impressoes": 15410,
+    "ctr": 1.8,
+    "formato": "Lives",
+    "pct_assistido": 0.5
+   },
+   {
+    "titulo": "FLU AFUNDA TIMÃO /VERDÃO PARA NAS MÃOS DE EX/TRICOLOR BATE INTER NO SUFOCO/MENGÃO ABRE SOBRE VERDÃO",
+    "url": "https://www.youtube.com/watch?v=5G-G0JQj4rU",
+    "impressoes": 2211,
+    "ctr": 2.5,
+    "formato": "Lives",
+    "pct_assistido": 6.2
+   },
+   {
+    "titulo": "LIBERTA TEM VITÓRIAS DO VERDÃO E FLU/TIMÃO EMPATA/NA SULA, PEIXE GANHA E TRICOLOR, ÚNICA DERROTA",
+    "url": "https://www.youtube.com/watch?v=4w_Wtdv7WfU",
+    "impressoes": 2877,
+    "ctr": 2.7,
+    "formato": "Lives",
+    "pct_assistido": 4.3
+   }
+  ],
+  "n_videos": 18,
   "ativado_em": "2026-09-30T04:22:41.545419+00:00"
  },
  "monetizacao": {
@@ -759,6 +873,9 @@
   "Quem mais traz inscritos: Lives (14 nas últimas 4 semanas).",
   "Tipo de conteúdo que mais rende: Transmissão de jogo (1,9x a mediana, 19 vídeos); o que menos rende: Resenha multitemas (0,2x).",
   "Tema que mais rende: Jogo e resultado (1,2x a mediana). O radar já dá peso maior a ele.",
+  "Taxa de cliques das miniaturas: 4,7% em 96,550 impressões nas últimas 4 semanas (a maioria dos canais fica entre 2% e 10%).",
+  "Miniatura que mais atrai cliques: Transmissão de jogo (5,6%); a que menos atrai: Resenha multitemas (1,7%). Copie o estilo da primeira.",
+  "\"A NOVA SELEÇÃO NA TERRA DOS CANGURUS/NDB PERGUNTA; QUAL É O \" foi muito mostrado, mas pouco clicado (1,1%): troque a miniatura e o título (o YouTube Studio permite testar até 3 miniaturas).",
   "Maior origem de público: Página inicial e inscrições (85% das views).",
   "Melhor momento para publicar: domingo, noite (18h–24h) (mediana de views nos 7 primeiros dias)."
  ],
