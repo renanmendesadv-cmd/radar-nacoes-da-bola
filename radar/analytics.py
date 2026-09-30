@@ -688,13 +688,16 @@ def requisitos(bruto: dict, rel: dict, videos: dict) -> dict:
 
     # Atividade: o que pode tirar a monetização de quem já está no programa.
     ult = bruto.get("ultimo_envio")
+    # Atividade conta até hoje (o Analytics fecha com 3 dias de atraso, os envios não).
+    hoje = (datetime.fromisoformat(rel["gerado_em"]).astimezone(BR).date() if rel.get("gerado_em")
+            else fim + timedelta(days=3))
     if ult:
-        parado = (fim - datetime.fromisoformat(ult.replace("Z", "+00:00")).astimezone(BR).date()).days
+        parado = max(0, (hoje - datetime.fromisoformat(ult.replace("Z", "+00:00")).astimezone(BR).date()).days)
     else:
         parado = 90
     item("atividade", "Canal ativo (envios públicos)", parado, C.YPP_DIAS_INATIVIDADE, parado < C.YPP_DIAS_INATIVIDADE - 30,
          "manter a monetização",
-         (f"Último envio público há {parado} dias." if ult else "Nenhum envio público nos últimos 90 dias.") +
+         ((f"Último envio público há {parado} dias." if parado else "Último envio público: hoje.") if ult else "Nenhum envio público nos últimos 90 dias.") +
          f" Canais sem envios por {C.YPP_DIAS_INATIVIDADE // 30} meses podem ter a monetização revisada.",
          None if parado < C.YPP_DIAS_INATIVIDADE - 30 else "Publique algo (vídeo, live ou Short) para manter o canal ativo.",
          "ok" if parado < C.YPP_DIAS_INATIVIDADE - 30 else ("risco" if parado < C.YPP_DIAS_INATIVIDADE else "abaixo"))
