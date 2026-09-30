@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-30T03:15:32.897434+00:00",
+ "gerado_em": "2026-09-30T03:18:16.929034+00:00",
  "canal": {
   "id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
   "nome": "NAÇÕES DA BOLA o canal de todas as torcidas",
@@ -135,18 +135,6 @@
   }
  ],
  "clubes": [
-  {
-   "nome": "São Paulo",
-   "n_videos": 2,
-   "mediana_v7": 2021,
-   "indice": 15.25
-  },
-  {
-   "nome": "Cruzeiro",
-   "n_videos": 2,
-   "mediana_v7": 226,
-   "indice": 1.71
-  },
   {
    "nome": "Flamengo",
    "n_videos": 7,
@@ -441,13 +429,12 @@
   "Finanças e gestão": 1.0,
   "Lesão e desfalque": 1.0,
   "Seleção": 1.0,
-  "Jogo e resultado": 1.025
+  "Jogo e resultado": 1.056
  },
  "recomendacoes": [
   "Quem mais traz inscritos: Lives (14 nas últimas 4 semanas).",
   "Tipo de conteúdo que mais rende: Transmissão de jogo (1,9x a mediana, 19 vídeos); o que menos rende: Resenha multitemas (0,2x).",
   "Tema que mais rende: Jogo e resultado (1,2x a mediana). O radar já dá peso maior a ele.",
-  "Tema que menos rende: Notícia do dia (0,3x). Vale buscar outro ângulo ou formato.",
   "Maior origem de público: Página inicial e inscrições (85% das views).",
   "Melhor momento para publicar: domingo, noite (18h–24h) (mediana de views nos 7 primeiros dias)."
  ]
