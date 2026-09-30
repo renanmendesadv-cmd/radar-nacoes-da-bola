@@ -178,6 +178,14 @@ def montar_email(dados: dict, top: int, painel_url: str | None) -> tuple[str, st
     return assunto, corpo, texto
 
 
+def _variacao_txt(atual: float, antes: float) -> str:
+    if not antes:
+        return ""
+    v = 100 * (atual - antes) / antes
+    cor = VERDE if v >= 0 else "#B42318"
+    return f' <span style="color:{cor}">({"+" if v >= 0 else ""}{v:.0f}% vs. 4 semanas anteriores)</span>'
+
+
 def montar_email_raiox(rel: dict, painel_url: str | None) -> tuple[str, str, str]:
     """E-mail semanal com o desempenho do canal (YouTube Analytics)."""
     p = rel["periodo"]
@@ -217,10 +225,11 @@ def montar_email_raiox(rel: dict, painel_url: str | None) -> tuple[str, str, str
         e = m["estimativa_rs"]
         rs = lambda x: f"R$ {x:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")  # noqa: E731
         el = m["elegibilidade"]
-        status = ("O canal cumpre os requisitos do Programa de Parcerias." if el["cumpre"] else
+        status = ("Canal no Programa de Parcerias." if el.get("monetizado") else
+                  "O canal cumpre os requisitos do Programa de Parcerias." if el["cumpre"] else
                   f"Requisitos do Programa de Parcerias: {el['inscritos']:,} de {el['meta_inscritos']:,} inscritos e "
                   f"~{el['horas_12m']:,} de {el['meta_horas']:,} horas assistidas em 12 meses.".replace(",", "."))
-        if not el["cumpre"]:
+        if not el["cumpre"] and not el.get("monetizado"):
             status += (f" No ritmo atual o canal soma cerca de {el.get('horas_mes_ritmo', 0):,} h por mês; para chegar e ficar nas "
                        f"{el['meta_horas']:,} h precisa de uns {el.get('horas_mes_necessarias', 0):,} h por mês. "
                        "O valor abaixo é o que o canal receberia se já estivesse monetizado.").replace(",", ".")
@@ -230,6 +239,50 @@ def montar_email_raiox(rel: dict, painel_url: str | None) -> tuple[str, str, str
                       f'(tendência {("+" if m["tendencia_pct"] >= 0 else "")}{str(m["tendencia_pct"]).replace(".", ",")}%).</p>'
                       f'<p style="margin:0 0 6px;font:12px/1.5 Arial,sans-serif;color:{CINZA}">{_e(status)} Estimativa com RPM de referência, '
                       f'não é valor garantido; ajuste com o RPM real do YouTube Studio na aba Monetização do painel. Não inclui Super Chat nem membros.</p>')
+    real = (m or {}).get("receita_real")
+    if real:
+        rs = lambda x: f"R$ {x:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")  # noqa: E731
+        var_r = _variacao_txt(real["receita_28d"], real["receita_28d_anterior"])
+        rpm_f = ", ".join(f"{k}: {rs(v)}" for k, v in real["rpm_por_formato"].items()) or "sem dados por formato"
+        partes.append(f'<h2 {h2}>Receita real (últimas 4 semanas)</h2>'
+                      f'<p {txt}><b>{rs(real["receita_28d"])}</b>{var_r} · RPM {rs(real["rpm_geral"] or 0)} a cada mil views '
+                      f'({_e(rpm_f)}) · CPM {rs(real["cpm"])} · {str(real["pct_monetizadas"] or 0).replace(".", ",")}% das views com anúncio.</p>'
+                      f'<p {txt}>Próximos 30 dias, com o RPM real do canal: <b>{rs(real["estimativa_30d"])}</b>.</p>')
+        partes.append(tabela("Vídeos que mais renderam", ["Vídeo", "Receita", "Views"],
+                             [[_e(v["titulo"][:70]), rs(v["receita"]), _n(v["views"])] for v in real["top_videos"]]))
+    a = rel.get("alcance") or {}
+    if a.get("ctr"):
+        partes.append(f'<h2 {h2}>Miniaturas: impressões e cliques</h2>'
+                      f'<p {txt}>{_n(a["impressoes"])} impressões, <b>{str(a["ctr"]).replace(".", ",")}% de cliques</b> (a maioria dos canais fica entre 2% e 10%).</p>')
+        partes.append(tabela("Cliques por tipo de conteúdo", ["Tipo", "Vídeos", "Impressões", "CTR"],
+                             [[_e(t["nome"]), t["n_videos"], _n(t["impressoes"]), f'{str(t["ctr"]).replace(".", ",")}%'] for t in a.get("por_tipo", [])]))
+        partes.append(tabela("Muito mostrados, pouco clicados (troque miniatura e título)", ["Vídeo", "Impressões", "CTR"],
+                             [[f'<a href="{_e(v["url"])}" style="color:{VERDE}">{_e(v["titulo"][:70])}</a>', _n(v["impressoes"]),
+                               f'{str(v["ctr"]).replace(".", ",")}%'] for v in a.get("piores", [])]))
+    elif a.get("sem_dados"):
+        partes.append(f'<p style="margin:12px 0 0;font:12px/1.5 Arial,sans-serif;color:{CINZA}">Impressões e cliques das miniaturas: relatório ativado; '
+                      'o YouTube entrega os primeiros dados em até 48 h.</p>')
+    elif a.get("erro"):
+        partes.append(f'<p style="margin:12px 0 0;font:12px/1.5 Arial,sans-serif;color:#B42318">Impressões e cliques das miniaturas: {_e(a["erro"])}.</p>')
+    pub = rel.get("publico") or {}
+    if pub:
+        def lista_pct(itens, chave):
+            return ", ".join(f'{_e(x[chave])} {str(x["pct"]).replace(".", ",")}%' for x in itens)
+        linhas_p = []
+        if pub.get("idades"):
+            linhas_p.append(f'<b>Idade:</b> {lista_pct(pub["idades"], "faixa")}')
+        if pub.get("generos"):
+            linhas_p.append(f'<b>Gênero:</b> {lista_pct(pub["generos"], "genero")}')
+        if pub.get("paises"):
+            linhas_p.append(f'<b>Países:</b> {lista_pct(pub["paises"], "nome")}')
+        if pub.get("aparelhos"):
+            linhas_p.append(f'<b>Aparelhos:</b> {lista_pct(pub["aparelhos"], "nome")}')
+        if pub.get("inscritos_x_nao"):
+            linhas_p.append(f'<b>Quem assiste:</b> {lista_pct(pub["inscritos_x_nao"], "nome")}')
+        partes.append(f'<h2 {h2}>Perfil do público (para patrocinadores)</h2>'
+                      f'<p style="margin:0 0 6px;font:12px/1.5 Arial,sans-serif;color:{CINZA}">Últimos 90 dias, dados agregados do YouTube. '
+                      f'Junto com inscritos e views, é o que uma marca pede para fechar patrocínio. Não vai para o painel público.</p>'
+                      f'<p {txt}>{"<br>".join(linhas_p)}</p>')
     partes.append(tabela("Formatos que rendem (últimas 4 semanas)", ["Formato", "% das views", "Inscritos", "Views em 7 dias (mediana)", "vs. canal"],
                          [[_e(f["formato"]), f'{f.get("pct_views", 0):.0f}%', f.get("inscritos", "—"), _n(f["mediana_v7"]), ind(f["indice"])]
                           for f in rel["formatos"]]))

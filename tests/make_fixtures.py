@@ -150,7 +150,31 @@ def _analytics():
                          {"creatorContentType": "videoOnDemand", "views": 200000, "estimatedMinutesWatched": 150000},
                          {"creatorContentType": "liveStream", "views": 80000, "estimatedMinutesWatched": 180000}],
         "shorts90": [{"creatorContentType": "shorts", "views": 150000}],
+        "publico": {
+            "idade_genero": [{"ageGroup": "age18-24", "gender": "male", "viewerPercentage": 20},
+                             {"ageGroup": "age25-34", "gender": "male", "viewerPercentage": 45},
+                             {"ageGroup": "age35-44", "gender": "male", "viewerPercentage": 25},
+                             {"ageGroup": "age25-34", "gender": "female", "viewerPercentage": 10}],
+            "paises": [{"country": "BR", "views": 9000, "estimatedMinutesWatched": 1}, {"country": "PT", "views": 1000, "estimatedMinutesWatched": 1}],
+            "aparelhos": [{"deviceType": "MOBILE", "views": 7000, "estimatedMinutesWatched": 1}, {"deviceType": "TV", "views": 3000, "estimatedMinutesWatched": 1}],
+            "inscritos_x_nao": [{"subscribedStatus": "SUBSCRIBED", "views": 8000, "estimatedMinutesWatched": 1},
+                                {"subscribedStatus": "UNSUBSCRIBED", "views": 2000, "estimatedMinutesWatched": 1}],
+        },
+        "receita": {
+            "total": [{"estimatedRevenue": 300.0, "estimatedAdRevenue": 250.0, "cpm": 9.5, "playbackBasedCpm": 8.0,
+                       "adImpressions": 40000, "monetizedPlaybacks": 30000, "views": 100000}],
+            "por_video": [{"video": f"canal{i:06d}", "estimatedRevenue": 10.0 + i, "views": 5000} for i in range(12)],
+            "mes_anterior": [{"estimatedRevenue": 240.0, "views": 90000}],
+        },
     }
+
+
+def _alcance():
+    """Histórico fictício do relatório de alcance: CTR maior em Shorts, menor nas lives do programa."""
+    ctr = {0: .04, 1: .04, 2: .04, 3: .08, 4: .08, 5: .08, 6: .02, 7: .02, 8: .02, 9: .04, 10: .04, 11: .04,
+           12: .03, 13: .01, 14: .01, 15: .01}
+    return {"ativado_em": "2026-09-01T00:00:00+00:00",
+            "dias": {"2026-09-15": {f"canal{i:06d}": [5000, 5000 * c] for i, c in ctr.items()}}}
 
 
 def _item(titulo, fonte, horas):
@@ -180,6 +204,7 @@ def gerar():
     (PASTA / "sugestoes.json").write_text(json.dumps(SUGESTOES, ensure_ascii=False), "utf-8")
     (PASTA / "youtube.json").write_text(json.dumps(YOUTUBE, ensure_ascii=False), "utf-8")
     (PASTA / "analytics.json").write_text(json.dumps(_analytics(), ensure_ascii=False), "utf-8")
+    (PASTA / "alcance.json").write_text(json.dumps(_alcance(), ensure_ascii=False), "utf-8")
     entries = "".join(
         f"<entry><title>{escape(t)}</title><link rel=\"alternate\" href=\"https://www.youtube.com/@nacoesdabola\"/>"
         f"<published>{(AGORA - timedelta(hours=h)).isoformat()}</published></entry>" for t, h in CANAL)

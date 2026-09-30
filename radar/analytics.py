@@ -33,6 +33,9 @@ log = logging.getLogger("radar")
 
 ESCOPOS = ["https://www.googleapis.com/auth/yt-analytics.readonly",
            "https://www.googleapis.com/auth/youtube.readonly"]
+# Opcional: receita real (RPM, CPM, receita por vídeo). Só funciona se o dono do canal autorizar
+# também este escopo; sem ele, o radar segue com o RPM de referência.
+ESCOPO_RECEITA = "https://www.googleapis.com/auth/yt-analytics-monetary.readonly"
 TOKEN_URL = "https://oauth2.googleapis.com/token"
 DATA = "https://www.googleapis.com/youtube/v3"
 REPORTS = "https://youtubeanalytics.googleapis.com/v2/reports"
@@ -214,6 +217,34 @@ def coletar(cli: Cliente, agora: datetime) -> dict:
         except ErroAnalytics as e:
             log.info("Retenção indisponível para %s: %s", vid, e)
     bruto["retencao"] = ret
+    # Perfil do público (para patrocinadores). Só vai no e-mail, nunca no painel público.
+    publico = {}
+    for nome, metr, extra in [
+        ("idade_genero", "viewerPercentage", {"dimensions": "ageGroup,gender"}),
+        ("paises", "views,estimatedMinutesWatched", {"dimensions": "country", "sort": "-views", "maxResults": 10}),
+        ("aparelhos", "views,estimatedMinutesWatched", {"dimensions": "deviceType", "sort": "-views"}),
+        ("inscritos_x_nao", "views,estimatedMinutesWatched", {"dimensions": "subscribedStatus"}),
+    ]:
+        try:
+            publico[nome] = cli.relatorio(fim - timedelta(days=89), fim, metr, **extra)
+        except ErroAnalytics as e:
+            log.info("Analytics sem %s (%s).", nome, e)
+    bruto["publico"] = publico
+
+    # Receita real: precisa do escopo yt-analytics-monetary.readonly. Sem ele o YouTube responde 403.
+    metr_rec = "estimatedRevenue,estimatedAdRevenue,cpm,playbackBasedCpm,adImpressions,monetizedPlaybacks"
+    try:
+        bruto["receita"] = {
+            "total": cli.relatorio(ini28, fim, metr_rec + ",views", currency="BRL"),
+            "por_video": cli.relatorio(ini28, fim, "estimatedRevenue,views", dimensions="video",
+                                       sort="-estimatedRevenue", maxResults=50, currency="BRL"),
+            "mes_anterior": cli.relatorio(ini28 - timedelta(days=28), ini28 - timedelta(days=1),
+                                          "estimatedRevenue,views", currency="BRL"),
+        }
+    except ErroAnalytics as e:
+        bruto["receita"] = None
+        log.info("Receita real indisponível (%s). Usando RPM de referência.",
+                 "falta autorizar o escopo de receita" if "403" in str(e) else e)
     return bruto
 
 
@@ -305,7 +336,8 @@ def _fatores(grupos: dict[str, list[float]], mediana_geral: float, anteriores: d
     return fatores
 
 
-def analisar(bruto: dict, fatores_anteriores: dict | None = None, gerado_em: str | None = None) -> dict:
+def analisar(bruto: dict, fatores_anteriores: dict | None = None, gerado_em: str | None = None,
+             alcance_hist: dict | None = None, alcance_erro: str | None = None) -> dict:
     videos = {v["id"]: dict(v) for v in bruto["videos"]}
     for vid, v in videos.items():
         v["formato"] = formato_do_video(v)
@@ -435,7 +467,13 @@ def analisar(bruto: dict, fatores_anteriores: dict | None = None, gerado_em: str
                     "v7": v["v7"], "publicado": v["publicado_br"]} for v in top_v7],
         "fatores_categoria": fatores,
     }
-    rel["monetizacao"] = monetizacao(bruto, rel)
+    rel["publico"] = resumo_publico(bruto.get("publico") or {})
+    if alcance_hist is not None:
+        from . import alcance
+        rel["alcance"] = alcance.resumo(alcance_hist, videos, bruto["periodo"]["fim"], tipo_do_video, lambda v: v["formato"])
+    elif alcance_erro:
+        rel["alcance"] = {"erro": alcance_erro}
+    rel["monetizacao"] = monetizacao(bruto, rel, videos)
     rel["recomendacoes"] = recomendacoes(rel)
     return rel
 
@@ -453,7 +491,37 @@ def _tendencia(dias: list[dict]) -> float:
     return max(-0.3, min(0.3, variacao))
 
 
-def monetizacao(bruto: dict, rel: dict) -> dict:
+IDADES = {"age13-17": "13–17", "age18-24": "18–24", "age25-34": "25–34", "age35-44": "35–44",
+          "age45-54": "45–54", "age55-64": "55–64", "age65-": "65+"}
+GENEROS = {"male": "homens", "female": "mulheres", "user_specified": "outro"}
+APARELHOS = {"MOBILE": "celular", "DESKTOP": "computador", "TV": "TV", "TABLET": "tablet", "GAME_CONSOLE": "videogame"}
+
+
+def resumo_publico(p: dict) -> dict:
+    """Perfil do público dos últimos 90 dias: idade, gênero, países, aparelhos, inscritos."""
+    out = {}
+    ig = p.get("idade_genero") or []
+    if ig:
+        idades, generos = defaultdict(float), defaultdict(float)
+        for r in ig:
+            idades[IDADES.get(r["ageGroup"], r["ageGroup"])] += float(r["viewerPercentage"])
+            generos[GENEROS.get(r["gender"], r["gender"])] += float(r["viewerPercentage"])
+        out["idades"] = [{"faixa": k, "pct": round(v, 1)} for k, v in sorted(idades.items())]
+        out["generos"] = [{"genero": k, "pct": round(v, 1)} for k, v in sorted(generos.items(), key=lambda kv: -kv[1])]
+    def partes(linhas, chave, nomes=None):
+        tot = sum(float(r["views"]) for r in linhas) or 1
+        return [{"nome": (nomes or {}).get(r[chave], r[chave]), "pct": round(100 * float(r["views"]) / tot, 1)} for r in linhas]
+    if p.get("paises"):
+        out["paises"] = partes(p["paises"], "country")[:6]
+    if p.get("aparelhos"):
+        out["aparelhos"] = partes(p["aparelhos"], "deviceType", APARELHOS)
+    if p.get("inscritos_x_nao"):
+        nomes = {"SUBSCRIBED": "inscritos", "UNSUBSCRIBED": "não inscritos"}
+        out["inscritos_x_nao"] = partes(p["inscritos_x_nao"], "subscribedStatus", nomes)
+    return out
+
+
+def monetizacao(bruto: dict, rel: dict, videos: dict | None = None) -> dict:
     """Base para a estimativa de 30 dias: views previstas por formato + elegibilidade ao Programa de Parcerias.
     Os reais saem no painel (aba Monetização), onde o RPM pode ser ajustado."""
     fmts = {f["formato"]: f for f in rel["formatos"]}
@@ -476,18 +544,51 @@ def monetizacao(bruto: dict, rel: dict) -> dict:
         horas = sum(float(f["estimatedMinutesWatched"]) for f in bruto.get("ano_total") or []) / 60
         shorts90 = None
     inscritos = rel["canal"].get("inscritos", 0)
+    # Receita real (se o escopo de receita foi autorizado): RPM real por formato substitui a referência.
+    real = None
+    rec = bruto.get("receita")
+    if rec and rec.get("total"):
+        t = rec["total"][0]
+        receita28 = float(t.get("estimatedRevenue") or 0)
+        views_t = float(t.get("views") or 0) or total28
+        rpm_fmt = {}
+        por_fmt = defaultdict(lambda: [0.0, 0.0])
+        for r in rec.get("por_video") or []:
+            v = (videos or {}).get(r["video"])
+            f = v["formato"] if v else None
+            if f:
+                por_fmt[f][0] += float(r["estimatedRevenue"] or 0)
+                por_fmt[f][1] += float(r["views"] or 0)
+        for f, (rs, vw) in por_fmt.items():
+            if vw >= 500:
+                rpm_fmt[f] = round(1000 * rs / vw, 2)
+        rpm_geral = round(1000 * receita28 / views_t, 2) if views_t else None
+        ant = float((rec.get("mes_anterior") or [{}])[0].get("estimatedRevenue") or 0)
+        real = {"receita_28d": round(receita28, 2), "receita_28d_anterior": round(ant, 2),
+                "rpm_geral": rpm_geral, "rpm_por_formato": rpm_fmt,
+                "cpm": round(float(t.get("cpm") or 0), 2), "cpm_por_reproducao": round(float(t.get("playbackBasedCpm") or 0), 2),
+                "impressoes_anuncio": int(float(t.get("adImpressions") or 0)),
+                "reproducoes_monetizadas": int(float(t.get("monetizedPlaybacks") or 0)),
+                "pct_monetizadas": round(100 * float(t.get("monetizedPlaybacks") or 0) / views_t, 1) if views_t else None,
+                "top_videos": [{"titulo": (videos or {}).get(r["video"], {}).get("titulo", r["video"]),
+                                "receita": round(float(r["estimatedRevenue"] or 0), 2), "views": int(float(r["views"] or 0))}
+                               for r in (rec.get("por_video") or [])[:5]]}
+        rpm_usado = {f: (rpm_fmt.get(f) or rpm_geral or C.RPM_REFERENCIA[f][1]) for f in C.RPM_REFERENCIA}
+        real["estimativa_30d"] = round(sum(previsao[f] / 1000 * rpm_usado[f] for f in previsao), 2)
     # Ritmo de horas: a janela de 12 meses é móvel; para chegar a 4.000 h e ficar, o canal precisa
     # manter cerca de 333 h por mês (Shorts não contam).
     min28 = sum(float(f.get("minutos") or 0) for f in rel["formatos"] if f["formato"] != "Shorts")
     ritmo = round(min28 / 60 / 28 * 30)
     return {
+        "receita_real": real,
         "views_28d": round(total28), "media_diaria": round(total28 / 28), "tendencia_pct": round(100 * tend, 1),
         "previsao_views_30d": previsao, "rpm_referencia": C.RPM_REFERENCIA, "estimativa_rs": cenarios,
         "serie_diaria": [{"dia": d["day"], "views": int(float(d["views"]))} for d in dias],
         "elegibilidade": {"inscritos": inscritos, "horas_12m": round(horas), "shorts_90d": round(shorts90) if shorts90 is not None else None,
                           "meta_inscritos": C.YPP_INSCRITOS, "meta_horas": C.YPP_HORAS_12M, "meta_shorts": C.YPP_SHORTS_90D,
                           "horas_mes_ritmo": ritmo, "horas_mes_necessarias": round(C.YPP_HORAS_12M / 12),
-                          "cumpre": inscritos >= C.YPP_INSCRITOS and (horas >= C.YPP_HORAS_12M or (shorts90 or 0) >= C.YPP_SHORTS_90D)},
+                          "monetizado": C.CANAL_MONETIZADO,
+                          "cumpre": C.CANAL_MONETIZADO or inscritos >= C.YPP_INSCRITOS and (horas >= C.YPP_HORAS_12M or (shorts90 or 0) >= C.YPP_SHORTS_90D)},
     }
 
 
@@ -521,6 +622,18 @@ def recomendacoes(rel: dict) -> list[str]:
     if cedo:
         r.append(f"Em {len(cedo)} de {len(rel['retencao'])} vídeos longos, mais de 40% sai antes dos 30 s: "
                  "comece pelo lance ou pela opinião forte, sem introdução.")
+    a = rel.get("alcance") or {}
+    if a.get("ctr"):
+        r.append(f"Taxa de cliques das miniaturas: {a['ctr']:.1f}% em {a['impressoes']:,} impressões nas últimas 4 semanas "
+                 "(a maioria dos canais fica entre 2% e 10%).".replace(",", "."))
+        tipos_ctr = [t for t in a.get("por_tipo") or [] if t["nome"] != "Outros"]
+        if len(tipos_ctr) >= 2:
+            r.append(f"Miniatura que mais atrai cliques: {tipos_ctr[0]['nome']} ({tipos_ctr[0]['ctr']:.1f}%); "
+                     f"a que menos atrai: {tipos_ctr[-1]['nome']} ({tipos_ctr[-1]['ctr']:.1f}%). Copie o estilo da primeira.")
+        baixos = [x for x in a.get("piores", []) if x["ctr"] < 0.7 * a["ctr"] and (x.get("pct_assistido") or 0) > 0]
+        if baixos:
+            r.append(f"\"{baixos[0]['titulo'][:60]}\" foi muito mostrado, mas pouco clicado ({baixos[0]['ctr']:.1f}%): "
+                     "troque a miniatura e o título (o YouTube Studio permite testar até 3 miniaturas).")
     if rel["trafego"]:
         o = rel["trafego"][0]
         r.append(f"Maior origem de público: {o['origem']} ({o['pct']:.0f}% das views).")

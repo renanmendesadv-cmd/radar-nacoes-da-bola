@@ -146,8 +146,30 @@ pedidos são `youtube.readonly` e `yt-analytics.readonly`.
 **Se o Raio-X parar** (erro código 3 no Actions, com "invalid_grant" no log): a autorização foi revogada, o app voltou para
 *Teste* ou ficou 6 meses sem uso. Repita a Parte B e atualize o Secret `YT_REFRESH_TOKEN`.
 
+### Impressões e cliques das miniaturas (uma vez, 1 minuto)
+
+No projeto `Radar Nacoes da Bola` do Google Cloud, abra a biblioteca de APIs, procure **YouTube Reporting API** e clique em
+**Ativar** (https://console.cloud.google.com/apis/library/youtubereporting.googleapis.com?project=radar-nacoes-da-bola).
+Não precisa de novo login. Na execução seguinte o radar ativa o relatório `channel_reach_basic_a1` no canal; o YouTube entrega os
+30 dias anteriores e depois um arquivo por dia, em até 48 h. Cada arquivo só fica disponível por 60 dias, por isso o radar guarda o
+resumo em `data/alcance.json`.
+
+### Receita real (opcional, novo login do dono do canal)
+
+Troca o RPM de referência pelo RPM real e mostra receita por vídeo e por formato, **só no e-mail** (o painel é público).
+1. Google Cloud > **Google Auth Platform > Acesso a dados > Adicionar ou remover escopos**: adicione
+   `https://www.googleapis.com/auth/yt-analytics-monetary.readonly` > Atualizar > **Salvar**.
+2. Repita a Parte B do Raio-X com os **três** escopos:
+   ```
+   https://www.googleapis.com/auth/youtube.readonly https://www.googleapis.com/auth/yt-analytics.readonly https://www.googleapis.com/auth/yt-analytics-monetary.readonly
+   ```
+3. Substitua o Secret `YT_REFRESH_TOKEN` pelo novo token (o antigo deixa de ser necessário).
+
+Sem esse passo, tudo funciona com o RPM de referência.
+
 ### Privacidade do Raio-X
 
+O **perfil do público** (idade, gênero, países) e a **receita real** vão só no e-mail, nunca no painel.
 Este repositório é **público**, e o painel também. Com o Raio-X ligado, `docs/desempenho.json` publica números que o YouTube
 só mostra ao dono do canal (retenção, origens de tráfego, inscritos por vídeo). Não há dado pessoal de espectadores, mas um
 concorrente poderia ver a estratégia do canal. Para mandar o Raio-X só por e-mail: *Settings > Secrets and variables > Actions >

@@ -185,3 +185,7 @@ RPM_REFERENCIA = {             # (pessimista, provável, otimista)
 }
 # Programa de Parcerias do YouTube (monetização por anúncios).
 YPP_INSCRITOS, YPP_HORAS_12M, YPP_SHORTS_90D = 1_000, 4_000, 10_000_000
+
+# O canal já está no Programa de Parcerias (informado pelo dono). Os requisitos de entrada
+# (4.000 h / 10 mi de views em Shorts) não se aplicam a quem já foi aprovado.
+CANAL_MONETIZADO = True

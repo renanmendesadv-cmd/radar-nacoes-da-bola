@@ -29,7 +29,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from . import agenda, analytics, buscas, collect, config as C, report, score, tendencias, youtube
+from . import agenda, alcance, analytics, buscas, collect, config as C, report, score, tendencias, youtube
 
 RAIZ = Path(__file__).resolve().parent.parent
 
@@ -75,7 +75,7 @@ def main() -> int:
     # ajusta os pesos das categorias e manda o e-mail. Roda antes das pautas para que os pesos
     # novos já valham no mesmo dia.
     semanal = _dia_de_raiox(local, estado)
-    raiox, erro_raiox = _raiox(agora, aprendidos.get("categorias", {}), fixtures)
+    raiox, erro_raiox = _raiox(agora, aprendidos.get("categorias", {}), fixtures, DADOS)
     if raiox:
         if semanal:
             aprendidos = {"atualizado_em": agora.isoformat(), "base_videos": raiox["n_videos_v7"],
@@ -89,7 +89,11 @@ def main() -> int:
         raiox["pesos_ajustados_em"] = aprendidos.get("atualizado_em")
         DOCS.mkdir(parents=True, exist_ok=True)
         publico = os.environ.get("RAIOX_PAINEL", "1") != "0"
-        (DOCS / "desempenho.json").write_text(json.dumps(raiox if publico else {"oculto": True, "gerado_em": raiox["gerado_em"]},
+        # Perfil do público e receita real ficam só no e-mail (o painel é público).
+        rel_publico = {k: v for k, v in raiox.items() if k != "publico"}
+        rel_publico["monetizacao"] = {k: v for k, v in raiox["monetizacao"].items() if k != "receita_real"}
+        rel_publico["monetizacao"]["tem_receita_real"] = bool(raiox["monetizacao"].get("receita_real"))
+        (DOCS / "desempenho.json").write_text(json.dumps(rel_publico if publico else {"oculto": True, "gerado_em": raiox["gerado_em"]},
                                                          ensure_ascii=False, indent=1), "utf-8")
     fatores = aprendidos.get("categorias", {})
 
@@ -216,7 +220,8 @@ def _dia_de_raiox(local: datetime, estado: dict) -> bool:
     return local.weekday() == C.RAIOX_DIA_SEMANA and estado.get("ultimo_raiox") != local.date().isoformat()
 
 
-def _raiox(agora: datetime, fatores_anteriores: dict, fixtures: str | None) -> tuple[dict | None, str | None]:
+def _raiox(agora: datetime, fatores_anteriores: dict, fixtures: str | None,
+           dados_dir: Path | None = None) -> tuple[dict | None, str | None]:
     """Devolve (relatório, erro). Sem credenciais: (None, None), o radar diário segue normal."""
     try:
         if fixtures:
@@ -224,14 +229,23 @@ def _raiox(agora: datetime, fatores_anteriores: dict, fixtures: str | None) -> t
             if not arq.exists():
                 return None, None
             bruto = json.loads(arq.read_text("utf-8"))
+            arq_alc = Path(fixtures) / "alcance.json"
+            hist = json.loads(arq_alc.read_text("utf-8")) if arq_alc.exists() else None
+            erro_alc = None
         else:
             cid, sec, ref = (os.environ.get(k) for k in ("YT_CLIENT_ID", "YT_CLIENT_SECRET", "YT_REFRESH_TOKEN"))
             if not (cid and sec and ref):
                 log.info("Raio-X do canal: credenciais OAuth ausentes; pulando (veja o README).")
                 return None, None
-            cli = analytics.Cliente(analytics.token_de_acesso(cid, sec, ref))
-            bruto = analytics.coletar(cli, agora)
-        rel = analytics.analisar(bruto, fatores_anteriores, agora.isoformat())
+            token = analytics.token_de_acesso(cid, sec, ref)
+            bruto = analytics.coletar(analytics.Cliente(token), agora)
+            hist, erro_alc = None, None
+            try:
+                hist = alcance.atualizar(token, (dados_dir or RAIZ / "data") / "alcance.json", agora)
+            except alcance.ErroAlcance as e:  # impressões são um extra: nunca derrubam o Raio-X
+                erro_alc = str(e)
+                log.warning("Alcance (impressões e CTR): %s", e)
+        rel = analytics.analisar(bruto, fatores_anteriores, agora.isoformat(), hist, erro_alc)
         log.info("Raio-X: %d vídeos analisados; fatores %s", rel["n_videos_v7"], rel["fatores_categoria"])
         return rel, None
     except Exception as e:  # noqa: BLE001 - o Raio-X nunca derruba as pautas do dia

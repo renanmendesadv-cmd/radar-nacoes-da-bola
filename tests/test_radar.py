@@ -436,3 +436,28 @@ def test_linha_de_base_exige_amostra(tmp_path):
     em_alta = [_video(9, 900000, 2, 50000, titulo="Flamengo vence clássico com golaço") for _ in range(30)]
     assert tendencias.detectar(poucos, em_alta, AGORA, tmp_path / "b.json", {}) == []
     assert json.loads((tmp_path / "b.json").read_text("utf-8")) == {}
+
+
+def test_alcance_publico_e_receita(tmp_path):
+    r, d = _rodar(tmp_path, RAIOX="1")
+    assert r.returncode == 0, r.stderr
+    rel = json.loads((tmp_path / "docs" / "desempenho.json").read_text("utf-8"))
+    a = rel["alcance"]
+    assert a["impressoes"] == 80000 and 3 < a["ctr"] < 4
+    assert a["por_tipo"][0]["ctr"] > a["por_tipo"][-1]["ctr"]
+    assert any("Taxa de cliques" in x for x in rel["recomendacoes"])
+    # Dados privados não vão para o painel público.
+    assert "publico" not in rel and "receita_real" not in rel["monetizacao"]
+    assert rel["monetizacao"]["tem_receita_real"] is True and rel["monetizacao"]["elegibilidade"]["monetizado"] is True
+    html = (tmp_path / "data" / "ultimo-raiox.html").read_text("utf-8")
+    assert "Perfil do público" in html and "25–34" in html and "Receita real" in html
+    assert "Miniaturas: impressões e cliques" in html
+
+
+def test_ler_csv_do_alcance():
+    from radar import alcance
+    cab = "date,channel_id,video_id,country_code,video_thumbnail_impressions,video_thumbnail_impressions_ctr\n"
+    fracao = alcance.ler_csv(cab + "20260915,UC1,v1,BR,1000,0.05\n20260915,UC1,v1,PT,1000,0.03\n")
+    assert fracao == {"2026-09-15": {"v1": [2000, 80.0]}}
+    pct = alcance.ler_csv(cab + "20260915,UC1,v1,BR,1000,5.0\n")
+    assert pct == {"2026-09-15": {"v1": [1000, 50.0]}}
