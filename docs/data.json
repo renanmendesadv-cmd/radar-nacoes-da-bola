@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-09-30T03:49:10.234918+00:00",
- "data_br": "30/09/2026 00:49",
+ "gerado_em": "2026-09-30T03:51:49.396162+00:00",
+ "data_br": "30/09/2026 00:51",
  "status": {
   "Google Trends": 10,
   "Google News": 981,
@@ -196,7 +196,7 @@
    "termos_trends": [],
    "n_fontes": 9,
    "n_manchetes": 10,
-   "assinatura": "flame|arras|quart|punho",
+   "assinatura": "flame|arras|quart|nesta",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 2 min)",
@@ -286,7 +286,7 @@
    "termos_trends": [],
    "n_fontes": 11,
    "n_manchetes": 14,
-   "assinatura": "santo|paulo|class|potir",
+   "assinatura": "santo|paulo|class|naty",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
@@ -409,59 +409,59 @@
    ]
   },
   {
-   "tema": "Flamengo aciona STF e reforça ação das bets contra proibição do governo",
-   "categoria": "Finanças e gestão",
+   "tema": "Lesão de Arrascaeta pelo Uruguai pode render indenização ao Flamengo pela Fifa",
+   "categoria": "Lesão e desfalque",
    "clubes": [
     "Flamengo"
    ],
    "foco": true,
    "nota": 60.4,
    "sinais": {
-    "busca": 0,
-    "aceleracao": 71,
-    "midia": 96,
+    "busca": 60,
+    "aceleracao": 25,
+    "midia": 75,
     "aderencia": 100,
     "youtube": null
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": null,
+   "busca_torcedor": "arrascaeta flamengo",
    "termos_trends": [],
-   "n_fontes": 9,
-   "n_manchetes": 9,
-   "assinatura": "flame|bets|stf|refor",
+   "n_fontes": 5,
+   "n_manchetes": 5,
+   "assinatura": "flame|arras|fifa|lesao",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "O buraco no Flamengo é maior do que parece. Eu explico em 2 minutos.",
-    "titulo_thumb": "FLAMENGO: A CONTA CHEGOU",
-    "pergunta_enquete": "Qual sua opinião: Flamengo aciona STF e reforça ação das bets contra proibição do governo?"
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "Esse desfalque muda tudo para o Flamengo nos próximos jogos.",
+    "titulo_thumb": "FLAMENGO SEM ELE: E AGORA?",
+    "pergunta_enquete": "Qual sua opinião: Lesão de Arrascaeta pelo Uruguai pode render indenização ao Flamengo pela Fifa?"
    },
    "manchetes": [
     {
-     "titulo": "Flamengo recorre ao STF contra medida que proíbe bets e cita patrocínio de R$ 268,5 milhões",
-     "fonte": "Brasil 247",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT2NBMURXNTZiOGtzdzZIb21TR0VHalQtZmRGR3FuUHJFOHR2cllhOXZLSzF5YlQ2eVpBbGU0ZkszdFBnYmVBbVpCakYweHlSYnd0MDhUdVQ1dUhKVWxVbnZWdXZqcWJ5Q0RKdldhU0o3ZkRFUUlUcWl1VjRiZ1g3MjJBTkRjNkJZZW43dDlfZm9hUnRkYXM3TzVjRlpacngxbUJ4MzlQX01EaXRKQTgzMVJMZ0gwNlRqS3ZwdTVleVlfUQ?oc=5"
+     "titulo": "Lesão de Arrascaeta vai render indenização para o Flamengo? Entenda",
+     "fonte": "Exame",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3FMZUFFOVJPakNRaHVUaWIzYUc3bUZidnpiTDNwYks1ZVYzQzJLclN5eW1FYVdKUzVBbmw5V0RNZy1rVGtSWFM4V1EtazZrYkpQazUzM3l4eHpWQXNaWUpQakRrYnZ4Z0J2Rng1NTBmN3JReW1YQXp2bVNhRDZfMGtoTzhBTUI0YTVjQmFSZVh2RnFIeWYwVA?oc=5"
     },
     {
-     "titulo": "Flamengo pede ao STF para ingressar em ação contra o fim das bets",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV3FjUWFMTW1XWGFuS3h4SUNhcXkzZXVFS0Rmd1lmNW5UcEZMM3I5R3doRHE1T0J4a1o2S05ScDVUT3A1a0R5UmVzaV9jU2QyOTREYXRhWlNxb2lWYnF1U216YXZucWtzZTZZSTZISXVaT0tXV2lUeVlsX0JvNDRkRGpOT3JqN3hBeGw5NjF6R2RBSUZYMXNTSFdzN1RLUlhhOVpmelJHWVhNMHUyU2xCMUEyZlk3dmJmWUdWZWNVbHNBTmYxSl92cUdDOUROS2pGQnFJNzUyNS1jalhQUnRhZUtkR1UzQ1hvV2c?oc=5"
+     "titulo": "Lesão de Arrascaeta pelo Uruguai pode render indenização ao Flamengo pela Fifa",
+     "fonte": "Goal.com",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZEN0SjZ6dkpfU1lkaTF4SWhiQnNxTWltTmhoWGM0WkEtMkx6T3pyZlF2TkxwRzM5RkYwQ0x2Zk9SekI4alhQNTdQNzdrcnNvcGVaTkpzalJycFJtQW1QWlNWeFBYYkFTM2p1VVhaU0FqTFk2TFB1LUdzZS1tYnlCZ2NvcVBwdlFmS1VNTVhlTUx6QUFiempPNVZEenpaRmhFTG5hVVphMFhLOWpXN0F1TGJuMzlCc3ZjNHZ3QTJDclczWFdQa0RNU3piWUlUMk5VeUE?oc=5"
     },
     {
-     "titulo": "Flamengo pede ao STF para entrar em ação contra veto às bets",
-     "fonte": "esporte.ig.com.br",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQU5XUUVJcVBNRDhVc0ZULTd4UUg5OXZsbGZla0ltdGV1X3YyZnpSOEd2ZXFHcDBEQlN0bUJ0TFNpX2ozeXZESFE3Ry1GdEh0NGk5VVBKUVBFbEJmcmFJamFzaG9fVWhwVjFxSGxFSEUtREllU21GWElwTERaT3FaelBycHE2bFZvUXpMTDNfY3hDUC1YeEU5TUIwUkNnUU5PaktNeU96Y0prV21RRkFKZElaRjZYcHVwbVlTYmFB0gHDAUFVX3lxTE9nREk2VXlweExwdF93LWMyRk9uQ29rc2ZvLUp1X21YbzlyMFNoc2NzTHV2UzUtRjFjOVp2SS1UbWtzZm5tMnBLaTVCTzFTLU9rbWNaUXV3ZHplVzlpOEtyM2JQMFl2LU0wWHEtRVdPNkYwQkhSVWxIb1JRM3B2azY2aWZZZHZWQVdmV1UxTWNfMFR4eGhZbW1yVjQ1Ym1pSEJ1c0dzek5TQjBEbUVMM0laRDZxeUlja2NBU081Wi1Ha2o2RQ?oc=5"
-    },
-    {
-     "titulo": "Flamengo entra com petição contra veto às bets no STF",
-     "fonte": "O Dia",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZURDQUl3RHl4VG83YmVRU0N5cDJQT2dBdS1fYWVSb0tQOXlIemtVVVM0MDhnQXlRNTNSS1UzbVJhWTZJd0FwdFE2aFhzMEQtdXczd25mUEtzbXNqRC1uY1o1VFdlN2prZjRrMUs1eWhWQm9lRHNRbTFBSVItVndFQ3N1V2pLby1KRnNYNFdpR1pic0RfdDZ6VHNQUU5YUEdzLXo2UE91bGFDXzNZTk1SeUQwMHrSAboBQVVfeXFMUDM1aUF3RnQ0MXdFOVdtanY0ZjJwcjRLcUVfRElPTkpXN2pyRzZ6OU1vUlFTWXpZeUxOQkFMbjYwaGk3dnNUTG8zWTFSeXV4N2dHSFhxbzkzcmpPX2FIRkxBYTM5bjBicUtLTWc0QWdEY2lFa1ZtdWswVW9sd3Bna1MzUUFOcHU2alZieHkyY3JzMUxkT0tTNVpnQll4LVhSZW1iSVAzU3dHRHFPeXBKX002ZG1wbVQ2NXFB?oc=5"
-    },
-    {
-     "titulo": "Flamengo aciona STF e reforça ação das bets contra proibição do governo",
+     "titulo": "Flamengo: Fratura de Arrascaeta faz clube reviver 'maldição da Data Fifa'",
      "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcE83SkJDM25zdkJJeFc0N05hYUlSM2lBTjNSdnk0OHF6cklPaWJhZWpBWm85eGNpSDBFNjdBN1dEay02NjRvSXl0MWdnSktwRWtrNVlWMU15aUNadWM0cFVVRklBTHJHd0NHUjFKck1vN0g2azZtQ2NxeEhlNE8tTzR4Q2N3eFBFcnhabXZsR1FQUmFQRExxZXktalRhTndPNmpULXRFN0lHVi0yalFTbW00SVg3OHktbnRUX3BUZ2JhcTBmb2FyUEh3QjZDQURMOTFDYjdfbmhiODZK?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVnhfY1gxSVBxNnhhMlFlaDh2NTd0WERWQ29JeEc0QUFzMG1YUFdRbnhERVZrS09kMmlRb3RrclJOeVFweFZYem9yS0wta2lqbmk2UkZWRU5DVXk0Zi14T1ktQm1XMnRxeVVJQXYtUkowUXVqenBybWRxeHRQTGZDdnNITU5KOGUtRWVwX3pkMnFycGVHUktIdlFhbXJSczdsay16S1U3R3BvMnlibzR2OWhydWhSZ3F3ZUZfelFOMTM5VTMybThBZThWdGF2RjFSRjVwRXhB?oc=5"
+    },
+    {
+     "titulo": "Flamengo recebe da Fifa por lesão de Arrascaeta na seleção do Uruguai? Entenda como funciona indenização",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONXZHU3dGZ0JyRjZhaUxkaVo4UVNlc3BlT21odzlyc0tUSl85X2hGSllQZDFZNjBfUjlreHRKbUJUeENncEQwUHh6ZzgyYVpDTk9iTXlzLWJZaWdjcGwzbWZwNDMwUGxWTkk0WTJ0N2NaS0pSOTd3ZkZOMi1iYldqLTBIY0FBRk95TzljdHdsMWpqajZRT082ZGNtMkF5YUFLLWFjWWJGZnJqbm9EWUc3ckJrSkRuZWVfQlFXbk56ZTJnSmlFZmNNSTkteE5MNElxM2lQallfb1ZBekdjX1o5MGRtTWRzZXNnWm51Z296SHlsNG9ST1NITg?oc=5"
+    },
+    {
+     "titulo": "Sem Arrascaeta, Flamengo trabalha opções para volta da Data Fifa; Jorginho também desfalca na Libertadores",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRXg2bkREUGo5Qk5KR24xSmR4cDlKaGxKR0Y5MXJGYVhmOW9DSDlnWmhLU1Fja2Y0Z2RnVVg5X29rRmlFMEo3aUJ6bWJvdFpHVGVVWnVmQXJMdkJncDZScVIyczg2NHYwOVRZakhJTE5UdHltcHdnTkxoSXNqZTNGQWV5TlZ4WklNZnNvOHhCMnduN0hwYjhGQ0E3cTBPdkYxeGdSbFQ2NjF2YXJoODFEeTl6aUtqZjh5QTRBTGNUVmc3VmtsallZUzc0WkVTYUFLak9TUjZCMW9JbHhOYjI5OG1tS0hLYk9hTXhHMjg4RHA1cXVpRHVCV0ZQUjU3eFlQdXdr0gGSAkFVX3lxTE1fbllleGRSYk9ZU25udmVBREVfdHVKTVFQellYQVR2V0JBMHVsSlZzalNkSDVlUWFwYWlpWGROTDdETnVkdGxScDMxS2Qtd2dJZkQ4aTVQUUxhVUpZSFJPck1sV0tQSjFIN0p6V1BwQnBNVU9mRW5KS3dPXy0wMVNvclpoNjNXMHBQSGdRVzVqRG9HLVBPOTRGU2U1M25pVWpjRklWMmVrRGh3X1FGZ0JjemNrSGNtYTluOGRTZkczUWhxeW85NEtVeWF5SkE2aklqTzBHaXgzT3JCWTJSYm1mS0xBWFQxa1NiTVpVamNMN29EbUlSUnVLbEdDcVB2cEV4aVRZRnN1WmNtSWVESXdrNlE?oc=5"
     }
    ]
   },
@@ -486,7 +486,7 @@
    "termos_trends": [],
    "n_fontes": 5,
    "n_manchetes": 5,
-   "assinatura": "corin|inter|trein|volta",
+   "assinatura": "corin|inter|volta|trein",
    "ja_coberto": {
     "titulo": "CORINTHIANS  X  ESTUDIANTES -  JOGO DA VOLTA",
     "url": "https://www.youtube.com/watch?v=4CY4MadeZa0"
@@ -505,7 +505,7 @@
     },
     {
      "titulo": "Trio do Internacional está pendurado contra Corinthians e pode perder GreNal pela Série A",
-     "fonte": "itatiaia.com.br",
+     "fonte": "Rádio Itatiaia",
      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMDR2UVhNM3p3LTJ2cFZMWHo2aEo0VUhhQUZnc0JnZGZYVWIzUHRpcGwtdUpVOXNOZi1iTWRSRER6dUJjMW1oa2NLUWJMeE9PU2VpOW1WT2tEWTNETnZCRjVJQk5fTXBQSnhXWVlkaXVsaC1uVmo4aDdsOUxIcWtlMHVLYVhXazBDNHhDc3hIUVlWSmVoc2Q4eDBEUWhRa2hkeGVNNFZYdEF6Nk11eFNBN0lHVXBnVXdRMXBRMVV6RkVRMXdIV18ydkZ1OGZqN1k5TGR6OURrejF3THZVN0lZZ0R5RVBmRXJTN1dycmZlOGM5MHdUNkRpZEZiNHZMLUktdXZOTUd2SVlBcUVKb3c?oc=5"
     },
     {
@@ -526,54 +526,59 @@
    ]
   },
   {
-   "tema": "Lesão de Arrascaeta pelo Uruguai pode render indenização ao Flamengo pela Fifa",
-   "categoria": "Lesão e desfalque",
+   "tema": "Flamengo aciona STF e reforça ação das bets contra proibição do governo",
+   "categoria": "Finanças e gestão",
    "clubes": [
     "Flamengo"
    ],
    "foco": true,
-   "nota": 59.1,
+   "nota": 59.0,
    "sinais": {
-    "busca": 60,
-    "aceleracao": 26,
-    "midia": 67,
+    "busca": 0,
+    "aceleracao": 69,
+    "midia": 92,
     "aderencia": 100,
     "youtube": null
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "arrascaeta flamengo",
+   "busca_torcedor": null,
    "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 4,
-   "assinatura": "flame|arras|inden|lesao",
+   "n_fontes": 8,
+   "n_manchetes": 8,
+   "assinatura": "flame|bets|stf|proib",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "React rápido (1 a 2 min)",
-    "gancho": "Esse desfalque muda tudo para o Flamengo nos próximos jogos.",
-    "titulo_thumb": "FLAMENGO SEM ELE: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Lesão de Arrascaeta pelo Uruguai pode render indenização ao Flamengo pela Fifa?"
+    "formato": "Explicador de bastidor (2 a 4 min)",
+    "gancho": "O buraco no Flamengo é maior do que parece. Eu explico em 2 minutos.",
+    "titulo_thumb": "FLAMENGO: A CONTA CHEGOU",
+    "pergunta_enquete": "Qual sua opinião: Flamengo aciona STF e reforça ação das bets contra proibição do governo?"
    },
    "manchetes": [
     {
-     "titulo": "Lesão de Arrascaeta vai render indenização para o Flamengo? Entenda",
-     "fonte": "Exame",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3FMZUFFOVJPakNRaHVUaWIzYUc3bUZidnpiTDNwYks1ZVYzQzJLclN5eW1FYVdKUzVBbmw5V0RNZy1rVGtSWFM4V1EtazZrYkpQazUzM3l4eHpWQXNaWUpQakRrYnZ4Z0J2Rng1NTBmN3JReW1YQXp2bVNhRDZfMGtoTzhBTUI0YTVjQmFSZVh2RnFIeWYwVA?oc=5"
+     "titulo": "Flamengo recorre ao STF contra medida que proíbe bets e cita patrocínio de R$ 268,5 milhões",
+     "fonte": "Brasil 247",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT2NBMURXNTZiOGtzdzZIb21TR0VHalQtZmRGR3FuUHJFOHR2cllhOXZLSzF5YlQ2eVpBbGU0ZkszdFBnYmVBbVpCakYweHlSYnd0MDhUdVQ1dUhKVWxVbnZWdXZqcWJ5Q0RKdldhU0o3ZkRFUUlUcWl1VjRiZ1g3MjJBTkRjNkJZZW43dDlfZm9hUnRkYXM3TzVjRlpacngxbUJ4MzlQX01EaXRKQTgzMVJMZ0gwNlRqS3ZwdTVleVlfUQ?oc=5"
     },
     {
-     "titulo": "Lesão de Arrascaeta pelo Uruguai pode render indenização ao Flamengo pela Fifa",
-     "fonte": "Goal.com",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZEN0SjZ6dkpfU1lkaTF4SWhiQnNxTWltTmhoWGM0WkEtMkx6T3pyZlF2TkxwRzM5RkYwQ0x2Zk9SekI4alhQNTdQNzdrcnNvcGVaTkpzalJycFJtQW1QWlNWeFBYYkFTM2p1VVhaU0FqTFk2TFB1LUdzZS1tYnlCZ2NvcVBwdlFmS1VNTVhlTUx6QUFiempPNVZEenpaRmhFTG5hVVphMFhLOWpXN0F1TGJuMzlCc3ZjNHZ3QTJDclczWFdQa0RNU3piWUlUMk5VeUE?oc=5"
+     "titulo": "Flamengo pede ao STF para entrar em ação contra veto às bets",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR2FIZU9kZUxILURZMXRQV1ZCTGZkSnVlbDUyelZjdkVaX3d5SjZncVVrOHp4V3BORDBPMVlHeW51Yl9mRnJLNW5YdGxEb2Nzd0pUWVlhTy10cVRiVm1oWUZDSGtlZkRCdzZtTjNXZlZ1Mmw5ejg0MGpHOE8xUUtha01lZ0w5T0dDUHFrdEhuSEJHR2FvQ0pyN25LeHJEX3JvSVJIZkpLa2xxdXN2b2EyV3JBczdLU0ZTWkFQR01EaEhadjVwdWx6RllCSWk2RGpJUUtkTUJrei1JQks2a3ZhQ0VWTThsOFBJ0gHoAUFVX3lxTE5HYUhlT2RlTEgtRFkxdFBXVkJMZmRKdWVsNTJ6VmN2RVpfd3lKNmdxVWs4enhXcE5EME8xWUd5bnViX2ZGcks1blh0bERvY3N3SlRZWWFPLXRxVGJWbWhZRkNIa2VmREJ3Nm1OM1dmVnUybDl6ODQwakc4TzFRS2FrTWVnTDlPR0NQcWt0SG5IQkdHYW9DSnI3bkt4ckRfcm9JUkhmSktrbHF1c3ZvYTJXckFzN0tTRlNaQVBHTURoSFp2NXB1bHpGWUJJaTZEaklRS2RNQmt6LUlCSzZrdmFDRVZNOGw4UEk?oc=5"
     },
     {
-     "titulo": "Flamengo recebe da Fifa por lesão de Arrascaeta na seleção do Uruguai? Entenda como funciona indenização",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONXZHU3dGZ0JyRjZhaUxkaVo4UVNlc3BlT21odzlyc0tUSl85X2hGSllQZDFZNjBfUjlreHRKbUJUeENncEQwUHh6ZzgyYVpDTk9iTXlzLWJZaWdjcGwzbWZwNDMwUGxWTkk0WTJ0N2NaS0pSOTd3ZkZOMi1iYldqLTBIY0FBRk95TzljdHdsMWpqajZRT082ZGNtMkF5YUFLLWFjWWJGZnJqbm9EWUc3ckJrSkRuZWVfQlFXbk56ZTJnSmlFZmNNSTkteE5MNElxM2lQallfb1ZBekdjX1o5MGRtTWRzZXNnWm51Z296SHlsNG9ST1NITg?oc=5"
+     "titulo": "Flamengo entra com petição contra veto às bets no STF",
+     "fonte": "O Dia",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZURDQUl3RHl4VG83YmVRU0N5cDJQT2dBdS1fYWVSb0tQOXlIemtVVVM0MDhnQXlRNTNSS1UzbVJhWTZJd0FwdFE2aFhzMEQtdXczd25mUEtzbXNqRC1uY1o1VFdlN2prZjRrMUs1eWhWQm9lRHNRbTFBSVItVndFQ3N1V2pLby1KRnNYNFdpR1pic0RfdDZ6VHNQUU5YUEdzLXo2UE91bGFDXzNZTk1SeUQwMHrSAboBQVVfeXFMUDM1aUF3RnQ0MXdFOVdtanY0ZjJwcjRLcUVfRElPTkpXN2pyRzZ6OU1vUlFTWXpZeUxOQkFMbjYwaGk3dnNUTG8zWTFSeXV4N2dHSFhxbzkzcmpPX2FIRkxBYTM5bjBicUtLTWc0QWdEY2lFa1ZtdWswVW9sd3Bna1MzUUFOcHU2alZieHkyY3JzMUxkT0tTNVpnQll4LVhSZW1iSVAzU3dHRHFPeXBKX002ZG1wbVQ2NXFB?oc=5"
     },
     {
-     "titulo": "Sem Arrascaeta, Flamengo trabalha opções para volta da Data Fifa; Jorginho também desfalca na Libertadores",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRXg2bkREUGo5Qk5KR24xSmR4cDlKaGxKR0Y5MXJGYVhmOW9DSDlnWmhLU1Fja2Y0Z2RnVVg5X29rRmlFMEo3aUJ6bWJvdFpHVGVVWnVmQXJMdkJncDZScVIyczg2NHYwOVRZakhJTE5UdHltcHdnTkxoSXNqZTNGQWV5TlZ4WklNZnNvOHhCMnduN0hwYjhGQ0E3cTBPdkYxeGdSbFQ2NjF2YXJoODFEeTl6aUtqZjh5QTRBTGNUVmc3VmtsallZUzc0WkVTYUFLak9TUjZCMW9JbHhOYjI5OG1tS0hLYk9hTXhHMjg4RHA1cXVpRHVCV0ZQUjU3eFlQdXdr0gGSAkFVX3lxTE1fbllleGRSYk9ZU25udmVBREVfdHVKTVFQellYQVR2V0JBMHVsSlZzalNkSDVlUWFwYWlpWGROTDdETnVkdGxScDMxS2Qtd2dJZkQ4aTVQUUxhVUpZSFJPck1sV0tQSjFIN0p6V1BwQnBNVU9mRW5KS3dPXy0wMVNvclpoNjNXMHBQSGdRVzVqRG9HLVBPOTRGU2U1M25pVWpjRklWMmVrRGh3X1FGZ0JjemNrSGNtYTluOGRTZkczUWhxeW85NEtVeWF5SkE2aklqTzBHaXgzT3JCWTJSYm1mS0xBWFQxa1NiTVpVamNMN29EbUlSUnVLbEdDcVB2cEV4aVRZRnN1WmNtSWVESXdrNlE?oc=5"
+     "titulo": "Flamengo aciona STF e reforça ação das bets contra proibição do governo",
+     "fonte": "UOL",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcE83SkJDM25zdkJJeFc0N05hYUlSM2lBTjNSdnk0OHF6cklPaWJhZWpBWm85eGNpSDBFNjdBN1dEay02NjRvSXl0MWdnSktwRWtrNVlWMU15aUNadWM0cFVVRklBTHJHd0NHUjFKck1vN0g2azZtQ2NxeEhlNE8tTzR4Q2N3eFBFcnhabXZsR1FQUmFQRExxZXktalRhTndPNmpULXRFN0lHVi0yalFTbW00SVg3OHktbnRUX3BUZ2JhcTBmb2FyUEh3QjZDQURMOTFDYjdfbmhiODZK?oc=5"
+    },
+    {
+     "titulo": "Flamengo se antecipa a clubes e pede ingresso em ação no STF contra fim das bets",
+     "fonte": "O GLOBO",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcU8yQU9ETUhRMWN5cnNIbTQ1RVVVZWFoNV8zYVFDdm43OERTSnlGMDhpa2d1Y0ZsRVRfbnpVYV9BWjFYeXBJM19UU1ZfWmgzcER3MlBWRHB5UGdwOVRibEJSOWN1VGhHMEZMcjZ2OG9JcVJkSEZDWG5wVk9vRmVaX2RlQWJ2WVNiMDAxMVNyS093TnVQTENIMlU4OElIa1VmRUlialNRSElDZ2ZFSlhoNlhPcU9PNXRxX3JqZ2ZPdE5jLXNvalR0YVM2U0xJUVU2ekNiS2J3NNIB5gFBVV95cUxNNjJrTFQxOGhhZnF0ejR6VS1ZRXdRN3hvX2UtZzFDWEhiWlptb0Q3WGhZV1JURDNNcXNzMy1HWlVYMUYzUU1LRXBNVW5PeWgtRENVam9ocXgwSnY3eC1CcjYzOFBRMm5hUjVqczNHc2FWVmRZRkdOWFNFTVdVOHhPZFplelFWZFdjUDEyS0NGdlVHd3FjdlNDYm1rNF9LU0ZObmpTeTlqVXZScEw5U3V3aElNelljNTJCNEVnOFRnU3BnYmY5WVF6SVJyWk5PRjIySUdOX2t5SDNhUUtoTFl6OU5zMEtFdw?oc=5"
     }
    ]
   },
@@ -599,7 +604,7 @@
    "termos_trends": [],
    "n_fontes": 5,
    "n_manchetes": 5,
-   "assinatura": "santo|potir|naty|homen",
+   "assinatura": "santo|naty|potir|homen",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
@@ -712,7 +717,7 @@
    "termos_trends": [],
    "n_fontes": 1,
    "n_manchetes": 2,
-   "assinatura": "momen|ponte|serie|botaf",
+   "assinatura": "ponte|serie|momen|melho",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
@@ -849,48 +854,6 @@
    ]
   },
   {
-   "tema": "Palmeiras realiza treino recheado de gols; confira",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 54.6,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 85,
-    "midia": 46,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "gols|reche|reali|trein",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Todo mundo está falando disso. E você, concorda?",
-    "titulo_thumb": "PALMEIRAS: E AGORA?",
-    "pergunta_enquete": "Qual sua opinião: Palmeiras realiza treino recheado de gols; confira?"
-   },
-   "manchetes": [
-    {
-     "titulo": "VÍDEO: Palmeiras realiza treinamento recheado de gols; confira",
-     "fonte": "Imirante.com",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOG5PYU93XzVrT3dsN290UXNnSzQwdmxtc1hiUFAtRmVrV3ZXQzFfOW52YzVCUkNpQjF1QzdpYnB0N3RWMTl6d1FBcXp4a0xJOWtNMjBaQnBfdXFNY0ktTWgzWTB4NjFMY2REZkpmU2xOZGZFQ3JhN1VZaG1tWDJCSDRKbVhDd29aNXd2UElWVTYzaDlqN1lVVllyX2l2ZFpGcTAtWjRpVVPSAagBQVVfeXFMTzhuT2FPd181a093bDdvdFFzZ0s0MHZsbXNYYlBQLUZla1d2V0MxXzludmM1QlJDaUIxdUM3aWJwdDd0VjE5endRQXF6eGtMSTlrTTIwWkJwX3VxTWNJLU1oM1kweDYxTGNkRGZKZlNsTmRmRUNyYTdVWWhtbVgyQkg0Sm1YQ3dvWjV3dlBJVlU2M2g5ajdZVVZZcl9pdmRaRnEwLVo0aVVT?oc=5"
-    },
-    {
-     "titulo": "Palmeiras realiza treino recheado de gols; confira",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb3lJZVQ4aVNPTGd2ajUtNkVaeTlqbkd6ZjZTbHBjcFgyWDQyekxlR0pzeXZaSmpucXZ5QVlRUGx1S2RROVJOV0p3UVpTU3RpdGlsT3ZQUzVFcGcxUUZ0clN4cTdhejd0UGVmNTVQQXRqUDZuQXZEYkpLWFRmR18xR2hvVTNNREVBNXd6Sm5pdURjWi1XT1I0WNIBmAFBVV95cUxQb3lJZVQ4aVNPTGd2ajUtNkVaeTlqbkd6ZjZTbHBjcFgyWDQyekxlR0pzeXZaSmpucXZ5QVlRUGx1S2RROVJOV0p3UVpTU3RpdGlsT3ZQUzVFcGcxUUZ0clN4cTdhejd0UGVmNTVQQXRqUDZuQXZEYkpLWFRmR18xR2hvVTNNREVBNXd6Sm5pdURjWi1XT1I0WA?oc=5"
-    }
-   ]
-  },
-  {
    "tema": "Palmeiras recebe vistoria da PM no Nubank Parque por ampliação do setor visitante contra o Fluminense",
    "categoria": "Notícia do dia",
    "clubes": [
@@ -898,10 +861,10 @@
     "Fluminense"
    ],
    "foco": true,
-   "nota": 53.6,
+   "nota": 54.3,
    "sinais": {
     "busca": 60,
-    "aceleracao": 58,
+    "aceleracao": 61,
     "midia": 58,
     "aderencia": 100,
     "youtube": 0
@@ -912,7 +875,7 @@
    "termos_trends": [],
    "n_fontes": 3,
    "n_manchetes": 3,
-   "assinatura": "receb|visit|palme|nuban",
+   "assinatura": "palme|receb|visit|visto",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
@@ -946,59 +909,6 @@
    }
   },
   {
-   "tema": "Neymar deve ser reforço no Santos contra o Flamengo pelo Brasileirão",
-   "categoria": "Mercado da bola",
-   "clubes": [
-    "Flamengo",
-    "Santos"
-   ],
-   "foco": true,
-   "nota": 53.3,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 66,
-    "midia": 67,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 4,
-   "assinatura": "santo|flame|deve|neyma",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 3 min)",
-    "gancho": "Essa negociação pode mudar o Flamengo, ou virar o erro do ano.",
-    "titulo_thumb": "FLAMENGO: VALE O INVESTIMENTO?",
-    "pergunta_enquete": "Qual sua opinião: Neymar deve ser reforço no Santos contra o Flamengo pelo Brasileirão?"
-   },
-   "manchetes": [
-    {
-     "titulo": "Flamengo veta pedido do Santos para antecipar o jogo pelo Brasileirão; entenda",
-     "fonte": "365Scores",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMEtRZHhfT1lJRDZYYzUwdnlEUTRIU3hQQWVHcFNyRUY1QUw1OU9IQjE4ZERpYTJNbUFfcGJUUnU0WTlfcm51R0U1RFBtQ244dVhfT2FJTlREd0ZJYVhyY3hFZGxVQjJkNDYxdkNXSU5rV0x2QXBIbVdwSmZ0UjR6VGUzM21iR0gzYmZJVEtfN3owWXZaZ0lieWM5Tk9UWFRJLXFQRXBiTUZKNGJMNEE?oc=5"
-    },
-    {
-     "titulo": "O Santos deve contar com Neymar no duelo contra o Flamengo, marcado para 8 de outubro, pela 29ª rodada do Campeonato Brasileiro. O atacante iniciou a transição para os trabalhos no campo após ficar afastado por cerca de um mês devido a uma lesão",
-     "fonte": "instagram.com",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oNlU4S0J1TGtuVVNGenByR2xWR3pBSklFSnRDdC1Na1VoUUhKZ0lDQXNFZjdqazFQY0lMcVR4b1lqYk41aGZ1NDltNC1nNWQtTHc?oc=5"
-    },
-    {
-     "titulo": "Neymar deve ser reforço no Santos contra o Flamengo pelo Brasileirão",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ3JEQ2ktWVJJUjhzbVQ0bnI4X3E0SW0xb3NKb0xmREVHQUloYVNWTjE1VWZ4Q196T0JLd1Z1blhscGJFcW9kbkdubWdNLXJlOTYtY2RvellPek1qQXlGaTBtMjBCRkQtcjJjX1V3eUhQLWhrbWV2WFZwSkQ0b1NQZW1zdUE3MU1OV2JCNTRmd0VpWVFDTXFLd0R4bDRxRnExQmFNX3VINnF6OGhDXzNNR3IycWVNa3o2VW40ZWVXRQ?oc=5"
-    },
-    {
-     "titulo": "Neymar avança em recuperação e deve reforçar Santos contra Flamengo",
-     "fonte": "O Dia",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMUZ6ek1jSWxJNHR6bFFCaXpVVEtVV3BQR2ZGcVNVQnBqSnBQbDVxRHV5VExXWlpZQWNYODBsTl9zM2dmVFVrS3E2RTcxbEpsdUFzZUp6RVpHd2w2bWJUT1ZIV3lLQjBtcVR2aDYwWHBhdFlxSlZtTl96aVZMelh0TFlWOHJkeHRxQWhheXZOQk9YTVNPNGJjN01IMUtVYlVXR0hLeTdrZ0RhMVJ5cmZzVjNwNldHVm45SGg4TEZsYVlzOGpFRTV30gHMAUFVX3lxTE9kMTdvQlNscFZyVEw4NzNqN094S2YtbHowZ1lUejc4cjNldzBweDYyeGdrcFFWODhDeHRfSGQxQTc0NGVMcllqTFFLY1VwZTZWREhGXzl5UjJNV0JvdGxuZE1NaTg4Y2VpMXZlYTJkeFVjZWk4azVfSTdMb1ZjM2wxVWtvOUNfYlNtcWVROU44am45ejFac1FfOXktQ0JvYjg5eGp0aGdYZ0pDZjZQQmxDUmU1ZGpBcUdTQl9xeE9XRzlsVURRZ0dsMk5QbA?oc=5"
-    }
-   ]
-  },
-  {
    "tema": "Corinthians já sabe o que pode fazer com a Hypera se perder naming rights da Arena",
    "categoria": "Jogo e resultado",
    "clubes": [
@@ -1019,7 +929,7 @@
    "termos_trends": [],
    "n_fontes": 2,
    "n_manchetes": 2,
-   "assinatura": "namin|corin|right|caixa",
+   "assinatura": "right|namin|corin|milho",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
@@ -1037,6 +947,100 @@
      "titulo": "Samir Carvalho: Corinthians quer 10 anos de naming rights com Caixa e liberação de milhões",
      "fonte": "UOL",
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMnI0eXRMWTlTTUROSXZpdXdhQzJDU1hSVTBRenEwYnJWaXhqOWJaR2lLdXdHdFFnZnhMak1BOWh4VmUyeEpReTJvVU1HbUk2eTI3RXhZMlNsVUN3YUhtcWJ6YzA1Y0N2bWZtQnVhOGxFRjFuZzNLTlB2TTBqMkRINjdjUFpBX3FEWWdHMlVGSGd1Q2ptNW94LVdiR0xWUlh0bm9veF9hTFQ2NTBJME1xclBiNjBBY0Jxcy1Da3pwTUpYMHUyekxwakVJYkxfOVNtWVJ3a0tXVkEtZE0?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Análise: fratura de Arrascaeta preocupa Flamengo em momento decisivo",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 50.6,
+   "sinais": {
+    "busca": 60,
+    "aceleracao": 2,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.056,
+   "trafego_google": 0,
+   "busca_torcedor": "arrascaeta flamengo",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "flame|decis|arras|ayrto",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Esse resultado diz mais sobre o Flamengo do que o placar mostra.",
+    "titulo_thumb": "FLAMENGO: O QUE O JOGO REVELOU",
+    "pergunta_enquete": "Qual sua opinião: Análise: fratura de Arrascaeta preocupa Flamengo em momento decisivo?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Flamengo perde Arrascaeta e Ayrton Lucas para a reta decisiva da temporada após a data-Fifa",
+     "fonte": "thefootball.com.br",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOWUyMkRFWVRGekpFaE9iR0FjQW9uR1NVWnFra0VsWjlCTWEyNXZGdnJ3UmpSLVlzVTUwTFZPdklILWVMajVlb3ZlSTB6WFdmdGNsVlJiY2REYktlNXB2bHZ3NXVHdXBheVBsUXFsUFVIMkRQZ09sVWJyUjNiaExiM3czRmtheE5VLUlNWEVhUkhNd1Ytc083S1Excmk?oc=5"
+    },
+    {
+     "titulo": "Análise: fratura de Arrascaeta preocupa Flamengo em momento decisivo",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0Rzc2I3cVl0eEdPSXRfX0VhdEloREpjemZ0NmhoV1FtWXkweno4OW5BempjSHdrV3VIaXJZaUY4TWhsVFBWcEtqWmRhOFFkc0V6NGlfVDgyM0lMTHdUV1VRek4taWJSTV9hV0xnZ20waC1GWXlReDAza0ZMS003bzJBR0hrOGhIV1dmY1kwNXBQaHF2NW42NGxJQWhZOXladXFsSHJxVFBVWUhyaXlhUWlUSl9GOWNWX0oxN1FFWlZYd3c?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Ao vivo: Corinthians x Atlético-GO | Rodada 19 | Campeonato Brasileiro sub-17",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 50.3,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 54,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.056,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 4,
+   "assinatura": "brasi|sub-1|atlet|corin",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Esse resultado diz mais sobre o Corinthians do que o placar mostra.",
+    "titulo_thumb": "CORINTHIANS: O QUE O JOGO REVELOU",
+    "pergunta_enquete": "Qual sua opinião: Ao vivo: Corinthians x Atlético-GO | Rodada 19 | Campeonato Brasileiro sub-17?"
+   },
+   "manchetes": [
+    {
+     "titulo": "Ao vivo: Palmeiras x Vasco | Rodada 19 | Campeonato Brasileiro sub-17",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUlJHWGVPUHVvX0hyeUswYmxiN08wSFEtdU44SkF6bXBEM2ltN0FvNVdwQkszQ1FmVmlORERHUl8xbzRGUE9qbG5hMnBBUlBZOV9SZjY2TlBTRThiNE9uTFl5YTl6LXJ5MGFZZDdlVlNCWjFTYndKTENUVzhEZlVOdXRsdnNUWG5XM2FxTE9ySFYzdw?oc=5"
+    },
+    {
+     "titulo": "Ao vivo: Corinthians x Atlético-GO | Rodada 19 | Campeonato Brasileiro sub-17",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZUlBWWRYVG5zdEZWZVluVEJ4QmlDSFZLajd4VWkzSkxNeFZQWmFoQUE3a0I1bzRNSzdIS1FjWUhZSUlpdVY1cjVnOFp5OGYtaGJndGN3U0JNSHVqbTMtNGYtbkRaSmlGaG1OZVlNWHZ6UEx4ZDZZVGxRZVdFQTFMR2FmMWI3UHV6cFg0Z1VsdFI3ckxZODdUX1RfdnE?oc=5"
+    },
+    {
+     "titulo": "Corinthians x Atlético-GO: veja onde assistir e prováveis escalações do duelo pelo Brasileiro sub-17",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcFV1RHhxWFJrT19OS2YyRHVtUDZ4ZG16Skxydm9nbWlCdzM2dXZ0V0lRT19CdnIxZlBNaVlQRGNOeG5vRlY3cURvT1ZYQlNkaTZnYTJOWElfekk1aVgwaVM3NEMwb0kzVDNTWVhCZHR5SUtiWjMxNUJOeFd3bFdyYmk4bUNvRWJBNnQtNWVqUDFvMDRQRTRiS2g5STNWTHlfTXowSGhkVFhsSy1ab0o3cl90Y2dZNnQxcm5KN1lZTVpCTGRxRDRuckE4ZEdqUFR1cVF2S25DdzZPYkF5cGpkSUhYWTfSAeoBQVVfeXFMT3VHTGJ4YUx1ME9IS3YxSWJOdG8yNHBSekFOTjB5alVTV1M3aU1wSFdCWVhWRWQ3Xzdici1kclhURDhTTHVMelF5S0dvV3dqczl3QlNxZWpseTRjZ2RRa1pRWjYtdWMxMmc5eEJpcmVpQklsc1dyRy1Rc29EekZwUTRnemN1d0xKUXJQd3QyeWFyMHFBY2V5MDJiX3RCeUpvSkh5X3ctaUZzcmp0SGZiRlBHSGVmUENaVFp5a01kemFNT05iMWo1QW9ESm9FY01mRi1aYmdvNnNhWmlxblpDNGVBTWVCbW1jT3J3?oc=5"
+    },
+    {
+     "titulo": "Saiba como adquirir os ingressos para assistir Corinthians e Atlético-GO no Brasileiro Sub-17",
+     "fonte": "meutimao.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOa2JrcnkwV1l4LVg3a3RIOXBpZmlNc1FmVHdwVXlCdnVieTk3bkNWRmRTWU1QOTdmMVVnd01OUXhGd3pXV1JlQzF0czNlT3FPZVRFLThzb01ZdGo4ZnJ2c1lzRFlkM0JhUDNqcmo1SjBHX3hUNkRqLXdGSi1RTk1teURVc0JfREpILW9RcjctU3lMWXVPREVZVUpLNUtxZGZNd00wZXplUmtnQnF6QTBDeVVCb3lyOTF3YWdoUTRVQTJsU1pBVUFtNWl2YzNQWmJVVVFPVVk3bUh1MTcwSlBIeDRjdElRRDTSAdcBQVVfeXFMTlBINlRYbkdhSExKdlVOWC1uX2hKNlJFbldrMlNZY0o3SFhISUxTVV9aUXZJTWh3LXJvZzRRLTJUM2pqRFB5MGtuNEpmcDJjTWQ3YlhVRGhHcTc3RU1VZ3hKb0lTVW1YZWZBUnNRY0ZJb0RFQmh5U25ndUszclR2SDkxa2hZSmlSek04NkI0eElPck9iNnlFRWdURDdfZFZBUFVYd1U2eXJTelZ3V1ptY2NzLUVoZ1B0T3NiNFlhYUhNbDZoSFVybk9oWEhjdlFTb0FMRE5nVHM?oc=5"
     }
    ]
   }
