@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-30T04:06:26.282843+00:00",
+ "gerado_em": "2026-09-30T04:22:41.545419+00:00",
  "canal": {
   "id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
   "nome": "NAÇÕES DA BOLA o canal de todas as torcidas",
@@ -432,7 +432,8 @@
   "Jogo e resultado": 1.056
  },
  "alcance": {
-  "erro": "ative a \"YouTube Reporting API\" no projeto do Google Cloud (README, seção Raio-X)"
+  "sem_dados": true,
+  "ativado_em": "2026-09-30T04:22:41.545419+00:00"
  },
  "monetizacao": {
   "views_28d": 15411,
@@ -581,7 +582,7 @@
   ],
   "elegibilidade": {
    "inscritos": 5910,
-   "horas_12m": 2478,
+   "horas_12m": 2306,
    "shorts_90d": 70,
    "meta_inscritos": 1000,
    "meta_horas": 4000,
@@ -592,6 +593,167 @@
    "cumpre": true
   },
   "tem_receita_real": false
+ },
+ "requisitos": {
+  "monetizado": true,
+  "itens": [
+   {
+    "id": "horas_12m",
+    "nome": "Horas assistidas públicas (12 meses)",
+    "atual": 2306,
+    "meta": 4000,
+    "nivel": "anúncios",
+    "status": "abaixo",
+    "texto": "2.306 h públicas nos últimos 12 meses (vídeos longos e lives; Shorts, privados e apagados não contam). Nos próximos 30 dias saem da conta ~284 h e entram ~173 h no ritmo atual: projeção de 2.195 h.",
+    "acao": "Faltam 1.694 h. Lives longas e vídeos longos contam; seriam uns 141 h a mais por mês durante um ano."
+   },
+   {
+    "id": "inscritos",
+    "nome": "Inscritos",
+    "atual": 5910,
+    "meta": 1000,
+    "nivel": "anúncios",
+    "status": "ok",
+    "texto": "5.910 inscritos.",
+    "acao": null
+   },
+   {
+    "id": "shorts_90d",
+    "nome": "Alternativa às horas: views de Shorts (90 dias)",
+    "atual": 70,
+    "meta": 10000000,
+    "nivel": "anúncios",
+    "status": "abaixo",
+    "texto": "Caminho alternativo às 4.000 h. Basta cumprir um dos dois.",
+    "acao": null
+   },
+   {
+    "id": "nivel_inicial",
+    "nome": "Nível inicial (Super Chat, membros, Shopping)",
+    "atual": null,
+    "meta": null,
+    "nivel": "Supers e membros",
+    "status": "abaixo",
+    "texto": "5.910 de 500 inscritos, 62 de 3 envios públicos em 90 dias e 2.306 de 3.000 h (ou 3.000.000 views de Shorts em 90 dias).",
+    "acao": null
+   },
+   {
+    "id": "atividade",
+    "nome": "Canal ativo (envios públicos)",
+    "atual": -2,
+    "meta": 180,
+    "nivel": "manter a monetização",
+    "status": "ok",
+    "texto": "Último envio público há -2 dias. Canais sem envios por 6 meses podem ter a monetização revisada.",
+    "acao": null
+   },
+   {
+    "id": "advertencias",
+    "nome": "Sem advertências das Diretrizes da Comunidade nem de direitos autorais",
+    "atual": null,
+    "meta": null,
+    "nivel": "manter a monetização",
+    "status": "conferir",
+    "texto": "YouTube Studio > Conteúdo/Status do canal. Atenção nas transmissões de jogo: imagem ou áudio da TV geram reivindicação.",
+    "acao": null
+   },
+   {
+    "id": "adsense",
+    "nome": "AdSense para YouTube ativo e vinculado",
+    "atual": null,
+    "meta": null,
+    "nivel": "manter a monetização",
+    "status": "conferir",
+    "texto": "YouTube Studio > Ganhar dinheiro > AdSense.",
+    "acao": null
+   },
+   {
+    "id": "dois_fatores",
+    "nome": "Verificação em duas etapas na conta Google",
+    "atual": null,
+    "meta": null,
+    "nivel": "manter a monetização",
+    "status": "conferir",
+    "texto": "myaccount.google.com > Segurança.",
+    "acao": null
+   },
+   {
+    "id": "politicas",
+    "nome": "Políticas de monetização (conteúdo reutilizado, adequado para anunciantes)",
+    "atual": null,
+    "meta": null,
+    "nivel": "manter a monetização",
+    "status": "conferir",
+    "texto": "YouTube Studio > Ganhar dinheiro mostra se há algum problema.",
+    "acao": null
+   }
+  ],
+  "horas_publicas": 2306,
+  "horas": {
+   "por_mes": [
+    {
+     "mes": "2025-09",
+     "horas": 30
+    },
+    {
+     "mes": "2025-10",
+     "horas": 300
+    },
+    {
+     "mes": "2025-11",
+     "horas": 289
+    },
+    {
+     "mes": "2025-12",
+     "horas": 233
+    },
+    {
+     "mes": "2026-01",
+     "horas": 143
+    },
+    {
+     "mes": "2026-02",
+     "horas": 161
+    },
+    {
+     "mes": "2026-03",
+     "horas": 218
+    },
+    {
+     "mes": "2026-04",
+     "horas": 171
+    },
+    {
+     "mes": "2026-05",
+     "horas": 196
+    },
+    {
+     "mes": "2026-06",
+     "horas": 245
+    },
+    {
+     "mes": "2026-07",
+     "horas": 162
+    },
+    {
+     "mes": "2026-08",
+     "horas": 169
+    },
+    {
+     "mes": "2026-09",
+     "horas": 157
+    }
+   ],
+   "saem_30d": 284,
+   "entram_30d": 173,
+   "projecao_30d": 2195,
+   "fora_da_conta": 15
+  },
+  "pendencias": [
+   "Horas assistidas públicas (12 meses)"
+  ],
+  "resumo": "1 requisito(s) medido(s) abaixo da meta: Horas assistidas públicas (12 meses).",
+  "nota": "O canal já está no Programa de Parcerias: requisitos de entrada abaixo da meta não tiram a monetização, mas indicam queda de audiência. O que pode tirar é inatividade, advertências ou violação de políticas."
  },
  "recomendacoes": [
   "Quem mais traz inscritos: Lives (14 nas últimas 4 semanas).",
