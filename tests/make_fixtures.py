@@ -74,7 +74,72 @@ SUGESTOES = {
     "flamengo": ["flamengo x", "flamengo hoje", "flamengo meia europeu", "flamengo x bahia"],
     "são paulo fc": ["são paulo fc lesão titular", "são paulo fc hoje"],
     "palmeiras": ["palmeiras x estudiantes", "palmeiras hoje"],
+    # Sementes genéricas: só no painel. "série b" não pode casar com a pauta do Corinthians.
+    "brasileirão": ["brasileirão série b", "brasileirão protesto torcida"],
+    "seleção brasileira": ["seleção brasileira de voleibol feminino", "seleção brasileira convocação"],
+    # Plano B da agenda: "corinthians x" revela o próximo adversário.
+    "corinthians x": ["corinthians x rival fc", "corinthians x rival fc onde assistir", "corinthians x antigo resultado"],
 }
+
+# Respostas fictícias da YouTube Data API (search.list e videos.list).
+YOUTUBE = {
+    "search": {"*": {"items": [{"id": {"videoId": "vid00000001"}}, {"id": {"videoId": "vid00000002"}},
+                               {"id": {"videoId": "vid00000003"}}]}},
+    "videos": {"items": [
+        {"id": "vid00000001", "snippet": {"title": "Flamengo: negociação com meia europeu, veja", "description": "",
+                                          "channelTitle": "Canal Demo A", "channelId": "UCdemoA", "publishedAt": "2026-09-24T01:00:00Z"},
+         "statistics": {"viewCount": "180000"}},
+        {"id": "vid00000002", "snippet": {"title": "Meia europeu no Flamengo? Análise da proposta", "description": "",
+                                          "channelTitle": "Canal Demo B", "channelId": "UCdemoB", "publishedAt": "2026-09-23T20:00:00Z"},
+         "statistics": {"viewCount": "42000"}},
+        {"id": "vid00000003", "snippet": {"title": "Receita de bolo de cenoura", "description": "",
+                                          "channelTitle": "Canal Demo C", "channelId": "UCdemoC", "publishedAt": "2026-09-23T10:00:00Z"},
+         "statistics": {"viewCount": "999999"}},
+    ]},
+}
+
+
+def _analytics():
+    """Dados fictícios no formato que radar.analytics.coletar() devolve."""
+    videos, por_video, v7 = [], [], {}
+    modelos = [  # (título, dias atrás, hora UTC, duração s, live, views 7 dias, inscritos)
+        ("Corinthians: a crise na diretoria explicada", 10, 22, 480, False, 9000, 40),
+        ("Polêmica no clássico: o que ninguém contou", 17, 22, 540, False, 12000, 55),
+        ("Crise no São Paulo: protesto da torcida", 24, 22, 600, False, 8000, 30),
+        ("Foi pênalti? Arbitragem do VAR no Palmeiras", 12, 15, 45, False, 20000, 80),
+        ("VAR anula gol do Flamengo: foi certo?", 19, 15, 50, False, 15000, 60),
+        ("Arbitragem polêmica no Brasileirão", 26, 15, 40, False, 18000, 70),
+        ("Flamengo vence e sobe na tabela", 11, 1, 3600, True, 3000, 10),
+        ("Corinthians empata e decepciona", 18, 1, 3500, True, 2500, 8),
+        ("Palmeiras perde e torcida cobra", 25, 1, 3400, True, 2800, 9),
+        ("Proposta do Flamengo por atacante europeu", 13, 12, 300, False, 6000, 20),
+        ("Palmeiras negocia reforço para 2027", 20, 12, 320, False, 5000, 15),
+        ("São Paulo acerta renovação de titular", 27, 12, 280, False, 4000, 12),
+    ]
+    for i, (t, dias, hora, dur, live, views7, ins) in enumerate(modelos):
+        vid = f"canal{i:06d}"
+        pub = (AGORA - timedelta(days=dias)).replace(hour=hora, minute=0)
+        videos.append({"id": vid, "titulo": t, "publicado": pub.isoformat().replace("+00:00", "Z"),
+                       "duracao_s": dur, "live": live, "views_total": views7 * 2})
+        v7[vid] = {"views": views7, "subscribersGained": ins, "averageViewPercentage": 40.0}
+        por_video.append({"video": vid, "views": views7 * 2, "estimatedMinutesWatched": views7, "averageViewDuration": dur // 3,
+                          "averageViewPercentage": 35.0 if dur > 180 else 80.0, "subscribersGained": ins * 2})
+    curva = [{"elapsedVideoTimeRatio": x / 100, "audienceWatchRatio": y}
+             for x, y in [(1, 1.0), (5, 0.62), (10, 0.55), (20, 0.5), (30, 0.46), (50, 0.4), (70, 0.33), (100, 0.2)]]
+    return {
+        "canal": {"id": "UCdemo", "nome": "Canal de demonstração", "inscritos": 10000},
+        "periodo": {"inicio": "2026-08-25", "fim": "2026-09-21", "janela_inicio": "2026-06-24"},
+        "videos": videos, "por_video": por_video, "v7": v7,
+        "trafego": [{"insightTrafficSourceType": "SHORTS", "views": 50000, "estimatedMinutesWatched": 9000},
+                    {"insightTrafficSourceType": "YT_SEARCH", "views": 30000, "estimatedMinutesWatched": 12000},
+                    {"insightTrafficSourceType": "SUBSCRIBER", "views": 20000, "estimatedMinutesWatched": 15000}],
+        "formatos": [{"creatorContentType": "shorts", "views": 60000, "estimatedMinutesWatched": 5000, "subscribersGained": 300, "averageViewDuration": 35},
+                     {"creatorContentType": "videoOnDemand", "views": 30000, "estimatedMinutesWatched": 40000, "subscribersGained": 150, "averageViewDuration": 200},
+                     {"creatorContentType": "liveStream", "views": 10000, "estimatedMinutesWatched": 60000, "subscribersGained": 40, "averageViewDuration": 900}],
+        "semana": [{"views": 30000, "estimatedMinutesWatched": 20000, "subscribersGained": 120, "subscribersLost": 20}],
+        "semana_anterior": [{"views": 25000, "estimatedMinutesWatched": 18000, "subscribersGained": 100, "subscribersLost": 25}],
+        "retencao": {"canal000000": curva, "canal000001": curva},
+    }
 
 
 def _item(titulo, fonte, horas):
@@ -102,6 +167,8 @@ def gerar():
     import json
     (PASTA / "agenda.json").write_text(json.dumps(AGENDA), "utf-8")
     (PASTA / "sugestoes.json").write_text(json.dumps(SUGESTOES, ensure_ascii=False), "utf-8")
+    (PASTA / "youtube.json").write_text(json.dumps(YOUTUBE, ensure_ascii=False), "utf-8")
+    (PASTA / "analytics.json").write_text(json.dumps(_analytics(), ensure_ascii=False), "utf-8")
     entries = "".join(
         f"<entry><title>{escape(t)}</title><link rel=\"alternate\" href=\"https://www.youtube.com/@nacoesdabola\"/>"
         f"<published>{(AGORA - timedelta(hours=h)).isoformat()}</published></entry>" for t, h in CANAL)

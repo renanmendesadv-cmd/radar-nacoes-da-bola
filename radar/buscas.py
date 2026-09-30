@@ -12,7 +12,7 @@ from urllib.parse import quote_plus
 
 from . import config as C
 from .collect import fetch
-from .score import norm
+from .score import norm, outro_esporte
 
 log = logging.getLogger("radar")
 
@@ -37,6 +37,8 @@ def especificas(semente: str, lista: list[str]) -> list[str]:
     base = set(norm(semente).split())
     saida = []
     for s in lista:
+        if outro_esporte(s):  # "seleção brasileira de voleibol" não é pauta do canal
+            continue
         resto = [p for p in norm(s).split() if p not in base and p not in GENERICAS and len(p) > 2]
         if resto:
             saida.append(s)

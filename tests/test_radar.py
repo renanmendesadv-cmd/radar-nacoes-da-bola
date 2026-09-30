@@ -165,3 +165,151 @@ def test_agenda_e_buscas_ponta_a_ponta(tmp_path):
     assert d["buscas_torcedor"]["flamengo"] == ["flamengo meia europeu", "flamengo x bahia"]
     html = (tmp_path / "data" / "ultimo-email.html").read_text("utf-8")
     assert "Estudiantes" in html
+
+
+# ---------------------------------------------------------------- versão 8
+
+def _rodar(tmp_path, **extra):
+    env = dict(os.environ, FIXTURES_DIR=str(F), AGORA=AGORA.isoformat(), DRY_RUN="1", OUT_DIR=str(tmp_path), **extra)
+    if "YOUTUBE_API_KEY" not in extra:
+        env.pop("YOUTUBE_API_KEY", None)
+    r = subprocess.run([sys.executable, "-m", "radar.main"], cwd=RAIZ, env=env, capture_output=True, text=True)
+    return r, json.loads((tmp_path / "docs" / "data.json").read_text("utf-8")) if r.returncode in (0, 3) else None
+
+
+def test_sementes_genericas_so_no_painel(tmp_path):
+    r, d = _rodar(tmp_path)
+    assert r.returncode == 0, r.stderr
+    # "brasileirão protesto torcida" casaria com a pauta do protesto do Corinthians, mas a semente é só do painel.
+    cor = next(t for t in d["temas"] if "Corinthians" in t["clubes"] and "rotest" in t["tema"])
+    assert cor["busca_torcedor"] is None
+    assert "brasileirão série b" in d["buscas_torcedor"]["brasileirão"]
+    # Busca de outro esporte some do painel.
+    assert d["buscas_torcedor"]["seleção brasileira"] == ["seleção brasileira convocação"]
+
+
+def test_outros_esportes_nas_buscas():
+    from radar import buscas
+    assert buscas.especificas("seleção brasileira", ["seleção brasileira de voleibol masculino",
+                                                     "seleção brasileira de futsal", "seleção brasileira convocação"]) \
+        == ["seleção brasileira convocação"]
+    assert score.outro_esporte("seleção brasileira de voleibol feminino")
+
+
+def test_agenda_plano_b_pelas_buscas(tmp_path):
+    r, d = _rodar(tmp_path)
+    nb = d["agenda"]["nas_buscas"]
+    jogos = [j["jogo"] for j in nb]
+    assert "Corinthians x Rival" in jogos       # próximo jogo pelas buscas ("fc" é genérico)
+    assert not any("Antigo" in j for j in jogos)                   # "resultado" = jogo já disputado
+    assert not any("Estudiantes" in j for j in jogos)              # já veio da ESPN, não repete
+    assert d["status"]["Agenda (buscas Google)"] == len(nb)
+    sug = {"palmeiras": ["palmeiras x ldu quito", "palmeiras x ldu onde assistir", "palmeiras x santos resultado"]}
+    j = agenda.jogos_das_buscas(sug, ["Palmeiras x LDU: onde assistir e escalações"])
+    assert [x["jogo"] for x in j] == ["Palmeiras x LDU Quito"] and j[0]["confianca"] == "alta"
+
+
+def test_espn_bloqueada_desiste_rapido(monkeypatch):
+    chamadas = []
+
+    def falso(url, **kw):
+        chamadas.append(url)
+        kw["info"]["status"] = 403
+        return None
+    monkeypatch.setattr(agenda, "fetch", falso)
+    assert agenda.coletar_espn() == []
+    assert len(chamadas) == 2  # um pedido por host, não 64
+
+
+def test_youtube_sem_chave_nao_muda_nota(tmp_path):
+    r, d = _rodar(tmp_path)
+    assert d["status"]["YouTube (48 h)"] == "sem chave"
+    assert all(t["sinais"]["youtube"] is None for t in d["temas"])
+    # Sem YouTube, a conta equivale aos pesos antigos 30/30/20/20.
+    s = {"busca": 0.5, "aceleracao": 0.8, "midia": 0.4, "aderencia": 1.0, "youtube": None}
+    antigo = 100 * (0.3 * 0.5 + 0.3 * 0.8 + 0.2 * 0.4 + 0.2 * 1.0) * 1.0
+    assert abs(score.nota_final(s, 1.0, False) - antigo) < 1e-9
+
+
+def test_youtube_com_chave(tmp_path):
+    r, d = _rodar(tmp_path, YOUTUBE_API_KEY="chave-de-teste")
+    assert r.returncode == 0, r.stderr
+    assert "chave-de-teste" not in r.stderr  # a chave nunca vai para o log
+    fla = next(t for t in d["temas"] if "Flamengo" in t["clubes"] and t["categoria"] == "Mercado da bola")
+    y = fla["youtube"]
+    assert y["n_videos"] == 2 and y["views"] == 222000                # vídeo fora do assunto é descartado
+    assert y["top"][0]["views"] == 180000 and fla["sinais"]["youtube"] > 0
+    estado = json.loads((tmp_path / "data" / "estado.json").read_text("utf-8"))
+    usadas = estado["youtube"]["buscas"]
+    assert 0 < usadas <= 12
+    # 2ª execução no mesmo dia: consultas repetidas vêm do cache, sem gastar cota.
+    _rodar(tmp_path, YOUTUBE_API_KEY="chave-de-teste")
+    estado = json.loads((tmp_path / "data" / "estado.json").read_text("utf-8"))
+    assert estado["youtube"]["buscas"] == usadas
+
+
+def test_youtube_limite_diario(tmp_path, monkeypatch):
+    from radar import youtube, config as C
+    temas = score.pontuar(bruto(), {}, AGORA)
+    estado = {"youtube": {"dia": AGORA.astimezone(youtube.PACIFICO).date().isoformat(), "buscas": C.YT_BUSCAS_DIA}}
+    youtube.enriquecer(temas, AGORA, "x", estado, tmp_path / "c.json", get=lambda *a, **k: 1 / 0)
+    assert estado["youtube"]["buscas"] == C.YT_BUSCAS_DIA and all("youtube" not in t for t in temas)
+
+
+def test_raiox_semanal(tmp_path):
+    r, d = _rodar(tmp_path, RAIOX="1")
+    assert r.returncode == 0, r.stderr
+    rel = json.loads((tmp_path / "docs" / "desempenho.json").read_text("utf-8"))
+    fmts = {f["formato"]: f for f in rel["formatos"]}
+    assert set(fmts) == {"Shorts", "Vídeos longos", "Lives"}
+    assert fmts["Shorts"]["indice"] > fmts["Lives"]["indice"]
+    assert rel["temas"][0]["nome"] == "Arbitragem e VAR"
+    f = rel["fatores_categoria"]
+    assert f["Arbitragem e VAR"] > 1 > f["Jogo e resultado"]
+    assert all(0.85 <= v <= 1.15 for v in f.values())
+    assert rel["retencao"][0]["metade_sai_em"] and rel["retencao"][0]["maior_queda"]["de"] == "0:48"  # 10% a 20% de 8 min
+    assert rel["retencao"][0]["fica_30s"] == 62
+    assert rel["trafego"][0]["origem"] == "Feed de Shorts"
+    assert rel["videos_inscritos"][0]["inscritos"] == 160
+    assert rel["recomendacoes"]
+    # Os fatores aprendidos já valem nas pautas do mesmo dia.
+    assert d["fatores_categoria"] == f
+    pesos = json.loads((tmp_path / "data" / "pesos-aprendidos.json").read_text("utf-8"))
+    assert pesos["categorias"] == f
+    html = (tmp_path / "data" / "ultimo-raiox.html").read_text("utf-8")
+    assert "Onde o público sai" in html and "Formatos que rendem" in html
+
+
+def test_raiox_sem_credenciais_nao_quebra(monkeypatch):
+    from radar import main as M
+    for k in ("YT_CLIENT_ID", "YT_CLIENT_SECRET", "YT_REFRESH_TOKEN"):
+        monkeypatch.delenv(k, raising=False)
+    assert M._raiox(AGORA, {}, None) == (None, None)
+
+
+def test_raiox_token_revogado_avisa():
+    from radar import analytics
+
+    class R:
+        status_code = 400
+
+        def json(self):
+            return {"error": "invalid_grant"}
+    try:
+        analytics.token_de_acesso("id", "segredo", "token", post=lambda *a, **k: R())
+        assert False
+    except analytics.ErroAnalytics as e:
+        assert "YT_REFRESH_TOKEN" in str(e) and "segredo" not in str(e)
+
+
+def test_fator_categoria_mexe_na_nota():
+    b = bruto()
+    t1 = score.pontuar(b, {}, AGORA)
+    b["fatores_categoria"] = {"Mercado da bola": 1.15}
+    t2 = score.pontuar(b, {}, AGORA)
+    n1 = {t["tema"]: t["nota"] for t in t1}
+    for t in t2:
+        if t["categoria"] == "Mercado da bola":
+            assert t["nota"] > n1[t["tema"]] or t["nota"] == 100
+        else:
+            assert t["nota"] == n1[t["tema"]]

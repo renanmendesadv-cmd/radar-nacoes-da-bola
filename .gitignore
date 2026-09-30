@@ -4,3 +4,4 @@ __pycache__/
 tests/fixtures/
 data/ultimo-email.html
 .env
+data/ultimo-raiox.html

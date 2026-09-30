@@ -80,7 +80,8 @@ h2{font:700 21px/1.2 var(--display);margin:0;letter-spacing:.01em;text-wrap:bala
 .pauta dd{margin:0}
 .thumb{font:800 17px var(--display);text-transform:uppercase;letter-spacing:.02em}
 .copiar{font:600 12px var(--body);border:1px solid var(--line);background:transparent;color:var(--muted);border-radius:6px;padding:2px 8px;cursor:pointer;white-space:nowrap}
-.sinais{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+.sinais{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px}
+@media (max-width:720px){.sinais{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media (max-width:520px){.sinais{grid-template-columns:repeat(2,minmax(0,1fr))}}
 .sinal{display:flex;flex-direction:column;gap:3px;font-size:12px;color:var(--muted)}
 .sinal b{color:var(--ink);font-variant-numeric:tabular-nums;font-weight:600}
@@ -118,6 +119,28 @@ aside{display:flex;flex-direction:column;gap:16px}
 .chip.torcedor{color:var(--accent)}
 .vazio{background:var(--card);border:1px dashed var(--line);border-radius:10px;padding:24px;text-align:center;color:var(--muted)}
 @media (prefers-reduced-motion:no-preference){.trilho i{transition:width .5s ease}}
+.sinal.na b{color:var(--muted);font-weight:500}
+.yt{font-size:14px;border-left:3px solid var(--hot);padding:2px 0 2px 10px;display:flex;flex-direction:column;gap:4px}
+.yt .cab{color:var(--muted);font-size:13px}
+.yt .cab b{color:var(--ink)}
+.yt ol{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:2px}
+.jogo .conf{font-size:12px;color:var(--muted)}
+.abas{display:flex;gap:4px;border-bottom:1px solid var(--line)}
+.aba{font:700 16px var(--display);letter-spacing:.08em;text-transform:uppercase;background:none;border:0;border-bottom:3px solid transparent;color:var(--muted);padding:8px 12px;cursor:pointer;margin-bottom:-1px}
+.aba[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+.dz{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,340px),1fr));gap:16px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}
+.kpi{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+.kpi .v{font:800 30px/1 var(--display);font-variant-numeric:tabular-nums}
+.kpi .r{font-size:13px;color:var(--muted)}
+.kpi .up{color:var(--accent)} .kpi .down{color:var(--hot)}
+.tab{width:100%;border-collapse:collapse;font-size:14px}
+.tab th{text-align:left;font:600 12px var(--body);color:var(--muted);padding:4px 8px 4px 0}
+.tab td{padding:6px 8px 6px 0;border-top:1px solid var(--line);vertical-align:top}
+.tab td.n{font-variant-numeric:tabular-nums;white-space:nowrap}
+.barra{display:inline-block;height:8px;border-radius:4px;background:var(--bar);vertical-align:middle;margin-right:6px}
+.recs{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
+.box.larga{grid-column:1/-1}
 </style>
 
 <div class="wrap">
@@ -132,6 +155,16 @@ aside{display:flex;flex-direction:column;gap:16px}
     </div>
   </header>
 
+  <div class="abas" role="tablist" aria-label="Seções do painel">
+    <button class="aba" role="tab" id="aba-pautas" aria-controls="painel-pautas" aria-selected="true" type="button">Pautas do dia</button>
+    <button class="aba" role="tab" id="aba-desempenho" aria-controls="painel-desempenho" aria-selected="false" type="button">Desempenho do canal</button>
+  </div>
+
+  <section id="painel-desempenho" role="tabpanel" aria-labelledby="aba-desempenho" hidden>
+    <div id="dz-conteudo" style="display:flex;flex-direction:column;gap:16px"></div>
+  </section>
+
+  <div id="painel-pautas" role="tabpanel" aria-labelledby="aba-pautas" style="display:flex;flex-direction:column;gap:20px">
   <div class="demo" id="demo" hidden>Prévia com temas de demonstração, fictícios, para mostrar como o painel funciona. A partir da primeira execução diária, o radar preenche esta página com as notícias reais do dia.</div>
 
   <div class="filtros" role="group" aria-label="Filtrar por clube">
@@ -173,16 +206,25 @@ aside{display:flex;flex-direction:column;gap:16px}
       </section>
       <section class="box">
         <h3>Como sai a nota</h3>
-        <p>Nota de 0 a 100, soma de quatro sinais:</p>
+        <p>Nota de 0 a 100, soma de cinco sinais. Sinal sem dado sai da conta e os outros pesos se redistribuem.</p>
         <div class="pesos" id="pesos"></div>
+        <p id="fatores-txt" style="margin-top:8px" hidden></p>
       </section>
     </aside>
+  </div>
   </div>
 </div>
 
 <script>
 (function(){
-  var NOMES = {busca:"Busca no Google", aceleracao:"Aceleração", midia:"Veículos falando", aderencia:"Aderência ao canal"};
+  var NOMES = {busca:"Busca no Google", aceleracao:"Aceleração", midia:"Veículos falando", aderencia:"Aderência ao canal", youtube:"Força no YouTube"};
+  function num(x){
+    x = x || 0;
+    if (x >= 1e6) return (x / 1e6).toLocaleString("pt-BR", {maximumFractionDigits:1}) + " mi";
+    if (x >= 1e4) return Math.round(x / 1e3).toLocaleString("pt-BR") + " mil";
+    if (x >= 1e3) return (x / 1e3).toLocaleString("pt-BR", {maximumFractionDigits:1}) + " mil";
+    return String(x);
+  }
   var FOCO = ["Flamengo","Corinthians","São Paulo","Palmeiras"];
   var estado = {clube:"", cat:""};
   var dados = null;
@@ -228,12 +270,26 @@ aside{display:flex;flex-direction:column;gap:16px}
     ]);
 
     var sinais = el("div", {cls:"sinais"}, Object.keys(NOMES).map(function(k){
-      var v = t.sinais[k] || 0;
-      return el("div", {cls:"sinal"}, [
-        el("span", null, [document.createTextNode(NOMES[k] + " "), el("b", {text:String(v)})]),
-        el("div", {cls:"trilho", role:"img", "aria-label": NOMES[k] + ": " + v + " de 100"}, [el("i", {style:"width:" + v + "%"})])
+      var bruto = t.sinais[k];
+      var sem = bruto === null || bruto === undefined;
+      var v = sem ? 0 : bruto;
+      return el("div", {cls:"sinal" + (sem ? " na" : "")}, [
+        el("span", null, [document.createTextNode(NOMES[k] + " "), el("b", {text: sem ? "—" : String(v)})]),
+        el("div", {cls:"trilho", role:"img", "aria-label": NOMES[k] + ": " + (sem ? "sem dado" : v + " de 100")}, [el("i", {style:"width:" + v + "%"})])
       ]);
     }));
+
+    var yt = null;
+    if (t.youtube){
+      var y = t.youtube;
+      yt = el("div", {cls:"yt"}, y.n_videos ? [
+        el("span", {cls:"cab"}, [el("b", {text:"No YouTube (48 h): "}),
+          document.createTextNode(y.n_videos + (y.mais_de ? "+" : "") + " vídeos · " + num(y.views) + " views · busca “" + y.consulta + "”")]),
+        el("ol", null, y.top.map(function(v){
+          return el("li", null, [link(v.url, v.titulo), el("span", {cls:"fonte-m", text:" · " + v.canal + " · " + num(v.views) + " views" + (v.do_canal ? " · seu canal" : "")})]);
+        }))
+      ] : [el("span", {cls:"cab", text:"No YouTube (48 h): nenhum vídeo sobre “" + y.consulta + "” ainda. Chance de chegar primeiro."})]);
+    }
 
     var coberto = null;
     if (t.ja_coberto){
@@ -247,7 +303,7 @@ aside{display:flex;flex-direction:column;gap:16px}
 
     return el("li", {cls:"tema" + (quente ? " quente" : "")}, [
       el("div", {cls:"placar"}, [el("span", {cls:"pos", text:"#" + (i + 1)}), el("span", {cls:"nota", text:String(Math.round(t.nota))}), el("span", {cls:"de", text:"DE 100"})]),
-      el("div", {cls:"corpo"}, [chips, el("h2", {text:t.tema}), pauta, sinais, coberto, det])
+      el("div", {cls:"corpo"}, [chips, el("h2", {text:t.tema}), pauta, sinais, yt, coberto, det])
     ]);
   }
 
@@ -290,6 +346,17 @@ aside{display:flex;flex-direction:column;gap:16px}
         el("span", {cls:"quando", text:quando(e)}),
         el("span", {text:"“" + e.gancho + "”"}),
         el("span", {cls:"quando", text:e.formato})
+      ]));
+    });
+    (ag.nas_buscas || []).forEach(function(j){
+      var conf = j.manchetes ? "Confirmado em " + j.manchetes + (j.manchetes === 1 ? " manchete" : " manchetes") + "."
+        : (j.confianca === "alta" ? "Torcedor já busca onde assistir / escalação." : "Sem data: confira antes de gravar.");
+      box.appendChild(el("div", {cls:"jogo"}, [
+        el("span", {cls:"tipo", text:"pré-jogo · em alta nas buscas"}),
+        el("span", {cls:"partida", text:j.jogo}),
+        el("span", {cls:"quando", text:"Buscas no Google: “" + j.sugestoes.join("”, “") + "”"}),
+        el("span", {text:"“" + j.gancho + "”"}),
+        el("span", {cls:"conf", text:conf})
       ]));
     });
     (ag.na_midia || []).forEach(function(j){
@@ -343,11 +410,99 @@ aside{display:flex;flex-direction:column;gap:16px}
     desenharBuscas(d.buscas_torcedor || {});
     var pesos = document.getElementById("pesos");
     Object.keys(NOMES).forEach(function(k){
+      if (!(d.pesos || {})[k]) return;
       pesos.appendChild(el("span", {text:NOMES[k]}));
-      pesos.appendChild(el("span", {text:Math.round((d.pesos || {})[k] * 100) + "%"}));
+      pesos.appendChild(el("span", {text:Math.round(d.pesos[k] * 100) + "%"}));
     });
+    var fat = d.fatores_categoria || {};
+    var mudados = Object.keys(fat).filter(function(k){ return Math.abs(fat[k] - 1) >= 0.01; });
+    if (mudados.length){
+      var ft = document.getElementById("fatores-txt");
+      ft.textContent = "Ajuste pelo desempenho do canal: " + mudados.map(function(k){
+        return k + " " + fat[k].toLocaleString("pt-BR", {minimumFractionDigits:2, maximumFractionDigits:2}) + "x";
+      }).join(" · ") + ".";
+      ft.hidden = false;
+    }
     desenharLista();
   }
+
+  // ------------------------------------------------------------ aba Desempenho
+  var dzCarregado = false;
+  function x(v){ return v === null || v === undefined ? "—" : v.toLocaleString("pt-BR", {minimumFractionDigits:1, maximumFractionDigits:1}) + "x"; }
+  function tabela(cab, linhas){
+    return el("table", {cls:"tab"}, [el("thead", null, [el("tr", null, cab.map(function(c){ return el("th", {text:c}); }))]),
+      el("tbody", null, linhas.map(function(l){ return el("tr", null, l.map(function(c){
+        if (c && c.nodeType) return el("td", null, [c]);
+        return el("td", {cls: typeof c === "number" || /^[\d+−–.,%x—\s]+(mil|mi)?$/.test(String(c)) ? "n" : "", text:String(c)});
+      })); }))]);
+  }
+  function caixa(titulo, sub, filhos, larga){
+    return el("section", {cls:"box" + (larga ? " larga" : "")}, [el("h3", {text:titulo})].concat(sub ? [el("p", {text:sub, style:"margin-bottom:8px"})] : []).concat(filhos));
+  }
+  function barra(pct){ return el("span", null, [el("i", {cls:"barra", style:"width:" + Math.max(2, Math.round(pct * 1.2)) + "px"}), document.createTextNode(Math.round(pct) + "%")]); }
+  function kpi(nome, o, menorMelhor){
+    var v = o.variacao;
+    var bom = menorMelhor ? v < 0 : v > 0, ruim = menorMelhor ? v > 0 : v < 0;
+    var r = v === null || v === undefined ? "sem comparação" : (v >= 0 ? "+" : "") + v.toLocaleString("pt-BR") + "% vs. semana anterior";
+    return el("div", {cls:"kpi"}, [el("div", {cls:"r", text:nome}), el("div", {cls:"v", text:num(o.atual)}),
+      el("div", {cls:"r " + (bom ? "up" : (ruim ? "down" : "")), text:r})]);
+  }
+  function desenharDesempenho(r){
+    var box = document.getElementById("dz-conteudo");
+    box.replaceChildren();
+    if (!r || r.oculto){
+      box.appendChild(el("div", {cls:"vazio", text: r && r.oculto
+        ? "O Raio-X está configurado para sair só no e-mail de segunda-feira (variável RAIOX_PAINEL = 0)."
+        : "O Raio-X semanal ainda não rodou. Ele sai toda segunda-feira depois que o dono do canal autorizar o acesso somente leitura (passo a passo no README, seção “Raio-X do canal”)."}));
+      return;
+    }
+    var p = r.periodo, fmt = function(s){ return s.slice(8, 10) + "/" + s.slice(5, 7); };
+    box.appendChild(el("p", {style:"margin:0;color:var(--muted);font-size:14px", text:
+      r.canal.nome + " · YouTube Analytics de " + fmt(p.inicio) + " a " + fmt(p.fim) + " (o YouTube fecha os números com 2 a 3 dias de atraso). " +
+      "“Views em 7 dias” = views de cada vídeo na primeira semana, para comparar vídeos de idades diferentes; mediana do canal: " + num(r.mediana_v7) + "."}));
+    var s = r.resumo_semana;
+    box.appendChild(el("div", {cls:"kpis"}, [kpi("Views na semana", s.views), kpi("Minutos assistidos", s.minutos),
+      kpi("Inscritos ganhos", s.inscritos_ganhos), kpi("Inscritos perdidos", s.inscritos_perdidos, true)]));
+    var g = el("div", {cls:"dz"});
+    if (r.recomendacoes.length) g.appendChild(caixa("O que fazer nesta semana", null, [el("ul", {cls:"recs"}, r.recomendacoes.map(function(t){ return el("li", {text:t}); }))], true));
+    g.appendChild(caixa("Formatos que rendem", "Últimas 4 semanas. “vs. canal” compara as views em 7 dias com a mediana do canal.",
+      [tabela(["Formato", "Views", "Inscritos", "Views em 7 dias", "vs. canal"], r.formatos.map(function(f){
+        return [f.formato, barra(f.pct_views || 0), f.inscritos === undefined ? "—" : f.inscritos, num(f.mediana_v7), x(f.indice)]; }))]));
+    g.appendChild(caixa("Temas que rendem", "Categorias do radar. O peso no radar é ajustado sozinho toda semana (0,85x a 1,15x).",
+      [tabela(["Tema", "Vídeos", "Views em 7 dias", "vs. canal", "Peso no radar"], r.temas.map(function(t){
+        return [t.nome, t.n_videos, num(t.mediana_v7), x(t.indice), r.fatores_categoria[t.nome] ? x(r.fatores_categoria[t.nome]) : "—"]; }))]));
+    if (r.retencao.length) g.appendChild(caixa("Onde o público sai", "Vídeos longos e lives mais vistos. Maior queda = trecho com saída mais rápida depois dos 30 s iniciais.",
+      [tabela(["Vídeo", "Fica após 30 s", "Metade sai em", "Maior queda"], r.retencao.map(function(v){
+        return [el("span", null, [link(v.url, v.titulo), el("span", {cls:"fonte-m", text:" · " + v.formato + " · " + v.duracao})]),
+          v.fica_30s === null ? "—" : v.fica_30s + "%", v.metade_sai_em || "não chega",
+          v.maior_queda ? v.maior_queda.de + "–" + v.maior_queda.ate + " (−" + v.maior_queda.pontos + " pts)" : "—"]; }))], true));
+    g.appendChild(caixa("De onde vem o público", null, [tabela(["Origem", "Views"], r.trafego.map(function(t){ return [t.origem, barra(t.pct)]; }))]));
+    g.appendChild(caixa("Melhor dia e horário", "Mediana das views em 7 dias por dia e faixa de publicação (mínimo de 2 vídeos).",
+      [tabela(["Quando", "Vídeos", "Views em 7 dias", "vs. canal"], r.melhores_dias.concat(r.melhores_horarios).map(function(d){
+        return [d.quando, d.n_videos, num(d.mediana_v7), x(d.indice)]; }))]));
+    g.appendChild(caixa("Vídeos que trouxeram inscritos", null, [tabela(["Vídeo", "Inscritos"], r.videos_inscritos.map(function(v){
+      return [el("span", null, [link(v.url, v.titulo), el("span", {cls:"fonte-m", text:" · " + v.formato})]), "+" + v.inscritos]; }))]));
+    g.appendChild(caixa("Melhores estreias", "Views nos 7 primeiros dias.", [tabela(["Vídeo", "Views em 7 dias"], r.top_v7.map(function(v){
+      return [el("span", null, [link(v.url, v.titulo), el("span", {cls:"fonte-m", text:" · " + v.formato + " · " + v.categoria})]), num(v.v7)]; }))]));
+    box.appendChild(g);
+  }
+  function abrirAba(nome){
+    var dz = nome === "desempenho";
+    document.getElementById("aba-pautas").setAttribute("aria-selected", String(!dz));
+    document.getElementById("aba-desempenho").setAttribute("aria-selected", String(dz));
+    document.getElementById("painel-pautas").hidden = dz;
+    document.getElementById("painel-pautas").style.display = dz ? "none" : "flex";
+    document.getElementById("painel-desempenho").hidden = !dz;
+    if (dz && !dzCarregado){
+      dzCarregado = true;
+      if (window.RADAR_DESEMPENHO !== undefined){ desenharDesempenho(window.RADAR_DESEMPENHO); return; }
+      fetch("desempenho.json", {cache:"no-store"}).then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
+        .then(desenharDesempenho, function(){ desenharDesempenho(null); });
+    }
+  }
+  document.getElementById("aba-pautas").addEventListener("click", function(){ abrirAba("pautas"); try { history.replaceState(null, "", "#"); } catch (e) {} });
+  document.getElementById("aba-desempenho").addEventListener("click", function(){ abrirAba("desempenho"); try { history.replaceState(null, "", "#desempenho"); } catch (e) {} });
+  if (location.hash === "#desempenho") abrirAba("desempenho");
 
   document.querySelectorAll(".pill").forEach(function(b){
     b.addEventListener("click", function(){

@@ -195,6 +195,42 @@ def nota_busca_torcedor(tema_tokens: set[str], semente: str, lista: list[str]) -
     return 0.0, None
 
 
+def nota_youtube(views: int, n_videos: int) -> float:
+    """Força no YouTube: views somadas dos vídeos das últimas 48 h (1 milhão = máximo),
+    com um pouco de peso para a quantidade de vídeos (muita gente postando = assunto quente)."""
+    if not n_videos:
+        return 0.0
+    v = min(1.0, math.log10(views + 1) / 6)
+    n = min(1.0, math.log1p(n_videos) / math.log1p(25))
+    return 0.75 * v + 0.25 * n
+
+
+def nota_final(sinais: dict, aderencia: float, coberto: bool, fator_categoria: float = 1.0,
+               pesos: dict | None = None) -> float:
+    """Média ponderada dos sinais disponíveis (0 a 1), em escala 0 a 100.
+
+    Sinal ausente (None ou fora do dicionário) sai da conta e os pesos restantes são
+    redistribuídos, assim um tema sem dado do YouTube não é punido por isso."""
+    pesos = pesos or C.PESOS
+    presentes = {k: v for k, v in sinais.items() if v is not None and k in pesos}
+    total = sum(pesos[k] for k in presentes) or 1.0
+    base = sum(pesos[k] * v for k, v in presentes.items()) / total
+    # A aderência também multiplica a nota: um assunto quente sem ligação com o canal
+    # (jogo de outro país, notícia fora do futebol brasileiro) não deve liderar a pauta.
+    nota = 100 * base * (0.55 + 0.45 * aderencia) * fator_categoria
+    if coberto:
+        nota *= 0.85
+    return min(100.0, nota)
+
+
+def recalcular(tema: dict, fatores: dict | None = None) -> dict:
+    """Refaz a nota de um tema depois de somar um sinal novo (ex.: YouTube)."""
+    s = {k: (v / 100 if v is not None else None) for k, v in tema["sinais"].items()}
+    fator = (fatores or {}).get(tema["categoria"], 1.0)
+    tema["nota"] = round(nota_final(s, s.get("aderencia") or 0, bool(tema.get("ja_coberto")), fator), 1)
+    return tema
+
+
 def nota_midia(n_fontes: int) -> float:
     return min(1.0, math.log1p(n_fontes) / math.log1p(10))
 
@@ -285,6 +321,7 @@ def sugestao(cat: str, ent: dict, rep_titulo: str) -> dict:
 
 def pontuar(bruto: dict, historico: dict, agora: datetime | None = None) -> list[dict]:
     agora = agora or datetime.now(timezone.utc)
+    fatores = bruto.get("fatores_categoria") or {}
     termos = [t for t in bruto["termos"] if termo_de_futebol(t)]
     for t in termos:
         t["noticias"] = [n for n in t["noticias"] if not espanhol(n["titulo"]) and not outro_esporte(n["titulo"])]
@@ -339,6 +376,9 @@ def pontuar(bruto: dict, historico: dict, agora: datetime | None = None) -> list
         toks_tema = set().union(*(i["_tok"] for i in itens)) | set().union(*(tokens(t) for t in g["termos"]))
         busca_torcedor, sugestao_busca = 0.0, None
         for semente, lista in (bruto.get("sugestoes") or {}).items():
+            if semente in C.SEMENTES_SO_PAINEL or semente in C.SEMENTES_JOGO.values():
+                continue
+            lista = [x for x in lista if not outro_esporte(x)]
             n, s_ = nota_busca_torcedor(toks_tema, semente, lista)
             if n > busca_torcedor:
                 busca_torcedor, sugestao_busca = n, s_
@@ -348,17 +388,13 @@ def pontuar(bruto: dict, historico: dict, agora: datetime | None = None) -> list
             "midia": nota_midia(len(fontes)),
             "aderencia": nota_aderencia(ent, cat),
         }
-        # A aderência também multiplica a nota: um assunto quente sem ligação com o canal
-        # (jogo de outro país, notícia fora do futebol brasileiro) não deve liderar a pauta.
-        nota = 100 * sum(C.PESOS[k] * v for k, v in sinais.items()) * (0.55 + 0.45 * sinais["aderencia"])
-
         coberto = None
         for v, vt, ve in videos_tok:
             comum_ent = set(ve["foco"] + ve["br"]) & set(ent["foco"] + ent["br"])
             if jaccard(vt, set(assin)) >= 0.3 or (comum_ent and len(vt & set(assin)) >= 2):
                 coberto = {"titulo": v["titulo"], "url": v["url"]}
-                nota *= 0.85
                 break
+        nota = nota_final(sinais, sinais["aderencia"], bool(coberto), fatores.get(cat, 1.0))
 
         temas.append({
             "tema": rep["titulo"],
@@ -366,7 +402,8 @@ def pontuar(bruto: dict, historico: dict, agora: datetime | None = None) -> list
             "clubes": ent["foco"] + ent["br"],
             "foco": bool(ent["foco"]),
             "nota": round(nota, 1),
-            "sinais": {k: round(v * 100) for k, v in sinais.items()},
+            "sinais": {**{k: round(v * 100) for k, v in sinais.items()}, "youtube": None},
+            "fator_categoria": fatores.get(cat, 1.0),
             "trafego_google": g["trafego"],
             "busca_torcedor": sugestao_busca,
             "termos_trends": g["termos"],

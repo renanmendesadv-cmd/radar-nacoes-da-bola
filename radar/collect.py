@@ -29,17 +29,25 @@ NEWS_URL = "https://news.google.com/rss/search?q={q}+when:1d&hl=pt-BR&gl=BR&ceid
 YT_FEED = "https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
 
 
-def fetch(url: str, tentativas: int = 3, pausa: float = 2.0, insistir_404: bool = False) -> str | None:
-    """GET com poucas tentativas e pausa crescente (respeita limites das fontes)."""
+def fetch(url: str, tentativas: int = 3, pausa: float = 2.0, insistir_404: bool = False,
+          headers: dict | None = None, info: dict | None = None) -> str | None:
+    """GET com poucas tentativas e pausa crescente (respeita limites das fontes).
+
+    `info`, se informado, recebe o último código HTTP em info["status"] (0 = falha de rede)."""
     for i in range(tentativas):
         try:
-            r = requests.get(url, headers={"User-Agent": UA, "Accept-Language": "pt-BR"}, timeout=20)
+            r = requests.get(url, headers={"User-Agent": UA, "Accept-Language": "pt-BR", **(headers or {})},
+                             timeout=20)
+            if info is not None:
+                info["status"] = r.status_code
             if r.status_code == 200:
                 return r.text
             log.warning("HTTP %s em %s", r.status_code, url)
             if r.status_code in (404, 403) and not insistir_404:
                 return None
         except requests.RequestException as e:
+            if info is not None:
+                info["status"] = 0
             log.warning("Falha de rede em %s: %s", url, e)
         time.sleep(pausa * (i + 1))
     return None

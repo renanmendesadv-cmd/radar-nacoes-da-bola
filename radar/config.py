@@ -30,8 +30,11 @@ APELIDOS_AMBIGUOS = {"bahia", "fortaleza", "ceara", "santos", "galo", "colorado"
                      "juventude", "mirassol", "athletico", "sport recife"}
 
 # Outros esportes dos mesmos clubes (vôlei, basquete...): manchetes com estas palavras saem.
-OUTROS_ESPORTES = ["volei", "supervolei", "superliga", "basquete", "nbb", "futsal", "handebol",
-                   "sesc rj", "beach tennis", "e-sports", "esports", "natacao", "remo "]
+# Casam no início da palavra: "volei" pega "vôlei" e "voleibol".
+OUTROS_ESPORTES = ["volei", "supervolei", "superliga", "basquete", "nbb", "nba", "futsal", "handebol",
+                   "sesc rj", "beach tennis", "beach soccer", "futebol de areia", "futebol americano", "nfl ",
+                   "e-sports", "esports", "natacao", "remo ", "ufc", "mma ", "ginastica", "atletismo",
+                   "polo aquatico", "judo", "skate"]
 
 # Palavras típicas de espanhol: manchetes nessa língua saem do radar (canal é em português).
 MARCAS_ESPANHOL = ["el", "los", "del", "con", "y", "hoy", "recibe", "partido", "futbol", "las", "ante"]
@@ -91,19 +94,30 @@ BONUS_VIRAL = {"Finanças e gestão": 0.15, "Polêmica e bastidor": 0.25, "Arbit
                "Técnico": 0.15}
 
 # Pesos da nota final (somam 1.0). Espelham o documento de estratégia.
-PESOS = {"busca": 0.30, "aceleracao": 0.30, "midia": 0.20, "aderencia": 0.20}
+# Sinal ausente (ex.: YouTube sem chave, ou tema fora do lote consultado) sai da conta
+# e os demais pesos são redistribuídos proporcionalmente (sem YouTube: 30/30/20/20).
+PESOS = {"busca": 0.24, "aceleracao": 0.24, "midia": 0.16, "aderencia": 0.16, "youtube": 0.20}
 
 TOP_EMAIL = 5      # pautas no e-mail
 TOP_PAINEL = 15    # pautas no painel
 
 
-# ---- Agenda de jogos (ESPN, gratuita) -------------------------------------------
+# ---- Agenda de jogos -----------------------------------------------------------
+# ESPN (gratuita). Desde 29/09/2026 responde 403 para os servidores do GitHub Actions;
+# o radar tenta uma vez por host e, se bloqueado, usa as buscas do Google como plano B.
 ESPN_IDS = {"Flamengo": 819, "Corinthians": 874, "São Paulo": 2026, "Palmeiras": 2029}
 ESPN_LIGAS = ["bra.1", "conmebol.libertadores", "conmebol.sudamericana", "bra.copa_do_brazil"]
+ESPN_HOSTS = ["site.api.espn.com", "site.web.api.espn.com"]
+# Plano B: "palmeiras x" no autocompletar do Google revela o próximo adversário ("palmeiras x ldu").
+SEMENTES_JOGO = {"Flamengo": "flamengo x", "Corinthians": "corinthians x", "São Paulo": "são paulo x",
+                 "Palmeiras": "palmeiras x"}
 
 # ---- Buscas do torcedor (autocompletar do Google) --------------------------------
 BUSCAS_TORCEDOR = ["flamengo", "corinthians", "são paulo fc", "palmeiras", "seleção brasileira",
                    "brasileirão"]
+# Sementes genéricas: aparecem no painel, mas não mexem na nota (evita "brasileirão série b"
+# casar com qualquer pauta que cite a Série A/B).
+SEMENTES_SO_PAINEL = {"seleção brasileira", "brasileirão"}
 NOMES_POR_EXECUCAO = 8   # nomes tirados das pautas do dia para consultar
 
 # Palavras que não indicam assunto nas sugestões de busca ("flamengo jogo hoje" é genérico).
@@ -113,3 +127,21 @@ ultimas agora resultado placar proximo proximos ingresso ingressos elenco site o
 hino simbolo historia titulos escudo wallpaper futemax multicanais globo sofascore ontem amanha
 x e de do da das dos fc sub feminino masculino ao
 """.split())
+
+
+# ---- Força no YouTube (YouTube Data API v3, chave gratuita) ------------------------
+# Cada busca custa 100 unidades da cota diária de 10.000. O radar gasta no máximo
+# YT_BUSCAS_DIA buscas por dia (contando execuções manuais) e reaproveita o resultado
+# de uma mesma consulta no mesmo dia.
+YT_BUSCAS_DIA = 20
+YT_BUSCAS_POR_EXECUCAO = 12   # pautas do topo consultadas por execução
+YT_HORAS = 48                 # janela de publicação dos vídeos
+
+# ---- Raio-X semanal do canal (YouTube Analytics, só leitura) -----------------------
+RAIOX_DIA_SEMANA = 0          # 0 = segunda-feira
+RAIOX_DIAS = 90               # janela de vídeos analisados
+RAIOX_MAX_VIDEOS = 40         # vídeos com análise individual (views nos 7 primeiros dias)
+# Ajuste automático: cada categoria recebe um fator entre estes limites conforme o desempenho
+# dos vídeos do canal sobre ela (precisa de pelo menos RAIOX_MIN_VIDEOS_CATEGORIA vídeos).
+FATOR_CATEGORIA_MIN, FATOR_CATEGORIA_MAX = 0.85, 1.15
+RAIOX_MIN_VIDEOS_CATEGORIA = 3
