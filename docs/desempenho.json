@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-30T03:18:16.929034+00:00",
+ "gerado_em": "2026-09-30T03:27:47.674080+00:00",
  "canal": {
   "id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
   "nome": "NAÇÕES DA BOLA o canal de todas as torcidas",
@@ -10,7 +10,7 @@
   "fim": "2026-09-27",
   "janela_inicio": "2026-06-30"
  },
- "n_videos": 62,
+ "n_videos": 63,
  "n_videos_v7": 40,
  "mediana_v7": 132,
  "resumo_semana": {
@@ -437,5 +437,6 @@
   "Tema que mais rende: Jogo e resultado (1,2x a mediana). O radar já dá peso maior a ele.",
   "Maior origem de público: Página inicial e inscrições (85% das views).",
   "Melhor momento para publicar: domingo, noite (18h–24h) (mediana de views nos 7 primeiros dias)."
- ]
+ ],
+ "pesos_ajustados_em": "2026-09-30T03:18:16.929034+00:00"
 }
