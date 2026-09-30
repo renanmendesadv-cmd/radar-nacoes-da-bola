@@ -525,16 +525,22 @@ details ul,details ol{margin:6px 0 0;padding-left:20px;display:flex;flex-directi
   // Barra empilhada 100% (parte de cada formato), com 2px de respiro entre as partes.
   function empilhada(partes, fmt){
     return function(w){
-      var esc = escalaFonte(), h = Math.round(40 * esc), tot = partes.reduce(function(a, p){ return a + p.valor; }, 0) || 1;
+      var esc = escalaFonte(), h = Math.round(40 * esc), GAP = 2, MIN = 3;
+      var vis = partes.filter(function(p){ return p.valor > 0; });
+      var tot = vis.reduce(function(a, p){ return a + p.valor; }, 0) || 1;
       var s = sv("svg", {viewBox:"0 0 " + w + " " + h, width:w, height:h});
-      var x = 0, vis = partes.filter(function(p){ return p.valor > 0; });
+      // Fatia muito pequena (ex.: 0,2%) ganha 3px para continuar visível; o número exato fica na dica e na tabela.
+      var util = w - GAP * Math.max(0, vis.length - 1);
+      var larg = vis.map(function(p){ return Math.max(MIN, util * p.valor / tot); });
+      var excesso = larg.reduce(function(a, b){ return a + b; }, 0) - util;
+      var maior = larg.indexOf(Math.max.apply(null, larg));
+      if (maior >= 0) larg[maior] = Math.max(MIN, larg[maior] - excesso);
+      var x = 0;
       vis.forEach(function(p, i){
-        var pw = w * p.valor / tot - (i < vis.length - 1 ? 2 : 0), g = sv("g");
-        var r = Math.min(4, pw / 2);
-        var prim = i === 0, ult = i === vis.length - 1;
-        g.appendChild(sv("rect", {class:"m", x:x, y:0, width:Math.max(1, pw), height:h, rx: (prim || ult) ? r : 0, fill:p.cor}));
+        var pw = larg[i], g = sv("g");
+        g.appendChild(sv("rect", {class:"m", x:x, y:0, width:pw, height:h, rx:Math.min(4, pw / 2), fill:p.cor}));
         s.appendChild(interativo(g, fmt(p.valor) + " (" + pct(100 * p.valor / tot) + ")", p.nome));
-        x += pw + 2;
+        x += pw + GAP;
       });
       return s;
     };
