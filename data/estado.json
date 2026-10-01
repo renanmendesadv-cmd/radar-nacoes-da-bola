@@ -1,9 +1,9 @@
 {
- "ultima_execucao": "2026-10-01T02:31:35.088463+00:00",
- "ultimo_email": "2026-09-30T16:31:14.945089+00:00",
+ "ultima_execucao": "2026-10-01T17:09:17.702121+00:00",
+ "ultimo_email": "2026-10-01T17:09:17.702121+00:00",
  "youtube": {
-  "dia": "2026-09-30",
-  "buscas": 20
+  "dia": "2026-10-01",
+  "buscas": 12
  },
  "ultimo_raiox": "2026-09-30",
  "alertas": {
@@ -72,5 +72,5 @@
    "Horas assistidas públicas (12 meses)"
   ]
  },
- "ultima_agendada": "2026-09-30"
+ "ultima_agendada": "2026-10-01"
 }

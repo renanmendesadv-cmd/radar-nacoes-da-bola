@@ -1,38 +1,38 @@
 {
- "gerado_em": "2026-10-01T02:31:35.088463+00:00",
+ "gerado_em": "2026-10-01T17:09:17.702121+00:00",
  "canal": {
   "id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
   "nome": "NAÇÕES DA BOLA o canal de todas as torcidas",
   "inscritos": 5910
  },
  "periodo": {
-  "inicio": "2026-08-31",
-  "fim": "2026-09-27",
-  "janela_inicio": "2026-06-30"
+  "inicio": "2026-09-01",
+  "fim": "2026-09-28",
+  "janela_inicio": "2026-07-01"
  },
- "n_videos": 62,
+ "n_videos": 60,
  "n_videos_v7": 40,
  "mediana_v7": 132,
  "resumo_semana": {
   "views": {
-   "atual": 2784,
-   "anterior": 4932,
-   "variacao": -43.6
+   "atual": 4312,
+   "anterior": 4982,
+   "variacao": -13.4
   },
   "minutos": {
-   "atual": 2557,
-   "anterior": 3003,
-   "variacao": -14.9
+   "atual": 2890,
+   "anterior": 3198,
+   "variacao": -9.6
   },
   "inscritos_ganhos": {
-   "atual": 7,
-   "anterior": 3,
-   "variacao": 133.3
+   "atual": 10,
+   "anterior": 2,
+   "variacao": 400.0
   },
   "inscritos_perdidos": {
-   "atual": 2,
-   "anterior": 2,
-   "variacao": 0.0
+   "atual": 1,
+   "anterior": 3,
+   "variacao": -66.7
   }
  },
  "formatos": [
@@ -53,7 +53,7 @@
    "mediana_v7": 0,
    "indice": null,
    "pct_assistido": null,
-   "views": 30,
+   "views": 32,
    "pct_views": 0.2,
    "inscritos": 0,
    "minutos": 25
@@ -64,10 +64,10 @@
    "mediana_v7": 132,
    "indice": 1.0,
    "pct_assistido": 4.4,
-   "views": 15349,
+   "views": 16968,
    "pct_views": 99.6,
-   "inscritos": 14,
-   "minutos": 9733
+   "inscritos": 16,
+   "minutos": 10225
   }
  ],
  "tipos": [
@@ -211,7 +211,7 @@
    "maior_queda": {
     "de": "1:22",
     "ate": "2:44",
-    "pontos": 88
+    "pontos": 89
    },
    "chega_ao_fim": 2
   },
@@ -230,49 +230,33 @@
     "pontos": 91
    },
    "chega_ao_fim": 9
-  },
-  {
-   "titulo": "SANTOS  X  PALMEIRAS -  VOLTA",
-   "url": "https://www.youtube.com/watch?v=B7OPvYomTC0",
-   "formato": "Lives",
-   "duracao": "2:22:45",
-   "pct_assistido": 0.9,
-   "fica_30s": null,
-   "metade_sai_em": "2:51",
-   "metade_sai_pct": 2,
-   "maior_queda": {
-    "de": "1:26",
-    "ate": "2:51",
-    "pontos": 83
-   },
-   "chega_ao_fim": 2
   }
  ],
  "trafego": [
   {
    "origem": "Página inicial e inscrições",
-   "views": 13073,
-   "pct": 84.8
+   "views": 14396,
+   "pct": 84.5
   },
   {
    "origem": "Vídeos sugeridos",
-   "views": 1133,
-   "pct": 7.4
+   "views": 1470,
+   "pct": 8.6
   },
   {
    "origem": "Sites e apps externos",
-   "views": 463,
-   "pct": 3.0
+   "views": 399,
+   "pct": 2.3
   },
   {
    "origem": "Busca do YouTube",
-   "views": 257,
-   "pct": 1.7
+   "views": 275,
+   "pct": 1.6
   },
   {
    "origem": "Página do canal",
-   "views": 204,
-   "pct": 1.3
+   "views": 202,
+   "pct": 1.2
   },
   {
    "origem": "Notificações",
@@ -281,12 +265,12 @@
   },
   {
    "origem": "Acesso direto ou desconhecido",
-   "views": 82,
+   "views": 87,
    "pct": 0.5
   },
   {
    "origem": "Outras páginas do YouTube",
-   "views": 56,
+   "views": 60,
    "pct": 0.4
   }
  ],
@@ -344,11 +328,18 @@
  ],
  "videos_inscritos": [
   {
+   "titulo": "BÉLGICA   X  FRANÇA - 2ª RODADA",
+   "url": "https://www.youtube.com/watch?v=LipNKeyEO1k",
+   "formato": "Lives",
+   "inscritos": 3,
+   "views": 1717
+  },
+  {
    "titulo": "FLU AFUNDA TIMÃO /VERDÃO PARA NAS MÃOS DE EX/TRICOLOR BATE INTER NO SUFOCO/MENGÃO ABRE SOBRE VERDÃO",
    "url": "https://www.youtube.com/watch?v=5G-G0JQj4rU",
    "formato": "Lives",
    "inscritos": 3,
-   "views": 332
+   "views": 336
   },
   {
    "titulo": "SAI  PRO JOGO  # 215",
@@ -369,14 +360,7 @@
    "url": "https://www.youtube.com/watch?v=NXHprVpRKOY",
    "formato": "Lives",
    "inscritos": 2,
-   "views": 891
-  },
-  {
-   "titulo": "E AQUELA \"GORDURA\" VERDÃO?/PEIXÃO GRANDE VITÓRIA/ATÉ QUE ENFIM TRICOLOR/MENGÃO CHEGOU/ADEUS,MESSI",
-   "url": "https://www.youtube.com/watch?v=HPuRdmxKB-U",
-   "formato": "Lives",
-   "inscritos": 2,
-   "views": 270
+   "views": 910
   }
  ],
  "top_v7": [
@@ -432,33 +416,33 @@
   "Jogo e resultado": 1.056
  },
  "alcance": {
-  "impressoes": 96550,
-  "ctr": 4.7,
+  "impressoes": 100778,
+  "ctr": 5.4,
   "por_formato": [
    {
     "nome": "Lives",
-    "impressoes": 94630,
-    "ctr": 4.7,
-    "n_videos": 41
+    "impressoes": 98826,
+    "ctr": 5.4,
+    "n_videos": 42
    }
   ],
   "por_tipo": [
    {
     "nome": "Transmissão de jogo",
-    "impressoes": 74138,
-    "ctr": 5.6,
-    "n_videos": 21
+    "impressoes": 79291,
+    "ctr": 6.3,
+    "n_videos": 22
    },
    {
     "nome": "Sai pro Jogo (programa)",
-    "impressoes": 3341,
-    "ctr": 2.0,
+    "impressoes": 2884,
+    "ctr": 2.4,
     "n_videos": 5
    },
    {
     "nome": "Resenha multitemas",
-    "impressoes": 15700,
-    "ctr": 1.7,
+    "impressoes": 15200,
+    "ctr": 1.8,
     "n_videos": 12
    }
   ],
@@ -466,10 +450,18 @@
    {
     "titulo": "NORUEGA  X  PORTUGAL - 2ª  RODADA",
     "url": "https://www.youtube.com/watch?v=JdjD9CTWZi8",
-    "impressoes": 2418,
-    "ctr": 23.4,
+    "impressoes": 2571,
+    "ctr": 22.1,
     "formato": "Lives",
     "pct_assistido": 1.1
+   },
+   {
+    "titulo": "BÉLGICA   X  FRANÇA - 2ª RODADA",
+    "url": "https://www.youtube.com/watch?v=LipNKeyEO1k",
+    "impressoes": 4811,
+    "ctr": 17.9,
+    "formato": "Lives",
+    "pct_assistido": 2.4
    },
    {
     "titulo": "BOTAFOGO   X   PALMEIRAS -  26ª RODADA",
@@ -482,36 +474,28 @@
    {
     "titulo": "NORUEGA X PORTUGAL",
     "url": "https://www.youtube.com/watch?v=NXHprVpRKOY",
-    "impressoes": 4644,
-    "ctr": 9.3,
+    "impressoes": 4857,
+    "ctr": 9.0,
     "formato": "Lives",
     "pct_assistido": 2.5
    },
    {
     "titulo": "CORINTHIANS  X  FLUMINENSE - 28ª RODADA",
     "url": "https://www.youtube.com/watch?v=ixh02th_l_k",
-    "impressoes": 7943,
+    "impressoes": 7951,
     "ctr": 7.2,
     "formato": "Lives",
     "pct_assistido": 1.1
-   },
-   {
-    "titulo": "BOCA JUNIORS   X   SÃO PAULO - JOGO DE IDA",
-    "url": "https://www.youtube.com/watch?v=4ylvD1coqJg",
-    "impressoes": 11144,
-    "ctr": 6.1,
-    "formato": "Lives",
-    "pct_assistido": 0.7
    }
   ],
   "piores": [
    {
     "titulo": "A NOVA SELEÇÃO NA TERRA DOS CANGURUS/NDB PERGUNTA; QUAL É O CRAQUE DO BR-26 ?/BATISTA SALVA O INTER?",
     "url": "https://www.youtube.com/watch?v=__pBi2iRdIo",
-    "impressoes": 3232,
+    "impressoes": 3258,
     "ctr": 1.1,
     "formato": "Lives",
-    "pct_assistido": 13.0
+    "pct_assistido": 12.8
    },
    {
     "titulo": "E AQUELA \"GORDURA\" VERDÃO?/PEIXÃO GRANDE VITÓRIA/ATÉ QUE ENFIM TRICOLOR/MENGÃO CHEGOU/ADEUS,MESSI",
@@ -524,7 +508,7 @@
    {
     "titulo": "SÃO PAULO X  BOCA JUNIORS - JOGO DE VOLTA",
     "url": "https://www.youtube.com/watch?v=rNKkY2LwHrQ",
-    "impressoes": 15410,
+    "impressoes": 15411,
     "ctr": 1.8,
     "formato": "Lives",
     "pct_assistido": 0.5
@@ -532,10 +516,10 @@
    {
     "titulo": "FLU AFUNDA TIMÃO /VERDÃO PARA NAS MÃOS DE EX/TRICOLOR BATE INTER NO SUFOCO/MENGÃO ABRE SOBRE VERDÃO",
     "url": "https://www.youtube.com/watch?v=5G-G0JQj4rU",
-    "impressoes": 2211,
+    "impressoes": 2259,
     "ctr": 2.5,
     "formato": "Lives",
-    "pct_assistido": 6.2
+    "pct_assistido": 6.1
    },
    {
     "titulo": "LIBERTA TEM VITÓRIAS DO VERDÃO E FLU/TIMÃO EMPATA/NA SULA, PEIXE GANHA E TRICOLOR, ÚNICA DERROTA",
@@ -546,17 +530,17 @@
     "pct_assistido": 4.3
    }
   ],
-  "n_videos": 18,
+  "n_videos": 17,
   "ativado_em": "2026-09-30T04:22:41.545419+00:00"
  },
  "monetizacao": {
-  "views_28d": 15411,
-  "media_diaria": 550,
-  "tendencia_pct": 10.5,
+  "views_28d": 17032,
+  "media_diaria": 608,
+  "tendencia_pct": 30.0,
   "previsao_views_30d": {
-   "Vídeos longos": 36,
-   "Lives": 18173,
-   "Shorts": 38
+   "Vídeos longos": 45,
+   "Lives": 23634,
+   "Shorts": 45
   },
   "rpm_referencia": {
    "Vídeos longos": [
@@ -576,15 +560,11 @@
    ]
   },
   "estimativa_rs": {
-   "pessimista": 27.33,
-   "provavel": 54.67,
-   "otimista": 109.34
+   "pessimista": 35.54,
+   "provavel": 71.09,
+   "otimista": 142.18
   },
   "serie_diaria": [
-   {
-    "dia": "2026-08-31",
-    "views": 150
-   },
    {
     "dia": "2026-09-01",
     "views": 213
@@ -692,16 +672,20 @@
    {
     "dia": "2026-09-27",
     "views": 1857
+   },
+   {
+    "dia": "2026-09-28",
+    "views": 1771
    }
   ],
   "elegibilidade": {
    "inscritos": 5910,
-   "horas_12m": 2306,
+   "horas_12m": 2301,
    "shorts_90d": 70,
    "meta_inscritos": 1000,
    "meta_horas": 4000,
    "meta_shorts": 10000000,
-   "horas_mes_ritmo": 174,
+   "horas_mes_ritmo": 183,
    "horas_mes_necessarias": 333,
    "monetizado": true,
    "cumpre": true
@@ -714,12 +698,12 @@
    {
     "id": "horas_12m",
     "nome": "Horas assistidas públicas (12 meses)",
-    "atual": 2306,
+    "atual": 2301,
     "meta": 4000,
     "nivel": "anúncios",
     "status": "abaixo",
-    "texto": "2.306 h públicas nos últimos 12 meses (vídeos longos e lives; Shorts, privados e apagados não contam). Nos próximos 30 dias saem da conta ~284 h e entram ~173 h no ritmo atual: projeção de 2.195 h.",
-    "acao": "Faltam 1.694 h. Lives longas e vídeos longos contam; seriam uns 141 h a mais por mês durante um ano."
+    "texto": "2.301 h públicas nos últimos 12 meses (vídeos longos e lives; Shorts, privados e apagados não contam). Nos próximos 30 dias saem da conta ~281 h e entram ~182 h no ritmo atual: projeção de 2.202 h.",
+    "acao": "Faltam 1.699 h. Lives longas e vídeos longos contam; seriam uns 142 h a mais por mês durante um ano."
    },
    {
     "id": "inscritos",
@@ -748,17 +732,17 @@
     "meta": null,
     "nivel": "Supers e membros",
     "status": "abaixo",
-    "texto": "5.910 de 500 inscritos, 62 de 3 envios públicos em 90 dias e 2.306 de 3.000 h (ou 3.000.000 views de Shorts em 90 dias).",
+    "texto": "5.910 de 500 inscritos, 60 de 3 envios públicos em 90 dias e 2.301 de 3.000 h (ou 3.000.000 views de Shorts em 90 dias).",
     "acao": null
    },
    {
     "id": "atividade",
     "nome": "Canal ativo (envios públicos)",
-    "atual": 1,
+    "atual": 2,
     "meta": 180,
     "nivel": "manter a monetização",
     "status": "ok",
-    "texto": "Último envio público há 1 dia. Canais sem envios por 6 meses podem ter a monetização revisada.",
+    "texto": "Último envio público há 2 dias. Canais sem envios por 6 meses podem ter a monetização revisada.",
     "acao": null
    },
    {
@@ -802,12 +786,12 @@
     "acao": null
    }
   ],
-  "horas_publicas": 2306,
+  "horas_publicas": 2301,
   "horas": {
    "por_mes": [
     {
      "mes": "2025-09",
-     "horas": 30
+     "horas": 14
     },
     {
      "mes": "2025-10",
@@ -855,12 +839,12 @@
     },
     {
      "mes": "2026-09",
-     "horas": 157
+     "horas": 170
     }
    ],
-   "saem_30d": 284,
-   "entram_30d": 173,
-   "projecao_30d": 2195,
+   "saem_30d": 281,
+   "entram_30d": 182,
+   "projecao_30d": 2202,
    "fora_da_conta": 15
   },
   "pendencias": [
@@ -870,13 +854,13 @@
   "nota": "O canal já está no Programa de Parcerias: requisitos de entrada abaixo da meta não tiram a monetização, mas indicam queda de audiência. O que pode tirar é inatividade, advertências ou violação de políticas."
  },
  "recomendacoes": [
-  "Quem mais traz inscritos: Lives (14 nas últimas 4 semanas).",
+  "Quem mais traz inscritos: Lives (16 nas últimas 4 semanas).",
   "Tipo de conteúdo que mais rende: Transmissão de jogo (1,9x a mediana, 19 vídeos); o que menos rende: Resenha multitemas (0,2x).",
   "Tema que mais rende: Jogo e resultado (1,2x a mediana). O radar já dá peso maior a ele.",
-  "Taxa de cliques das miniaturas: 4,7% em 96,550 impressões nas últimas 4 semanas (a maioria dos canais fica entre 2% e 10%).",
-  "Miniatura que mais atrai cliques: Transmissão de jogo (5,6%); a que menos atrai: Resenha multitemas (1,7%). Copie o estilo da primeira.",
+  "Taxa de cliques das miniaturas: 5,4% em 100,778 impressões nas últimas 4 semanas (a maioria dos canais fica entre 2% e 10%).",
+  "Miniatura que mais atrai cliques: Transmissão de jogo (6,3%); a que menos atrai: Resenha multitemas (1,8%). Copie o estilo da primeira.",
   "\"A NOVA SELEÇÃO NA TERRA DOS CANGURUS/NDB PERGUNTA; QUAL É O \" foi muito mostrado, mas pouco clicado (1,1%): troque a miniatura e o título (o YouTube Studio permite testar até 3 miniaturas).",
-  "Maior origem de público: Página inicial e inscrições (85% das views).",
+  "Maior origem de público: Página inicial e inscrições (84% das views).",
   "Melhor momento para publicar: domingo, noite (18h–24h) (mediana de views nos 7 primeiros dias)."
  ],
  "pesos_ajustados_em": "2026-09-30T03:18:16.929034+00:00"
