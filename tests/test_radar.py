@@ -554,7 +554,11 @@ def test_ganchos_respeitam_o_que_a_manchete_confirma():
     r = _tema("Corinthians 8 x 0 Atlético-GO", "Jogo e resultado", ["Corinthians"],
               ["Classificados! Corinthians goleia Atlético-GO e se classifica no Brasileiro Sub-17"])
     c = ganchos.campos_do_tema(r)
-    assert c["_grupo"] == "resultado" and c["fato"].startswith("Corinthians goleia")
+    assert c["_grupo"] == "resultado"
+    fato = ganchos.extrair_fato(["Classificados! Corinthians goleia Atlético-GO e se classifica no Brasileiro Sub-17"], ["Corinthians"])
+    assert fato.startswith("Corinthians goleia")
+    fato = ganchos.extrair_fato(["Artur Jorge admite estratégia errada na eliminação do Cruzeiro: 'Teria feito diferente'"], ["Cruzeiro"])
+    assert fato == "Artur Jorge admite estratégia errada na eliminação do Cruzeiro"
     # "Mercado" sem palavra de mercado na manchete usa as frases gerais (que partem do fato).
     m = _tema("São Paulo confirma contrato com a TicketMaster", "Mercado da bola", ["São Paulo"],
               ["São Paulo confirma contrato com a TicketMaster para gestão de ingressos"])
