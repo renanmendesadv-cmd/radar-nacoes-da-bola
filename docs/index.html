@@ -76,6 +76,13 @@ select{min-height:48px;font-size:calc(18px*var(--esc));padding:0 12px;border-rad
 .gancho{background:var(--acc-soft);border-radius:14px;padding:14px 16px;display:flex;flex-direction:column;gap:4px}
 .gancho span:first-child{font-size:calc(16px*var(--esc));font-weight:700;color:var(--acc);text-transform:uppercase;letter-spacing:.05em}
 .gancho span:last-child{font-size:calc(21px*var(--esc));line-height:1.4}
+.gancho .dica{font-size:calc(16px*var(--esc));color:var(--sub);font-weight:400;text-transform:none;letter-spacing:0}
+.gancho .falta{font-size:calc(16px*var(--esc));color:var(--warn);font-weight:700}
+.outros-g{list-style:none;padding:0 !important}
+.outros-g li{border:2px solid var(--line);border-radius:14px;padding:12px 14px;display:flex;flex-direction:column;gap:8px}
+.outros-g .tec{font-size:calc(15px*var(--esc));font-weight:700;color:var(--acc);text-transform:uppercase;letter-spacing:.05em}
+.outros-g .txt{font-size:calc(19px*var(--esc));line-height:1.4}
+.outros-g .btn{align-self:flex-start;min-height:44px;font-size:calc(16px*var(--esc))}
 .linha-info{font-size:calc(20px*var(--esc));line-height:1.45}
 .botoes{display:flex;gap:10px;flex-wrap:wrap}
 .btn{display:inline-flex;align-items:center;gap:8px;min-height:52px;padding:0 18px;border-radius:14px;border:3px solid var(--acc);background:var(--acc);color:#FFFFFF;font-size:calc(18px*var(--esc));font-weight:700;cursor:pointer;text-decoration:none}
@@ -323,6 +330,20 @@ details ul,details ol{margin:6px 0 0;padding-left:20px;display:flex;flex-directi
       navigator.clipboard.writeText(texto).then(function(){ botao.lastChild.textContent = "Copiado!"; volta(); },
         function(){ botao.lastChild.textContent = "Selecione e copie"; volta(); });
     } catch (e) { botao.lastChild.textContent = "Selecione e copie"; volta(); }
+  }
+  var DICA_TECNICA = {"Dado": "Abre com um número que surpreende.", "Conflito": "Mostra dois lados em choque.",
+    "Contradição": "Quebra o que todo mundo acha.", "Pergunta aberta": "Deixa uma dúvida que só o vídeo responde.",
+    "Aposta": "Você crava um palpite e chama o público para palpitar."};
+  function outrosGanchos(s){
+    var outros = (s.ganchos || []).filter(function(g){ return g.texto !== s.gancho; });
+    if (!outros.length) return null;
+    return el("details", null, [el("summary", {text:"Outros " + outros.length + " ganchos (outras técnicas)"}),
+      el("ul", {cls:"outros-g"}, outros.map(function(g){
+        return el("li", null, [el("span", {cls:"tec", text:g.tecnica + (DICA_TECNICA[g.tecnica] ? " · " : "")},
+            DICA_TECNICA[g.tecnica] ? [el("span", {cls:"dica", style:"text-transform:none;letter-spacing:0;font-weight:400;color:var(--sub)", text:DICA_TECNICA[g.tecnica]})] : null),
+          el("span", {cls:"txt", text:"“" + g.texto + "”"}),
+          botaoCopiar("Copiar este gancho", g.texto, true)]);
+      }))]);
   }
   function botaoCopiar(rotulo, texto, secundario){
     var b = el("button", {cls:"btn" + (secundario ? " sec" : ""), type:"button"}, [icone("copiar"), el("span", {text:rotulo})]);
@@ -588,11 +609,14 @@ details ul,details ol{margin:6px 0 0;padding-left:20px;display:flex;flex-directi
       el("div", {cls:"pauta-cab"}, [el("span", {cls:"rotulo", text:"Pauta " + (i + 1) + " · " + t.categoria + clubes}),
         el("span", {cls:"nota", "aria-label":"Nota " + Math.round(t.nota) + " de 100"}, [el("b", {text:String(Math.round(t.nota))}), el("span", {text:"de 100"})])]),
       el("h2", {text:t.tema}),
-      el("div", {cls:"gancho"}, [el("span", {text:"Gancho"}), el("span", {text:"“" + s.gancho + "”"})]),
+      el("div", {cls:"gancho"}, [el("span", {text:"Gancho" + (s.tecnica ? " · " + s.tecnica : "")}),
+        s.tecnica && DICA_TECNICA[s.tecnica] ? el("span", {cls:"dica", text:DICA_TECNICA[s.tecnica]}) : null,
+        /\[/.test(s.gancho) ? el("span", {cls:"falta", text:"Complete o que está entre colchetes antes de gravar."}) : null,
+        el("span", {text:"“" + s.gancho + "”"})]),
       el("p", {cls:"linha-info"}, [el("b", {text:"Thumb: "}), s.titulo_thumb]),
       el("p", {cls:"linha-info"}, [el("b", {text:"Formato: "}), s.formato]),
       el("div", {cls:"botoes"}, [botaoCopiar("Copiar gancho", s.gancho), botaoCopiar("Copiar thumb", s.titulo_thumb, true)]),
-      yt, chips, coberto, detalhes
+      outrosGanchos(s), yt, chips, coberto, detalhes
     ])]);
   }
   function filtrar(){

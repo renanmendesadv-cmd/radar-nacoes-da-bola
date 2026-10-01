@@ -52,6 +52,24 @@ Para mudar clubes, buscas, pesos e limites, edite `radar/config.py`.
 
 ---
 
+## Ganchos: 5 técnicas
+
+Cada pauta traz um gancho principal e mais até 4 alternativas, uma por técnica (`radar/ganchos.py`):
+
+| Técnica | Como funciona | Exemplo |
+|---|---|---|
+| Dado | Abre com um número das manchetes ou medido pelo radar | "Corinthians aumenta déficit para R$ 278 milhões até julho. Guarda esse número…" |
+| Conflito | Dois lados em choque | "O Flamengo sem Arrascaeta: o técnico vai ter que escolher entre improvisar ou mudar o time." |
+| Contradição | Quebra o que todo mundo acha | "Parece só mais um desfalque. Não é: muda o jeito do time jogar." |
+| Pergunta aberta | Dúvida que só o vídeo responde | "Quem merece a vaga de Raphinha na Seleção?" |
+| Aposta | O apresentador crava um palpite | "Meu palpite para Palmeiras x Santos: [SEU PLACAR]. Deixa o seu nos comentários." |
+
+- Os ganchos usam só fatos das manchetes do dia (número, protagonista, adversário) e o que o radar mediu (views no YouTube, buscas no Google).
+  Opinião do apresentador fica [ENTRE COLCHETES] para ele completar.
+- Contra a repetição: cada pauta do topo abre com uma técnica diferente, a ordem gira a cada dia, e a mesma frase não aparece duas vezes no mesmo dia.
+- Frases específicas só aparecem quando a manchete confirma (por exemplo, "corte" só quando houve corte na Seleção).
+- Os pré-jogos da agenda também variam entre as técnicas.
+
 ## Instalação (já feita)
 
 1. **Secrets** (*Settings > Secrets and variables > Actions > New repository secret*):

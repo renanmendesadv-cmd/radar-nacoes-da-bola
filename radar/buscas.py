@@ -60,7 +60,8 @@ COMUNS = {"brasileirao", "libertadores", "copa", "selecao", "brasil", "conmebol"
           "saiba", "entenda", "apos", "sobre", "contra", "final", "estadio", "clube", "time", "jogo",
           "uniao", "caixa", "serie", "sul-americana", "morumbis", "maracana", "allianz", "neo", "arena",
           "parque", "sede", "centro", "rio", "paulo", "quarta", "quinta", "sexta", "sabado", "domingo", "segunda", "terca", "janeiro", "fevereiro",
-          "marco", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"}
+          "marco", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro",
+          "brasileiro", "brasileira", "brasileiros", "feminino", "campeonato", "rodada"}
 
 
 def nome_chave(titulos: list[str]) -> str | None:

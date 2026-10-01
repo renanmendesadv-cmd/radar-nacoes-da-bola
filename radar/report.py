@@ -36,6 +36,16 @@ def _cor_nota(n: float) -> str:
     return "#0B6E4F" if n >= 60 else ("#B7791F" if n >= 40 else "#5B6660")
 
 
+def _outros_ganchos(s: dict, n: int = 2) -> str:
+    """Duas alternativas com outras técnicas, para o apresentador escolher a que combina com ele."""
+    outros = [g for g in s.get("ganchos", []) if g["texto"] != s["gancho"]][:n]
+    if not outros:
+        return ""
+    itens = "".join(f'<li style="margin:0 0 3px"><b>{_e(g["tecnica"])}:</b> “{_e(g["texto"])}”</li>' for g in outros)
+    return (f'<p style="margin:0 0 2px;font:12px Arial,sans-serif;color:{CINZA}">Outros ganchos (todos no painel):</p>'
+            f'<ul style="margin:0 0 8px;padding-left:18px;font:13px/1.4 Arial,sans-serif;color:{TINTA}">{itens}</ul>')
+
+
 def montar_email(dados: dict, top: int, painel_url: str | None) -> tuple[str, str, str]:
     data_br = dados["data_br"]
     temas = dados["temas"][:top]
@@ -79,7 +89,8 @@ def montar_email(dados: dict, top: int, painel_url: str | None) -> tuple[str, st
     <td align="right" style="font:700 20px Arial,sans-serif;color:{_cor_nota(t["nota"])}">{t["nota"]:.0f}</td>
    </tr></table>
    <h2 style="margin:6px 0 10px;font:700 18px/1.3 Arial,sans-serif;color:{TINTA}">{_e(t["tema"])}</h2>
-   <p style="margin:0 0 6px;font:15px/1.45 Arial,sans-serif;color:{TINTA}"><b>Gancho:</b> “{_e(s["gancho"])}”</p>
+   <p style="margin:0 0 6px;font:15px/1.45 Arial,sans-serif;color:{TINTA}"><b>Gancho{_e(" · " + s["tecnica"]) if s.get("tecnica") else ""}:</b> “{_e(s["gancho"])}”</p>
+   {_outros_ganchos(s)}
    <p style="margin:0 0 6px;font:15px/1.45 Arial,sans-serif;color:{TINTA}"><b>Texto da thumb:</b> {_e(s["titulo_thumb"])}</p>
    <p style="margin:0 0 10px;font:15px/1.45 Arial,sans-serif;color:{TINTA}"><b>Formato:</b> {_e(s["formato"])}</p>
    <p style="margin:0 0 4px;font:12px Arial,sans-serif;color:{CINZA}">{t["n_fontes"]} veículos falando do tema{busca}</p>
@@ -186,7 +197,8 @@ def montar_email(dados: dict, top: int, painel_url: str | None) -> tuple[str, st
 </table></td></tr></table></body></html>"""
 
     texto = "\n\n".join(
-        f"#{i} [{t['nota']:.0f}] {t['tema']}\nGancho: {t['sugestao']['gancho']}\nThumb: {t['sugestao']['titulo_thumb']}"
+        f"#{i} [{t['nota']:.0f}] {t['tema']}\nGancho ({t['sugestao'].get('tecnica', 'simples')}): {t['sugestao']['gancho']}"
+        f"\nThumb: {t['sugestao']['titulo_thumb']}"
         for i, t in enumerate(temas, 1))
     return assunto, corpo, texto
 

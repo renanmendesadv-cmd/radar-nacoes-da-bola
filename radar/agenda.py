@@ -20,6 +20,7 @@ from datetime import datetime, timedelta
 
 from . import config as C
 from .collect import fetch
+from .ganchos import gancho_jogo
 from .score import norm, outro_esporte
 
 log = logging.getLogger("radar")
@@ -150,8 +151,7 @@ def montar_agenda(eventos: list[dict], agora: datetime, dias: int = 7) -> dict:
         elif ev["estado"] == "pre" and timedelta(0) <= d - agora <= timedelta(days=dias):
             horas = (d - agora).total_seconds() / 3600
             ev = dict(ev, tipo="pré-jogo", em_horas=round(horas))
-            ev["gancho"] = f"{ev['casa']} x {ev['fora']}: o detalhe que pode decidir esse jogo."
-            ev["titulo_thumb"] = "QUEM LEVA?"
+            ev["gancho"], ev["titulo_thumb"], ev["tecnica"] = gancho_jogo(ev["casa"], ev["fora"], agora.date().isoformat(), len(pre))
             ev["formato"] = ("Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)" if horas <= 48
                              else "Enquete: qual o seu palpite? (30 s)")
             pre.append(ev)
@@ -270,7 +270,8 @@ def _adversario(sugestao: str, apelidos: list[str]) -> tuple[str, str] | None:
     return None
 
 
-def jogos_das_buscas(sugestoes: dict[str, list[str]], titulos: list[str], por_clube: int = 2) -> list[dict]:
+def jogos_das_buscas(sugestoes: dict[str, list[str]], titulos: list[str], por_clube: int = 2,
+                     dia: str = "") -> list[dict]:
     """Próximos jogos dos clubes do canal a partir do autocompletar do Google.
 
     Ex.: "palmeiras x ldu quito" e "palmeiras x ldu onde assistir" -> Palmeiras x LDU (pré-jogo).
@@ -329,8 +330,7 @@ def jogos_das_buscas(sugestoes: dict[str, list[str]], titulos: list[str], por_cl
                 "confianca": "alta" if futuro >= 1 else "média",
                 "posicao_busca": j["melhor_pos"] + 1, "manchetes": manchetes, "exemplo": exemplo,
                 "sugestoes": j["sugestoes"][:3], "_ordem": j["ordem"],
-                "gancho": f"{clube} x {nome}: o detalhe que pode decidir esse jogo.",
-                "titulo_thumb": "QUEM LEVA?",
+                **dict(zip(("gancho", "titulo_thumb", "tecnica"), gancho_jogo(clube, nome, dia, len(saida)))),
                 "formato": "Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)",
             })
     # Por clube: primeiro os confirmados pelas manchetes/sugestões, depois a posição na busca.

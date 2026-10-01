@@ -483,3 +483,66 @@ def test_requisitos_do_programa_de_parcerias(tmp_path):
     env.pop("YOUTUBE_API_KEY", None)
     subprocess.run([sys.executable, "-m", "radar.main"], cwd=RAIZ, env=env, capture_output=True, text=True)
     assert "Monetização: requisito abaixo da meta" not in (tmp_path / "data" / "ultimo-email.html").read_text("utf-8")
+
+
+def _tema(tema, categoria, clubes, manchetes, **extra):
+    return dict({"tema": tema, "categoria": categoria, "clubes": clubes,
+                 "manchetes": [{"titulo": m} for m in manchetes], "sugestao": {"gancho": "x", "titulo_thumb": "x"}}, **extra)
+
+
+def test_ganchos_extraem_dado_das_manchetes():
+    from radar import ganchos
+    d = ganchos.extrair_dado(["Corinthians aumenta déficit para R$ 278 milhões até julho, 258% a mais"])
+    assert d["numero"] == "R$ 278 milhões" and d["peso"] == 4 and d["limpo"]
+    assert d["trecho"].startswith("Corinthians aumenta déficit")
+    # Ano, rodada e Sub-17 não são dado de pauta; trecho longo não perde o número.
+    assert ganchos.extrair_dado(["Ao vivo: Corinthians x Atlético-GO | Rodada 19 | Campeonato Brasileiro sub-17"]) is None
+    d = ganchos.extrair_dado(["Arrascaeta sofre quinta lesão com o Uruguai, que já o fez desfalcar o Flamengo por 118 dias"])
+    assert d["numero"] == "118 dias" and "118 dias" in d["trecho"] and not d["limpo"]
+
+
+def test_ganchos_cinco_tecnicas_sem_repetir():
+    from radar import ganchos
+    temas = [
+        _tema("Arrascaeta sofre fratura no punho e preocupa o Flamengo", "Lesão e desfalque", ["Flamengo"],
+              ["Arrascaeta sofre fratura no punho e vai passar por cirurgia", "Flamengo perde mais em jogos sem Arrascaeta; veja comparação"],
+              youtube={"n_videos": 12, "views": 501_000}),
+        _tema("Corinthians aumenta déficit", "Finanças e gestão", ["Corinthians"],
+              ["Corinthians aumenta déficit para R$ 278 milhões até julho, 258% a mais"]),
+        _tema("Raphinha é cortado da Seleção", "Seleção", [],
+              ["Raphinha é cortado da Seleção Brasileira para amistoso", "Raphinha tem edema na coxa e é cortado da Seleção"]),
+        _tema("Palmeiras x Santos", "Jogo e resultado", ["Palmeiras"], ["Palmeiras x Santos: onde assistir e escalações"]),
+        _tema("Flamengo entra em ação no STF contra fim das bets", "Finanças e gestão", ["Flamengo"],
+              ["Flamengo se manifesta sobre ação no STF contra fim das bets"]),
+    ]
+    ganchos.aplicar(temas, "2026-10-01")
+    principais = [t["sugestao"]["tecnica"] for t in temas]
+    assert len(set(principais)) == 5  # cada pauta abre com uma técnica diferente
+    textos = [g["texto"] for t in temas for g in t["sugestao"]["ganchos"]]
+    assert len(textos) == len(set(textos))  # nenhum gancho repetido no dia
+    assert all("{" not in tx and "}" not in tx for tx in textos)
+    fin = {g["tecnica"]: g["texto"] for g in temas[1]["sugestao"]["ganchos"]}
+    assert fin["Dado"].startswith("Corinthians aumenta déficit para R$ 278 milhões")
+    sel = " ".join(g["texto"] for g in temas[2]["sugestao"]["ganchos"])
+    assert "a Seleção" in sel or "da Seleção" in sel or "na Seleção" in sel
+    assert "o Seleção" not in sel and "do Seleção" not in sel
+    jogo = {g["tecnica"]: g["texto"] for g in temas[3]["sugestao"]["ganchos"]}
+    assert "Palmeiras x Santos" in jogo["Conflito"] or "Palmeiras contra Santos" in jogo["Conflito"]
+    assert "[" in jogo["Aposta"]  # palpite fica para o apresentador completar, nada inventado
+    # A rotação muda de um dia para o outro: em uma semana, as aberturas não são sempre iguais.
+    semana = set()
+    for dia in range(2, 9):
+        outro = [dict(t, sugestao={"gancho": "x", "titulo_thumb": "x"}) for t in temas]
+        ganchos.aplicar(outro, f"2026-10-0{dia}")
+        semana.add(tuple(t["sugestao"]["tecnica"] for t in outro))
+    assert len(semana) > 1
+
+
+def test_ganchos_nao_usam_busca_sem_ligacao():
+    from radar import ganchos
+    t = _tema("Bidu lida com dores no púbis e pode desfalcar o Corinthians", "Lesão e desfalque", ["Corinthians"],
+              ["Bidu lida com dores no púbis e pode desfalcar o Corinthians"], busca_torcedor="corinthians x estudiantes")
+    assert "busca" not in ganchos.campos_do_tema(t)
+    g, thumb, tec = ganchos.gancho_jogo("Flamengo", "Vasco", "2026-10-01", 0)
+    assert "Flamengo" in g and thumb and tec in ganchos.NOMES_TECNICA.values()
+    assert len({ganchos.gancho_jogo("Flamengo", "Vasco", "2026-10-01", i)[0] for i in range(5)}) == 5

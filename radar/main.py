@@ -29,7 +29,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from . import agenda, alcance, analytics, buscas, collect, config as C, report, score, tendencias, youtube
+from . import agenda, alcance, analytics, buscas, collect, config as C, ganchos, report, score, tendencias, youtube
 
 RAIZ = Path(__file__).resolve().parent.parent
 
@@ -136,6 +136,12 @@ def main() -> int:
         temas, agora, os.environ.get("YOUTUBE_API_KEY"), estado, DADOS / "youtube-cache.json",
         fatores, bruto.get("channel_id"), get=yt_get)
 
+    # Ganchos: 5 técnicas (dado, conflito, contradição, pergunta aberta, aposta) com os fatos do dia.
+    try:
+        ganchos.aplicar(temas, hoje)
+    except Exception as e:  # noqa: BLE001 - se falhar, ficam os ganchos simples da pontuação
+        log.error("Ganchos: %s", e)
+
     # Alertas de tendência: assuntos ligados ao canal bombando no YouTube (views/hora e engajamento).
     alertas = []
     chave_yt = os.environ.get("YOUTUBE_API_KEY")
@@ -158,7 +164,7 @@ def main() -> int:
     jogos = agenda.montar_agenda(eventos or [], agora)
     titulos = [n["titulo"] for n in bruto["noticias"]]
     jogos["na_midia"] = agenda.sem_repetir(agenda.jogos_na_midia(titulos), jogos)
-    jogos["nas_buscas"] = agenda.unir_buscas(agenda.jogos_das_buscas(bruto["sugestoes"], titulos), jogos, eventos)
+    jogos["nas_buscas"] = agenda.unir_buscas(agenda.jogos_das_buscas(bruto["sugestoes"], titulos, dia=hoje), jogos, eventos)
     bruto["status"]["Agenda (buscas Google)"] = len(jogos["nas_buscas"])
     dados = {
         "gerado_em": agora.isoformat(),
