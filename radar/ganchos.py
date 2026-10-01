@@ -90,6 +90,8 @@ def extrair_dado(titulos: list[str]) -> dict | None:
 
 
 # Frases de rodapé que não fazem parte do fato ("; veja comparação", "Entenda").
+JA_JOGOU = re.compile(r"\b(vence|venceu|goleia|goleou|empata|empatou|perde|perdeu|bate|derrota|"
+                      r"classificad[oa]s?|eliminad[oa]s?|elimina|avança|avanca)\b", re.I)
 RABOS = re.compile(r"[;:,.\-–|]\s*(veja|entenda|saiba|confira|assista|ouça|leia)\b.*$|\s+(entenda|veja)\s*$", re.I)
 
 
@@ -102,10 +104,13 @@ def extrair_fato(titulos: list[str], alvo_chaves: list[str], referencia: str = "
     candidatos = []
     for titulo in titulos:
         t = RABOS.sub("", _limpa(titulo)).strip(" ,;:-|")
+        t = re.sub(r"^\s*\w+(?: \w+)?!\s+", "", t)  # "Classificados! Flamengo vence..."
         rotulo = re.match(r"^([^:|]{1,25})[:|]\s+", t)
         if rotulo and len(rotulo.group(1).split()) <= 3:  # "Feminino: ...", "Exclusivo | ..."
             t = t[rotulo.end():]
         for sep in (" | ", ": ", "; ", " - "):
+            if sep not in t:
+                continue
             pedaco = t.split(sep)[0].strip()
             if len(pedaco.split()) >= 5:
                 t = pedaco
@@ -168,6 +173,8 @@ FRASES = {
         "_google": ["Mais de {trafego} buscas no Google hoje. O motivo vai além da manchete."],
     },
     "conflito": {
+        "resultado": ["{Fato}. Quem venceu comemora; quem perdeu tem uma conta para acertar.",
+                      "{Fato}. Dentro de campo acabou. Fora dele, a discussão está só começando."],
         "lesao": ["{O_alvo} sem {nome}: o técnico vai ter que escolher entre improvisar ou mudar o time.",
                   "De um lado, {o_alvo} precisando de resultado. Do outro, o departamento médico pedindo calma com {nome}.",
                   "{Fato}. Agora o técnico tem que escolher: improvisar ou mudar o time inteiro."],
@@ -192,6 +199,8 @@ FRASES = {
                   "{Fato}. Nem todo mundo {no_alvo} vai gostar disso, e eu vou explicar por quê."],
     },
     "contradicao": {
+        "resultado": ["{Fato}. O placar diz uma coisa. O jogo, visto de perto, diz outra.",
+                      "{Fato}. Todo mundo vai olhar o resultado; eu vou mostrar o que ele esconde."],
         "_com_dado": ["Todo clube fala em {palavra}. {Dado}. Esse número conta outra história.",
                       "{Num}. No discurso, {palavra}. Na prática, essa conta não fecha."],
         "lesao": ["Todo mundo diz que sem {nome} {o_alvo} afunda. Eu não tenho tanta certeza, e vou te mostrar por quê.",
@@ -218,6 +227,8 @@ FRASES = {
                   "{Fato}. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu."],
     },
     "pergunta": {
+        "resultado": ["{Fato}. O que esse resultado muda daqui para frente?",
+                      "{Fato}. Foi mérito de quem venceu ou erro de quem perdeu?"],
         "lesao": ["Sem {nome}, quem segura {o_alvo} nos próximos jogos?",
                   "Quanto vale {nome} para {o_alvo}? A resposta está nos números.",
                   "{Fato}. Quem entra no lugar, e o time aguenta?",
@@ -242,6 +253,8 @@ FRASES = {
                   "{Fato}. Foi certo ou errado? Comenta antes de ver o vídeo inteiro."],
     },
     "aposta": {
+        "resultado": ["{Fato}. Minha aposta: depois desse jogo, [SEU PALPITE]. Me cobra depois.",
+                      "{Fato}. Eu aposto que esse resultado vai pesar lá na frente. Você concorda?"],
         "lesao": ["Minha aposta: {o_alvo} vai sentir a falta de {nome} já no próximo jogo. Comenta a sua e me cobra depois.",
                   "Eu aposto que [SEU PALPITE: QUEM ENTRA] vai ganhar a vaga de {nome}. Você concorda?",
                   "{Fato}. Meu palpite de quanto tempo esse desfalque vai durar: [SEU PALPITE]. Qual é o seu?"],
@@ -266,6 +279,16 @@ FRASES = {
     },
 }
 
+# Palavras que confirmam o tipo de assunto nas manchetes. Sem elas, o gancho usa as frases gerais
+# (que partem do fato), para não falar de "negociação" numa notícia que é resultado de jogo.
+CONFIRMA_GRUPO = {
+    "lesao": r"les[ãa]o|lesionad|desfalc|machuc|cirurgi|fratur|edema|dores|\bdor\b|departamento m[ée]dico|recupera|vetad",
+    "mercado": r"contrata[çcrd]|negocia|proposta|renov|transfer|empr[ée]st|sond|refor[çc]o|multa|janela|\bvenda d[eo]",
+    "tecnico": r"t[ée]cnico|treinador|demiss|demit|comando|cargo",
+    "arbitragem": r"[áa]rbitr|juiz|\bvar\b|p[êe]nalti|impedimento|expuls|cart[ãa]o",
+    "financas": r"R\$|milh|d[íi]vida|d[ée]ficit|receita|or[çc]amento|balan[çc]o|patroc|bets?\b|saf\b|indeniza|pagament",
+}
+
 # Palavra do discurso de clube, para a contradição com o número da manchete.
 PALAVRA = {"financas": "equilíbrio", "mercado": "planejamento", "tecnico": "projeto", "polemica": "união"}
 
@@ -273,7 +296,7 @@ PALAVRA = {"financas": "equilíbrio", "mercado": "planejamento", "tecnico": "pro
 THUMB = {
     "dado": {"_com_dado": ["{NUM}"], "_num": ["{NUM}"], "_youtube": ["TODO MUNDO VIU"],
              "_busca": ["VOCÊ PESQUISOU"], "_google": ["TODO MUNDO BUSCOU"]},
-    "conflito": {"jogo": ["{ALVO} x {ADV}"], "lesao": ["SEM {NOME}?"], "selecao": ["SEM {NOME}?"],
+    "conflito": {"jogo": ["{ALVO} x {ADV}"], "resultado": ["{ALVO} x {ADV}"], "lesao": ["SEM {NOME}?"], "selecao": ["SEM {NOME}?"],
                  "_adv": ["{ALVO} x {ADV}"], "geral": ["QUEM TEM RAZÃO?"]},
     "contradicao": ["NÃO É BEM ASSIM"],
     "pergunta": ["E AGORA, {ALVO}?", "E AGORA?"],
@@ -337,6 +360,11 @@ def campos_do_tema(tema: dict) -> dict:
     selecao = tema.get("categoria") == "Seleção" or entidades(" ".join(titulos))["selecao"]
     campos = _artigos(clube, selecao and not clube)
     grupo = GRUPO.get(tema.get("categoria"), "geral")
+    confirma = CONFIRMA_GRUPO.get(grupo)
+    if confirma and not re.search(confirma, " ".join(titulos), re.I):
+        grupo = "geral"  # a categoria veio da pontuação; as frases específicas exigem a palavra na manchete
+    if grupo == "jogo" and any(PLACAR.search(x) or JA_JOGOU.search(x) for x in titulos):
+        grupo = "resultado"  # jogo que já aconteceu: nada de "parece que está tudo resolvido"
     clubes_n = {norm(a) for al in list(C.CLUBES_FOCO.values()) + list(C.CLUBES_BR.values()) for a in al}
     nome = nome_chave(titulos)
     if nome and norm(nome) not in clubes_n | NAO_NOMES | {"selecao", "brasil"}:

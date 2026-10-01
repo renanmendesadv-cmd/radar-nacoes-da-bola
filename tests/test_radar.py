@@ -546,3 +546,17 @@ def test_ganchos_nao_usam_busca_sem_ligacao():
     g, thumb, tec = ganchos.gancho_jogo("Flamengo", "Vasco", "2026-10-01", 0)
     assert "Flamengo" in g and thumb and tec in ganchos.NOMES_TECNICA.values()
     assert len({ganchos.gancho_jogo("Flamengo", "Vasco", "2026-10-01", i)[0] for i in range(5)}) == 5
+
+
+def test_ganchos_respeitam_o_que_a_manchete_confirma():
+    from radar import ganchos
+    # Jogo que já aconteceu não recebe gancho de pré-jogo.
+    r = _tema("Corinthians 8 x 0 Atlético-GO", "Jogo e resultado", ["Corinthians"],
+              ["Classificados! Corinthians goleia Atlético-GO e se classifica no Brasileiro Sub-17"])
+    c = ganchos.campos_do_tema(r)
+    assert c["_grupo"] == "resultado" and c["fato"].startswith("Corinthians goleia")
+    # "Mercado" sem palavra de mercado na manchete usa as frases gerais (que partem do fato).
+    m = _tema("São Paulo confirma contrato com a TicketMaster", "Mercado da bola", ["São Paulo"],
+              ["São Paulo confirma contrato com a TicketMaster para gestão de ingressos"])
+    ops = ganchos.opcoes(m, "2026-10-01", set())
+    assert all("elenco" not in tx and "negócio" not in tx for _, tx, _ in ops.values())
