@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-01T02:28:09.686712+00:00",
- "data_br": "30/09/2026 23:28",
+ "gerado_em": "2026-10-01T02:31:35.088463+00:00",
+ "data_br": "30/09/2026 23:31",
  "status": {
   "Google Trends": 10,
-  "Google News": 999,
+  "Google News": 997,
   "Vídeos do canal": 15,
   "Buscas do torcedor": 18,
   "YouTube (48 h)": 8,
@@ -99,7 +99,7 @@
     "estado": "pre",
     "clube": "São Paulo",
     "tipo": "pré-jogo",
-    "em_horas": 45,
+    "em_horas": 44,
     "gancho": "São Paulo x Santos: um precisa vencer, o outro não pode perder.",
     "titulo_thumb": "SÃO PAULO X SANTOS",
     "tecnica": "Conflito",
@@ -207,17 +207,17 @@
   "palmeiras": [
    "palmeiras x ldu quito",
    "palmeiras x ldu",
-   "palmeiras x ldu onde assistir",
    "palmeiras e ldu",
+   "palmeiras x ldu onde assistir",
    "palmeiras x santos"
   ],
   "seleção brasileira": [
    "seleção brasileira convocação",
    "seleção brasileira feminina",
-   "seleção brasileira de futebol",
    "seleção brasileira 2002",
-   "seleção brasileira x seleção norueguesa de futebol",
-   "seleção brasileira convocados"
+   "seleção brasileira de futebol",
+   "seleção brasileira convocados",
+   "seleção brasileira jogadores"
   ],
   "brasileirão": [
    "brasileirão série a",
@@ -257,29 +257,29 @@
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 3 min)",
-    "gancho": "O Flamengo quer, mas do outro lado alguém está segurando. Essa queda de braço vai ter um perdedor.",
-    "titulo_thumb": "QUEM TEM RAZÃO?",
+    "gancho": "Artur Jorge admite estratégia errada na eliminação do Cruzeiro para o Flamengo na Libertadores. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+    "titulo_thumb": "FLAMENGO x CRUZEIRO",
     "pergunta_enquete": "Qual sua opinião: Artur Jorge admite estratégia errada na eliminação do Cruzeiro para o Flamengo na Libertad?",
     "tecnica": "Conflito",
     "ganchos": [
      {
       "tecnica": "Conflito",
-      "texto": "O Flamengo quer, mas do outro lado alguém está segurando. Essa queda de braço vai ter um perdedor.",
-      "thumb": "QUEM TEM RAZÃO?"
+      "texto": "Artur Jorge admite estratégia errada na eliminação do Cruzeiro para o Flamengo na Libertadores. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+      "thumb": "FLAMENGO x CRUZEIRO"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Todo mundo está comemorando essa negociação do Flamengo. Eu vejo um risco que ninguém está comentando.",
+      "texto": "Artur Jorge admite estratégia errada na eliminação do Cruzeiro para o Flamengo na Libertadores. A leitura óbvia é uma. A que importa é outra.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Artur Jorge admite estratégia errada na eliminação do Cruzeiro para o Flamengo na Libertadores: 'Teria feito...'. Se isso sair, quem perde espaço no elenco?",
+      "texto": "Artur Jorge admite estratégia errada na eliminação do Cruzeiro para o Flamengo na Libertadores. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
       "thumb": "E AGORA, FLAMENGO?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Minha aposta é que essa novela do Flamengo termina [SEU PALPITE]. Guarda esse vídeo.",
+      "texto": "Artur Jorge admite estratégia errada na eliminação do Cruzeiro para o Flamengo na Libertadores. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
       "thumb": "MEU PALPITE"
      },
      {
@@ -374,10 +374,10 @@
     "Corinthians"
    ],
    "foco": true,
-   "nota": 76.3,
+   "nota": 75.8,
    "sinais": {
-    "busca": 70,
-    "aceleracao": 53,
+    "busca": 65,
+    "aceleracao": 56,
     "midia": 67,
     "aderencia": 100,
     "youtube": 80
@@ -387,29 +387,29 @@
    "busca_torcedor": "sub-17 do palmeiras",
    "termos_trends": [],
    "n_fontes": 4,
-   "n_manchetes": 7,
-   "assinatura": "brasi|sub-1|corin|atlet",
+   "n_manchetes": 6,
+   "assinatura": "brasi|sub-1|atlet|corin",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Corinthians 8 x 0 Atlético-GO - Brasileiro Sub-17 2026. Parece que está tudo resolvido. No futebol, quase nunca está.",
+    "gancho": "Sub-17 goleia Atlético-GO e se classifica em segundo no Campeonato Brasileiro. Todo mundo vai olhar o resultado; eu vou mostrar o que ele esconde.",
     "titulo_thumb": "NÃO É BEM ASSIM",
     "pergunta_enquete": "Qual sua opinião: Corinthians 8 x 0 Atlético-GO | Campeonato Brasileiro sub-17: melhores momentos?",
     "tecnica": "Contradição",
     "ganchos": [
      {
       "tecnica": "Contradição",
-      "texto": "Corinthians 8 x 0 Atlético-GO - Brasileiro Sub-17 2026. Parece que está tudo resolvido. No futebol, quase nunca está.",
+      "texto": "Sub-17 goleia Atlético-GO e se classifica em segundo no Campeonato Brasileiro. Todo mundo vai olhar o resultado; eu vou mostrar o que ele esconde.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "O que o Corinthians precisa fazer para vencer esse jogo?",
+      "texto": "Sub-17 goleia Atlético-GO e se classifica em segundo no Campeonato Brasileiro. O que esse resultado muda daqui para frente?",
       "thumb": "E AGORA, CORINTHIANS?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Eu aposto que o Corinthians [VENCE / EMPATA / PERDE], e explico por quê. Qual é o seu placar?",
+      "texto": "Sub-17 goleia Atlético-GO e se classifica em segundo no Campeonato Brasileiro. Eu aposto que esse resultado vai pesar lá na frente. Você concorda?",
       "thumb": "MEU PALPITE"
      },
      {
@@ -419,7 +419,7 @@
      },
      {
       "tecnica": "Conflito",
-      "texto": "Corinthians x Palmeiras: um precisa vencer, o outro não pode perder.",
+      "texto": "Sub-17 goleia Atlético-GO e se classifica em segundo no Campeonato Brasileiro. Quem venceu comemora; quem perdeu tem uma conta para acertar.",
       "thumb": "CORINTHIANS x PALMEIRAS"
      }
     ]
@@ -567,9 +567,9 @@
     "Vasco"
    ],
    "foco": true,
-   "nota": 72.5,
+   "nota": 71.2,
    "sinais": {
-    "busca": 70,
+    "busca": 65,
     "aceleracao": 41,
     "midia": 75,
     "aderencia": 100,
@@ -581,7 +581,7 @@
    "termos_trends": [],
    "n_fontes": 5,
    "n_manchetes": 5,
-   "assinatura": "palme|inter|titul|brasi",
+   "assinatura": "palme|inter|brasi|titul",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
@@ -607,7 +607,7 @@
      },
      {
       "tecnica": "Conflito",
-      "texto": "Palmeiras contra Flamengo vale mais do que três pontos, e os dois sabem disso.",
+      "texto": "Palmeiras x Flamengo: um precisa vencer, o outro não pode perder.",
       "thumb": "PALMEIRAS x FLAMENGO"
      },
      {
@@ -625,7 +625,7 @@
     },
     {
      "titulo": "Palmeiras tenta liberação que pode ajudar Grêmio e Inter no Brasileirão",
-     "fonte": "gauchazh.clicrbs.com.br",
+     "fonte": "GZH",
      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTHJHRWlweGxRTnF5ZVFkY1lwVmZiUEN2cXp0UjZuQnNJZldVcTduSEE4TmozZlo1ODlyNElfemZoRUM2LTY0NXFSS3JlZVlvRThqdXpRZzFVRDF3dElPUWhrdHFQWWMwUUxVaGZqMmYtendzYjBMbVJZS2xTRmJDdk9kS0RLMHNRUkt6azJWZU1WQWJ5b3ZnTXNnRTQ3Z1hHX083Sk9NTmFFY0lzc0psZGpjejRJeGFSNm1EWjU4SVVkU2hlLVdEMW1EU3pWdmptLTVoUGpfMGhXcDhUNTI1UzV6VENkYXdCTXBhT3A1VGFLUUxna1hVTVJ1cUd6d3FL?oc=5"
     },
     {
@@ -758,9 +758,9 @@
     "Flamengo"
    ],
    "foco": true,
-   "nota": 72.4,
+   "nota": 71.1,
    "sinais": {
-    "busca": 65,
+    "busca": 60,
     "aceleracao": 71,
     "midia": 87,
     "aderencia": 100,
@@ -768,42 +768,42 @@
    },
    "fator_categoria": 1.056,
    "trafego_google": 0,
-   "busca_torcedor": "sub-17 do brasil",
+   "busca_torcedor": "sub-17 brasileiro 2026",
    "termos_trends": [],
    "n_fontes": 7,
    "n_manchetes": 10,
-   "assinatura": "brasi|quart|sub-1|flame",
+   "assinatura": "quart|brasi|sub-1|flame",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Classificados! Flamengo vence o América-MG e está nas quartas do Brasileiro Sub-17. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
+    "gancho": "Flamengo vence o América-MG e está nas quartas do Brasileiro Sub-17. Minha aposta: depois desse jogo, [SEU PALPITE]. Me cobra depois.",
     "titulo_thumb": "MEU PALPITE",
     "pergunta_enquete": "Qual sua opinião: Classificados! Flamengo vence o América-MG e está nas quartas do Brasileiro Sub-17?",
     "tecnica": "Aposta",
     "ganchos": [
      {
       "tecnica": "Aposta",
-      "texto": "Classificados! Flamengo vence o América-MG e está nas quartas do Brasileiro Sub-17. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
+      "texto": "Flamengo vence o América-MG e está nas quartas do Brasileiro Sub-17. Minha aposta: depois desse jogo, [SEU PALPITE]. Me cobra depois.",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Dado",
-      "texto": "O torcedor está digitando “sub-17 do brasil” no Google agora. A resposta não é tão simples.",
+      "texto": "O torcedor está digitando “sub-17 brasileiro 2026” no Google agora. A resposta não é tão simples.",
       "thumb": "VOCÊ PESQUISOU"
      },
      {
       "tecnica": "Conflito",
-      "texto": "Classificados! Flamengo vence o América-MG e está nas quartas do Brasileiro Sub-17. Por trás disso, tem dois lados que não querem a mesma coisa.",
+      "texto": "Flamengo vence o América-MG e está nas quartas do Brasileiro Sub-17. Dentro de campo acabou. Fora dele, a discussão está só começando.",
       "thumb": "FLAMENGO x FORTALEZA"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Classificados! Flamengo vence o América-MG e está nas quartas do Brasileiro Sub-17. A leitura óbvia é uma. A que importa é outra.",
+      "texto": "Flamengo vence o América-MG e está nas quartas do Brasileiro Sub-17. O placar diz uma coisa. O jogo, visto de perto, diz outra.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Classificados! Flamengo vence o América-MG e está nas quartas do Brasileiro Sub-17. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
+      "texto": "Flamengo vence o América-MG e está nas quartas do Brasileiro Sub-17. Foi mérito de quem venceu ou erro de quem perdeu?",
       "thumb": "E AGORA, FLAMENGO?"
      }
     ]
@@ -1164,33 +1164,33 @@
    ],
    "n_fontes": 4,
    "n_manchetes": 5,
-   "assinatura": "palme|argen|amist|boliv",
+   "assinatura": "amist|boliv|argen|palme",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Sem Messi, Argentina goleia Bolívia em amistoso; Flaco López, do Palmeiras, desencanta. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+    "gancho": "Argentina terá nome do Palmeiras como titular em amistoso contra a Bolívia. Por trás disso, tem dois lados que não querem a mesma coisa.",
     "titulo_thumb": "QUEM TEM RAZÃO?",
     "pergunta_enquete": "Qual sua opinião: Palmeiras Online. . 🇦🇷 Dia de ver nossos argentinos em campo! Nossa @macamillo_g fala sobr?",
     "tecnica": "Conflito",
     "ganchos": [
      {
       "tecnica": "Conflito",
-      "texto": "Sem Messi, Argentina goleia Bolívia em amistoso; Flaco López, do Palmeiras, desencanta. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+      "texto": "Argentina terá nome do Palmeiras como titular em amistoso contra a Bolívia. Por trás disso, tem dois lados que não querem a mesma coisa.",
       "thumb": "QUEM TEM RAZÃO?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Sem Messi, Argentina goleia Bolívia em amistoso; Flaco López, do Palmeiras, desencanta. Parece notícia pequena. Não é.",
+      "texto": "Argentina terá nome do Palmeiras como titular em amistoso contra a Bolívia. Parece notícia pequena. Não é.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Sem Messi, Argentina goleia Bolívia em amistoso; Flaco López, do Palmeiras, desencanta. Isso é bom ou ruim para o Palmeiras? Responde antes de ver a minha análise.",
+      "texto": "Argentina terá nome do Palmeiras como titular em amistoso contra a Bolívia. Isso é bom ou ruim para o Palmeiras? Responde antes de ver a minha análise.",
       "thumb": "E AGORA, PALMEIRAS?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Sem Messi, Argentina goleia Bolívia em amistoso; Flaco López, do Palmeiras, desencanta. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+      "texto": "Argentina terá nome do Palmeiras como titular em amistoso contra a Bolívia. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
       "thumb": "MEU PALPITE"
      },
      {
@@ -1237,82 +1237,6 @@
    }
   },
   {
-   "tema": "São Paulo vence o Grêmio, mas é eliminado do Brasileiro Sub-17",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "São Paulo",
-    "Grêmio"
-   ],
-   "foco": true,
-   "nota": 68.2,
-   "sinais": {
-    "busca": 65,
-    "aceleracao": 45,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.056,
-   "trafego_google": 0,
-   "busca_torcedor": "sub-17 do brasil",
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "paulo|brasi|sub-1|gremi",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "São Paulo vence o Grêmio, mas é eliminado do Brasileiro Sub-17. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: São Paulo vence o Grêmio, mas é eliminado do Brasileiro Sub-17?",
-    "tecnica": "Contradição",
-    "ganchos": [
-     {
-      "tecnica": "Contradição",
-      "texto": "São Paulo vence o Grêmio, mas é eliminado do Brasileiro Sub-17. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "São Paulo vence o Grêmio, mas é eliminado do Brasileiro Sub-17. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
-      "thumb": "E AGORA, SÃO PAULO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "São Paulo vence o Grêmio, mas é eliminado do Brasileiro Sub-17. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "“sub-17 do brasil”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "São Paulo vence o Grêmio, mas é eliminado do Brasileiro Sub-17. Nem todo mundo no São Paulo vai gostar disso, e eu vou explicar por quê.",
-      "thumb": "SÃO PAULO x GRÊMIO"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "São Paulo vence o Grêmio por 2 a 0, mas é eliminado do Brasileirão Sub-17",
-     "fonte": "Arquibancada Tricolor",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xRVdnZm9CZ3pfTXdCZXpqX1F1NlZuM3VsWm45ZWN0Tmo4X1pKQy1jUkpzelMyaVlRM0R4dkxJem82SkhubGcwaDk0bUxhRS0ycTNfRWZydEdjNFgxZTRQd2JFcWl6cFQ4RWpYSk5fc0RDVkpBUUFOYVJTRQ?oc=5"
-    },
-    {
-     "titulo": "São Paulo ganha do Grêmio, mas cai na primeira fase do Brasileiro sub-17",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOHB3YWxjQ3RpdW0wZVA2TGJpcmk2ZkhZeHR0RHdvYzhJbWt0d2tYZ1VCbzZ0cmVtWDd0a0pQelJYLWJaNHJwZFhjaVdfLWYyaFVmOFIxQi1acnBQYmc3Y3FoenUySTRnRjRseFptVzBLQVB2eVFWYmo0NHhENFNObmN5VWtWVC16VzdOYV9URi1LQk1hUFJlWjhwOU9WbkRuNmp2bGZSSU5BUnEzd3RtZm1PQ1NXcV9maWFYVkpvUV9xUdIBwgFBVV95cUxQOHB3YWxjQ3RpdW0wZVA2TGJpcmk2ZkhZeHR0RHdvYzhJbWt0d2tYZ1VCbzZ0cmVtWDd0a0pQelJYLWJaNHJwZFhjaVdfLWYyaFVmOFIxQi1acnBQYmc3Y3FoenUySTRnRjRseFptVzBLQVB2eVFWYmo0NHhENFNObmN5VWtWVC16VzdOYV9URi1LQk1hUFJlWjhwOU9WbkRuNmp2bGZSSU5BUnEzd3RtZm1PQ1NXcV9maWFYVkpvUV9xUQ?oc=5"
-    },
-    {
-     "titulo": "São Paulo vence o Grêmio, mas é eliminado do Brasileiro Sub-17",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS3I4aVFlMFFEN21sUEdMVDJtNTNZUmplTFhXODB0cHk3Y05WandYdG9jckR1RnFTdGV6LU5QaGtydHZKUHVUZnlDMC0wTVVXYVl0bnk3RmdnV2lBcUxiQnA2cXByejU1SmNYMHR2V1NOR1Bid0o0eEZqLUl1RDJFeTJyWmQ4c3NCUjhMOTI1OF9IRzV6cF9DN2NGd05wMEx1MlhNN3Rwa0pFbjI5NG8ycFFHbDFMN1NOSTFmOWZKektSVWZMUXc1Q3pQajhYN0lsOFVHY0NzMWdUR0dRRzlKdjZR?oc=5"
-    }
-   ]
-  },
-  {
    "tema": "São Paulo confirma contrato com a TicketMaster para gestão de ingressos",
    "categoria": "Mercado da bola",
    "clubes": [
@@ -1333,23 +1257,28 @@
    "termos_trends": [],
    "n_fontes": 2,
    "n_manchetes": 2,
-   "assinatura": "ingre|paulo|contr|gesta",
+   "assinatura": "paulo|gesta|ingre|contr",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 3 min)",
-    "gancho": "Esse negócio vale a pena para o São Paulo? Pensa bem antes de responder.",
-    "titulo_thumb": "E AGORA, SÃO PAULO?",
+    "gancho": "São Paulo confirma contrato com a TicketMaster para gestão de ingressos. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
     "pergunta_enquete": "Qual sua opinião: São Paulo confirma contrato com a TicketMaster para gestão de ingressos?",
-    "tecnica": "Pergunta aberta",
+    "tecnica": "Contradição",
     "ganchos": [
      {
+      "tecnica": "Contradição",
+      "texto": "São Paulo confirma contrato com a TicketMaster para gestão de ingressos. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
       "tecnica": "Pergunta aberta",
-      "texto": "Esse negócio vale a pena para o São Paulo? Pensa bem antes de responder.",
+      "texto": "São Paulo confirma contrato com a TicketMaster para gestão de ingressos. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
       "thumb": "E AGORA, SÃO PAULO?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Eu aposto: esse negócio [SAI / NÃO SAI] até o fim do mês. Se eu errar, pode me cobrar nos comentários.",
+      "texto": "São Paulo confirma contrato com a TicketMaster para gestão de ingressos. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
       "thumb": "MEU PALPITE"
      },
      {
@@ -1359,13 +1288,8 @@
      },
      {
       "tecnica": "Conflito",
-      "texto": "São Paulo confirma contrato com a TicketMaster para gestão de ingressos. Nessa negociação, alguém vai sair perdendo.",
+      "texto": "São Paulo confirma contrato com a TicketMaster para gestão de ingressos. Nem todo mundo no São Paulo vai gostar disso, e eu vou explicar por quê.",
       "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "São Paulo confirma contrato com a TicketMaster para gestão de ingressos. Parece um grande negócio. Olhando de perto, não é bem assim.",
-      "thumb": "NÃO É BEM ASSIM"
      }
     ]
    },
@@ -1379,6 +1303,82 @@
      "titulo": "São Paulo confirma contrato com a TicketMaster para gestão de ingressos",
      "fonte": "Metrópoles",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVkFGYmV2OHBDOUkySk81SlREQy1uenNFU0tiT05DcXN6Ni1DemoxWTlCSnN0Q0c4NEQ2ZnliY011cXNBWWxKMnNSQUZ6bmxCS1AxeFluRExsWUVxYktwQ1pDeUNGaFRTNTc1X3dURG5SQTR4Q0ZINVhlZzY1MkVRQjcwRUZLSm1OTWd5bWFVNGVsRkNaT3ViclFBZUNkdTI0Q2ZLdnNMcG9tQzg?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "São Paulo vence o Grêmio, mas é eliminado do Brasileiro Sub-17",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "São Paulo",
+    "Grêmio"
+   ],
+   "foco": true,
+   "nota": 66.6,
+   "sinais": {
+    "busca": 60,
+    "aceleracao": 45,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.056,
+   "trafego_google": 0,
+   "busca_torcedor": "sub-17 brasileiro 2026",
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "paulo|gremi|brasi|sub-1",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "São Paulo vence o Grêmio, mas é eliminado do Brasileiro Sub-17. E agora: o que muda para o São Paulo?",
+    "titulo_thumb": "E AGORA, SÃO PAULO?",
+    "pergunta_enquete": "Qual sua opinião: São Paulo vence o Grêmio, mas é eliminado do Brasileiro Sub-17?",
+    "tecnica": "Pergunta aberta",
+    "ganchos": [
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "São Paulo vence o Grêmio, mas é eliminado do Brasileiro Sub-17. E agora: o que muda para o São Paulo?",
+      "thumb": "E AGORA, SÃO PAULO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "São Paulo vence o Grêmio, mas é eliminado do Brasileiro Sub-17. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "“sub-17 brasileiro 2026”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "São Paulo vence o Grêmio, mas é eliminado do Brasileiro Sub-17. Dentro de campo acabou. Fora dele, a discussão está só começando.",
+      "thumb": "SÃO PAULO x GRÊMIO"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "São Paulo vence o Grêmio, mas é eliminado do Brasileiro Sub-17. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
+      "thumb": "NÃO É BEM ASSIM"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "São Paulo vence o Grêmio por 2 a 0, mas é eliminado do Brasileirão Sub-17",
+     "fonte": "Arquibancada Tricolor",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xRVdnZm9CZ3pfTXdCZXpqX1F1NlZuM3VsWm45ZWN0Tmo4X1pKQy1jUkpzelMyaVlRM0R4dkxJem82SkhubGcwaDk0bUxhRS0ycTNfRWZydEdjNFgxZTRQd2JFcWl6cFQ4RWpYSk5fc0RDVkpBUUFOYVJTRQ?oc=5"
+    },
+    {
+     "titulo": "São Paulo ganha do Grêmio, mas cai na primeira fase do Brasileiro sub-17",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOHB3YWxjQ3RpdW0wZVA2TGJpcmk2ZkhZeHR0RHdvYzhJbWt0d2tYZ1VCbzZ0cmVtWDd0a0pQelJYLWJaNHJwZFhjaVdfLWYyaFVmOFIxQi1acnBQYmc3Y3FoenUySTRnRjRseFptVzBLQVB2eVFWYmo0NHhENFNObmN5VWtWVC16VzdOYV9URi1LQk1hUFJlWjhwOU9WbkRuNmp2bGZSSU5BUnEzd3RtZm1PQ1NXcV9maWFYVkpvUV9xUdIBwgFBVV95cUxQOHB3YWxjQ3RpdW0wZVA2TGJpcmk2ZkhZeHR0RHdvYzhJbWt0d2tYZ1VCbzZ0cmVtWDd0a0pQelJYLWJaNHJwZFhjaVdfLWYyaFVmOFIxQi1acnBQYmc3Y3FoenUySTRnRjRseFptVzBLQVB2eVFWYmo0NHhENFNObmN5VWtWVC16VzdOYV9URi1LQk1hUFJlWjhwOU9WbkRuNmp2bGZSSU5BUnEzd3RtZm1PQ1NXcV9maWFYVkpvUV9xUQ?oc=5"
+    },
+    {
+     "titulo": "São Paulo vence o Grêmio, mas é eliminado do Brasileiro Sub-17",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS3I4aVFlMFFEN21sUEdMVDJtNTNZUmplTFhXODB0cHk3Y05WandYdG9jckR1RnFTdGV6LU5QaGtydHZKUHVUZnlDMC0wTVVXYVl0bnk3RmdnV2lBcUxiQnA2cXByejU1SmNYMHR2V1NOR1Bid0o0eEZqLUl1RDJFeTJyWmQ4c3NCUjhMOTI1OF9IRzV6cF9DN2NGd05wMEx1MlhNN3Rwa0pFbjI5NG8ycFFHbDFMN1NOSTFmOWZKektSVWZMUXc1Q3pQajhYN0lsOFVHY0NzMWdUR0dRRzlKdjZR?oc=5"
     }
    ]
   },
@@ -1403,7 +1403,7 @@
    "termos_trends": [],
    "n_fontes": 4,
    "n_manchetes": 4,
-   "assinatura": "corin|pode|inter|eleic",
+   "assinatura": "corin|pode|eleic|inter",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Explicador de bastidor (2 a 4 min)",
@@ -1553,7 +1553,7 @@
    "termos_trends": [],
    "n_fontes": 2,
    "n_manchetes": 2,
-   "assinatura": "lopez|palme|argen|flaco",
+   "assinatura": "prime|lopez|argen|gol",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
@@ -1579,12 +1579,12 @@
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Flaco López, do Palmeiras, marca primeiro gol pela Argentina. E agora: o que muda para o Palmeiras?",
+      "texto": "Flaco López, do Palmeiras, marca primeiro gol pela Argentina. Isso é bom ou ruim para o Palmeiras? Responde antes de ver a minha análise.",
       "thumb": "E AGORA, PALMEIRAS?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Flaco López, do Palmeiras, marca primeiro gol pela Argentina. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
+      "texto": "Flaco López, do Palmeiras, marca primeiro gol pela Argentina. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
       "thumb": "MEU PALPITE"
      }
     ]
@@ -1639,17 +1639,17 @@
      },
      {
       "tecnica": "Contradição",
-      "texto": "Fux autoriza Flamengo a participar de ação contra fim das bets na STF. Parece notícia pequena. Não é.",
+      "texto": "Fux autoriza Flamengo a participar de ação contra fim das bets na STF. Parece que está tudo resolvido. No futebol, quase nunca está.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Fux autoriza Flamengo a participar de ação contra fim das bets na STF. Isso é bom ou ruim para o Flamengo? Responde antes de ver a minha análise.",
+      "texto": "O que o Flamengo precisa fazer para vencer esse jogo?",
       "thumb": "E AGORA, FLAMENGO?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Fux autoriza Flamengo a participar de ação contra fim das bets na STF. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+      "texto": "Eu aposto que o Flamengo [VENCE / EMPATA / PERDE], e explico por quê. Qual é o seu placar?",
       "thumb": "MEU PALPITE"
      }
     ]
@@ -1683,91 +1683,6 @@
    ]
   },
   {
-   "tema": "Segundo um levantamento realizado pelo ge, o impacto da ausência de Arrascaeta pode ser significativo para o Flamengo. Com o uruguaio em campo, o Rubro-Negro tem 70,48% de aproveitamento nos 35 jogos em que o camisa 10 atuou. Sem Arrascaeta,",
-   "categoria": "Lesão e desfalque",
-   "clubes": [
-    "Flamengo"
-   ],
-   "foco": true,
-   "nota": 64.0,
-   "sinais": {
-    "busca": 60,
-    "aceleracao": 37,
-    "midia": 75,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "arrascaeta flamengo",
-   "termos_trends": [],
-   "n_fontes": 5,
-   "n_manchetes": 7,
-   "assinatura": "arras|flame|pode|urugu",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 2 min)",
-    "gancho": "Aproveitamento do Flamengo cai sem Arrascaeta. Parece só mais um desfalque. Não é: muda o jeito do time jogar.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Segundo um levantamento realizado pelo ge, o impacto da ausência de Arrascaeta pode ser si?",
-    "tecnica": "Contradição",
-    "ganchos": [
-     {
-      "tecnica": "Contradição",
-      "texto": "Aproveitamento do Flamengo cai sem Arrascaeta. Parece só mais um desfalque. Não é: muda o jeito do time jogar.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Quanto vale Arrascaeta para o Flamengo? A resposta está nos números.",
-      "thumb": "E AGORA, FLAMENGO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Aproveitamento do Flamengo cai sem Arrascaeta. Meu palpite de quanto tempo esse desfalque vai durar: [SEU PALPITE]. Qual é o seu?",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "70,48%. Esse é o número da semana no Flamengo, e eu vou te mostrar por quê.",
-      "thumb": "70,48%"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Aproveitamento do Flamengo cai sem Arrascaeta. Agora o técnico tem que escolher: improvisar ou mudar o time inteiro.",
-      "thumb": "SEM ARRASCAETA?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Segundo um levantamento realizado pelo ge, o impacto da ausência de Arrascaeta pode ser significativo para o Flamengo. Com o uruguaio em campo, o Rubro-Negro tem 70,48% de aproveitamento nos 35 jogos em que o camisa 10 atuou. Sem Arrascaeta,",
-     "fonte": "instagram.com",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rRlFVU1pidE9qNTNIMzRPLUxtaHRWb1ZleGkyOEN4aVV5OWlrRXo4XzF2d0gzUWZBY3ZQNUJoVXNscGVmQlE1YWdQVjg2QnFMdFE?oc=5"
-    },
-    {
-     "titulo": "Flamengo pode ficar sem Arrascaeta nas semifinais da Libertadores",
-     "fonte": "DIARINHO",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONUJTaE40ZkIwc2dUVGhtMnduNkt0Y1VFdWRTMEozLVVOak9rTWctRUhtOWtfQ1JTUllrZmRIMWNHMzJFSnBsQUN6RTc1bHJmNXptUXl6Y1BrdndCaWJ1WkdjVllZRVJTNE1jREI2OTZvMWpVN0FiUmprMG9jNjF4MWZKeWRfaDRNREViMWZTVWtkOTFKUEpMWG9iN1Vad19ZNEdN?oc=5"
-    },
-    {
-     "titulo": "Lesão de Arrascaeta pode render valor milionário ao Flamengo; veja",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOblo1Z25DU2xEblNxX2g3UEJGSlhQakZDWWJZUjE1NUVWSGY1VzhmVzlPc3NBUGdxQWV0SHFXMEJ1R1hSUE9FQ2txNEo2WUVCUWVlYXU5XzNBNGtVZG8za1N1LXV0TXhKdVdQdHpuNDFlRVo3ZktJSnZtQlloaVdtRzl0WUZCYkRWOEp3bGEzX1lWT1JUR0ZpVTJYRVBiMmh4aVhZY1lsdWFpeVoxd0FEOWl2UmxqYm9UMGlOZHI5ak9mb3N2U3JCc0tHQlVPdlROOFZnM2o3OExOeENvMjBJV09wQTFDRV9TcEE?oc=5"
-    },
-    {
-     "titulo": "Alerta ligado: Aproveitamento do Flamengo cai sem Arrascaeta",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmlfVHJHY084bzlyQTFvNGgxT1B6Slc5anFEakNIdmp0QVVQME5EU3lHZ0VQdlN5TFlXSlBPSGQ2bXVKRG1fdW5KODRZN1llREZsckY1NUVIY1NsZUlZb0lwYldvMjZoVjh4Y1FDOFJOTGMzMWZuaGZMSnVQWDhPSDY0cWJZdFFXWUUyNlpLWDdPM09xaGQwc3JxNWtycUNtZl9F0gGyAUFVX3lxTFBqMnp1WHpkZHgxYm5IeHYtSU80dGVTcHpvSWVZSmNKc3g2VWNWeUJSM1RhYUNMbXlZVVVCelFqbW1wNVFDemo2dzRsenNUbmd6WlFlTVp5dmpXRHYtVkJxUXBOclZjOS1QdDlhcHU1T19udEgtWEpfbkw0RnZOaDlNbTIyQkpHRnZPejVpek96NHhlQjA1eWExTkF1dUlGZGdpLVBBaTZ2WTNPN2ZWNF9sNWc?oc=5"
-    },
-    {
-     "titulo": "Arrascaeta sofre quinta lesão com o Uruguai, que já o fez desfalcar o Flamengo por 118 dias",
-     "fonte": "DeFato.com",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNemxvWk5ibk9SOUtrT2dEYU5HXzU3NjR2R1VTYU5sd05YWXNVRDRKVWswTV90ajNHbmtSSVM3RVFaSnNLekQwYkQzRVhwQ3lFQ1dLOGtyTHNhNXFONm9la21RR3pOVEdOaGktQjl0RU5Kb3hQYUpPS3ZKbFY5RGFTbllXV0FSd0xLZUVsSUZmdDA2UnJ4d01aX3preUM4ZzM0MzVwcnZrMWlyeUZneDluNWFnN3I?oc=5"
-    }
-   ]
-  },
-  {
    "tema": "Philippe Coutinho pode reforçar Santos contra o São Paulo",
    "categoria": "Notícia do dia",
    "clubes": [
@@ -1789,15 +1704,20 @@
    "termos_trends": [],
    "n_fontes": 4,
    "n_manchetes": 4,
-   "assinatura": "santo|couti|paulo|phili",
+   "assinatura": "paulo|couti|santo|phili",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
-    "gancho": "Philippe Coutinho pode reforçar Santos contra o São Paulo. E agora: o que muda para o São Paulo?",
-    "titulo_thumb": "E AGORA, SÃO PAULO?",
+    "gancho": "Philippe Coutinho pode reforçar Santos contra o São Paulo. Parece notícia pequena. Não é.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
     "pergunta_enquete": "Qual sua opinião: Philippe Coutinho pode reforçar Santos contra o São Paulo?",
-    "tecnica": "Pergunta aberta",
+    "tecnica": "Contradição",
     "ganchos": [
+     {
+      "tecnica": "Contradição",
+      "texto": "Philippe Coutinho pode reforçar Santos contra o São Paulo. Parece notícia pequena. Não é.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
      {
       "tecnica": "Pergunta aberta",
       "texto": "Philippe Coutinho pode reforçar Santos contra o São Paulo. E agora: o que muda para o São Paulo?",
@@ -1817,11 +1737,6 @@
       "tecnica": "Conflito",
       "texto": "Philippe Coutinho pode reforçar Santos contra o São Paulo. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
       "thumb": "SÃO PAULO x SANTOS"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Philippe Coutinho pode reforçar Santos contra o São Paulo. Parece notícia pequena. Não é.",
-      "thumb": "NÃO É BEM ASSIM"
      }
     ]
    },
@@ -1870,18 +1785,23 @@
    "termos_trends": [],
    "n_fontes": 14,
    "n_manchetes": 16,
-   "assinatura": "class|santo|paulo|trein",
+   "assinatura": "paulo|class|santo|trein",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 2 min)",
-    "gancho": "Eu aposto que [SEU PALPITE: QUEM ENTRA] vai ganhar a vaga de Coutinho. Você concorda?",
-    "titulo_thumb": "MEU PALPITE",
+    "gancho": "Com Coutinho em evolução e Neymar no gramado, Santos treina para clássico contra o São Paulo. Quem entra no lugar, e o time aguenta?",
+    "titulo_thumb": "E AGORA, SÃO PAULO?",
     "pergunta_enquete": "Qual sua opinião: BOBADILLA TREINA E NEWTON AVANÇA NA RECUPERAÇÃO 🔴⚪⚫ O São Paulo ganhou novidades durante a?",
-    "tecnica": "Aposta",
+    "tecnica": "Pergunta aberta",
     "ganchos": [
      {
+      "tecnica": "Pergunta aberta",
+      "texto": "Com Coutinho em evolução e Neymar no gramado, Santos treina para clássico contra o São Paulo. Quem entra no lugar, e o time aguenta?",
+      "thumb": "E AGORA, SÃO PAULO?"
+     },
+     {
       "tecnica": "Aposta",
-      "texto": "Eu aposto que [SEU PALPITE: QUEM ENTRA] vai ganhar a vaga de Coutinho. Você concorda?",
+      "texto": "Com Coutinho em evolução e Neymar no gramado, Santos treina para clássico contra o São Paulo. Meu palpite de quanto tempo esse desfalque vai durar: [SEU PALPITE]. Qual é o seu?",
       "thumb": "MEU PALPITE"
      },
      {
@@ -1898,11 +1818,6 @@
       "tecnica": "Contradição",
       "texto": "Todo mundo diz que sem Coutinho o São Paulo afunda. Eu não tenho tanta certeza, e vou te mostrar por quê.",
       "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Com Coutinho em evolução e Neymar no gramado, Santos treina para clássico contra o São Paulo. Quem entra no lugar, e o time aguenta?",
-      "thumb": "E AGORA, SÃO PAULO?"
      }
     ]
    },
@@ -1943,6 +1858,91 @@
    }
   },
   {
+   "tema": "Segundo um levantamento realizado pelo ge, o impacto da ausência de Arrascaeta pode ser significativo para o Flamengo. Com o uruguaio em campo, o Rubro-Negro tem 70,48% de aproveitamento nos 35 jogos em que o camisa 10 atuou. Sem Arrascaeta,",
+   "categoria": "Lesão e desfalque",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 58.8,
+   "sinais": {
+    "busca": 60,
+    "aceleracao": 25,
+    "midia": 67,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "arrascaeta flamengo",
+   "termos_trends": [],
+   "n_fontes": 4,
+   "n_manchetes": 6,
+   "assinatura": "arras|flame|urugu|pode",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "Eu aposto que [SEU PALPITE: QUEM ENTRA] vai ganhar a vaga de Arrascaeta. Você concorda?",
+    "titulo_thumb": "MEU PALPITE",
+    "pergunta_enquete": "Qual sua opinião: Segundo um levantamento realizado pelo ge, o impacto da ausência de Arrascaeta pode ser si?",
+    "tecnica": "Aposta",
+    "ganchos": [
+     {
+      "tecnica": "Aposta",
+      "texto": "Eu aposto que [SEU PALPITE: QUEM ENTRA] vai ganhar a vaga de Arrascaeta. Você concorda?",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "70,48%. Esse é o número da semana no Flamengo, e eu vou te mostrar por quê.",
+      "thumb": "70,48%"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Aproveitamento do Flamengo cai sem Arrascaeta. Agora o técnico tem que escolher: improvisar ou mudar o time inteiro.",
+      "thumb": "SEM ARRASCAETA?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Aproveitamento do Flamengo cai sem Arrascaeta. Parece só mais um desfalque. Não é: muda o jeito do time jogar.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Aproveitamento do Flamengo cai sem Arrascaeta. O elenco do Flamengo tem reposição à altura?",
+      "thumb": "E AGORA, FLAMENGO?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Segundo um levantamento realizado pelo ge, o impacto da ausência de Arrascaeta pode ser significativo para o Flamengo. Com o uruguaio em campo, o Rubro-Negro tem 70,48% de aproveitamento nos 35 jogos em que o camisa 10 atuou. Sem Arrascaeta,",
+     "fonte": "instagram.com",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rRlFVU1pidE9qNTNIMzRPLUxtaHRWb1ZleGkyOEN4aVV5OWlrRXo4XzF2d0gzUWZBY3ZQNUJoVXNscGVmQlE1YWdQVjg2QnFMdFE?oc=5"
+    },
+    {
+     "titulo": "Lesão de Arrascaeta pode render valor milionário ao Flamengo; veja",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOblo1Z25DU2xEblNxX2g3UEJGSlhQakZDWWJZUjE1NUVWSGY1VzhmVzlPc3NBUGdxQWV0SHFXMEJ1R1hSUE9FQ2txNEo2WUVCUWVlYXU5XzNBNGtVZG8za1N1LXV0TXhKdVdQdHpuNDFlRVo3ZktJSnZtQlloaVdtRzl0WUZCYkRWOEp3bGEzX1lWT1JUR0ZpVTJYRVBiMmh4aVhZY1lsdWFpeVoxd0FEOWl2UmxqYm9UMGlOZHI5ak9mb3N2U3JCc0tHQlVPdlROOFZnM2o3OExOeENvMjBJV09wQTFDRV9TcEE?oc=5"
+    },
+    {
+     "titulo": "Alerta ligado: Aproveitamento do Flamengo cai sem Arrascaeta",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmlfVHJHY084bzlyQTFvNGgxT1B6Slc5anFEakNIdmp0QVVQME5EU3lHZ0VQdlN5TFlXSlBPSGQ2bXVKRG1fdW5KODRZN1llREZsckY1NUVIY1NsZUlZb0lwYldvMjZoVjh4Y1FDOFJOTGMzMWZuaGZMSnVQWDhPSDY0cWJZdFFXWUUyNlpLWDdPM09xaGQwc3JxNWtycUNtZl9F0gGyAUFVX3lxTFBqMnp1WHpkZHgxYm5IeHYtSU80dGVTcHpvSWVZSmNKc3g2VWNWeUJSM1RhYUNMbXlZVVVCelFqbW1wNVFDemo2dzRsenNUbmd6WlFlTVp5dmpXRHYtVkJxUXBOclZjOS1QdDlhcHU1T19udEgtWEpfbkw0RnZOaDlNbTIyQkpHRnZPejVpek96NHhlQjA1eWExTkF1dUlGZGdpLVBBaTZ2WTNPN2ZWNF9sNWc?oc=5"
+    },
+    {
+     "titulo": "Arrascaeta sofre quinta lesão com o Uruguai, que já o fez desfalcar o Flamengo por 118 dias",
+     "fonte": "DeFato.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNemxvWk5ibk9SOUtrT2dEYU5HXzU3NjR2R1VTYU5sd05YWXNVRDRKVWswTV90ajNHbmtSSVM3RVFaSnNLekQwYkQzRVhwQ3lFQ1dLOGtyTHNhNXFONm9la21RR3pOVEdOaGktQjl0RU5Kb3hQYUpPS3ZKbFY5RGFTbllXV0FSd0xLZUVsSUZmdDA2UnJ4d01aX3preUM4ZzM0MzVwcnZrMWlyeUZneDluNWFnN3I?oc=5"
+    },
+    {
+     "titulo": "Sem Arrascaeta? Flamengo tem dois meias que pontuam mais do que o uruguaio no Cartola 2026",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYlRnU0NZZThpaEtRVnBpcDdGRkxwWXpUZ2hmT2FMSE93ZndGX05BbWZGT085SGxoMU8wa1p5UUY2cTZEVlpha0Q0ZDV4UjFLUEJyTl9PZGZFTHhiYXBoM2FsZk5wYzl5S3B6am5XLWNGYjBMcEEzNllDRVVJdW5ybTl3VGFEWlZOd3BET1p0TUhwVDI5NmtudzZiV3pBd1BILUk0MUxKVnpxMmk4UGNzTVFIZ1JYVWJ0VnpENHMwek1EYXFHTXJnUGpOSE9VbzZ5eEVCX1Exb1g3dDdfMnZibk94cm84Qlp0RWNYZdIB-wFBVV95cUxOVXN5S2dIV0R5ZDFfSWhHZll0OGtpRDNYVmpIZzBGQUdVNDRVTVFWWlo2SHVyWXhiNEJ5MU9JemtEVFFHSk56b1dsY29VZndrVGZTZUhFTVByeEtWU2dOV3pFRVktUHdlRnNIaEI1NmY5VWxSX3NESTJ3dmp2dDlQZGQwWkt6TE05SXUxbWc3Nnp1MEhuR25uckFTWEJJSTN3QlFqU3RUT2lESDZMR1IycFZhSHg4c0x3Q1lrWHZDZHBKNElSVi1yVTE1SDd5UTRzY0NvR1drbnQxMlR1ZmV3NWstZGs3MS00a0FTek85TkJoNmZuMjRmTjlVSQ?oc=5"
+    }
+   ]
+  },
+  {
    "tema": "Palmeiras goleia o Vasco na última rodada e enfrenta o Atlético-MG nas quartas do Brasileirão sub-17",
    "categoria": "Jogo e resultado",
    "clubes": [
@@ -1951,9 +1951,9 @@
     "Atlético-MG"
    ],
    "foco": true,
-   "nota": 56.9,
+   "nota": 55.3,
    "sinais": {
-    "busca": 70,
+    "busca": 65,
     "aceleracao": 4,
     "midia": 58,
     "aderencia": 100,
@@ -1965,7 +1965,7 @@
    "termos_trends": [],
    "n_fontes": 3,
    "n_manchetes": 3,
-   "assinatura": "vasco|brasi|sub-1|golei",
+   "assinatura": "brasi|sub-1|vasco|quart",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
@@ -1981,7 +1981,7 @@
      },
      {
       "tecnica": "Conflito",
-      "texto": "Palmeiras contra Vasco vale mais do que três pontos, e os dois sabem disso.",
+      "texto": "Palmeiras goleia o Vasco na última rodada e enfrenta o Atlético-MG nas quartas do Brasileirão sub-17. Dentro de campo acabou. Fora dele, a discussão está só começando.",
       "thumb": "PALMEIRAS x VASCO"
      },
      {
@@ -1991,7 +1991,7 @@
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Palmeiras x Vasco: qual é o detalhe que vai decidir?",
+      "texto": "Palmeiras goleia o Vasco na última rodada e enfrenta o Atlético-MG nas quartas do Brasileirão sub-17. Foi mérito de quem venceu ou erro de quem perdeu?",
       "thumb": "E AGORA, PALMEIRAS?"
      },
      {
