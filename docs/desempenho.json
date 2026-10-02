@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-01T17:09:17.702121+00:00",
+ "gerado_em": "2026-10-02T01:44:24.598519+00:00",
  "canal": {
   "id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
   "nome": "NAÇÕES DA BOLA o canal de todas as torcidas",
@@ -10,7 +10,7 @@
   "fim": "2026-09-28",
   "janela_inicio": "2026-07-01"
  },
- "n_videos": 60,
+ "n_videos": 61,
  "n_videos_v7": 40,
  "mediana_v7": 132,
  "resumo_semana": {
@@ -235,7 +235,7 @@
  "trafego": [
   {
    "origem": "Página inicial e inscrições",
-   "views": 14396,
+   "views": 14395,
    "pct": 84.5
   },
   {
@@ -732,17 +732,17 @@
     "meta": null,
     "nivel": "Supers e membros",
     "status": "abaixo",
-    "texto": "5.910 de 500 inscritos, 60 de 3 envios públicos em 90 dias e 2.301 de 3.000 h (ou 3.000.000 views de Shorts em 90 dias).",
+    "texto": "5.910 de 500 inscritos, 61 de 3 envios públicos em 90 dias e 2.301 de 3.000 h (ou 3.000.000 views de Shorts em 90 dias).",
     "acao": null
    },
    {
     "id": "atividade",
     "nome": "Canal ativo (envios públicos)",
-    "atual": 2,
+    "atual": 0,
     "meta": 180,
     "nivel": "manter a monetização",
     "status": "ok",
-    "texto": "Último envio público há 2 dias. Canais sem envios por 6 meses podem ter a monetização revisada.",
+    "texto": "Último envio público: hoje. Canais sem envios por 6 meses podem ter a monetização revisada.",
     "acao": null
    },
    {

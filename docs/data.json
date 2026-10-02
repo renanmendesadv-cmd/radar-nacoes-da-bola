@@ -1,18 +1,23 @@
 {
- "gerado_em": "2026-10-01T17:09:17.702121+00:00",
- "data_br": "01/10/2026 14:09",
+ "gerado_em": "2026-10-02T01:44:24.598519+00:00",
+ "data_br": "01/10/2026 22:44",
  "status": {
   "Google Trends": 10,
-  "Google News": 1007,
+  "Google News": 1005,
   "Vídeos do canal": 15,
   "Buscas do torcedor": 18,
-  "YouTube (48 h)": 12,
+  "YouTube (48 h)": 8,
   "Alertas de tendência": "nenhum hoje",
   "Agenda (ESPN)": 200,
   "Agenda (buscas Google)": 0
  },
  "canal_id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
  "videos_recentes": [
+  {
+   "titulo": "ANÁLISE DOS DOIS JOGOS DO BRASIL/40 JOGOS INVICTOS. ESPANHA É A DONA DA  BOLA?/SAN-SÃO AGITA O BR/26",
+   "url": "https://www.youtube.com/watch?v=gEjicU4OPnU",
+   "publicado": "2026-10-02T00:41:13+00:00"
+  },
   {
    "titulo": "ESPANHA X CROÁCIA - 2ª RODADA",
    "url": "https://www.youtube.com/watch?v=ABGH1zdZRN0",
@@ -57,17 +62,11 @@
    "titulo": "TOCA E  RECEBE - VC PERGUNTA  E NÓS RESPONDEMOS NA HORA",
    "url": "https://www.youtube.com/watch?v=ZhHREGjaq8U",
    "publicado": "2026-09-18T00:44:57+00:00"
-  },
-  {
-   "titulo": "CORINTHIANS  X  ESTUDIANTES -  JOGO DA VOLTA",
-   "url": "https://www.youtube.com/watch?v=4CY4MadeZa0",
-   "publicado": "2026-09-17T03:05:07+00:00"
   }
  ],
  "termos_futebol": [
-  "caixa",
-  "jornalista",
-  "estados unidos"
+  "platense x estudiantes",
+  "novorizontino x goiás"
  ],
  "pesos": {
   "busca": 0.24,
@@ -100,10 +99,10 @@
     "estado": "pre",
     "clube": "São Paulo",
     "tipo": "pré-jogo",
-    "em_horas": 30,
-    "gancho": "São Paulo x Santos: um precisa vencer, o outro não pode perder.",
-    "titulo_thumb": "SÃO PAULO X SANTOS",
-    "tecnica": "Conflito",
+    "em_horas": 21,
+    "gancho": "São Paulo x Santos parece um jogo com dono. É exatamente aí que mora o perigo.",
+    "titulo_thumb": "ZEBRA À VISTA?",
+    "tecnica": "Contradição",
     "formato": "Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)"
    },
    {
@@ -117,10 +116,10 @@
     "estado": "pre",
     "clube": "Corinthians",
     "tipo": "pré-jogo",
-    "em_horas": 149,
-    "gancho": "Meu palpite para Internacional x Corinthians: [SEU PLACAR]. Deixa o seu nos comentários.",
-    "titulo_thumb": "MEU PALPITE",
-    "tecnica": "Aposta",
+    "em_horas": 141,
+    "gancho": "Internacional x Corinthians: um precisa vencer, o outro não pode perder.",
+    "titulo_thumb": "INTERNACIONAL X CORINTHIANS",
+    "tecnica": "Conflito",
     "formato": "Enquete: qual o seu palpite? (30 s)"
    },
    {
@@ -134,44 +133,72 @@
     "estado": "pre",
     "clube": "São Paulo",
     "tipo": "pré-jogo",
-    "em_horas": 151,
-    "gancho": "Cruzeiro x São Paulo parece um jogo com dono. É exatamente aí que mora o perigo.",
-    "titulo_thumb": "ZEBRA À VISTA?",
-    "tecnica": "Contradição",
+    "em_horas": 143,
+    "gancho": "Se você fosse o técnico em Cruzeiro x São Paulo, quem escalaria?",
+    "titulo_thumb": "SUA ESCALAÇÃO",
+    "tecnica": "Pergunta aberta",
+    "formato": "Enquete: qual o seu palpite? (30 s)"
+   },
+   {
+    "id": "401841251",
+    "data": "2026-10-08T22:30Z",
+    "liga": "Brasileirão",
+    "casa": "Santos",
+    "fora": "Flamengo",
+    "placar_casa": null,
+    "placar_fora": null,
+    "estado": "pre",
+    "clube": "Flamengo",
+    "tipo": "pré-jogo",
+    "em_horas": 165,
+    "gancho": "Meu palpite para Santos x Flamengo: [SEU PLACAR]. Deixa o seu nos comentários.",
+    "titulo_thumb": "MEU PALPITE",
+    "tecnica": "Aposta",
+    "formato": "Enquete: qual o seu palpite? (30 s)"
+   },
+   {
+    "id": "401841254",
+    "data": "2026-10-09T00:30Z",
+    "liga": "Brasileirão",
+    "casa": "Palmeiras",
+    "fora": "Bahia",
+    "placar_casa": null,
+    "placar_fora": null,
+    "estado": "pre",
+    "clube": "Palmeiras",
+    "tipo": "pré-jogo",
+    "em_horas": 167,
+    "gancho": "Palmeiras x Bahia: qual é o detalhe que vai decidir esse jogo?",
+    "titulo_thumb": "QUEM LEVA?",
+    "tecnica": "Pergunta aberta",
     "formato": "Enquete: qual o seu palpite? (30 s)"
    }
   ],
   "resultados": [],
   "na_midia": [
    {
-    "jogo": "Palmeiras x Corinthians",
-    "clube": "Corinthians",
-    "manchetes": 5,
-    "exemplo": "Palmeiras x Corinthians: Daronco apita o Dérbi Paulista"
-   },
-   {
     "jogo": "Ingressos Para Flamengo x Estudiantes",
     "clube": "Flamengo",
-    "manchetes": 3,
-    "exemplo": "Veja como comprar ingressos para Flamengo x Estudiantes, pela semifinal da Libertadores"
+    "manchetes": 4,
+    "exemplo": "Ingressos para Flamengo x Estudiantes: confira todas as informações dos dois jogos"
    },
    {
-    "jogo": "Ingressos Para Estudiantes x Flamengo",
-    "clube": "Flamengo",
-    "manchetes": 3,
-    "exemplo": "Ingressos para Estudiantes x Flamengo: veja como comprar"
-   },
-   {
-    "jogo": "- Santos x Flamengo",
-    "clube": "Flamengo",
+    "jogo": "Sao Paulo x Corinthians",
+    "clube": "Corinthians",
     "manchetes": 2,
-    "exemplo": "SÓ DECISÃO! Líder do Campeonato Brasileiro e semifinalista da Libertadores, o Flamengo entra em outubro diante de um mês decisivo para os objetivos da temporada. Confira a agenda do Mengão: 08/10 (quinta-feira) - Santos x Flamengo, na Vila Belmiro"
+    "exemplo": "São Paulo x Corinthians: quem está no radar da seleção para a Copa de 2027?"
    },
    {
-    "jogo": "Santos x Flamengo",
-    "clube": "Flamengo",
+    "jogo": "Ldu x Palmeiras",
+    "clube": "Palmeiras",
     "manchetes": 2,
-    "exemplo": "Ao vivo: Santos x Flamengo | Rodada 29 | Campeonato Brasileiro"
+    "exemplo": "Conmebol define gancho de Abel Ferreira por expulsão em LDU x Palmeiras na Libertadores"
+   },
+   {
+    "jogo": "Santos x Palmeiras",
+    "clube": "Palmeiras",
+    "manchetes": 2,
+    "exemplo": "SANTOS X PALMEIRAS AO VIVO: A MAIOR VIRADA DA COPA DO BRASIL OU VEXAME? Question Time (jr2AqW4iMp)"
    }
   ],
   "nas_buscas": []
@@ -199,10 +226,9 @@
   "seleção brasileira": [
    "seleção brasileira futebol",
    "seleção brasileira feminina",
-   "seleção brasileira amistosos",
    "seleção brasileira 2002",
    "seleção brasileira jogadores",
-   "seleção brasileira de futebol sub-20"
+   "seleção brasileira amistosos"
   ],
   "brasileirão": [
    "brasileirão série a",
@@ -217,325 +243,169 @@
  "aviso_requisitos": null,
  "temas": [
   {
-   "tema": "Arrascaeta, do Flamengo, passa por cirurgia no punho e deve receber alta nesta quinta",
+   "tema": "NOSSO 10 TÁ BEM! Arrascaeta divulgou uma foto nas suas redes sociais após passar por cirurgia no punho esquerdo nesta quinta-feira (1º). Na publicação, o camisa 10 do Flamengo aparece no hospital e informou que acordou bem após o procedimento, q",
    "categoria": "Lesão e desfalque",
    "clubes": [
     "Flamengo"
    ],
    "foco": true,
-   "nota": 83.2,
+   "nota": 81.6,
    "sinais": {
-    "busca": 65,
-    "aceleracao": 71,
-    "midia": 96,
+    "busca": 60,
+    "aceleracao": 70,
+    "midia": 100,
     "aderencia": 100,
-    "youtube": 96
+    "youtube": 92
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
    "busca_torcedor": "arrascaeta flamengo",
    "termos_trends": [],
-   "n_fontes": 9,
-   "n_manchetes": 14,
-   "assinatura": "cirur|arras|flame|passa",
+   "n_fontes": 10,
+   "n_manchetes": 15,
+   "assinatura": "arras|cirur|flame|punho",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 2 min)",
-    "gancho": "Arrascaeta, do Flamengo, passa por cirurgia no punho e deve receber alta nesta quinta. Agora o técnico tem que escolher: improvisar ou mudar o time inteiro.",
+    "gancho": "Arrascaeta atualiza torcida do Flamengo após cirurgia no punho. Agora o técnico tem que escolher: improvisar ou mudar o time inteiro.",
     "titulo_thumb": "SEM ARRASCAETA?",
-    "pergunta_enquete": "Qual sua opinião: Arrascaeta, do Flamengo, passa por cirurgia no punho e deve receber alta nesta quinta?",
+    "pergunta_enquete": "Qual sua opinião: NOSSO 10 TÁ BEM! Arrascaeta divulgou uma foto nas suas redes sociais após passar por cirur?",
     "tecnica": "Conflito",
     "ganchos": [
      {
       "tecnica": "Conflito",
-      "texto": "Arrascaeta, do Flamengo, passa por cirurgia no punho e deve receber alta nesta quinta. Agora o técnico tem que escolher: improvisar ou mudar o time inteiro.",
+      "texto": "Arrascaeta atualiza torcida do Flamengo após cirurgia no punho. Agora o técnico tem que escolher: improvisar ou mudar o time inteiro.",
       "thumb": "SEM ARRASCAETA?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Arrascaeta, do Flamengo, passa por cirurgia no punho e deve receber alta nesta quinta. Parece só mais um desfalque. Não é: muda o jeito do time jogar.",
+      "texto": "Arrascaeta atualiza torcida do Flamengo após cirurgia no punho. Todo mundo está olhando para quem sai. O problema está em quem entra.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Sem Arrascaeta, quem segura o Flamengo nos próximos jogos?",
+      "texto": "Arrascaeta atualiza torcida do Flamengo após cirurgia no punho. O elenco do Flamengo tem reposição à altura?",
       "thumb": "E AGORA, FLAMENGO?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Minha aposta: o Flamengo vai sentir a falta de Arrascaeta já no próximo jogo. Comenta a sua e me cobra depois.",
+      "texto": "Arrascaeta atualiza torcida do Flamengo após cirurgia no punho. Meu palpite de quanto tempo esse desfalque vai durar: [SEU PALPITE]. Qual é o seu?",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Dado",
-      "texto": "475 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
+      "texto": "217 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
       "thumb": "TODO MUNDO VIU"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Arrascaeta passa por cirurgia bem-sucedida no punho e Flamengo confia em retorno antecipado",
-     "fonte": "Estadão",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVWlYRl8wMmVtamJlQnRBa1J4XzlCUVhkdVAxWDVhS25VeC12d3Q3Ymh1ZzFBV2hvd2xPOWgxaEEzMVJ3TVluMms5MXhVX1NNekFuODZYbzV0SFBmRndCVHFVaE50TTZLRlB4UnZJNjZ6LXFhOExWcEE4akpWaHhfTEpOWVo3eGNrcy1vS3gzM3NQTjZCeXkwTEtnMm5RQ01qcEVYbWhuOXlGZm1FSzgzWlNDUlhaRzUwV3UtQ1VDRlEtUnZ0bE1hcDJOcURvWkUzWGNQUVBOSE1rd1h5?oc=5"
+     "titulo": "Flamengo confirma alta de Arrascaeta após cirurgia no punho",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOODB4cFhva3luRTllWWFXYzJwTHhseGpYcHdWczRqNVh1WDlJU0Zsdy1paS16ekR3aWhtb0lHQy1xbnlRRXhsa0ZaaHQyMUN0VWwxMVc5MjF0dW9KMUVGY0IzZXY0T2k3aFBINlZwYm1FeUdYenhROHk1aXQwMWVoSXFuWG9kcnp2b2FGOG9KS0VZVDVqZ0hQMjdWYmhtaXdoZG14RXVnVmpfbnBNYmt5Q0FmMU41dHJhSGZQbWNCSFBjLVBMeEt0dDZBS1NtQUNGQVVPbzdSUEM2OFRSVDBDLWt3?oc=5"
     },
     {
-     "titulo": "Arrascaeta passa por cirurgia e Flamengo define prazo de recuperação",
-     "fonte": "sportbuzz.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWd1LVUtRUNEaTVHMGJGd2MzamwxSkhRM2NncGZibGVxcVEzUWxzWFZMUmNhNENWUzQtSk1rZ1hXN2poTE50Nl9KeXo1enZ0aFVvZnJpdFduVlV0ejN2U0hMampRUWQwUk1zZElJVXNDLXNneFFXVkRjV1Y4VGlHR0hRTjlXSmpvY1VBZ1JJcXROYkN5RkprUGZDa2hTNXJ6WENUS3l2T0NyU0VSQURfZTRKbw?oc=5"
+     "titulo": "Arrascaeta recebe alta de médico do Flamengo após cirurgia no punho",
+     "fonte": "O Dia",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUHl2dXVrNmJsRDlYRlozcmxtT2NyLXNBSkZvU3k1MXZLMTlYNzhhczJ6eFpmSUJvRnhsYkpfZW9YaUlROWcyZklvbnlVc0czLTBQTWJMLXJoR3REODA3R1AtRFI4SE1PZFhvZUJFZl8zaGtxVkJXeGd3WFFqUk1qSE01LTdHaHNfM2I4cXVjOTU5TFRaeG1QRDhfLXlQd3daUGNpcVJRal9ZTG5sVlFubnI4bm9iamFCblFTanZlaG5aYjk4aUlj0gHMAUFVX3lxTFBsLUFIcEQxY0JjbFgzcUV1dWJVZjRYMkVpdDlEcWEwMldoVDYxLXZKVFppVGVoRS00WEdrWWN4ZTBYRFd4eVY2ckc5UGtQUnFvd3hWWFZoTlRBY2Y0alM3Q2FWaW9QZXpzUDFmdTRhQXRCUjVjSmhPSlRGeGJkZzBzNEtYaF9vQU1yblhLbUM5eUc3cnFCeXNUX1BOak1kMXZNRVVsckVtcmNMU3VPZ3llQkpuMkp3QnhxR2RLZWhfN1hyXy1MS2xCT09OWQ?oc=5"
     },
     {
-     "titulo": "Cirurgia de Arrascaeta, do Flamengo, é bem-sucedida: veja previsão de alta",
-     "fonte": "Rádio Itatiaia",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTXhvWHNpUUEyVEg2c1ZhS3dxQ18xVzk3TkRBTE0wbXBHRDhsVklYWEU1TWVGZ19FbFZGWnhkMllueFY5RGF6SFE0b214SXZKWHpSZEJDNzBIXzJ1aHl1RFlhN1ZCeTVjblhWVXZiT3JNTVRxZWJmQk5fRVM2TTA3VER3VEhKblE3dEs0NlREdFZDZnFIblNCSUtTblo0YmJEZG5WRUVwVWNGeWlXelAxNV9HNlEwYnY0T0NBQjVnbXJJaURFcnoyS1BiQ2MwVWlma1BiZFdFSDVZay1NVTZxZlJaZ3o0UjBtMTJ4NlJjN0Y?oc=5"
+     "titulo": "Arrascaeta recebeu alta do Hospital Copa Star na noite desta quinta-feira (1º), após passar por cirurgia no punho esquerdo. O médico do Flamengo, Luiz Augusto Macedo, esteve no hospital e concedeu alta ao jogador. O camisa 10 já está em casa, onde per",
+     "fonte": "instagram.com",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uNXVCclAzVXpWRWFtQ0hoVnpXTFhHRERJazJtUkhBaFpteC1kekk1eE1LN1l3a2UxXzc0OWpuN2tobkFPZndNVE1rR3Q3aFQ5T0E?oc=5"
     },
     {
-     "titulo": "Arrascaeta passa por cirurgia e corre contra o tempo no Flamengo",
-     "fonte": "odia.ig.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaVR6bTVrMXg0ZFp2ZGh0dWo3UGgxYkVvVFFFc1hwY3drOUFhVDg5MUJLLXROakJFZ2FvQ3QzaGZtdThYcUs2UlZjalg4V3RPcXNPU0VNVzFFZVdKMlhFaGdkRDRRYmN6dGgtVy1jeTdhSVg0Y2VLdG5pQ3BQWkxMWnNaWEVDcDc5RURtdndiUzQ2MVRrODNzV1BCR3BsUlptelpxdG5QalRISDBRYkNMaTE0R2pJdEJOZkhrQk5GQzJwRjTSAcgBQVVfeXFMUDFaLThaQm1zQ1FEU19sb0FMdlNiamtzMFlBTEYwUi1obHAxNUY2djcwZVVHN0N5LXpRN1ZkbkZhVFZ3enBFVVJlWUVNVUJXdVA4UmloZEE1R0gzVTRPS3BSd1o4RUtWM1RyMFNxLS16SWpjY3RSdGZWRFdlV1hlcGFVMW1hVkZQdVBBbV9zb3RKM0xyOF8tY2tmOGZnT2UwcWFWQUtmdmR3c280T0t5YXRNbGE0V1lfYjRnbGVod0l1NDRJQVFZLWI?oc=5"
+     "titulo": "Arrascaeta acalma torcida do Flamengo após cirurgia: 'Despertamos bem'",
+     "fonte": "O Dia",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSHB1S1BkTmxpR0UwTi1Qbk9nQUJYSlJGdl9LamZzLW80RjY4blZpZ3ZoemlEMXJJR21zV0hZWWRBbTBINWJQWkE5elgxblBjaWhsU2hfZWIzYm03TkZQNU0wbkdDalZOWS1YVVVobGl2QUVDM01EcnNtUDhsRmw1VnRkQXhCeW81ejNMMkF4WnZEZTJJa04yU28xVE5Rem1ZSlRfVUxla1EydGNmNGhfYlZLUkdVaWVTNVU4dFg0QlQ3STE3ekhr0gHMAUFVX3lxTE5XSHlfUjI0aUpQdkYxVzBrTkpUWTBsR3RCQlpVUkQ3WWE3TGNObktSUFVNajE4Wk1MUHFYa2lSZ1Z6RlZvUjQybWlfTzB0eEhUU3dISmY5akdod3BHVURmTnFaVzBJWmtROU0tMUdBRFpMMkpwY3ZIdERUSEpMVE5GNWFjcXF2Z0xZVGZlVEVwTVVmV0MwVV80VG5qWXcxX3BaNGcyMGFId3hPYkdPUjQ4djFJUTdneGVPQ2lyeFZGbUlqRno3U2NSTC0wRQ?oc=5"
     },
     {
-     "titulo": "Arrascaeta deve ter alta na noite desta quinta-feira após passar por cirurgia no punho esquerdo",
-     "fonte": "Extra online",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOEphTk1kM0FvWUhvNmtTN1NFSHVPVkxfMEdxVzNzc0NnOUMtMFBIdzRKaC1RUG1nNUlsVlFuUFNFUlZGS2VVRXlSaGRpWUFmUl85V2tCZkVVZ2ROMkZlaFJoem9SY2NwX3hFaUUwRHoyRURoMl9vdUNSNnNOcWRualpqdWZDRHFuNTVpQVhKai1BTUd4VmdnamF4YXljNEg1VFRlU2VXeHl6RzJCblNJLTNoRHYzWEdsXzZvd2tvQmUyS3JSVkIxcnpDaXBkenk0bWVoNGZacjFaLUZ4RjA5TGRhNWpRTkVEc2V6NVM1a9IB_gFBVV95cUxOR0M3UVJteVpucWdsTjJJVmhOUm9mazhHT0M5ODc0ZG1YbVdOcER3cnBldnlPTGxVWkZFUkY1N3NhcWhaMFV2cDY0MktSOUtLWVFYT0c3bnk5NVVoSVF4VEpDd3B5a1Fma3NPaEtSSWEtdU5oYi1uUkFMQnhYbV92NkpfRnZDS01jYkF1bG1aa0JrUEtKNXZpWkxPc0NlanJPVkhFczJXdzkxR3ZoUHpjdFktOVlwRksybEx5ZE5pMEdKMTNOQ182YjBuXzJlZlZOWGxBbVVCTkNmWHlKNV9wdDN0cUNuNE9pN09vZDJ1UVc4eU1HbVU0WXlBaUF6UQ?oc=5"
+     "titulo": "Arrascaeta atualiza torcida do Flamengo após cirurgia no punho; veja",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNnEwTU12R2ZkTFM4Rml2a1h0NW54Q2pmdzlWekRCUGFneG84eW9vcnhxWEg5czU0akhaazUwZU9CdmltTU54SzVrTENHWGtpM1JsVGRrT1Y5R2pHSW40OXFOcDd0NVNJS2xBRHllRHR4ZWl1ZFd6RjMtNzhDLW1YMFVSZVFZQ3VCblZCRENYZVpIc2pORDd4MHZxWWRKQmtfQWFkMC13OGVhUQ?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "m1PJITFl-oI",
-      "titulo": "APARECEU A SOLUÇÃO! FLAMENGO PODE USAR CARTA NA MANGA! CIRURGIA DE ARRASCAETA MARCADA! BRASILEIRÃO!",
-      "canal": "FLAZOEIRO",
-      "views": 159768,
-      "likes": 14035,
-      "comentarios": 948,
-      "publicado": "2026-09-29T20:58:07Z",
-      "duracao_s": 672,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=m1PJITFl-oI"
-     },
-     {
-      "id": "Wkhs7NQYwbw",
-      "titulo": "EXCELENTE NOTÍCIA PRO FLAMENGO! JARDIM FICOU FELIZ! ARRASCAETA JÁ CHEGOU NO RIO PARA OPERAR! TREINO!",
-      "canal": "FLAZOEIRO",
-      "views": 138257,
-      "likes": 12595,
-      "comentarios": 204,
-      "publicado": "2026-09-30T21:22:41Z",
-      "duracao_s": 617,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Wkhs7NQYwbw"
-     },
-     {
-      "id": "9hSPanjEOhs",
-      "titulo": "DAVY JONES REVOLTADÍSSIMO: ARRASCAETA LESIONADO e prejudica Flamengo...",
-      "canal": "Davy Jones Torcedor",
-      "views": 29307,
-      "likes": 612,
-      "comentarios": 11,
-      "publicado": "2026-09-29T20:00:23Z",
-      "duracao_s": 590,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=9hSPanjEOhs"
-     },
-     {
-      "id": "y5oXjommMmw",
-      "titulo": "🚨 EXCELENTE NOTÍCIA PRO PALMEIRAS! FLAMENGO PERDE ARRASCAETA E ENTRA EM ALERTA!",
-      "canal": "Canal do Verdão",
-      "views": 22396,
-      "likes": 202,
-      "comentarios": 9,
-      "publicado": "2026-09-29T23:00:12Z",
-      "duracao_s": 724,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=y5oXjommMmw"
-     },
-     {
-      "id": "s3La_QB7IQE",
-      "titulo": "TROCA DE PATROCINIO NO FLAMENGO | VOLTA DO BRASILEIRÃO | ARRASCAETA: CIRURGIA MARCADA",
-      "canal": "Resenha Rubro-Negra",
-      "views": 21556,
-      "likes": 3005,
-      "comentarios": 88,
-      "publicado": "2026-09-30T10:00:15Z",
-      "duracao_s": 904,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=s3La_QB7IQE"
-     },
-     {
-      "id": "dJo6n3xaCKU",
-      "titulo": "Médico explica cirurgia de Arrascaeta e projeta tempo de retorno ao Flamengo",
-      "canal": "JOGOS DE HOJE NA TV ",
-      "views": 16046,
-      "likes": 46,
-      "comentarios": 2,
-      "publicado": "2026-09-30T21:50:10Z",
-      "duracao_s": 10,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=dJo6n3xaCKU"
-     },
-     {
-      "id": "2OCRRcpU0dg",
-      "titulo": "FLAMENGO AGENDA CIRURGIA ARRASCAETA! FLAMENGO VOLTA AOS TREINOS QUARTA-FEIRA! DESFALQUES NA LIBERTA",
-      "canal": "Wesley FLA 12",
-      "views": 13181,
-      "likes": 574,
-      "comentarios": 23,
-      "publicado": "2026-09-29T19:17:30Z",
-      "duracao_s": 929,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=2OCRRcpU0dg"
-     },
-     {
-      "id": "Ds5Ylir201A",
-      "titulo": "PLANTÃO: A VOLTA DO ARRASCAETA PARA CIRURGIA NO FLAMENGO | DIRETO DO AEROPORTO",
-      "canal": "Coluna do Fla",
-      "views": 8182,
-      "likes": 63,
-      "comentarios": 2,
-      "publicado": "2026-09-30T20:13:45Z",
-      "duracao_s": 231,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Ds5Ylir201A"
-     },
-     {
-      "id": "vZ1S5Fjuiyw",
-      "titulo": "Flamengo Define Data para Operação de Arrascaeta #flamengo",
-      "canal": "Futebol Pulse",
-      "views": 7651,
-      "likes": 37,
-      "comentarios": 1,
-      "publicado": "2026-09-29T18:45:01Z",
-      "duracao_s": 6,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=vZ1S5Fjuiyw"
-     },
-     {
       "id": "VbtqX7V5sXk",
       "titulo": "\"Se ISSO ACONTECER, o ARRASCAETA TEM A OBRIGAÇÃO de...\" MAURO CEZAR É SINCERO após LESÃO! | FLAMENGO",
       "canal": "Jovem Pan Esportes",
-      "views": 7330,
-      "likes": 448,
-      "comentarios": 22,
+      "views": 164240,
+      "likes": 3035,
+      "comentarios": 123,
       "publicado": "2026-10-01T16:33:38Z",
       "duracao_s": 1786,
       "live": false,
       "url": "https://www.youtube.com/watch?v=VbtqX7V5sXk"
      },
      {
-      "id": "IUJWoBFEwbk",
-      "titulo": "E AGORA, JARDIM? FLAMENGO SEM ARRASCAETA! PLATA VOLTA E TIME MUDA PARA A RETA DECISIVA 📱",
-      "canal": "Planeta Flamenguista",
-      "views": 6726,
-      "likes": 13,
-      "comentarios": 0,
-      "publicado": "2026-10-01T15:14:03Z",
-      "duracao_s": 7223,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=IUJWoBFEwbk"
-     },
-     {
-      "id": "OiN_XfINQro",
-      "titulo": "ARRASCAETA PASSA POR CIRURGIA COM SUCESSO!",
-      "canal": "ESPN Brasil",
-      "views": 6566,
-      "likes": 320,
-      "comentarios": 31,
-      "publicado": "2026-10-01T16:07:56Z",
-      "duracao_s": 44,
+      "id": "uQ8bYdeXOq4",
+      "titulo": "Arrascaeta vai operar e fica fora do Flamengo! 😰 Veja todas as notícias do Mengão",
+      "canal": "Giro Fla ",
+      "views": 24877,
+      "likes": 1476,
+      "comentarios": 14,
+      "publicado": "2026-09-30T08:51:08Z",
+      "duracao_s": 163,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=OiN_XfINQro"
+      "url": "https://www.youtube.com/watch?v=uQ8bYdeXOq4"
      },
      {
       "id": "APh7-k8yPvk",
       "titulo": "ARRASCAETA CHEGA AO RJ PARA CIRURGIA E MÉDICO DO FLAMENGO DETALHA OPERAÇÃO NO PUNHO DO MEIA; VEJA",
       "canal": "UOL Esporte",
-      "views": 6181,
-      "likes": 34,
-      "comentarios": 3,
+      "views": 6367,
+      "likes": 36,
+      "comentarios": 4,
       "publicado": "2026-09-30T21:55:03Z",
       "duracao_s": 187,
       "live": false,
       "url": "https://www.youtube.com/watch?v=APh7-k8yPvk"
      },
      {
-      "id": "WMdJBY9f4Mo",
-      "titulo": "PÉSSIMA NOTÍCIA! ARRASCAETA FRATURA O PUNHO E VAI PASSAR POR CIRURGIA! #mengaomalvadao #flamengo",
-      "canal": "FlamengoShorts+",
-      "views": 5104,
-      "likes": 14,
-      "comentarios": 2,
-      "publicado": "2026-09-29T23:14:10Z",
-      "duracao_s": 4,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=WMdJBY9f4Mo"
-     },
-     {
-      "id": "Kntx15XlYcc",
-      "titulo": "Arrascaeta SOFRE fratura no punho — e já tem cirurgia marcada",
-      "canal": "Agenda do Futebol",
-      "views": 4702,
-      "likes": 13,
+      "id": "_HXVMPGqR_w",
+      "titulo": "🔴⚫🚨 ARRASCAETA VAI OPERAR… E O FLAMENGO JÁ TEM PRAZO DE VOLTA! 😳",
+      "canal": "futebolem5s",
+      "views": 3261,
+      "likes": 15,
       "comentarios": 0,
-      "publicado": "2026-09-29T22:21:21Z",
+      "publicado": "2026-10-01T14:00:00Z",
       "duracao_s": 6,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=Kntx15XlYcc"
+      "url": "https://www.youtube.com/watch?v=_HXVMPGqR_w"
      },
      {
-      "id": "SsFf1_hZsmY",
-      "titulo": "FLAMENGO: CIRURGIA DE ARRASCAETA, SALDO ABERTO EM REFORÇOS E MAIS!",
-      "canal": "ESPN Brasil",
-      "views": 4668,
-      "likes": 96,
+      "id": "HelueL1NEME",
+      "titulo": "DEU TUDO CERTO! CIRURGIA DE ARRASCAETA É CONCLUÍDA COM SUCESSO E MEIA PODE TER ALTA HOJE! #viral",
+      "canal": "CACRJFLA",
+      "views": 2150,
+      "likes": 63,
       "comentarios": 0,
-      "publicado": "2026-09-29T18:05:19Z",
-      "duracao_s": 680,
+      "publicado": "2026-10-01T17:16:15Z",
+      "duracao_s": 68,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=SsFf1_hZsmY"
+      "url": "https://www.youtube.com/watch?v=HelueL1NEME"
      },
      {
-      "id": "OesHTFG-kOw",
-      "titulo": "FERNANDO SASSAKI, MEDICO DO FLAMENGO, EXPLICA CIRURGIA E RECUPERAÇÃO DE GIORGIAN DE ARRASCAETA!",
-      "canal": "Paparazzo Rubro-Negro",
-      "views": 3532,
-      "likes": 128,
-      "comentarios": 2,
-      "publicado": "2026-09-30T20:36:13Z",
-      "duracao_s": 175,
+      "id": "nOS73kENmok",
+      "titulo": "ENTENDA A GRAVIDADE! ARRASCAETA E JORGINHO FORA DO FLAMENGO! 🚨",
+      "canal": "Bastidores dos Rivais News",
+      "views": 1951,
+      "likes": 46,
+      "comentarios": 1,
+      "publicado": "2026-09-30T11:22:44Z",
+      "duracao_s": 78,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=OesHTFG-kOw"
-     },
-     {
-      "id": "rrr6LF1jEkI",
-      "titulo": "FLAMENGO: QUINTA JÁ COMEÇA ASSIM! CIRURGIA DE ARRASCAETA, JOÃO CIMED QUER PATROCINAR, JJ E CR7 PEGOU",
-      "canal": "#OS PIRADINHOS PELO MENGÃO",
-      "views": 3108,
-      "likes": 192,
-      "comentarios": 3,
-      "publicado": "2026-10-01T09:00:27Z",
-      "duracao_s": 649,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=rrr6LF1jEkI"
-     },
-     {
-      "id": "NmooDcxUXow",
-      "titulo": "🚨 ARRASCAETA VAI PASSAR POR CIRURGIA! Preocupação no Flamengo #futebol #flamengo #loucosporfutebol",
-      "canal": "SIN NEWS",
-      "views": 1804,
-      "likes": 21,
-      "comentarios": 0,
-      "publicado": "2026-09-29T22:18:42Z",
-      "duracao_s": 15,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=NmooDcxUXow"
+      "url": "https://www.youtube.com/watch?v=nOS73kENmok"
      },
      {
       "id": "3NuyWeom7p8",
       "titulo": "PÉSSIMA NOTÍCIA NO FLAMENGO 🚨 #futebol #flamengo",
       "canal": "Fla Lances BR",
-      "views": 1792,
-      "likes": 29,
+      "views": 1848,
+      "likes": 31,
       "comentarios": 0,
       "publicado": "2026-09-30T15:30:30Z",
       "duracao_s": 18,
@@ -543,1290 +413,1266 @@
       "url": "https://www.youtube.com/watch?v=3NuyWeom7p8"
      },
      {
-      "id": "_smtjHOgyes",
-      "titulo": "Notícias Urgentes  Arrascaeta Cirurgia e Retorno ao Flamengo #futebol #flamengo",
-      "canal": "CORTE DO FLAZOEIRO",
-      "views": 1680,
-      "likes": 82,
-      "comentarios": 2,
-      "publicado": "2026-09-29T21:26:07Z",
-      "duracao_s": 48,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=_smtjHOgyes"
-     },
-     {
-      "id": "-ucjqZDgcLM",
-      "titulo": "Nosso Arrasca chegou ao Rio de Janeiro e vai passar por cirurgia na tarde desta quinta-feira! 🙏❤️📱",
-      "canal": "Flamenguista Realista",
-      "views": 1615,
-      "likes": 108,
-      "comentarios": 1,
-      "publicado": "2026-09-30T20:15:16Z",
-      "duracao_s": 76,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=-ucjqZDgcLM"
-     },
-     {
-      "id": "hnxorjPVuts",
-      "titulo": "🚨 FLAMENGO DEFINE CIRURGIA DE ARRASCAETA E JARDIM GANHA NOVO PROBLEMA NA LIBERTADORES!",
-      "canal": "CRF-Raiz1895",
-      "views": 1333,
-      "likes": null,
+      "id": "tiO9r3rrdK4",
+      "titulo": "Arrascaeta já está no Brasil para fazer a cirurgia",
+      "canal": "Notícias Rubro Fla ",
+      "views": 1749,
+      "likes": 62,
       "comentarios": 0,
-      "publicado": "2026-09-29T22:45:26Z",
-      "duracao_s": 68,
+      "publicado": "2026-10-01T12:25:01Z",
+      "duracao_s": 40,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=hnxorjPVuts"
+      "url": "https://www.youtube.com/watch?v=tiO9r3rrdK4"
      },
      {
-      "id": "BPFtBk24Iz0",
-      "titulo": "Arrascaeta tem data marcada para cirurgia no punho",
+      "id": "gSiqHOY1kQI",
+      "titulo": "Arrascaeta desembarca no Rio e vai à cirurgia no punho",
       "canal": "Fla Informa",
-      "views": 1277,
-      "likes": 26,
-      "comentarios": 1,
-      "publicado": "2026-09-29T18:45:37Z",
-      "duracao_s": 29,
+      "views": 1463,
+      "likes": 28,
+      "comentarios": 0,
+      "publicado": "2026-09-30T10:42:30Z",
+      "duracao_s": 33,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=BPFtBk24Iz0"
+      "url": "https://www.youtube.com/watch?v=gSiqHOY1kQI"
      },
      {
-      "id": "kiLjmEFWa8w",
-      "titulo": "Flamengo define data de cirurgia de Arrascaeta após fratura no punho; meia desembarca no Rio nesta q",
-      "canal": "Flamengo Agora",
-      "views": 1184,
-      "likes": 31,
-      "comentarios": 0,
-      "publicado": "2026-09-29T22:21:37Z",
-      "duracao_s": 29,
+      "id": "M1hC-8kmWRs",
+      "titulo": "ARRASCAETA NÃO PODE JOGAR COM PROTEÇÃO NO PUNHO FRATURADO! JOGADOR PASSA POR CIRURGIA NA QUINTA-FEIR",
+      "canal": "Paparazzo Rubro-Negro",
+      "views": 1358,
+      "likes": 63,
+      "comentarios": 3,
+      "publicado": "2026-09-30T20:35:47Z",
+      "duracao_s": 158,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=kiLjmEFWa8w"
+      "url": "https://www.youtube.com/watch?v=M1hC-8kmWRs"
+     },
+     {
+      "id": "ng8akgNMwvA",
+      "titulo": "Arrascaeta conclui cirurgia no punho, mas não há prazo de retorno",
+      "canal": "Rádio BandNews FM",
+      "views": 1248,
+      "likes": 2,
+      "comentarios": 0,
+      "publicado": "2026-10-01T19:05:10Z",
+      "duracao_s": 75,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=ng8akgNMwvA"
+     },
+     {
+      "id": "gwUWje6NJVU",
+      "titulo": "URGENTE! ARRASCAETA É INTERNADO E TEM HORÁRIO DE CIRURGIA CONFIRMADO APÓS LESÃO NA DATA FIFA!#viral",
+      "canal": "CACRJFLA",
+      "views": 1162,
+      "likes": 35,
+      "comentarios": 0,
+      "publicado": "2026-10-01T12:51:31Z",
+      "duracao_s": 75,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=gwUWje6NJVU"
+     },
+     {
+      "id": "KWGnmn0UazQ",
+      "titulo": "Prancheta do PVC: Arrascaeta deve ficar seis jogos fora após fraturar punho e passar por cirurgia",
+      "canal": "Rádio CBN",
+      "views": 1002,
+      "likes": 5,
+      "comentarios": 0,
+      "publicado": "2026-10-01T12:29:18Z",
+      "duracao_s": 199,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=KWGnmn0UazQ"
+     },
+     {
+      "id": "O5tQm_siWSs",
+      "titulo": "Arrascaeta chega ao Rio para cirurgia no punho esquerdo",
+      "canal": "Futebol com Zé",
+      "views": 996,
+      "likes": 12,
+      "comentarios": 0,
+      "publicado": "2026-09-30T21:14:07Z",
+      "duracao_s": 35,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=O5tQm_siWSs"
+     },
+     {
+      "id": "gP3ZuniEF9Q",
+      "titulo": "Arrascaeta passa por cirurgia no punho nesta quinta; Flamengo projeta volta só em novembro",
+      "canal": "Flamengo Agora",
+      "views": 863,
+      "likes": 32,
+      "comentarios": 0,
+      "publicado": "2026-10-01T21:54:51Z",
+      "duracao_s": 33,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=gP3ZuniEF9Q"
+     },
+     {
+      "id": "050Nn_mO8VU",
+      "titulo": "FLAMENGO HOJE! ARRASCAETA CHEGA AO RIO - QUEM VAI SUBSTITUIR O 10? PLATA ESTÁ DE VOLTA!",
+      "canal": "Juliano Braga Fla",
+      "views": 840,
+      "likes": 11,
+      "comentarios": 0,
+      "publicado": "2026-10-01T10:43:28Z",
+      "duracao_s": 3804,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=050Nn_mO8VU"
+     },
+     {
+      "id": "0AeTjhYqqaI",
+      "titulo": "CIRURGIA CONFIRMADA! QUEM SUBSTITUI O ARRASCAETA? 😱",
+      "canal": "LANCE CURTO.",
+      "views": 801,
+      "likes": 26,
+      "comentarios": 2,
+      "publicado": "2026-09-30T21:00:17Z",
+      "duracao_s": 50,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=0AeTjhYqqaI"
+     },
+     {
+      "id": "Oj7IeF8Llcs",
+      "titulo": "ARRASCAETA VAI PASSAR POR CIRURGIA",
+      "canal": "Radar da Bola",
+      "views": 722,
+      "likes": 9,
+      "comentarios": 0,
+      "publicado": "2026-09-30T01:55:27Z",
+      "duracao_s": 6,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Oj7IeF8Llcs"
+     },
+     {
+      "id": "W--6IHa8BQI",
+      "titulo": "JORNAL DO FLA #031 | CIRURGIA DE ARRASCAETA; ESTUDIANTES COM DESFALQUES; MP DAS BETS PREOCUPA BAP",
+      "canal": "Jornal do Fla",
+      "views": 233,
+      "likes": 10,
+      "comentarios": 0,
+      "publicado": "2026-09-30T10:20:53Z",
+      "duracao_s": 4225,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=W--6IHa8BQI"
+     },
+     {
+      "id": "dl0cmcNVsWA",
+      "titulo": "🚨 FLAMENGO NO STF CONTRA AS BETS! | ARRASCAETA PASSA POR CIRURGIA | VASCO ACIONA FLA PELO MARACANÃ",
+      "canal": "Fla oficial 19.",
+      "views": 44,
+      "likes": 3,
+      "comentarios": 0,
+      "publicado": "2026-10-01T22:55:18Z",
+      "duracao_s": 427,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=dl0cmcNVsWA"
+     },
+     {
+      "id": "o2VxpQWHHnU",
+      "titulo": "FLAMENGO | ARRASCAETA FAZ CIRURGIA | CIRURGIA FOI UM SUCESSO",
+      "canal": "Esporte Nito",
+      "views": 39,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-10-01T20:42:11Z",
+      "duracao_s": 15,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=o2VxpQWHHnU"
+     },
+     {
+      "id": "gX-raGnQUz8",
+      "titulo": "Arrascaeta passa por cirurgia e corre contra o tempo no Flamengo",
+      "canal": "O Dia Online",
+      "views": 36,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-01T16:38:23Z",
+      "duracao_s": 19,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=gX-raGnQUz8"
+     },
+     {
+      "id": "4nNM7nRcjnE",
+      "titulo": "FLAMENGO ARRASCAETA MACHUCADO: Fratura no Punho  Jogador Brasileiro Passa por Cirurgia",
+      "canal": "Flamengo Agora ",
+      "views": 34,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-09-30T09:30:32Z",
+      "duracao_s": 16,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=4nNM7nRcjnE"
+     },
+     {
+      "id": "O01FA8ZcuUQ",
+      "titulo": "😰 ARRASCAETA CHEGOU! Meia desembarca no Rio para cirurgia no punho!",
+      "canal": "Bastidores dos Rivais News",
+      "views": 1,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-01T16:58:30Z",
+      "duracao_s": 51,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=O01FA8ZcuUQ"
+     },
+     {
+      "id": "cmkdf_0Pb8M",
+      "titulo": "Flamengo: Arrascaeta é operado após fratura no punho esquerdo",
+      "canal": "Flamengo 247 - Notícias sobre o Mengão",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-01T20:58:51Z",
+      "duracao_s": 53,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=cmkdf_0Pb8M"
      }
     ],
-    "consulta": "Flamengo Arrascaeta cirurgia passa",
+    "consulta": "Flamengo Arrascaeta cirurgia punho",
     "n_videos": 25,
     "mais_de": true,
-    "views": 474946,
+    "views": 217285,
     "top": [
      {
-      "titulo": "APARECEU A SOLUÇÃO! FLAMENGO PODE USAR CARTA NA MANGA! CIRURGIA DE ARRASCAETA MARCADA! BRASILEIRÃO!",
-      "canal": "FLAZOEIRO",
-      "views": 159768,
-      "url": "https://www.youtube.com/watch?v=m1PJITFl-oI",
-      "publicado": "2026-09-29T20:58:07Z",
+      "titulo": "\"Se ISSO ACONTECER, o ARRASCAETA TEM A OBRIGAÇÃO de...\" MAURO CEZAR É SINCERO após LESÃO! | FLAMENGO",
+      "canal": "Jovem Pan Esportes",
+      "views": 164240,
+      "url": "https://www.youtube.com/watch?v=VbtqX7V5sXk",
+      "publicado": "2026-10-01T16:33:38Z",
       "do_canal": false
      },
      {
-      "titulo": "EXCELENTE NOTÍCIA PRO FLAMENGO! JARDIM FICOU FELIZ! ARRASCAETA JÁ CHEGOU NO RIO PARA OPERAR! TREINO!",
-      "canal": "FLAZOEIRO",
-      "views": 138257,
-      "url": "https://www.youtube.com/watch?v=Wkhs7NQYwbw",
-      "publicado": "2026-09-30T21:22:41Z",
+      "titulo": "Arrascaeta vai operar e fica fora do Flamengo! 😰 Veja todas as notícias do Mengão",
+      "canal": "Giro Fla ",
+      "views": 24877,
+      "url": "https://www.youtube.com/watch?v=uQ8bYdeXOq4",
+      "publicado": "2026-09-30T08:51:08Z",
       "do_canal": false
      },
      {
-      "titulo": "DAVY JONES REVOLTADÍSSIMO: ARRASCAETA LESIONADO e prejudica Flamengo...",
-      "canal": "Davy Jones Torcedor",
-      "views": 29307,
-      "url": "https://www.youtube.com/watch?v=9hSPanjEOhs",
-      "publicado": "2026-09-29T20:00:23Z",
+      "titulo": "ARRASCAETA CHEGA AO RJ PARA CIRURGIA E MÉDICO DO FLAMENGO DETALHA OPERAÇÃO NO PUNHO DO MEIA; VEJA",
+      "canal": "UOL Esporte",
+      "views": 6367,
+      "url": "https://www.youtube.com/watch?v=APh7-k8yPvk",
+      "publicado": "2026-09-30T21:55:03Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "Veja como comprar ingressos para Flamengo x Estudiantes, pela semifinal da Libertadores",
-   "categoria": "Notícia do dia",
+   "tema": "Palmeiras lamenta morte de Lito Sousa: 'Siga torcendo por nós aí de cima'",
+   "categoria": "Polêmica e bastidor",
    "clubes": [
-    "Flamengo"
+    "Palmeiras"
    ],
    "foco": true,
-   "nota": 74.8,
+   "nota": 76.8,
    "sinais": {
-    "busca": 65,
-    "aceleracao": 71,
-    "midia": 75,
+    "busca": 70,
+    "aceleracao": 100,
+    "midia": 100,
     "aderencia": 100,
-    "youtube": 71
+    "youtube": 20
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "arrascaeta flamengo",
+   "busca_torcedor": "lito sousa",
    "termos_trends": [],
-   "n_fontes": 5,
-   "n_manchetes": 7,
-   "assinatura": "flame|liber|semif|estud",
+   "n_fontes": 10,
+   "n_manchetes": 15,
+   "assinatura": "palme|lito|sousa|torce",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Veja como comprar ingressos para Flamengo x Estudiantes, pela semifinal da Libertadores. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
+    "formato": "Explicador de bastidor (2 a 4 min)",
+    "gancho": "Palmeiras lamenta morte de Lito Sousa. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
     "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Veja como comprar ingressos para Flamengo x Estudiantes, pela semifinal da Libertadores?",
+    "pergunta_enquete": "Qual sua opinião: Palmeiras lamenta morte de Lito Sousa: 'Siga torcendo por nós aí de cima'?",
     "tecnica": "Contradição",
     "ganchos": [
      {
       "tecnica": "Contradição",
-      "texto": "Veja como comprar ingressos para Flamengo x Estudiantes, pela semifinal da Libertadores. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
+      "texto": "Palmeiras lamenta morte de Lito Sousa. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Veja como comprar ingressos para Flamengo x Estudiantes, pela semifinal da Libertadores. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-      "thumb": "E AGORA, FLAMENGO?"
+      "texto": "Até onde essa história do Palmeiras vai chegar?",
+      "thumb": "E AGORA, PALMEIRAS?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Veja como comprar ingressos para Flamengo x Estudiantes, pela semifinal da Libertadores. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+      "texto": "Palmeiras lamenta morte de Lito Sousa. Eu aposto que [SEU PALPITE]. Se eu acertar, você me deve um like.",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Dado",
-      "texto": "19 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
-      "thumb": "TODO MUNDO VIU"
+      "texto": "Palmeiras e famosos prestam homenagens a Lito de Sousa, morto aos 59 anos. Parece só um número, mas ele vai pesar nos próximos meses do Palmeiras.",
+      "thumb": "59 ANOS"
      },
      {
       "tecnica": "Conflito",
-      "texto": "Veja como comprar ingressos para Flamengo x Estudiantes, pela semifinal da Libertadores. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+      "texto": "Palmeiras lamenta morte de Lito Sousa. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
       "thumb": "QUEM TEM RAZÃO?"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Flamengo tenso. Arrascaeta fora das semifinais da Libertadores. Tentará o ‘milagre’ contra o Palmeiras. Operação no punho exige, no mínimo, dois meses",
-     "fonte": "R7 Esportes",
-     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPUDRHUllXYkkzbXZGeXNaVTJ2RktiV1dKUmlEVklOVENkNHJmSW11RmdBV1dRdkFIYUJMdGFrc1U5YnJIUFljUXI5aEdNdGU4YkJzWGUtYUttUXg5MHA0WWlXZUJwRk50cW9xa3VCdVRRcjdONUwtMDdVU0xEdHZ0ZlNWczNjaXE0LU51WXBDM2xVUkdvWEtSdHUxcVFhcDQ3WmNuNTlyUWhmYXdCTGY5NWR4dlpDMXlyYkUzV2JDQVdMejdWYkxpTFdoWExpbE1kSTl5enZpY2QxTFlybHlGb19wMXpLTTdldmpTbDJEeEZPOWdDQndvc1UyRm04blpjN3h5QzF2S1NvX0xnMmR6N3VfWEtseElPT0ZHM3pXRU1tTTA?oc=5"
+     "titulo": "Palmeiras e famosos prestam homenagens a Lito de Sousa, morto aos 59 anos",
+     "fonte": "O GLOBO",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX0xkOV9MbHUyNURPbXNZOVFRRzE4YnE4TF9jdExOMWlEamY5d0d6VUcyeFA0bnJFeEE5aUxQSXVEV1k3SERhaktOSzJySmhPYnlaTzJUd2syV1ZSRFRtbWxaN3BtNzBoS0xtejk4clZfelo3OTZZMl9LX0FKa3BzY0VOTV80ZVJiYk1fQVNhbFNGU0EycXh5MXpMa0ZBalYyVXJUMVdpOExzWHJTbjlYVU1MTlk3ZTMxSUJXVnY2TDRrSWxHazZF0gHWAUFVX3lxTE5HeEQzX3U0YkRRb2hGUmtUM2FLWlRBNGhTY29aZG1zbDYyMmpaZ3dzX2stY0t1emdlQi1LTkdTZUpxZE5rMzNHRUFodmh2cE5XcmUtc2d6N3dOLTItZlU2RXJNM2phWTVOY2k4MHRkYjBhQXN5WEtpMUJrNzRrTzBwc3RjVjJKbjBla2hoZ0hZdHNURzVJQTBYYzU5ZmdaNlBkbUR0ZTFGN1JHaDhnbHFSZnd0QzJTcllQZ05Qek9ZRjEwT2xuUFdhT1k2anFjMF9wamU5X3c?oc=5"
     },
     {
-     "titulo": "Sem bets no Flamengo, Boto diz 'temer' falta de competitividade: 'Ao invés de três times brasileiros nas semifinais da Libertadores, vamos ter três argentinos'",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OSjRUU09sdzdReGZ2TDlLa0lWRWdaUXdKZ3lHeVotakNBX2ZlZW01VmtHTFpoNnFEcEFGa1cxNk5rWURUVHJQZTdMcTdIVzBtRmZ1T1RYTWVvRkNGMEE?oc=5"
+     "titulo": "Palmeiras prepara nova homenagem a Lito Sousa após morte aos 59 anos",
+     "fonte": "band.com.br",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOHk1X3BxeGR3OFpXNUFPQXFWV1NnLXRCV3VDOTdMYUZKOUpFbm9Db3p1a1pBb2lkREVObXBUZERBTnlPdlVNOTdfNnl3b2R5M3dWZTBwZTRrSi1HWTRVbk1aSGg4WFEza2Z3TWVGUmc5cHl2X1JPRXdHZi1iZHVfZUVzVmZGc0NycTlwazhGeWVlOTF0dUNqaHVSVE5zc0gtWElFZ3ZydkotTjdrem9DSEZqS2txbV9oUG5weA?oc=5"
     },
     {
-     "titulo": "Veja como comprar ingressos para Flamengo x Estudiantes, pela semifinal da Libertadores",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQd0h0NU56TUV3YTJVV1lVM1lLSzBKUTZGLW5iaXctMnVybTVibDZ3aVIzeEJVb3ExN0lUT0w0cnlPUHQtZGVTRVBiMng4eHdWdTNRblRiVUVyMk95SGhydHBwcUJvaWk2Wk1KVUNaZHRycUtPUDRnNDZHMG1xS2tJRmhkWERpQl9nOHVYdnlpZGsyZVlvT3pfbm1aQnE1VXpubzVyc0NGUW1OU1hqanhTVTVxSm13VkI2NFBLR0NVRzFQbmNXalNrSktBS01RMWlpcW9lelBhT3RtUUZ3RUFsUGFac0lrUGhKMlZr0gH6AUFVX3lxTE1IYVp3OGhaTmNWdGpGY0VBTEVJUE84VjZMRzJ5V2FTaWJKREhIcUUtVG9hVDI4eXFYWmRJbG4tN3VmeWRGNmF4OUs3OE05VmxyNFBpM2h3Qi1QTVlvd0VPdndobFFnVGJzem40dnF6YVJRUXB1ZVVOUXA5UzlfOWFmWXRzZERIRUJaZTBzd01zVUQ1VFhiODdLQVlieU5fQXV2ZElNaVdOU1M1UXZ4Y3RyWDhXcjBMTGF3ZG1SN1JPVXVRWHB2Q1Flck1DaUJYQTRodVMwWWlIempLUmJfY05NNFh6MEdlOFpabWhUSW5uZWt0bWxrdlpmWlE?oc=5"
+     "titulo": "Morre Lito Sousa, influenciador e torcedor do Palmeiras",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObTNSQU81eDQ4SEZnTTg0ZWhBX0FDVmVIVjVlZ1E3V1IzNS1pNXI3OWJ6NEhiSlBJRDhHVXFha1lqYlJ4bktPbF9pNnRJUTVpeklYeTkycUhNLXFfSV93d1VRTGVaMng0NjEzQ09OR3Y5NldmTTluVVVOY0E0WjFRWmRISWRqNUFJVk52YjFHZHFjMVlQbVM1dlh6UFl3aVpDa1FDVU1HNmNwbVJmc1Q3S2Z2aTF3RFRUa0Y1ZkpZeEFkazhmNWxHeWxlSzVwWHkzVnNVSE1OSQ?oc=5"
     },
     {
-     "titulo": "Flamengo vs Estudiantes: ticket information for Copa Libertadores semi-final second leg",
-     "fonte": "flamengo.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRl9DUFhQZkU4TjJHemh2aDhzZlRIY3ZlODZVTFN1YndMQ0psbmRsdWFCZ3J3Y0NsclluSmVtNFNRUU9oUE84QlpoMG1lNnZJRVJFVFU2NlU4XzJCUFEtbGI0c1hFbjloX3R2dTdvQW1XdDYzbncyUUNXTzJGYUdXa3RWTy1fTG45M0ZVenY4MXBfR3h0UmlZSk1IcG9DT1JwRXByVG1ZWGZMcnZ0SF9za3hzQXRlQ1hGWko2T1l4bFVFV1JZaXVNQUV2QVRKbkRta2c?oc=5"
+     "titulo": "Lito Sousa e o Palmeiras: a história de uma paixão que ganhou força na luta contra a doença",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd0NhMGV0dWpjUXpFVjQ4MERIbTI5ZzBGWXZNNkJxWUprRUhYZE9maGN4dnl6ck9nWVVxQjZJMFNkUVpUMm9kUHN1SGhiUFRGSlNxODRuVjh3S0YwN0Y4SVNDX2ZnUTBlY1dUMHRyS1dMdWxpNjV1cFdjZTc1VVZVYWdDal9DWHpVQ0tVZlZCa0FTajF6X2RadHRTdHFPLU5JTXhOc18zOTBiTEVneFpsdnozR2xNUkRuejhyX2p2cXJZbDZzODlySjZR?oc=5"
     },
     {
-     "titulo": "SÓ DECISÃO! Líder do Campeonato Brasileiro e semifinalista da Libertadores, o Flamengo entra em outubro diante de um mês decisivo para os objetivos da temporada. Confira a agenda do Mengão: 08/10 (quinta-feira) - Santos x Flamengo, na Vila Belmiro",
-     "fonte": "instagram.com",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oTW5iRzFvN2VCSGNxaDIyQ2M1bzZYbU5zb1ozT1NiODBjMHVqQ2JrZzJDXy1aWjNfb1R4ZXNnc25idU5lTTE1QWJjcDJNWmhjYWc?oc=5"
+     "titulo": "Palmeiras publica mensagem de despedida a Lito Sousa, torcedor símbolo do clube",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWUZLS3dHRkJKR2ozeGpyX2p5SUxxWGRxN0pQc2hxeTltcThnYUV0M1U3Umh1S2xZd2d5dDNnZHVveENQVUo4cWl3THJ5T01VTUdLM1dvbjVtaHlfVTFNSzNsLUVOOVNNVjlzeGpqNXQ0c21XZzhPS0laOGt5dmFBREJVRlB0V1RFWGtsMFBhR0lDWmRVclhYVS15UlpDS1dZc2p4bmhDR0gyMnFsNVNhcldIVkk4R29memc?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "jtSuI-Qsspw",
-      "titulo": "ESTUDIANTES X FLAMENGO AO VIVO COM IMAGENS - LIBERTADORES 2026 - SEMIFINAL - ASSISTA AGORA!",
-      "canal": "Rodrigo Gamer 18",
-      "views": 10559,
-      "likes": 35,
-      "comentarios": 1,
-      "publicado": "2026-09-29T22:30:11Z",
-      "duracao_s": 523,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=jtSuI-Qsspw"
-     },
-     {
-      "id": "xJRTH62zo9U",
-      "titulo": "Estudiantes Se Complica #flamengo #libertadores #mengão",
-      "canal": "Flamengo Hoje",
-      "views": 4902,
-      "likes": 146,
-      "comentarios": 3,
-      "publicado": "2026-09-29T21:00:39Z",
-      "duracao_s": 21,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=xJRTH62zo9U"
-     },
-     {
-      "id": "MkugqSafIVQ",
-      "titulo": "Só na final  ! Arrascaeta  passará por cirurgia e perdera a semifinal contra o Estudiantes",
-      "canal": "fã  da bola",
-      "views": 1251,
-      "likes": null,
-      "comentarios": 4,
-      "publicado": "2026-09-29T17:27:26Z",
-      "duracao_s": 66,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=MkugqSafIVQ"
-     },
-     {
-      "id": "yj9EYelTK60",
-      "titulo": "LÉO ORTIZ PROJETA DUELO COM ESTUDIANTES NA SEMIFINAL DA LIBERTADORES!",
-      "canal": "Paparazzo Rubro-Negro",
-      "views": 917,
-      "likes": 35,
-      "comentarios": 0,
-      "publicado": "2026-10-01T15:29:42Z",
-      "duracao_s": 124,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=yj9EYelTK60"
-     },
-     {
-      "id": "aq_1hT64l5w",
-      "titulo": "Rojo quiere volver a enfrentar a Flamengo… pero Racing dijo NO 😳",
-      "canal": "Mangefut",
-      "views": 867,
-      "likes": 16,
-      "comentarios": 0,
-      "publicado": "2026-10-01T14:00:14Z",
-      "duracao_s": 62,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=aq_1hT64l5w"
-     },
-     {
-      "id": "o78PkJHtSeA",
-      "titulo": "ATENÇÃO: FLAMENGO TEM DOIS SETORES VISITANTES na LIBERTADORES",
-      "canal": "Portal Rubro Negro News",
-      "views": 146,
-      "likes": 7,
-      "comentarios": 0,
-      "publicado": "2026-10-01T12:06:04Z",
-      "duracao_s": 108,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=o78PkJHtSeA"
-     },
-     {
-      "id": "E0Xq3IbjJjA",
-      "titulo": "FLAMENGO X PALMEIRAS BRIGA PELO TOPO DA TABELA!! FLAMENGO X ESTUDIANTES",
-      "canal": "ESPORTES NA EXECUTIVA ",
-      "views": 12,
-      "likes": 4,
-      "comentarios": 0,
-      "publicado": "2026-10-01T00:30:28Z",
-      "duracao_s": 935,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=E0Xq3IbjJjA"
-     },
-     {
-      "id": "v2BnNcg_xgo",
-      "titulo": "melhores momentos Flamengo e Estudiantes lá prata semifinal da connebol libertadores",
-      "canal": "Lucas Emanoel Oliveira Lima",
-      "views": 9,
-      "likes": 3,
-      "comentarios": null,
-      "publicado": "2026-09-30T14:15:54Z",
-      "duracao_s": 91,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=v2BnNcg_xgo"
-     },
-     {
-      "id": "yTUkaqAmlVU",
-      "titulo": "AO VIVO | Estudiantes x Flamengo | Semifinal da Libertadores 2026 | Jogo de Ida",
-      "canal": "Martins Games ",
-      "views": 3,
+      "id": "lla-PxASM0Q",
+      "titulo": "Palmeiras se despede de Lito Sousa: 59 anos e 112 de amor #shorts",
+      "canal": "Recorte Esportivo",
+      "views": 5,
       "likes": 0,
       "comentarios": 0,
-      "publicado": "2026-10-01T16:14:29Z",
-      "duracao_s": 2377,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=yTUkaqAmlVU"
+      "publicado": "2026-10-02T00:10:23Z",
+      "duracao_s": 61,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=lla-PxASM0Q"
+     },
+     {
+      "id": "PUWT6QTJv1E",
+      "titulo": "Palmeiras lamenta morte de Lito Sousa; relembre última homenagem do influenciador ao clube",
+      "canal": "Terra Esportes",
+      "views": 3,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-10-01T23:10:05Z",
+      "duracao_s": 120,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=PUWT6QTJv1E"
      }
     ],
-    "consulta": "Flamengo Estudiantes semifinal comprar",
-    "n_videos": 9,
+    "consulta": "Palmeiras Sousa Lito torcendo",
+    "n_videos": 2,
     "mais_de": false,
-    "views": 18666,
+    "views": 8,
     "top": [
      {
-      "titulo": "ESTUDIANTES X FLAMENGO AO VIVO COM IMAGENS - LIBERTADORES 2026 - SEMIFINAL - ASSISTA AGORA!",
-      "canal": "Rodrigo Gamer 18",
-      "views": 10559,
-      "url": "https://www.youtube.com/watch?v=jtSuI-Qsspw",
-      "publicado": "2026-09-29T22:30:11Z",
+      "titulo": "Palmeiras se despede de Lito Sousa: 59 anos e 112 de amor #shorts",
+      "canal": "Recorte Esportivo",
+      "views": 5,
+      "url": "https://www.youtube.com/watch?v=lla-PxASM0Q",
+      "publicado": "2026-10-02T00:10:23Z",
       "do_canal": false
      },
      {
-      "titulo": "Estudiantes Se Complica #flamengo #libertadores #mengão",
-      "canal": "Flamengo Hoje",
-      "views": 4902,
-      "url": "https://www.youtube.com/watch?v=xJRTH62zo9U",
-      "publicado": "2026-09-29T21:00:39Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "Só na final  ! Arrascaeta  passará por cirurgia e perdera a semifinal contra o Estudiantes",
-      "canal": "fã  da bola",
-      "views": 1251,
-      "url": "https://www.youtube.com/watch?v=MkugqSafIVQ",
-      "publicado": "2026-09-29T17:27:26Z",
+      "titulo": "Palmeiras lamenta morte de Lito Sousa; relembre última homenagem do influenciador ao clube",
+      "canal": "Terra Esportes",
+      "views": 3,
+      "url": "https://www.youtube.com/watch?v=PUWT6QTJv1E",
+      "publicado": "2026-10-01T23:10:05Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "SAFiel detalha 'desafio' de Stabile e decreta fim das conversas com a atual diretoria do Corinthians",
-   "categoria": "Polêmica e bastidor",
+   "tema": "Justiça determina suspensão de exposição da Fatal Fans em patrocínio com o Corinthians",
+   "categoria": "Finanças e gestão",
    "clubes": [
     "Corinthians"
    ],
    "foco": true,
-   "nota": 73.7,
+   "nota": 73.8,
+   "sinais": {
+    "busca": 40,
+    "aceleracao": 84,
+    "midia": 100,
+    "aderencia": 100,
+    "youtube": 60
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "são paulo fc contratação",
+   "termos_trends": [],
+   "n_fontes": 16,
+   "n_manchetes": 17,
+   "assinatura": "corin|justi|patro|suspe",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Explicador de bastidor (2 a 4 min)",
+    "gancho": "Justiça determina suspensão de exposição da Fatal Fans em patrocínio com o Corinthians. Quem paga essa conta no fim: a diretoria ou o torcedor?",
+    "titulo_thumb": "E AGORA, CORINTHIANS?",
+    "pergunta_enquete": "Qual sua opinião: Justiça determina suspensão de exposição da Fatal Fans em patrocínio com o Corinthians?",
+    "tecnica": "Pergunta aberta",
+    "ganchos": [
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Justiça determina suspensão de exposição da Fatal Fans em patrocínio com o Corinthians. Quem paga essa conta no fim: a diretoria ou o torcedor?",
+      "thumb": "E AGORA, CORINTHIANS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Eu aposto que essa conta chega no elenco do Corinthians ainda nesta temporada. Você aposta em quê?",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "Justiça manda Corinthians retirar marca de patrocinador em 15 dias. Guarda esse número, porque ele muda a conversa sobre o Corinthians.",
+      "thumb": "15 DIAS"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Justiça determina suspensão de exposição da Fatal Fans em patrocínio com o Corinthians. Nessa conta, tem quem ganha e tem quem paga, e não é a mesma pessoa.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Justiça determina suspensão de exposição da Fatal Fans em patrocínio com o Corinthians. A manchete conta uma parte. A outra parte está nos números.",
+      "thumb": "NÃO É BEM ASSIM"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Patrocinadora do Corinthians se pronuncia após suspensão na Justiça",
+     "fonte": "tmc.com.br",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOE1pSC1reUFCZlNkdzZDZDVMbV9PRzlCdE5wQnprcmFmbGdVUFRQck4yb0k3TldXSG9GeHNLOU5FVE1WeXBOZ1VQMzFGdEhFaXg2OHpEQ1BMYkpzSzR0MVp4Zm9GYmFST2hpTm9xMjQxZ3Ryb3ZYczZ6UWg0emFQQnZwT3RpLTJRbFZPeHFvVkNEb1VqTDhiSFo4cw?oc=5"
+    },
+    {
+     "titulo": "Fatal Fans: patrocínio de Corinthians é suspenso",
+     "fonte": "SBT News",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa3drbDVxak1WOGZnMU1fVTVLbWdtUmowRXljMzVsbGJpcDBDZ0JJblFWd2hTbG9iTml3ODdjd0x4aGVwT3lIQUU0eGhUcEE3Wk02bTFaZFV2X0J2bERZNHhPOG9XZm9EMUpvYmxBYXhPZ0JDM2x6Rk82OWl4TmJsdVRQdnRUNTdZLURCQTVFenZxVVk?oc=5"
+    },
+    {
+     "titulo": "Corinthians tem patrocínio suspenso pela Justiça de São Paulo",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVi1MX0swcG9OQ1ozdjRFQUtCXzdscWdyUnVlLVZaSGFUMTNpQzVCVnZPSTZwUFRvSzVUNHBMWWd0ZmpvTUFkczl0WFhic0NfcS1nWWVHQWVMSGQxR3JMTWlNbC0wRVo4WFc1ZmZFQkpFa293UDhtNE1SeHJBMk1qWFk2UU1ubUtyUThoNWpiNEdCam9Pemx6SG5zb3JQQ0toR21obkFKQ0Q3NXVOQUgycGJBTXg5YmVtaW9YZFZnMEl1S1BDckpxUVNpMmxQb0hJWW9JczVkUE9TdUNtS1YyT2JzZXZvbVFw?oc=5"
+    },
+    {
+     "titulo": "Corinthians: Justiça suspende divulgação de patrocínio de conteúdo adulto",
+     "fonte": "cnnbrasil.com.br",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFJ0Tl9NWndweExqenRha3hIV2lyMF90RWk5cHRoQnVlbS1xQVJjT29kTHUxalV5U2lIMWRRLXJ2OFJrQ00xdDZWWjVTNmVCRXhoZ2p2UExISHNPbHhDYXVkMGJWZERVclAtbmdUSFhyNVAyLWRZU1Q2U1B4S0xFWXliOFA2a3NJOEpqeTNhQUo5TERkeDJmX3pBdmpabGJabWRfZUszaTdER2dEd1hZM2lrcF9EWXJJclhIVTZZXzNVb2hJNlcwS1hjOA?oc=5"
+    },
+    {
+     "titulo": "Justiça manda Corinthians retirar marca de patrocinador em 15 dias",
+     "fonte": "band.com.br",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdW5BZUwyZlpLZDA5TlY2dkI2QnE1dmVWNHNuaWFGdi16ZzI0M1VTT2E0Z0s0dkllUzdrNnRka0FNdi1RejJHS1BJRV9FY2hkZ1pNZjVVbFNMUFlpX0dfM2JNdzk4bUJ1cExEY0lhVjV0dklrbHJLOUlaTzdGbnBHVTR4XzFIQ3BBalRYT1JoWXd3QkViRmx2OVQ0UDZ2QWotMThzYldSYkxGbDFJem5NUUV6TDVHUXVHdjRMZFFmd2pBVDA?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "vBCN9D-bAtM",
+      "titulo": "Justiça determina suspensão de patrocínio entre a Fatal Fans (conteúdo adulto) e o Corinthians",
+      "canal": "Family Talks",
+      "views": 1294,
+      "likes": 45,
+      "comentarios": 2,
+      "publicado": "2026-10-01T19:24:58Z",
+      "duracao_s": 27,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=vBCN9D-bAtM"
+     },
+     {
+      "id": "AcSB-0SBKUI",
+      "titulo": "Justiça manda Corinthians suspender patrocínio da Fatal Fans",
+      "canal": "Timão em 60 Segundos",
+      "views": 924,
+      "likes": 8,
+      "comentarios": 2,
+      "publicado": "2026-10-01T20:12:14Z",
+      "duracao_s": 37,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=AcSB-0SBKUI"
+     },
+     {
+      "id": "IGwVatqZ0iM",
+      "titulo": "Fatal Model oferece R$ 120 milhões para patrocínio máster do Corinthians",
+      "canal": "O HOJE",
+      "views": 924,
+      "likes": 12,
+      "comentarios": 1,
+      "publicado": "2026-09-30T14:30:20Z",
+      "duracao_s": 68,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=IGwVatqZ0iM"
+     },
+     {
+      "id": "VqcajJ2XeNo",
+      "titulo": "JUSTIÇA DETERMINA SUSPENSÃO DE EXPOSIÇÃO DA FATAL FANS EM PATROCÍNIO COM O CORINTHIANS!",
+      "canal": "Vai Timão",
+      "views": 664,
+      "likes": 138,
+      "comentarios": 23,
+      "publicado": "2026-10-01T23:44:42Z",
+      "duracao_s": 1214,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=VqcajJ2XeNo"
+     },
+     {
+      "id": "lX8sCcUJZb8",
+      "titulo": "JUSTIÇA DETERMINA SUSPENSÃO DE EXIBIÇÃO DO PATROCÍNIO DA FATAL FANS #corinthians #bets #ytshorts",
+      "canal": "ESERIO NEWS ESPORTES",
+      "views": 60,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-01T23:20:02Z",
+      "duracao_s": 49,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=lX8sCcUJZb8"
+     },
+     {
+      "id": "NHae6Tf5b8U",
+      "titulo": "🚨 JUSTIÇA DETERMINA SUSPENSÃO DE PATROCÍNIO DO CORINTHIANSA #shorts #youtubeshorts",
+      "canal": "Isv Sports",
+      "views": 8,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-10-02T01:15:20Z",
+      "duracao_s": 16,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=NHae6Tf5b8U"
+     }
+    ],
+    "consulta": "Corinthians patrocínio suspensão",
+    "n_videos": 6,
+    "mais_de": false,
+    "views": 3874,
+    "top": [
+     {
+      "titulo": "Justiça determina suspensão de patrocínio entre a Fatal Fans (conteúdo adulto) e o Corinthians",
+      "canal": "Family Talks",
+      "views": 1294,
+      "url": "https://www.youtube.com/watch?v=vBCN9D-bAtM",
+      "publicado": "2026-10-01T19:24:58Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Justiça manda Corinthians suspender patrocínio da Fatal Fans",
+      "canal": "Timão em 60 Segundos",
+      "views": 924,
+      "url": "https://www.youtube.com/watch?v=AcSB-0SBKUI",
+      "publicado": "2026-10-01T20:12:14Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Fatal Model oferece R$ 120 milhões para patrocínio máster do Corinthians",
+      "canal": "O HOJE",
+      "views": 924,
+      "url": "https://www.youtube.com/watch?v=IGwVatqZ0iM",
+      "publicado": "2026-09-30T14:30:20Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Coutinho é relacionado e pode estrear em São Paulo x Santos pelo Brasileirão",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "São Paulo",
+    "Santos"
+   ],
+   "foco": true,
+   "nota": 73.6,
    "sinais": {
     "busca": 60,
-    "aceleracao": 94,
-    "midia": 46,
+    "aceleracao": 74,
+    "midia": 75,
     "aderencia": 100,
     "youtube": 67
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "safiel no corinthians",
+   "busca_torcedor": "coutinho santos",
    "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 4,
-   "assinatura": "corin|safie|diret|atual",
+   "n_fontes": 5,
+   "n_manchetes": 5,
+   "assinatura": "santo|couti|estre|relac",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "Até onde essa história do Corinthians vai chegar?",
-    "titulo_thumb": "E AGORA, CORINTHIANS?",
-    "pergunta_enquete": "Qual sua opinião: SAFiel detalha 'desafio' de Stabile e decreta fim das conversas com a atual diretoria do C?",
-    "tecnica": "Pergunta aberta",
-    "ganchos": [
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Até onde essa história do Corinthians vai chegar?",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "SAFiel detalha 'desafio' de Stabile e decreta fim das conversas com a atual diretoria do Corinthians. Eu aposto que [SEU PALPITE]. Se eu acertar, você me deve um like.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "17 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
-      "thumb": "TODO MUNDO VIU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "SAFiel detalha 'desafio' de Stabile e decreta fim das conversas com a atual diretoria do Corinthians. Por trás disso, tem dois lados que não querem a mesma coisa.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "SAFiel detalha 'desafio' de Stabile e decreta fim das conversas com a atual diretoria do Corinthians. A leitura óbvia é uma. A que importa é outra.",
-      "thumb": "NÃO É BEM ASSIM"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Safiel admite fim das conversas com atual diretoria do Corinthians | Risco de melar a eleição",
-     "fonte": "meutimao.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOazBURFljVW8tRzA3MnFxV1RWeDZiVFBQUXFmTTNYZllsRnBEMmVhTWs0WWN0M2JqeXpoMkRqX2s3d21xWlhvWDRRcS1aalZ6SHVsMFA0X1UwNzgwaGFNRzJha01ZYTRmOTRyczlTVTQ0THVNMzdpLWVKX0NPaDAzcUhGSXBEeHBlQmREdnZRYWhIVjMzeldGLUtrLXlFOXhOY2drbGtmckh4U200emJqclFHQjY5X3Z3OHgybFR6cmtwNTRVYjB3emFwUk5jLU1Ld2JZZkJlb3Rra3hoMWQxXzhB?oc=5"
-    },
-    {
-     "titulo": "Idealizadores da SAFiel tomam decisão sobre negociações com atual diretoria do Corinthians",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNbzl3S1phczFsaUt5djZiUk1NYzdGVDZhVFpmc3Y0RnNpZ0VHRGozQUsxVFB5bk5pR3dybzlUSXhCWElqMTRnTFM1QWxfWGUyRWZQZGh2b01UYkt2VHpPdmxiZGpqMDlZUEFoZl9lQzdwYmw3LTkteDdQLXZfenZxVy1UUVl2LTR4UjRTM29vSFd4NF9GSkhRRnpMREFwSmVVY25qRGF1U2lFZUFBTGlDa2hwZGNweGVFSTh1NDNnNktZN0p0Z25QeWI1R2cxSi1rUjF2c0hGUk1EZFgxaUFQLWVmT2pqekxVX0pkTVBNYXRuNW5qRGMyVGtyb01MTkZLMnFOUE91RkZHSTNrdFlR?oc=5"
-    },
-    {
-     "titulo": "Yuri pronto para voltar no Corinthians | SAFIEL diz que, após reunião, Stabile não responde mais",
-     "fonte": "meutimao.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVnFzTUJWNVFESUpscEktanRDUnU2cGZCRG80ckFtMTJ6bllweXFId1ppWTF2NUxPeDE0Z2ZfUHk4REl5OEZ5REx2MzgyUl96azNoa2RaQi0yM25OSTJzdzEyckhDNWpGSkJLWjhjc3I1MU9pLVY1NGoyVXp6aTgwSW80ekk0djFxZlJxczV3RWdWMXdSYmVqZDMxMWlKWHRnc2M1cF84UWxwLXBkT0w4Q3ZjZ2tVSjVEUDBOVlhGQXNJMThTUjAya2VJQTNIMG45cTVnUlh4bjg3aGNjZVZwQVo0SXBkZ3VO?oc=5"
-    },
-    {
-     "titulo": "SAFiel detalha 'desafio' de Stabile e decreta fim das conversas com a atual diretoria do Corinthians",
-     "fonte": "meutimao.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYTMyV0Y1N3lzaHVDbWRiWTh4bzVYalhsRFV3ZXl1dWVuQ0otMkJFTk54eDktUjZFT3lMaGxfMWtIVkJCTWpDSWNaYnplUEZEeGVBc1dUZUxuVlZ6T3hjWWd6RlVFWnBaUDBNQTBaY0VLbENrZmp3Ni1iUEpIV0dEcUlpUjlaTXVqV2V6bkpJNV8yQjBFWjEwNXNqdGVOWGc1UkRCM3JnRXd5WGNKWWktbVE5VEltb3hXRk9HTExrUVg2VTFybjI3X3FWLVI2OGM5dmQ0eXZxNmtyRGxsdkl1cExNYzNFZE90VEZHa3N3?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "ndwBV6zswxM",
-      "titulo": "YURI PRONTO PARA VOLTAR NO CORINTHIANS | SAFIEL DIZ QUE, APÓS REUNIÃO, STABILE NÃO RESPONDE MAIS",
-      "canal": "Meu Timão",
-      "views": 9474,
-      "likes": 498,
-      "comentarios": 5,
-      "publicado": "2026-10-01T13:20:59Z",
-      "duracao_s": 4571,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=ndwBV6zswxM"
-     },
-     {
-      "id": "PXlR07KGLM8",
-      "titulo": "SAFIEL DETALHA RELAÇÃO COM STABILE E AFIRMA NÃO TER RECEBIDO MAIS CONTATOS DO CORINTHIANS",
-      "canal": "Meu Timão",
-      "views": 3792,
-      "likes": 73,
-      "comentarios": 2,
-      "publicado": "2026-09-30T23:39:33Z",
-      "duracao_s": 407,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=PXlR07KGLM8"
-     },
-     {
-      "id": "BbeuF_ecEXo",
-      "titulo": "🔴 TUMA FALA SOBRE INTERVENÇÃO JUDICIAL NO CORINTHIANS | SAFIEL DISPARA CONTRA STÁBILE ⚫⚪",
-      "canal": "TV Central do Timão",
-      "views": 2415,
-      "likes": 71,
-      "comentarios": 2,
-      "publicado": "2026-10-01T12:54:41Z",
-      "duracao_s": 8066,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=BbeuF_ecEXo"
-     },
-     {
-      "id": "j3ZffTcntv0",
-      "titulo": "OSMAR STABILE \"FAZ O PIX QUE EU ASSINO\" | UM MÊS DE SILÊNCIO SOBRE A SAFIEL",
-      "canal": "Corinthiano Informa",
-      "views": 809,
-      "likes": 37,
-      "comentarios": 4,
-      "publicado": "2026-09-30T00:30:38Z",
-      "duracao_s": 810,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=j3ZffTcntv0"
-     },
-     {
-      "id": "SudjGMHwmj8",
-      "titulo": "🚨🚨🚨URGENTE! SAFIEL DESISTIU DO CORINTHIANS E NÃO VAI AVANÇAR COM OSMAR STÁBILE🚨🚨🚨",
-      "canal": "Noticias do Corinthians",
-      "views": 293,
-      "likes": 62,
-      "comentarios": 4,
-      "publicado": "2026-10-01T15:20:35Z",
-      "duracao_s": 154,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=SudjGMHwmj8"
-     }
-    ],
-    "consulta": "Corinthians Safiel atual Stabile",
-    "n_videos": 5,
-    "mais_de": false,
-    "views": 16783,
-    "top": [
-     {
-      "titulo": "YURI PRONTO PARA VOLTAR NO CORINTHIANS | SAFIEL DIZ QUE, APÓS REUNIÃO, STABILE NÃO RESPONDE MAIS",
-      "canal": "Meu Timão",
-      "views": 9474,
-      "url": "https://www.youtube.com/watch?v=ndwBV6zswxM",
-      "publicado": "2026-10-01T13:20:59Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "SAFIEL DETALHA RELAÇÃO COM STABILE E AFIRMA NÃO TER RECEBIDO MAIS CONTATOS DO CORINTHIANS",
-      "canal": "Meu Timão",
-      "views": 3792,
-      "url": "https://www.youtube.com/watch?v=PXlR07KGLM8",
-      "publicado": "2026-09-30T23:39:33Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "🔴 TUMA FALA SOBRE INTERVENÇÃO JUDICIAL NO CORINTHIANS | SAFIEL DISPARA CONTRA STÁBILE ⚫⚪",
-      "canal": "TV Central do Timão",
-      "views": 2415,
-      "url": "https://www.youtube.com/watch?v=BbeuF_ecEXo",
-      "publicado": "2026-10-01T12:54:41Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Artur Jorge admite estratégia errada na eliminação do Cruzeiro para o Flamengo na Libertadores: 'Teria feito...'",
-   "categoria": "Mercado da bola",
-   "clubes": [
-    "Flamengo",
-    "Cruzeiro"
-   ],
-   "foco": true,
-   "nota": 72.1,
-   "sinais": {
-    "busca": 75,
-    "aceleracao": 65,
-    "midia": 92,
-    "aderencia": 100,
-    "youtube": 39
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "artur jorge",
-   "termos_trends": [],
-   "n_fontes": 8,
-   "n_manchetes": 10,
-   "assinatura": "artur|jorge|cruze|elimi",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 3 min)",
-    "gancho": "Artur Jorge admite estratégia errada na eliminação do Cruzeiro para o Flamengo na Libertadores. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Coutinho é relacionado e pode estrear em São Paulo x Santos pelo Brasileirão. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
     "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Artur Jorge admite estratégia errada na eliminação do Cruzeiro para o Flamengo na Libertad?",
+    "pergunta_enquete": "Qual sua opinião: Coutinho é relacionado e pode estrear em São Paulo x Santos pelo Brasileirão?",
     "tecnica": "Aposta",
     "ganchos": [
      {
       "tecnica": "Aposta",
-      "texto": "Artur Jorge admite estratégia errada na eliminação do Cruzeiro para o Flamengo na Libertadores. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
+      "texto": "Coutinho é relacionado e pode estrear em São Paulo x Santos pelo Brasileirão. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Dado",
-      "texto": "O torcedor está digitando “artur jorge” no Google agora. A resposta não é tão simples.",
+      "texto": "“coutinho santos”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
       "thumb": "VOCÊ PESQUISOU"
      },
      {
       "tecnica": "Conflito",
-      "texto": "Artur Jorge admite estratégia errada na eliminação do Cruzeiro para o Flamengo na Libertadores. Nem todo mundo no Flamengo vai gostar disso, e eu vou explicar por quê.",
-      "thumb": "FLAMENGO x CRUZEIRO"
+      "texto": "Coutinho é relacionado e pode estrear em São Paulo x Santos pelo Brasileirão. Nem todo mundo no São Paulo vai gostar disso, e eu vou explicar por quê.",
+      "thumb": "SÃO PAULO x SANTOS"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Artur Jorge admite estratégia errada na eliminação do Cruzeiro para o Flamengo na Libertadores. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
+      "texto": "Coutinho é relacionado e pode estrear em São Paulo x Santos pelo Brasileirão. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Artur Jorge admite estratégia errada na eliminação do Cruzeiro para o Flamengo na Libertadores. Isso é bom ou ruim para o Flamengo? Responde antes de ver a minha análise.",
-      "thumb": "E AGORA, FLAMENGO?"
+      "texto": "Coutinho é relacionado e pode estrear em São Paulo x Santos pelo Brasileirão. E agora: o que muda para o São Paulo?",
+      "thumb": "E AGORA, SÃO PAULO?"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Artur Jorge admite erro de estratégia em eliminação na Copa Libertadores",
-     "fonte": "tmc.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdm83cE1FbUVJVVZkaXVScHRvZG9aWkRobE5XV01pT3RvRTlRLWJsRGh5YUZxRlpzSTlUT0hrSkRVV01xczctVnNCTVJreFV6QThXOGJOdXVlWnlaRkhnS1hxVTBGUEhPa1dDcWRnUG5EdDZndXk4OEtpTXJhaC1nMXRndUN2bVo3enNjY25DOUJaY3dpZDFqWklMSGNQYkp4X2c?oc=5"
-    },
-    {
-     "titulo": "Artur Jorge assume responsabilidade por mercado do Cruzeiro: 'Eu que quis'",
-     "fonte": "Rádio Itatiaia",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQWk5cHpWYlVWTzhpbEpmMGY3VU81UTA1bV9FMkVxRFhzMmQ1a2VVd0hnb3dvSHNQWERlMnVXSjdzMTBNZnVrZnRkdVBtUU9RRHgwYmZqdVF3WHZpSzFmSGc2N2I0NDhFTkhhTTBzb2JyWnZmQnNfNzR2Yll5R3BtVFAxc3U5NmYzemFsdzFKd3p4eTRVQlJFTlo3SmYzc0NjOVB0eFdsS2F0bmhFNDdJZDE5WnVzUnNXeThhem9iTVpUQ3d1WUxvTzNYNFhoVjFPckJUeWRqS2FMcHYwZ09uVzZzMHI5RFFhclpDT1h0c2Q?oc=5"
-    },
-    {
-     "titulo": "Artur Jorge prevê Jonathan Jesus na seleção e destaca valorização do zagueiro no Cruzeiro",
-     "fonte": "O TEMPO",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQkoycnlTbV9GR3pSUVRHRWM5VHczMTg0bnRpV3p1TXI1WXk1czFVMFFsQjc3WUNmYlpOV0tsck5WS3NlVWlRSjU2MUloVjhBRHh6cDdDLUNNR0s3ZmZkbGNCLXdYNUEwVk5mdnZqaVFaQWFrZFhUVk9rWXg5djNuREpsUXI4SVVnTC1kVE1LRWRsQWlNMFdJbDN5bnlwMzFiekloZHcwTENpM19MYnF5bTQ2cnBlR3JvQTg0bWVaU1hUbGY4WEc3NlFnZDlWQ0JFcGNoZXpwV3I?oc=5"
-    },
-    {
-     "titulo": "Artur Jorge crava jogador do Cruzeiro como o melhor do Brasil: ‘Não sou só eu que digo’",
-     "fonte": "Central da Toca",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZVRzcmdGaHVsOS1wQTR6bElnTl9JNWJzcnBjZDZaX21XcFdrSHlBRkpsN3FuTFMxRHM1SjVMX0l4enN6blpzUllWUkVCSDlQek5uTnVzRU9LaTNaZnE0WFBjMGJ6aUtocDB0aW9mSXRwMGNYTXlHSkJwM25PX0UtbHdrYjlabXQwYjB1aV9kUndoTFh3QjRuNGs4akpDNkQ5MTRIQTZXTE5Qa3FXQnRxaFgzak81NnhEa1E?oc=5"
-    },
-    {
-     "titulo": "Artur Jorge admite estratégia errada na eliminação do Cruzeiro para o Flamengo na Libertadores: 'Teria feito...'",
+     "titulo": "Coutinho é relacionado e pode estrear em São Paulo x Santos pelo Brasileirão",
      "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVEl3UDJTVlhybnZ0bTNuZW5OTU5adElJU3JUelp4UzAtZ0gtQmVaTEI2allNRDY1STRpSGVLOXR5VzVUaWRWdFY1LUlqc1lOZWhIQ1Yya1h1Z0V4TXhYMkJMU09iLUt2TnViczFiVWViNm5CTXNyaGZHcWJ0Uks3cEliY0RQX2pKeTFnZkJza2stOTNOZlFsTkFya0tFMkR2OXQ0MS11a2loTjJiMVJwZ0JqUXhoOVVHSkV6QW90OGZrTGZ1RzhjQV9SbDVUbzRwdUYtRFpyZnpxSWNTcVE?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWVZNQWVZU2dyenFUdERRZ0dfakExekhKT3k5djA4bDFMNHZhWnQzSlUxbEJnNV9lNXpmLWlPWmFxT3p5UjJHVDBNRVh2bzJDQXBLQ0lVeS1xNDhoTzRCTmFGUEtibjRCcUhSVV9UbHEySHZ4ZGhpMzdaNkxISWtSaDBhekxPZ0RtQjVOcHNJZlVtNHh5QW1IVmJOX1NTandGT0JUWGVQbEp5UG03cFhtWlg3THF4YzJ6REcwM3FvMEZQcVNqcWFHLVdEcms?oc=5"
+    },
+    {
+     "titulo": "Coutinho é relacionado e pode estrear pelo Santos no San-São",
+     "fonte": "365Scores",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRzdsMlBPS0V3dnFFMm9nRS1YcWtfTjYwdlRLeXVIV3BoNEZzOUhnMHdqMVdveVNvc1IwVUJNX25BWW50Yk9CVF91QmM5bi1nN194ZTd6SVBVajQ0dUZMV2JaZ0o1dmNlVVM2ejYtdi1jaGNqRXltSVd0ZDd5RDhIOGlLN1NTLU1YeWJ0eHdDYWRScnFxeDc1MA?oc=5"
+    },
+    {
+     "titulo": "Coutinho é relacionado e pode estrear pelo Santos no clássico",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTDRlNGdlazJpSHN4VGhaRnpVbmF2bDJDZ1kyNjNYcUJoRFQzYWZfeFhzdVlnTzd5M3V3RHJqZTFJOWRZcUpEUUprZUVMaGwxVk9oLVhBTkJtbFo5RVd2Z0tfSjVQakhFMW9YTm1TNDJEdFVObGVXMThaRElMM0M3N05OeVZvb0ZGQVJIbEF4WHozdDY2VEFMbzFiVzN6clNMb3NpaEtQSHkzY1Zmc2dqemUzSk04V2NnZldSbzVMZm1Kd3hsNWZHR0dTLVVFRXE5bGFoYXV4dHI2OXZ2SUZzRDhoMmhHc2PSAecBQVVfeXFMTkw0ZTRnZWsyaUhzeFRoWkZ6VW5hdmwyQ2dZMjYzWHFCaERUM2FmX3hYc3VZZ083eTN1d0RyamUxSTlkWXFKRFFKa2VFTGhsMVZPaC1YQU5CbWxaOUVXdmdLX0o1UGpIRTFvWE5tUzQyRHRVTmxlVzE4WkRJTDNDNzdOTnlWb29GRkFSSGxBeFh6M3Q2NlRBTG8xYlczenJTTG9zaWhLUEh5M2NWZnNnanplM0pNOFdjZ2ZXUm81TGZtSnd4bDVmR0dHUy1VRUVxOWxhaGF1eHRyNjl2dklGc0Q4aDJoR3Nj?oc=5"
+    },
+    {
+     "titulo": "Coutinho é relacionado pelo Santos para clássico contra o São Paulo",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTE53aUZBcS14LUc3WVo5aWxsZzdrckdwXzJYZlUwSFlaMlBib0tlYTFSdzU1UTAtYVZlQ19ZMTMxQVNDTk5HdDhKMG0yQ3VLYUYzc1JkX3oxNUsyRFA2WTdnX05wNXl6TTRPV253cUtyM2NZamZ3eE1TS2xTU1k5M3hIczBVXzh1R1NhNG5wSkJRdW1nRGtMR3FrWk9aZGhuT1NmSVY2ZExSVFlHOUNEcmRrUUEySTRHMU1kZjZObjlrN2N4dkl0QjJkSkRKeGJJbklIY1BWU3RHQVdISzFaR0xlckxRb0Vw0gH3AUFVX3lxTE50LXRRVzlnZW5ZSHBSUzB6OU80M09YZjYyaHctZk5td0FIdXAySG1OSXdyVDM5dFVUUlF6NTR6V3lyQTF0SVY1VDlpUTdidzFLOWlidUwxbDJxeHJLY1RGdWV3cklOZzJYSUZhY21nRXhMQW94bGEtOVQzN0hZQkFXRElCN3FSX2x5cEpseGFua3dDT1RKZFZHMHljUzl3ZFZraGRkQm1qRzFBRk1NZUt3b0NaVmlOZlBOTHkyX2x6Y1pLeXo4NmdSQzBkZEc2ck5HTVZjSFpOWmhEMnNrZFhwbEFkTHZNeE1NRkVfRGstejhuWEdhZEk?oc=5"
+    },
+    {
+     "titulo": "Coutinho avança e pode estrear pelo Santos contra o São Paulo",
+     "fonte": "Jogada 10",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOREhOcXFHRGNteVNxWXFIVW1iOUc3SDBwVVFpSEVwRG9UV0YzSFdINWhiZ2YtX3hndlhOZEFWN3BzdEZtMTVNRXBhNGRoeFJJdXk5QzBpMWhFaGNWdHg4b3VNcy1ycWFZX0dWekJrSHVXV0NibF9MLU90Y3ViVVk2MG1qN1BUd0ExQjMwZXlDRdIBlAFBVV95cUxORjlocUhaeGhNZVNrN2VnWkNMR1duMnNQR3o3THo1Nko0ZS1FeDV2YVE5cGNJYnFNbWMydl9uSmMtVUlaR280VXU1cDViR3FTdzQycWxTNzdqZUJOT05rZU00V1pMeUhyNXcwQ2RPV3g5bkNpUVlmYUMxSkZvWkpFdWNCa0JZSU80M1M4blFRaVY3Q3J3?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "0nM0Y5_Cgco",
-      "titulo": "TÉCNICO DO CRUZEIRO, ARTUR JORGE ADMITE ERRO DE ESTRATÉGIA NA ELIMINAÇÃO DA LIBERTADORES",
-      "canal": "Samuca TV",
-      "views": 493,
-      "likes": 55,
-      "comentarios": 2,
-      "publicado": "2026-10-01T16:05:16Z",
-      "duracao_s": 711,
+      "id": "K0chaMUAsMA",
+      "titulo": "COUTINHO RELACIONADO CONTRA O SP | CUCA TESTA TIME OFENSIVO PARA O CLÁSSICO",
+      "canal": "Filho de Peixe",
+      "views": 2106,
+      "likes": 158,
+      "comentarios": 6,
+      "publicado": "2026-09-30T21:00:17Z",
+      "duracao_s": 641,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=K0chaMUAsMA"
+     },
+     {
+      "id": "na8lZ2n4s5o",
+      "titulo": "PHILIPPE COUTINHO SURPREENDE NOS TREINOS E PODE ESTREAR CONTRA O SÃO PAULO",
+      "canal": "Família Santista",
+      "views": 976,
+      "likes": null,
+      "comentarios": 0,
+      "publicado": "2026-09-30T16:00:22Z",
+      "duracao_s": 30,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=na8lZ2n4s5o"
+     },
+     {
+      "id": "6dkdJ6Z_zfs",
+      "titulo": "BOMBA! Coutinho DEVE ESTREAR pelo Santos no clássico contra o São Paulo",
+      "canal": "Santos de HOJE",
+      "views": 958,
+      "likes": 35,
+      "comentarios": 0,
+      "publicado": "2026-10-01T22:00:27Z",
+      "duracao_s": 89,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=6dkdJ6Z_zfs"
+     },
+     {
+      "id": "JRBKCPt0G3Q",
+      "titulo": "COUTINHO pode estrear pelo SANTOS e NEYMAR se aproxima do retorno! 😳🐳",
+      "canal": "Foco Atlético ",
+      "views": 654,
+      "likes": 16,
+      "comentarios": 0,
+      "publicado": "2026-10-02T00:39:02Z",
+      "duracao_s": 48,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=JRBKCPt0G3Q"
+     },
+     {
+      "id": "AltNUtTwBxs",
+      "titulo": "LIVE -  SANTOS: COUTINHO PODE ESTREAR CONTRA O SÃO PAULO! E A POLÊMICA COM O FLAMENGO?",
+      "canal": "CANAL DO LIPÃO SANTOS",
+      "views": 257,
+      "likes": 61,
+      "comentarios": 4,
+      "publicado": "2026-10-01T23:50:24Z",
+      "duracao_s": 5443,
       "live": true,
-      "url": "https://www.youtube.com/watch?v=0nM0Y5_Cgco"
+      "url": "https://www.youtube.com/watch?v=AltNUtTwBxs"
+     },
+     {
+      "id": "8mmDn4oH7v4",
+      "titulo": "⚪⚫ COUTINHO PODE ESTREAR NO SAN-SÃO!",
+      "canal": "Energia 97 FM",
+      "views": 244,
+      "likes": 13,
+      "comentarios": 0,
+      "publicado": "2026-10-02T00:53:06Z",
+      "duracao_s": 176,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=8mmDn4oH7v4"
+     },
+     {
+      "id": "9KWhgfFrmUM",
+      "titulo": "🚨 COUTINHO VAI PRO JOGO! ESTREIA PELO SANTOS PODE ACONTECER NO MORUMBIS!",
+      "canal": "A voz do Santos ",
+      "views": 51,
+      "likes": 5,
+      "comentarios": 1,
+      "publicado": "2026-10-01T22:00:33Z",
+      "duracao_s": 451,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=9KWhgfFrmUM"
+     },
+     {
+      "id": "ZzY9fDRZ59c",
+      "titulo": "🔥🐳 COUTINHO VAI ESTREAR! Craque IMPRESSIONA no Santos antes do clássico! 👀#Santos #Coutinho #shorts",
+      "canal": "GuidoCortes",
+      "views": 36,
+      "likes": 3,
+      "comentarios": 0,
+      "publicado": "2026-09-30T20:45:06Z",
+      "duracao_s": 78,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=ZzY9fDRZ59c"
+     },
+     {
+      "id": "LiE61ewp1KA",
+      "titulo": "LIVE -  SANTOS: COUTINHO PODE ESTREAR CONTRA O SÃO PAULO! E A POLÊMICA COM O FLAMENGO?",
+      "canal": "A Sereia Revoltada",
+      "views": 14,
+      "likes": 2,
+      "comentarios": 0,
+      "publicado": "2026-10-02T00:04:54Z",
+      "duracao_s": 5444,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=LiE61ewp1KA"
+     },
+     {
+      "id": "_Jyxjoes_v4",
+      "titulo": "Coutinho volta ao campo e pode marcar sua estreia pelo Santos",
+      "canal": "FutNews Shorts",
+      "views": 5,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-01T09:27:31Z",
+      "duracao_s": 33,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=_Jyxjoes_v4"
+     },
+     {
+      "id": "IGQ-g63yJ-A",
+      "titulo": "BOMBA! COUTINHO VAI ESTREAR! SANTOS DEVE TER CAMISA 11 NO SAN-SÃO",
+      "canal": "Podcast Santista News",
+      "views": 4,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-01T21:00:26Z",
+      "duracao_s": 302,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=IGQ-g63yJ-A"
+     },
+     {
+      "id": "8IaFYlYFBfg",
+      "titulo": "COUTINHO É RELACIONADO! Meia pode ESTREAR pelo Santos contra o São Paulo",
+      "canal": "Bastidores da Bola",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-02T01:43:24Z",
+      "duracao_s": 11,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=8IaFYlYFBfg"
+     },
+     {
+      "id": "fmalfPPs6ko",
+      "titulo": "Coutinho pode estrear pelo Santos contra o São Paulo; entenda os detalhes",
+      "canal": "Santos 247 - Noticias da Baixada",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-02T00:57:02Z",
+      "duracao_s": 61,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=fmalfPPs6ko"
      }
     ],
-    "consulta": "Flamengo Artur Jorge estratégia",
-    "n_videos": 1,
+    "consulta": "São Paulo Coutinho relacionado estrear",
+    "n_videos": 13,
     "mais_de": false,
-    "views": 493,
+    "views": 5305,
     "top": [
      {
-      "titulo": "TÉCNICO DO CRUZEIRO, ARTUR JORGE ADMITE ERRO DE ESTRATÉGIA NA ELIMINAÇÃO DA LIBERTADORES",
-      "canal": "Samuca TV",
-      "views": 493,
-      "url": "https://www.youtube.com/watch?v=0nM0Y5_Cgco",
-      "publicado": "2026-10-01T16:05:16Z",
+      "titulo": "COUTINHO RELACIONADO CONTRA O SP | CUCA TESTA TIME OFENSIVO PARA O CLÁSSICO",
+      "canal": "Filho de Peixe",
+      "views": 2106,
+      "url": "https://www.youtube.com/watch?v=K0chaMUAsMA",
+      "publicado": "2026-09-30T21:00:17Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "PHILIPPE COUTINHO SURPREENDE NOS TREINOS E PODE ESTREAR CONTRA O SÃO PAULO",
+      "canal": "Família Santista",
+      "views": 976,
+      "url": "https://www.youtube.com/watch?v=na8lZ2n4s5o",
+      "publicado": "2026-09-30T16:00:22Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "BOMBA! Coutinho DEVE ESTREAR pelo Santos no clássico contra o São Paulo",
+      "canal": "Santos de HOJE",
+      "views": 958,
+      "url": "https://www.youtube.com/watch?v=6dkdJ6Z_zfs",
+      "publicado": "2026-10-01T22:00:27Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "Cirurgia de Arrascaeta é finalizada com sucesso",
-   "categoria": "Lesão e desfalque",
+   "tema": "Relembre a homenagem do Palmeiras para Lito ainda em vida",
+   "categoria": "Notícia do dia",
    "clubes": [
-    "Flamengo"
+    "Palmeiras"
+   ],
+   "foco": true,
+   "nota": 72.8,
+   "sinais": {
+    "busca": 70,
+    "aceleracao": 85,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": 61
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "lito sousa",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "palme|lito|relem|homen",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "11 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
+    "titulo_thumb": "TODO MUNDO VIU",
+    "pergunta_enquete": "Qual sua opinião: Relembre a homenagem do Palmeiras para Lito ainda em vida?",
+    "tecnica": "Dado",
+    "ganchos": [
+     {
+      "tecnica": "Dado",
+      "texto": "11 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
+      "thumb": "TODO MUNDO VIU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Relembre a homenagem do Palmeiras para Lito ainda em vida. Por trás disso, tem dois lados que não querem a mesma coisa.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Relembre a homenagem do Palmeiras para Lito ainda em vida. A leitura óbvia é uma. A que importa é outra.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Relembre a homenagem do Palmeiras para Lito ainda em vida. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
+      "thumb": "E AGORA, PALMEIRAS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Relembre a homenagem do Palmeiras para Lito ainda em vida. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Palmeiras lamenta morte de Lito Sousa; relembre última homenagem do influenciador ao clube",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNQnNCeVVYN1BFMHdrRkFHa3JUOXR1NGw1OW5Pa2JxekhhY1pKVHByRnJCR3BSRTh5ZGE0NEJEWGdKU3pteGppTnRGaGw4M09zeF9KTVhBVEVxemNNVnNRcUhNWWxKWjNGbHM3ZWc1cEZha2ppVGNQaTNLWFR6TjNSdXlzZk5QYmROZ3Q1OVZ2UjVIRjhPOUhJM3kzeTZMbFNVdmFEM0V5REJlY3JWc2tZNjNRamc2RmxGNUhQcEg2M2RQTmJRUnhfOXZEWS1TcXR0dHJ1RnJ4UWl3MVdwOVU1UUhHRS1kNEI4T3ljV3pwYjE4YThXWjFjLWhqQWFCdGFKR09GS1lybmZ2aEdHOFZHcw?oc=5"
+    },
+    {
+     "titulo": "Relembre a homenagem do Palmeiras para Lito ainda em vida",
+     "fonte": "cnnbrasil.com.br",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaHUwY1ozZmREbl9uMWlBMzdTS2djQVZtai1EZDFNUG85ZE5TdHFFYldnY2l3NjVPWnhXa0ZyajIxRVNDQzEyNTd3ZWdBdThCM1pERkQydlJodWxwZXNjLVJnN3NmWUNoeFFJOTVkTnJYQTJfOC1mbHRnNUtrSUQ3anpXQUh1eGJrWExuX1EtbDdnMGZpT19kVE9YeWI2bmZ0a19tM3ZhaXR3Rk9yNV82YjdSM0g?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "JOaenDB0YuE",
+      "titulo": "Palmeirense fanático, Lito foi homenageado pelo Verdão; relembre",
+      "canal": "UOL Esporte",
+      "views": 10218,
+      "likes": 472,
+      "comentarios": 16,
+      "publicado": "2026-10-01T22:01:51Z",
+      "duracao_s": 114,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=JOaenDB0YuE"
+     },
+     {
+      "id": "MbQc4Y17-Do",
+      "titulo": "Palmeiras lamenta morte de Lito Sousa; relembre última homenagem do influenciador ao clube #shorts",
+      "canal": "Terra Esportes",
+      "views": 501,
+      "likes": 22,
+      "comentarios": 0,
+      "publicado": "2026-10-01T22:44:50Z",
+      "duracao_s": 116,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=MbQc4Y17-Do"
+     },
+     {
+      "id": "PUWT6QTJv1E",
+      "titulo": "Palmeiras lamenta morte de Lito Sousa; relembre última homenagem do influenciador ao clube",
+      "canal": "Terra Esportes",
+      "views": 3,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-10-01T23:10:05Z",
+      "duracao_s": 120,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=PUWT6QTJv1E"
+     }
+    ],
+    "consulta": "Palmeiras Lito Relembre homenagem",
+    "n_videos": 3,
+    "mais_de": false,
+    "views": 10722,
+    "top": [
+     {
+      "titulo": "Palmeirense fanático, Lito foi homenageado pelo Verdão; relembre",
+      "canal": "UOL Esporte",
+      "views": 10218,
+      "url": "https://www.youtube.com/watch?v=JOaenDB0YuE",
+      "publicado": "2026-10-01T22:01:51Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Palmeiras lamenta morte de Lito Sousa; relembre última homenagem do influenciador ao clube #shorts",
+      "canal": "Terra Esportes",
+      "views": 501,
+      "url": "https://www.youtube.com/watch?v=MbQc4Y17-Do",
+      "publicado": "2026-10-01T22:44:50Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Palmeiras lamenta morte de Lito Sousa; relembre última homenagem do influenciador ao clube",
+      "canal": "Terra Esportes",
+      "views": 3,
+      "url": "https://www.youtube.com/watch?v=PUWT6QTJv1E",
+      "publicado": "2026-10-01T23:10:05Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "São Paulo x Santos: Veja a provável escalação do Peixe",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "São Paulo",
+    "Santos"
    ],
    "foco": true,
    "nota": 71.2,
    "sinais": {
     "busca": 65,
-    "aceleracao": 57,
-    "midia": 46,
+    "aceleracao": 71,
+    "midia": 67,
     "aderencia": 100,
-    "youtube": 93
+    "youtube": 59
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "arrascaeta flamengo",
+   "busca_torcedor": "coutinho ta em qual time",
    "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "arras|cirur|suces|final",
+   "n_fontes": 4,
+   "n_manchetes": 6,
+   "assinatura": "paulo|prova|escal|santo",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "React rápido (1 a 2 min)",
-    "gancho": "301 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
-    "titulo_thumb": "TODO MUNDO VIU",
-    "pergunta_enquete": "Qual sua opinião: Cirurgia de Arrascaeta é finalizada com sucesso?",
-    "tecnica": "Dado",
-    "ganchos": [
-     {
-      "tecnica": "Dado",
-      "texto": "301 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
-      "thumb": "TODO MUNDO VIU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "De um lado, o Flamengo precisando de resultado. Do outro, o departamento médico pedindo calma com Arrascaeta.",
-      "thumb": "SEM ARRASCAETA?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Cirurgia de Arrascaeta é finalizada com sucesso. Todo mundo está olhando para quem sai. O problema está em quem entra.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Quanto vale Arrascaeta para o Flamengo? A resposta está nos números.",
-      "thumb": "E AGORA, FLAMENGO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Cirurgia de Arrascaeta é finalizada com sucesso. Meu palpite de quanto tempo esse desfalque vai durar: [SEU PALPITE]. Qual é o seu?",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Arrascaeta passa por cirurgia: 'Concluída com sucesso', diz Flamengo",
-     "fonte": "BOL",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZmk2ZjgycE5hUG9nS3h1cktUUXRNM0ZsZWNBeGVjcEdxS2hFRHR6SmtKejkxNXRmcUZXSy05QXlLWXozQW55U19ydUZzT0otTkcwZXRISWhoMm1lZmYtTElSMVJ6UDZwSWdBVWxDN1ZqOGxRVUdQUHdyeTlFZ1pSOG1tbGlaYVdZOHB5WmRkcjJVY29YU21HX1NwYWJGVGdqdm94X2tpcmxRSjAtSFMzWjJuMEtsZ9IBugFBVV95cUxOZjBRaEd4aTdvdHpJWVFsTFF3RjlFbXR1VXZtMFczVzNTQW9WbE5GdExtU09CNldxS0g5UFFMVHYwNTNrOXVUYXdHd0F0ZUlfTkFvWld0bWY1N1ZibzNfeXg1SU5vSkRmV2xPamlPV2wyR29ZQ24xbmRWZm8zek01cHJZUE4yYzNYYU1PWkgwWlc1UEo4cWJlQUIxQUZ3cjdKQmtKcHpMVW1ZYXVnWVJBWTNEVUsxTmdOaUE?oc=5"
-    },
-    {
-     "titulo": "Cirurgia de Arrascaeta é finalizada com sucesso",
-     "fonte": "flamengo.com.br",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVDR5NTA0elpfUndnelg1VmRrQ2ROS1JrSmhOVnZMVkdDS3Vaam9BbEttck55VGRDeDdlaHpmYjhZWFU4UGZRaGdHZTVmTS1WNU9KN25Va2h3RldmZk9pOG5tWTdRSXRYTVJ6eGFUQ3Q0Ukd4OUNxd0NLTnh2TnFkVXBNUlh0VWc4TVRHUVkzX185S3N1aXJn?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "m1PJITFl-oI",
-      "titulo": "APARECEU A SOLUÇÃO! FLAMENGO PODE USAR CARTA NA MANGA! CIRURGIA DE ARRASCAETA MARCADA! BRASILEIRÃO!",
-      "canal": "FLAZOEIRO",
-      "views": 159768,
-      "likes": 14035,
-      "comentarios": 948,
-      "publicado": "2026-09-29T20:58:07Z",
-      "duracao_s": 672,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=m1PJITFl-oI"
-     },
-     {
-      "id": "y5oXjommMmw",
-      "titulo": "🚨 EXCELENTE NOTÍCIA PRO PALMEIRAS! FLAMENGO PERDE ARRASCAETA E ENTRA EM ALERTA!",
-      "canal": "Canal do Verdão",
-      "views": 22396,
-      "likes": 202,
-      "comentarios": 9,
-      "publicado": "2026-09-29T23:00:12Z",
-      "duracao_s": 724,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=y5oXjommMmw"
-     },
-     {
-      "id": "s3La_QB7IQE",
-      "titulo": "TROCA DE PATROCINIO NO FLAMENGO | VOLTA DO BRASILEIRÃO | ARRASCAETA: CIRURGIA MARCADA",
-      "canal": "Resenha Rubro-Negra",
-      "views": 21556,
-      "likes": 3005,
-      "comentarios": 88,
-      "publicado": "2026-09-30T10:00:15Z",
-      "duracao_s": 904,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=s3La_QB7IQE"
-     },
-     {
-      "id": "dJo6n3xaCKU",
-      "titulo": "Médico explica cirurgia de Arrascaeta e projeta tempo de retorno ao Flamengo",
-      "canal": "JOGOS DE HOJE NA TV ",
-      "views": 16046,
-      "likes": 46,
-      "comentarios": 2,
-      "publicado": "2026-09-30T21:50:10Z",
-      "duracao_s": 10,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=dJo6n3xaCKU"
-     },
-     {
-      "id": "2OCRRcpU0dg",
-      "titulo": "FLAMENGO AGENDA CIRURGIA ARRASCAETA! FLAMENGO VOLTA AOS TREINOS QUARTA-FEIRA! DESFALQUES NA LIBERTA",
-      "canal": "Wesley FLA 12",
-      "views": 13192,
-      "likes": 574,
-      "comentarios": 23,
-      "publicado": "2026-09-29T19:17:30Z",
-      "duracao_s": 929,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=2OCRRcpU0dg"
-     },
-     {
-      "id": "Ds5Ylir201A",
-      "titulo": "PLANTÃO: A VOLTA DO ARRASCAETA PARA CIRURGIA NO FLAMENGO | DIRETO DO AEROPORTO",
-      "canal": "Coluna do Fla",
-      "views": 8182,
-      "likes": 63,
-      "comentarios": 2,
-      "publicado": "2026-09-30T20:13:45Z",
-      "duracao_s": 231,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Ds5Ylir201A"
-     },
-     {
-      "id": "vZ1S5Fjuiyw",
-      "titulo": "Flamengo Define Data para Operação de Arrascaeta #flamengo",
-      "canal": "Futebol Pulse",
-      "views": 7691,
-      "likes": 37,
-      "comentarios": 1,
-      "publicado": "2026-09-29T18:45:01Z",
-      "duracao_s": 6,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=vZ1S5Fjuiyw"
-     },
-     {
-      "id": "OiN_XfINQro",
-      "titulo": "ARRASCAETA PASSA POR CIRURGIA COM SUCESSO!",
-      "canal": "ESPN Brasil",
-      "views": 6566,
-      "likes": 321,
-      "comentarios": 31,
-      "publicado": "2026-10-01T16:07:56Z",
-      "duracao_s": 44,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=OiN_XfINQro"
-     },
-     {
-      "id": "APh7-k8yPvk",
-      "titulo": "ARRASCAETA CHEGA AO RJ PARA CIRURGIA E MÉDICO DO FLAMENGO DETALHA OPERAÇÃO NO PUNHO DO MEIA; VEJA",
-      "canal": "UOL Esporte",
-      "views": 6181,
-      "likes": 34,
-      "comentarios": 3,
-      "publicado": "2026-09-30T21:55:03Z",
-      "duracao_s": 187,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=APh7-k8yPvk"
-     },
-     {
-      "id": "WMdJBY9f4Mo",
-      "titulo": "PÉSSIMA NOTÍCIA! ARRASCAETA FRATURA O PUNHO E VAI PASSAR POR CIRURGIA! #mengaomalvadao #flamengo",
-      "canal": "FlamengoShorts+",
-      "views": 5113,
-      "likes": 14,
-      "comentarios": 2,
-      "publicado": "2026-09-29T23:14:10Z",
-      "duracao_s": 4,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=WMdJBY9f4Mo"
-     },
-     {
-      "id": "Kntx15XlYcc",
-      "titulo": "Arrascaeta SOFRE fratura no punho — e já tem cirurgia marcada",
-      "canal": "Agenda do Futebol",
-      "views": 4703,
-      "likes": 13,
-      "comentarios": 0,
-      "publicado": "2026-09-29T22:21:21Z",
-      "duracao_s": 6,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Kntx15XlYcc"
-     },
-     {
-      "id": "SsFf1_hZsmY",
-      "titulo": "FLAMENGO: CIRURGIA DE ARRASCAETA, SALDO ABERTO EM REFORÇOS E MAIS!",
-      "canal": "ESPN Brasil",
-      "views": 4668,
-      "likes": 96,
-      "comentarios": 0,
-      "publicado": "2026-09-29T18:05:19Z",
-      "duracao_s": 680,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=SsFf1_hZsmY"
-     },
-     {
-      "id": "Wdj4ghcoKk0",
-      "titulo": "BOA VIBE! ARRASCAETA CHEGA AO RIO OTIMISTA PARA A CIRURGIA! PLATA VOLTANDO CONTRA O SANTOS?",
-      "canal": "Paparazzo Rubro-Negro II",
-      "views": 4651,
-      "likes": 207,
-      "comentarios": 0,
-      "publicado": "2026-09-30T21:23:36Z",
-      "duracao_s": 583,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Wdj4ghcoKk0"
-     },
-     {
-      "id": "OesHTFG-kOw",
-      "titulo": "FERNANDO SASSAKI, MEDICO DO FLAMENGO, EXPLICA CIRURGIA E RECUPERAÇÃO DE GIORGIAN DE ARRASCAETA!",
-      "canal": "Paparazzo Rubro-Negro",
-      "views": 3532,
-      "likes": 128,
-      "comentarios": 2,
-      "publicado": "2026-09-30T20:36:13Z",
-      "duracao_s": 175,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=OesHTFG-kOw"
-     },
-     {
-      "id": "rrr6LF1jEkI",
-      "titulo": "FLAMENGO: QUINTA JÁ COMEÇA ASSIM! CIRURGIA DE ARRASCAETA, JOÃO CIMED QUER PATROCINAR, JJ E CR7 PEGOU",
-      "canal": "#OS PIRADINHOS PELO MENGÃO",
-      "views": 3108,
-      "likes": 192,
-      "comentarios": 3,
-      "publicado": "2026-10-01T09:00:27Z",
-      "duracao_s": 649,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=rrr6LF1jEkI"
-     },
-     {
-      "id": "NmooDcxUXow",
-      "titulo": "🚨 ARRASCAETA VAI PASSAR POR CIRURGIA! Preocupação no Flamengo #futebol #flamengo #loucosporfutebol",
-      "canal": "SIN NEWS",
-      "views": 1804,
-      "likes": 21,
-      "comentarios": 0,
-      "publicado": "2026-09-29T22:18:42Z",
-      "duracao_s": 15,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=NmooDcxUXow"
-     },
-     {
-      "id": "_smtjHOgyes",
-      "titulo": "Notícias Urgentes  Arrascaeta Cirurgia e Retorno ao Flamengo #futebol #flamengo",
-      "canal": "CORTE DO FLAZOEIRO",
-      "views": 1664,
-      "likes": 82,
-      "comentarios": 2,
-      "publicado": "2026-09-29T21:26:07Z",
-      "duracao_s": 48,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=_smtjHOgyes"
-     },
-     {
-      "id": "QNeB6Vj_oZw",
-      "titulo": "Arrascaeta  Cirurgia no Braço e Recuperação Detalhada #flamengo #futebol",
-      "canal": "CORTE DO FLAZOEIRO",
-      "views": 1628,
-      "likes": 68,
-      "comentarios": 0,
-      "publicado": "2026-09-30T22:12:42Z",
-      "duracao_s": 40,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=QNeB6Vj_oZw"
-     },
-     {
-      "id": "6pUfJ_247VQ",
-      "titulo": "🚨 ARRASCAETA VAI PASSAR POR CIRURGIA! E O ESTUDIANTES QUER MARCOS ROJO 👀🔥",
-      "canal": "bola em 1 minuto",
-      "views": 1393,
-      "likes": 36,
-      "comentarios": 1,
-      "publicado": "2026-09-30T19:13:33Z",
-      "duracao_s": 95,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=6pUfJ_247VQ"
-     },
-     {
-      "id": "hnxorjPVuts",
-      "titulo": "🚨 FLAMENGO DEFINE CIRURGIA DE ARRASCAETA E JARDIM GANHA NOVO PROBLEMA NA LIBERTADORES!",
-      "canal": "CRF-Raiz1895",
-      "views": 1337,
-      "likes": null,
-      "comentarios": 0,
-      "publicado": "2026-09-29T22:45:26Z",
-      "duracao_s": 68,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=hnxorjPVuts"
-     },
-     {
-      "id": "BPFtBk24Iz0",
-      "titulo": "Arrascaeta tem data marcada para cirurgia no punho",
-      "canal": "Fla Informa",
-      "views": 1278,
-      "likes": 26,
-      "comentarios": 1,
-      "publicado": "2026-09-29T18:45:37Z",
-      "duracao_s": 29,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=BPFtBk24Iz0"
-     },
-     {
-      "id": "51GzARBEnqo",
-      "titulo": "Quem pode substituir Arrascaeta no Flamengo após a cirurgia? #flamengo #futebol",
-      "canal": "Mtesheik Gamer ",
-      "views": 1264,
-      "likes": 37,
-      "comentarios": 2,
-      "publicado": "2026-09-30T08:00:04Z",
-      "duracao_s": 178,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=51GzARBEnqo"
-     },
-     {
-      "id": "MkugqSafIVQ",
-      "titulo": "Só na final  ! Arrascaeta  passará por cirurgia e perdera a semifinal contra o Estudiantes",
-      "canal": "fã  da bola",
-      "views": 1251,
-      "likes": null,
-      "comentarios": 4,
-      "publicado": "2026-09-29T17:27:26Z",
-      "duracao_s": 66,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=MkugqSafIVQ"
-     },
-     {
-      "id": "kiLjmEFWa8w",
-      "titulo": "Flamengo define data de cirurgia de Arrascaeta após fratura no punho; meia desembarca no Rio nesta q",
-      "canal": "Flamengo Agora",
-      "views": 1184,
-      "likes": 31,
-      "comentarios": 0,
-      "publicado": "2026-09-29T22:21:37Z",
-      "duracao_s": 29,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=kiLjmEFWa8w"
-     },
-     {
-      "id": "YU7BL_X2EpA",
-      "titulo": "Arrascaeta passará por cirurgia no punho",
-      "canal": "Rádio Tupi",
-      "views": 1133,
-      "likes": 16,
-      "comentarios": 0,
-      "publicado": "2026-09-29T19:00:48Z",
-      "duracao_s": 22,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=YU7BL_X2EpA"
-     }
-    ],
-    "consulta": "Flamengo Arrascaeta Cirurgia sucesso",
-    "n_videos": 25,
-    "mais_de": true,
-    "views": 301289,
-    "top": [
-     {
-      "titulo": "APARECEU A SOLUÇÃO! FLAMENGO PODE USAR CARTA NA MANGA! CIRURGIA DE ARRASCAETA MARCADA! BRASILEIRÃO!",
-      "canal": "FLAZOEIRO",
-      "views": 159768,
-      "url": "https://www.youtube.com/watch?v=m1PJITFl-oI",
-      "publicado": "2026-09-29T20:58:07Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "🚨 EXCELENTE NOTÍCIA PRO PALMEIRAS! FLAMENGO PERDE ARRASCAETA E ENTRA EM ALERTA!",
-      "canal": "Canal do Verdão",
-      "views": 22396,
-      "url": "https://www.youtube.com/watch?v=y5oXjommMmw",
-      "publicado": "2026-09-29T23:00:12Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "TROCA DE PATROCINIO NO FLAMENGO | VOLTA DO BRASILEIRÃO | ARRASCAETA: CIRURGIA MARCADA",
-      "canal": "Resenha Rubro-Negra",
-      "views": 21556,
-      "url": "https://www.youtube.com/watch?v=s3La_QB7IQE",
-      "publicado": "2026-09-30T10:00:15Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Tuma Júnior admite risco de eleição do Corinthians não acontecer",
-   "categoria": "Polêmica e bastidor",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 67.2,
-   "sinais": {
-    "busca": 30,
-    "aceleracao": 74,
-    "midia": 75,
-    "aderencia": 100,
-    "youtube": 71
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "corinthians x internacional",
-   "termos_trends": [],
-   "n_fontes": 5,
-   "n_manchetes": 5,
-   "assinatura": "corin|eleic|inter|risco",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "Tuma Júnior admite risco de eleição do Corinthians não acontecer. Tem gente no Corinthians puxando para lados opostos, e essa conta chega no campo.",
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Escalação do São Paulo: com novidade no ataque. Nem todo mundo no São Paulo vai gostar disso, e eu vou explicar por quê.",
     "titulo_thumb": "QUEM TEM RAZÃO?",
-    "pergunta_enquete": "Qual sua opinião: Tuma Júnior admite risco de eleição do Corinthians não acontecer?",
+    "pergunta_enquete": "Qual sua opinião: São Paulo x Santos: Veja a provável escalação do Peixe?",
     "tecnica": "Conflito",
     "ganchos": [
      {
       "tecnica": "Conflito",
-      "texto": "Tuma Júnior admite risco de eleição do Corinthians não acontecer. Tem gente no Corinthians puxando para lados opostos, e essa conta chega no campo.",
+      "texto": "Escalação do São Paulo: com novidade no ataque. Nem todo mundo no São Paulo vai gostar disso, e eu vou explicar por quê.",
       "thumb": "QUEM TEM RAZÃO?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Dizem que está tudo em paz no Corinthians. O que acontece nos bastidores mostra o contrário.",
+      "texto": "Escalação do São Paulo: com novidade no ataque. Parece notícia pequena. Não é.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Tuma Júnior admite risco de eleição do Corinthians não acontecer. Quem ganha com essa confusão? Pensa bem antes de responder.",
-      "thumb": "E AGORA, CORINTHIANS?"
+      "texto": "Escalação do São Paulo: com novidade no ataque. Isso é bom ou ruim para o São Paulo? Responde antes de ver a minha análise.",
+      "thumb": "E AGORA, SÃO PAULO?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Minha aposta: essa confusão do Corinthians ainda vai ter mais um capítulo esta semana. Guarda esse vídeo.",
+      "texto": "Escalação do São Paulo: com novidade no ataque. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Dado",
-      "texto": "20 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
-      "thumb": "TODO MUNDO VIU"
+      "texto": "O torcedor está digitando “coutinho ta em qual time” no Google agora. A resposta não é tão simples.",
+      "thumb": "VOCÊ PESQUISOU"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "intervenção judicial no Corinthians",
-     "fonte": "tmc.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTDFrX211aVVfTFNYV0F1V1dyb2ZiRF9hOTlRclhMRlJ5VG1nNDQwTWVLYmptbE5vZkZ6NEk2OE5Oa2V1bHRnUDh2YWhfVGhKMVlIT0FnWVpxS2pOaV9ZeWZ4cEZyeHF2dzQydjNnR19DdHFfaVBhYzlEWEQ4Q0Z1RXU4SUV0R2Y1LTJIVVJkQTJjRFNaajZwVDRDOW9fR1VuV21HR2xXVUtTbWRtc1k2UkREVHR1c2d3VmV6di1SWEdsdw?oc=5"
+     "titulo": "São Paulo x Santos: Veja a provável escalação do Peixe",
+     "fonte": "Tribuna de Jundiaí",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUnFkVHFiaUZGa19yMG1hUHhfbXFrekxmQlRrX3l6Y3l6NW9Va05HZURFazdMU0d3ZmpONjZxRDd5UWhTaURwMWJESThaNEdWUEVjMC1xaklMcGJjZElHaU0wcUZtTTY3ZlpFNHp2XzlnQmhyOFpldDBMbm9nRHlzX1ZrVGhnVjZad0c1VWlMSzFYcHgwdWtyWm1Ub3ROZ05pdWc?oc=5"
     },
     {
-     "titulo": "Risco de intervenção judicial ameaça eleição no Corinthians; entenda",
-     "fonte": "band.com.br",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUFBSZDBaLXZfY2JaX0NHT3c3c3NrSkRzdF8zRzhXa0hzaHNFVnQ3ZEd0bnk5eDRVNGYwVUVfTzYzQ2lkOE53WTVPSmJhblNfUWJWVV9lMDk4U0hyMjllTEhUNjBwYVItQVp4TzlBb3BnZEViUWpnZkpVa2pnLWpuUkJibmVqM0tBaGhvRllKUnlaTmZseFpjVDJlQTRVNnBlbTFHQzhXZWNJYWVwMW1KNlNTY2s0Xy00YjdCTVlYUGhkY08w?oc=5"
-    },
-    {
-     "titulo": "Corinthians abre registro de candidaturas com eleição sob risco, diz presidente do Conselho",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTlhaSEhwRllsSmRDR3RveGc5X2FqVHlxTlhieE9rdExobERpZER2WDNITXN2OHBOSFBSeC0zWXB6b1ZyTjFFOURJazMwMG1ybTVGbnhEczJ3bFZxem95Wk1mdmdnejEwNnVvdklDUEVEbTkyZTZjaDl4TmNFOXMwd3dXNGNyc29UZ19hT1VZdDJuTVM2LUNaV09lVW1xTHZkcnhQcWZHZmxKbUFMOGNuZzQwV0VmQU1nVU12VWJicTJRc0JkNXpiQXNvT3lNUUdIV3MzZmxoZGFOUHU0aEgteUxoUVlCTjJnR3lTd2drNmd4a0U?oc=5"
-    },
-    {
-     "titulo": "Tuma Júnior admite risco de eleição do Corinthians não acontecer",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObHlqRVJrelJ2Y2otdG40c04yLWt3emR1b1RhRVhSbmFBc0VWU3htYVlzNF9qdXZneFF3Tk1aRjNwWkFaMGFJcTJ3Q0FfVEllMkZ2M0x4Nzg2NE5rQlVlTEtjaGF2SmxtbXBGcGc4YTRaRkUyZjJwbm1JZ2pFZTl2dXBwTDdVM1pmSWNsNk8xNVpSSUliWmh0RjczeGxQODdJX1V0eUREcDJrdjlaSU5JbF9zRWpYaEZuT0ZXQS13OWk2NThiTHJqOUozY0tvVERJZ181SXZ1ajVoVVgyTWhxcUFNdnJUSGlSNmNxVg?oc=5"
-    },
-    {
-     "titulo": "Romeu Tuma Jr. diz que eleição do Corinthians pode não acontecer e admite chance de intervenção",
+     "titulo": "CRB desembarca em São Paulo para enfrentar o São Bernardo; veja provável escalação",
      "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPN3czN2x4S3d6cFFOLVZVbGtTRWlOZjlMRHRoTERzZWFnbnZpTmlDZnZTbHhUXzZGRE1kZlRMem1vTWt4UDZqSC1TMWpUME51UEk1X1NJczBXRDZrdlY1dEZCUjViNDNnak15MkQtOG81U2djcFZUY1FpUGdkZFFJay1kam9jUFBIQ3o5YjVqNHZWcGIzTkpza0E3Z2IwNWM1ZThHek9MT0s0Sk8tTVBmR1RJSEpoUXoxT050ckxHYzZCUXN3d3hrVTZlNllnNmRVczE4WU1oXzFFMDE4RWkxZDh5cFRhYjBwY0RkTzlBZ2gxRzd0ejVFNWt30gGIAkFVX3lxTE9IOGpLWGhFeno5LVNpUGE3UkFqeEtkRDVoSExKYmE2V1IzcF85YmVxNTM2cVFrZTc0VHVBZ3pRd0lmNm5KVERzR2xTTjdyTVVEbnJMWDlCUi14UjlzRm9MenFsTDNDQ3hCUE1HUGhuU2tKVWFMVTg5WXNjMnBuQm5xcUlXLVBRRTRtckRhZ0c0QlE4WWdjYTF4VlVKWDAwZWtuMkVjNTByUGE3MXRXLXVEZUFKVkdObENMYU1VN2czbW9SUWRhaGIzTVVSMWczbzFkSDRrcnpmRXJqT0pORW9wNDdTYkd1emZRekJMNUw0ZUQ4d3VUOHY0bWc2cjgzR2dzalp0czlzaA?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNS3A0ejNWWWtfbFZqblQ0dWdUZUttb2RlZEtfeEN0bWVDdmd1cnBpTThYdVJmeFNhTGwtUktPWVVDUlVDdERGdUoxeGxld3p4MVRZVHowOFdaNlU0aFVzU0M3VnhUTFJtQklUSlFlS3h0dWltblFSTzRCUXZkdmNGQmNUMWYxazRLU1l5bkhqSHF4MGMwWjYyV29lcUtaQ3lZUWZtd21fbkEta1BSVXhRQTNzOHk2N2wxWVVZVjhQZnBtV1V3eVFOcW1WU1RBOUtWU3kwZEpFVkpaalZHVGV4eE9B0gHwAUFVX3lxTE5fdGh1YmFNZ2M0NlM4UDl6NXh2UGlpM0NqX1NKS2JteHVxV1RDNFZYUXp1UGtOOHE5bjZCVmY3aTNTcjBsUlZDdEZmMXM5TE9NdllmV3J2MHU5bGc0TXlnNE9lX0E5RS1nTTM4Mkt1TU1jSl90NjlpNXFsYWsya3VlVlFMTU15SnZvSFdPRlV5NEo0SlB2NXVRdWxwWXR1alFtWjN3V1htTDFwWHJ3S1BRLThWOXFkX1BWYUpndmRiMHF4d19DNzNPcTdFX3RodEVKNEpSVHNyWk5LNXl6SWYxNkFJZjZkYmNLbG5kZGRjSw?oc=5"
+    },
+    {
+     "titulo": "São Paulo x Santos: Veja a provável escalação do Tricolor",
+     "fonte": "Tribuna de Jundiaí",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdjNSRmJQTzBMVGp4bW1pZmpHZGZHcGxxamd5UTEtNE1odkUwN2V6bS03dkxzOHpjd1lnVjZWOUxVWDFTWW81WDVpZG43OG94NDRLQ2ZWSFRIUHpLUk85REQ5QXhyM0tnQ09fS2xCSlJZTHNEY3k0TkJGQnhXSnNra0xpS2FjVGs4RDJaSVJkdDdCVGN2Tm9oVXJfank5N3c?oc=5"
+    },
+    {
+     "titulo": "São Paulo deve ter novidade no ataque para enfrentar o Santos; veja provável time",
+     "fonte": "tmc.com.br",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1pHOTJ0Qzlqbk1nYlRXVFlQTHQteTdvam9JVThQdTJFN0xrbzZyX0tXTTFiTUFid2hmdkNOMy1JMFdzR2JEczZBQ0tTWl9zQzZ4TV9mV0JDRHhPYzBBY05qNkhKUXMyQVRIWHBJYk5md1ZyTk1fUFRMWUxLVUlhWFZ6OGprUGdRSXpRem9kTTA2SVVtVlZUeF9EQ0U5SExjazluMTRRQXNaQmNL?oc=5"
+    },
+    {
+     "titulo": "Escalação do São Paulo: com novidade no ataque, veja provável escalação",
+     "fonte": "band.com.br",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc0dWVjB0akJLS09tdnV1bTV3UUFZblc1TDhaUk1OVkRkREtpZy1ZclNMbml0Q1Z3TXkxbUN4NjhjcnlHX2ZfY25JRG9XX0JkNkp6TzVReVRQZDBZbjlYTVBJSU9VNjJaUTk4TGlEZDB1ZFBRSDlQSTRjR3RUcEU3LVE2d294TnJLdUR5YW9PQm53QlI4MVN3UU1PSm9MN05qaUtCOGdPdmNkSzM2SGF0d1BKeGZyaTQ1WUhkZEpNTl94dVha?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "CXfiY8R2Egw",
-      "titulo": "ROMEU TUMA JR. ADMITE RISCO DE INTERVENÇÃO | ELEIÇÕES EM RISCO? | YURI VOLTANDO | CHAPÉU NA SAFIEL +",
-      "canal": "CTC - Canal do Torcedor Corinthiano ",
-      "views": 7887,
-      "likes": 335,
-      "comentarios": 0,
-      "publicado": "2026-10-01T13:21:45Z",
-      "duracao_s": 7998,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=CXfiY8R2Egw"
-     },
-     {
-      "id": "11vP5WJg9aU",
-      "titulo": "ROMEU TUMA DIZ QUE ELEIÇÃO DO CORINTHIANS PODE NÃO ACONTECER | ATUALIZAÇOES SOBRE YUTI, BIDU E GP",
-      "canal": "IDENTIDADE CORINTHIANA",
-      "views": 6164,
-      "likes": 572,
-      "comentarios": 1,
-      "publicado": "2026-10-01T15:35:38Z",
-      "duracao_s": 7797,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=11vP5WJg9aU"
-     },
-     {
-      "id": "7i2OP2FjZQs",
-      "titulo": "URGENTE!| TUMA ADMITE RISCO de NÃO HAVER ELEIÇÃO e FALA em INTERVENÇÃO JUDICIAL no CORINTHIANS",
-      "canal": "Capitão Corintiano",
-      "views": 2064,
-      "likes": 49,
-      "comentarios": 6,
-      "publicado": "2026-10-01T00:17:58Z",
-      "duracao_s": 498,
+      "id": "sItg6bO2nsY",
+      "titulo": "🔥 NETO ALERTA O SÃO PAULO! SANTOS TEM JOGO DECISIVO E COUTINHO DEIXA O NETO MALUCO",
+      "canal": "LIGADOS NO PEIXE REACT",
+      "views": 5603,
+      "likes": 75,
+      "comentarios": 5,
+      "publicado": "2026-10-01T17:40:45Z",
+      "duracao_s": 802,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=7i2OP2FjZQs"
+      "url": "https://www.youtube.com/watch?v=sItg6bO2nsY"
      },
      {
-      "id": "T2o0w_R_WHg",
-      "titulo": "A eleição do Corinthians pode nem acontecer? Tuma Jr. explica o risco",
-      "canal": "Tapa na Orelha",
-      "views": 1983,
-      "likes": 109,
-      "comentarios": 12,
-      "publicado": "2026-10-01T11:00:08Z",
-      "duracao_s": 951,
+      "id": "MWbNTUHb4Sg",
+      "titulo": "Santos FC e a provável escalação do Peixe para sexta-feira às 20h contra o São Paulo. #santosfc #fut",
+      "canal": "A Voz do Peixe",
+      "views": 1225,
+      "likes": 24,
+      "comentarios": 2,
+      "publicado": "2026-09-30T22:40:22Z",
+      "duracao_s": 80,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=T2o0w_R_WHg"
+      "url": "https://www.youtube.com/watch?v=MWbNTUHb4Sg"
      },
      {
-      "id": "vc6pBEpH_1I",
-      "titulo": "🚨 URGENTE! ELEIÇÕES DO CORINTHIANS PODEM SER CANCELADAS? ROMEU TUMA JR ALERTA PARA INTERVENÇÃO JUDI",
-      "canal": "Trincheira Corinthians",
-      "views": 988,
-      "likes": 31,
-      "comentarios": 0,
-      "publicado": "2026-10-01T12:41:22Z",
-      "duracao_s": 4441,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=vc6pBEpH_1I"
-     },
-     {
-      "id": "2GVS0mvNJGs",
-      "titulo": "ELEIÇÃO PODE SER CANCELADA! TUMA ACREDITA EM INTERVENÇÃO NO CORINTHIANS",
-      "canal": "Pokazideia Alvinegro",
-      "views": 411,
-      "likes": 151,
-      "comentarios": 0,
-      "publicado": "2026-10-01T17:07:27Z",
-      "duracao_s": 7277,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=2GVS0mvNJGs"
-     },
-     {
-      "id": "74QlW9gkLi0",
-      "titulo": "ELEIÇÃO PODE SER CANCELADA! TUMA ACREDITA EM INTERVENÇÃO NO CORINTHIANS 📱",
-      "canal": "Pokazideia Alvinegro",
-      "views": 100,
-      "likes": 15,
-      "comentarios": 0,
-      "publicado": "2026-10-01T09:29:08Z",
-      "duracao_s": 7266,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=74QlW9gkLi0"
-     },
-     {
-      "id": "SAwKC0KHql4",
-      "titulo": "Romeu tuma diz q corre o risco de nao ter eleicoes no #corinthians  #VAICORINTHIANS #timedopovo",
-      "canal": "OIDEOTA",
-      "views": 0,
+      "id": "2odQepyZwQc",
+      "titulo": "SÃO PAULO x SANTOS: COUTINHO É NOVIDADE! Como o Peixe deve jogar? | PRÉ-JOGO",
+      "canal": "Papo Santista",
+      "views": 1,
       "likes": 0,
       "comentarios": 0,
-      "publicado": "2026-10-01T14:58:13Z",
-      "duracao_s": 177,
+      "publicado": "2026-10-02T01:30:00Z",
+      "duracao_s": 664,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=SAwKC0KHql4"
-     },
-     {
-      "id": "Ej7iHROUlLo",
-      "titulo": "Tuma alerta: eleição do Timão em 28/11 pode cair por intervenção judicial",
-      "canal": "É Timão na Rede",
-      "views": 0,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-10-01T14:17:08Z",
-      "duracao_s": 40,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Ej7iHROUlLo"
+      "url": "https://www.youtube.com/watch?v=2odQepyZwQc"
      }
     ],
-    "consulta": "Corinthians Tuma eleição risco",
-    "n_videos": 9,
+    "consulta": "São Paulo provável Peixe",
+    "n_videos": 3,
     "mais_de": false,
-    "views": 19597,
+    "views": 6829,
     "top": [
      {
-      "titulo": "ROMEU TUMA JR. ADMITE RISCO DE INTERVENÇÃO | ELEIÇÕES EM RISCO? | YURI VOLTANDO | CHAPÉU NA SAFIEL +",
-      "canal": "CTC - Canal do Torcedor Corinthiano ",
-      "views": 7887,
-      "url": "https://www.youtube.com/watch?v=CXfiY8R2Egw",
-      "publicado": "2026-10-01T13:21:45Z",
+      "titulo": "🔥 NETO ALERTA O SÃO PAULO! SANTOS TEM JOGO DECISIVO E COUTINHO DEIXA O NETO MALUCO",
+      "canal": "LIGADOS NO PEIXE REACT",
+      "views": 5603,
+      "url": "https://www.youtube.com/watch?v=sItg6bO2nsY",
+      "publicado": "2026-10-01T17:40:45Z",
       "do_canal": false
      },
      {
-      "titulo": "ROMEU TUMA DIZ QUE ELEIÇÃO DO CORINTHIANS PODE NÃO ACONTECER | ATUALIZAÇOES SOBRE YUTI, BIDU E GP",
-      "canal": "IDENTIDADE CORINTHIANA",
-      "views": 6164,
-      "url": "https://www.youtube.com/watch?v=11vP5WJg9aU",
-      "publicado": "2026-10-01T15:35:38Z",
+      "titulo": "Santos FC e a provável escalação do Peixe para sexta-feira às 20h contra o São Paulo. #santosfc #fut",
+      "canal": "A Voz do Peixe",
+      "views": 1225,
+      "url": "https://www.youtube.com/watch?v=MWbNTUHb4Sg",
+      "publicado": "2026-09-30T22:40:22Z",
       "do_canal": false
      },
      {
-      "titulo": "URGENTE!| TUMA ADMITE RISCO de NÃO HAVER ELEIÇÃO e FALA em INTERVENÇÃO JUDICIAL no CORINTHIANS",
-      "canal": "Capitão Corintiano",
-      "views": 2064,
-      "url": "https://www.youtube.com/watch?v=7i2OP2FjZQs",
-      "publicado": "2026-10-01T00:17:58Z",
+      "titulo": "SÃO PAULO x SANTOS: COUTINHO É NOVIDADE! Como o Peixe deve jogar? | PRÉ-JOGO",
+      "canal": "Papo Santista",
+      "views": 1,
+      "url": "https://www.youtube.com/watch?v=2odQepyZwQc",
+      "publicado": "2026-10-02T01:30:00Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "Flamengo faz o oposto do Palmeiras no caso Arrascaeta, diz Lavieri",
-   "categoria": "Jogo e resultado",
+   "tema": "Com Coutinho na lista, Santos divulga relacionados para enfrentar o São Paulo; confira",
+   "categoria": "Notícia do dia",
    "clubes": [
-    "Flamengo",
-    "Palmeiras"
+    "São Paulo",
+    "Santos"
    ],
    "foco": true,
-   "nota": 65.1,
+   "nota": 69.0,
    "sinais": {
-    "busca": 65,
-    "aceleracao": 47,
+    "busca": 60,
+    "aceleracao": 73,
     "midia": 46,
     "aderencia": 100,
-    "youtube": 57
+    "youtube": null
    },
-   "fator_categoria": 1.056,
+   "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "arrascaeta flamengo",
+   "busca_torcedor": "coutinho santos",
    "termos_trends": [],
    "n_fontes": 2,
    "n_manchetes": 3,
-   "assinatura": "palme|flame|lavie|arras",
+   "assinatura": "paulo|relac|couti|lista",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Flamengo x Palmeiras parece um jogo com dono. É exatamente aí que mora o perigo.",
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Com Coutinho na lista, Santos divulga relacionados para enfrentar o São Paulo. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
     "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Flamengo faz o oposto do Palmeiras no caso Arrascaeta, diz Lavieri?",
+    "pergunta_enquete": "Qual sua opinião: Com Coutinho na lista, Santos divulga relacionados para enfrentar o São Paulo; confira?",
     "tecnica": "Contradição",
     "ganchos": [
      {
       "tecnica": "Contradição",
-      "texto": "Flamengo x Palmeiras parece um jogo com dono. É exatamente aí que mora o perigo.",
+      "texto": "Com Coutinho na lista, Santos divulga relacionados para enfrentar o São Paulo. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Flamengo x Palmeiras: qual é o detalhe que vai decidir?",
+      "texto": "Com Coutinho na lista, Santos divulga relacionados para enfrentar o São Paulo. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
+      "thumb": "E AGORA, SÃO PAULO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Com Coutinho na lista, Santos divulga relacionados para enfrentar o São Paulo. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "O torcedor está digitando “coutinho santos” no Google agora. A resposta não é tão simples.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Com Coutinho na lista, Santos divulga relacionados para enfrentar o São Paulo. Nem todo mundo no São Paulo vai gostar disso, e eu vou explicar por quê.",
+      "thumb": "SÃO PAULO x SANTOS"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Santos divulga 24 relacionados para clássico contra o São Paulo, com Coutinho na lista",
+     "fonte": "Tribuna de Jundiaí",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcUV3RWszcXJqMDA4aE4wTE9WdmctQi1Zb3k0UVAxNkdkWjhUVXgxbXFSWllQS2pCdklDS1dEVy1DN0R4VW1YazBwVXNBeUdocGlTZUY2V0MtMUxWdHdFSkNsTVNfTml2bmxidVg0Y2RKcDNqWmhPTEtubXYzamlET1NhdGp4WHBnSDdaSWxhUWhTWmNiZ0ZvLUdTLXpPTEs4T29rNHh4TDhMcE1GRE1PWGtOV3pfUU82djVmRW4xbEJaMnZRc0h4cEVlSWM?oc=5"
+    },
+    {
+     "titulo": "Com Coutinho na lista, Santos divulga relacionados para enfrentar o São Paulo; confira",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTE1ZZkNYZmstVHowVGVfLWV6LUhTYllBN0RKUWZxMjJjbVR3X1A2ZXBDT2ZhbVdhQWdodEVaTXRJemFvWGFoVEpjcHBCa1hkWFJ6aHBzRXJ2VUZ5OW5GTkZ0TnoxZlJna1BxYjUtNGR4b0ZoY3NyNGxiT1l4cXdBT3lOand5MVRKaHdvQ3pSVmY2bmVDSFdpcnRvYldpM1dGZGE2cExsVG8xaC1SZ3kzUmxWbXlGQ0h5bzg1NjBn?oc=5"
+    },
+    {
+     "titulo": "Coutinho é relacionado para encarar o São Paulo",
+     "fonte": "Tribuna de Jundiaí",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdEZkamdJS011NnpRblc5ZXh6aXRGUl80dUlVUkRIem5QYlRRMHRRRlRkRGFUOW4yalF3OHVUVDhTRzJzT3l2U3dsZVoyeFlGZ1d5bEM4TGxiSFpxTDJoZlRxWEdKVmJkXzNRdW84dkRmSnkyZDhabUxxY19jQ2VUMzRwRHRPMEswbkxRNE5nVjV2bnpTdmNjM3V3?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Arrascaeta, do Flamengo, recebe alta após cirurgia no punho",
+   "categoria": "Lesão e desfalque",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 68.6,
+   "sinais": {
+    "busca": 60,
+    "aceleracao": 63,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "arrascaeta flamengo",
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "arras|flame|alta|punho",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "Sem Arrascaeta, quem segura o Flamengo nos próximos jogos?",
+    "titulo_thumb": "E AGORA, FLAMENGO?",
+    "pergunta_enquete": "Qual sua opinião: Arrascaeta, do Flamengo, recebe alta após cirurgia no punho?",
+    "tecnica": "Pergunta aberta",
+    "ganchos": [
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Sem Arrascaeta, quem segura o Flamengo nos próximos jogos?",
       "thumb": "E AGORA, FLAMENGO?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Eu aposto que o Flamengo [VENCE / EMPATA / PERDE], e explico por quê. Qual é o seu placar?",
+      "texto": "Eu aposto que [SEU PALPITE: QUEM ENTRA] vai ganhar a vaga de Arrascaeta. Você concorda?",
       "thumb": "MEU PALPITE"
      },
      {
@@ -1836,143 +1682,202 @@
      },
      {
       "tecnica": "Conflito",
-      "texto": "Flamengo contra Palmeiras vale mais do que três pontos, e os dois sabem disso.",
-      "thumb": "FLAMENGO x PALMEIRAS"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Flamengo faz o oposto do Palmeiras no caso Arrascaeta, diz Lavieri",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYkdEdUR1Mkl4SmgwNV9rb011NUFyV25nNEJfa3IySkdfNm5KLUo1cnYwVGRPRkg0TzhnSVpNOTYzZ3MwRE1QV1ZQSTFhRFM4M0JlQ0lsNEVzSWtrZmllSHFqelB1bUlUQWxoN0ZoQkFtOTloQ3dpR1phUno1bUVXZUMxRG8xXzdTZ0wxVnpsdUk2c24yczBqbllMalRxV0lWUGlob0RTTlhZTW94bUtaU3Z2TWF6a2dtWHBCTGZKQjJHOTAtcDQ4SkxoZTVYVXlZZWFj?oc=5"
-    },
-    {
-     "titulo": "Libertadores, clássicos e até 'final' contra o Palmeiras: os jogos que Arrascaeta pode perder no Flamengo após fratura",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUkdwcmlsWk9pRFIzSmlDaXMzTXlncUJGNG9WcTJpUG84U0hOQXNBYU5QaTZvd09NTjdOTnFfZ1ZFTEpKV0JSZFIwamhHSUtKZ3A1SVFkQmU1TlVkN0JRQXg0TFVQU21jeW9yWGNWWWJsWS11RW9TUWg4TVYxMlZwSFQ3Y1Bpem4xUlR1Z2pkc1hRT1RqYk0zZVdiVC0yeEVUSjJyVHNoRlpLSFZPeWRUaGIyVDFjWS1ZLTNrLVJiWjE4Y2pGUzJOTzh6RVpmUXpUNXg2Um1wc01LMFRNMUpWcXFzRQ?oc=5"
-    },
-    {
-     "titulo": "Fim das bets foi pior para Palmeiras ou Flamengo? Lavieri explica",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRXZkcGdxQm5qbDM4cGo2c1lqS3loMTVMRlo5Ujl1Z0NoenVGaE5zT0tGbDBlemVaUWVQVk0wZHdxOFVCRUlrb2JIZ1JLaGlCWDFydkpWYVBuMlRuNDFoTmh3WHVwejdzZndlaXc1QW1UWlliZEc0S0FQQXZvVEc4OG5PMERUZFB2VXpZeS1EdktMb2NaU1M1QnN2VGlSTFE5WkhIWWNTTXpUaWtpU2hqTnNzSU1zY2NNcGVhMk0tU3VRRTdJN3hKVWF2Zm4zN2NjSFE?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "mAi1pqXQgUU",
-      "titulo": "FLAMENGO FAZ O OPOSTO DO PALMEIRAS! DANILO LAVIERI MANDA A REAL SOBRE POSTURA NO CASO ARRASCAETA",
-      "canal": "UOL Esporte",
-      "views": 14260,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-10-01T14:04:53Z",
-      "duracao_s": 603,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=mAi1pqXQgUU"
-     }
-    ],
-    "consulta": "Flamengo Arrascaeta Lavieri oposto",
-    "n_videos": 1,
-    "mais_de": false,
-    "views": 14260,
-    "top": [
-     {
-      "titulo": "FLAMENGO FAZ O OPOSTO DO PALMEIRAS! DANILO LAVIERI MANDA A REAL SOBRE POSTURA NO CASO ARRASCAETA",
-      "canal": "UOL Esporte",
-      "views": 14260,
-      "url": "https://www.youtube.com/watch?v=mAi1pqXQgUU",
-      "publicado": "2026-10-01T14:04:53Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Corinthians suspende parcela da Arena e negocia quitação da dívida com a Caixa",
-   "categoria": "Finanças e gestão",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 64.2,
-   "sinais": {
-    "busca": 62,
-    "aceleracao": 81,
-    "midia": 87,
-    "aderencia": 100,
-    "youtube": 0
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 5000,
-   "busca_torcedor": "corinthians x internacional",
-   "termos_trends": [
-    "caixa"
-   ],
-   "n_fontes": 7,
-   "n_manchetes": 7,
-   "assinatura": "corin|arena|caixa|negoc",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "Corinthians suspende parcela da Arena e negocia quitação da dívida com a Caixa. De onde vai sair esse dinheiro?",
-    "titulo_thumb": "E AGORA, CORINTHIANS?",
-    "pergunta_enquete": "Qual sua opinião: Corinthians suspende parcela da Arena e negocia quitação da dívida com a Caixa?",
-    "tecnica": "Pergunta aberta",
-    "ganchos": [
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Corinthians suspende parcela da Arena e negocia quitação da dívida com a Caixa. De onde vai sair esse dinheiro?",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Eu aposto que essa conta chega no elenco do Corinthians ainda nesta temporada. Você aposta em quê?",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Corinthians suspende parcela da Arena e negocia quitação da dívida com a Caixa. Dinheiro de um lado, time do outro: alguma coisa vai ter que ceder.",
-      "thumb": "QUEM TEM RAZÃO?"
+      "texto": "De um lado, o Flamengo precisando de resultado. Do outro, o departamento médico pedindo calma com Arrascaeta.",
+      "thumb": "SEM ARRASCAETA?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Corinthians suspende parcela da Arena e negocia quitação da dívida com a Caixa. A manchete conta uma parte. A outra parte está nos números.",
+      "texto": "Arrascaeta, do Flamengo, recebe alta após cirurgia no punho. Parece só mais um desfalque. Não é: muda o jeito do time jogar.",
       "thumb": "NÃO É BEM ASSIM"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Corinthians interrompe pagamento da dívida pela Neo Química Arena em meio a negociação com a Caixa",
-     "fonte": "VEJA",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY2VNcGtLcnZYOW42YVBabUtzUkRGVkx2Z1pja0NlSFZSak9sNEJDd1dtdVg3SzhROVVLVjRmNGhzY08tbFFTRGp2NFQ4N1lTeTBzZjA3azUtMS14OWlrM2xaZVpEdGF4UEY4NWF5SjAwOHdxMXl1TmZ3YnFDQ0Jyb0U1OFl0YzJhOFFLQS1HdjNRWWNhd191akkzclFyU2pubGZGd0NIZ29qRV9qQmNoOHdDbTNCYWhlYnAxdkoxTDQ5VW5VWlRueElkdkhxUQ?oc=5"
+     "titulo": "Arrascaeta recebe alta após cirurgia no punho; veja boletim médico do Flamengo",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWDgzemlqNW51bVIwYjloZkxvNmkzOFpSaVMwbzlrODVldEV3eC1CUXREX090dlNidENiSTZfRWw3NVFzVXUyY2tkTVBVS1lJajZyeUdhWTduQ3MzN3AyU0JVT2RIZWlUa1NDVklselVHMFozZDNrRTh4OW1QR0xkUUFDTm43Y0NaQWdpblZmTFc5NHVMVXppYXZoampNYWxUNUdMY25uM0pPdlc1Qk5NamQ2MlVScjJVS3RKNVQyRW9RWks1X09jdzRudE9yQQ?oc=5"
     },
     {
-     "titulo": "Corinthians suspende pagamento da Arena e fatura pode dobrar",
-     "fonte": "tmc.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT3BSNnFlNWpSVS01aFg1V0VTVERKUEtvRmdldXpLMVU4YUI1d3hjWHV5a0hfMUdsTDFvUU02MzdMUGNEbmxmY05HcjhiMGNJYkxxYUpRYVhieWtjMTJTMEY0bWNMa0hGbi1xNFV3QjF3NmpDSC1MYVhCZF9seTZ5ejF4em9DN1hCcjJkNlpocmRVb3FwNFhWUmsxZGM5NTZmOG40eEtYRkZFWmswZzIzZE1WSm1Qbm0xTnYw?oc=5"
+     "titulo": "Arrascaeta, do Flamengo, se derrete pela mulher após ter alta do hospital: 'sempre para cuidar de mim'",
+     "fonte": "O GLOBO",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcDQ2RWNYOEYzWlY3Ui1ES0otR0V3V21XNy0wbzBnVWdLM0FDcTIzeS00QWdKYlJFZ3g3d3lCVGJMOURvZzg0OTRvSklqWjJQY21BQUx5LU1ISkZ2aWZJUVNKcDMzNXpldkhRMU1PaGVaOUNSWTJTUDZRX3lSV3pLYXgxZ2lMX01wMVBNVkVGRnY3WXdNdHNqYnY3RmY5X0t5eElqcW8xZTZtNWdNOGZtcUZMTkxiUVUwS01nSWpfNmhnOUJkcUY1ZmlqOHUxd9IB3AFBVV95cUxOeThvR2dHVmdETTJ1c3ZLSGVfZEQzMnRsX1RzTHlydDJWN1c1eWdnY0NKb2sxc1VmNFZINFh2aVhvczhmQ0tXVGQ1WWNjUUFPWkFpeThxaC1LRFh6RzZpcVRQX1N5OW4xM0s5U3VWeDZVOTFYT2MyeFMycnp5RVBVQklhcHRZdDJZSy1wS283V2UtRDZPRGVMX0MyM1ZwN3U4LWYxZU9JUHJuV1RsenMxU2FaTkVsUVQtU3FDLTRtUVZxMDlaWVZ5X3B4RDN0V0IteFc4S1FOMS04OFpy?oc=5"
     },
     {
-     "titulo": "Corinthians e Caixa suspendem parcela da Arena durante negociação por naming rights",
-     "fonte": "sportbuzz.com.br",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFp6ckNFbHByT29YZ0MtZU1rQWFKLXY0MUdmeTNZM0ZYS040YThUc0h3b2x5c2Y0SGVpYnZib1BzZ3RKRjFWQ240U056ZlhMM0lVeWFJWExWNTg0QVE0MEJZZGcyS2JlR3J0cGN5V3ZZREx0ZFU3cmN3UEN2dk8ydDJNSFlPUDlHWjJZOFhHekpscUpxUVBOZ3ZtOFhXR2V2bkpYcW1iTFc3dHhVSTdzeFRsN2c0NUVLWWFUMk9qSmY3SjlpQVpr?oc=5"
+     "titulo": "Arrascaeta, do Flamengo, recebe alta após cirurgia no punho",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYTV2bDlFeDJvODFkWFd6YTB4TUZBaVBJbHd6SXdReWZFekRHVmxzZTA1V054b21XRndESnhXczVWZ0dTV1VfTEkxWG9MUzZjY1ZJTjhvNkFJWmtmRkRmVmo1MGNud1BkdW04ekR6UG9qcmVVTW1BTHgtdTBubVludUsyMjQ4by02eVZSbDhZV2lwdkZObmxBd2NGU28tTGhoUE9QazFxcHo0SkdqUlYyd1Nsb2x0X0ZOUVhNM2l1T2rSAc8BQVVfeXFMTW9mS2ZCU01hVlZzeGY5bjhfSU9aNlVWZkx3VEVLcmx1RFlfU3BLcnhVc04wbGhHZEJsRUZUNngwWm5XdGFLWGlycUdQS0lpWXlIX1RpZlNPTnpBVDJiS0w5THZxZHN0VURDMjdxQWExMGhUS1BCSkEzTzhCQkxaOXdDWFZjQUJwMjBFSHdtc3I2OVdlcUNqQTdRaFJncUtLVkRQV1pCUHAzeE9temttbVN3Q0hHODVlQUVLeThGNkZoQnJzcmdGMURxLWRjZXpZ?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Fred revela interesse do Palmeiras antes de fechar com o Atlético-MG: 'Leila quer te levar'",
+   "categoria": "Mercado da bola",
+   "clubes": [
+    "Palmeiras",
+    "Atlético-MG"
+   ],
+   "foco": true,
+   "nota": 66.1,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 87,
+    "midia": 100,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 12,
+   "n_manchetes": 12,
+   "assinatura": "palme|fred|atlet|revel",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 3 min)",
+    "gancho": "Minha aposta é que essa novela do Palmeiras termina [SEU PALPITE]. Guarda esse vídeo.",
+    "titulo_thumb": "MEU PALPITE",
+    "pergunta_enquete": "Qual sua opinião: Fred revela interesse do Palmeiras antes de fechar com o Atlético-MG: 'Leila quer te levar?",
+    "tecnica": "Aposta",
+    "ganchos": [
+     {
+      "tecnica": "Aposta",
+      "texto": "Minha aposta é que essa novela do Palmeiras termina [SEU PALPITE]. Guarda esse vídeo.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Fred revela interesse do Palmeiras antes de fechar com o Atlético-MG. Nessa negociação, alguém vai sair perdendo.",
+      "thumb": "PALMEIRAS x ATLÉTICO-MG"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Fred revela interesse do Palmeiras antes de fechar com o Atlético-MG. Parece um grande negócio. Olhando de perto, não é bem assim.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Esse negócio vale a pena para o Palmeiras? Pensa bem antes de responder.",
+      "thumb": "E AGORA, PALMEIRAS?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Fred revela proposta do Palmeiras antes de acertar retorno ao Atlético",
+     "fonte": "Araraquara News",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQlVCS244MmxCNU1qSkFJU0xXd2FRdFpVREQ2MlpxTmtiX2xNQ0lWZ2dzZUVQR2ExZm9jRl9MMGJFcXAyQmtRRjJPX09sOHFzVEN3d29qN1A5dURFSG53X1NiQkt5bjZPSW5haXJUYVdCZUFmM01PeGo5UzFmNjZYekw2ZlhLTHVLMzQ4M2xMOXNjZHdCNkFmbHR5S0RkS0NvT2ZFQUNidjNoempuWjhKd2p3?oc=5"
     },
     {
-     "titulo": "Corinthians avança em negociação com a Caixa",
-     "fonte": "Tribuna de Jundiaí",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdTF6LTllTzhlRkFPMlgzcFNoNTRGWjdvWTl4QzlScm5WVHRRSUF5UGlmaGZhREJZRDBRdENSQmlLZkhsQm9UX3lEVGZrZE5DV01XbzRobVRYY00wUkxDWUVKT2JFQ3NWUjlhM0IydFlXZmVGOEVBdW5GTjNIbEpWWFhQNzRwTEJmeFdiNFdKSkN2cWFvNHc?oc=5"
+     "titulo": "Fred revela interesse do Palmeiras antes de fechar com Atlético",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZUJNdVJEVkllSFRVSGJEcFhPQnJOTW1Vb0JsN29GU25RM2stSGp4M2RYR2xydEtLWkI2VUtBZkVhTnhYUEtxNGhZcmZJZ2NvWjlnc2hpOHNybjcyZDJjYl9JaUpjdFBMckFLY1cyQ0xkOG5XNWUwSjdZRHhranRaUVVsZzgzTEFYSDZucWVycHJOWU1YYmUwWHctcVJRMTNCUHE0bFFrZXRmRFpGeG56Z2p2MmxaaVAwLVJSZ1FneWo3Vk1HbDlpbVBQV0lLVWRzbUNocTA5NWRrb2hTODBlbTN0UE1Zb3V0Q0NhNg?oc=5"
     },
     {
-     "titulo": "Corinthians suspende parcela da Arena e negocia quitação da dívida com a Caixa",
-     "fonte": "Diário de São Paulo",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNGJ3RWUxMVVGVmZnUkdZeDQtR3NMMEV5M0c5RW1TdW00TTB6WFd3clo2U05jaDE5Z2ZmZndLTkZUMDc2Q2tMN1FIRzllVUVYekgyeU9WMUI1UWZnMk5uSHJnVlFEdlpuN3pKbEhZR1lzTWFFdzBnb0doTU50YnBCYnlkQXFoOG1mSEhaRjQtc0I3UTdKS3BKZzNjb0xzRnBjNFl3TW9CRzctMmcyZDBkMERHT05QTzZPOGF3cTh5SzZDV0XSAcgBQVVfeXFMUHVqS3V5T25sUFFMeGVkY1Jaajd4TmVuS3FzUTJwYm45ZEZBY21PTEJETVlnMjg3eTZtSXYxcHUwVXpYZmtNZnFLVVNRaDVTVVBQYjQ1emxQSGczRWd6bVd1dVdQMGxjMTllQ0RsbmNoSDd3V0Jtb0YydjZIWU5EQmZqaWR6bWJZV3liR3Q4VTU2R1VhajdQUUZWRXd6QnlVa0p6eWRPUzdvOWp4M3RLTDRQWmloWDVNXzdNb29DcWlCNUktT0dPNFU?oc=5"
+     "titulo": "Fred revela ter recusado o Palmeiras antes de fechar com o Atlético-MG",
+     "fonte": "365Scores",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOelhtOFpUa3M5MHRhSEZzRFpFeWd4YkNmbUZLa3kyQlljSGNMMXFIbmhUQ1JScEhNdkZpLTNWZDNxdVJBMmFRYjJ2cWhxSGVmSkpmdXF5bk5OOGx3RTJ5ZWV1UDI3YUoyMmVlbTkydmJmbm5xNVBLcUtrdjFVQUtZSHNqWFlHcmdiNndBcUVueU1OS0cz?oc=5"
+    },
+    {
+     "titulo": "Fred, do Atlético-MG, revela que empresário tentou acerto com o Palmeiras",
+     "fonte": "Metrópoles",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ2J2ci1PY21JMTFVWHY2NGVxVHhwSVJsUFJPN3JNZXcyRGt2eUkzYkw3djh2dnZNcE40NnpaQjJEbXhxZU5KT0s4UHNEUWwyTjVmOF93MjBtYU5zRXA3UGx0ODYwdU5rd3hPMVJaR3lQWFppZnFPTDhDWDNhUnZEZkdiRERqUi0xODQtaG1nbVczRk84a1VfRWM0Qm1pSzFSN05hYmRZRkU2cHM?oc=5"
+    },
+    {
+     "titulo": "'Leila quer te levar': Fred diz que recusou Palmeiras pelo sonho de voltar ao Atlético-MG",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdWhfSWpudnZSYjdUNS1YTjl4TE9GZl9QSTFxS1czQURJbERfbkgyZ2hFVTBicU5aLXJuRFJDUlhtLVcwVFNRTjhoSHVzZk5rVUZqZ0lnS190ZV9CalJOZ2lGbmpFcGhINlZJdDd1QXA4UEtuSXVvcFdtMFpwYzdRN21QZV8yUEdLa2ZRMVdobk1KaTlRd21jWDJra2lPQkEzSzEzeHAyZ2d6bEFBRTRxalMxSXkxX3BacG1ZWFlOX1pwRmdCNXB6WG9aWUR3b29HY3ZrOXo5dFU?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Conmebol multa Corinthians em 23 mil dólares por incidentes em jogo da Libertadores",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 65.6,
+   "sinais": {
+    "busca": 40,
+    "aceleracao": 91,
+    "midia": 92,
+    "aderencia": 100,
+    "youtube": 0
+   },
+   "fator_categoria": 1.056,
+   "trafego_google": 0,
+   "busca_torcedor": "corinthians libertadores",
+   "termos_trends": [],
+   "n_fontes": 8,
+   "n_manchetes": 9,
+   "assinatura": "corin|multa|conme|liber",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Corinthians recebe multa de R$ 120 mil da Conmebol. Quase ninguém fez a conta do que isso significa para o Corinthians.",
+    "titulo_thumb": "R$ 120 MIL",
+    "pergunta_enquete": "Qual sua opinião: Conmebol multa Corinthians em 23 mil dólares por incidentes em jogo da Libertadores?",
+    "tecnica": "Dado",
+    "ganchos": [
+     {
+      "tecnica": "Dado",
+      "texto": "Corinthians recebe multa de R$ 120 mil da Conmebol. Quase ninguém fez a conta do que isso significa para o Corinthians.",
+      "thumb": "R$ 120 MIL"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Conmebol multa Corinthians em 23 mil dólares por incidentes em jogo da Libertadores. Dentro de campo acabou. Fora dele, a discussão está só começando.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Conmebol multa Corinthians em 23 mil dólares por incidentes em jogo da Libertadores. O placar diz uma coisa. O jogo, visto de perto, diz outra.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Conmebol multa Corinthians em 23 mil dólares por incidentes em jogo da Libertadores. Foi mérito de quem venceu ou erro de quem perdeu?",
+      "thumb": "E AGORA, CORINTHIANS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Conmebol multa Corinthians em 23 mil dólares por incidentes em jogo da Libertadores. Eu aposto que esse resultado vai pesar lá na frente. Você concorda?",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Conmebol multa Corinthians por incidentes na Libertadores",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOakhnMnA5UFROVE9CTXlBeGlFcVdJRHBsYXdQdmozM0hxczZZeXNjTEpWLU1pVzVXNGp0M1ROanBjbTJoX2VKY0IySzRQMkg0Q3YtUFpONGN5bzVKeUJrVlpWSDEwbWtXQnpoSmlXNkZmLXc4NzdrYXJTb0Z4RDVJRkxZZVBEQWZlRWxrVXdYVmdvbW9IV0tZSjdEUDJEYVZX?oc=5"
+    },
+    {
+     "titulo": "Corinthians recebe multa de R$ 120 mil da Conmebol",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOanl6Zjc1TDdPcnN1SnFGWnJDM3cyeV9Fd1o0ZkczVFZlSUxnZVcwSXdOR3htYTVNd0MzcWk4U1dTMXBTbl8yTHV2RFE1WmdxSXA4YW5jMUlrQ2E4OXNDdk15eXlEekhoczRYVEVqNHQ4SjlrMXlmWko4d0dZRnZQNEFuUDU4bHJlQnl6UU9qV3QwTXFvNFlEZGl1cEpsNXVITExhUWczakxtNHl2VzkzMmNjWE92eVZRTzFmdk1wanVQTEZ2OXJUWmFSUDM2TDlFc1Rkb3M2M3o?oc=5"
+    },
+    {
+     "titulo": "Mesmo eliminado da Libertadores, Corinthians é multado pela Conmebol",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVVNNSU12Y3I4OVUwRkFCQmdKTG9qa0ZPS0pDYV9UamE0TmtFN0w4T216S1QtRWQzR3lUamRuWFVfY1lVZi1rc1NUTzVSUF9zWFc1bU9ZcWlTWWs5VllURWh5a2F2WHBidEllWUhPanBjb3BMR1dkazFxaGVfcHRvbjVxZDRaWW1ubmNSTWFTVjNKaGNoQTNCWU5yb3FSY0lrSzh1TW5HWmNNYkVFSkZLVGZTMWVpSHNoendPVmNid0Y0UVluZ3psdVBMRnpmWF9McWFwQ3hsaWZjZldJZmpoN2I5ajd5aDF3c3JWSl9hS3U?oc=5"
+    },
+    {
+     "titulo": "Corinthians é multado em R$ 120 mil pela Conmebol por ocorrências contra o Estudiantes",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVkNMNlpMOTVwZTl5U1dIc0RnbTNobXNraTkzTVlybjJXOWxvU0dIXzlXcUxQbDhCSHhmNDA4YjdLWFRlOXdlNDBoSmNnSlpCSmo4YjVzYVV5Zng3UzVjSmRvcHAtUlNvOXZMRVdkUFBlRUMybDV4MW9odExPLWV3YXZZNWVSVk1EMy1taExBYWNXeUY0eG01aFlfTG9mbS1nWTJlb1dnbVJEYnNWQlNFeGItME5jdG9EZkozTFIwMnI3cUxhdDBaWHhHRm0xZkFPOFHSAdcBQVVfeXFMTUhoSHRkdFFGbjVmRHcxeGdYbV82NXpIcXN6UGJkbWg4OC1ad0dha3IxVUJWZW9HLXR1YTJRdHY4NkMtWUM5OGFwRXgzVzlISk9GVFVjZl9JR3prNkpwQ21fQ3RSWE13QTJ1T1E3aDg4ejYxTHRXaklHS0ZoMEVIRFE2OERPbHM5LVduWWlwM0E5d0pvRklLUHJHN05WTmlPdDJIZEd3QXJWM0UtZ25wdHBJY3MyTTZEVkpRY2U0VzFHOVFhaGszakxscGhqR1oxdlc0cERrZ1U?oc=5"
+    },
+    {
+     "titulo": "Corinthians é multado pela Conmebol por atitude de Memphis na Libertadores",
+     "fonte": "cnnbrasil.com.br",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWFJ3WHhpak1xQjkxVVBzZUQweFR1X0ctVE42TUdxU3lqZDZiT0RnaFlfNl9NT0pKczR2ck01RHZQeVFGcGF0U0drQy1mbHljUEhjSE1mV25ycXVmcXJDbkl4TE0xS3l3VFNnR21mX1NDZnZ4eWhkTDRXT25WV0h0c2Z3Q045eVlZVnNXRmh5VHkzX1NIVV9CUk1VU21RWFFLNEpsNll1NEZVLVFaTVBGTlgtSXd4aWsyakw3U1dwRWhQR3JlcXhiM2J0dkVBdw?oc=5"
     }
    ],
    "youtube": {
     "amostra": [],
-    "consulta": "Corinthians negocia suspende",
+    "consulta": "Corinthians multa incidentes",
     "n_videos": 0,
     "mais_de": false,
     "views": 0,
@@ -1980,200 +1885,353 @@
    }
   },
   {
-   "tema": "Assista ao amistoso da Seleção Brasileira Sub-20, de Ramon Rique e Bruno André, contra os Estados Unidos",
-   "categoria": "Seleção",
-   "clubes": [],
-   "foco": false,
-   "nota": 62.2,
+   "tema": "Escalação do São Paulo: Ryan Francisco deve ser titular no clássico contra o Santos",
+   "categoria": "Mercado da bola",
+   "clubes": [
+    "São Paulo",
+    "Santos"
+   ],
+   "foco": true,
+   "nota": 63.7,
    "sinais": {
-    "busca": 75,
-    "aceleracao": 64,
-    "midia": 87,
-    "aderencia": 70,
-    "youtube": 67
+    "busca": 60,
+    "aceleracao": 72,
+    "midia": 100,
+    "aderencia": 100,
+    "youtube": 0
    },
    "fator_categoria": 1.0,
-   "trafego_google": 2000,
-   "busca_torcedor": "estados unidos",
-   "termos_trends": [
-    "estados unidos"
-   ],
-   "n_fontes": 7,
-   "n_manchetes": 9,
-   "assinatura": "estad|unido|sub-2|brasi",
+   "trafego_google": 0,
+   "busca_torcedor": "coutinho santos",
+   "termos_trends": [],
+   "n_fontes": 12,
+   "n_manchetes": 15,
+   "assinatura": "paulo|santo|class|escal",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Lista ou ranking (3 a 5 min)",
-    "gancho": "Minha aposta para a vaga de Estados: [SEU PALPITE]. Qual é a sua?",
-    "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Assista ao amistoso da Seleção Brasileira Sub-20, de Ramon Rique e Bruno André, contra os ?",
-    "tecnica": "Aposta",
+    "formato": "React rápido (1 a 3 min)",
+    "gancho": "Escalação do São Paulo: Ryan Francisco deve ser titular no clássico contra o Santos. Nem todo mundo no São Paulo vai gostar disso, e eu vou explicar por quê.",
+    "titulo_thumb": "SÃO PAULO x SANTOS",
+    "pergunta_enquete": "Qual sua opinião: Escalação do São Paulo: Ryan Francisco deve ser titular no clássico contra o Santos?",
+    "tecnica": "Conflito",
     "ganchos": [
      {
-      "tecnica": "Aposta",
-      "texto": "Minha aposta para a vaga de Estados: [SEU PALPITE]. Qual é a sua?",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "23 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
-      "thumb": "TODO MUNDO VIU"
-     },
-     {
       "tecnica": "Conflito",
-      "texto": "Ramon Rique será titular da Seleção Brasileira Sub-20 contra os Estados Unidos. Clube e Seleção puxando para lados diferentes: quem tem razão?",
-      "thumb": "SEM ESTADOS?"
+      "texto": "Escalação do São Paulo: Ryan Francisco deve ser titular no clássico contra o Santos. Nem todo mundo no São Paulo vai gostar disso, e eu vou explicar por quê.",
+      "thumb": "SÃO PAULO x SANTOS"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Ramon Rique será titular da Seleção Brasileira Sub-20 contra os Estados Unidos. Era para ser só mais um compromisso da Seleção. Virou dor de cabeça.",
+      "texto": "Escalação do São Paulo: Ryan Francisco deve ser titular no clássico contra o Santos. Parece notícia pequena. Não é.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Se você fosse o técnico da Seleção, quem chamaria agora?",
-      "thumb": "E AGORA, SELEÇÃO?"
+      "texto": "Escalação do São Paulo: Ryan Francisco deve ser titular no clássico contra o Santos. E agora: o que muda para o São Paulo?",
+      "thumb": "E AGORA, SÃO PAULO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Escalação do São Paulo: Ryan Francisco deve ser titular no clássico contra o Santos. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "“coutinho santos”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+      "thumb": "VOCÊ PESQUISOU"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Assista ao amistoso da Seleção Brasileira Sub-20, de Ramon Rique e Bruno André, contra os Estados Unidos",
-     "fonte": "NETVASCO",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa0JPYmkwbTBucmZzZWUyWlFUNW5JczczSzJndGZmVjJZeVVIaThvb3hITWFTVm1NUDhFVU1xNkJ4d1J6bUJLWGgzb3RfcHNDSmZsZmFNcEYxdVN6SG9wWmRDT3RwdmN1MFAzMVBMNUpLQkZnTzZIZzVPWVBvQUF3ZUNSb0dOT1JBbzlLRkpCMW1UaXc4elhFMGdmZjJmMmtmenVNUlpBVnljakZDNGJDVXZodUVMUVM0MjlWU2NlU1ladmdBMHBsVDBEQVg2Wm1xeEJGRDV3?oc=5"
+     "titulo": "Com Coutinho, Santos divulga relacionados para clássico contra o São Paulo",
+     "fonte": "Metrópoles",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQempIeVd4TzJLWGVlMnB5OVREWWstV2p3dUJueFJkZ05oQmtwZ3h6WVhuS2FVRk9UXzM2V1NPYUgxanJNVlRWTVM1TzlLb0JhSEZ2RncxeW94QnpnV0I1a1FnTk4xWm5MLXU1UXVJTEdUQmVQOWtTa0lfVTZVMXdTbjJSMGkwUksycHJtbUFDVjdSVDU3OGx1TERyanVpcE5IVGx2M1ZHUHo5d3NDMFE?oc=5"
     },
     {
-     "titulo": "Ramon Rique será titular da Seleção Brasileira Sub-20 contra os Estados Unidos; Bruno André será opção no banco",
-     "fonte": "NETVASCO",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPM1gxamh1UmdqZExXWS1ld2NJWUt3X0QtSmRrbjVfRlNvYzZHaTRfV3pnLUlmbnVfRXFFVmhGQWE2bHZBTFFZWi13ZVhxd0dReFhYU1FsMFk0b1AyTDVMamFtY3lNb2V1ZG11cWFDSW12Z1dHWVJIQktMUXUzZmJXSTVGblF4QXpmSXR0aS1iWTNhS2Y3dG5Od1Z4RGlUbnl3b0JpcEs1alFVMWp5Z01SOEVBbV9pcjhuZGdieEdNeW1JbGVzVnVoZDE3Wk1FQ3EtSHlrSlBraU0tOFBkaFBqOQ?oc=5"
+     "titulo": "Coutinho é relacionado e pode estrear pelo Santos no clássico contra o São Paulo",
+     "fonte": "itatiaia.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPenlONERnY1c1dkRPWmdOQmhtYlFfYWNwaGJuWjJ2SW5oY09iQ1AxODEtOUw0aTItNFNCY1kwRWg1N3FsYXozZFlYYmpjWTJ5czRzc01MTXVVRFY3RElhcU9ZcW5lNXBTWlhOUHhSbDI0dzRMNkNWa3ExLWZUbGNBcWhfelZZeHN3Qmg0QWM1enh5ZFVLUG1HV0RJdVVVckNyLUdsQjh0VGtHS3VGMktJb1prRFRrXzRVZlFVRUgxaEY0RjlTOUwtT1FxLS12R0lobjlWek1YRHNnOTFOR1RubWFDSnZGYlNBT3d4LWNmODhLdmlSUm9SM1k4dw?oc=5"
     },
     {
-     "titulo": "Brasil x Estados Unidos Sub-20: Onde Assistir Ao Vivo, Horário, Escalações e Amistoso",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQYVlKQVoxd0g2cGx1OFJFdzh3QTZZZWRQZXY3QWtHeE5kRXJ2dnNnWVd1UmF5enpvNktZbW9UVEM3NS12VVYyYmZvd0dUQXNxNkJmaUZNWlU4RjJpVXd1Z0RObEU3VVQxbGJDNm1vUk9oTWFQNG1tOWZnTGxsb2dLUHBRXzZFdEhGNVNsWnhkZHhmU2NEaXlVZWhUNlgwSWFiWmJkRFYzaXl0em9SSm1FSWozVWdNYjJfaUU2Y05SNUtQOG1ZUUwybFcwUlF6UlNZOTJ0bnNpTVlrOWg1a0pCN1V2X1E4UVZaWDNoSm45Y2hrTXJuZlRrdjI2THFkSWNpMHY1Ymo2elJwYWlBUWVZNVNB?oc=5"
+     "titulo": "Santos finaliza preparação para clássico contra o São Paulo",
+     "fonte": "GZH",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQkFmdmRFTXJkcjhBeEtZcm12Yy1LVDNMV0p4d0FSWUVVeUxnVE5Yb1JCUFhDbkpIX000ZkxVUWk2bWRmQktGeGQ0dE1YVnlFUTBwNGdaX2NLSGNJdHR0cFNpX0lwSXpKNENlcGdSNFRGQVgyYVU4cGp1eDF2S0J6TjVXODRKWE44VGRuS2tzZll4UllqbGN2UTFpTldHeGhpaE5QV1UzZ1VKR2VrOTFkYkZ6SHFzaG9Vemdab0o0dVppUzNhMHRYUnlRemQzekNqUFE5T3hEc21mdWVEUkVkeg?oc=5"
     },
     {
-     "titulo": "Ao vivo: Brasil x Estados Unidos | Amistosos Sub-20 | Amistosos da Seleção Sub-20",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUzkwY1pEQUhPd01kdXRTQUdwTVIxYkJyUGRIVlc4VDFuN3UtLVVZNzVJbVl3c0RpampPQ1hmM0ZOcGltMUhZMEotLVY1ZS1wdGxVXzhIa2xHSWo2N29Jc3ZfbjU1X2xjTnR6VXNsRUFRVlc5LUM2NWF2cmwyLVR3dGVEMlktLVZtbWp1NDNlbXV1Y3M0UEczUENLTktjbGFzUDBrd2pTUk5wUkhM?oc=5"
+     "titulo": "São Paulo x Santos pelo Brasileirão: onde assistir ao vivo, estatísticas, histórico e escalações",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0VUTGo5LXJHbGV0ellRMXNqUDVOdFhaQlZjOHFtM2ZnY0RzZ0ZVOEVaZGFaT0VrMVRSQU80WGNfcFdUSEhKZURONGx6UC1LMjhpU3ZmeUFaQkJyTXBzMWZPS3pMdGJTZzBMUFdDVk95bU03V2kwZ0R1TjVVclZHVW9pbFFyWGNGdnc5SXo5SmFvZUpwNTNDLXlqRWpaUFNIbS02YWxB0gGrAUFVX3lxTE9SSURSZWs4akczcGJZZmtOaTF0SEpvRDRQb00wejdwT3ZsX1A5NUJTcEVnTV9kRlBONld3VUJBSGRBdktyeHVPMnY3bDRiVkhMQ3dEdy1sQUthT1RJT3c3aFB5SkwtLVNISjMxc1p6bHl6bDNHdGVIM25PRnFhMVpydjZyN2pqeHlvLVhxdWZzQ1o5TzhfNk5rU1JQMnd6UUlWdk5KTElqbnJNQQ?oc=5"
     },
     {
-     "titulo": "Brasil Sub-20 x Estados Unidos: Seleção vem de goleada por 4 a 1 e entra em campo nesta quinta-feira",
-     "fonte": "Portal de Camaquã",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeWIyU1pSS1ltSVBsZHdHaGRJUW9hX1lxS1h0eGQ1ZDJPR2pEUDNyZHgxVmxVLXp2UjdhWmh3M0hyNDBaQ1Etc29PR1p2TC1hVGZMM2FvVDRTZ1hvMzFWU05yaEZLX29MYlh4Z25ldUtvbE1GUG9raVFwX196SWZCODZwS0RndUtSTlEyTmZscGNBZjBBY2lBT0pHVUc0TWFxcmkxcEpTR0JncHdZZVJwU2FXMFRJZGE5bjlpVmR1d2FaaWNSRmZTR0RjNzMwZjREVnJmZngzSTF5NWs0OE0zVG5ZTllUZWs2WlpF?oc=5"
+     "titulo": "Ryan Francisco pode ser titular do São Paulo pela primeira vez no ano contra o Santos",
+     "fonte": "VAVEL.com",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcjFtaEh3WExEMk03cHd2YmRlWXFmRFlBMzM0Tzk1d0JQalAwOVluVTdGdF9ST0lWR09ZV1NxV1kwclhIZVAzMDJ0a1FGU0MzRzFFeDB4ZWJ1bHluQ29XblhHdnJ2VDdrVjBMQkxPNF96RUdXc05rZzhhbTYwbTE4YkxtSmdGa3VJemNxZHFBNWlxbU9QYmdlQ1ptMzhGMnh4ajBBR2NLdk81X1NERHR0ckRUejBqRkk0M0RNSjZ4aGU5Z0VheHVNRGw1eW9sS3c2cUluTTB2MTRkT3lNbDN1RE1UVWI4d0E?oc=5"
     }
    ],
    "youtube": {
-    "amostra": [
-     {
-      "id": "X0wJiFSU3mw",
-      "titulo": "AO VIVO COM IMAGENS: ESTADOS UNIDOS x BRASIL | AMISTOSO INTERNACIONAL SUB-20",
-      "canal": "Confederação Brasileira de Futebol",
-      "views": 17516,
-      "likes": 8103,
-      "comentarios": 0,
-      "publicado": "2026-09-30T18:07:13Z",
-      "duracao_s": 0,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=X0wJiFSU3mw"
-     },
-     {
-      "id": "4nlsePrVZs8",
-      "titulo": "📱🔥 AO VIVO (VERTICAL)! 🎙️📲 -  BRASIL X ESTADOS UNIDOS - SUB 20 - AMISTOSO - 01.10.29",
-      "canal": "Rádio Gama Esportiva ",
-      "views": 4478,
-      "likes": 54,
-      "comentarios": 0,
-      "publicado": "2026-10-01T15:36:25Z",
-      "duracao_s": 0,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=4nlsePrVZs8"
-     },
-     {
-      "id": "k4Q4rdRV-50",
-      "titulo": "Brasil 1-1 Estados Unidos | Resultado | Mundial Femenino Sub-20 2026",
-      "canal": "Marcador Express",
-      "views": 752,
-      "likes": 2,
-      "comentarios": 0,
-      "publicado": "2026-09-30T05:00:17Z",
-      "duracao_s": 38,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=k4Q4rdRV-50"
-     },
-     {
-      "id": "lOwwKd8--VA",
-      "titulo": "⚽JOGOS DE HOJE - BRASIL X EUA, DINAMARCA X PORTUGAL, GALES E NORUEGA - FUTEBOL AO VIVO",
-      "canal": "TV ATITUDE",
-      "views": 29,
-      "likes": 1,
-      "comentarios": 0,
-      "publicado": "2026-10-01T10:00:22Z",
-      "duracao_s": 39,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=lOwwKd8--VA"
-     }
-    ],
-    "consulta": "Seleção Brasileira Estados Sub-20 Unidos",
-    "n_videos": 4,
+    "amostra": [],
+    "consulta": "São Paulo Coutinho clássico Francisco",
+    "n_videos": 0,
     "mais_de": false,
-    "views": 22775,
-    "top": [
-     {
-      "titulo": "AO VIVO COM IMAGENS: ESTADOS UNIDOS x BRASIL | AMISTOSO INTERNACIONAL SUB-20",
-      "canal": "Confederação Brasileira de Futebol",
-      "views": 17516,
-      "url": "https://www.youtube.com/watch?v=X0wJiFSU3mw",
-      "publicado": "2026-09-30T18:07:13Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "📱🔥 AO VIVO (VERTICAL)! 🎙️📲 -  BRASIL X ESTADOS UNIDOS - SUB 20 - AMISTOSO - 01.10.29",
-      "canal": "Rádio Gama Esportiva ",
-      "views": 4478,
-      "url": "https://www.youtube.com/watch?v=4nlsePrVZs8",
-      "publicado": "2026-10-01T15:36:25Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "Brasil 1-1 Estados Unidos | Resultado | Mundial Femenino Sub-20 2026",
-      "canal": "Marcador Express",
-      "views": 752,
-      "url": "https://www.youtube.com/watch?v=k4Q4rdRV-50",
-      "publicado": "2026-09-30T05:00:17Z",
-      "do_canal": false
-     }
-    ]
+    "views": 0,
+    "top": []
    }
   },
   {
-   "tema": "Léo Ortiz, do Flamengo, lamenta lesão de Arrascaeta, mas faz ressalva",
+   "tema": "Novorizontino recebe o Goiás em casa pela Série B do Brasileiro",
+   "categoria": "Jogo e resultado",
+   "clubes": [],
+   "foco": false,
+   "nota": 62.4,
+   "sinais": {
+    "busca": 72,
+    "aceleracao": 90,
+    "midia": 58,
+    "aderencia": 60,
+    "youtube": null
+   },
+   "fator_categoria": 1.056,
+   "trafego_google": 20000,
+   "busca_torcedor": "novorizontino x goiás",
+   "termos_trends": [
+    "novorizontino x goiás"
+   ],
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "serie|goias|novor|receb",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Novorizontino recebe o Goiás em casa pela Série B do Brasileiro. Parece que está tudo resolvido. No futebol, quase nunca está.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
+    "pergunta_enquete": "Qual sua opinião: Novorizontino recebe o Goiás em casa pela Série B do Brasileiro?",
+    "tecnica": "Contradição",
+    "ganchos": [
+     {
+      "tecnica": "Contradição",
+      "texto": "Novorizontino recebe o Goiás em casa pela Série B do Brasileiro. Parece que está tudo resolvido. No futebol, quase nunca está.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Novorizontino recebe o Goiás em casa pela Série B do Brasileiro. Isso é bom ou ruim para o seu time? Responde antes de ver a minha análise.",
+      "thumb": "E AGORA?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Novorizontino recebe o Goiás em casa pela Série B do Brasileiro. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "O torcedor está digitando “novorizontino x goiás” no Google agora. A resposta não é tão simples.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Novorizontino recebe o Goiás em casa pela Série B do Brasileiro. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+      "thumb": "QUEM TEM RAZÃO?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Novorizontino recebe o Goiás em casa pela Série B do Brasileiro",
+     "fonte": "G1",
+     "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/videos-tem-noticias-2-edicao/video/novorizontino-recebe-o-goias-em-casa-pela-serie-b-do-brasileiro-15012427.ghtml"
+    },
+    {
+     "titulo": "Novorizontino x Goiás na Série B: onde assistir ao vivo, horário e escalação",
+     "fonte": "Estadão",
+     "url": "https://www.estadao.com.br/em-alta/esportes/futebol/novorizontino-x-goias-serie-b-onde-assistir-ao-vivo-horario-escalacao-npres/"
+    },
+    {
+     "titulo": "Novorizontino abre 31ª rodada da Série B diante do Goiás de olho na vice-liderança",
+     "fonte": "UOL",
+     "url": "https://www.uol.com.br/esporte/ultimas-noticias/agencia/2026/10/01/novorizontino-abre-31-rodada-da-serie-b-diante-do-goias-de-olho-na-vice-lideranca.htm"
+    }
+   ]
+  },
+  {
+   "tema": "Corinthians suspende pagamento de dívida pela Arena enquanto negocia quitação com a Caixa",
+   "categoria": "Mercado da bola",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 61.1,
+   "sinais": {
+    "busca": 30,
+    "aceleracao": 40,
+    "midia": 100,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "corinthians x internacional",
+   "termos_trends": [],
+   "n_fontes": 10,
+   "n_manchetes": 11,
+   "assinatura": "caixa|corin|arena|negoc",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 3 min)",
+    "gancho": "Corinthians suspende pagamento de dívida pela Arena enquanto negocia quitação com a Caixa. Se isso sair, quem perde espaço no elenco?",
+    "titulo_thumb": "E AGORA, CORINTHIANS?",
+    "pergunta_enquete": "Qual sua opinião: Corinthians suspende pagamento de dívida pela Arena enquanto negocia quitação com a Caixa?",
+    "tecnica": "Pergunta aberta",
+    "ganchos": [
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Corinthians suspende pagamento de dívida pela Arena enquanto negocia quitação com a Caixa. Se isso sair, quem perde espaço no elenco?",
+      "thumb": "E AGORA, CORINTHIANS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Eu aposto: esse negócio [SAI / NÃO SAI] até o fim do mês. Se eu errar, pode me cobrar nos comentários.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Corinthians suspende pagamento de dívida pela Arena enquanto negocia quitação com a Caixa. Torcida empolgada de um lado, diretoria fazendo conta do outro.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Todo mundo está comemorando essa negociação do Corinthians. Eu vejo um risco que ninguém está comentando.",
+      "thumb": "NÃO É BEM ASSIM"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Em renegociação, Corinthians suspende pagamento à Caixa pela Neo Química Arena",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcWk0dDdIXy0tQVFjc1RLN3BFWnFHVzB0bWdkTzZqS2w5SHZDRTA0bXlIeHp0alhTOEw4TUlmYUlxSXdpY1AyRE9uUER5QUozcXFwV1I3MWFXY2hnX0FObjlqR19oVFNnalI3S2ZsdTRXRlljRzJTRmlFMmRDaWlEczJxa2FQMk5TdU0xdWt5V1dBVWhOVW1aMWdBMXhiai1pbXljdnp4M0lQUFo1aXpieTg0aFh1ckljZER3?oc=5"
+    },
+    {
+     "titulo": "Corinthians tenta acordo mais flexível com a Caixa, suspende pagamento e crê em acerto pós-eleições",
+     "fonte": "Estadão",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQd0RJZUpFcXZKcUJTRXJkQXZnLVBEZF9pQTFoN1N6ZmM5MUpMeHFtazhhQTRJVV8tbHduLURlTkhhY2JEYk43c1I4REpveURNanV5Qm05ZUthME52MndsM0JNbjVoTTY2amxpQXNTbjRxcjZySkJjZmhicFYzeHBwNVRFNEtzMnJaX3pEemlBT1VFMUk5SnNuZHdVOGluZlQ3TkEwTUQ5SDYySnBPbndxSTVjbld2bk1fbklFcEh2ZzdOUmhYcENBSmh2MW8tNTA1RzZoM1R0dzhTUkZGbEZjMjViY1NTdw?oc=5"
+    },
+    {
+     "titulo": "Corinthians e Caixa: como estão as negociações para quitar a dívida milionária da Arena",
+     "fonte": "Exame",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSGs1eE9lVHdoRWM3ODN6VVBmbFJudUxpbUFYaVFsVDlFc3ZrMjJ2RkEwaU5xWkU2UGRBbXJieTNRWHdFV0pQMmFLeDFlWEFKNWtNUDY3YzdtY1VZeGlzamZJSkgxYTRKbGZCRUxGSlRsSmp5cE15a0ZBWUVoTlVQU01CNmpXSWRRYkF3RGhOUVgzTFEzcC1YTE9qS1lVX2ZEbmVFdW9iN3doQWc3YU4ySk8ydw?oc=5"
+    },
+    {
+     "titulo": "Corinthians suspende parcela da Caixa enquanto negocia quitação da Arena",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHZTdWpPVHlGNzJ6WFdicmVpX2JjWHpaTC1vR3BSWVl2dmRnNXppVDdwdXAwV043cXNBZlBwQ1p0R3JRNWVxV1RVSWlpYzduVGVOU2FfY1IyZHB1by1sWlV6MjVaU1VzME83ZmZiWEItVl9hQ05wWUlsMGpYd1paWXp5NV9oc1puRUpqbU13NGRUclc2UlhWQmNRVTQtODRyYVV5UUY0T0lqWXItbGRR0gG0AUFVX3lxTE5VSGdKcWhvX0pGbEZ0dGxmT0twVlMtVGdQbm5UM2JiNmEwdzdmVHYxZXJkMmdmX2d2MURYRGpNUFpiMnNCRkV0V0RtcW5nUHB5WEpTT09iUVZtcFg4WHplUEl6Rkw3d2p2UUFPYnZVYWVlVlFKY3pjRWZIWTc1T0lGTFVGT0Y3V0Z6VEJ1MFNOdlN5UzVKVXZOTV8zLU0xcGVPbUYtMEI1VXlVRlI1eWtWVHhqYQ?oc=5"
+    },
+    {
+     "titulo": "Samir: Corinthians não pagará a Arena até o fim das negociações com a Caixa",
+     "fonte": "UOL",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQLXBCUUtuU3hwbTRPdmVod3JhR3VBaVN2R0xuWWllTWp6V0pzUEFRWi1nYS1NSld5NTdtR0FNb3FicGRNcGRZWEZmV19sMDZOWTBGSzNKNzJvcy1ZbkVXTEN4RHBxbWs1YllUN1MyN1NXamF5N0swNlAwUHZyS0dTYVliZ0VlX1ZQQ2VXVHd0WjFEM1gxQnVQcml0Y0Q5ajgwU0w5NFcyQlhqOTR0V01rVkpUcDBDaVZwdGtPMnBfQlZBbE1VQnZrZkRWMU14YmFBQWxvdktKM1h1RkJoaUFaR3owZjU3OVJLYTQ5am1fRkVJQzA5?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Fred revela interesse do Palmeiras e explica escolha pelo Atlético-MG",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Palmeiras",
+    "Atlético-MG"
+   ],
+   "foco": true,
+   "nota": 60.7,
+   "sinais": {
+    "busca": 45,
+    "aceleracao": 60,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "fred no galo",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "palme|fred|escol|meia",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Fred revela interesse do Palmeiras e explica escolha pelo Atlético-MG. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+    "titulo_thumb": "MEU PALPITE",
+    "pergunta_enquete": "Qual sua opinião: Fred revela interesse do Palmeiras e explica escolha pelo Atlético-MG?",
+    "tecnica": "Aposta",
+    "ganchos": [
+     {
+      "tecnica": "Aposta",
+      "texto": "Fred revela interesse do Palmeiras e explica escolha pelo Atlético-MG. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "O torcedor está digitando “fred no galo” no Google agora. A resposta não é tão simples.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Fred revela interesse do Palmeiras e explica escolha pelo Atlético-MG. Nem todo mundo no Palmeiras vai gostar disso, e eu vou explicar por quê.",
+      "thumb": "PALMEIRAS x ATLÉTICO-MG"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Fred revela interesse do Palmeiras e explica escolha pelo Atlético-MG. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Fred revela interesse do Palmeiras e explica escolha pelo Atlético-MG. E agora: o que muda para o Palmeiras?",
+      "thumb": "E AGORA, PALMEIRAS?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Meia FRED fala sobre tentativa do Palmeiras de leva-lo e escolha pelo Galo",
+     "fonte": "O TEMPO",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0o4ZXNmdEF1TGlod1M2cWVnZ1pmUFlfVnJBOGlMY05vQnNJdExhODFicm1tS0VsV1dqNVZVQVowLWU0WmdRdkJ2R1VIUm9aWWotOVpjd2RaSUVrQ3lmVVY4YjU0cXZYcEROVE85ck1VZkVnVVFUM1lTNWtDWVlFbmdLNm5JYU5SeDJmbmtrb21VWl9qaU5RNV9ZU1U3eV9LV2VTTTg3eXRHVE43SFJoakZHVk52dHVyMEZyNlJkQ0pseUFK0gHKAUFVX3lxTE1tR245bWhPSnVHbDNxMTBtNXhwcUlESWJYVzktUGV5cnZ0b2dYS0FITzlFNzFyanhZSmZrd2ZHOGlEQncxMkVRWjNZTWxJVGhweXVxUHdFaXVlcWpncTRUUWNDNjMtSENzOW51NS1zYWthd2VMSFZVYzlxN09PSDRzMnFFUEZqWUxGQVp5Y1A4eDJBMHduRm5vV0VuVW1SSlNYa1lOUWZMZGpIVXNjYnBURWNxLXl1V0NZWHdhZndlSVJ4U1FMNWR0ckE?oc=5"
+    },
+    {
+     "titulo": "Fred revela interesse do Palmeiras e explica escolha pelo Atlético-MG",
+     "fonte": "tmc.com.br",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZFN4ZVRTWmF2dXNIaFFxdjFwaHVnTjd4MW9HLXVVS0stTGJOdUpmaU04NXRlYk1HN1dnLTN1dzRYUTFZR0Fmem0zZFRuZFBBQWlCSVpCYnVGRXc3d2U2SFR2VDJadEpwMk9zcGMwSEwxMXJ0R3JvZGc1dG5kV1MwYzlIcjhnN01IaHRQb0lyN3NLQ1NvaHREdDMwTXNfdw?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Arrascaeta passa por cirurgia: 'Concluída com sucesso', diz Flamengo",
    "categoria": "Lesão e desfalque",
    "clubes": [
     "Flamengo"
    ],
    "foco": true,
-   "nota": 61.2,
+   "nota": 56.9,
    "sinais": {
-    "busca": 65,
-    "aceleracao": 47,
-    "midia": 58,
+    "busca": 60,
+    "aceleracao": 32,
+    "midia": 46,
     "aderencia": 100,
-    "youtube": 45
+    "youtube": null
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
    "busca_torcedor": "arrascaeta flamengo",
    "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "flame|arras|lesao|lamen",
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "arras|cirur|passa|suces",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 2 min)",
     "gancho": "O torcedor está digitando “arrascaeta flamengo” no Google agora. A resposta não é tão simples.",
     "titulo_thumb": "VOCÊ PESQUISOU",
-    "pergunta_enquete": "Qual sua opinião: Léo Ortiz, do Flamengo, lamenta lesão de Arrascaeta, mas faz ressalva?",
+    "pergunta_enquete": "Qual sua opinião: Arrascaeta passa por cirurgia: 'Concluída com sucesso', diz Flamengo?",
     "tecnica": "Dado",
     "ganchos": [
      {
@@ -2193,427 +2251,26 @@
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Léo Ortiz, do Flamengo, lamenta lesão de Arrascaeta, mas faz ressalva. O elenco do Flamengo tem reposição à altura?",
+      "texto": "Quanto vale Arrascaeta para o Flamengo? A resposta está nos números.",
       "thumb": "E AGORA, FLAMENGO?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Eu aposto que [SEU PALPITE: QUEM ENTRA] vai ganhar a vaga de Arrascaeta. Você concorda?",
+      "texto": "Minha aposta: o Flamengo vai sentir a falta de Arrascaeta já no próximo jogo. Comenta a sua e me cobra depois.",
       "thumb": "MEU PALPITE"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Léo Ortiz, do Flamengo, lamenta lesão de Arrascaeta, mas faz ressalva",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTFJpSGVhekw2QW5CS1JZWWVYTXRSaVVmbXRueWVmSzBHMzFYZGRBVG1PckV2QjBHVUtrb3hfQ3RXS1RXa25OYy1TU2dxMzY2SHZCMGd0Z0lvem5sWUNDdW9sREdIcTdmbHZUVlllY1ZPT2t3aE1VamMwOW1keDZGRUdWcWtTZElDcEJtN1poMkRld0tTNHZSRDdheDA4MzRWN2VheS12RV9FU3dzSkZpc0lzdTZuZE9KQnlhSlhVTjNrci1BTzBBVHlBRmRibF83T0hJWmMwd0F5RURweEJrZmpZVTQyV0p4YVNF?oc=5"
+     "titulo": "Arrascaeta passa por cirurgia no punho com sucesso; veja prazo de recuperação",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZi1kalZqWG92VktCTUlKcTJxQmlyeF9NOUs5SjdhSGRDNGRtUGY4ZEdaTXc2OFVLLUQ3dWR2NjYwZ1hXNGRKQ3JYY0JBVEFnWkJZckhXMnRpN3V3OFlVYWZCVDdlejNQZGNoY0RWY0RuNkJJcENIN2VRVjgwOFFDNVQ1TkluOHBqSXRuLWZoZ20tX05xZGZndmFWUTNCb1pwZFdoenlydHBHZjhnT2h4SzNkSmNZUQ?oc=5"
     },
     {
-     "titulo": "Jogadores do Flamengo lamentam lesão de Arrascaeta: \"A gente perde um grande jogador\"",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSUJOY0NudDFjX1NsdGczRGJVLWpWdWZERGhCWWZtSmNQVHlzcDBXQWFsS0tlbzRfd05zZHh4Sy1TekpidnhJbFV2UEMtS3NSRmw1b2xIdGtBRGt6NWQyb2ktZnVEcDl3VnE4VzdOUWtyd1p1bTUzWUdTVHJjWWxZLTdpZUR3TFNhN01naVl5U2tOd0FEeE03cGk3elRjdVF1MFBUREJHUHRSTlRrRlBlYnZGeUJpdDhmUXFacFRyZW4yYzNreFpSX3pmSE1ZX2xDd0lvdG16YW1HQkRzcUpIc1RSOFNSd9IB9AFBVV95cUxQWEwydVlzcEdQc0ZXWnhlR053QXBsbVBRYlFiTTA3MkJjVkRZVGVsazNpZ0JYWGlCQk9ESDJLc0JXR1h1NE5saW1vTWdGUnpFcjBoVkRrWHpEa3Zudl9MNmxfNWFVZlIxVkNTbURqM1FOb1hkVWpQZmh1eno1QzVkSVFST3VEZ2x0Vms0Uzc2T3FnakdHbFVxdlI3eHBwd28yY2h1SjdJZTFDSGVOdGdXcGZ2UlJ5TUtpbkhNRU1Sb3RqTTZ3WGtXRzllcFprb3NIa3dDakZldFBlVkRYZVdqYVRtQ2JZU2pjS2MyZXBlbjVVMjlj?oc=5"
-    },
-    {
-     "titulo": "Médico do Flamengo quebra o silêncio sobre lesão de Arrascaeta",
-     "fonte": "NossoFla",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZOW5nVkl2Z3FMS1RGNUpVZm5USUdpOU1fSDc1VXJCMDMzSEFBRkp5QndVaHlMVTFVVzhPTjhmUkRQUUpJMlZtOUVhNTZrTVNTMDNvQ0ltM2UzeV80eVVIaENiR2w3UGRXOXJTSm8yR25WZS1SMmpfLXJmZlo?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "0kCTG94WI9w",
-      "titulo": "ORTIZ LAMENTA LESÃO DE ARRASCAETA E É SINCERO SOBRE A PAUSA PARA A DATA FIFA!",
-      "canal": "Paparazzo Rubro-Negro",
-      "views": 1433,
-      "likes": 73,
-      "comentarios": 1,
-      "publicado": "2026-10-01T15:27:37Z",
-      "duracao_s": 172,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=0kCTG94WI9w"
-     }
-    ],
-    "consulta": "Flamengo Arrascaeta lesão lamenta",
-    "n_videos": 1,
-    "mais_de": false,
-    "views": 1433,
-    "top": [
-     {
-      "titulo": "ORTIZ LAMENTA LESÃO DE ARRASCAETA E É SINCERO SOBRE A PAUSA PARA A DATA FIFA!",
-      "canal": "Paparazzo Rubro-Negro",
-      "views": 1433,
-      "url": "https://www.youtube.com/watch?v=0kCTG94WI9w",
-      "publicado": "2026-10-01T15:27:37Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Fim das bets: Fux autoriza Flamengo a participar de ação contra proibição das apostas no STF",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Flamengo"
-   ],
-   "foco": true,
-   "nota": 58.6,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 62,
-    "midia": 100,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 12,
-   "n_manchetes": 13,
-   "assinatura": "flame|fux|bets|stf",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Fux autoriza Flamengo a participar de ação contra proibição das apostas no STF. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
-    "titulo_thumb": "QUEM TEM RAZÃO?",
-    "pergunta_enquete": "Qual sua opinião: Fim das bets: Fux autoriza Flamengo a participar de ação contra proibição das apostas no S?",
-    "tecnica": "Conflito",
-    "ganchos": [
-     {
-      "tecnica": "Conflito",
-      "texto": "Fux autoriza Flamengo a participar de ação contra proibição das apostas no STF. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Fux autoriza Flamengo a participar de ação contra proibição das apostas no STF. Parece notícia pequena. Não é.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Fux autoriza Flamengo a participar de ação contra proibição das apostas no STF. E agora: o que muda para o Flamengo?",
-      "thumb": "E AGORA, FLAMENGO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Fux autoriza Flamengo a participar de ação contra proibição das apostas no STF. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Luiz Fux autoriza Flamengo a participar de ação sobre futuro das bets",
-     "fonte": "Blog Milton Figueiredo",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTGhMZzNQQUF6eVI1b3MxWmZNZ0lHblRCWjhkRU5LWkJ2eVZVTndXNmVkZTNqeGg5Y1lwRFl1RGhFWGFZZlZuRDc2OFlmb080THhvZ2tBeUxZU3lHUnM3Q29pZlhYN0RwcHpYSzBKX1Bra0FabVBsQXhkOWFwbTBfdS0tczhEX1NybVBEMzdQSnB4YlJiRHc0eEtJWEt4U0M4bHJZejZQWGVuSlBENnIyaEczSFkzcWhVU3AtUXlWVk4?oc=5"
-    },
-    {
-     "titulo": "Fux aceita entrada do Flamengo em ação que discute bets no Supremo",
-     "fonte": "VEJA",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRlBZY3NXOG5qSTZ1QWp1Q1FqYzNLSlY1Ymh6S1RqZE5CTlpCRjFUaDNxdnk3OWlfdEdrSzlvNWYtVkVEQWtESW92OUM3b0NIXy1welIxWTJEYUV6eUs1eFVQQ0c0Sml6T1FwWnM2TklXanRCY1F6MDlZbUdScERFd3ZNSEFhRmdIRDlQS0Q2LXhfZ1JRLUNWa0JKRXNpLS02NDAzUA?oc=5"
-    },
-    {
-     "titulo": "Fux autoriza Flamengo a participar de ação contra o fim das bets",
-     "fonte": "Notícias ao Minuto Brasil",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSVRwcUhRZngwaHJwZ0xXZllTTTFRTlVsX0tiYkUtY1pkTlJtTFRvMUVHcVRXOGxkMkI0djVkbjM1cWpzd19ubHZINUJab2NCb0xPZndYUElsU2xLWVZpUGpYRGVVTXJ4Z3I0NkNYVXNkSzRsdTJCMFN0TEZGN3N6SHBQZ2hPSWNIU0p1QlZNbzA4RE9QMUM0S0xsUEFEWnRhc3BvakhyaEE5WkVlaG5JNlRyMDVZakk?oc=5"
-    },
-    {
-     "titulo": "Fux autoriza participação do Flamengo em processo sobre bets no STF",
-     "fonte": "odia.ig.com.br",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYmZBdHM1VTU3QUZCQ2pNQjdzRlBpeU9XNHNfd1BpNEpUR1IzN1YtdW1jQk1DSm1aVlRNYTV5REpOU09DaXpBUmV5WjBMSGhqdlpMTXZJVzFLal90Ukh1b3VTT0tEcjR4RTE1aloyemd6SEQ5d1IyTWEtaVNEWG1SWUxRQmMtNE1oR0YzYVhRR3Z1NDFBc1NsREVFTHdDdmZkbmttQlQ4S29sY2JIRGh5V1lRcUNfcFFBUGpuMVBjN2M3T0JSYnAw0gHMAUFVX3lxTE5xWjA3cFVEbDZENmdzZVNLN09lWmNIQUhaZ000ejZ1OXlqSllVUXRqMGp0QW0zdjhoUW82RW5xRWZ2MHQtbHpQNzI5QmI1REMtZ0czUEIwcWpxZDlWSU8wc0FoZkdHUTMzWlEwVDVWRGdVVUZFYlotSXJBOEJkaXlXY1RuQy1aQ3pub1ZucmdLQnJ0aG5pTlo5a0t1eTM0cDFtZGZVcWRaY0NuLXQtSHY0ZEhRYzBEalV3aGZQWktLTF9nY19VcmV2UkJLNA?oc=5"
-    },
-    {
-     "titulo": "Fux admite Flamengo em ações contra proibição das bets",
-     "fonte": "BandNews",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVkZ0TDR3Zi1CdUp6VGdDS0J4TW1xTGJsdXVSY1Q4VllOVlJ3NzlPWDdYUmlwallLY202WG80MW5xRUFaelhoUGpBWWEtMnpEdFo4eGxkRS1Cb1VOM3dET3MtdHdwMmhKdWNpRTcwQmRPS056UkRUNHhENVIyUXVaSnhnYUFRR2dZX3hhQ2dOYWw5UVV6?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Quem pode substituir Arrascaeta no Flamengo? Veja",
-   "categoria": "Lesão e desfalque",
-   "clubes": [
-    "Flamengo"
-   ],
-   "foco": true,
-   "nota": 58.4,
-   "sinais": {
-    "busca": 65,
-    "aceleracao": 32,
-    "midia": 46,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "arrascaeta flamengo",
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "flame|arras|pode|subst",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 2 min)",
-    "gancho": "Flamengo pode receber indenização por lesão de Arrascaeta. A leitura óbvia é uma. A que importa é outra.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Quem pode substituir Arrascaeta no Flamengo? Veja?",
-    "tecnica": "Contradição",
-    "ganchos": [
-     {
-      "tecnica": "Contradição",
-      "texto": "Flamengo pode receber indenização por lesão de Arrascaeta. A leitura óbvia é uma. A que importa é outra.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Flamengo pode receber indenização por lesão de Arrascaeta. Quem entra no lugar, e o time aguenta?",
-      "thumb": "E AGORA, FLAMENGO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Flamengo pode receber indenização por lesão de Arrascaeta. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "“arrascaeta flamengo”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Flamengo pode receber indenização por lesão de Arrascaeta. Agora o técnico tem que escolher: improvisar ou mudar o time inteiro.",
-      "thumb": "SEM ARRASCAETA?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Flamengo pode receber indenização por lesão de Arrascaeta",
-     "fonte": "Clube FM Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQlNzY1R2dHg3NU1CaTNIdlNwZTFYZy1vRWx4dXRtenJiU29TTkwwWkY2eHRhejJTWmNzT1E3eUxDUlVEVW9UeFdqdngyQnc2ZURlWlNTbmRTR1p4ai1aVGlWRGVUYlZ4UkNRbFVtVktmNE42NFNMUGE0N044cWJUM0h2VU5Wc09Zak40?oc=5"
-    },
-    {
-     "titulo": "Quem pode substituir Arrascaeta no Flamengo? Veja",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSnphMk1PZXpoT29XNzhGLW5kblZCcnVJNUNIWk1YQ1lMUjVpSGtvbmsyUXpDbThZV1ZvZVNicmcxZW1ZM0kwTGRnb3YtZ2JnTllzb25CNGhEQWJsNlhxSHU5YllaZHpCUkJ2YUNLY1lQMm1tUTg1ckFRQUlnVnNfQjN1OUtZZ3ZIeS0yNG1RTklHOC1hcTdVdkNNdWpVUWRNLS1LdFFYLTBIcEFBM3k4NlBkbVE2N3Q1MzhONVVrU0ZxUFgza0c0Ti1lY1cyN2lPX080?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Chicão lamenta eliminação do Corinthians e revela torcida na Libertadores",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 57.7,
-   "sinais": {
-    "busca": 40,
-    "aceleracao": 45,
-    "midia": 46,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.056,
-   "trafego_google": 0,
-   "busca_torcedor": "corinthians libertadores",
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "corin|elimi|liber|melho",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "O que o Corinthians precisa fazer para vencer esse jogo?",
-    "titulo_thumb": "E AGORA, CORINTHIANS?",
-    "pergunta_enquete": "Qual sua opinião: Chicão lamenta eliminação do Corinthians e revela torcida na Libertadores?",
-    "tecnica": "Pergunta aberta",
-    "ganchos": [
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "O que o Corinthians precisa fazer para vencer esse jogo?",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Chicão lamenta eliminação do Corinthians e revela torcida na Libertadores. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "“corinthians libertadores”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Chicão lamenta eliminação do Corinthians e revela torcida na Libertadores. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Chicão lamenta eliminação do Corinthians e revela torcida na Libertadores. Parece que está tudo resolvido. No futebol, quase nunca está.",
-      "thumb": "NÃO É BEM ASSIM"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Hugo Souza é eleito melhor jogador do Corinthians em mês de derrotas e eliminação na Libertadores",
-     "fonte": "meutimao.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOTVieEQ2UFlEbzBTY3BBYmlKaFRGZ3p3WVo5ZGl2WGwtWnpnaEZZbE1QMEJobEtHcHZVNV9FRFF5R1c1Q3FQUkY1SG1zbllzeGVOd1ZkU3hWWWxBT3lELW5YRUpGYXFJUFFQTlY5aDBOQkVHYnh1RFNUS2syRXFHU1VoRjVxb21vN3hiX1JOWjEyelVCQ044dVhjcXhPRWJuRHlRQmQzTGQySTc3MnpMT2FXVUJGVXpYaW0tVEZzdUZyOFlyMlpZUHRiV2NvRWdfQm9lSXZVTDJfa0hDdE1odzV2aVV0V2hyOG93cQ?oc=5"
-    },
-    {
-     "titulo": "Chicão lamenta eliminação do Corinthians e revela torcida na Libertadores",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUzlBODJUdWE2dDhvSUxuaDd1Z1Fac3JBdm1vM3FWV3N2b051WnZnQ2tQbU5qQ0JjMkpwVHJHMW9hNnJxVi0wV2xFTXRmQWg5a1d2aGNXXzZVMmE2dUVXYmYxcTdtdHgyc2liSmR2NlB0cU9zY3VLNTFlODBmd2FMekYzblMzNEVMdDhFRWNMZ29YYUNoRkFsSVk4RF9iRm00eEUycGZaTVRQcVRXUXFNemZFandORTduVUY4cnR2S2xxbTQ1dGxUY1lVWVBpaklobVJ4Z3hIZHRsTmU3WF9oLWJYQTMxOXlwWVdFRU5tTEtGQndhVlp0VA?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Artur Jorge aponta Matheus Pereira como melhor camisa 10 do futebol brasileiro",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Cruzeiro"
-   ],
-   "foco": false,
-   "nota": 57.6,
-   "sinais": {
-    "busca": 75,
-    "aceleracao": 70,
-    "midia": 46,
-    "aderencia": 70,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "artur jorge",
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "melho|perei|artur|brasi",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Artur Jorge aponta Matheus Pereira como melhor camisa 10 do futebol brasileiro. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
-    "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Artur Jorge aponta Matheus Pereira como melhor camisa 10 do futebol brasileiro?",
-    "tecnica": "Aposta",
-    "ganchos": [
-     {
-      "tecnica": "Aposta",
-      "texto": "Artur Jorge aponta Matheus Pereira como melhor camisa 10 do futebol brasileiro. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "“artur jorge”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Artur Jorge aponta Matheus Pereira como melhor camisa 10 do futebol brasileiro. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Artur Jorge aponta Matheus Pereira como melhor camisa 10 do futebol brasileiro. Parece notícia pequena. Não é.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Artur Jorge aponta Matheus Pereira como melhor camisa 10 do futebol brasileiro. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
-      "thumb": "E AGORA, CRUZEIRO?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Artur Jorge aponta Matheus Pereira como melhor camisa 10 do futebol brasileiro",
-     "fonte": "gazetaesportiva.com",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZjNrQms2Qmdaa0xCaFlib1pBUXByeW15SHROWDVQOFNvWjdmN1BsMWh4RnJ0OHA1X3JsZlh0MWVSMElOWnRrX1R4alY1THlUQzR3Z3lJUTdqWVlfOTg5UFZyN3F2eVNfR2pMVzZVUzlDSFdON3AxbXVCVHpUWkFuSlhmNmlNUkttYzVOakNkWjJfNmdjZmJXZWVSZ1BvUnRyVlMxVS1jc19YMHBtR3FWSlpmTXhhSDVudjZpSjh6SdIBvwFBVV95cUxNZjNrQms2Qmdaa0xCaFlib1pBUXByeW15SHROWDVQOFNvWjdmN1BsMWh4RnJ0OHA1X3JsZlh0MWVSMElOWnRrX1R4alY1THlUQzR3Z3lJUTdqWVlfOTg5UFZyN3F2eVNfR2pMVzZVUzlDSFdON3AxbXVCVHpUWkFuSlhmNmlNUkttYzVOakNkWjJfNmdjZmJXZWVSZ1BvUnRyVlMxVS1jc19YMHBtR3FWSlpmTXhhSDVudjZpSjh6SQ?oc=5"
-    },
-    {
-     "titulo": "Artur Jorge põe Matheus Pereira como melhor 10 do Brasil e crava joia do Cruzeiro que estará na Seleção: 'Garantidamente'",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSFF3WGFPMHJ2eHRXTklhVVdVa1RUQ1U5NGhMQjktSGxjZHU3NDNEckdLZWhZSkVxX05ublJjZFhZdkFRaHlTYzljS3hEbVEtV01XYXJHYXowT2VraHoxeFA4dEIyamZnaldiMGhvLTZvVHlIOWNXemV6UTUxdTZnb044V3pscFBGTkh2dkFIWno1TS01UEdtTGhvdWtxRDVtRFMtTmRlRGpheXhWTm96VDQ4OVBkOGhtUFhrR3hCb3dLT1Z2Z3JWWWFqaWZ1Vm5Va2dpS250ZF9GVHplUk9ZRUN4NTBwb1hhVzlQR19DNENpdw?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Palmeiras disputa coletivo e treina marcação em preparação para partida contra o Bahia",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Palmeiras",
-    "Bahia"
-   ],
-   "foco": true,
-   "nota": 57.1,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 79,
-    "midia": 67,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 4,
-   "assinatura": "palme|trein|colet|bahia",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Palmeiras disputa coletivo e treina marcação em preparação para partida contra o Bahia. Nem todo mundo no Palmeiras vai gostar disso, e eu vou explicar por quê.",
-    "titulo_thumb": "PALMEIRAS x BAHIA",
-    "pergunta_enquete": "Qual sua opinião: Palmeiras disputa coletivo e treina marcação em preparação para partida contra o Bahia?",
-    "tecnica": "Conflito",
-    "ganchos": [
-     {
-      "tecnica": "Conflito",
-      "texto": "Palmeiras disputa coletivo e treina marcação em preparação para partida contra o Bahia. Nem todo mundo no Palmeiras vai gostar disso, e eu vou explicar por quê.",
-      "thumb": "PALMEIRAS x BAHIA"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Palmeiras disputa coletivo e treina marcação em preparação para partida contra o Bahia. Parece notícia pequena. Não é.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Palmeiras disputa coletivo e treina marcação em preparação para partida contra o Bahia. Isso é bom ou ruim para o Palmeiras? Responde antes de ver a minha análise.",
-      "thumb": "E AGORA, PALMEIRAS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Palmeiras disputa coletivo e treina marcação em preparação para partida contra o Bahia. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Palmeiras faz treino com coletivo de dois tempos e presença da base",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVXVzWU9OeVNUelNDNlRabHZ2VGlaU3pmbkxoN0t3bHVKbk9EamRHYzIzZFNoU0FEZjlrQWd5Z2k1VFBLV1ljQ0lWMWY3V3Z3c1Axa1FnTC0tNy15Z0JKNjdmMHQ2M3pzSDhreGdXcnNIdTFobzl2YmxoLTFqNElLUXJoSDRSQ0tEOENkTWNsOUNVLUl4VWdhMU9peHBPRWNlbEpzOHM0MkNsQUhXSU9wRldyZnlyZV9qUVE5SV9UYWJvYS1tTGhJeS12eWxkQURnUmNfODQ4TDZrSzEzU0pKX2pwOEhPLWFFSDFPc3Vn?oc=5"
-    },
-    {
-     "titulo": "Palmeiras disputa coletivo e treina marcação em preparação para partida contra o Bahia",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTndJdlNuc3dra2J1dkMxQkEwLU1QcG9DSjJSV3lrdk9ELW1ObDl6Q3VYT1FTVGY2a1Z6U2NzTjdTemstVmwtbWdUd282QnZQbDFMMjNERDlmcTdRRHpmZ2tFVVB6VU5XaEZtWEFYMC0wUUlBRzhPRTZUcnJ6SnZETnYzR1FOdkNDR2swVzZSWjNRQmlEOFBIbkpUUUtjSEIwdW16LUZzbVZyRTJick9FaEVteVBPMGVLY3VxSzdrV2RYaDNuYzlscnpNQmVtcmh6WGMxNVNrQVY2ZDNNNkJ2eEh2R19PZkJLMUFjRNIB-wFBVV95cUxOSEM0bjZMeldNTllfaTkwMVllT3gwdHlfWXZvVTFjNzZnSjFSZ3o3YjBEakpfUUhMOEVsR0h2bjZIeWxxVGxsbzItS3JOV2lxSm96bkgySHpIT2E3c3BKRWFEa05NMlVzaGlhYk51ZGcyVlpMYWNTRWdDS1ZFbloybzhSUVZjVHNpTnBLV0dLQkxWQ2ZuWUxzRTdXQlZYYkZMR0pZeml3WmZrakhnZ1drWjV0Z3Y0TFhSdXhxVFZFX2ZOMFBsQ2pXcnlTdXItTTE1MjRmSEdGRE55X3c2Z2pnZmJFTHVIdEJwaVZrTjN1UUozVEF1Sm1VVDRaWQ?oc=5"
-    },
-    {
-     "titulo": "Verdão disputa coletivo e capitão do Sub-20 comenta experiência de treinos com o elenco",
-     "fonte": "palmeiras.com.br",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckdnVXQ0bjNsNW1MaWk2OEU0QkNwU1lBQ1JPMHhPQ2RBQ0FwSFBIVGNnTzlPWHpXaHBfVkFFYzhpXzN6dTk0c09zTlBYUlBScFdIU2VOb3BEZjlEV3VibXY2U2tpR0tHVGZOUFdza1NCbG0xN0F0OVlaVDlXVzFMc3RIVVFzU3NVTVpQOUJpRGFGODNlVnlVenNIQmRsS1Z6SHR1MG5KSExUdnJrRDdXOWQyU3Z5dDl5Q3A5c00xRmJmRGZa?oc=5"
-    },
-    {
-     "titulo": "Palmeiras segue em preparação para jogo contra o Bahia",
-     "fonte": "gazetaesportiva.com",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU3owVEJkWUVrNUtPcmJsVXdOcHFwNDR2bmZCQzRCcTE1NnJvY3hvbGdvZDA1Z2duX3E2WVlkQ25FVmdCT3V5TkpCRmxpbXZqTmNNT1B2Y2p2VGtqWTU4cEVVZGpmQWNuWVVXNEhpRnZXUnNaR3dMRjFlQm5vRm5oMG9scGgyc2tmaUZNVlVHV3dlRmRwakR3V0VQMURzZ2ludzN4OFJn0gGrAUFVX3lxTE9wN0FiUW0yM1lMSFNYNXhfOXhIS0UxbFhWVDh3UFA2Q3FDM05UMVdXdFRia2lCZ3RDTWEtbHQ3cW91bVBSQXktMkd5WjRDY1VEa3V4ZDM1V0VibTBZNFk0TG5QOVVud2JnbGxLb3RkSHZLU1B1NjY2aGg5RF9BNUNIQTBIVENnX3JJYVhxbzZ6REJKSmRqQ1ZmaUMyUE9GcHVkUG9GQ1o0aXl6aw?oc=5"
+     "titulo": "Arrascaeta passa por cirurgia: 'Concluída com sucesso', diz Flamengo",
+     "fonte": "UOL",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSVBXc1pvdU9NX2xBdjU1d004ZE5hZ196Zi1SaFh6NVdDblh3Tmp1bXl2NlR2QVpLUE8xbjZtTmlNU0JBaGtVaFZzcllxaFdzb2NKRW9LbXZaNk1hNEJIbE1lSVdPM05WVUFwaEUtOHJkTHVFdC1jT2hDV0o4dDIzWU9YNGtNMGNJRGl2clF5MHNLRUtzWk11eW5SdUtONUhzdDhFaE5Jc3k0NkcwTHBCaGxJRXU1X1FiTnczazRzVV95bExTdGxwMWIyLXZuS2h6Q1E?oc=5"
     }
    ]
   }
