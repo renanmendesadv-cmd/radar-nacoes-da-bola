@@ -75,6 +75,7 @@ jobs:
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          NTFY_TOPICO: ${{ secrets.NTFY_TOPICO }}
           RAIOX_PAINEL: ${{ vars.RAIOX_PAINEL || '1' }}
           RAIOX: ${{ inputs.raio_x && '1' || '' }}
           DRY_RUN: ${{ (github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && !inputs.enviar_email)) && '1' || '' }}
@@ -101,6 +102,8 @@ jobs:
               tmp="$(mktemp -d)"; cp -r docs data "$tmp"/
               git reset -q --hard origin/main
               cp -r "$tmp"/docs "$tmp"/data .
+              # Os arquivos do vigia de hora em hora são dele: ficam como estão na main.
+              git checkout origin/main -- docs/alertas.json data/vigia.json 2>/dev/null || true
               git add -A -- docs data
               git diff --cached --quiet || git commit -q -m "$MSG"
             fi

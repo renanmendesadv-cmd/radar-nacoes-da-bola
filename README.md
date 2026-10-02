@@ -52,6 +52,35 @@ Para mudar clubes, buscas, pesos e limites, edite `radar/config.py`.
 
 ---
 
+## Vigia do YouTube: aviso no celular e no painel (de hora em hora)
+
+O workflow **Vigia do YouTube** (`.github/workflows/vigia.yml`, código em `radar/vigia.py`) confere o YouTube
+de hora em hora, das 8h às 22h (Brasília). Quando um assunto ligado ao canal está bombando, ele avisa:
+
+- **no celular**, pelo app gratuito **ntfy** (Android e iPhone), com som e botões "Ver o vídeo" e "Abrir o radar";
+- **no painel**: faixa laranja presa no topo, contador na aba ("🔥 (1) Radar…"), ícone laranja e um toque curto
+  (depois de ligar o botão **🔔 Som** uma vez). Com o painel aberto, a conferência é a cada 5 minutos.
+
+Critérios: os mesmos dos alertas da manhã (3x a média de views por hora, engajamento na média, ligação com o canal)
+e mais um: vídeo do assunto ganhando 20 mil views ou mais por hora. Os alertas da manhã também tocam no celular.
+Limites: no máximo 3 avisos por dia somando manhã e vigia, o mesmo assunto não volta antes de 3 dias,
+e silêncio das 23h às 7h. Custo na cota do YouTube: de 2 a 6 unidades por conferência (sem busca).
+
+### Configurar o celular (uma vez, ~5 minutos)
+
+1. Instale o app **ntfy** (Play Store ou App Store).
+2. Invente um nome de canal difícil de adivinhar, só com letras, números e hífen, por exemplo
+   `nacoes-radar-` seguido de 3 palavras aleatórias e um número. **Esse nome funciona como senha**:
+   quem souber consegue ler os avisos. Não publique em lugar nenhum.
+3. No app: botão **+** → digite o nome → **Subscribe** (servidor padrão, ntfy.sh).
+4. No GitHub: **Settings → Secrets and variables → Actions → New repository secret**,
+   nome `NTFY_TOPICO`, valor = o mesmo nome do passo 2.
+5. **Actions → Vigia do YouTube → Run workflow** (com "Só mandar uma notificação de teste" marcado).
+   Em cerca de 1 minuto o celular toca com "🔔 Teste do Radar".
+
+Dicas do app: no Android, em Configurações do ntfy, ligue **Entrega instantânea** para o aviso não atrasar
+e escolha o som; no iPhone, permita notificações do ntfy. Sem o Secret, o vigia continua avisando só no painel.
+
 ## Ganchos: 5 técnicas
 
 Cada pauta traz um gancho principal e mais até 4 alternativas, uma por técnica (`radar/ganchos.py`):

@@ -36,6 +36,22 @@ header.top{display:flex;flex-direction:column;gap:14px;border-bottom:3px solid v
 h1{font-size:calc(40px*var(--esc));line-height:1.05;margin-top:4px}
 .data{font-size:calc(19px*var(--esc));color:var(--sub);margin-top:4px}
 .btn-letra{min-width:60px;min-height:60px;border-radius:14px;border:3px solid var(--ink);background:var(--card);color:var(--ink);font-size:calc(22px*var(--esc));font-weight:700;cursor:pointer}
+.acoes-topo{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
+.btn-som{padding:0 14px;white-space:nowrap}
+.btn-som[aria-pressed="true"]{background:var(--acc);border-color:var(--acc);color:#FFFFFF}
+/* Faixa de alerta ao vivo: fica presa no topo até ele clicar em "Já vi". Sem piscar: só um ponto que pulsa devagar. */
+.aviso-alerta{position:sticky;top:0;z-index:50;background:var(--hot);color:#FFFFFF;border-radius:0 0 16px 16px;margin-top:-20px;padding:14px 16px;display:flex;flex-wrap:wrap;align-items:center;gap:10px 14px;box-shadow:0 4px 14px rgba(0,0,0,.2)}
+.aviso-alerta[hidden]{display:none}
+.aviso-alerta .pulso{width:16px;height:16px;border-radius:50%;background:#FFFFFF;flex-shrink:0;animation:pulso 1.8s ease-in-out infinite}
+@keyframes pulso{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.4;transform:scale(.7)}}
+@media (prefers-reduced-motion:reduce){.aviso-alerta .pulso{animation:none}}
+.aviso-alerta .txt{flex:1 1 220px;font-size:calc(20px*var(--esc));font-weight:700;line-height:1.3}
+.aviso-alerta .acoes{display:flex;gap:8px;flex-wrap:wrap}
+.aviso-alerta button{min-height:48px;padding:0 16px;border-radius:12px;border:2px solid #FFFFFF;font-size:calc(17px*var(--esc));font-weight:700;cursor:pointer;background:#FFFFFF;color:var(--hot)}
+.aviso-alerta button.sec{background:transparent;color:#FFFFFF}
+.aviso-alerta button:focus-visible{outline-color:#FFFFFF}
+.alerta .quando{font-size:calc(16px*var(--esc));font-weight:700;opacity:.92}
+.alerta .gancho-a{background:rgba(255,255,255,.14);border-radius:12px;padding:10px 12px;font-size:calc(19px*var(--esc));line-height:1.4}
 nav.abas{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
 .aba{display:flex;align-items:center;min-height:52px;padding:0 18px;border-radius:14px;font-size:calc(19px*var(--esc));font-weight:700;cursor:pointer;border:3px solid var(--line);background:var(--card);color:var(--ink)}
 .aba[aria-selected="true"]{background:var(--acc);border-color:var(--acc);color:#FFFFFF}
@@ -188,6 +204,14 @@ details ul,details ol{margin:6px 0 0;padding-left:20px;display:flex;flex-directi
 </style>
 
 <div class="wrap">
+  <div id="aviso-alerta" class="aviso-alerta" role="alert" hidden>
+    <span class="pulso" aria-hidden="true"></span>
+    <span class="txt" id="aviso-txt"></span>
+    <span class="acoes">
+      <button type="button" id="aviso-ver">Ver alerta</button>
+      <button type="button" class="sec" id="aviso-visto">Já vi</button>
+    </span>
+  </div>
   <header class="top">
     <div class="topo">
       <div>
@@ -195,7 +219,10 @@ details ul,details ol{margin:6px 0 0;padding-left:20px;display:flex;flex-directi
         <h1 id="titulo">Pautas de hoje</h1>
         <p class="data" id="quando">—</p>
       </div>
-      <button class="btn-letra" type="button" id="letra" aria-label="Aumentar a letra" title="Aumentar a letra">A+</button>
+      <div class="acoes-topo">
+        <button class="btn-letra btn-som" type="button" id="som" aria-pressed="false">🔕 Som</button>
+        <button class="btn-letra" type="button" id="letra" aria-label="Aumentar a letra" title="Aumentar a letra">A+</button>
+      </div>
     </div>
     <nav class="abas" role="tablist" aria-label="Seções do painel">
       <button class="aba" role="tab" id="aba-pautas" aria-controls="painel-pautas" aria-selected="true" type="button">Pautas</button>
@@ -677,9 +704,13 @@ details ul,details ol{margin:6px 0 0;padding-left:20px;display:flex;flex-directi
       box.appendChild(el("article", {cls:"alerta"}, [
         el("span", {cls:"tipo"}, [icone("fogo"), document.createTextNode("Bombando no YouTube agora")]),
         el("h4", {text:a.tema}),
+        a.avisado_em ? el("span", {cls:"quando", text:"Avisado às " + horaCurta(a.avisado_em)}) : null,
+        a.ganho_hora ? el("p", null, [el("b", {text:"+" + num(a.ganho_hora) + " views na última hora"}), " no vídeo mais forte."]) : null,
         el("p", {text: a.n_videos + (a.n_videos === 1 ? " vídeo e " : " vídeos e ") + num(a.views) + " views em 48 horas. "}, [el("b", {text:"Formato em alta: " + a.formato_em_alta + "."})]),
         el("p", null, [el("b", {text:"Faça também: "}), a.sugestao + "."]),
         el("p", {style:"font-size:calc(17px*var(--esc))", text:"O vídeo mais forte tem " + vel + "x mais views por hora que a média do futebol no YouTube, com engajamento " + eng + "x a média." + (a.dica_do_canal ? " " + a.dica_do_canal : "")}),
+        a.gancho ? el("p", {cls:"gancho-a"}, [el("b", {text:"Gancho: "}), "“" + a.gancho + "”"]) : null,
+        a.gancho ? botaoCopiar("Copiar gancho", a.gancho) : null,
         primeiro ? el("a", {cls:"btn", href:/^https?:\/\//.test(primeiro.url) ? primeiro.url : "#", target:"_blank", rel:"noopener", text:"Ver o vídeo mais forte"}) : null,
         el("details", null, [el("summary", {text:"Outros vídeos"}), el("ul", null, a.exemplos.map(function(v){
           return el("li", null, [link(v.url, v.titulo), " · " + v.canal + " · " + v.formato + " · " + num(v.views) + " views"]); }))])
@@ -726,7 +757,8 @@ details ul,details ol{margin:6px 0 0;padding-left:20px;display:flex;flex-directi
     var vids = document.getElementById("videos");
     (d.videos_recentes || []).slice(0, 6).forEach(function(v){ vids.appendChild(el("li", null, [link(v.url, v.titulo)])); });
     if (!(d.videos_recentes || []).length) vids.appendChild(el("li", {text:"Lista do canal indisponível nesta execução."}));
-    desenharAlertas(d.alertas || []);
+    alertasManha = d.alertas || [];
+    renderAlertas();
     desenharJogos(d.agenda || {});
     desenharBuscas(d.buscas_torcedor || {});
     var pesos = document.getElementById("pesos");
@@ -1028,6 +1060,131 @@ details ul,details ol{margin:6px 0 0;padding-left:20px;display:flex;flex-directi
     });
   });
   document.getElementById("f-cat").addEventListener("change", function(e){ estado.cat = e.target.value; if (dados) desenharLista(); });
+  // ------------------------------------------------------------ alerta ao vivo (vigia de hora em hora)
+  // O vigia grava docs/alertas.json quando acha assunto bombando. O painel confere a cada 5 minutos
+  // (e ao voltar para a aba): alerta novo -> faixa no topo, contador na aba, ícone laranja e som.
+  var alertasManha = [], alertasVigia = [], conhecidos = null, TITULO = document.title;
+  function idAlerta(a){ return a.id || ((a.exemplos || [])[0] || {}).url || a.tema; }
+  function horaCurta(iso){
+    var hm = new Date(iso).toLocaleTimeString("pt-BR", {hour:"numeric", minute:"2-digit", timeZone:"America/Sao_Paulo"}).split(":");
+    return parseInt(hm[0], 10) + "h" + hm[1];
+  }
+  function todosAlertas(){
+    var ja = {}, lista = [];
+    alertasVigia.concat(alertasManha).forEach(function(a){ var k = idAlerta(a); if (!ja[k]){ ja[k] = 1; lista.push(a); } });
+    return lista;
+  }
+  function lerVistos(){ try { return JSON.parse(localStorage.getItem("radar-alertas-vistos") || "[]"); } catch (e) { return []; } }
+  function marcarVistos(){
+    var v = lerVistos();
+    todosAlertas().forEach(function(a){ var k = idAlerta(a); if (v.indexOf(k) < 0) v.push(k); });
+    try { localStorage.setItem("radar-alertas-vistos", JSON.stringify(v.slice(-80))); } catch (e) {}
+    atualizarAviso();
+  }
+  function favicon(alerta){
+    var cor = alerta ? "#9A3412" : "#0A6B5A";
+    var svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><circle cx="32" cy="32" r="30" fill="' + cor + '"/>' +
+      (alerta ? '<text x="32" y="47" font-size="44" text-anchor="middle" fill="#fff" font-family="Arial" font-weight="700">!</text>'
+              : '<circle cx="32" cy="32" r="11" fill="#fff"/>') + '</svg>';
+    var l = document.getElementById("favicon");
+    if (!l){ l = document.createElement("link"); l.id = "favicon"; l.rel = "icon"; document.head.appendChild(l); }
+    l.href = "data:image/svg+xml," + encodeURIComponent(svg);
+  }
+  function atualizarAviso(){
+    var vistos = lerVistos();
+    var novos = todosAlertas().filter(function(a){ return vistos.indexOf(idAlerta(a)) < 0; });
+    document.getElementById("aviso-alerta").hidden = !novos.length;
+    if (novos.length){
+      document.getElementById("aviso-txt").textContent = (novos.length > 1 ? novos.length + " assuntos bombando no YouTube. O mais novo: "
+        : "Bombando no YouTube agora: ") + novos[0].tema;
+    }
+    document.title = novos.length ? "🔥 (" + novos.length + ") " + TITULO : TITULO;
+    favicon(novos.length > 0);
+  }
+  function renderAlertas(){ desenharAlertas(todosAlertas()); atualizarAviso(); }
+
+  // Som: o navegador só deixa tocar depois de um clique na página. Por isso o botão "Som".
+  var som = false, ctxAudio = null;
+  try { som = localStorage.getItem("radar-som") === "1"; } catch (e) {}
+  function audio(){
+    var A = window.AudioContext || window.webkitAudioContext;
+    if (!A) return null;
+    if (!ctxAudio) ctxAudio = new A();
+    if (ctxAudio.state === "suspended") ctxAudio.resume();
+    return ctxAudio;
+  }
+  function tocar(){
+    var c = audio();
+    if (!c) return;
+    var t = c.currentTime + 0.05;
+    [[784, 0], [988, 0.2], [1319, 0.4], [784, 1.2], [988, 1.4], [1319, 1.6]].forEach(function(n){
+      var o = c.createOscillator(), g = c.createGain();
+      o.type = "sine"; o.frequency.value = n[0];
+      g.gain.setValueAtTime(0.0001, t + n[1]);
+      g.gain.exponentialRampToValueAtTime(0.3, t + n[1] + 0.03);
+      g.gain.exponentialRampToValueAtTime(0.0001, t + n[1] + 0.45);
+      o.connect(g); g.connect(c.destination);
+      o.start(t + n[1]); o.stop(t + n[1] + 0.5);
+    });
+  }
+  function pintarSom(){
+    var b = document.getElementById("som");
+    b.textContent = som ? "🔔 Som" : "🔕 Som";
+    b.setAttribute("aria-pressed", String(som));
+    b.setAttribute("aria-label", som ? "Som dos alertas ligado. Clique para desligar" : "Som dos alertas desligado. Clique para ligar");
+    b.title = som ? "Som dos alertas ligado" : "Ligar o som dos alertas";
+  }
+  pintarSom();
+  document.getElementById("som").addEventListener("click", function(){
+    som = !som;
+    try { localStorage.setItem("radar-som", som ? "1" : "0"); } catch (e) {}
+    pintarSom();
+    if (som){
+      tocar();  // amostra do som, e libera o áudio nesta visita
+      try { if ("Notification" in window && Notification.permission === "default") Notification.requestPermission(); } catch (e) {}
+    }
+  });
+  // Depois de recarregar a página, o primeiro toque em qualquer lugar libera o som de novo.
+  document.addEventListener("pointerdown", function(){ if (som) audio(); });
+  document.addEventListener("keydown", function(){ if (som) audio(); });
+
+  function chamarAtencao(novos){
+    if (som) tocar();
+    try {
+      if (document.hidden && "Notification" in window && Notification.permission === "granted"){
+        novos.forEach(function(a){ new Notification("🔥 Bombando no YouTube agora", {body:a.tema, tag:idAlerta(a)}); });
+      }
+    } catch (e) {}
+  }
+  function conferirAlertas(){
+    var t = "?t=" + Date.now();
+    function pega(arq){ return fetch(arq + t, {cache:"no-store"}).then(function(r){ return r.ok ? r.json() : null; }).catch(function(){ return null; }); }
+    Promise.all([pega("alertas.json"), pega("data.json")]).then(function(res){
+      var corte = Date.now() - 24 * 3600 * 1000;
+      if (res[0]) alertasVigia = (res[0].alertas || []).filter(function(a){ return !a.avisado_em || new Date(a.avisado_em).getTime() >= corte; });
+      if (res[1] && res[1].alertas) alertasManha = res[1].alertas;
+      var atuais = todosAlertas().map(idAlerta);
+      var chegaram = conhecidos ? todosAlertas().filter(function(a){ return conhecidos.indexOf(idAlerta(a)) < 0; }) : [];
+      conhecidos = atuais;
+      renderAlertas();
+      if (chegaram.length) chamarAtencao(chegaram);
+    });
+  }
+  document.getElementById("aviso-visto").addEventListener("click", marcarVistos);
+  document.getElementById("aviso-ver").addEventListener("click", function(){
+    abrirAba("pautas");
+    marcarVistos();
+    var alvo = document.getElementById("sec-alertas");
+    alvo.setAttribute("tabindex", "-1");
+    alvo.scrollIntoView({behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block:"start"});
+    alvo.focus({preventScroll:true});
+  });
+  favicon(false);
+  if (!window.RADAR_DATA){
+    setInterval(conferirAlertas, 5 * 60 * 1000);
+    document.addEventListener("visibilitychange", function(){ if (!document.hidden) conferirAlertas(); });
+  }
+
   function iniciar(d){
     try {
       var salvo = localStorage.getItem("radar-clube");
@@ -1041,7 +1198,7 @@ details ul,details ol{margin:6px 0 0;padding-left:20px;display:flex;flex-directi
   if (window.RADAR_DATA){ iniciar(window.RADAR_DATA); }
   else {
     fetch("data.json", {cache:"no-store"}).then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
-      .then(iniciar)
+      .then(function(d){ iniciar(d); conferirAlertas(); })
       .catch(function(){
         document.getElementById("lista").replaceChildren(el("li", {cls:"vazio", text:"O radar ainda não rodou. Na aba Actions do GitHub, abra “Radar diário” e clique em “Run workflow”. Em cerca de 2 minutos as pautas aparecem aqui."}));
       });

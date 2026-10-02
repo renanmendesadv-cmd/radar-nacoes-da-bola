@@ -29,7 +29,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from . import agenda, alcance, analytics, buscas, collect, config as C, ganchos, report, score, tendencias, youtube
+from . import agenda, alcance, analytics, avisos, buscas, collect, config as C, ganchos, report, score, tendencias, youtube
 
 RAIZ = Path(__file__).resolve().parent.parent
 
@@ -154,8 +154,14 @@ def main() -> int:
         desempenho = raiox
         if desempenho is None and (DOCS / "desempenho.json").exists():
             desempenho = json.loads((DOCS / "desempenho.json").read_text("utf-8"))
+        # O vigia de hora em hora (radar/vigia.py) tem a própria lista de avisados: nada se repete,
+        # e os avisos do dia somados não passam de VIGIA_MAX_AVISOS_DIA.
+        vig = json.loads((DADOS / "vigia.json").read_text("utf-8")) if (DADOS / "vigia.json").exists() else {}
+        restam = C.VIGIA_MAX_AVISOS_DIA - (vig.get("enviados") or {}).get(hoje, 0)
         alertas = tendencias.detectar(temas, em_alta, agora, DADOS / "youtube-base.json", estado, desempenho,
-                                      bruto.get("channel_id"))
+                                      bruto.get("channel_id"), avisados_extra=vig.get("avisados") or {},
+                                      limite=min(C.ALERTA_MAX_POR_DIA, restam))
+        avisos.anexar_gancho(alertas, temas, hoje)
         bruto["status"]["Alertas de tendência"] = len(alertas) or "nenhum hoje"
 
     # Agenda: ESPN; se ela falhar, as buscas do Google ("palmeiras x ldu"); e os jogos citados nas manchetes.
@@ -204,6 +210,13 @@ def main() -> int:
     if os.environ.get("DRY_RUN") == "1":
         log.info("DRY_RUN: e-mail não enviado. Prévia em data/ultimo-email.html")
         return codigo_final
+
+    # Alertas da manhã também tocam no celular (ntfy), se o Secret NTFY_TOPICO estiver cadastrado.
+    topico = (os.environ.get("NTFY_TOPICO") or "").strip()
+    if topico:
+        for a in alertas:
+            if not avisos.enviar(avisos.mensagem(a, painel), topico, os.environ.get("NTFY_SERVIDOR")):
+                log.error("Aviso no celular não enviado: %s", a["tema"])
     para = [e.strip() for e in os.environ.get("EMAIL_TO", "").split(",") if e.strip()]
     if not (para and os.environ.get("SMTP_USER") and os.environ.get("SMTP_PASS")):
         log.warning("Secrets de e-mail ausentes: painel atualizado, e-mail não enviado.")

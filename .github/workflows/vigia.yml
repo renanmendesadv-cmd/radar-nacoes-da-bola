@@ -1,0 +1,89 @@
+# Vigia do YouTube: de hora em hora, das 8h às 22h (Brasília), procura assunto ligado ao canal
+# bombando no YouTube e avisa no celular (app ntfy) e no painel. Código em radar/vigia.py.
+# Secrets usados: YOUTUBE_API_KEY e NTFY_TOPICO (o nome do canal de avisos, que funciona como senha).
+name: Vigia do YouTube
+
+on:
+  schedule:
+    # Minuto 23 foge do congestionamento das horas cheias. Horários em UTC (Brasília = UTC-3).
+    - cron: "23 11-23 * * *"   # 08:23 às 20:23
+    - cron: "23 0,1 * * *"     # 21:23 e 22:23
+  workflow_dispatch:           # botão "Run workflow"
+    inputs:
+      teste:
+        description: "Só mandar uma notificação de teste para o celular"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  # Grupo próprio: nunca cancela nem atrasa o radar da manhã.
+  group: vigia
+  cancel-in-progress: false
+
+jobs:
+  vigia:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      # Views de cada vídeo na conferência anterior, para medir o ganho da última hora.
+      # Fica no cache do GitHub, fora do repositório (não vira commit de hora em hora).
+      - uses: actions/cache/restore@v4
+        with:
+          path: .vigia
+          key: vigia-${{ github.run_id }}
+          restore-keys: vigia-
+
+      - name: Conferir o YouTube
+        id: vigia
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          NTFY_TOPICO: ${{ secrets.NTFY_TOPICO }}
+          PANEL_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+          VIGIA_TESTE: ${{ github.event_name == 'workflow_dispatch' && inputs.teste && '1' || '' }}
+          VIGIA_FORCAR: ${{ github.event_name == 'workflow_dispatch' && '1' || '' }}
+        run: |
+          set +e
+          python -m radar.vigia
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: .vigia
+          key: vigia-${{ github.run_id }}
+
+      - name: Salvar alerta no painel
+        run: |
+          git config user.name  "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          for f in docs/alertas.json data/vigia.json; do [ -f "$f" ] && git add -- "$f"; done
+          if git diff --cached --quiet; then echo "Nenhum alerta novo."; exit 0; fi
+          git commit -q -m "Vigia: alerta de $(TZ=America/Sao_Paulo date '+%d/%m/%Y %H:%M')"
+          # O radar da manhã não mexe nesses dois arquivos: juntar com o que mudou na main é seguro.
+          for tentativa in 1 2 3; do
+            git push && exit 0
+            git fetch -q origin main
+            git rebase -q origin/main || { git rebase --abort; exit 1; }
+            sleep $((tentativa * 3))
+          done
+          echo "::error::Não foi possível salvar o alerta no painel."
+          exit 1
+
+      - name: Avisar falha
+        if: steps.vigia.outputs.code != '0'
+        run: |
+          echo "::error::O aviso no celular não foi entregue (ou o Secret NTFY_TOPICO não está cadastrado). Veja o log do passo 'Conferir o YouTube'."
+          exit 1

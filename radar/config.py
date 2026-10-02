@@ -173,6 +173,18 @@ ALERTA_MIN_VIEWS = 20_000       # o vídeo mais forte do assunto precisa ter pel
 ALERTA_MAX_POR_DIA = 3
 ALERTA_REPETIR_APOS_DIAS = 3    # o mesmo assunto não é avisado de novo antes disso
 
+# ---- Vigia de hora em hora e aviso no celular (ntfy) --------------------------------
+# O vigia (.github/workflows/vigia.yml) confere o YouTube de hora em hora com os mesmos critérios
+# acima, sem gastar busca: só a lista "Em alta" e as estatísticas dos vídeos das pautas (~2 a 6
+# unidades da cota por conferência, de 10.000 por dia).
+VIGIA_HORA_INICIO = 8           # primeira conferência (Brasília)
+VIGIA_HORA_FIM = 22             # última conferência; das 23h às 7h, silêncio
+VIGIA_MAX_AVISOS_DIA = 3        # avisos no celular por dia, contando os alertas da manhã
+VIGIA_GANHO_HORA = 20_000       # vídeo do assunto ganhando isto de views por hora também dispara
+VIGIA_URGENTE_VELOCIDADE = 6.0  # a partir daqui o aviso vai como "urgente" (som e destaque maiores)
+VIGIA_URGENTE_GANHO = 50_000
+NTFY_SERVIDOR = "https://ntfy.sh"
+
 # ---- Estimativa de monetização (30 dias) --------------------------------------------
 # RPM = quanto o canal recebe a cada 1.000 views (já descontada a parte do YouTube), em reais.
 # São faixas de referência para canais brasileiros de futebol e variam muito com época do ano,

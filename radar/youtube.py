@@ -139,6 +139,18 @@ def em_alta_esportes(chave: str, get=requests.get) -> list[dict]:
     return [video_da_api(v) for v in res.get("items", [])]
 
 
+def videos_por_id(ids: list[str], chave: str, get=requests.get) -> dict[str, dict]:
+    """Estatísticas atuais de vídeos já conhecidos (videos.list: 1 unidade a cada 50 vídeos)."""
+    saida = {}
+    ids = list(dict.fromkeys(i for i in ids if i))
+    for k in range(0, len(ids), 50):
+        res = _get(get, "videos", {"part": "snippet,statistics,contentDetails,liveStreamingDetails",
+                                   "id": ",".join(ids[k:k + 50])}, chave)
+        for v in res.get("items", []):
+            saida[v["id"]] = video_da_api(v)
+    return saida
+
+
 def buscar(consulta: str, agora: datetime, chave: str, get=requests.get, clube: str | None = None,
            canal_id: str | None = None) -> dict:
     desde = (agora - timedelta(hours=C.YT_HORAS)).astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")

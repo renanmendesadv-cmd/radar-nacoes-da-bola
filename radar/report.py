@@ -118,6 +118,7 @@ def montar_email(dados: dict, top: int, painel_url: str | None) -> tuple[str, st
    <h2 style="margin:0 0 6px;font:700 17px/1.3 Arial,sans-serif;color:{TINTA}">{_e(a["tema"])}</h2>
    <p style="margin:0 0 6px;font:14px/1.45 Arial,sans-serif;color:{TINTA}">{a["n_videos"]} vídeo(s), {_n(a["views"])} views em 48 h. O mais forte tem <b>{vel}x mais views por hora</b> que a média do futebol no YouTube, com engajamento <b>{eng}x</b> a média.</p>
    <p style="margin:0 0 6px;font:14px/1.45 Arial,sans-serif;color:{TINTA}"><b>Faça também:</b> {_e(a["sugestao"])}.</p>
+   {f'<p style="margin:0 0 6px;font:14px/1.45 Arial,sans-serif;color:{TINTA}"><b>Gancho:</b> “{_e(a["gancho"])}”</p>' if a.get("gancho") else ""}
    <ul style="margin:0;padding-left:18px;font:13px/1.4 Arial,sans-serif">{ex}</ul>
    {dica}
   </td></tr>

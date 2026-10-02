@@ -74,23 +74,25 @@ def _mediana(xs):
 BASE_MIN_VIDEOS = 20  # um dia só entra na linha de base com amostra suficiente
 
 
-def atualizar_base(amostra: list[dict], agora: datetime, caminho: Path) -> dict:
+def atualizar_base(amostra: list[dict], agora: datetime, caminho: Path, gravar: bool = True) -> dict:
     """Guarda a mediana do dia e devolve a linha de base (mediana dos últimos 14 dias).
 
     A amostra vem só dos vídeos das pautas (futebol em geral). A lista "Em alta" fica de fora:
-    ela já é o topo do YouTube e puxaria a média para cima, escondendo as tendências."""
+    ela já é o topo do YouTube e puxaria a média para cima, escondendo as tendências.
+    gravar=False (vigia de hora em hora): só lê a linha de base, sem mexer no arquivo."""
     try:
         hist = json.loads(caminho.read_text("utf-8")) if caminho.exists() else {}
     except ValueError:
         hist = {}
     hoje = agora.date().isoformat()
-    if len(amostra) >= BASE_MIN_VIDEOS:
+    if gravar and len(amostra) >= BASE_MIN_VIDEOS:
         hist[hoje] = {"vph": _mediana([v["vph"] for v in amostra]), "eng": _mediana([v["eng"] for v in amostra]),
                       "n": len(amostra)}
     limite = (agora.date() - timedelta(days=14)).isoformat()
     hist = {d: x for d, x in hist.items() if d >= limite and x.get("n", 0) >= BASE_MIN_VIDEOS}
-    caminho.parent.mkdir(parents=True, exist_ok=True)
-    caminho.write_text(json.dumps(hist, ensure_ascii=False, indent=1), "utf-8")
+    if gravar:
+        caminho.parent.mkdir(parents=True, exist_ok=True)
+        caminho.write_text(json.dumps(hist, ensure_ascii=False, indent=1), "utf-8")
     return {"vph": _mediana([x["vph"] for x in hist.values()]), "eng": _mediana([x["eng"] for x in hist.values()]),
             "dias": len(hist)}
 
@@ -111,7 +113,10 @@ def _dica_do_canal(desempenho: dict | None, fmt: str) -> str | None:
 
 
 def detectar(temas: list[dict], em_alta: list[dict], agora: datetime, base_path: Path, estado: dict,
-             desempenho: dict | None = None, canal_id: str | None = None) -> list[dict]:
+             desempenho: dict | None = None, canal_id: str | None = None, *, gravar_base: bool = True,
+             avisados_extra: dict | None = None, limite: int | None = None) -> list[dict]:
+    """Assuntos bombando. avisados_extra: vídeos já avisados por outra rotina (vigia x radar da manhã),
+    para não repetir. limite: quantos alertas no máximo (padrão: ALERTA_MAX_POR_DIA)."""
     # 1. Amostra do dia: vídeos das pautas + "Em alta" de Esportes com ligação ao futebol.
     grupos = []
     for t in temas:
@@ -135,7 +140,7 @@ def detectar(temas: list[dict], em_alta: list[dict], agora: datetime, base_path:
             grupos.append({"tema": v["titulo"], "clubes": e["foco"] + e["br"], "ja_coberto": None, "sinergia": True,
                            "videos": [v], "toks": vt, "so_em_alta": True})
     amostra = [v for g in grupos if not g.get("so_em_alta") for v in g["videos"] if v.get("fonte") != "em_alta"]
-    base = atualizar_base(amostra, agora, base_path)
+    base = atualizar_base(amostra, agora, base_path, gravar=gravar_base)
     if not base["vph"]:
         log.info("Tendências: linha de base ainda em formação (%d vídeos hoje; mínimo %d).", len(amostra), BASE_MIN_VIDEOS)
         return []
@@ -143,6 +148,7 @@ def detectar(temas: list[dict], em_alta: list[dict], agora: datetime, base_path:
     # 2. Assuntos acima da média.
     avisados = {k: d for k, d in (estado.get("alertas") or {}).items()
                 if d >= (agora.date() - timedelta(days=C.ALERTA_REPETIR_APOS_DIAS)).isoformat()}
+    ja_avisados = set(avisados) | set(avisados_extra or {})
     alertas = []
     for g in grupos:
         if not g["sinergia"] or g["ja_coberto"]:
@@ -157,29 +163,31 @@ def detectar(temas: list[dict], em_alta: list[dict], agora: datetime, base_path:
         eng = inter / base_views if base_views else None
         f_vel = top["vph"] / base["vph"]
         f_eng = (eng / base["eng"]) if (eng is not None and base["eng"]) else None
-        if top["views"] < C.ALERTA_MIN_VIEWS or f_vel < C.ALERTA_FATOR_VELOCIDADE:
+        # ganho_hora: views ganhas por hora desde a conferência anterior (só no vigia).
+        ganho = max((v.get("ganho_hora") or 0) for v in vs)
+        if top["views"] < C.ALERTA_MIN_VIEWS or (f_vel < C.ALERTA_FATOR_VELOCIDADE and ganho < C.VIGIA_GANHO_HORA):
             continue
         if f_eng is None or f_eng < C.ALERTA_FATOR_ENGAJAMENTO:
             continue
         chave = top["id"]
-        if chave in avisados or any(v["id"] in avisados for v in vs):
+        if chave in ja_avisados or any(v["id"] in ja_avisados for v in vs):
             continue
         peso = {}
         for v in vs:
             peso[v["formato"]] = peso.get(v["formato"], 0) + v["vph"]
         fmt = max(peso, key=peso.get)
         alertas.append({
-            "tema": g["tema"], "clubes": g["clubes"], "origem": "Em alta no YouTube (Esportes)" if g.get("so_em_alta") else "Pauta do radar",
+            "id": chave, "tema": g["tema"], "clubes": g["clubes"], "origem": "Em alta no YouTube (Esportes)" if g.get("so_em_alta") else "Pauta do radar",
             "formato_em_alta": fmt, "sugestao": SUGESTAO_FORMATO[fmt], "dica_do_canal": _dica_do_canal(desempenho, fmt),
             "n_videos": len(vs), "views": views, "velocidade": round(f_vel, 1), "engajamento": round(f_eng, 1),
-            "engajamento_pct": round(100 * eng, 1),
+            "engajamento_pct": round(100 * eng, 1), "ganho_hora": round(ganho) if ganho else None,
             "exemplos": [{"titulo": v["titulo"], "canal": v["canal"], "views": v["views"], "url": v["url"],
                           "formato": v["formato"], "views_hora": round(v["vph"])}
                          for v in sorted(vs, key=lambda v: -v["vph"])[:3]],
-            "_ordem": f_vel * min(f_eng, 3), "_ids": [v["id"] for v in vs],
+            "_ordem": (f_vel + 3 * ganho / C.VIGIA_GANHO_HORA) * min(f_eng, 3), "_ids": [v["id"] for v in vs],
         })
     alertas.sort(key=lambda a: -a["_ordem"])
-    alertas = alertas[: C.ALERTA_MAX_POR_DIA]
+    alertas = alertas[: C.ALERTA_MAX_POR_DIA if limite is None else max(0, limite)]
     hoje = agora.date().isoformat()
     for a in alertas:
         for i in a.pop("_ids"):

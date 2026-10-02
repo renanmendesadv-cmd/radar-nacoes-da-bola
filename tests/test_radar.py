@@ -413,6 +413,9 @@ def test_alertas_de_tendencia(tmp_path):
     assert a["formato_em_alta"] == "Shorts" and "Reels" in a["sugestao"] and a["velocidade"] >= 3
     # No dia seguinte, o mesmo assunto não é avisado de novo.
     assert tendencias.detectar([quente] + comum, em_alta, AGORA, tmp_path / "base.json", estado) == []
+    # O que o vigia já avisou também não volta no radar da manhã.
+    ids = {"v1": AGORA.date().isoformat(), "v50": AGORA.date().isoformat()}
+    assert tendencias.detectar([quente] + comum, em_alta, AGORA, tmp_path / "base2.json", {}, avisados_extra=ids) == []
 
 
 def test_monetizacao_estimada(tmp_path):
@@ -564,3 +567,119 @@ def test_ganchos_respeitam_o_que_a_manchete_confirma():
               ["São Paulo confirma contrato com a TicketMaster para gestão de ingressos"])
     ops = ganchos.opcoes(m, "2026-10-01", set())
     assert all("elenco" not in tx and "negócio" not in tx for _, tx, _ in ops.values())
+
+
+# ---------------------------------------------------------------- vigia de hora em hora + ntfy
+
+def _item_api(v):
+    return {"id": v["id"], "snippet": {"title": v["titulo"], "description": "", "channelTitle": v["canal"],
+                                       "channelId": v["canal_id"], "publishedAt": v["publicado"]},
+            "statistics": {"viewCount": str(v["views"]), "likeCount": str(v["likes"]), "commentCount": str(v["comentarios"])},
+            "contentDetails": {"duration": f"PT{v['duracao_s']}S"}}
+
+
+def _cenario_vigia(tmp_path, monkeypatch, base_vph, views_atual):
+    """Painel do dia com uma pauta quente e a linha de base dada. views_atual: dict id -> views (mutável)."""
+    from datetime import timedelta
+    from radar import vigia
+    quente = {"tema": "Arrascaeta sofre fratura e desfalca o Flamengo", "clubes": ["Flamengo"], "ja_coberto": None,
+              "sinais": {"aderencia": 100}, "categoria": "Lesão e desfalque",
+              "manchetes": [{"titulo": "Arrascaeta sofre fratura e desfalca o Flamengo"}],
+              "sugestao": {"gancho": "Sem Arrascaeta, quem segura o Flamengo nos próximos jogos?", "titulo_thumb": "x"},
+              "youtube": {"amostra": [_video(1, 100000, 40, 5000, dur=45)]}}
+    (tmp_path / "docs").mkdir(parents=True, exist_ok=True)
+    (tmp_path / "data").mkdir(parents=True, exist_ok=True)
+    (tmp_path / "docs" / "data.json").write_text(json.dumps({"gerado_em": AGORA.isoformat(), "temas": [quente],
+                                                             "alertas": [], "canal_id": "UCcanal"}), "utf-8")
+    base = {(AGORA.date() - timedelta(days=d)).isoformat(): {"vph": base_vph, "eng": 0.01, "n": 25} for d in range(1, 4)}
+    (tmp_path / "data" / "youtube-base.json").write_text(json.dumps(base), "utf-8")
+    modelo = {v["id"]: v for v in quente["youtube"]["amostra"]}
+
+    class R:
+        status_code = 200
+
+        def __init__(self, d):
+            self._d = d
+
+        def json(self):
+            return self._d
+
+    def get(url, params=None, **_):
+        if params.get("chart"):
+            return R({"items": []})
+        ids = params["id"].split(",")
+        return R({"items": [_item_api(dict(modelo[i], views=views_atual.get(i, modelo[i]["views"]))) for i in ids]})
+
+    enviados = []
+
+    class Resp:
+        def __init__(self, c):
+            self.status_code = c
+
+    def post(url, json=None, **_):
+        enviados.append((url, json))
+        return Resp(200)
+
+    monkeypatch.setattr(vigia, "_GET_TESTE", get)
+    monkeypatch.setattr("radar.avisos.requests.post", post)
+    monkeypatch.setenv("OUT_DIR", str(tmp_path))
+    monkeypatch.setenv("VIGIA_CACHE", str(tmp_path / "cache" / "fotos.json"))
+    monkeypatch.setenv("YOUTUBE_API_KEY", "chave-de-teste")
+    monkeypatch.setenv("NTFY_TOPICO", "topico-de-teste")
+    monkeypatch.setenv("PANEL_URL", "https://exemplo.github.io/radar/")
+    for k in ("VIGIA_TESTE", "VIGIA_FORCAR"):
+        monkeypatch.delenv(k, raising=False)
+    return vigia, enviados
+
+
+def test_vigia_avisa_no_celular_e_no_painel_sem_repetir(tmp_path, monkeypatch):
+    from datetime import timedelta
+    vigia, enviados = _cenario_vigia(tmp_path, monkeypatch, base_vph=50, views_atual={})
+    monkeypatch.setenv("AGORA", AGORA.isoformat())  # 08h em Brasília
+    assert vigia.main() == 0
+    assert len(enviados) == 1
+    url, msg = enviados[0]
+    assert url == "https://ntfy.sh" and msg["topic"] == "topico-de-teste"
+    assert msg["title"].startswith("🔥 Bombando agora: Arrascaeta")
+    assert "Gancho: “Sem Arrascaeta" in msg["message"] and msg["priority"] == 5  # 50x a média: urgente
+    assert msg["click"] == "https://exemplo.github.io/radar/"
+    assert any(a["url"].startswith("https://www.youtube.com/") for a in msg["actions"])
+    painel = json.loads((tmp_path / "docs" / "alertas.json").read_text("utf-8"))
+    assert painel["alertas"][0]["id"] == "v1" and painel["alertas"][0]["pelo_vigia"]
+    vig = json.loads((tmp_path / "data" / "vigia.json").read_text("utf-8"))
+    assert "v1" in vig["avisados"] and sum(vig["enviados"].values()) == 1
+    # Uma hora depois: o mesmo assunto não toca de novo.
+    monkeypatch.setenv("AGORA", (AGORA + timedelta(hours=1)).isoformat())
+    assert vigia.main() == 0 and len(enviados) == 1
+
+
+def test_vigia_dispara_pelo_ganho_da_ultima_hora(tmp_path, monkeypatch):
+    from datetime import timedelta
+    views = {}
+    vigia, enviados = _cenario_vigia(tmp_path, monkeypatch, base_vph=5000, views_atual=views)
+    monkeypatch.setenv("AGORA", AGORA.isoformat())
+    assert vigia.main() == 0 and enviados == []  # 2.500 views/h na média da vida: abaixo da base
+    assert not (tmp_path / "docs" / "alertas.json").exists()  # sem novidade, nada gravado
+    views["v1"] = 130000  # +30 mil em 1 hora
+    monkeypatch.setenv("AGORA", (AGORA + timedelta(hours=1)).isoformat())
+    assert vigia.main() == 0 and len(enviados) == 1
+    assert "+30 mil views na última hora" in enviados[0][1]["message"]
+    a = json.loads((tmp_path / "docs" / "alertas.json").read_text("utf-8"))["alertas"][0]
+    assert a["ganho_hora"] == 30000
+
+
+def test_vigia_silencio_limite_e_teste(tmp_path, monkeypatch):
+    from datetime import timedelta
+    vigia, enviados = _cenario_vigia(tmp_path, monkeypatch, base_vph=50, views_atual={})
+    monkeypatch.setenv("AGORA", (AGORA - timedelta(hours=6)).isoformat())  # 02h em Brasília
+    assert vigia.main() == 0 and enviados == []
+    # Limite do dia já atingido (contando os alertas da manhã).
+    monkeypatch.setenv("AGORA", AGORA.isoformat())
+    hoje = AGORA.astimezone(vigia.SP).date().isoformat()
+    (tmp_path / "data" / "vigia.json").write_text(json.dumps({"enviados": {hoje: 3}}), "utf-8")
+    assert vigia.main() == 0 and enviados == []
+    # Notificação de teste (botão "Run workflow").
+    monkeypatch.setenv("VIGIA_TESTE", "1")
+    assert vigia.main() == 0 and enviados[-1][1]["title"].startswith("🔔 Teste")
+    monkeypatch.delenv("NTFY_TOPICO")
+    assert vigia.main() == 2  # sem o Secret, o teste avisa que falta cadastrar
