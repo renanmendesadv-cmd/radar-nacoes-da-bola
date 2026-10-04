@@ -1,50 +1,32 @@
 {
- "atualizado_em": "2026-10-02T21:22:08.232664+00:00",
+ "atualizado_em": "2026-10-04T01:42:50.427522+00:00",
  "alertas": [
   {
-   "id": "AtAw8ViVajc",
-   "tema": "Paquetá? Lino? Quem são os jogadores que o Flamengo estuda vender se chegar ao pior cenário sem bets",
-   "clubes": [
-    "Flamengo"
-   ],
-   "origem": "Pauta do radar",
-   "formato_em_alta": "Shorts",
-   "sugestao": "Short de 30 a 60 s com a sua opinião ou reação (poste o mesmo vídeo como Reels no Instagram)",
-   "dica_do_canal": "Seu canal quase não tem Shorts: é uma chance de testar o formato com um assunto que já está bombando.",
-   "n_videos": 8,
-   "views": 32473,
-   "velocidade": 20.5,
-   "engajamento": 3.7,
-   "engajamento_pct": 10.5,
+   "id": "iQOnqmNfM-A",
+   "tema": "SANTA CRUZ X MARINGÁ: AO VIVO, COM IMAGENS E EXCLUSIVO | 2ª FASE - RODADA 5|BRASILEIRÃO SÉRIE C",
+   "clubes": [],
+   "origem": "Em alta no YouTube (Esportes)",
+   "formato_em_alta": "Lives",
+   "sugestao": "Live de debate ou react ao vivo, com o assunto no título",
+   "dica_do_canal": "No seu canal, Transmissão de jogo rende 2,0x a média: puxe o assunto também na próxima live.",
+   "n_videos": 1,
+   "views": 1877157,
+   "velocidade": 938.3,
+   "engajamento": 1.2,
+   "engajamento_pct": 3.2,
    "ganho_hora": null,
    "exemplos": [
     {
-     "titulo": "FLAMENGO ESTUDA A VENDER O PAQUETA E LINO! #futebol",
-     "canal": "Sem Zika",
-     "views": 27543,
-     "url": "https://www.youtube.com/watch?v=AtAw8ViVajc",
-     "formato": "Shorts",
-     "views_hora": 3464
-    },
-    {
-     "titulo": "FLA ESTUDA VENDER PAQUETÁ E LINO? | PEDRO TITULAR NA SELEÇÃO? | SAÚL VAI DAR A VOLTA POR CIMA?",
-     "canal": "dizFla",
-     "views": 1597,
-     "url": "https://www.youtube.com/watch?v=jCP2FxzBthU",
+     "titulo": "SANTA CRUZ X MARINGÁ: AO VIVO, COM IMAGENS E EXCLUSIVO | 2ª FASE - RODADA 5|BRASILEIRÃO SÉRIE C",
+     "canal": "SportyNet",
+     "views": 1877157,
+     "url": "https://www.youtube.com/watch?v=iQOnqmNfM-A",
      "formato": "Lives",
-     "views_hora": 244
-    },
-    {
-     "titulo": "PAQUETÁ E LINO! FLAMENGO VAI VENDER JOGADOR! A BOLA DA VEZ! SAIU AGORA! EXCELENTE NOTÍCIA NO MENGÃO!",
-     "canal": "Tudo Pelo Flamengo",
-     "views": 1265,
-     "url": "https://www.youtube.com/watch?v=7ISLguoGN3I",
-     "formato": "Vídeos longos",
-     "views_hora": 172
+     "views_hora": 559352
     }
    ],
-   "gancho": "Minha aposta: essa confusão do Flamengo ainda vai ter mais um capítulo esta semana. Guarda esse vídeo.",
-   "avisado_em": "2026-10-02T21:22:08.232664+00:00",
+   "gancho": "Santa cruz x maringá: ao vivo, com imagens e exclusivo. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
+   "avisado_em": "2026-10-04T01:42:50.427522+00:00",
    "pelo_vigia": true
   }
  ]
