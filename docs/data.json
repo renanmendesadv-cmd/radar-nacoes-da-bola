@@ -1,15 +1,15 @@
 {
- "gerado_em": "2026-10-03T14:56:05.287635+00:00",
- "data_br": "03/10/2026 11:56",
+ "gerado_em": "2026-10-04T15:30:25.179136+00:00",
+ "data_br": "04/10/2026 12:30",
  "status": {
   "Google Trends": 10,
-  "Google News": 969,
+  "Google News": 975,
   "Vídeos do canal": 15,
   "Buscas do torcedor": 18,
   "YouTube (48 h)": 12,
   "Alertas de tendência": 1,
   "Agenda (ESPN)": 200,
-  "Agenda (buscas Google)": 1
+  "Agenda (buscas Google)": 0
  },
  "canal_id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
  "videos_recentes": [
@@ -64,11 +64,7 @@
    "publicado": "2026-09-20T21:15:48+00:00"
   }
  ],
- "termos_futebol": [
-  "estêvão willian",
-  "avaí x ceará sc",
-  "índia x brasil"
- ],
+ "termos_futebol": [],
  "pesos": {
   "busca": 0.24,
   "aceleracao": 0.24,
@@ -100,10 +96,10 @@
     "estado": "pre",
     "clube": "Corinthians",
     "tipo": "pré-jogo",
-    "em_horas": 104,
-    "gancho": "Internacional x Corinthians: qual é o detalhe que vai decidir esse jogo?",
-    "titulo_thumb": "QUEM LEVA?",
-    "tecnica": "Pergunta aberta",
+    "em_horas": 79,
+    "gancho": "Internacional x Corinthians: um precisa vencer, o outro não pode perder.",
+    "titulo_thumb": "INTERNACIONAL X CORINTHIANS",
+    "tecnica": "Conflito",
     "formato": "Enquete: qual o seu palpite? (30 s)"
    },
    {
@@ -117,10 +113,10 @@
     "estado": "pre",
     "clube": "São Paulo",
     "tipo": "pré-jogo",
-    "em_horas": 106,
-    "gancho": "Meu palpite para Cruzeiro x São Paulo: [SEU PLACAR]. Deixa o seu nos comentários.",
-    "titulo_thumb": "MEU PALPITE",
-    "tecnica": "Aposta",
+    "em_horas": 81,
+    "gancho": "Cruzeiro x São Paulo parece um jogo com dono. É exatamente aí que mora o perigo.",
+    "titulo_thumb": "ZEBRA À VISTA?",
+    "tecnica": "Contradição",
     "formato": "Enquete: qual o seu palpite? (30 s)"
    },
    {
@@ -134,10 +130,10 @@
     "estado": "pre",
     "clube": "Flamengo",
     "tipo": "pré-jogo",
-    "em_horas": 128,
-    "gancho": "Se você fosse o técnico em Santos x Flamengo, quem escalaria?",
-    "titulo_thumb": "SUA ESCALAÇÃO",
-    "tecnica": "Pergunta aberta",
+    "em_horas": 103,
+    "gancho": "Meu palpite para Santos x Flamengo: [SEU PLACAR]. Deixa o seu nos comentários.",
+    "titulo_thumb": "MEU PALPITE",
+    "tecnica": "Aposta",
     "formato": "Enquete: qual o seu palpite? (30 s)"
    },
    {
@@ -151,67 +147,46 @@
     "estado": "pre",
     "clube": "Palmeiras",
     "tipo": "pré-jogo",
-    "em_horas": 130,
-    "gancho": "Palmeiras x Bahia: um precisa vencer, o outro não pode perder.",
-    "titulo_thumb": "PALMEIRAS X BAHIA",
-    "tecnica": "Conflito",
+    "em_horas": 105,
+    "gancho": "Palmeiras x Bahia: qual é o detalhe que vai decidir esse jogo?",
+    "titulo_thumb": "QUEM LEVA?",
+    "tecnica": "Pergunta aberta",
+    "formato": "Enquete: qual o seu palpite? (30 s)"
+   },
+   {
+    "id": "401841259",
+    "data": "2026-10-11T00:00Z",
+    "liga": "Brasileirão",
+    "casa": "São Paulo",
+    "fora": "Vitória",
+    "placar_casa": null,
+    "placar_fora": null,
+    "estado": "pre",
+    "clube": "São Paulo",
+    "tipo": "pré-jogo",
+    "em_horas": 152,
+    "gancho": "Se você fosse o técnico em São Paulo x Vitória, quem escalaria?",
+    "titulo_thumb": "SUA ESCALAÇÃO",
+    "tecnica": "Pergunta aberta",
     "formato": "Enquete: qual o seu palpite? (30 s)"
    }
   ],
-  "resultados": [
-   {
-    "id": "401841169",
-    "data": "2026-10-02T23:00Z",
-    "liga": "Brasileirão",
-    "casa": "São Paulo",
-    "fora": "Santos",
-    "placar_casa": 1,
-    "placar_fora": 2,
-    "estado": "post",
-    "clube": "São Paulo",
-    "tipo": "pós-jogo",
-    "gancho": "O que deu errado para o São Paulo contra o Santos? Eu explico em 1 minuto.",
-    "titulo_thumb": "O QUE DEU ERRADO?",
-    "formato": "Corte da reação na live + análise (60 a 90 s)"
-   }
-  ],
+  "resultados": [],
   "na_midia": [
    {
     "jogo": "Sao Paulo x Corinthians",
     "clube": "Corinthians",
-    "manchetes": 5,
-    "exemplo": "São Paulo x Corinthians, AO VIVO, com a Voz do Esporte, às 15h"
+    "manchetes": 2,
+    "exemplo": "São Paulo x Corinthians: escalações e onde assistir à final do Brasileirão"
    },
    {
-    "jogo": "Flamengo x Estudiantes",
-    "clube": "Flamengo",
+    "jogo": "Sao Paulo x Corinthians Bate Recorde",
+    "clube": "Corinthians",
     "manchetes": 2,
-    "exemplo": "Freitas alerta antes de Flamengo x Estudiantes: \"Argentinos sempre têm motivação extra contra brasileiros\""
+    "exemplo": "São Paulo x Corinthians bate recorde com 49 mil no Morumbis"
    }
   ],
-  "nas_buscas": [
-   {
-    "tipo": "pré-jogo",
-    "fonte": "buscas do Google",
-    "clube": "Palmeiras",
-    "jogo": "Palmeiras x Ldu Quito",
-    "casa": "Palmeiras",
-    "fora": "Ldu Quito",
-    "confianca": "alta",
-    "posicao_busca": 4,
-    "manchetes": 0,
-    "exemplo": null,
-    "sugestoes": [
-     "palmeiras x ldu quito",
-     "palmeiras x ldu",
-     "palmeiras x ldu quito"
-    ],
-    "gancho": "Palmeiras x Ldu Quito parece um jogo com dono. É exatamente aí que mora o perigo.",
-    "titulo_thumb": "ZEBRA À VISTA?",
-    "tecnica": "Contradição",
-    "formato": "Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)"
-   }
-  ]
+  "nas_buscas": []
  },
  "buscas_torcedor": {
   "flamengo": [
@@ -219,15 +194,14 @@
    "flamengo e cruzeiro"
   ],
   "corinthians": [
-   "corinthians x estudiantes",
-   "corinthians x rosario central",
-   "corinthians libertadores"
+   "corinthians x são paulo",
+   "corinthians-são paulo feminino",
+   "corinthians x são paulo feminino"
   ],
   "são paulo fc": [
    "são paulo fc sp x santos fc sp",
    "são paulo fc sp santos fc sp",
-   "são paulo fc x santos fc",
-   "são paulo fc contratação"
+   "são paulo fc sp vs santos fc sp"
   ],
   "palmeiras": [
    "palmeiras x santos",
@@ -237,1738 +211,855 @@
    "palmeiras tem mundial"
   ],
   "seleção brasileira": [
-   "seleção brasileira feminina",
    "seleção brasileira de futebol",
-   "seleção brasileira de futebol feminino",
-   "seleção brasileira 2002",
-   "seleção brasileira jogadores"
+   "seleção brasileira feminina",
+   "seleção brasileira de futebol sub-17",
+   "seleção brasileira de futebol feminino"
   ],
   "brasileirão": [
    "brasileirão série a",
    "brasileirão série b",
-   "brasileirão série a classificação",
    "brasileirão série c",
+   "brasileirão série a classificação",
    "brasileirão 2026",
-   "brasileirão série d"
+   "brasileirão feminino 2026"
   ]
  },
  "alertas": [
   {
-   "id": "_7VqB3yS1wY",
-   "tema": "Brasil x Índia: siga ao vivo o amistoso da Seleção Brasileira",
-   "clubes": [],
+   "id": "18Eqez5PVD4",
+   "tema": "Cuca revela chance de Neymar voltar contra Flamengo",
+   "clubes": [
+    "Flamengo"
+   ],
    "origem": "Pauta do radar",
-   "formato_em_alta": "Vídeos longos",
-   "sugestao": "Vídeo de 8 a 12 min com análise e opinião forte logo no início",
-   "dica_do_canal": "No seu canal, Transmissão de jogo rende 2,0x a média: puxe o assunto também na próxima live.",
-   "n_videos": 7,
-   "views": 60318,
-   "velocidade": 4.2,
-   "engajamento": 1.1,
-   "engajamento_pct": 3.0,
+   "formato_em_alta": "Shorts",
+   "sugestao": "Short de 30 a 60 s com a sua opinião ou reação (poste o mesmo vídeo como Reels no Instagram)",
+   "dica_do_canal": "Seu canal quase não tem Shorts: é uma chance de testar o formato com um assunto que já está bombando.",
+   "n_videos": 3,
+   "views": 38818,
+   "velocidade": 12.8,
+   "engajamento": 1.0,
+   "engajamento_pct": 2.9,
    "ganho_hora": null,
    "exemplos": [
     {
-     "titulo": "ANALISANDO A ESCALAÇÃO DE BRASIL X ÍNDIA",
-     "canal": "Simonetti Análises",
-     "views": 59783,
-     "url": "https://www.youtube.com/watch?v=_7VqB3yS1wY",
-     "formato": "Vídeos longos",
-     "views_hora": 2517
+     "titulo": "🚨 NEYMAR VAI VOLTAR CONTRA O FLAMENGO?! #neymar #santos #flamengo #futebol",
+     "canal": "FUTCLIPS",
+     "views": 38425,
+     "url": "https://www.youtube.com/watch?v=18Eqez5PVD4",
+     "formato": "Shorts",
+     "views_hora": 2165
     },
     {
-     "titulo": "NUNCA ACONTECEU ANTES: BRASIL X ÍNDIA SE ENFRENTAM PELA 1ª VEZ",
-     "canal": "Silvio Vieira | Advogado",
-     "views": 474,
-     "url": "https://www.youtube.com/watch?v=_6DJMaDOb2c",
+     "titulo": "Cuca fala sobre Neymar e Coutinho: uma chance de revanche",
+     "canal": "FutNews Shorts",
+     "views": 349,
+     "url": "https://www.youtube.com/watch?v=JKVBgNkFXTE",
      "formato": "Shorts",
-     "views_hora": 21
+     "views_hora": 68
     },
     {
-     "titulo": "Seleção Brasileira encara Índia pela primeira vez na história; siga ao vivo",
-     "canal": "Coca que Cola",
-     "views": 19,
-     "url": "https://www.youtube.com/watch?v=9yfB66PDxys",
+     "titulo": "🔴⚫ Cuca festeja vitória no clássico, planeja lugar na Libertadores e aponta Neymar contra Flamengo",
+     "canal": "malvadao news",
+     "views": 44,
+     "url": "https://www.youtube.com/watch?v=n0oCrMMazvQ",
      "formato": "Shorts",
-     "views_hora": 19
+     "views_hora": 4
     }
    ],
-   "gancho": "Siga ao vivo o amistoso da Seleção Brasileira. A pergunta que ninguém está fazendo: quem sai ganhando com isso?"
+   "gancho": "Eu aposto que o Flamengo [VENCE / EMPATA / PERDE], e explico por quê. Qual é o seu placar?"
   }
  ],
  "aviso_requisitos": null,
  "temas": [
   {
-   "tema": "Com Pedro titular, veja a escalação da seleção brasileira para amistoso com a Índia",
-   "categoria": "Seleção",
+   "tema": "São Paulo x Corinthians: final do Brasileiro quebra recorde de público no futebol feminino",
+   "categoria": "Jogo e resultado",
    "clubes": [
-    "Flamengo",
-    "Santos"
+    "São Paulo"
    ],
    "foco": true,
-   "nota": 77.6,
+   "nota": 75.1,
    "sinais": {
-    "busca": 75,
-    "aceleracao": 72,
-    "midia": 81,
+    "busca": 55,
+    "aceleracao": 39,
+    "midia": 100,
     "aderencia": 100,
-    "youtube": 67
+    "youtube": 83
    },
-   "fator_categoria": 1.0,
+   "fator_categoria": 1.056,
    "trafego_google": 0,
-   "busca_torcedor": "índia x brasil",
+   "busca_torcedor": "corinthians x são paulo",
    "termos_trends": [],
-   "n_fontes": 6,
-   "n_manchetes": 6,
-   "assinatura": "india|selec|amist|pedro",
+   "n_fontes": 15,
+   "n_manchetes": 20,
+   "assinatura": "paulo|femin|brasi|recor",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Lista ou ranking (3 a 5 min)",
-    "gancho": "Eu aposto que a próxima lista da Seleção vai ter [SEU PALPITE]. Me cobra depois.",
-    "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Com Pedro titular, veja a escalação da seleção brasileira para amistoso com a Índia?",
-    "tecnica": "Aposta",
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "São Paulo x Corinthians: um precisa vencer, o outro não pode perder.",
+    "titulo_thumb": "SÃO PAULO x CORINTHIANS",
+    "pergunta_enquete": "Qual sua opinião: São Paulo x Corinthians: final do Brasileiro quebra recorde de público no futebol feminino?",
+    "tecnica": "Conflito",
     "ganchos": [
      {
-      "tecnica": "Aposta",
-      "texto": "Eu aposto que a próxima lista da Seleção vai ter [SEU PALPITE]. Me cobra depois.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "“índia x brasil”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
       "tecnica": "Conflito",
-      "texto": "Com Pedro, do Flamengo, titular, seleção tem 8 mudanças no amistoso contra a Índia. Clube e Seleção puxando para lados diferentes: quem tem razão?",
-      "thumb": "QUEM TEM RAZÃO?"
+      "texto": "São Paulo x Corinthians: um precisa vencer, o outro não pode perder.",
+      "thumb": "SÃO PAULO x CORINTHIANS"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Com Pedro, do Flamengo, titular, seleção tem 8 mudanças no amistoso contra a Índia. Todo mundo está olhando para um lado; o que importa para a Seleção está do outro.",
+      "texto": "São Paulo x Corinthians: final do Brasileiro quebra recorde de público no futebol feminino. Parece que está tudo resolvido. No futebol, quase nunca está.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Se você fosse o técnico da Seleção, quem chamaria agora?",
-      "thumb": "E AGORA, FLAMENGO?"
+      "texto": "São Paulo x Corinthians: qual é o detalhe que vai decidir?",
+      "thumb": "E AGORA, SÃO PAULO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Meu palpite para São Paulo x Corinthians: [SEU PLACAR]. Deixa o seu nos comentários.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "São Paulo conquista Brasileirão Feminino após 29 anos e garante premiação recorde. Quase ninguém fez a conta do que isso significa para o São Paulo.",
+      "thumb": "29 ANOS"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Com Pedro titular, veja a escalação da seleção brasileira para amistoso com a Índia",
-     "fonte": "R7 Esportes",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPblZlS1dxWk1BUmFXakhrQ3dUNHQwbjlwWDIxQU53VmhGV2NraDhRYlpvTV92OTFoSWd5dDZUZ1ozSlRWdzc5dUpQY0lzeGswcnJUcDFabm1oZTZtUERKdE9EYVBqU2VPVUliUjhfYWloazB2TFFJWXViQmFMS28yWmprMC0zVXh4bXB0LVBPV3lfdGJjUEUzWVdDdGtTb3I5REZzd3p6Z1FzdDNXZHlhWUNfcXlUTWJsNVpfS1JOcHhudw?oc=5"
+     "titulo": "São Paulo conquista Brasileirão Feminino após 29 anos e garante premiação recorde",
+     "fonte": "Goal.com",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdWtjMVJZR2Z3OGdwbE1oSlVhV2FHd01NNmI3R0N4RVFGbWRWeWstaXpPOEctVEdHZVdFT1V0cC1GWFRPemFVb3ItYXNmRWZZNG9jb3NkM3Z5ZjVPNF9Qc0xSQmhlYkZ3NTNFeTJNd1R4anNBMWxfY2NxaG9ZVXhhbFRVbUxNR1NqZGNhOXJzZzJkbTg2NWJlZmFha1NBa0xIYV84NXBfMEpsYXJjMDVVX3JDY3V6YUowaUo0UFJKQjZsd0FPRXE5VzQ0c3BfXzRFZkE?oc=5"
     },
     {
-     "titulo": "Com Pedro, do Flamengo, titular, seleção tem 8 mudanças no amistoso contra a Índia; veja escalação",
-     "fonte": "Extra online",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdDZhempmbnpLcWR4VFhoc2lwQ0lFTVNNbHhkbzdsY1Nsdl95MklaQjM5eHJKTy1MOXFkcV83T29pYkdCNTZpS2YtVE5PMXlXemwzNmJlUV9NbnFyNFRETDNFZl9KSUpKbDJpUE5IcFU4Tjl0RFdXNFdIVDFfYk9zN0x4cWlDM0xGTFZlMlB5d1dSankwbXdrNU51MjdQRzVuOHN0UFEtTVlUMGFBdUxjVDc1Y2l5b001M0ctRnpJTEhpRDAzNEJ2ckFxVzB3VTlZLUlSR3FHRHdwMGhVVGNnTHJQLVZlS3MxbGVxdEh3VHJYRnRId2lpNVkwSdIBigJBVV95cUxPWUdGM0VOOUR5bkR4LVdENFZfbTBocjJrNi13a3lMR21NOUEwaTlIX2wySVVQTWlScTV4N1lOTlZJYXhZZXRpdmJFS1JpZTNOZVMxTTFINElWS2pSMjBCNjdKUnJCOGJSTnBZdzBMUXM5UTJLVDVHcWF3NGlidXl2WEw1RjVDQUlmd2dybVo0Z0tMNzZSUHVSR21iVWRJVjNQeGRzR3E1S2hhVFExZUtqdTJ0VEpuMzdZampjc21rcWJINFJVU0RzeXlKUnlVUUVFQnhhMGg5NzY0RG5EWTJ1bF9PNTRDbDF1M1J5b2NjX2szT215WmRlX051RFV0bTF1TDFlZWZYTDBoZw?oc=5"
+     "titulo": "As Soberanas são campeãs brasileiras! 🏆🇾🇪 Uma campanha histórica, uma torcida que fez uma festa inesquecível e uma conquista que mostra a força do futebol feminino do São Paulo! A Seguros Unimed fez parte dessa história, abrindo mão do seu espaç",
+     "fonte": "instagram.com",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlWG9uQUZDbFN2OWFEcTRndTFmd1dwbUl3UFVBZU01NDlJS1JSYTdRRG4tVTNUV1VOZ01OZ0RIaGpuZmItTEEzZVFLdVluUmlHeVE?oc=5"
     },
     {
-     "titulo": "Seleção enfrenta Índia com Pedro e Andrey Santos; veja escalação",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYVI4OUM4OGlSZW15d0VVbWFGWVdGdDFHU1JoOWNGWGY3YWR5UUZqZjFqMTJ2RnJCX0ZGUDRNSTR4NlYyajdqT2k5UllxeTZNdWFrV0xZellBMkNoWXZQY0FsUGFpQkdBMm1ILUVqcjFRaG5fQm5kWWUzSkNsOTZ4bDBJRkZTc183SlpETGczbDZUZDJ6OW5NUHNtSlNVNHhxcFRuOXR3UWNaTjE5X29aSDZGT2ZmdTUzdlg0QVA4R2RNVXpZSFo5NWNmZEFvOE9f?oc=5"
+     "titulo": "São Paulo fatura premiação milionária com título do Brasileirão Feminino",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNnc4djFuam1PVHlkdnM4ZTFVTUpPZ053S19GNEhRLUZLU2JXTE1CQUdwV0RtZUlHY0h6MzEzVi1hLUpBRmlwVjc0VTB3SlN5TVc0czhfTFI4NHlkWEgwQW1YRkVZUkdlM0hxMXB3LW5lX3JLZ1pUdDhsVFlIaHRRTGVPQTExbkEtbTlpZlUxeW1fSWdiejUtc05nOEs4VzhkWEsyR095WHVaT1lIWUl2VTNB?oc=5"
     },
     {
-     "titulo": "Índia x Brasil: veja a escalação da Seleção Brasileira para o amistoso",
-     "fonte": "band.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNTB2WERRVms0b3VfWFY5ZlU4SzdBZk45Ql90OGgyd2gyQ1kzSWt1MmZXMXoyc1RBeEE4cFNiQVdZZVVCTlFqdjFTVWV5VXZXWWFsYjE2MjdGVklTR0hzQWNuc05HbnBVN3hFaHVSVTZscWZibjZYSDRzX0N0aWFWX3ZBeG5zQ0ZteDNhdWtiWjFZbkdINDk4N0lLQVlrOWJyRGpuZzJQU2JBczUzM2VUUW1tRVhQSzNIMVAtT2U2UFlGQzB0OW1ITg?oc=5"
+     "titulo": "Com público recorde e premiação histórica, São Paulo é campeão do Brasileirão Feminino",
+     "fonte": "A TARDE",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTHBjLVI1dHpRQ19xZjBpTzBQNnN4RGNxQTN2X3pXVkFUMndIOE1zTE9OYWNiYTNrUFdCbEUybGxhVngxZ1N2alVlNi1nMk4yNGZVNVdILWxVV0NBbjJEaDhoUWIyb1BvNGtMcUQyeWtrZmdFQ1pydHducXJNaHRuZ0UyTHY2OGtrY0FZZVVlYzFWeVdKM2lEQW43dWFISzdETHZ5UG1fYUNCbjd1M2NVOWdabTBtRmsxSEtOTlVWcUFPZ9IBygFBVV95cUxPSzljSXlCbml5S2U3YXBJaHo2UXN0UXRuR1RVd0Q4ZE0zWWJtSTZNZV94SVNZTlQ4ZzB4cm10dXZRYUZFOEp1UGtSRWVqVDBJY25LWWttLTdWMnJxbV81d245a2pkdVAzSVM1aFd6bzBpa1RLamRCZll2MkRyd2RNRm5YTlhkZWFsaUtGdU9jSUlmaVRFM082QURwcEk4U1dkVXUtRUlBNloyUWtTSnFGSzgzQ3FUNHB2bVlnMnZyV1BUbjd5dkRLWXpR?oc=5"
     },
     {
-     "titulo": "Top 5: seleção brasileira vence amistoso, CR7 abandona Portugal, Flamengo perde Arrascaeta e muito mais…",
-     "fonte": "thefootball.com.br",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNanZTUkpRVm1LTU9YbG9rSWRkaGhaY3V3a0haTl9QdlVPME1WaDlvQk5NYmJITUJYTXNtTmpkLWVya0xSR21wM2l0WGpuWmNSX3NQUVkyWlFUN3dXNUg4MWp6VlY2cG9xakFBay0yT1VkVWRPQmY1REQzNzFabmtjbnktaWNiVXVsSm91QzRwQWtNSWp6ZEloQU9JVzhWeU5LNEdya3JhaTg5QlRuWEtJcGJlREtNcHZzc0gyelRDQngtOWFxSWN3?oc=5"
+     "titulo": "São Paulo celebra título do Brasileirão Feminino A1 diante de mais de 49 mil torcedores",
+     "fonte": "CBF",
+     "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNUmJUbWxPQ1Q1VnBsaE1LRHRMU09iSUFJWDlPVGk3WFMxTWREczhCNzNGSFdDcGw2MV9yVkk5SHJYR1lqaEVrdGgxemJLYUpmUDlNT1lXNGNsY05MVWllUXp3S1FPQ1JZeS15VDJKdHFXQU11UVVoa0Y1UHZEcXV6akQ1eHFjS1NuOWkwMmFleTAzNWgtMzN2VUYyU21ibVg5MVVKSjlDYUh2bFN6WEY4X2xZTVd5ejBMVkliRWN2Sld3RU5FeEV4LUdiNmtIeldOdGh4SUh6SFdrSDdUbVZzQnV2UDhHalUxTlZ1aTg4VHBiUll2Y2RhQW9BQWg3bnJWV1VxMDJmWE5NaXBiOTVvWTIyeWNJZlJ5eGg5SGZFVm4?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "EqzL1ITu7es",
-      "titulo": "O PEDRO VAI BRILHAR CONTRA A ÍNDIA? 🇧🇷⚽ #shorts",
+      "id": "9ekh62mSpYs",
+      "titulo": "\"TOMAMOS O GOL E ELES NÃO PARARAM DE CANTAR!\" 🗣️🏟️ #shorts",
       "canal": "ESPN Brasil",
-      "views": 2594,
-      "likes": 93,
-      "comentarios": 2,
-      "publicado": "2026-10-02T22:16:23Z",
-      "duracao_s": 80,
+      "views": 9281,
+      "likes": 278,
+      "comentarios": 7,
+      "publicado": "2026-10-03T23:53:00Z",
+      "duracao_s": 40,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=EqzL1ITu7es"
+      "url": "https://www.youtube.com/watch?v=9ekh62mSpYs"
      },
      {
-      "id": "8JCOjnXhmdc",
-      "titulo": "BRASIL vs INDIA - AMISTOSO DA SELEÇÃO - SELEFLA EM CAMPO #brasil #seleçãobrasileira #flamengo",
-      "canal": "WagnerLove",
-      "views": 2364,
-      "likes": 60,
-      "comentarios": 0,
-      "publicado": "2026-10-03T11:34:47Z",
-      "duracao_s": 11,
+      "id": "4kRjQ5nMZ9k",
+      "titulo": "CARLINHA FALA SOBRE PÊNALTI DEFENDIDO E EXALTA TORCIDA APÓS TÍTULO DO SÃO PAULO FEMININO",
+      "canal": "Arquibancada Tricolor",
+      "views": 8331,
+      "likes": 196,
+      "comentarios": 10,
+      "publicado": "2026-10-04T00:10:59Z",
+      "duracao_s": 121,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=8JCOjnXhmdc"
+      "url": "https://www.youtube.com/watch?v=4kRjQ5nMZ9k"
      },
      {
-      "id": "LRi_d4PzNig",
-      "titulo": "PEDRO TITULAR? 😱 SELEÇÃO #shorts",
-      "canal": "Futebol Marcado",
-      "views": 1545,
-      "likes": 28,
+      "id": "YiklkthlWSA",
+      "titulo": "BRASILEIRÃO FEMININO: FINAL NO MORUMBIS BATE RECORDE DE PÚBLICO DO FUTEBOL FEMININO NO BRASIL",
+      "canal": "UOL Esporte",
+      "views": 7412,
+      "likes": 158,
+      "comentarios": 5,
+      "publicado": "2026-10-04T01:37:18Z",
+      "duracao_s": 558,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=YiklkthlWSA"
+     },
+     {
+      "id": "bhYkMWDgUTI",
+      "titulo": "O São Paulo é CAMPEÃO com o RECORDE de público no Morumbis!",
+      "canal": "Arquibancada Tricolor",
+      "views": 7381,
+      "likes": 367,
+      "comentarios": 16,
+      "publicado": "2026-10-04T03:01:29Z",
+      "duracao_s": 674,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=bhYkMWDgUTI"
+     },
+     {
+      "id": "Opvt00MB9Qw",
+      "titulo": "RECORDE de PÚBLICO na FINAL do BRASILEIRÃO FEMININO! #FUTEBOLFEMININO #SÃOPAULO #CORINTHIANS",
+      "canal": "Flow Sport Club",
+      "views": 7038,
+      "likes": 249,
       "comentarios": 6,
-      "publicado": "2026-10-02T20:18:04Z",
-      "duracao_s": 52,
+      "publicado": "2026-10-03T20:00:34Z",
+      "duracao_s": 53,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=LRi_d4PzNig"
+      "url": "https://www.youtube.com/watch?v=Opvt00MB9Qw"
      },
      {
-      "id": "40E9N1Hhl-w",
-      "titulo": "🚨 PEDRO PODE SER TITULAR DO BRASIL! 🇧🇷🔥 #flamengo #mengão",
-      "canal": "Além do Manto",
-      "views": 1296,
-      "likes": 53,
+      "id": "T39Ztlac16g",
+      "titulo": "BIA MENEZES AGRADECE TORCIDA APÓS TÍTULO DO SÃO PAULO NO BRASILEIRÃO FEMININO!",
+      "canal": "Arquibancada Tricolor",
+      "views": 3644,
+      "likes": 120,
+      "comentarios": 3,
+      "publicado": "2026-10-03T23:47:23Z",
+      "duracao_s": 197,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=T39Ztlac16g"
+     },
+     {
+      "id": "TbwF4omIq80",
+      "titulo": "PVC sobre final do Brasileirão Feminino entre São Paulo e Corinthians: 'Maior público do ano'",
+      "canal": "Rádio CBN",
+      "views": 2045,
+      "likes": 9,
       "comentarios": 0,
-      "publicado": "2026-10-03T03:09:04Z",
+      "publicado": "2026-10-02T23:08:50Z",
+      "duracao_s": 243,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=TbwF4omIq80"
+     },
+     {
+      "id": "4YeyD1rvwi8",
+      "titulo": "São Paulo é campeão do Brasileirão Feminino sobre o Corinthians",
+      "canal": "Jornal da Record",
+      "views": 2034,
+      "likes": 10,
+      "comentarios": null,
+      "publicado": "2026-10-04T01:32:43Z",
+      "duracao_s": 59,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=4YeyD1rvwi8"
+     },
+     {
+      "id": "pSpvx957rLg",
+      "titulo": "\"'Muito histórico!': Thiago Viana exalta festa da torcida do SPFC em recorde de público.\"",
+      "canal": "Torcida Soberana TV",
+      "views": 1904,
+      "likes": 166,
+      "comentarios": 8,
+      "publicado": "2026-10-04T00:24:10Z",
+      "duracao_s": 106,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=pSpvx957rLg"
+     },
+     {
+      "id": "qfCfHLKMgCU",
+      "titulo": "SÃO PAULO BATE RECORDE DE PÚBLICO NO MORUMBIS E É CAMPEÃO INÉDITO! 🇾🇪🏆 #SaoPaulo #Corinthians #spfc",
+      "canal": "PprtFC - Papo Reto Futebol",
+      "views": 1565,
+      "likes": 48,
+      "comentarios": 1,
+      "publicado": "2026-10-03T22:06:37Z",
+      "duracao_s": 64,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=qfCfHLKMgCU"
+     },
+     {
+      "id": "ZAiEj4yChVY",
+      "titulo": "🏆 FESTA TRICOLOR!!! 🔴⚪⚫",
+      "canal": "Olimpíada Todo Dia",
+      "views": 1330,
+      "likes": 52,
+      "comentarios": 3,
+      "publicado": "2026-10-04T00:26:53Z",
       "duracao_s": 39,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=40E9N1Hhl-w"
+      "url": "https://www.youtube.com/watch?v=ZAiEj4yChVY"
      },
      {
-      "id": "GaYkZ0QEFFw",
-      "titulo": "hoje tem Brasil vs índia palpites?💚💛 #flamengo #futebol #shorts #amistoso #Rafinha #Pedro",
-      "canal": "Arthur ",
-      "views": 896,
+      "id": "cTkcfFcgV5Y",
+      "titulo": "RECORDE NA FINAL DO BRASILEIRÃO FEMININO!Torcida SPFC enche Morumbis e bateu recorde sul-americano!",
+      "canal": "Reginaldo SPFC",
+      "views": 1166,
       "likes": 40,
-      "comentarios": 3,
-      "publicado": "2026-10-03T10:38:10Z",
-      "duracao_s": 23,
+      "comentarios": 2,
+      "publicado": "2026-10-03T18:31:59Z",
+      "duracao_s": 68,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=GaYkZ0QEFFw"
+      "url": "https://www.youtube.com/watch?v=cTkcfFcgV5Y"
      },
      {
-      "id": "tKkbxwFYoQU",
-      "titulo": "Gol do Brasil, amistoso contra a Índia. Pedro do flamengo.",
-      "canal": "Guéda",
-      "views": 180,
-      "likes": 4,
+      "id": "HgdVvEn7jXs",
+      "titulo": "SÃO PAULO CAMPEÃO DO FEMININO E COM 4 LESÕES NOVAS NO MASCULINO + GRANA DA TICKETMASTER ",
+      "canal": "Alexsander Vieira",
+      "views": 967,
+      "likes": 155,
+      "comentarios": 7,
+      "publicado": "2026-10-04T12:26:16Z",
+      "duracao_s": 1039,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=HgdVvEn7jXs"
+     },
+     {
+      "id": "15cW4E24wY8",
+      "titulo": "DIA QUE ENTROU PRA HISTÓRIA DO FUTEBOL FEMININO!#futebol #futebolfeminino #shorts #futebolbrasileiro",
+      "canal": "Murillo Pinheiro",
+      "views": 883,
+      "likes": 11,
+      "comentarios": 2,
+      "publicado": "2026-10-04T02:35:53Z",
+      "duracao_s": 69,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=15cW4E24wY8"
+     },
+     {
+      "id": "y4fTg44FMSc",
+      "titulo": "Atuação heroica da goleira Carlinha garante título inédito do São Paulo no Brasileirão Feminino",
+      "canal": "Rádio CBN",
+      "views": 486,
+      "likes": 2,
       "comentarios": 0,
-      "publicado": "2026-10-03T14:50:02Z",
-      "duracao_s": 21,
+      "publicado": "2026-10-04T12:30:56Z",
+      "duracao_s": 188,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=tKkbxwFYoQU"
+      "url": "https://www.youtube.com/watch?v=y4fTg44FMSc"
      },
      {
-      "id": "YPcGTGpMfGk",
-      "titulo": "Ancelotti muda a Seleção: Pedro no lugar de Raphinha contra a Índia #Shorts",
-      "canal": "Futebol Sem Limites",
-      "views": 177,
-      "likes": 3,
-      "comentarios": 0,
-      "publicado": "2026-10-03T00:51:08Z",
-      "duracao_s": 28,
+      "id": "7wD2daJnf0M",
+      "titulo": "🔥 SÓ ELAS PARA SALVAR O ANO DO SÃO PAULO! 🏆🇾🇪",
+      "canal": "Fê Carvalho ",
+      "views": 451,
+      "likes": 10,
+      "comentarios": 5,
+      "publicado": "2026-10-04T01:42:33Z",
+      "duracao_s": 68,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=YPcGTGpMfGk"
+      "url": "https://www.youtube.com/watch?v=7wD2daJnf0M"
      },
      {
-      "id": "oyxQWUe2SbU",
-      "titulo": "Time já confirmado para jogar com último amistoso da data fifa contra Índia Pedro titular #shorts",
-      "canal": "Felipe Firpo ",
-      "views": 12,
-      "likes": 1,
+      "id": "G4lp6FkLiqQ",
+      "titulo": "São Paulo x Corinthians: final do Brasileirão feminino baterá recorde de público na América do Sul…",
+      "canal": "Noticias Show de Bola",
+      "views": 288,
+      "likes": 0,
       "comentarios": 1,
-      "publicado": "2026-10-03T14:04:59Z",
-      "duracao_s": 6,
+      "publicado": "2026-10-04T01:31:01Z",
+      "duracao_s": 32,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=oyxQWUe2SbU"
+      "url": "https://www.youtube.com/watch?v=G4lp6FkLiqQ"
      },
      {
-      "id": "UaTUiYJtJ68",
-      "titulo": "GOL DO BRASIL HOJE | GOL DE PEDRO DO FLAMENGO | Brasil 2x0 Índia | Amistoso 2026",
-      "canal": "BR Football 4K",
+      "id": "IcZk5KWZiis",
+      "titulo": "São Paulo x Corinthians: final do Brasileirão feminino baterá recorde de público na América… #Shorts",
+      "canal": "Noticias Show de Bola",
+      "views": 239,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-10-03T21:02:10Z",
+      "duracao_s": 55,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=IcZk5KWZiis"
+     },
+     {
+      "id": "V5bHtz4a7HE",
+      "titulo": "Com recorde de público, São Paulo é campeão do Brasileirão Feminino pela primeira vez",
+      "canal": "O Corre",
+      "views": 101,
+      "likes": 2,
+      "comentarios": 0,
+      "publicado": "2026-10-03T22:31:04Z",
+      "duracao_s": 83,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=V5bHtz4a7HE"
+     },
+     {
+      "id": "ZhuN5QpNP64",
+      "titulo": "49 MIL no Morumbi: recorde histórico no futebol feminino brasileiro",
+      "canal": "Gol Facil",
+      "views": 3,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-04T14:12:29Z",
+      "duracao_s": 76,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=ZhuN5QpNP64"
+     },
+     {
+      "id": "ExLLsyOb4VM",
+      "titulo": "Final do Brasileirão feminino atrai recorde de público na América do Sul #Shorts",
+      "canal": "Futebol Agora",
       "views": 0,
       "likes": 0,
       "comentarios": 0,
-      "publicado": "2026-10-03T14:55:02Z",
-      "duracao_s": 22,
+      "publicado": "2026-10-04T14:31:22Z",
+      "duracao_s": 52,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=UaTUiYJtJ68"
+      "url": "https://www.youtube.com/watch?v=ExLLsyOb4VM"
      }
     ],
-    "consulta": "Flamengo Índia amistoso Pedro",
-    "n_videos": 9,
-    "mais_de": false,
-    "views": 9064,
-    "top": [
-     {
-      "titulo": "O PEDRO VAI BRILHAR CONTRA A ÍNDIA? 🇧🇷⚽ #shorts",
-      "canal": "ESPN Brasil",
-      "views": 2594,
-      "url": "https://www.youtube.com/watch?v=EqzL1ITu7es",
-      "publicado": "2026-10-02T22:16:23Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "BRASIL vs INDIA - AMISTOSO DA SELEÇÃO - SELEFLA EM CAMPO #brasil #seleçãobrasileira #flamengo",
-      "canal": "WagnerLove",
-      "views": 2364,
-      "url": "https://www.youtube.com/watch?v=8JCOjnXhmdc",
-      "publicado": "2026-10-03T11:34:47Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "PEDRO TITULAR? 😱 SELEÇÃO #shorts",
-      "canal": "Futebol Marcado",
-      "views": 1545,
-      "url": "https://www.youtube.com/watch?v=LRi_d4PzNig",
-      "publicado": "2026-10-02T20:18:04Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Índia x Brasil: escalações, horário e onde assistir amistoso da Seleção",
-   "categoria": "Seleção",
-   "clubes": [],
-   "foco": false,
-   "nota": 71.8,
-   "sinais": {
-    "busca": 75,
-    "aceleracao": 75,
-    "midia": 100,
-    "aderencia": 70,
-    "youtube": 99
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "índia x brasil",
-   "termos_trends": [],
-   "n_fontes": 16,
-   "n_manchetes": 17,
-   "assinatura": "brasi|india|assis|horar",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Lista ou ranking (3 a 5 min)",
-    "gancho": "779 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
-    "titulo_thumb": "TODO MUNDO VIU",
-    "pergunta_enquete": "Qual sua opinião: Índia x Brasil: escalações, horário e onde assistir amistoso da Seleção?",
-    "tecnica": "Dado",
-    "ganchos": [
-     {
-      "tecnica": "Dado",
-      "texto": "779 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
-      "thumb": "TODO MUNDO VIU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Escalações, horário e onde assistir amistoso da Seleção. Por trás disso, tem dois lados que não querem a mesma coisa.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Escalações, horário e onde assistir amistoso da Seleção. Era para ser só mais um compromisso da Seleção. Virou dor de cabeça.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Escalações, horário e onde assistir amistoso da Seleção. E agora: o que muda para a Seleção?",
-      "thumb": "E AGORA, SELEÇÃO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Escalações, horário e onde assistir amistoso da Seleção. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Índia x Brasil em amistoso: onde assistir, horário e escalação",
-     "fonte": "Estadão",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObUtQOExiNVJYYjc1MDU0bXVfZVF6YVJ1cHQ3NHNTZHNpLXlSUWpsc1htUVJFeUdJMmVmZUFiUUV6MHl4RUUzMmZtVG9tVzdRWVU2eGxVdmxYa05SSDBvTDJhMVFpcmVTSTkxaXBaV2VCcHdGSVRPSWt6cDlXTF9GZ2gxcnU5WlFFRW5jUEY0cFFwOEYwVXltcEwyOWZteXlydTE0MFlkQ2HSAa4BQVVfeXFMUGtkWDhGSDhkV293YVF6Z1JoU3V0Yzc2QWUxdUp1WEdRaVBkeUZwRjZsTkh4MW9TUjUwWFRRQXNIMzlmTG5HTURWLWJCVnc0b3lNNllaeEgtTU9CTFpLQk4xSDVaTktuMG9mZ1BsRW10WmEza0FKdV8yS2NJeXJ1VUE3c0cyemFsTTc5VllyN1hKa0ZFay0tY0Z5cENJWmw1aE9OblVOU0ItZUlkeDRR?oc=5"
-    },
-    {
-     "titulo": "Brasil x Índia: onde assistir, horário e escalações do jogo pela Data Fifa",
-     "fonte": "Rádio Metrópole",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU19KeEhNbXgxTURGcEowak1paTBfanQ1N0FTams4S3ZNNWJnS2dGaGV4OU9jczBuOGY2OHVZVVVMVUZUdk5zd3ZKdER6YjEyOGhiT2dteGViMFJjY3FweHRpUGVyUGNIbHdDcnZIVXQ1WFlOdkVXaGJGYzFPVy1MaW1IMHdRR21vbjZ2Y2pMbU42NE1OOXhwM21mRjRKdk41VHZjcFN4dVYyZkJWX0xjaUlkcUVjZEZhLTFVTm9nMkQ?oc=5"
-    },
-    {
-     "titulo": "Índia x Brasil: escalações e onde assistir ao amistoso da Seleção",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOG9nUVVjejJvSUxWcDVuak9ZM0w3Zi12SmswT1BpYnVGOFpIV0tBM3ZuMHBVR1plRFU1OTA5VEtFOWc3VmNlVmpuZ04wWkN2ZUhQTFRGdVJkZWxUWXBFMkNiVFNYSG9hQ3ZtN0hIZHB4M2syRlpWenNzSlB2WWxBcndqQXZmaGhtWkNxSXE4RFdnLXh4V1diNjYwdjhZOTNiSWV6TXlIZjIwZjdsQW9lOWZNQ0JCUDQ5Z0dyeURaaEhRVGxGbzFkWDJR?oc=5"
-    },
-    {
-     "titulo": "Índia x Brasil ao vivo: link para assistir com imagens ao amistoso da Seleção Brasileira",
-     "fonte": "NSC Total",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWW5BcnRINkNoT19QMEt1ZzdGWjBtb2pQemU3MmlEeXJzOW1MeUdOWGx6VzBIRWhOX0Z4SnpBbmE0LUhPYkZQSllFNEdFeURRU1d3eU1jZzB1WXpFSEdxVlBybE1SUjR4aGo5NVBfM1ZsNVI1S1ZDNWtteFRsMGJoRzRuYVNnM0FKRXM1YW1KczViV2lCRUJFOXVhTDFONXBYX1A2Q2NuS2pmbUxrVVVwbFE0OTRWV2dfRWxDMnN3eFRhQQ?oc=5"
-    },
-    {
-     "titulo": "Brasil x Índia: onde assistir ao vivo e horário",
-     "fonte": "SBT News",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWVKYnFkOUhtVWtlM29hOWVkQ2J0VmNOOXAwaUVodXRnMmVKMnliVmdTUHdvRlNzaGN5Wnk5NTl0ZWRaeERTQTJUQUk1MDRVQkRRV0RzaFZqUUplSnRXZzIyazV6RkhoQnVISmwyalQ0SVdhYUJXck50WWVCcURrWnZoVEVmVGlEV1RVeXhJNnY?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "GOJH54bkB-o",
-      "titulo": "🔴 ÍNDIA X BRASIL | AO VIVO | AMISTOSO INTERNACIONAL | JOGO AO VIVO COM IMAGENS DO SALT LAKE STADIUM",
-      "canal": "Na Rede Oficial",
-      "views": 162417,
-      "likes": 1720,
-      "comentarios": 0,
-      "publicado": "2026-10-03T11:23:30Z",
-      "duracao_s": 0,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=GOJH54bkB-o"
-     },
-     {
-      "id": "88J7sDvEyKI",
-      "titulo": "🚨  OLHA A PROVÁVEL ESCALAÇÃO DO BRASIL CONTRA A ÍNDIA! 🇧🇷 #futebol #seleçãobrasileira  #brasil",
-      "canal": "FUTCLIPS",
-      "views": 75242,
-      "likes": 1501,
-      "comentarios": 20,
-      "publicado": "2026-10-02T13:00:27Z",
-      "duracao_s": 25,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=88J7sDvEyKI"
-     },
-     {
-      "id": "_7VqB3yS1wY",
-      "titulo": "ANALISANDO A ESCALAÇÃO DE BRASIL X ÍNDIA",
-      "canal": "Simonetti Análises",
-      "views": 59783,
-      "likes": 1619,
-      "comentarios": 159,
-      "publicado": "2026-10-02T15:11:13Z",
-      "duracao_s": 977,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=_7VqB3yS1wY"
-     },
-     {
-      "id": "Qyhe82F4pZI",
-      "titulo": "CHEGADA DA SELEÇÃO BRASILEIRA AO VIVO - DESEMBARQUE NA ÍNDIA - AEROPORTO EM CALCUTÁ - BRASIL AO VIVO",
-      "canal": "BTB SPORTS OFICIAL",
-      "views": 47331,
-      "likes": 272,
-      "comentarios": 4,
-      "publicado": "2026-10-01T16:41:30Z",
-      "duracao_s": 12352,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=Qyhe82F4pZI"
-     },
-     {
-      "id": "sOvLXIt6Kp0",
-      "titulo": "AO VIVO: BRASIL X ÍNDIA AMISTOSO DIRETO DO ESTÁDIO SALT LAKE | NARRAÇÃO",
-      "canal": "Dibrou Sports Brasil",
-      "views": 47267,
-      "likes": 577,
-      "comentarios": 0,
-      "publicado": "2026-10-03T03:16:08Z",
-      "duracao_s": 0,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=sOvLXIt6Kp0"
-     },
-     {
-      "id": "r6PUtyXK77c",
-      "titulo": "ÍNDIA X BRASIL AO VIVO AGORA | JOGO DA SELEÇÃO HOJE | SELEÇÃO BRASILEIRA AO VIVO | JOGO DO BRASIL",
-      "canal": "Litoral News",
-      "views": 43005,
-      "likes": 231,
-      "comentarios": 0,
-      "publicado": "2026-10-03T13:39:19Z",
-      "duracao_s": 0,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=r6PUtyXK77c"
-     },
-     {
-      "id": "BvWwYjZiUP8",
-      "titulo": "BRASIL X ÍNDIA AO VIVO AGORA | JOGO DO BRASIL HOJE | AMISTOSO DA SELEÇÃO AO VIVO | BRASIL AO VIVO",
-      "canal": "Litoral News",
-      "views": 40606,
-      "likes": 333,
-      "comentarios": 0,
-      "publicado": "2026-10-03T13:12:08Z",
-      "duracao_s": 0,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=BvWwYjZiUP8"
-     },
-     {
-      "id": "4kPqehLL9S0",
-      "titulo": "SELEÇÃO TREINA NA ÍNDIA! JOGADORES SAEM DO ESTÁDIO SEM BANHO E ANCELOTTI FAZ NOVAS MUDANÇAS!",
-      "canal": "Litoral News",
-      "views": 38063,
-      "likes": 722,
-      "comentarios": 50,
-      "publicado": "2026-10-02T17:02:20Z",
-      "duracao_s": 1186,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=4kPqehLL9S0"
-     },
-     {
-      "id": "Bw8-RJ7UWDU",
-      "titulo": "BRASIL X INDIA | AO VIVO COM IMAGEM | ONDE ASSISTIR O JOGO |  AMISTOSO DA SELEÇÃO",
-      "canal": "Canal 7sports",
-      "views": 36659,
-      "likes": 413,
-      "comentarios": 0,
-      "publicado": "2026-10-03T12:30:41Z",
-      "duracao_s": 0,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=Bw8-RJ7UWDU"
-     },
-     {
-      "id": "GHrQkKEEa-8",
-      "titulo": "🇧🇷🔥 PROVÁVEL ESCALAÇÃO DO BRASIL!",
-      "canal": "Radar do Apito ",
-      "views": 33104,
-      "likes": 447,
-      "comentarios": 10,
-      "publicado": "2026-10-02T14:54:17Z",
-      "duracao_s": 9,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=GHrQkKEEa-8"
-     },
-     {
-      "id": "yin6K-OdfmI",
-      "titulo": "TREINO DA SELEÇÃO BRASILEIRA AO VIVO - RAYAN TITULAR? ANCELOTTI FAZ ÚLTIMO TESTE! - BRASIL AO VIVO",
-      "canal": "BTB SPORTS OFICIAL",
-      "views": 30014,
-      "likes": 238,
-      "comentarios": 6,
-      "publicado": "2026-10-02T15:04:57Z",
-      "duracao_s": 6670,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=yin6K-OdfmI"
-     },
-     {
-      "id": "tQCrU_MjBS4",
-      "titulo": "PEDRO E VINICIUS JÚNIOR! ACABOU A ESPERA NA SELEÇÃO BRASILEIRA! PAROU A ÍNDIA NA CHEGADA AO HOTEL! ",
-      "canal": "BTB SPORTS OFICIAL",
-      "views": 29056,
-      "likes": 285,
-      "comentarios": 14,
-      "publicado": "2026-10-02T16:00:16Z",
-      "duracao_s": 675,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=tQCrU_MjBS4"
-     },
-     {
-      "id": "Dfq_KabCjYU",
-      "titulo": "BRASIL X ÍNDIA AO VIVO COM IMAGENS: ONDE ASSISTIR O JOGO DA SELEÇÃO AO VIVO | GE TV AO VIVO",
-      "canal": "Litoral News",
-      "views": 26974,
-      "likes": 281,
-      "comentarios": 25,
-      "publicado": "2026-10-03T09:00:00Z",
-      "duracao_s": 840,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Dfq_KabCjYU"
-     },
-     {
-      "id": "oqUEX3lT_jA",
-      "titulo": "PLANTÃO DA SELEÇÃO BRASILEIRA! ANCELOTTI PAROU O TREINO DA SELEÇÃO BRASILEIRA! ENDRICK E RAYAN! E+",
-      "canal": "BTB SPORTS OFICIAL",
-      "views": 25824,
-      "likes": 261,
-      "comentarios": 14,
-      "publicado": "2026-10-01T19:00:02Z",
-      "duracao_s": 667,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=oqUEX3lT_jA"
-     },
-     {
-      "id": "i5j-6EjBc9I",
-      "titulo": "OTIMISTA! VAMPETA MANDA A REAL SOBRE ESCALAÇÃO DE ANCELOTTI PARA BRASIL X ÍNDIA EM AMISTOSO",
-      "canal": "VampTV [OFICIAL]",
-      "views": 23743,
-      "likes": 404,
-      "comentarios": 23,
-      "publicado": "2026-10-02T22:35:12Z",
-      "duracao_s": 832,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=i5j-6EjBc9I"
-     },
-     {
-      "id": "9u2Vq2NfcMs",
-      "titulo": "BRASIL X ÍNDIA (AMISTOSO)",
-      "canal": "Basílio Neto",
-      "views": 16942,
-      "likes": 43,
-      "comentarios": 1,
-      "publicado": "2026-10-02T01:35:13Z",
-      "duracao_s": 1685,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=9u2Vq2NfcMs"
-     },
-     {
-      "id": "a9g7F-zFjcQ",
-      "titulo": "😱 ÍNDIA?! O QUE ESSE JOGO VAI ACRESCENTAR AO BRASIL DE ANCELOTTI?",
-      "canal": "VS ESPORT",
-      "views": 9783,
-      "likes": 101,
-      "comentarios": 29,
-      "publicado": "2026-10-01T20:20:53Z",
-      "duracao_s": 1611,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=a9g7F-zFjcQ"
-     },
-     {
-      "id": "AIMlJ-Ln4lE",
-      "titulo": "BASTIDORES DA SELEÇÃO BRASILEIRA NA ÍNDIA! QUEM VAI SER O NOVO CAMISA 9 DO BRASIL?",
-      "canal": "ESPN Brasil",
-      "views": 7738,
-      "likes": 105,
-      "comentarios": 0,
-      "publicado": "2026-10-02T16:06:56Z",
-      "duracao_s": 1176,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=AIMlJ-Ln4lE"
-     },
-     {
-      "id": "10moxYxj4NA",
-      "titulo": "Índia x Brasil: confira provável escalação do Brasil no amistoso",
-      "canal": "Jogo Aberto",
-      "views": 7591,
-      "likes": 223,
-      "comentarios": 10,
-      "publicado": "2026-10-02T15:15:58Z",
-      "duracao_s": 114,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=10moxYxj4NA"
-     },
-     {
-      "id": "f7Y69751PLA",
-      "titulo": "Escalação do Brasil: Jogo Aberto analisa time titular",
-      "canal": "Jogo Aberto",
-      "views": 6640,
-      "likes": 141,
-      "comentarios": 3,
-      "publicado": "2026-10-02T14:46:35Z",
-      "duracao_s": 326,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=f7Y69751PLA"
-     },
-     {
-      "id": "bBojXzJLgjk",
-      "titulo": "BRASIL X ÍNDIA ESCALAÇÃO DA SELEÇÃO BRASILEIRA PARA O JOGO AMISTOSO CONTRA A ÍNDIA AMANHÃ",
-      "canal": "VERDÃO NA VEIA - REACT'S",
-      "views": 4499,
-      "likes": 97,
-      "comentarios": 10,
-      "publicado": "2026-10-02T21:30:58Z",
-      "duracao_s": 15,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=bBojXzJLgjk"
-     },
-     {
-      "id": "vMtbdIKwsVg",
-      "titulo": "ÍNDIA X BRASIL | AO VIVO COM IMAGENS DO AMISTOSO | ASSISTA AGORA | JOGO DE HOJE | DIRETO DO PES21",
-      "canal": "FuteOni TV",
-      "views": 2156,
-      "likes": 6,
-      "comentarios": 0,
-      "publicado": "2026-10-03T13:28:32Z",
-      "duracao_s": 0,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=vMtbdIKwsVg"
-     },
-     {
-      "id": "DG4pZa5R4gg",
-      "titulo": "Provável escalação da Seleção Brasileira para o amistoso contra a Índia",
-      "canal": "HFSports",
-      "views": 2113,
-      "likes": 64,
-      "comentarios": 0,
-      "publicado": "2026-10-03T00:41:40Z",
-      "duracao_s": 26,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=DG4pZa5R4gg"
-     },
-     {
-      "id": "mU_lCvvz4ds",
-      "titulo": "JOGO DE HOJE - BRASIL X ÍNDIA - ESCALAÇÃO DA SELEÇÃO BRASILEIRA - FUTEBOL AO VIVO",
-      "canal": "TV ATITUDE",
-      "views": 1466,
-      "likes": 42,
-      "comentarios": 1,
-      "publicado": "2026-10-03T10:00:28Z",
-      "duracao_s": 57,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=mU_lCvvz4ds"
-     },
-     {
-      "id": "8XTCHDw3rnc",
-      "titulo": "GLOBO ESPORTE HOJE (02/10/2026) BRASIL X ÍNDIA EM AMISTOSO!!! PROVÁVEL ESCALAÇÃO!!!",
-      "canal": "Israel Asaph Fla",
-      "views": 1140,
-      "likes": 68,
-      "comentarios": 0,
-      "publicado": "2026-10-02T16:16:53Z",
-      "duracao_s": 607,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=8XTCHDw3rnc"
-     }
-    ],
-    "consulta": "Seleção Brasileira Índia escalações amistoso",
-    "n_videos": 25,
+    "consulta": "São Paulo recorde público",
+    "n_videos": 21,
     "mais_de": true,
-    "views": 779156,
+    "views": 56549,
     "top": [
      {
-      "titulo": "🔴 ÍNDIA X BRASIL | AO VIVO | AMISTOSO INTERNACIONAL | JOGO AO VIVO COM IMAGENS DO SALT LAKE STADIUM",
-      "canal": "Na Rede Oficial",
-      "views": 162417,
-      "url": "https://www.youtube.com/watch?v=GOJH54bkB-o",
-      "publicado": "2026-10-03T11:23:30Z",
+      "titulo": "\"TOMAMOS O GOL E ELES NÃO PARARAM DE CANTAR!\" 🗣️🏟️ #shorts",
+      "canal": "ESPN Brasil",
+      "views": 9281,
+      "url": "https://www.youtube.com/watch?v=9ekh62mSpYs",
+      "publicado": "2026-10-03T23:53:00Z",
       "do_canal": false
      },
      {
-      "titulo": "🚨  OLHA A PROVÁVEL ESCALAÇÃO DO BRASIL CONTRA A ÍNDIA! 🇧🇷 #futebol #seleçãobrasileira  #brasil",
-      "canal": "FUTCLIPS",
-      "views": 75242,
-      "url": "https://www.youtube.com/watch?v=88J7sDvEyKI",
-      "publicado": "2026-10-02T13:00:27Z",
+      "titulo": "CARLINHA FALA SOBRE PÊNALTI DEFENDIDO E EXALTA TORCIDA APÓS TÍTULO DO SÃO PAULO FEMININO",
+      "canal": "Arquibancada Tricolor",
+      "views": 8331,
+      "url": "https://www.youtube.com/watch?v=4kRjQ5nMZ9k",
+      "publicado": "2026-10-04T00:10:59Z",
       "do_canal": false
      },
      {
-      "titulo": "ANALISANDO A ESCALAÇÃO DE BRASIL X ÍNDIA",
-      "canal": "Simonetti Análises",
-      "views": 59783,
-      "url": "https://www.youtube.com/watch?v=_7VqB3yS1wY",
-      "publicado": "2026-10-02T15:11:13Z",
+      "titulo": "BRASILEIRÃO FEMININO: FINAL NO MORUMBIS BATE RECORDE DE PÚBLICO DO FUTEBOL FEMININO NO BRASIL",
+      "canal": "UOL Esporte",
+      "views": 7412,
+      "url": "https://www.youtube.com/watch?v=YiklkthlWSA",
+      "publicado": "2026-10-04T01:37:18Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "São Paulo x Corinthians: Saiba como assistir ao vivo",
-   "categoria": "Arbitragem e VAR",
+   "tema": "São Paulo segura empate por 1 a 1 com o Corinthians, bate recorde e é campeão no Brasileirão Feminino",
+   "categoria": "Jogo e resultado",
    "clubes": [
     "Corinthians",
     "São Paulo"
    ],
    "foco": true,
-   "nota": 70.3,
+   "nota": 74.1,
    "sinais": {
-    "busca": 70,
-    "aceleracao": 23,
-    "midia": 75,
-    "aderencia": 100,
-    "youtube": 100
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "são paulo fc sp x santos fc sp",
-   "termos_trends": [],
-   "n_fontes": 5,
-   "n_manchetes": 5,
-   "assinatura": "assis|paulo|corin|prova",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte de debate (30 a 60 s)",
-    "gancho": "O Corinthians contra a arbitragem: alguém está errado nesse lance, e eu vou mostrar quem.",
-    "titulo_thumb": "QUEM TEM RAZÃO?",
-    "pergunta_enquete": "Qual sua opinião: São Paulo x Corinthians: Saiba como assistir ao vivo?",
-    "tecnica": "Conflito",
-    "ganchos": [
-     {
-      "tecnica": "Conflito",
-      "texto": "O Corinthians contra a arbitragem: alguém está errado nesse lance, e eu vou mostrar quem.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Todo mundo viu o mesmo lance e cada um enxergou uma coisa. A regra é mais clara do que parece.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Corinthians x São Paulo: provável escalação, arbitragem, onde assistir e mais. Foi ou não foi? Responde nos comentários antes de ver a minha análise.",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Minha aposta: esse lance ainda vai ser assunto a semana inteira. Comenta o seu palpite.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "1,7 milhão de visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
-      "thumb": "TODO MUNDO VIU"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "São Paulo x Corinthians: Confira como assistir ao vivo",
-     "fonte": "ABCD Jornal",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONUVIeF9yWERINGlqazJkb05vc1pFSTZuaUV3NUpoYVJjSmFvWlhEQV9VVHl4ZDN3SlFieFJyalpMNjl0REVjRkhtWTFpTGlVSGdwek5oVlZGcVczTmVpXzMwLS1QSVgxNFVHb1A4MWtYall2aEJNN1VoVGxGLXh6em5tbG42SGJ5QmFFY1VTMGxrTzZBLWhia2E2QkdIMEpxckExTEtnTTJKN0XSAbABQVVfeXFMT3llVmNLX2x2UEU3dFV5d0wwQk9icDdIVGcxa3o5akFNWkRzUHFEaGRSYWxKQ1lCN01qVzQxNUdGa3JZdkpVQTJFMENvaFJEZ0c5Zm1DdjBtajl6cW1BSzYxcHUtWF8wRzdkSEZkdTBlOTd5ZnZZN05LNEJJUW8tLUtHUDVRYlBxMkxySFdDUUtTeXpURlBXdW9JTnZqY1BGeWwtZlVBMUQtd3ZtWDllVzA?oc=5"
-    },
-    {
-     "titulo": "São Paulo x Corinthians: Saiba como assistir ao vivo",
-     "fonte": "Portal ABC do ABC",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYlVNTklyT01CbWxMMGYwMG0zOUUxX3VnOTVpVnpRN2xza0NLd1lOaHNVaHlxRkxQWi1VTzFmWGI3b0U3RjFyMUtjUW1QYUNpRzBVT3k5ai1sZlNBaEo5UnhzR1h3RVRWXzBwOVp6dVBORm04bm1TbWNLR3FnV0k2WA?oc=5"
-    },
-    {
-     "titulo": "São Paulo x Corinthians: Veja como assistir a final feminina ao vivo",
-     "fonte": "Tribuna de Jundiaí",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0tBWWR6cjhEVFRHdlVHNUptYVJiWnBfWlVhOTFxWXRETUl2Yk5EMmo5SjYyYWY1aXFhOXkwZXZFUkJwMXBUeGpHOExhNEpKMFdVSkM3X0RHQXQ2NGRvelNRbEh5NlNqNU9sazc3VnlCV3BFOF9aVFlJek1YSG5YX3ZYMEs5TUE1UlRzSUlCdFNxOUwzZkNoVHhob2x2c3RBdHRkbFppa3o?oc=5"
-    },
-    {
-     "titulo": "Corinthians x São Paulo: provável escalação, arbitragem, onde assistir e mais",
-     "fonte": "meutimao.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSUI2ZTRvcC1QY1pITWtGUzZfcHVCTUtZOW9XWTNqbWdORm43VUdtdFI0Q0xENHFxWVU0aEplVDZLNGNVWUF1bTctVkJYSnZpdWl0Q3lUdTVxcmlNLWtaWjJZcVVoeDBhSjhHWDl1eTh5cFpUZWJHa2JFd0wtZWdTQVc5V0IwbzR3dXRrWkMwaTE4X3BTUXR5MFJMcjVKNHRnZ21yaEZjdkhQM1BUWXgwamNCbWxHbWhzeTJObV9aRHdCdnZDSEhVS3VyVzlYUmxPODVDdWpLS0xJVXprTnJaNEZmNVYtQQ?oc=5"
-    },
-    {
-     "titulo": "São Paulo x Santos: Veja onde assistir ao Brasileirão",
-     "fonte": "InfoMoney",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYmtqdFZBNllFY0hUbFNKcjBPb3pWQlF2aXVVY1VKTjRVdldMZllyQl9rMEtRRjBKRm5nVXROTFFJZXhacWJwa0hCSTlYN0tkV05MWm5BUzZSSF9yU0daRm93RVRyNWtITVFid3oydGJPSDZDcHRXSGdUX0NhX3JYUXdVc3NKZFFwM0xJ0gGQAUFVX3lxTE5uU2NtZzlqbXpRVTJaSUJUUWVKS3lzbXI2MU9nMl9DNVVhVi1RZHIya1I2dUtmZkN3OEN3QUlLdHR6ZlZqWVNnLWh1ZGJ5NDBLTHRpTTdlLWlfeGFkYjlSVnY1Qnd4YkpuNXgyODRXU3hsdk4wYnhlR0c2YWYyaEJyaHEtNXNiMDRFWk1RV0pOMA?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "UDP_7hYWH28",
-      "titulo": "Pênaltis - Corinthians x Palmeiras - Semifinal do Paulistão 2015",
-      "canal": "Pirata Corinthiano",
-      "views": 119625,
-      "likes": 3612,
-      "comentarios": 28,
-      "publicado": "2026-10-01T19:55:04Z",
-      "duracao_s": 100,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=UDP_7hYWH28"
-     },
-     {
-      "id": "fxyI3z5xQVI",
-      "titulo": "Brasil VS Corinthians 😱☠️🔥",
-      "canal": "Arão Iluminado",
-      "views": 119344,
-      "likes": 5020,
-      "comentarios": 1038,
-      "publicado": "2026-10-02T18:00:10Z",
-      "duracao_s": 161,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=fxyI3z5xQVI"
-     },
-     {
-      "id": "SsLYJ5guZt8",
-      "titulo": "Lula: Que time ganhou depois das bets?",
-      "canal": "Rede TVT",
-      "views": 116521,
-      "likes": 3356,
-      "comentarios": 176,
-      "publicado": "2026-10-02T01:39:16Z",
-      "duracao_s": 27,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=SsLYJ5guZt8"
-     },
-     {
-      "id": "LwVDYAbfI1M",
-      "titulo": "Corinthians está em todos os lugares! ☠️ #corinthians",
-      "canal": "Cauã Rangel ",
-      "views": 115007,
-      "likes": 1828,
-      "comentarios": 90,
-      "publicado": "2026-10-02T15:00:22Z",
-      "duracao_s": 13,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=LwVDYAbfI1M"
-     },
-     {
-      "id": "H01HWvUneDM",
-      "titulo": "Será que ele achou? ☠️ #corinthians",
-      "canal": "Cauã Rangel ",
-      "views": 110789,
-      "likes": 2344,
-      "comentarios": 111,
-      "publicado": "2026-10-01T15:00:34Z",
-      "duracao_s": 11,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=H01HWvUneDM"
-     },
-     {
-      "id": "aCY8DVflqNg",
-      "titulo": "HUGO SOUZA EM BAIXA? NETO ANALISA MOMENTO DO GOLEIRO",
-      "canal": "FUTEBOL RENOVO",
-      "views": 83081,
-      "likes": 272,
-      "comentarios": 16,
-      "publicado": "2026-10-01T21:00:28Z",
-      "duracao_s": 6,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=aCY8DVflqNg"
-     },
-     {
-      "id": "QRMZX1ZR2sM",
-      "titulo": "\"VERMELHO OU SÓ AMARELO? O lance do Fagner que parou o jogo! 🛑\" #corinthians #futebol #reels #brasil",
-      "canal": "Vídeos sobre futebol ",
-      "views": 72470,
-      "likes": 481,
-      "comentarios": 73,
-      "publicado": "2026-10-01T18:33:51Z",
-      "duracao_s": 11,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=QRMZX1ZR2sM"
-     },
-     {
-      "id": "Vw5Hlwkl9mw",
-      "titulo": "Yuri Alberto finalmente voltou de lesão! 🤩9️⃣ #corinthians",
-      "canal": "Cauã Rangel ",
-      "views": 72300,
-      "likes": 1866,
-      "comentarios": 71,
-      "publicado": "2026-10-01T21:00:06Z",
-      "duracao_s": 22,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Vw5Hlwkl9mw"
-     },
-     {
-      "id": "NDCVR8ryA5s",
-      "titulo": "Corinthians: Votação DECISIVA na Caixa l Pagamento da Arena PAUSADO l Máster PONTUAL e Naming rights",
-      "canal": "Café do Setorista",
-      "views": 70596,
-      "likes": 3685,
-      "comentarios": 108,
-      "publicado": "2026-10-01T19:04:54Z",
-      "duracao_s": 925,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=NDCVR8ryA5s"
-     },
-     {
-      "id": "1cRNnyxS8u4",
-      "titulo": "CORINTHIANS DEVE DINHEIRO PRO CARLOS MIGUEL",
-      "canal": "Alma e Coração Palmeirense",
-      "views": 67667,
-      "likes": 1550,
-      "comentarios": 30,
-      "publicado": "2026-10-02T14:00:04Z",
-      "duracao_s": 21,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=1cRNnyxS8u4"
-     },
-     {
-      "id": "VlKpxLJQXW4",
-      "titulo": "VESSONI TROUXE ÓTIMA NOTÍCIA DO CORINTHIANS NESSA QUINTA FEIRA E ANIMOU A FIEL TORCIDA AGORA ",
-      "canal": "Esporte Corinthians Hoje",
-      "views": 60043,
-      "likes": 1030,
-      "comentarios": 46,
-      "publicado": "2026-10-01T17:06:03Z",
-      "duracao_s": 1297,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=VlKpxLJQXW4"
-     },
-     {
-      "id": "cDXCZtuA8Cg",
-      "titulo": "Saudades do Vitinho, Fiel? 🤔 #corinthians",
-      "canal": "Cauã Rangel ",
-      "views": 59714,
-      "likes": 1342,
-      "comentarios": 42,
-      "publicado": "2026-10-02T18:00:36Z",
-      "duracao_s": 12,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=cDXCZtuA8Cg"
-     },
-     {
-      "id": "wdYBciVOf_g",
-      "titulo": "O Sentimento do Final de 2024 🦅🤩 #corinthians #futebol #sccp #editsccp #timao #fyp",
-      "canal": "Central SCCP",
-      "views": 58966,
-      "likes": 1903,
-      "comentarios": 44,
-      "publicado": "2026-10-02T15:02:09Z",
-      "duracao_s": 17,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=wdYBciVOf_g"
-     },
-     {
-      "id": "ejI1pVIAJC4",
-      "titulo": "💥IVAN DRAGAN EXALTA POSTURA E GESTAO DO PALMEIRAS!! #Palmeiras #corinthians #flamengo #futebol",
-      "canal": "Fute Resenha",
-      "views": 57898,
-      "likes": 1257,
-      "comentarios": 17,
-      "publicado": "2026-10-02T15:14:39Z",
-      "duracao_s": 45,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=ejI1pVIAJC4"
-     },
-     {
-      "id": "oHxUsQGy-kE",
-      "titulo": "PALMEIRAS X CORINTHIANS - SUB 18 | 02/10/2026 | AO VIVO | CAMPEONATO PAULISTA A1",
-      "canal": "ER SPORTS",
-      "views": 57875,
-      "likes": 920,
-      "comentarios": 2,
-      "publicado": "2026-10-02T22:44:19Z",
-      "duracao_s": 6528,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=oHxUsQGy-kE"
-     },
-     {
-      "id": "NvR6Mn98QOM",
-      "titulo": "NOVO PATROCÍNIO do Palmeiras com VALORES INFERIORES a Flamengo e Corinthians ",
-      "canal": "OPINA PORCO",
-      "views": 55586,
-      "likes": 2158,
-      "comentarios": 149,
-      "publicado": "2026-10-01T22:12:40Z",
-      "duracao_s": 580,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=NvR6Mn98QOM"
-     },
-     {
-      "id": "9g-PFiE_pz8",
-      "titulo": "PALMEIRAS X CORINTHIANS - SUB 14 | 01/10/2026 | AO VIVO | CAMPEONATO PAULISTA A1",
-      "canal": "ER SPORTS",
-      "views": 54459,
-      "likes": 1005,
-      "comentarios": 2,
-      "publicado": "2026-10-02T02:43:43Z",
-      "duracao_s": 5331,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=9g-PFiE_pz8"
-     },
-     {
-      "id": "LqrKOpSYYp4",
-      "titulo": "Aquela falta foi histórica... 🥹 #corinthians",
-      "canal": "Cauã Rangel ",
-      "views": 52139,
-      "likes": 1181,
-      "comentarios": 34,
-      "publicado": "2026-10-02T21:00:09Z",
-      "duracao_s": 15,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=LqrKOpSYYp4"
-     },
-     {
-      "id": "pnDJZ6PkKU0",
-      "titulo": "🏆 O FLAMENGO DOMINOU! Vitória por 2x0 sobre o Corinthians na Libertadores! #flamengo #corinthians",
-      "canal": "Universo Rubro-Negro",
-      "views": 49941,
-      "likes": 1907,
-      "comentarios": 5,
-      "publicado": "2026-10-02T15:00:23Z",
-      "duracao_s": 96,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=pnDJZ6PkKU0"
-     },
-     {
-      "id": "YXwGKnPbvbs",
-      "titulo": "Justiça BARRA patrocínio do Corinthians e Conmebol multa o Timão 😱⚽",
-      "canal": "Camisa 17 oficial",
-      "views": 49207,
-      "likes": null,
-      "comentarios": 8,
-      "publicado": "2026-10-02T00:45:00Z",
-      "duracao_s": 64,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=YXwGKnPbvbs"
-     },
-     {
-      "id": "dYQhgwFQ6vE",
-      "titulo": "Corinthians: Yuri Alberto volta, novo patrocínio e Bidon na mira de Arsenal e Juventus! #corinthians",
-      "canal": "Fiel News",
-      "views": 49089,
-      "likes": 2133,
-      "comentarios": 83,
-      "publicado": "2026-10-03T00:46:00Z",
-      "duracao_s": 61,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=dYQhgwFQ6vE"
-     },
-     {
-      "id": "q17zgDOHnJc",
-      "titulo": "NACIONAL AC x SC CORINTHIANS PAULISTA - FINAL – PAULISTA CUP - SUB - 18",
-      "canal": "Paulista Cup Oficial",
-      "views": 43113,
-      "likes": 582,
-      "comentarios": 1,
-      "publicado": "2026-10-02T20:41:16Z",
-      "duracao_s": 9260,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=q17zgDOHnJc"
-     },
-     {
-      "id": "0UWFRG5d33w",
-      "titulo": "Tabela preocupa o Corinthians? Donos comentam",
-      "canal": "Os Donos da Bola",
-      "views": 42337,
-      "likes": 407,
-      "comentarios": 19,
-      "publicado": "2026-10-01T18:15:35Z",
-      "duracao_s": 619,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=0UWFRG5d33w"
-     },
-     {
-      "id": "ywY6y6kT0vU",
-      "titulo": "MATHEUZINHO 🆚 AUSTRALIA (JOGO 2) #BrasilxAustralia #corinthians #matheuzinho #amistoso",
-      "canal": "Legião de Jorge",
-      "views": 41379,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-10-02T17:19:16Z",
-      "duracao_s": 83,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=ywY6y6kT0vU"
-     }
-    ],
-    "consulta": "Corinthians",
-    "n_videos": 24,
-    "mais_de": true,
-    "views": 1679146,
-    "top": [
-     {
-      "titulo": "Pênaltis - Corinthians x Palmeiras - Semifinal do Paulistão 2015",
-      "canal": "Pirata Corinthiano",
-      "views": 119625,
-      "url": "https://www.youtube.com/watch?v=UDP_7hYWH28",
-      "publicado": "2026-10-01T19:55:04Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "Brasil VS Corinthians 😱☠️🔥",
-      "canal": "Arão Iluminado",
-      "views": 119344,
-      "url": "https://www.youtube.com/watch?v=fxyI3z5xQVI",
-      "publicado": "2026-10-02T18:00:10Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "Lula: Que time ganhou depois das bets?",
-      "canal": "Rede TVT",
-      "views": 116521,
-      "url": "https://www.youtube.com/watch?v=SsLYJ5guZt8",
-      "publicado": "2026-10-02T01:39:16Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Gabigol brilha, Coutinho estreia bem e Santos vence São Paulo de virada em jogo atrasado do Brasileirão",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "São Paulo",
-    "Santos"
-   ],
-   "foco": true,
-   "nota": 69.7,
-   "sinais": {
-    "busca": 70,
-    "aceleracao": 41,
+    "busca": 55,
+    "aceleracao": 34,
     "midia": 100,
     "aderencia": 100,
-    "youtube": 95
+    "youtube": 84
    },
    "fator_categoria": 1.056,
    "trafego_google": 0,
-   "busca_torcedor": "são paulo fc sp x santos fc sp",
+   "busca_torcedor": "corinthians x são paulo",
    "termos_trends": [],
-   "n_fontes": 10,
-   "n_manchetes": 10,
-   "assinatura": "santo|paulo|brasi|gabig",
-   "ja_coberto": {
-    "titulo": "SÃO PAULO  X  SANTOS -  RODADA 21",
-    "url": "https://www.youtube.com/watch?v=HU2ftPLYSfI"
-   },
+   "n_fontes": 27,
+   "n_manchetes": 35,
+   "assinatura": "brasi|paulo|corin|femin",
+   "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Com estreia de Coutinho, Gabigol vira para o Santos contra o São Paulo pelo Brasileirão. Todo mundo vai olhar o resultado; eu vou mostrar o que ele esconde.",
+    "gancho": "São Paulo empata com Corinthians e é campeão do Brasileirão Feminino. Todo mundo vai olhar o resultado; eu vou mostrar o que ele esconde.",
     "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Gabigol brilha, Coutinho estreia bem e Santos vence São Paulo de virada em jogo atrasado d?",
+    "pergunta_enquete": "Qual sua opinião: São Paulo segura empate por 1 a 1 com o Corinthians, bate recorde e é campeão no Brasileir?",
     "tecnica": "Contradição",
     "ganchos": [
      {
       "tecnica": "Contradição",
-      "texto": "Com estreia de Coutinho, Gabigol vira para o Santos contra o São Paulo pelo Brasileirão. Todo mundo vai olhar o resultado; eu vou mostrar o que ele esconde.",
+      "texto": "São Paulo empata com Corinthians e é campeão do Brasileirão Feminino. Todo mundo vai olhar o resultado; eu vou mostrar o que ele esconde.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Com estreia de Coutinho, Gabigol vira para o Santos contra o São Paulo pelo Brasileirão. O que esse resultado muda daqui para frente?",
-      "thumb": "E AGORA, SÃO PAULO?"
+      "texto": "São Paulo empata com Corinthians e é campeão do Brasileirão Feminino. O que esse resultado muda daqui para frente?",
+      "thumb": "E AGORA, CORINTHIANS?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Com estreia de Coutinho, Gabigol vira para o Santos contra o São Paulo pelo Brasileirão. Eu aposto que esse resultado vai pesar lá na frente. Você concorda?",
+      "texto": "São Paulo empata com Corinthians e é campeão do Brasileirão Feminino. Eu aposto que esse resultado vai pesar lá na frente. Você concorda?",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Dado",
-      "texto": "441 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
-      "thumb": "TODO MUNDO VIU"
+      "texto": "3x2. Grava esse número: ele explica boa parte do que está acontecendo no Corinthians.",
+      "thumb": "3X2"
      },
      {
       "tecnica": "Conflito",
-      "texto": "Com estreia de Coutinho, Gabigol vira para o Santos contra o São Paulo pelo Brasileirão. Quem venceu comemora; quem perdeu tem uma conta para acertar.",
-      "thumb": "SÃO PAULO x SANTOS"
+      "texto": "São Paulo empata com Corinthians e é campeão do Brasileirão Feminino. Quem venceu comemora; quem perdeu tem uma conta para acertar.",
+      "thumb": "CORINTHIANS x SÃO PAULO"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Gabigol faz dois, Santos vira e quebra jejum contra o São Paulo no Morumbis",
-     "fonte": "R7 Esportes",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHoxMnhhemRIYVVuV0hzUzJEOEpobHI1UFJjZ3JhejdUWGo3UFIxdzU5Zm1ZTkZQallhZ1NnOXhLRGhlUk1sS0ViMU0xcVhreWZ1WDlaUFplVmdGaWh1UkFvLUJLeVZGRGFPYzhSMWduaXJodG5ydjgwRk44UWdmSll5dDJWWDJpQzJEYk1FejBxQ0tLQVJKeXllOHlyNjFUT2RMc3M0cUJzaVhnN0ltUnprVFM?oc=5"
+     "titulo": "São Paulo empata com Corinthians e é campeão do Brasileirão Feminino",
+     "fonte": "PortalR3",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQXdjcHRETldoWmNJREdJSEZaQWxXeDFNZWxmMUx4aVhMYWxHZS1aWko0TS1WTW5rdDBxamVCaExxYmxIY0JOY2ZGNmNNQlRoeUhDYkdEb1FYN241OHhFWFJ0NWVkYmVfZ2lXX1o1RXpmMUxvYkRiVXI5R3NJQlNNb0NDYnZQN2I3djkxSFcyMExTa0dJYlE?oc=5"
     },
     {
-     "titulo": "Com estreia de Coutinho, Gabigol vira para o Santos contra o São Paulo pelo Brasileirão",
-     "fonte": "Jovem Pan",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSld3UXluRUtpNTk0elpxYjBlaGE4UmtwS3piQUcyZE1WUlhXMmNwUzg4MnQ4UFE5eF9TeTdOQmNQYXdiNkx5XzUySGpxM3BDdkM4eUF0UGlaN3dCMnc1dW05RTdMS1J0WkxoQ00yYjY5V1hqWHN2WHVBUzE0c1ZYQWxIVDJCSk1Ga2UybmtaNmw2NEdHX1VtRGhIeTJIaG1xblY2Z01GYWdKRHl1ZDRMTHhEbi1abnJia2RhajNZVEU1NW1oMU5r?oc=5"
+     "titulo": "São Paulo empata com Corinthians e conquista Brasileirão Feminino",
+     "fonte": "jornaldaorla.com.br",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHFrMENGa3BJSnJaWURKWUJYZXQzdnNqR1dEdUlEWXFUb1VjVVAycm9FclVWM0NPeVVOaWVWZll0Szl6d1BOYXNXSHpta2R1M3JneGxKcVI2NW9XUWxOaERFU3IzTkdocDFoSFhUV1h0Y1phMG84ekdjV1BPZGJXN01mUkU3MHQ1c0lYVXl1cWxhSlhkdVJEZ1pQUEVLS1Zlc0dSSVZn?oc=5"
     },
     {
-     "titulo": "Santos vence o São Paulo de virada em partida reagendada pelo Brasileirão",
-     "fonte": "CBN",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTzFySHBuMUlSS1N5ZDNKdlg2eTlxOU8yVWFpWW1ibUd3bTJXa1JraFlUM2ZwcmMxenhjc2otMGVwbWJsOEFwSFFKbjNaanh2VmhfMVVhOTdYcDBuMTdFeWR4Z0RLNXJLZ3hzRDVLM2U1SmRHZE83TXgyZGtqNXQxUmtfdndOaWpCQjNZRWUxYjhWLXNOS18zMEFwd2lRT3RucWhpNkVGcWtmZmNEZDJUSW9NVW5WaW9pdnM1a05XSV9McXdZTW400gHWAUFVX3lxTE5TaGlHT3g2MkhyQWdRNmtSTXVuZ2dZRUMyOXV5aWJoWUI2NkpBa3d5NmZJU1RHZHdLelRyZFUtUTdyc0pYUkphS2diZ3NwcW5vUUFab2J4YmllVnNZUTVDSmIwWFZjSWs3OWRkRXFOd0xQZmNCWXZQYVFwNkluSUN3Sm16dXg3RG04TFRxTHRtVGpHTV9BaVFWU1l4OW1ETTJkWTU3OGRRa3lrRXI3bFlOMi1ZanJrak5CczhqaTdFQ0dVSjl0Sk5XRG12bThkMzBnWmRCYUE?oc=5"
+     "titulo": "Análise do VAR: São Paulo (SP) X Corinthians (SP) - Brasileiro Feminino A1 2026 - Final (jogo de volta) - 03/10/2026",
+     "fonte": "CBF",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWURxN2s1bVJkYzJvSVdvY1g3aTBjWW9abjRzOUNXY3lqMkhvWm5FckZIdG8teDVIZ05YTUx2Y2JaSUZWaEpWeHR4MG5tMXpkdEpmcFhLeFdpUEQ4c1dIOHVyWmhQa0dFWi1FNnB0MU9DUlB5cXlnbjlEQUpfenBYV2FLc21hZjc1MnFIemF4aUVYSDc4UVZBVzRlblhob2ZiR1Bvb09JWWFSUXEtcFJCWEhzT1pnVmNtODVEbURtN0kxZUcwSU5GNTNKcG9RZWRzcVF6U1c0OXp3TXBmOWVKRmpYcVhDa185UHMzSlR3?oc=5"
     },
     {
-     "titulo": "Cuca revela surpresa com São Paulo antes da virada do Santos pelo Brasileirão",
-     "fonte": "RTI Esporte",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PcDRTZ2dzT1lGNlNEUmVJNXZGWWVGdExKellpb1NweVVFRTh6R1dwelFWSzVTN1VvMXR0RjR5aFdyTzNFb2FDTDdrbXh6SEE5YkJEOXZPX3dOajNNY1g3Qk1nNFV0TkV6b0ZQRkNoRFgzNzRzWTJJQg?oc=5"
+     "titulo": "Quanto São Paulo faturou em premiação com título sobre o Corinthians no Brasileirão feminino?",
+     "fonte": "espn.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWnJqX1AwdmRSdXRIRzVhbEs0cEVuSlNJUnRhUmJEZ1I1THYwc2JWRG1GN0NMQnZuNXIxSjJvb1JYTjd3U2t1S281Y3Eycy1DQkxyYlBaRGdkMHVDZHpLZHA1cWVUNl81OW01RDVhMkh3SG9vSDVQandPUDc4ZjNuTUJkTXBTX3dzaFV0WXdrdk1RWGVEVzh0RTFQVUdQaGdYN1ZqLUZ0NHFfNjA5cjB3VVVGdUU5aXJDUkdNaUNRUURNLU81eDl2bWNhYWVXNXhIY3JiOFh1X3pfb1gtakE?oc=5"
     },
     {
-     "titulo": "Santos bate o São Paulo de virada e vence a quinta seguida no Brasileirão",
-     "fonte": "Imirante.com",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWnIzYm9iVE5MSWVJcThyNWNEYUpEV1ZIV1VOLWxMVnYzT1B2Qjd4a09iZE90ZGZ5M0hyQU11RDE0NzJVUHQzWDlrb3N2UXhWZnJTWTU5U1c1aDRtZFJlai1TOFZnZVhWcVVTWWx3NEhpR2RKbE4tbW1ZYXZEWkdOc2FsSXVDVFItMFhHQTk0V1dhOFUtZnoydERxYUhWcHJndnpzdzdyVdIBpwFBVV95cUxQWnIzYm9iVE5MSWVJcThyNWNEYUpEV1ZIV1VOLWxMVnYzT1B2Qjd4a09iZE90ZGZ5M0hyQU11RDE0NzJVUHQzWDlrb3N2UXhWZnJTWTU5U1c1aDRtZFJlai1TOFZnZVhWcVVTWWx3NEhpR2RKbE4tbW1ZYXZEWkdOc2FsSXVDVFItMFhHQTk0V1dhOFUtZnoydERxYUhWcHJndnpzdzdyVQ?oc=5"
+     "titulo": "São Paulo vence Corinthians por 3x2 no agregado e conquista título inédito do Brasileirão Feminino",
+     "fonte": "Exame",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX214bmp4QjhiRFpSTmNnMUVFVVNFSXFVM2tfSGg0NXlGTC1HZ1ZRdTEzZkRuU0psYlQzTjkwUkZXTlVmZVdPSHlYTlVNcGpWbjMtNmZIWUZ1ZTVEQnlqc1JTZEpTSktpVEYyMGRhZGFmOFZPYUttb09oLWVMOU5BdUpfcXJETUktaGlIUnVXbEtVR3diMjRIeW1fcVpTVldITFZXQmVBSjRtRDB2YUhhOXNtaEdIY2prX0h1aU1iZkdtdUU?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "pTfrDu0HhQo",
-      "titulo": "SÃO PAULO X SANTOS | GABIGOL DECIDE COM DOIS GOLS E SANTOS VENCE O CLÁSSICO DE VIRADA",
-      "canal": "BTB SPORTS OFICIAL",
-      "views": 135535,
-      "likes": 175,
+      "id": "MxmlK5fCh04",
+      "titulo": "SÃO PAULO CAMPEÃO BRASILEIRO! A FESTA DO TÍTULO DO BRASILEIRÃO FEMININO! | sportv",
+      "canal": "ge tv",
+      "views": 122971,
+      "likes": 2496,
+      "comentarios": 137,
+      "publicado": "2026-10-03T22:37:44Z",
+      "duracao_s": 381,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=MxmlK5fCh04"
+     },
+     {
+      "id": "RqPlebdlS8Q",
+      "titulo": "BIA MENEZES COMEMORA TÍTULO DO SÃO PAULO NO BRASILEIRÃO FEMININO: 'O MELHOR DIA DA MINHA VIDA'",
+      "canal": "ESPN Brasil",
+      "views": 25739,
+      "likes": 544,
+      "comentarios": 27,
+      "publicado": "2026-10-03T22:52:48Z",
+      "duracao_s": 452,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=RqPlebdlS8Q"
+     },
+     {
+      "id": "Qy2GVjfbWjs",
+      "titulo": "São Paulo é campeão brasileiro feminino de 2026",
+      "canal": "Jornalismo TV Cultura",
+      "views": 6076,
+      "likes": 113,
+      "comentarios": 2,
+      "publicado": "2026-10-04T01:15:42Z",
+      "duracao_s": 134,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Qy2GVjfbWjs"
+     },
+     {
+      "id": "QTUQ1a3Lwqk",
+      "titulo": "SÃO PAULO É CAMPEÃO BRASILEIRO FEMININO",
+      "canal": "Rádio João Futebol e Esportes",
+      "views": 1827,
+      "likes": 72,
+      "comentarios": 4,
+      "publicado": "2026-10-03T22:43:43Z",
+      "duracao_s": 65,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=QTUQ1a3Lwqk"
+     },
+     {
+      "id": "XegBHZGMKic",
+      "titulo": "HISTÓRICO E ÉPICO! 🚨 São Paulo DESBANCA o Corinthians e Conquista o Brasileirão Feminino!",
+      "canal": "Golvox",
+      "views": 1514,
+      "likes": 28,
       "comentarios": 1,
-      "publicado": "2026-10-03T01:17:50Z",
-      "duracao_s": 7545,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=pTfrDu0HhQo"
-     },
-     {
-      "id": "JrV2HwGA2Vg",
-      "titulo": "COM GABRIEL LETAL SANTOS VENCE SÃO PAULO DE VIRADA E SOBE NA CLASSIFICAÇÃO ",
-      "canal": "Fábio Sormani",
-      "views": 107024,
-      "likes": 12168,
-      "comentarios": 903,
-      "publicado": "2026-10-03T02:05:58Z",
-      "duracao_s": 1442,
+      "publicado": "2026-10-03T22:22:37Z",
+      "duracao_s": 21,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=JrV2HwGA2Vg"
+      "url": "https://www.youtube.com/watch?v=XegBHZGMKic"
      },
      {
-      "id": "3ADgb1_mZcM",
-      "titulo": "SÃO PAULO X SANTOS | PEIXE VENCE O CLÁSSICO DE VIRADA COM DOIS GOLS DE GABIGOL",
-      "canal": "BTB SPORTS OFICIAL",
-      "views": 79031,
-      "likes": 69,
-      "comentarios": 1,
-      "publicado": "2026-10-03T01:16:04Z",
-      "duracao_s": 10167,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=3ADgb1_mZcM"
-     },
-     {
-      "id": "YinUNj213jQ",
-      "titulo": "Gabigol marca duas vezes, Santos vence o São Paulo de virada e embala no Brasileirão",
-      "canal": "RÁDIO FUTEBOL HD 3",
-      "views": 54862,
-      "likes": 208,
+      "id": "e2VG8GCtGfs",
+      "titulo": "SÃO PAULO É CAMPEÃO! TRICOLOR EMPATA COM O CORINTHIANS E CONQUISTA O BRASILEIRO FEMININO DE 2026",
+      "canal": "Super Edinho",
+      "views": 486,
+      "likes": 7,
       "comentarios": 0,
-      "publicado": "2026-10-03T07:01:06Z",
-      "duracao_s": 154,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=YinUNj213jQ"
-     },
-     {
-      "id": "7JqP2vYnCmo",
-      "titulo": "GABIGOL CRAVA DUAS VEZES, SANTOS VENCE DE VIRADA E ENGATA 5ª VITÓRIA SEGUIDA | SÃO PAULO 1X2 SANTOS",
-      "canal": "TNT Sports Brasil",
-      "views": 48828,
-      "likes": 493,
-      "comentarios": 40,
-      "publicado": "2026-10-03T01:18:55Z",
-      "duracao_s": 183,
+      "publicado": "2026-10-04T13:10:51Z",
+      "duracao_s": 14,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=7JqP2vYnCmo"
+      "url": "https://www.youtube.com/watch?v=e2VG8GCtGfs"
      },
      {
-      "id": "VjWcG03FJ8U",
-      "titulo": "Gabigol marca duas vezes, Santos vence o São Paulo de virada e sobe na tabela do Brasileirão",
-      "canal": "JOGOS DE HOJE NA TV ",
-      "views": 6887,
-      "likes": 51,
+      "id": "sWbZJ3Xa7Ig",
+      "titulo": "Corinthians 2012: quem venceria esse campeão invicto? ⚽",
+      "canal": "Além do Placar",
+      "views": 365,
+      "likes": 13,
       "comentarios": 0,
-      "publicado": "2026-10-03T11:18:18Z",
-      "duracao_s": 10,
+      "publicado": "2026-10-03T18:03:01Z",
+      "duracao_s": 38,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=VjWcG03FJ8U"
+      "url": "https://www.youtube.com/watch?v=sWbZJ3Xa7Ig"
      },
      {
-      "id": "LmgmVCTqjXQ",
-      "titulo": "SANTOS VENCE SÃO PAULO. #santos #saopaulo #vitoria #gabigol #neymar #jogo #torcida #descerprabc",
-      "canal": "BEATRIZ CR68",
-      "views": 2552,
-      "likes": 40,
-      "comentarios": 1,
-      "publicado": "2026-10-03T01:20:22Z",
-      "duracao_s": 13,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=LmgmVCTqjXQ"
-     },
-     {
-      "id": "xhrxwhyjLRk",
-      "titulo": "Golaço de Gabigol em São Paulo 1  x 2 Santos de virada #santos #santosfc #spfc #gol #futebol #futbol",
-      "canal": "T37 Futebol e Magia",
-      "views": 1260,
-      "likes": 19,
+      "id": "Um4smT7gG0M",
+      "titulo": "SÃO PAULO CAMPEÃO DO BRASILEIRÃO FEMININO | MELHORES MOMENTOS E ENTREVISTAS",
+      "canal": "Olimpíada Todo Dia",
+      "views": 144,
+      "likes": 7,
       "comentarios": 0,
-      "publicado": "2026-10-03T02:15:01Z",
-      "duracao_s": 23,
+      "publicado": "2026-10-03T23:11:17Z",
+      "duracao_s": 239,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=xhrxwhyjLRk"
+      "url": "https://www.youtube.com/watch?v=Um4smT7gG0M"
      },
      {
-      "id": "CTBPoBkfuRY",
-      "titulo": "santos ganha do sao paulo de virada #futebol #neymar #gabigol #Santos",
-      "canal": "oleolima",
-      "views": 1253,
-      "likes": 31,
+      "id": "V5bHtz4a7HE",
+      "titulo": "Com recorde de público, São Paulo é campeão do Brasileirão Feminino pela primeira vez",
+      "canal": "O Corre",
+      "views": 109,
+      "likes": 2,
       "comentarios": 0,
-      "publicado": "2026-10-03T02:12:35Z",
+      "publicado": "2026-10-03T22:31:04Z",
+      "duracao_s": 83,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=V5bHtz4a7HE"
+     },
+     {
+      "id": "lsMX02DqPD0",
+      "titulo": "Final do Brasileirão Feminino: São Paulo joga pelo empate no MorumBIS #Shorts",
+      "canal": "Futebol Sem Limites",
+      "views": 17,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-03T00:54:30Z",
       "duracao_s": 24,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=CTBPoBkfuRY"
+      "url": "https://www.youtube.com/watch?v=lsMX02DqPD0"
      },
      {
-      "id": "nsmDAEO4OHE",
-      "titulo": "GABIGOL BRILHA E SANTOS VENCE SÃO PAULO DE VIRADA NO MORUMBI. #santos #santosfc #futebol #neymarjr",
-      "canal": "um_minuto de SANTOSFC",
-      "views": 1219,
-      "likes": 47,
-      "comentarios": 0,
-      "publicado": "2026-10-03T01:45:46Z",
-      "duracao_s": 71,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=nsmDAEO4OHE"
-     },
-     {
-      "id": "eqpiBebEtwM",
-      "titulo": "Santos vence o São Paulo em clássico atrasado pelo Brasileirão",
-      "canal": "ParsaFut",
-      "views": 1113,
-      "likes": 10,
-      "comentarios": 1,
-      "publicado": "2026-10-03T01:26:46Z",
-      "duracao_s": 16,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=eqpiBebEtwM"
-     },
-     {
-      "id": "s2txtSS2yTc",
-      "titulo": "Santos vence São Paulo de virada com dois gols de Gabigol #futebol #santos",
-      "canal": "ERIK FUTEBOL ",
-      "views": 515,
-      "likes": 5,
-      "comentarios": 2,
-      "publicado": "2026-10-03T03:00:07Z",
-      "duracao_s": 27,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=s2txtSS2yTc"
-     },
-     {
-      "id": "cNk6W7Egbo4",
-      "titulo": "SANTOS DE GABIGOL E DIÓGENES VENCE O SÃO PAULO DE VIRADA NO MORUMBIS",
-      "canal": "Joza Novalis",
-      "views": 511,
-      "likes": 31,
-      "comentarios": 2,
-      "publicado": "2026-10-03T01:54:46Z",
-      "duracao_s": 629,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=cNk6W7Egbo4"
-     },
-     {
-      "id": "_Kqq8CQ51xg",
-      "titulo": "SANTOS VENCE NO MORUMBI! Gabigol DECIDE e Peixe mira a Libertadores!!",
-      "canal": "Numerada Fc - Futebol & Debate",
-      "views": 453,
-      "likes": 21,
-      "comentarios": 4,
-      "publicado": "2026-10-03T02:06:15Z",
-      "duracao_s": 735,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=_Kqq8CQ51xg"
-     },
-     {
-      "id": "FXqVZd3hQaE",
-      "titulo": "SANTOS VENCE O SÃO PAULO DE VIRADA 👀🔥 #futebol",
-      "canal": "FutJhow ⚽️",
-      "views": 223,
-      "likes": 4,
-      "comentarios": 0,
-      "publicado": "2026-10-03T12:30:25Z",
-      "duracao_s": 29,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=FXqVZd3hQaE"
-     },
-     {
-      "id": "EEgBPxVRTrs",
-      "titulo": "SÃO PAULO 1x2 SANTOS | Dois Gols de Gabigol e Virada no San-São!",
-      "canal": "Voz do Esporte",
-      "views": 92,
-      "likes": 1,
-      "comentarios": 0,
-      "publicado": "2026-10-03T11:14:07Z",
-      "duracao_s": 26,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=EEgBPxVRTrs"
-     },
-     {
-      "id": "KwNoyuXF4ew",
-      "titulo": "⚽️GABIGOL BRILHA E SANTOS VENCE O SÃO PAULO DE VIRADA NO MORUMBIS!! #santosfc #futebol #shorts",
-      "canal": "Fute Press",
-      "views": 89,
-      "likes": null,
-      "comentarios": 0,
-      "publicado": "2026-10-03T08:00:40Z",
-      "duracao_s": 61,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=KwNoyuXF4ew"
-     },
-     {
-      "id": "Gw_5GqaM-vc",
-      "titulo": "🔥 GABIGOL DECIDE! SANTOS VENCE O SÃO PAULO DE VIRADA NO MORUMBIS! #reactfutebol #santos #saopaulo",
-      "canal": "FUT RESENHA ",
-      "views": 21,
-      "likes": 3,
-      "comentarios": 0,
-      "publicado": "2026-10-03T03:03:17Z",
-      "duracao_s": 903,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Gw_5GqaM-vc"
-     },
-     {
-      "id": "3vzYcZiQ70E",
-      "titulo": "Santos vence o São Paulo de virada com dois gols do Gabigol! Vamos passar sufoco contra a Índia?",
-      "canal": "O mundo do futebol FC",
-      "views": 9,
-      "likes": 1,
-      "comentarios": 0,
-      "publicado": "2026-10-03T02:01:55Z",
-      "duracao_s": 668,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=3vzYcZiQ70E"
-     },
-     {
-      "id": "kCmlGP1KBlU",
-      "titulo": "SANTOS VENCE DE VIRADA O SÃO PAULO NO MORUMBIS! GABIGOL DECIDE E DIÓGENES BRILHA! 🐟🔥",
-      "canal": "Vitinho da vila",
-      "views": 4,
-      "likes": 1,
-      "comentarios": 0,
-      "publicado": "2026-10-03T14:04:23Z",
-      "duracao_s": 663,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=kCmlGP1KBlU"
-     },
-     {
-      "id": "GIjZknNWsM0",
-      "titulo": "SANTOS VENCE SÃO PAULO DE VIRADA COM 2 GOLS DE GABIGOL, SONHA COM LIBERTADORES E AFUNDA O TRICOLOR",
-      "canal": "Victor Batista FC React",
-      "views": 3,
-      "likes": 1,
-      "comentarios": 1,
-      "publicado": "2026-10-03T02:05:00Z",
-      "duracao_s": 237,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=GIjZknNWsM0"
-     },
-     {
-      "id": "4aoGmp_Gr0g",
-      "titulo": "Santos vence o São Paulo de virada por 2 a 1 no Morumbis, com dois gols de Gabigol. Confira!",
-      "canal": "RESENHA TV",
-      "views": 2,
+      "id": "3JxPVxI5bQc",
+      "titulo": "São Paulo empata com o Corinthians e é campeão do Brasileirão Feminino pela 1ª vez em 2026!!",
+      "canal": "Lucas Amaral",
+      "views": 13,
       "likes": 0,
       "comentarios": 0,
-      "publicado": "2026-10-03T01:53:58Z",
-      "duracao_s": 150,
+      "publicado": "2026-10-04T02:58:36Z",
+      "duracao_s": 115,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=4aoGmp_Gr0g"
-     },
-     {
-      "id": "C0o5wBI7xMY",
-      "titulo": "São Paulo 247: Santos vence São Paulo de virada e sonha com Libertadores",
-      "canal": "São Paulo 247 - Noticias sobre o 6-3-3 Tricolor",
-      "views": 1,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-10-03T05:02:27Z",
-      "duracao_s": 194,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=C0o5wBI7xMY"
+      "url": "https://www.youtube.com/watch?v=3JxPVxI5bQc"
      }
     ],
-    "consulta": "São Paulo Gabigol virada vence",
-    "n_videos": 23,
+    "consulta": "Corinthians empate campeão",
+    "n_videos": 11,
     "mais_de": false,
-    "views": 441487,
+    "views": 159261,
     "top": [
      {
-      "titulo": "SÃO PAULO X SANTOS | GABIGOL DECIDE COM DOIS GOLS E SANTOS VENCE O CLÁSSICO DE VIRADA",
-      "canal": "BTB SPORTS OFICIAL",
-      "views": 135535,
-      "url": "https://www.youtube.com/watch?v=pTfrDu0HhQo",
-      "publicado": "2026-10-03T01:17:50Z",
+      "titulo": "SÃO PAULO CAMPEÃO BRASILEIRO! A FESTA DO TÍTULO DO BRASILEIRÃO FEMININO! | sportv",
+      "canal": "ge tv",
+      "views": 122971,
+      "url": "https://www.youtube.com/watch?v=MxmlK5fCh04",
+      "publicado": "2026-10-03T22:37:44Z",
       "do_canal": false
      },
      {
-      "titulo": "COM GABRIEL LETAL SANTOS VENCE SÃO PAULO DE VIRADA E SOBE NA CLASSIFICAÇÃO ",
-      "canal": "Fábio Sormani",
-      "views": 107024,
-      "url": "https://www.youtube.com/watch?v=JrV2HwGA2Vg",
-      "publicado": "2026-10-03T02:05:58Z",
+      "titulo": "BIA MENEZES COMEMORA TÍTULO DO SÃO PAULO NO BRASILEIRÃO FEMININO: 'O MELHOR DIA DA MINHA VIDA'",
+      "canal": "ESPN Brasil",
+      "views": 25739,
+      "url": "https://www.youtube.com/watch?v=RqPlebdlS8Q",
+      "publicado": "2026-10-03T22:52:48Z",
       "do_canal": false
      },
      {
-      "titulo": "SÃO PAULO X SANTOS | PEIXE VENCE O CLÁSSICO DE VIRADA COM DOIS GOLS DE GABIGOL",
-      "canal": "BTB SPORTS OFICIAL",
-      "views": 79031,
-      "url": "https://www.youtube.com/watch?v=3ADgb1_mZcM",
-      "publicado": "2026-10-03T01:16:04Z",
+      "titulo": "São Paulo é campeão brasileiro feminino de 2026",
+      "canal": "Jornalismo TV Cultura",
+      "views": 6076,
+      "url": "https://www.youtube.com/watch?v=Qy2GVjfbWjs",
+      "publicado": "2026-10-04T01:15:42Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "Brasil x Índia: siga ao vivo o amistoso da Seleção Brasileira",
-   "categoria": "Seleção",
-   "clubes": [],
-   "foco": false,
-   "nota": 59.7,
+   "tema": "São Paulo empata com Corinthians e conquista título inédito do Brasileirão Feminino",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "São Paulo",
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 70.7,
    "sinais": {
-    "busca": 75,
-    "aceleracao": 64,
-    "midia": 58,
-    "aderencia": 70,
-    "youtube": 76
+    "busca": 55,
+    "aceleracao": 39,
+    "midia": 100,
+    "aderencia": 100,
+    "youtube": 62
    },
-   "fator_categoria": 1.0,
+   "fator_categoria": 1.056,
    "trafego_google": 0,
-   "busca_torcedor": "índia x brasil",
+   "busca_torcedor": "corinthians x são paulo",
    "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "amist|brasi|india|selec",
+   "n_fontes": 14,
+   "n_manchetes": 15,
+   "assinatura": "brasi|paulo|femin|titul",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Lista ou ranking (3 a 5 min)",
-    "gancho": "Siga ao vivo o amistoso da Seleção Brasileira. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
-    "titulo_thumb": "E AGORA, SELEÇÃO?",
-    "pergunta_enquete": "Qual sua opinião: Brasil x Índia: siga ao vivo o amistoso da Seleção Brasileira?",
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "São Paulo empata com Corinthians e conquista título inédito do Brasileirão Feminino. Foi mérito de quem venceu ou erro de quem perdeu?",
+    "titulo_thumb": "E AGORA, SÃO PAULO?",
+    "pergunta_enquete": "Qual sua opinião: São Paulo empata com Corinthians e conquista título inédito do Brasileirão Feminino?",
     "tecnica": "Pergunta aberta",
     "ganchos": [
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Siga ao vivo o amistoso da Seleção Brasileira. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
-      "thumb": "E AGORA, SELEÇÃO?"
+      "texto": "São Paulo empata com Corinthians e conquista título inédito do Brasileirão Feminino. Foi mérito de quem venceu ou erro de quem perdeu?",
+      "thumb": "E AGORA, SÃO PAULO?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Siga ao vivo o amistoso da Seleção Brasileira. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
+      "texto": "São Paulo empata com Corinthians e conquista título inédito do Brasileirão Feminino. Minha aposta: depois desse jogo, [SEU PALPITE]. Me cobra depois.",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Dado",
-      "texto": "0 x 1. Grava esse número: ele explica boa parte do que está acontecendo na Seleção.",
-      "thumb": "0 X 1"
+      "texto": "O torcedor está digitando “corinthians x são paulo” no Google agora. A resposta não é tão simples.",
+      "thumb": "VOCÊ PESQUISOU"
      },
      {
       "tecnica": "Conflito",
-      "texto": "Siga ao vivo o amistoso da Seleção Brasileira. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
-      "thumb": "QUEM TEM RAZÃO?"
+      "texto": "São Paulo empata com Corinthians e conquista título inédito do Brasileirão Feminino. Dentro de campo acabou. Fora dele, a discussão está só começando.",
+      "thumb": "SÃO PAULO x CORINTHIANS"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Siga ao vivo o amistoso da Seleção Brasileira. Parece notícia pequena. Não é.",
+      "texto": "São Paulo empata com Corinthians e conquista título inédito do Brasileirão Feminino. O placar diz uma coisa. O jogo, visto de perto, diz outra.",
       "thumb": "NÃO É BEM ASSIM"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Índia 0 x 1 Brasil: acompanhe o amistoso da Seleção em tempo real",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZGNZMlAxTkI4U0N1WDNPTklEOHc2MUQwVmxqSmhFa0twSEI0cFZGbFhYOWhGZXExcG5GWUZUZFZ0X1dxVWtPLVJZV1BJVGY2dnZVazNrYjR5Q0k0ZlV1VE1XNTV0NzZ6UnFmNlF3UFBpQWJtbTBNNVlCVVV3Zkw5Z3JpMzJ0bW5MT0NvckNrMG1ZaUFxei04Vzg0VFV4NFRQZkc1NHRISVlpZUp1ME56SU1RdUtTNWU5Nm1yX2FkOVF2LUdNS2hDWG13?oc=5"
+     "titulo": "São Paulo empata com Corinthians e conquista título inédito do Brasileirão Feminino",
+     "fonte": "Jornal Panorama Minas",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVmZTLUhzcnJ5MktnZ2d2RFRCR2tiMFFjbVdlOWhNVHdOSTRZdEJYeXFTbW9JNkZsN081cmdxUWg5UEhMMnd0SlowVXpzRmdEYUZNa194OXp3ZUFqZi1nS09xdlF0ZGlYa21UTGk5Q2JQWWJIbEZvOF9xTjlmRFJ5Y2tmNE5LZGsxaW8tWU02c281U1dHem9jVUd2VU9QbEpxNlJWT0t1Z3U3WGNVTTFCZXltbUtBdkJ2aXQ4?oc=5"
     },
     {
-     "titulo": "Brasil x Índia: siga ao vivo o amistoso da Seleção Brasileira",
-     "fonte": "iG Esportes",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZXdUcHIzWS1qOTBGa3pqYzZKbF9ZTlFzQ3VDZXpLUTc1YUNySGpSQ3VZeVQ2ajFWajZuRjR4T2RrNk9vbmpIbV9UbUFCUldaN2tPVUVmcWJWclBrUTNuZ1JFX3MwSUI1YWp1MXRreTg0S0JmZmZwNk5BY1JkaGhCRzUxSlFOSENFbnZ2d01YenpYcXBOVllId2c2NmlhWXpvY2FRTTln0gGrAUFVX3lxTE5wQ1ZDNXAyVUl5aVhPOG5JZ2xzSVFtUnp3YXRQcy1oN0xPOFVERElBY19zV2pUWXlpdXgzOWl0emR1RTFwUjhxeHphcmFiVXVZanVzVmxMYWpjTnNMX0p3ckMyT3pSQTlPblJQTHY1MUp4UW1NVjdqZG9USV9LQXd1LTJhQU0xVDk2OE9rZC1hZERCa3Bna3VJdWJ6c0gzQllZczJXUFBudWNENA?oc=5"
+     "titulo": "Em tarde soberana, São Paulo conquista o Brasileirão Feminino no Morumbis",
+     "fonte": "VEJA",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ1BwTWp0b3JpeEowR2pIRXBwR2VvUzB4SEV4bTlUTmVhSnhQaV9leVVjX0l3TkVLcjhEU0FKSW5xTlZZNk9FbkhEUnlxTUNfUDk5M0twRHRraC1rdGpGVEt5azhiVDdBajFDYVlpYWdLaE1lem9kcGNHQV9YVzNOZVNtTDg4cG5KY09DdmdfQzgwRUJZQmhzbF9aS240d2IyRVZqZl9jb1NhbjU0S19kTWJ0RGxTZnVveU1ST19WRQ?oc=5"
     },
     {
-     "titulo": "Seleção Brasileira faz amistoso contra a Índia e testa jovens para 2030",
-     "fonte": "O Paraná",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnpsanBwME9GNHd1aVUwbDhGQ083bFJxSGFaV3BQN2k0TzBGUmluSG5Vck8yVUNUQTIyYnpwS1ZJbmtXR3BzTHRHczZMT3Jwd0RKZjdsUEJmdnoxZjJEYWNyREJyNWxlNzNsWXlhZ1lLOXhoMUxsZmtnNmtoY1Brel9lT0YzZl9xak9VY3VZWThCdUY3d1R4aWxrNTJxa2R5NFE?oc=5"
+     "titulo": "São Paulo entra para a lista de campeões do Brasileirão Feminino; veja todos desde 2013",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdjNIU1N3alUyWkNSdWdHOUh3MF9ZWmxsVWt4NXBnNERYZV9lYUhybTBTdHN6TnVrRGkzNWpJOHZhenZ1VXplSC01UEU3NU5pNE9hYlo3LXRqUk1laFhOWlhQOU1zNU9Oc3BOYjFOVDZQOHpvdnRybEJkV1Q5TWp1YkUzbkdDZ25LTTVNMWYyQ0NsM2FZdjg0cFpqQUxoMkJ4UTlGWElFYWlDZlV5OTBmMy1oVFdDUzR1alFJbk5WUmxxaV84dk9DbEE0azU0QzYyTTdwbC1yM0hiU0pXVlREREVOREhHdzV1Y2Vlc1h6VWdpVkJSTFpqc1pkdlZKVlBTbmNmSzU4UQ?oc=5"
+    },
+    {
+     "titulo": "São Paulo é campeão no Brasileirão Feminino e quebra jejum histórico",
+     "fonte": "Olimpíada Todo Dia",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWmRiZHVYbzctNFZ4ell3QlpReXR2VmVSNjJfeFRhVFpCNEdNNS1TbWZiYlNEdmFSakNpUlJjUmpQelYwTjNIX2pUbExmQ1VJRWE2Rnp3MWlaN0pKbFRPZkxaU0QwdFBjczFySUdYWjhBTGJWM3ZVM0FSNEtuMTkzYnQ1QU9peUUzNm55NFFaZmJhRjdM?oc=5"
+    },
+    {
+     "titulo": "São Paulo é campeão do Brasileirão Feminino 2026",
+     "fonte": "spfc24horas",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ib29KVHN6Q2VtbFpXc3hRSGl2UkNJenlpX01aRVhnTUV6YXZxZ2dXYmY5d3o2R3BTZVo5RjJmNGsxWFA3ZHhjV1FIRWJBXzB2QVRqbEFGZTRlbkZJdjItQmxHNFA1Z0s4NC1pbEZHSDBqTmR5d0xwTXVEWQ?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "_7VqB3yS1wY",
-      "titulo": "ANALISANDO A ESCALAÇÃO DE BRASIL X ÍNDIA",
-      "canal": "Simonetti Análises",
-      "views": 59783,
-      "likes": 1619,
-      "comentarios": 159,
-      "publicado": "2026-10-02T15:11:13Z",
-      "duracao_s": 977,
+      "id": "VZwioiqUKfI",
+      "titulo": "JN: São Paulo supera Corinthians e conquista título inédito do Brasileirão feminino",
+      "canal": "g1",
+      "views": 20140,
+      "likes": 335,
+      "comentarios": 23,
+      "publicado": "2026-10-04T00:56:43Z",
+      "duracao_s": 121,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=_7VqB3yS1wY"
+      "url": "https://www.youtube.com/watch?v=VZwioiqUKfI"
      },
      {
-      "id": "_6DJMaDOb2c",
-      "titulo": "NUNCA ACONTECEU ANTES: BRASIL X ÍNDIA SE ENFRENTAM PELA 1ª VEZ",
-      "canal": "Silvio Vieira | Advogado",
-      "views": 474,
-      "likes": 3,
+      "id": "xfVRp2zYbYs",
+      "titulo": "CRIVELARI COMENTA ARTILHARIA NA TEMPORADA E CONQUISTA INÉDITA DO SÃO PAULO NO BR FEMININO #shorts",
+      "canal": "O Tikitaka Sports",
+      "views": 442,
+      "likes": 16,
       "comentarios": 0,
-      "publicado": "2026-10-02T16:11:37Z",
-      "duracao_s": 10,
+      "publicado": "2026-10-04T13:59:30Z",
+      "duracao_s": 35,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=_6DJMaDOb2c"
-     },
-     {
-      "id": "PCqq70-DlTM",
-      "titulo": "Brasil na Índia e Portugal vence por 4–2 | Giro LukeSports 02/10/2026",
-      "canal": "Luke Sports",
-      "views": 32,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-10-02T10:57:24Z",
-      "duracao_s": 55,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=PCqq70-DlTM"
-     },
-     {
-      "id": "9yfB66PDxys",
-      "titulo": "Seleção Brasileira encara Índia pela primeira vez na história; siga ao vivo",
-      "canal": "Coca que Cola",
-      "views": 19,
-      "likes": 1,
-      "comentarios": 0,
-      "publicado": "2026-10-03T14:26:10Z",
-      "duracao_s": 55,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=9yfB66PDxys"
-     },
-     {
-      "id": "myk0dT3x_W8",
-      "titulo": "1º GOL DO BRASIL | ESTÊVÃO | ÍNDIA 0X1 BRASIL | AMISTOSO | 03/10/2026",
-      "canal": "VarTV",
-      "views": 9,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-10-03T14:47:24Z",
-      "duracao_s": 8,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=myk0dT3x_W8"
-     },
-     {
-      "id": "w-3yPLKRKuA",
-      "titulo": "🇧🇷 GOL DO BRASIL!⚽️ Pedro 🥾 Estêvão🇮🇳 Índia 0x2 Brasil 🇧🇷🏆 #brasil #india #aovivo",
-      "canal": "CARTOLA FC GERSON ",
-      "views": 1,
-      "likes": 1,
-      "comentarios": 0,
-      "publicado": "2026-10-03T14:55:25Z",
-      "duracao_s": 7,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=w-3yPLKRKuA"
-     },
-     {
-      "id": "unlVaqjhVXQ",
-      "titulo": "2º GOL DO BRASIL | PEDRO | ÍNDIA 0X2 BRASIL | AMISTOSO | 03/10/2026",
-      "canal": "VarTV",
-      "views": 0,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-10-03T14:55:59Z",
-      "duracao_s": 8,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=unlVaqjhVXQ"
+      "url": "https://www.youtube.com/watch?v=xfVRp2zYbYs"
      }
     ],
-    "consulta": "Seleção Brasileira Índia amistoso siga",
-    "n_videos": 7,
+    "consulta": "São Paulo conquista inédito",
+    "n_videos": 2,
     "mais_de": false,
-    "views": 60318,
+    "views": 20582,
     "top": [
      {
-      "titulo": "ANALISANDO A ESCALAÇÃO DE BRASIL X ÍNDIA",
-      "canal": "Simonetti Análises",
-      "views": 59783,
-      "url": "https://www.youtube.com/watch?v=_7VqB3yS1wY",
-      "publicado": "2026-10-02T15:11:13Z",
+      "titulo": "JN: São Paulo supera Corinthians e conquista título inédito do Brasileirão feminino",
+      "canal": "g1",
+      "views": 20140,
+      "url": "https://www.youtube.com/watch?v=VZwioiqUKfI",
+      "publicado": "2026-10-04T00:56:43Z",
       "do_canal": false
      },
      {
-      "titulo": "NUNCA ACONTECEU ANTES: BRASIL X ÍNDIA SE ENFRENTAM PELA 1ª VEZ",
-      "canal": "Silvio Vieira | Advogado",
-      "views": 474,
-      "url": "https://www.youtube.com/watch?v=_6DJMaDOb2c",
-      "publicado": "2026-10-02T16:11:37Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "Brasil na Índia e Portugal vence por 4–2 | Giro LukeSports 02/10/2026",
-      "canal": "Luke Sports",
-      "views": 32,
-      "url": "https://www.youtube.com/watch?v=PCqq70-DlTM",
-      "publicado": "2026-10-02T10:57:24Z",
+      "titulo": "CRIVELARI COMENTA ARTILHARIA NA TEMPORADA E CONQUISTA INÉDITA DO SÃO PAULO NO BR FEMININO #shorts",
+      "canal": "O Tikitaka Sports",
+      "views": 442,
+      "url": "https://www.youtube.com/watch?v=xfVRp2zYbYs",
+      "publicado": "2026-10-04T13:59:30Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "Neymar joga contra o Flamengo? Cuca responde sobre chance de ter craque de volta ao Santos",
+   "tema": "Cuca revela chance de Neymar voltar contra Flamengo",
    "categoria": "Jogo e resultado",
    "clubes": [
     "Flamengo"
    ],
    "foco": true,
-   "nota": 59.2,
+   "nota": 69.2,
    "sinais": {
     "busca": 60,
-    "aceleracao": 49,
-    "midia": 87,
+    "aceleracao": 51,
+    "midia": 58,
     "aderencia": 100,
-    "youtube": 0
+    "youtube": 68
    },
    "fator_categoria": 1.056,
    "trafego_google": 0,
    "busca_torcedor": "neymar vai jogar na copa de 2030",
    "termos_trends": [],
-   "n_fontes": 7,
-   "n_manchetes": 8,
-   "assinatura": "cuca|neyma|flame|santo",
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "neyma|cuca|flame|chanc",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
     "gancho": "Eu aposto que o Flamengo [VENCE / EMPATA / PERDE], e explico por quê. Qual é o seu placar?",
     "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Neymar joga contra o Flamengo? Cuca responde sobre chance de ter craque de volta ao Santos?",
+    "pergunta_enquete": "Qual sua opinião: Cuca revela chance de Neymar voltar contra Flamengo?",
     "tecnica": "Aposta",
     "ganchos": [
      {
@@ -1978,56 +1069,476 @@
      },
      {
       "tecnica": "Dado",
-      "texto": "O torcedor está digitando “neymar vai jogar na copa de 2030” no Google agora. A resposta não é tão simples.",
-      "thumb": "VOCÊ PESQUISOU"
+      "texto": "39 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
+      "thumb": "TODO MUNDO VIU"
      },
      {
       "tecnica": "Conflito",
-      "texto": "Flamengo contra Santos vale mais do que três pontos, e os dois sabem disso.",
-      "thumb": "FLAMENGO x SANTOS"
+      "texto": "Cuca revela chance de Neymar voltar contra Flamengo. Por trás disso, tem dois lados que não querem a mesma coisa.",
+      "thumb": "QUEM TEM RAZÃO?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Neymar joga contra o Flamengo? Cuca responde sobre chance de ter craque de volta ao Santos. Parece que está tudo resolvido. No futebol, quase nunca está.",
+      "texto": "Cuca revela chance de Neymar voltar contra Flamengo. A leitura óbvia é uma. A que importa é outra.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Flamengo x Santos: qual é o detalhe que vai decidir?",
+      "texto": "O que o Flamengo precisa fazer para vencer esse jogo?",
       "thumb": "E AGORA, FLAMENGO?"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Neymar joga contra o Flamengo? Veja o que disse o técnico Cuca",
-     "fonte": "O Dia",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOendTWi04Uk4zcUV3bUNsdmd3ZmZ4cmxWSlNHQUJjdlNqVExicHRTQVhfU0N4WWd1Yk82VUM2TkRuY3V5TEgzNjQzbWR5M3YzWXBHRFFSaEJEQlI1TjZJMHBNbkh2SHJqckp5NzFoMmhsVnVoWmNlcENxYzlTV3hpb1VscVlhaGpwU3kxX1BOU3VmMlR0OHlVUVBoLTlELVpIMzBiMHFObnF2aWNlSzV4Rlp1VmxqZEs1WDJlYkhWa9IBxAFBVV95cUxOS0haU29OM1BsMjJZdjlxOXRLbURVV1dqODRDT1Y1ZFpVblNZT3pWWlZMVzZfZ1lGM01GRFRSeFhjQVVHUGxsWkg1cHQ3M01KeExQeW1sSnJnWml5cHVDOHJ1VHFDMFFaWGVTUWxnbzI4eFJ5X0FrNXNvaGNFUlEtcnlpNUgtWHdxUjZ5NldvUWM3X2ZCVkhlQmtHYzI2TUlISWdaZ3E0Zjg3dWZqbWZ3MVRLMDhpZ1BjUjhNSHJpOW9Yek8y?oc=5"
-    },
-    {
-     "titulo": "O Santos pode contar com o reforço de Neymar para o duelo contra o Flamengo, na quinta-feira (8), na Vila Belmiro, pelo Campeonato Brasileiro. Em entrevista coletiva, o técnico Cuca afirmou que o atacante tem chances de retornar aos gramados diante do",
-     "fonte": "instagram.com",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDNkRzalRUb2paZ3JCWGp4ZS1maGNwV2swRE41dDB5UjhsaHk5NlFlZHE2V0dLUkh2NjZRZThQOVZtc1ZHZ3AzWlByZFJNR25aS1E?oc=5"
-    },
-    {
-     "titulo": "Neymar joga contra o Flamengo? VEJA a resposta sincera de Cuca",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SOXVUdjk3RVRQZnluZWtmSXJkS1BkZy12VFQyNTFUVGdGeGZ4YWRSd3hKUUxfTXFjcUF0OXJhOGVLOVI5QkR2TDM5c2V2SGl2NkljTGlyaXNRNzRGZXc?oc=5"
-    },
-    {
      "titulo": "Cuca festeja vitória no clássico, planeja lugar na Libertadores e aponta Neymar contra Flamengo",
      "fonte": "Estadão",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSDdaUEpQZzF5eW1tVF84dWR1c2YySTVEM3QybnRLLTIyNEl3aWN1cHJ6Z1oyV3NZbUI2QV9WMVVvYTlYaVZqZ01nUmh4MU9OYWYyQnVDNXk4UC1XemtlUWU2alkzbTZTQkVYNEdfVDcyU0xzT3gyazNVdU9iR2xyU1FLcWlmVUR4QlI3V0tzQ1Z3MEFUTmNkaWVSejlwZ2RfR3lJZjN5RklQRHVxMnh1bGVNaGFJLVhOaldGSXJ2eDNZcjl5X2NnOWhFQVdqcUFDaXRBeXpkendlMkV5eXc?oc=5"
     },
     {
-     "titulo": "Neymar joga contra o Flamengo? Cuca responde sobre chance de ter craque de volta ao Santos",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSlBTcEY4NFkyWjFtM09SVHJIV0FfaFFvLXpCU2Z6TDh3Y2loemsyS3B5N09iY3FGQjZaTE5NaHJVdWh3aHVZa1dwbVE3TjhOYTZfUTMyeEdSOWRBM3ZmLWhIanJFaWpOR3VVUksxbUdpaXE2aVJDY0VPMXNxRTdFdFBSVmtCTFpiekZIUDVwd2I3Y3BwNHBUWUh4LWIzeDI5eE0yblg1ZlZOUHZpUzZkdlhLeDBMMVVVbm44QkVGUk8xaUh4NGJaOWpUd0JOMzd6cGh0aQ?oc=5"
+     "titulo": "Cuca revela chance de Neymar voltar contra Flamengo",
+     "fonte": "jornaldaorla.com.br",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS3VjVlB1MUVxNmVraGZfcnBuaWpJS3JHQk56VExkWWgzeTRPeXBuNENwNFJyN21kRlNzM19tSksxNFczMjRqa0hibnFuaUlrUXEzTmloY2FoNTZiZ0N1alVGM19fYUdUNWpuQXQ3MGQwcXpSZkJjUnI2YnhrSE14c2V6bmhyYjVqd3V3VHRUdl9raE0?oc=5"
+    },
+    {
+     "titulo": "Cuca comenta chances de Neymar jogar contra o Flamengo",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY1pJaUh5Z2JDckNfYzluaXAyYl9uNTQ4bGRYR1NVMjVNV2VRMzhnZmUxMS1GcXlZTGx5YmVKSmRhUjJWZmZLbTFFQkU0c0ZBVzJyck1hTngwOGF6UGRKa0xUajdUVnNINWRPcUNlWDVWRGhIemxmSHo3eEJTd1lhX3dNbGFxT1VZdzhEZ3NEZlZ6Z3V5M0Z5VHZjWVQ5VHplR0pjaVN3QzM0N0dnc1lLa001Q1ByX28ycEl5Z0FOTnV0WXg2QmZPT0VpeDlEZ1dRaDdhSnA0a2g?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "18Eqez5PVD4",
+      "titulo": "🚨 NEYMAR VAI VOLTAR CONTRA O FLAMENGO?! #neymar #santos #flamengo #futebol",
+      "canal": "FUTCLIPS",
+      "views": 38425,
+      "likes": 1094,
+      "comentarios": 5,
+      "publicado": "2026-10-03T21:45:22Z",
+      "duracao_s": 19,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=18Eqez5PVD4"
+     },
+     {
+      "id": "JKVBgNkFXTE",
+      "titulo": "Cuca fala sobre Neymar e Coutinho: uma chance de revanche",
+      "canal": "FutNews Shorts",
+      "views": 349,
+      "likes": 11,
+      "comentarios": 1,
+      "publicado": "2026-10-04T10:22:47Z",
+      "duracao_s": 50,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=JKVBgNkFXTE"
+     },
+     {
+      "id": "n0oCrMMazvQ",
+      "titulo": "🔴⚫ Cuca festeja vitória no clássico, planeja lugar na Libertadores e aponta Neymar contra Flamengo",
+      "canal": "malvadao news",
+      "views": 44,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-04T03:27:17Z",
+      "duracao_s": 22,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=n0oCrMMazvQ"
+     }
+    ],
+    "consulta": "Flamengo Neymar Cuca chance",
+    "n_videos": 3,
+    "mais_de": false,
+    "views": 38818,
+    "top": [
+     {
+      "titulo": "🚨 NEYMAR VAI VOLTAR CONTRA O FLAMENGO?! #neymar #santos #flamengo #futebol",
+      "canal": "FUTCLIPS",
+      "views": 38425,
+      "url": "https://www.youtube.com/watch?v=18Eqez5PVD4",
+      "publicado": "2026-10-03T21:45:22Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Cuca fala sobre Neymar e Coutinho: uma chance de revanche",
+      "canal": "FutNews Shorts",
+      "views": 349,
+      "url": "https://www.youtube.com/watch?v=JKVBgNkFXTE",
+      "publicado": "2026-10-04T10:22:47Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "🔴⚫ Cuca festeja vitória no clássico, planeja lugar na Libertadores e aponta Neymar contra Flamengo",
+      "canal": "malvadao news",
+      "views": 44,
+      "url": "https://www.youtube.com/watch?v=n0oCrMMazvQ",
+      "publicado": "2026-10-04T03:27:17Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Brasil goleia Índia por 4 a 0 e fecha Data Fifa com duas vitórias",
+   "categoria": "Jogo e resultado",
+   "clubes": [],
+   "foco": false,
+   "nota": 65.0,
+   "sinais": {
+    "busca": 45,
+    "aceleracao": 61,
+    "midia": 96,
+    "aderencia": 70,
+    "youtube": 96
+   },
+   "fator_categoria": 1.056,
+   "trafego_google": 0,
+   "busca_torcedor": "datas de eleições gerais no brasil em 2026",
+   "termos_trends": [],
+   "n_fontes": 9,
+   "n_manchetes": 9,
+   "assinatura": "fifa|brasi|data|golei",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "3 milhões de visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
+    "titulo_thumb": "TODO MUNDO VIU",
+    "pergunta_enquete": "Qual sua opinião: Brasil goleia Índia por 4 a 0 e fecha Data Fifa com duas vitórias?",
+    "tecnica": "Dado",
+    "ganchos": [
+     {
+      "tecnica": "Dado",
+      "texto": "3 milhões de visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
+      "thumb": "TODO MUNDO VIU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Brasil goleia Índia por 4 a 0 e fecha Data Fifa com duas vitórias. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Brasil goleia Índia por 4 a 0 e fecha Data Fifa com duas vitórias. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Brasil goleia Índia por 4 a 0 e fecha Data Fifa com duas vitórias. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
+      "thumb": "E AGORA, SELEÇÃO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Brasil goleia Índia por 4 a 0 e fecha Data Fifa com duas vitórias. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Seleção Brasileira domina a Índia em Calcutá e fecha Data Fifa com goleada",
+     "fonte": "jrregional.com.br",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPckJFX3I1Znc3Q3Bmcm9DX1BRanJPOVdjSFdmRTl6Q2dOVWQtaE9QUjNKZFNKa0VBcVJjb1hwcDctdEROMzRhZ1kxdDJET0VQbmhyRmZwSER0eFhqZ05tbThGVEtwa05DZ2VaV2NCYURKNFhhQ1p0WFpZLXNOY2FqQVhTT180dURiazRJRGdkUWVPLUh6eHpBaUZCRWFRbFZCZmZQRFpSeVM?oc=5"
+    },
+    {
+     "titulo": "Seleção brasileira sub-20 goleia México por 4 a 0 e fecha Data Fifa invicta",
+     "fonte": "O GLOBO",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS3B3d0luUlFLRW1ZdkxkVEQtSTI4SEpYRjVfS1RYM2trcV9kSEpvQXlfUVpFS3diMndzUGRtbDVocC1MeVM2WmNQWC1PYUxENW5aRU5KRlpQMm5XWE5HUmJWV2lpR2U4YWVrNW9zZVdTR2dtMnhvTmlOUXMxYVhaM19HNk5JV1JQNmhKa2dVXzY5YjhneTJ5dHRsdlZablpydi1xVE1YZUpwaWR6Rl9uLWpDTEUxRHk0RF9hRlJUT3VjN002TnBkbUhtOUJDNS1NRVVXamxkNXNyNHQzS0HSAd4BQVVfeXFMUEtwd3dJblJRS0VtWXZMZFRELUkyOEhKWEY1X0tUWDNra3FfZEhKb0F5X1FaRUt3YjJ3c1BkbWw1aHAtTHlTNlpjUFgtT2FMRDVuWkVOSkZaUDJuV1hOR1JiVldpaUdlOGFlazVvc2VXU0dnbTJ4b05pTlFzMWFYWjNfRzZOSVdSUDZoSmtnVV82OWI4Z3kyeXR0bHZWWm5acnYtcVRNWGVKcGlkekZfbi1qQ0xFMUR5NERfYUZSVE91YzdNNk5wZG1IbTlCQzUtTUVVV2psZDVzcjR0M0tB?oc=5"
+    },
+    {
+     "titulo": "Seleção Brasileira Sub-20 goleia rival e fecha Data Fifa invicta",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHVRdTJ4anFCQjZTS1hCZnJGLXgyTDlQZTh4RjFHU3k3UTkzVmx2WXBjX1gtVS0wLUJoWEdVRENicGxrZlBDWmxFM3JkMzdPdkxOQkRCVDNUSm00WXhkbkF6Mk1XSkx0U093N3Z2cWZSeGJrUlVTb1B4bXI3Y0c4bVc2MWlSaU93N3RNcmF5U2hLM1ViXzA2bjZvR2JZTUJKd0psOXVRRkdmemM?oc=5"
+    },
+    {
+     "titulo": "Brasil goleia a Índia por 4 a 0 e encerra Data Fifa sem derrotas",
+     "fonte": "Rádio grenal",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM1pSV2NGLUQzdmVuSmwwU0M0eHpsNGY3X093SGc3c09HTFhvSjh1MkNKdlRXaXFYTVVfX1VIMGF1Z05lMXZ4bjVTcVZZZ0Q3em9lSmFnVWtVTHVzeExYaU1tYnZmZkxNLVVxQzhCYXRLRVlCbzRRMFJnOElGSDR3QlRUcklKeVhNeTRnU2tCalExeERqNFY5ODc2YjE?oc=5"
+    },
+    {
+     "titulo": "Brasil encerra Data Fifa com duas vitórias e um empate; veja próximos jogos",
+     "fonte": "Metrópoles",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNODZ0cVczWDkzS1ptZ196cE1KZ29uMUlUcWNpbFNuTGxDTlV5RGRyWkcza0RiRWo5U3dNQkVJczFVdW1aYmYzWkpHc2FYbWlRNXVoUzNfeC1KOEJvQU10OUZPLXQyLThTaXZVZ1l0TWNoRTBnNk8yeURWbFlJWXhSbWxBU2FDUGN5UDNvYWJ2ZWdEYkoyT21HWTVhdzI2RDF0Mncxb1N2d1l3akE5OVRj?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "TJdhuOpUz2s",
+      "titulo": "ÍNDIA 0 X 4 BRASIL | MELHORES MOMENTOS | AMISTOSO INTERNACIONAL 2026 | ge.globo",
+      "canal": "ge tv",
+      "views": 2501682,
+      "likes": 37619,
+      "comentarios": 4204,
+      "publicado": "2026-10-03T16:24:56Z",
+      "duracao_s": 343,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=TJdhuOpUz2s"
+     },
+     {
+      "id": "OYjuFR9bmYc",
+      "titulo": "BRASIL E ÍNDIA | SELEÇÃO MANDA NO JOGO, GOLEIA A ÍNDIA E ENCERRA A DATA FIFA COM TRIUNFO IMPORTANTE",
+      "canal": "BTB SPORTS OFICIAL",
+      "views": 175942,
+      "likes": 536,
+      "comentarios": 10,
+      "publicado": "2026-10-03T16:10:41Z",
+      "duracao_s": 9653,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=OYjuFR9bmYc"
+     },
+     {
+      "id": "CXqnYupLiXE",
+      "titulo": "EVENTO COMPLETO: BRASIL VENCE A ÍNDIA COM TRANQUILIDADE E ENCERRA 1ª DATA FIFA | GERAL CAZÉTV",
+      "canal": "CazéTV",
+      "views": 140476,
+      "likes": 1143,
+      "comentarios": 8,
+      "publicado": "2026-10-03T17:53:54Z",
+      "duracao_s": 6785,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=CXqnYupLiXE"
+     },
+     {
+      "id": "JCtnLzJkjIs",
+      "titulo": "SELEÇÃO GOLEIA ÍNDIA E ENCERRA DATA FIFA INVICTA! GABIGOL AMASSA E SANTOS VENCE SPFC | PAN NA ÁREA",
+      "canal": "Jovem Pan Esportes",
+      "views": 77013,
+      "likes": 849,
+      "comentarios": 11,
+      "publicado": "2026-10-03T19:04:58Z",
+      "duracao_s": 5572,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=JCtnLzJkjIs"
+     },
+     {
+      "id": "saXymyE6YRA",
+      "titulo": "Primeiro adversário do Flamengo pós-Data Fifa, Santos vence São Paulo em noite de Gabigol. LIVE",
+      "canal": "Mauro Cezar",
+      "views": 41844,
+      "likes": 1674,
+      "comentarios": 1,
+      "publicado": "2026-10-03T02:58:44Z",
+      "duracao_s": 5490,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=saXymyE6YRA"
+     },
+     {
+      "id": "wIbUSEJ9Xws",
+      "titulo": "SELEÇÃO GOLEIA ÍNDIA E ENCERRA DATA FIFA INVICTA! GABIGOL AMASSA E SANTOS VENCE SPFC | PAN NA ÁREA",
+      "canal": "Jovem Pan News",
+      "views": 14227,
+      "likes": 97,
+      "comentarios": 1,
+      "publicado": "2026-10-03T19:03:33Z",
+      "duracao_s": 5541,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=wIbUSEJ9Xws"
+     },
+     {
+      "id": "Wp784q8HV9E",
+      "titulo": "Seleção Brasileira goleia a Índia no último amistoso dessa Data FIFA",
+      "canal": "ParsaFut",
+      "views": 2833,
+      "likes": 44,
+      "comentarios": 0,
+      "publicado": "2026-10-03T16:15:18Z",
+      "duracao_s": 14,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Wp784q8HV9E"
+     },
+     {
+      "id": "6lCmawYLDGU",
+      "titulo": "BRASIL GOLEIA A ÍNDIA!!! #shorts",
+      "canal": "NEWS OF SOCCER ",
+      "views": 1653,
+      "likes": 27,
+      "comentarios": 0,
+      "publicado": "2026-10-03T20:05:00Z",
+      "duracao_s": 30,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=6lCmawYLDGU"
+     },
+     {
+      "id": "wcpCSpaZ9gc",
+      "titulo": "BRASIL VENCE ÍNDIA NO ULTIMO AMISTOSO DA DATA FIFA #seleçãobrasileira #Brasil #neymar",
+      "canal": "Vitor Ferrarezi Jornalista Esportivo ",
+      "views": 516,
+      "likes": 9,
+      "comentarios": 0,
+      "publicado": "2026-10-03T16:00:38Z",
+      "duracao_s": 15,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=wcpCSpaZ9gc"
+     },
+     {
+      "id": "miIjnArYFU8",
+      "titulo": "BRASIL GOLEIA A ÍNDIA NO ENCERRAMENTO DA DATA FIFA! ⚽🇧🇷",
+      "canal": "Voz do Esporte",
+      "views": 286,
+      "likes": 5,
+      "comentarios": 0,
+      "publicado": "2026-10-03T21:15:45Z",
+      "duracao_s": 28,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=miIjnArYFU8"
+     },
+     {
+      "id": "EDmzc9lYC7k",
+      "titulo": "SELEÇÃO BRASILEIRA VENCE AUSTRÁLIA E ANÁLISE COMPLETA DA DATA FIFA",
+      "canal": "Arquibancada Mack",
+      "views": 45,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-10-03T08:09:21Z",
+      "duracao_s": 3739,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=EDmzc9lYC7k"
+     },
+     {
+      "id": "HdlqlTBKXAk",
+      "titulo": "Brasil goleia Índia por 4 a 0 e fecha Data Fifa pós-Copa 2026 com triunfo",
+      "canal": "Leia Esporte",
+      "views": 43,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-03T22:11:07Z",
+      "duracao_s": 23,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=HdlqlTBKXAk"
+     },
+     {
+      "id": "9rsGhjdznsY",
+      "titulo": "BRASIL GOLEIA A ÍNDIA EM JOGO INÉDITO, ENCERRA A DATA FIFA INVICTO E REALIZA TESTES COM JOVENS!",
+      "canal": "Na Prancheta FC",
+      "views": 32,
+      "likes": 7,
+      "comentarios": 3,
+      "publicado": "2026-10-03T20:00:06Z",
+      "duracao_s": 2981,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=9rsGhjdznsY"
+     },
+     {
+      "id": "KHhuig_g-E0",
+      "titulo": "🌍 FLASH GLOBAL 📡 Brasil goleia a Índia, mas recebe críticas da imprensa espanhola",
+      "canal": "Radar Global Futebol",
+      "views": 10,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-03T18:51:20Z",
+      "duracao_s": 60,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=KHhuig_g-E0"
+     }
+    ],
+    "consulta": "Data Fifa goleia",
+    "n_videos": 14,
+    "mais_de": false,
+    "views": 2956602,
+    "top": [
+     {
+      "titulo": "ÍNDIA 0 X 4 BRASIL | MELHORES MOMENTOS | AMISTOSO INTERNACIONAL 2026 | ge.globo",
+      "canal": "ge tv",
+      "views": 2501682,
+      "url": "https://www.youtube.com/watch?v=TJdhuOpUz2s",
+      "publicado": "2026-10-03T16:24:56Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "BRASIL E ÍNDIA | SELEÇÃO MANDA NO JOGO, GOLEIA A ÍNDIA E ENCERRA A DATA FIFA COM TRIUNFO IMPORTANTE",
+      "canal": "BTB SPORTS OFICIAL",
+      "views": 175942,
+      "url": "https://www.youtube.com/watch?v=OYjuFR9bmYc",
+      "publicado": "2026-10-03T16:10:41Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "EVENTO COMPLETO: BRASIL VENCE A ÍNDIA COM TRANQUILIDADE E ENCERRA 1ª DATA FIFA | GERAL CAZÉTV",
+      "canal": "CazéTV",
+      "views": 140476,
+      "url": "https://www.youtube.com/watch?v=CXqnYupLiXE",
+      "publicado": "2026-10-03T17:53:54Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Seleção sub-20 goleia o México com brilho de dupla do Palmeiras",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Palmeiras"
+   ],
+   "foco": true,
+   "nota": 62.9,
+   "sinais": {
+    "busca": 60,
+    "aceleracao": 77,
+    "midia": 67,
+    "aderencia": 100,
+    "youtube": 0
+   },
+   "fator_categoria": 1.056,
+   "trafego_google": 0,
+   "busca_torcedor": "palmeiras x santos",
+   "termos_trends": [],
+   "n_fontes": 4,
+   "n_manchetes": 4,
+   "assinatura": "golei|sub-2|mexic|selec",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Seleção sub-20 goleia o México com brilho de dupla do Palmeiras. Nem todo mundo no Palmeiras vai gostar disso, e eu vou explicar por quê.",
+    "titulo_thumb": "PALMEIRAS x SANTOS",
+    "pergunta_enquete": "Qual sua opinião: Seleção sub-20 goleia o México com brilho de dupla do Palmeiras?",
+    "tecnica": "Conflito",
+    "ganchos": [
+     {
+      "tecnica": "Conflito",
+      "texto": "Seleção sub-20 goleia o México com brilho de dupla do Palmeiras. Nem todo mundo no Palmeiras vai gostar disso, e eu vou explicar por quê.",
+      "thumb": "PALMEIRAS x SANTOS"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Seleção sub-20 goleia o México com brilho de dupla do Palmeiras. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Seleção sub-20 goleia o México com brilho de dupla do Palmeiras. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
+      "thumb": "E AGORA, PALMEIRAS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Seleção sub-20 goleia o México com brilho de dupla do Palmeiras. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Seleção Brasileira Sub-20 goleia o México no encerramento da Data Fifa",
+     "fonte": "CNN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdTlTRVJtTVlDQVdsNk1zWnM5QUwzM2dNMm5DUjBzSXVkamxfUFhjaHBfUlBPVENmRzRpU0pQMlNDeDd0YktRM1RTSmxYdi1vZlZYSFRYOEJQWkdRT2JHbTRHVVk0YmZBaXRYV2ZOX0pkaVhJTnRzb2IzbDRiTk90ZXZtQW5xOUlqbWNyZUJRMWRRb0VSTEY5ZUw1Nk5oeG1IZ3VidUp1QnIxYURsTkRVa0xTQTlWQVBxeldlU3ZfYnd3VVJLVWo3NWtaNUh2QzI1c2c?oc=5"
+    },
+    {
+     "titulo": "Seleção sub-20 goleia o México por 4 a 0 com golaço de falta por baixo da barreira",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc25hVDRMUTVoTTYxLUFVYUozbWdpTENuR2dPRFhGWFY4eGtfVmJlQmdLamhkdjZYb3FCN2h4SDJRRjZ0Z2s2SDdBaXJROElNcGJyRkswcl9qWmpMVjdZb3NIdzFKaHR3WjlnaHFPc3hXZUV5T3JaZlR2QTFLVGljZXc1UTNfU0VDWk9zWHBLYzFBMTVOM3JWWnFPX19OV3VSdElfNlJCclhMWTBqQ0xHRG1YNjhVaGNLZTZyNlkxSkktdTZSdmxuNU1uaFE2Y3J5U2UwMHVMMjMzV3pvX3NF0gHuAUFVX3lxTE1hc0RNajd6XzNULTRwb2dfVnh1cUUxM0hrZHc5Y0xJa3JzOC14M2V6SWVsdzJGUFB2UGRRV1RXc1phZVdNX244VGJYZ1RhOHY4NUxZbS1uSFpyWlBacE5mZW5GZl84YXJTdWtUNmloaXRzNk9KbVdGeEdvcGZLcTY4OXk5Y0lYMVRCSHFLZE9ZNkJkY056aW16cDBpSWdCUkxHNlhnazI3eEU3YmQ4c3NHODFxNnc4cFNidVZxVUQyYjg2YXd6eDdYNUNuaS1UWWZxOFRPQTN4dE9ud0RTeWpCdWszeUh6MUlkMzI5QkE?oc=5"
+    },
+    {
+     "titulo": "Com brilho de joias de Santos e Palmeiras, Seleção sub-20 goleia o México",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY1lxNFRuUHJUd2tLelNORTg4YWJUVFVTSVZHT1A4bGp0QXhIZ2c4NDl5WjdtYjR4bkFYQ254SUd1WHJOaFliRXdvdzJNY2NsNW1nSmUyMUM0RU1jbXgxZ3lyR2lGZklOVXZKMEF3dnA0NUxEOWQ1U2FKdTRMYjU0cWMtendfQlpyem1NMWI4R2pQVlFBbnNXSm54N2tFMVI5R04wczEzaURLWGJ2Q3VKRWNhOEdELVA1RUFXYl9TMNIBvwFBVV95cUxQY1lxNFRuUHJUd2tLelNORTg4YWJUVFVTSVZHT1A4bGp0QXhIZ2c4NDl5WjdtYjR4bkFYQ254SUd1WHJOaFliRXdvdzJNY2NsNW1nSmUyMUM0RU1jbXgxZ3lyR2lGZklOVXZKMEF3dnA0NUxEOWQ1U2FKdTRMYjU0cWMtendfQlpyem1NMWI4R2pQVlFBbnNXSm54N2tFMVI5R04wczEzaURLWGJ2Q3VKRWNhOEdELVA1RUFXYl9TMA?oc=5"
+    },
+    {
+     "titulo": "Seleção sub-20 goleia o México com brilho de dupla do Palmeiras",
+     "fonte": "UOL",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTEEwZ1JST2JDUGlhMHc4cDNKdl9TNXZxNzVWenJEYnlBaUZLY3JQbTBMdDNid0JpM3ctbEVhTFV3aWlRbEVTWExBak1xWElWVk1FWnJlM0NLMkx3Ymp6Ymh2REtkUmFUOEVkYzQyeWVtdW9rNHI0eHdCb3U2Vzl4aHJadVE0N3o2WXRlWDhGOXVZYmRxaXE2bzlGUkQ3SVVWTVBYZmtCLWtSV2dMWkVOaW1jeERvZEFzOFlhdHlGb2VfNDdZSF9xVmN6RkV5bGE5?oc=5"
     }
    ],
    "youtube": {
     "amostra": [],
-    "consulta": "Flamengo Neymar Cuca responde",
+    "consulta": "Palmeiras México sub-20 goleia",
     "n_videos": 0,
     "mais_de": false,
     "views": 0,
@@ -2035,577 +1546,470 @@
    }
   },
   {
-   "tema": "Seleção Brasileira está escalada para jogo contra Índia; confira",
+   "tema": "Data Fifa pode desfalcar Flamengo e Palmeiras no Brasileirão; entenda",
    "categoria": "Seleção",
-   "clubes": [],
-   "foco": false,
-   "nota": 58.2,
+   "clubes": [
+    "Palmeiras",
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 62.2,
    "sinais": {
-    "busca": 75,
-    "aceleracao": 56,
-    "midia": 75,
-    "aderencia": 70,
-    "youtube": 63
+    "busca": 45,
+    "aceleracao": 45,
+    "midia": 81,
+    "aderencia": 100,
+    "youtube": 58
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "índia x brasil",
+   "busca_torcedor": "datas de eleições gerais no brasil em 2026",
    "termos_trends": [],
-   "n_fontes": 5,
+   "n_fontes": 6,
    "n_manchetes": 6,
-   "assinatura": "brasi|india|jogo|escal",
+   "assinatura": "fifa|palme|data|flame",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Lista ou ranking (3 a 5 min)",
-    "gancho": "15 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
-    "titulo_thumb": "TODO MUNDO VIU",
-    "pergunta_enquete": "Qual sua opinião: Seleção Brasileira está escalada para jogo contra Índia; confira?",
-    "tecnica": "Dado",
+    "gancho": "Data Fifa pode desfalcar Flamengo e Palmeiras no Brasileirão. Todo mundo está olhando para um lado; o que importa para a Seleção está do outro.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
+    "pergunta_enquete": "Qual sua opinião: Data Fifa pode desfalcar Flamengo e Palmeiras no Brasileirão; entenda?",
+    "tecnica": "Contradição",
     "ganchos": [
      {
-      "tecnica": "Dado",
-      "texto": "15 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
-      "thumb": "TODO MUNDO VIU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Seleção Brasileira está escalada para jogo contra Índia. Nem todo mundo na Seleção vai gostar disso, e eu vou explicar por quê.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
       "tecnica": "Contradição",
-      "texto": "Seleção Brasileira está escalada para jogo contra Índia. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
+      "texto": "Data Fifa pode desfalcar Flamengo e Palmeiras no Brasileirão. Todo mundo está olhando para um lado; o que importa para a Seleção está do outro.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Seleção Brasileira está escalada para jogo contra Índia. Isso é bom ou ruim para a Seleção? Responde antes de ver a minha análise.",
-      "thumb": "E AGORA, SELEÇÃO?"
+      "texto": "Se você fosse o técnico da Seleção, quem chamaria agora?",
+      "thumb": "E AGORA, PALMEIRAS?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Seleção Brasileira está escalada para jogo contra Índia. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+      "texto": "Minha aposta para a vaga de Data: [SEU PALPITE]. Qual é a sua?",
       "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "“datas de eleições gerais no brasil em 2026”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Data Fifa pode desfalcar Flamengo e Palmeiras no Brasileirão. Clube e Seleção puxando para lados diferentes: quem tem razão?",
+      "thumb": "PALMEIRAS x FLAMENGO"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Que horas é o jogo do Brasil contra a Índia hoje?",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbEozbW1zSXhyN1RZUmhaakhNakNDTE9EVG1MdVd0MFFRclROOVowbXM2Nnd1bjhFWURCbjlvRDktR3Rlek1lSHdzYnNXbUhKVWdEVDBiT2lnN2s4ODBuOVZNOHZybjU2cVNsbU1UZFN0ZHBmT29obElaVnZyMU5ORHFhTzFTR3RUNlJ2dW5kLTZuSWtWQjJpY3ZRanBMNFp5eVlPRlR2Y2xoaGJ5MkE?oc=5"
-    },
-    {
-     "titulo": "Seleção Brasileira está escalada para jogo contra Índia; confira",
-     "fonte": "Metrópoles",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRUxJa3BJc3FMdFBhR01JN3NDUDZtcmRwM21lckxoX2c4Y3NMVUU3Z0hOUExHS0RlV2lXSXZCdjdmek5MdG9xTmRpY2hacXlvdkpvQ0ZTV2xvOUlXT0FibFNOaG5ES1dIdDhWYzFCRTZtRThZd00tY3BtbVhxMzI4VzNVUmtSeGZkajZSTVlUZ1BDR0pSQjJHaDN6dWlyUnd5?oc=5"
-    },
-    {
-     "titulo": "Escalação: Brasil tem série de mudanças diante da Índia",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOENveVVHSDRyM3dQUmlBSENzd0cwZUg5RUJacmJsTTh1N1ExWERxbklGYjdyNVpkeTlNVDBYZ2c4b3dlcG1JcjBKVmJ4UmFtaHF2Yzcxd2pUcWdtQWZFdmczOFc5UV9lRUVoQWs3OS1jeDliRWRUNHJrOE45d0NVbzh5R0xFNGZtTXl3M21jbnFQUGo1Z1gxRzQ2V0dGRGpIeEVJLVF5eFR1LTF0MTEtMVlSTFYxWW1NMm84d1k3SC1YUQ?oc=5"
-    },
-    {
-     "titulo": "IA antecipa o resultado do jogo da Seleção Brasileira com a Índia",
-     "fonte": "jornalcruzeiro.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNak1ZVG9lVmtKWGlHX0Njcm16QnhWR0NoY1l4UGN3SzFGckJUSFZlOGNrclR3NUx3c2NCd2sxOE1hSmhzTlFYUHhPNzMtWkRkQ3VlbHo4eW80WDRDdFJ1bjl4LW1XaGtEdllkVXhCZE5DOTdvZU5lMDlOelZvMjJhQTBQc3VURVllM1JHX2RJV1h0dmZzTkxmZUdwVFI0aHk1Q1ItekpHTmVwZExLZVNOR2pSVFlDS0N2U253?oc=5"
-    },
-    {
-     "titulo": "Brasil x Índia: escalação e o que esperar do jogo",
+     "titulo": "Flamengo pode receber valor milionário da FIFA por conta de Arrascaeta; entenda",
      "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbHFGdlRhUWxBUHlZU0N5YVh2OWVQSW9yNlg1bkJ4cXd3ek42WHJyNGg5NlFRZ3k5N2ZHdVZDMDliamZCNF9ydlkweGJYVTNVNTVXS2gxTmJKdDZuVncycUQ3MDdyWURKSnNRdkZIZmc4OWQ0dXc0WmgyVTR2T2tnbGJLWkt6Rkt3NC1oYl83S0l1U1BwWXVZNjZFMl9aYlZNTWM1bm9tamd0SEZqZi14WGJGLWZkbk9ycElsYkE3Y0tSOEZVeFRnb3h3ajg4QVRz?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTkhEbXBDaWROZ2V4RWtsRFJIeXNFVlQ1aVJXX0Nwc2ZVTzlQWmVEZVJqRmc5T3FFdHE4SzZHckxueXRzdE1YbnltN3VCN3pnTXU1cXBuZlpLTHR0eTliTWNfZjBMb002SHRBaW1PcUFMWi1mM2ZrLXJzQlQtTmpyaVVwZU5CbFRCcHZBRG9oWUpXemp6ckFBRFlrSlBGS0h5U1d6aXZpR3Vzd1cxUWsxU2NDZGw2US1LVUgxaWFDWk0tbTY5ZUxPTTFDMnU1aUlFRzQybHByUVRMb0xFUlF2WHJXWE1ld1Q0a2doZ05FMHhCeXQ3dDVPZUU1UQ?oc=5"
+    },
+    {
+     "titulo": "Análise: Trio do Palmeiras brilha no Sub-20 e volta em alta da Data FIFA",
+     "fonte": "Bolavip Brasil",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM1JJN1ZTdTlYWUh3QkdrRWl4MkJwRTJJZloxMkRGcHoxbzFicVhING5LVk51WmVrV1JtclF2SWlQMjFXNFZpQVN0Q3MtVjh2czBLSXVQSk95V1FabFdXWmJKQ3FBanVMN2s1R2VJb3dlTmlvY2RGOUZpbjlqWGZkSTdTUW1TRkdjVHA0ZjBpaWJhTkNFUjlTcHFrTk95TGdJbkVNVmxNZ1V5SjFmOVBmME9fcVZVYnVVRlhFaDg0V2NsNzFGREU3WmRyWk5pZw?oc=5"
+    },
+    {
+     "titulo": "Data Fifa pode desfalcar Flamengo e Palmeiras no Brasileirão; entenda",
+     "fonte": "CNN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGlPTmN1ekdFZ1JDQzBDLXRxVUFIdDJIMEZOTUNOTFUxdE02M0lwTjU0SDh1dFF5RmVmU0FhZFZwNVRMY0tZaklzX01uQlpaaVQxNWtrOXJQMkpxZmYxVHM5ZEgtWng5UE5PM0RBYm5BQmx3ZzhhZ0lNR2t6WTBNOTRNejk0Z3BGeEJsbDFKRTZIa3FtRUVySDFUWGNEcjFjY0JycjNVNWZqelV0enN6c0U3RU9rUQ?oc=5"
+    },
+    {
+     "titulo": "Palmeiras: o que time precisa melhorar após a Data Fifa para a reta final da temporada",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVjNhclZMLWZVandER1BhVURXT2ZTczdiMFkyMTliRkFxNHh0a280UnZ2YU41Qi01c2xIWUdFZTBiaUY0S1I1bEp6dXVRY2g0R1VFUHh1d25YN1hOQ2lPZGR0bnlMNENpYnVKeHRHUzB4aXRCeHlxb25aNmhZSG9seHdlZE5wWGJXRE94Zjhmcm94eWJmSXNyaUh2UE9UM0Eyd2QySnNrMkhOTlFtTlhjczVybmwyTzYtUjh3LW95cl9IakxYMEx5R0tGRFRIR0tJamFIbEU3LV9WZXJNQzdQdFhTb2UxR1ctQVJz0gH6AUFVX3lxTE1jcmlVN3hmMzlnZTl1S2xZckNhdHZRcXRILUxzQnlTSnd2Y29XN2tnYjhrZjVsNDFfUThYOGpjVDk3RldvN0Zud1NUUnBTOUNrT0FhS09CYjVOVUdKN0JNZjBRRHNuUDgxUm56WlVkOTB6VHEwRi03c1pKSF83VTc2RUxHUWR5N3ZuZ3BDRUdPZmwwRHc3SzN3a251RDBVem92bjlSQlh6UlRUMHZ0bU4tVTFycy13Z1lRMHl5d0xfaU9jZm9sTlNwVndGRnI1TmN5azdWTVZNbThsaWViRzQ5bnJ5NWtkT0JfUWlmcVZITDJlQy0wb21PeXc?oc=5"
+    },
+    {
+     "titulo": "Palmeiras organiza logística para retorno de convocados na Data Fifa",
+     "fonte": "Araraquara News",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcGhndkk0LW42Tl9oeXoxSDVZZEFyWUhac0x1WEdZcHpPVUpudEVnRFMySVBoWTZqYTRHWEVDRVdBLUV0UThjTFVLWVQ0ZU81T0U1RXRwUnVrVkFkckNiNjE2aFhfRFRBZXBxalU5cXZSb2xlaElWOWhneUd5XzljSk5RcHJIS18yS2pqVFFMdDJYMkZ6UVhGRllpTExCbXAxaGJtLXAzWjlEYlRZaGVN?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "I6beAN_PjgQ",
-      "titulo": "VampTV | SELEÇÃO ESCALADA PARA ENFRENTAR A ÍNDIA! FLAMENGO VAI VENDER AS ESTRELAS? E MAIS",
-      "canal": "VampTV [OFICIAL]",
-      "views": 14747,
-      "likes": 591,
-      "comentarios": 4,
-      "publicado": "2026-10-03T06:29:02Z",
-      "duracao_s": 3704,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=I6beAN_PjgQ"
-     },
-     {
-      "id": "TF81hRHmGQo",
-      "titulo": "😳🚨SELEÇÃO BRASILEIRA ESCALADA PARA ENFRENTAR A ÍNDIA",
-      "canal": "Felipe Bernardes - Futebol",
-      "views": 591,
-      "likes": 17,
+      "id": "OdU7oIwr5tw",
+      "titulo": "DATA FIFA DESFALCA O PALMEIRAS E TIRA 11 JOGADORES DO VERDÃO! ABEL PREPARA EQUIPE PARA MARATONA!",
+      "canal": "LINK ALVIVERDE",
+      "views": 7156,
+      "likes": 247,
       "comentarios": 1,
-      "publicado": "2026-10-03T13:11:06Z",
-      "duracao_s": 62,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=TF81hRHmGQo"
+      "publicado": "2026-10-02T22:45:48Z",
+      "duracao_s": 5278,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=OdU7oIwr5tw"
      },
      {
-      "id": "YT5uWk3V2qc",
-      "titulo": "Seleção Brasileira está escalada para jogo contra Índia; confira",
-      "canal": "Coca que Cola",
-      "views": 0,
-      "likes": 0,
+      "id": "-m2235fZb34",
+      "titulo": "PALMEIRAS SE PREPARA PARA MARATONA DE JOGOS DECISIVOS NO MÊS! DATA FIFA DESFALCA ELENCO EM OUTUBRO!",
+      "canal": "LINK ALVIVERDE",
+      "views": 2024,
+      "likes": 101,
       "comentarios": 0,
-      "publicado": "2026-10-03T13:24:21Z",
-      "duracao_s": 70,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=YT5uWk3V2qc"
+      "publicado": "2026-10-03T05:11:09Z",
+      "duracao_s": 5427,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=-m2235fZb34"
      }
     ],
-    "consulta": "Seleção Brasileira Índia escalada",
-    "n_videos": 3,
+    "consulta": "Palmeiras Data Fifa desfalcar",
+    "n_videos": 2,
     "mais_de": false,
-    "views": 15338,
+    "views": 9180,
     "top": [
      {
-      "titulo": "VampTV | SELEÇÃO ESCALADA PARA ENFRENTAR A ÍNDIA! FLAMENGO VAI VENDER AS ESTRELAS? E MAIS",
-      "canal": "VampTV [OFICIAL]",
-      "views": 14747,
-      "url": "https://www.youtube.com/watch?v=I6beAN_PjgQ",
-      "publicado": "2026-10-03T06:29:02Z",
+      "titulo": "DATA FIFA DESFALCA O PALMEIRAS E TIRA 11 JOGADORES DO VERDÃO! ABEL PREPARA EQUIPE PARA MARATONA!",
+      "canal": "LINK ALVIVERDE",
+      "views": 7156,
+      "url": "https://www.youtube.com/watch?v=OdU7oIwr5tw",
+      "publicado": "2026-10-02T22:45:48Z",
       "do_canal": false
      },
      {
-      "titulo": "😳🚨SELEÇÃO BRASILEIRA ESCALADA PARA ENFRENTAR A ÍNDIA",
-      "canal": "Felipe Bernardes - Futebol",
-      "views": 591,
-      "url": "https://www.youtube.com/watch?v=TF81hRHmGQo",
-      "publicado": "2026-10-03T13:11:06Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "Seleção Brasileira está escalada para jogo contra Índia; confira",
-      "canal": "Coca que Cola",
-      "views": 0,
-      "url": "https://www.youtube.com/watch?v=YT5uWk3V2qc",
-      "publicado": "2026-10-03T13:24:21Z",
+      "titulo": "PALMEIRAS SE PREPARA PARA MARATONA DE JOGOS DECISIVOS NO MÊS! DATA FIFA DESFALCA ELENCO EM OUTUBRO!",
+      "canal": "LINK ALVIVERDE",
+      "views": 2024,
+      "url": "https://www.youtube.com/watch?v=-m2235fZb34",
+      "publicado": "2026-10-03T05:11:09Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "HISTÓRICO DO SAN-SÃO 🔴⚪⚫ Confira os números do clássico entre São Paulo x Santos, levando em consideração apenas os jogos oficiais entre as equipes. Confiante na nossa vitória, torcedor? 📊: @ogol_oficial",
-   "categoria": "Jogo e resultado",
+   "tema": "Reta final de preparação para enfrentar o Corinthians",
+   "categoria": "Mercado da bola",
    "clubes": [
-    "São Paulo",
-    "Santos"
+    "Corinthians"
    ],
    "foco": true,
-   "nota": 56.9,
+   "nota": 61.6,
    "sinais": {
     "busca": 70,
-    "aceleracao": 25,
+    "aceleracao": 70,
     "midia": 75,
     "aderencia": 100,
-    "youtube": null
+    "youtube": 0
    },
-   "fator_categoria": 1.056,
+   "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "são paulo fc sp x santos fc sp",
+   "busca_torcedor": "carrillo corinthians",
    "termos_trends": [],
    "n_fontes": 5,
-   "n_manchetes": 6,
-   "assinatura": "santo|paulo|class|torce",
-   "ja_coberto": {
-    "titulo": "SÃO PAULO  X  SANTOS -  RODADA 21",
-    "url": "https://www.youtube.com/watch?v=HU2ftPLYSfI"
-   },
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "São Paulo x Santos: um precisa vencer, o outro não pode perder.",
-    "titulo_thumb": "SÃO PAULO x SANTOS",
-    "pergunta_enquete": "Qual sua opinião: HISTÓRICO DO SAN-SÃO 🔴⚪⚫ Confira os números do clássico entre São Paulo x Santos, levando ?",
-    "tecnica": "Conflito",
-    "ganchos": [
-     {
-      "tecnica": "Conflito",
-      "texto": "São Paulo x Santos: um precisa vencer, o outro não pode perder.",
-      "thumb": "SÃO PAULO x SANTOS"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "São Paulo x Santos parece um jogo com dono. É exatamente aí que mora o perigo.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "O que o São Paulo precisa fazer para vencer esse jogo?",
-      "thumb": "E AGORA, SÃO PAULO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Meu palpite para São Paulo x Santos: [SEU PLACAR]. Deixa o seu nos comentários.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "“são paulo fc sp x santos fc sp”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "São Paulo x Santos: torcedor infiltrado é agredido após ser identificado",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdW1uZTBLU0VheE1CMkF4RmR0UXhOamRMVHBleldSNE0zQ18zWllMS2pMRkl6SUJNWmthcGFRVFJkRFZHN0FrXzFkRlJwcVRraUkwMlZYeFExcU9XekU1V0hIU3lZdDV5VGVMT2tUSGlFQ2lVUlNVcWktSUw5WkhQWFEyeGM0MTMwMV9ua3dOY2duVkFJbVpuaE1zVmxZaVdTb2JJV1JwNWxoREdvdWRSMktKakRFdHlEZG1ieC1WVQ?oc=5"
-    },
-    {
-     "titulo": "HISTÓRICO DO SAN-SÃO 🔴⚪⚫ Confira os números do clássico entre São Paulo x Santos, levando em consideração apenas os jogos oficiais entre as equipes. Confiante na nossa vitória, torcedor? 📊: @ogol_oficial",
-     "fonte": "instagram.com",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15NFU5a2VCVldDcXowTjFYalZCbC1yakNXQU5wenRXWHlsTkpMSGpNUWMwdVZPSkJ5SnRhSUJWVFFpT0x1YWxHckFtM21CZHhzX0E?oc=5"
-    },
-    {
-     "titulo": "Diógenes faz oito defesas em clássico e é decisivo para vitória do Santos; veja lances",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcGZOLVpsR1JYOERpSzRRUkFTT3IySXBNTmN4eElBSnpxTmY0cEMwVHZGLVBEQ3VwT0ZvTnZMTDVrdzJmQXdGS0Q1aG9OYTNLcVNoenE4WGVyN3UwMjlNR3NNaW9raERGMEdSZ21qY1ZnTFNQdVRRUDhGVW5FNEJsVVFEWDNzUm9ncmM5RFNPdXhGSDk1LW5JWnJtUWRta3Q2ZFdCUDJmakY5QTRqbFppWC02MFdiMjNmODAyRnBhSzYyek55alVTU2duMGRyeW1fUjlUcVc2LXh4a2wwRnFnbHNxQy1XYjdfZWJwMndqZHNwTHBKZ1lYSUlyYzdfTEp40gGPAkFVX3lxTE9xNXc2b01VSzkzSzBhcmw5WGxJa2g5czdNYTJXWHRKWGk4U1RqZXRScDYtdFlMTXBSU2d5eV83dG45aG9tekdZVzA0Rk9WYkY5dWtuRVBaX1JGXzBDTHR1WGhuYkZSUzI1a2R6YWdlVTVWalZhSE9hMzdiVDJjQ3Frb2xHSDROTkVqTzNndHRKOFZyZEQ4VG95NFJyZFYzcXVDbi1qLUhfMHZGS3JnVFJHdEFzR3hKeWgwLU1IcHNKd0RrWExfT2RDR3FiSDNnSU9Lb09IR3ZKQ191ZmJLdzZ6QjAyMXNEX2haSFRjZm1lNVQxWkhaU2VpYjJCYXZ5d25hQWhic3lYSWVnZ2FmR0U?oc=5"
-    },
-    {
-     "titulo": "Gol perdido em São Paulo x Santos irrita torcedores: 'Não sabe'",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS2tNdl82bnI1T1FNVVB6NXNqVUlZZGVlTWtRWFhtTF9Ydmd4WDB2aTJWVUhObGFEODJBUDZIVF8td3JFcUhPMGdkb2w4SHd4U3AwOWRSYzZyUXJUMUczdy1QSTVEVVVkOUtpUEY2YVhLam14M3pGS2c5TFk3VW8ybExYZGpwcG41UEwzLWNQc0w2a1l3TG9nazRodFpfRk1JaHZnVURpZw?oc=5"
-    },
-    {
-     "titulo": "Clássico entre São Paulo e Santos tem protesto contra proibição de bets",
-     "fonte": "band.com.br",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSy1QTS0zOFlvMWszRDZMOVRwVGRmakRpN1ZVWkFheG1vOWw2NXBES09TS2MtenZkSjhzQlJ0UzZPX210V1BpNkkxaHo1eTZwaUdQaXF1bDZ2ZlJUYWdOX01EOGI3RENNWmxsejZWNEZpdjBmWHktcWtwX2pnNHZCaHVfRVc5dmd4YkkxVUZJdWVXZmpyQW9OeFN3YWFwYWRDU250UTV2ZUFhWFpwN1FtTG5KZDBIOTRKd1dOUzM3NDVsd3p1ZlZoOTJOaUo?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Arthur vira dúvida no Santos para jogo contra o Flamengo",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Flamengo",
-    "Santos"
-   ],
-   "foco": true,
-   "nota": 56.2,
-   "sinais": {
-    "busca": 30,
-    "aceleracao": 60,
-    "midia": 46,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "arthur no santos",
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "santo|arthu|vira|duvid",
+   "n_manchetes": 5,
+   "assinatura": "corin|final|reta|prepa",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Arthur vira dúvida no Santos para jogo contra o Flamengo. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Arthur vira dúvida no Santos para jogo contra o Flamengo?",
-    "tecnica": "Contradição",
-    "ganchos": [
-     {
-      "tecnica": "Contradição",
-      "texto": "Arthur vira dúvida no Santos para jogo contra o Flamengo. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Arthur vira dúvida no Santos para jogo contra o Flamengo. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-      "thumb": "E AGORA, FLAMENGO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Arthur vira dúvida no Santos para jogo contra o Flamengo. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "“arthur no santos”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Arthur vira dúvida no Santos para jogo contra o Flamengo. Nem todo mundo no Flamengo vai gostar disso, e eu vou explicar por quê.",
-      "thumb": "FLAMENGO x SANTOS"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Arthur vira dúvida no Santos para jogo contra o Flamengo",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGNXRWxudmNXazI5M3lxOXlIV2hrdS1LZ3JvWHd1Uks4VVFnREZZWmt4NWdHTDRtemVjSnNKTUYzeEFjWk9wcEdaQmJORGJZWmk4ZXF4by1IYzhBUExYYUdkazVCaWdGOUE1RGNqNlc4eWNvUWc5SlVwekszRm9KQ0I2LTJBOWhTZUd5ZmwwQnl4OEE3XzdSY1FiVktqVUtXc3psN0RGMjlyWUREQU1MQUFnMUo?oc=5"
-    },
-    {
-     "titulo": "Arthur sente incômodo na coxa direita, é substituído e vira dúvida no Santos",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbjhwWXhpSXNBMmpSODVqYzR1RW1xRlBwMlNQSWliWTJlQ0YtNHp4MjdjR1BueXNPTF9DVlpYUDExY3JQWGhwem8zeWlQMmtRdDV1Q0RhUXhYMVBnTzJLd09RdGJsRG9USERMaHJrMWpQY1FEX2NDZXRZaU1NNzg1TjZjQTc5N3Zsb3NyY204d2p1dUZOYmZMQk91RTREbUI1cUNySlM0UFdEM1hUbk1HMDRybl93dy0wajdnS1JCTm9TbHZzNjdCT2JpZjJtUUxYNU0zNmVTc2NiOVZVWGQ4YdIB7wFBVV95cUxNNzQxTEx1RGRtS0luaUdlOGUyM0FRUEV1MzRVZS13eUJLYTlzOEhjaDJJQWtxeFVNbVl4TXdvT0FDU1V6Wm41ZjAyRTBoaXVvQUhTa3VkVHBVdHYxRFg0cVBQb3R0dFVoSFVGcFZZRUszclk0SzNHdWJxMC1oUHpXV0lLSDRLTk50Z0RLZ3dwSW5XYmVHY2xMYXJVbTF3Zzh2Z05fQTRRaDNKb1dOM3pJeFJVa3hPRnRGWkhPWTQzRGh6REF0U3VrUUt4Wi14QVNabzZsXzhLdVZubmRIdkM2Y0p3TzdycnFtVVBIcEw0VQ?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Arthur Dias, de Campo Grande, é titular do Brasil contra a Índia",
-   "categoria": "Seleção",
-   "clubes": [],
-   "foco": false,
-   "nota": 55.4,
-   "sinais": {
-    "busca": 75,
-    "aceleracao": 61,
-    "midia": 46,
-    "aderencia": 70,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "índia x brasil",
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "titul|campo|brasi|india",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Lista ou ranking (3 a 5 min)",
-    "gancho": "Arthur Dias, de Campo Grande, é titular do Brasil contra a Índia. Isso é bom ou ruim para a Seleção? Responde antes de ver a minha análise.",
-    "titulo_thumb": "E AGORA, SELEÇÃO?",
-    "pergunta_enquete": "Qual sua opinião: Arthur Dias, de Campo Grande, é titular do Brasil contra a Índia?",
+    "formato": "React rápido (1 a 3 min)",
+    "gancho": "Reta final de preparação para enfrentar o Corinthians. Se isso sair, quem perde espaço no elenco?",
+    "titulo_thumb": "E AGORA, CORINTHIANS?",
+    "pergunta_enquete": "Qual sua opinião: Reta final de preparação para enfrentar o Corinthians?",
     "tecnica": "Pergunta aberta",
     "ganchos": [
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Arthur Dias, de Campo Grande, é titular do Brasil contra a Índia. Isso é bom ou ruim para a Seleção? Responde antes de ver a minha análise.",
-      "thumb": "E AGORA, SELEÇÃO?"
+      "texto": "Reta final de preparação para enfrentar o Corinthians. Se isso sair, quem perde espaço no elenco?",
+      "thumb": "E AGORA, CORINTHIANS?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Minha aposta para a vaga de Arthur: [SEU PALPITE]. Qual é a sua?",
+      "texto": "Minha aposta é que essa novela do Corinthians termina [SEU PALPITE]. Guarda esse vídeo.",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Dado",
-      "texto": "O torcedor está digitando “índia x brasil” no Google agora. A resposta não é tão simples.",
+      "texto": "O torcedor está digitando “carrillo corinthians” no Google agora. A resposta não é tão simples.",
       "thumb": "VOCÊ PESQUISOU"
      },
      {
       "tecnica": "Conflito",
-      "texto": "Arthur Dias, de Campo Grande, é titular do Brasil contra a Índia. Nem todo mundo na Seleção vai gostar disso, e eu vou explicar por quê.",
-      "thumb": "SEM ARTHUR?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Arthur Dias, de Campo Grande, é titular do Brasil contra a Índia. A leitura óbvia é uma. A que importa é outra.",
-      "thumb": "NÃO É BEM ASSIM"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Campo-grandense Arthur Dias estreia como titular pela Seleção Brasileira contra a Índia",
-     "fonte": "Top Mídia News",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZnVDMWpfREJaUnhpaEZGcGs2c1pkaEl5d3hRY2Y0aGxVc2E5cTB0UUFaTmc4UWNza2FIU1lUUkFMd3BwQ2JyZnFxNFRCVmpCSU42TlFyRnB2YTJOTGRodjl3Z1A5RkVNYkVIZGMwbmpNRlBqTkpmYnBtZnVielFVZ01rVFZvTkZjcVpkZHJabUo5blVIVS1PWV9zZldFalV4Y2hQb0MzZXVKaWJnSU1tOGd5Z9IBswFBVV95cUxOY08tWHZUN2FUVm5ldUR4V1RIVjZtWFZSeVJLaGxNaXFHMThXYkgtSEpua21VR0lramdZeW40YlhqUV9BZGhkeWhkODI4THRBRFZ3TWhxdDJCRVNCdk9GMHc5TzZGY1BSaGw2ZmRrUTI4NHk1MzlKWDNWeXo4VWRwQWZybmc2ZWJQazE1Wi1kd200SzdFTXBVS2VXbzlqYWJTeGJoQ25qMG1QNGVVc2d2RkQ0SQ?oc=5"
-    },
-    {
-     "titulo": "Arthur Dias, de Campo Grande, é titular do Brasil contra a Índia",
-     "fonte": "Campo Grande News",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR2VrMWNMbXZocFVUc2RmMDZCb3MyeWgzVWZqajB3QVVpc3hReDlMZ25ERGtqYWVDVUF2Y2pQWE9Selk2T0x6TEtYOXpzR3dyLUtscVVJQkhKbGZidnpXbjkxbEFLSTlSS091aUlhMDRPVWl5bWplZmQ5Z2FLRG5CeEE0M3J5ZG95bFZzVjJocnJsUGZRZjhuRVdEMnNISHh6dG5Fd18tS0JMUHhOQ3d2cjlLcWdLTkltRjROMzNYNNIBvwFBVV95cUxQVHhITGFzZGxKdjc2OENJempTSDdXTHpyME1WcEFEU3JIZGhsVXNMaFRwalNNOWg5d29wZUpJRTNjUzkyUXdBY3NqNEpadDh0YjRYc0t4VGJBdXhmTk0zQlBUOWQzNGd0YWhXUS1xWFlla1V2MkpQaWYzbVZkTFNNVjdFZmI3Ylc0MTJiWXZZRWNqOFhjX0Z3TkNhc25KbTBEUVFwZDVBVktJeXJsSFhxRXozX1ZxNG5aRmJNVUlxVQ?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Seleção Brasileira enfrenta a equipe da Índia neste sábado, em Calcutá, cidade histórica para Pelé",
-   "categoria": "Seleção",
-   "clubes": [],
-   "foco": false,
-   "nota": 55.1,
-   "sinais": {
-    "busca": 75,
-    "aceleracao": 52,
-    "midia": 58,
-    "aderencia": 70,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "índia x brasil",
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "enfre|brasi|india|histo",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Lista ou ranking (3 a 5 min)",
-    "gancho": "Seleção Brasileira enfrenta a equipe da Índia neste sábado, em Calcutá, cidade histórica para Pelé. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
-    "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Seleção Brasileira enfrenta a equipe da Índia neste sábado, em Calcutá, cidade histórica p?",
-    "tecnica": "Aposta",
-    "ganchos": [
-     {
-      "tecnica": "Aposta",
-      "texto": "Seleção Brasileira enfrenta a equipe da Índia neste sábado, em Calcutá, cidade histórica para Pelé. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "“índia x brasil”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Seleção Brasileira enfrenta a equipe da Índia neste sábado, em Calcutá, cidade histórica para Pelé. Clube e Seleção puxando para lados diferentes: quem tem razão?",
+      "texto": "O Corinthians quer, mas do outro lado alguém está segurando. Essa queda de braço vai ter um perdedor.",
       "thumb": "QUEM TEM RAZÃO?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Seleção Brasileira enfrenta a equipe da Índia neste sábado, em Calcutá, cidade histórica para Pelé. A leitura óbvia é uma. A que importa é outra.",
+      "texto": "Todo mundo está comemorando essa negociação do Corinthians. Eu vejo um risco que ninguém está comentando.",
       "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Seleção Brasileira enfrenta a equipe da Índia neste sábado, em Calcutá, cidade histórica para Pelé. Isso é bom ou ruim para a Seleção? Responde antes de ver a minha análise.",
-      "thumb": "E AGORA, SELEÇÃO?"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Seleção Brasileira enfrenta a equipe da Índia neste sábado, em Calcutá, cidade histórica para Pelé",
-     "fonte": "radiocaicara.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORXZGOHFmdHlVVGVxZG5wVXpweUE2dGhTaWJXWEg2amdRM0ZBVHBFV091SkRfaFJCQmFJZEVMZmNaVlFhTE85M0ZmT3BEMGt4MUxld3dFWUdPT1J0NzFmQWU5MW02MFh5Rkg1U2R6Si1xbXdWSk1QRzVVUGw3c3RuRGk1alBqcWYtZlRTVDVieVBVaGM0ZU83TjBzQ0Vxa1puZnQxdUsxNmFXTGx5Zk5vQk5GYkFDa01LOUhtaUpiOHFZQzBuWkxVaw?oc=5"
+     "titulo": "Reta final de preparação para enfrentar o Corinthians",
+     "fonte": "Sport Club Internacional",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGF1aUZYQk12ZmJCdU9kVDB5SW9NcERRRGpocDBqOTQyMW5sS0pzLUpoMFFNN2lQZ2dJbVFRVEJYZFVnblBCQmZkSUU2c1RFc2o2MG9XY3ZsSHpZcExtSXFCbFhRT2dDaVpWNldQRDc1U1M3LWRaazYwMXc5cFR4MkhJNGduQ2h6VmRfa3VhQkoyTUlFc1ZBNGtOanNDR2I0U0xn?oc=5"
     },
     {
-     "titulo": "Seleção Brasileira enfrenta a equipe da Índia em Calcutá, cidade histórica para Pelé",
-     "fonte": "Jornal O Sul",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPai14WnpGWGlBVXliOEozR18tY3Vfb3RHM05uRkhDNVp2NWhJVHpWQms0RFVlSHBqZlpmZk9Rbkl5cGw1VVRsSUFmUF9hTmFJR2lKRXl2VXc4d3U3aWVJcFJrZldIZWI2NWE4VER5MFVXVU1McWZqTVdzemNPUGlfVk1CWkNhd29DcVo1M9IBkgFBVV95cUxNbmMyMjB5SmR1WGwtR1BqYndLUlprU2J1eU9pby1STWZ3MW1sc0pERHMtRGVJYTBhVkQ4Q0RieTRlYjE5WnZQeVZuWWg3VlExWjhvS0RWN1ozRWNycVRfeDBLdE8zb2lkOGVoX3FFNF9lUHRVS1BXZGp4YkdlZFRVbWlyQ3NsQzdWdnJSam1LU2p6QQ?oc=5"
+     "titulo": "Corinthians se prepara para enfrentar o Internacional | Brabas já pensam na Libertadores após vice",
+     "fonte": "meutimao.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRjlpZ1RGRFN2UTk0dUNTZ1lsVzRVd0o4U3lsTkxkNzloTHk5QmdjRllfZGVZZG5iSkVCQzBDQnNOcVdCU0o0ZGVOdGlfUnZaN0VtMlBtUk44WVU2VVJVSzE0andqeldGUmxXRUpiVEM1ZlR4eE5NSEhWTnljZjNXN3diXzhVeHl3Ti1fSlZZSUhsLUoyd01vR1FqZnJnNUgwOFZkUWt1X1NualhoNzNqZnZIeVNsNzA0R0FPVmdEdHNJaV9yZ3RISXkydlE4bmViOEd3S21tT05BdUdpQi1YcWNoN0lvMllo?oc=5"
     },
     {
-     "titulo": "Brasil e Índia se enfrentam pela primeira vez na história neste sábado",
-     "fonte": "CBF",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPa3M4MDg0a2FRLWhGbWRTLW5FRURPSmJZYVJDVVQ4UTFXSFRQellOSmRQZEZpZENvd3BBTXloNFNKNGJyZnhHS2dxdGNnT3BJUHNnR3RTM2JQVEJTbERjbEthWFpEY3VnNTN4eTdTOTRLNE1XdzBTQVd0YUE3REhXbGhudENiLVpGVU1ydGR1VldKVFp3Wkw3YS1Ed25UbWdyOHRwSkZpMm9ITmxYeW9SR0VGYk1QdlV0WkpfTzAxbW5NX3U3SUJGQWlvbktvZ1RNWFB6NnBFYTJ6SThLcERicV9n?oc=5"
+     "titulo": "Corinthians ganha reforço para reta final do Brasileirão",
+     "fonte": "Tribuna de Jundiaí",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNXNzRnpEWEhZLV9LbUZmVmNqQUJUcDBzZlFxY0VCSUs4OFNlS2ktaGdxRXk1NjdyZkVNdDllMUNKRGxhb09QNXhCaUg5UjdTQkpXUlRCRmsxY3RfVTJVN1Z5X0ZneThMOGdhVGJYbzZzWWRkeElEYzlxWU9IQV9UN2NXUzRONmtReHFNeENtVDNtUTlGdDg1dzBwY21YcDJkRF9yY3RR?oc=5"
+    },
+    {
+     "titulo": "Carrillo volta a jogar pelo Peru e reforça o Corinthians na reta final do Brasileirão",
+     "fonte": "Portal ABC do ABC",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ0hHTWxJRWNxRnlJZnpmemNwYXNIYVk0a2ozX3BreUUzSjJTU2hzdU52Mmt5ZTdWcV8yc3ZfcURsMmdOOEFmVy1xekZ0LXRJYmo5XzNKdzE4RHY2VTBTZkUxR2hRdFdIMTc4UUcydjJIUGNVWENDNURiMTV6eExHcDJB?oc=5"
+    },
+    {
+     "titulo": "Inter inicia reta final de preparação para estreia de Eduardo Baptista contra o Corinthians",
+     "fonte": "Rádio grenal",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM0JEZE4wR19JbHBJczIwRndyQnU1enMtQnQ3bjg1dm1lRm9ZeE5LRlBfZjBvbW9tbkFTekl1T1NrS3ZJTWJBUEhzMHExeVFkLVdZb0pEdkhJY1ZrY3plX1hNa25GT1lSdmtVYzhXdkhpaVJxTlVOM2NQOUVBOWx2RXI3Z3BaVmRlaEMxTXp4TjFKZmh6WWNteGRnbmtyLS1McElYOFVYclZxZ2J5aWVzX2N1ZU1sQ3Y0Ukp6dmswN1U?oc=5"
     }
-   ]
+   ],
+   "youtube": {
+    "amostra": [],
+    "consulta": "Corinthians Reta preparação",
+    "n_videos": 0,
+    "mais_de": false,
+    "views": 0,
+    "top": []
+   }
   },
   {
-   "tema": "São Paulo x Santos: veja melhores momentos de vitória do Peixe",
+   "tema": "Giay e Flaco, do Palmeiras, vivem noites distintas em goleada da Argentina sem Messi",
    "categoria": "Jogo e resultado",
    "clubes": [
-    "São Paulo",
-    "Santos"
+    "Palmeiras"
    ],
    "foco": true,
-   "nota": 54.6,
+   "nota": 60.2,
    "sinais": {
-    "busca": 70,
-    "aceleracao": 28,
+    "busca": 30,
+    "aceleracao": 68,
     "midia": 58,
     "aderencia": 100,
-    "youtube": null
+    "youtube": 41
    },
    "fator_categoria": 1.056,
    "trafego_google": 0,
-   "busca_torcedor": "são paulo fc sp x santos fc sp",
+   "busca_torcedor": "argentina seleção",
    "termos_trends": [],
    "n_fontes": 3,
    "n_manchetes": 3,
-   "assinatura": "santo|vitor|paulo|melho",
-   "ja_coberto": {
-    "titulo": "SÃO PAULO  X  SANTOS -  RODADA 21",
-    "url": "https://www.youtube.com/watch?v=HU2ftPLYSfI"
-   },
+   "assinatura": "argen|giay|palme|messi",
+   "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "O torcedor está digitando “são paulo fc sp x santos fc sp” no Google agora. A resposta não é tão simples.",
-    "titulo_thumb": "VOCÊ PESQUISOU",
-    "pergunta_enquete": "Qual sua opinião: São Paulo x Santos: veja melhores momentos de vitória do Peixe?",
-    "tecnica": "Dado",
+    "gancho": "Giay e Flaco, do Palmeiras, vivem noites distintas em goleada da Argentina sem Messi. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+    "titulo_thumb": "MEU PALPITE",
+    "pergunta_enquete": "Qual sua opinião: Giay e Flaco, do Palmeiras, vivem noites distintas em goleada da Argentina sem Messi?",
+    "tecnica": "Aposta",
     "ganchos": [
      {
+      "tecnica": "Aposta",
+      "texto": "Giay e Flaco, do Palmeiras, vivem noites distintas em goleada da Argentina sem Messi. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+      "thumb": "MEU PALPITE"
+     },
+     {
       "tecnica": "Dado",
-      "texto": "O torcedor está digitando “são paulo fc sp x santos fc sp” no Google agora. A resposta não é tão simples.",
+      "texto": "O torcedor está digitando “argentina seleção” no Google agora. A resposta não é tão simples.",
       "thumb": "VOCÊ PESQUISOU"
      },
      {
       "tecnica": "Conflito",
-      "texto": "Os melhores momentos da vitória do Santos sobre o São Paulo. Nem todo mundo no São Paulo vai gostar disso, e eu vou explicar por quê.",
-      "thumb": "SÃO PAULO x SANTOS"
+      "texto": "Giay e Flaco, do Palmeiras, vivem noites distintas em goleada da Argentina sem Messi. Por trás disso, tem dois lados que não querem a mesma coisa.",
+      "thumb": "QUEM TEM RAZÃO?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Os melhores momentos da vitória do Santos sobre o São Paulo. Parece notícia pequena. Não é.",
+      "texto": "Giay e Flaco, do Palmeiras, vivem noites distintas em goleada da Argentina sem Messi. Parece notícia pequena. Não é.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Os melhores momentos da vitória do Santos sobre o São Paulo. Isso é bom ou ruim para o São Paulo? Responde antes de ver a minha análise.",
-      "thumb": "E AGORA, SÃO PAULO?"
+      "texto": "Giay e Flaco, do Palmeiras, vivem noites distintas em goleada da Argentina sem Messi. Isso é bom ou ruim para o Palmeiras? Responde antes de ver a minha análise.",
+      "thumb": "E AGORA, PALMEIRAS?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Palmeiras: o que Agustín Giay aprontou na Seleção da Argentina",
+     "fonte": "NossoPalmeiras",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT0hmY1dmMnNLV09TcHllSUxRTV8tbF8xQ0hGQXM3c09uRW1wWEVUcDE5cThoMFBEOVdjS2tkN0pjTEk2dGI5ZGFOUFFfVFlQaDU1Mm9ueENTSFA2c0dxeGZNTE9nZ3lzZ3h2NlVUcmpMVnZ0SnB1VjRVY3FOcHlsaA?oc=5"
+    },
+    {
+     "titulo": "Giay e Flaco, do Palmeiras, vivem noites distintas em goleada da Argentina sem Messi",
+     "fonte": "O TEMPO",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQemI0blh4OExSMTlqUkN2QUJNTmNjdVQ4eVRyalZsUWV3QjZRWGNwaEpSMDF5Z2JmdTJpSUczaHBzcmh6UTFvQ1RQY0pob25zNEsxS0QxVm9wRW1RY2xPeVJhWndxMWZySUZVU2pQNTFCengycVJVcS1XdS1PNjZOcW1haERKdlVvZjZ3YzJkM3FzNGdxcW5lTkxvcXhRUlliUnBGN09xZk5xTHloMEl4ZWZ4Y20xZTM0OGQ1Sk1WazBjeXhMd3VwWk1ReUVsRnNzbEw0cm54SjFtQkdMQ25XNk1BUmp0Sk0?oc=5"
+    },
+    {
+     "titulo": "Giay e Flaco, do Palmeiras, vivem situações distintas em goleada da Argentina sem Messi",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMDBzeXBoQ01vT2hvbVNrbzRzaUJSOVQtamsyOTRKYWxseXl5MVc5YXk3R1l5X25zYTR6cGlBUGJqakU2Z0xzaU5zVTRsSE9pWG9KSVpJdWhQemt1ZHVVOGlVa1E0eXVBWHNaeHZnY1BvQnF3WU1sZWMyTjJZNVNOQzBwN2gxSHZ5OTlMeGVNXzJXcmhMU0RMMDM2NFp6ZElmTXRTdU5WcFptRkxOWlRRRzF6Mm56VERkU2lna2wyRGRwRlk?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "w8Usk6_NlnM",
+      "titulo": "🔴 LIVE: FLACO BRILHA NA ARGENTINA! NOVO PATROCÍNIO E POLÊMICA NO PALMEIRAS",
+      "canal": "Diretoria Parmera",
+      "views": 745,
+      "likes": 22,
+      "comentarios": 1,
+      "publicado": "2026-10-02T15:45:19Z",
+      "duracao_s": 7103,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=w8Usk6_NlnM"
+     }
+    ],
+    "consulta": "Palmeiras Argentina Giay Flaco",
+    "n_videos": 1,
+    "mais_de": false,
+    "views": 745,
+    "top": [
+     {
+      "titulo": "🔴 LIVE: FLACO BRILHA NA ARGENTINA! NOVO PATROCÍNIO E POLÊMICA NO PALMEIRAS",
+      "canal": "Diretoria Parmera",
+      "views": 745,
+      "url": "https://www.youtube.com/watch?v=w8Usk6_NlnM",
+      "publicado": "2026-10-02T15:45:19Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Corinthians define data para retorno de atletas convocados para Seleção; Carrillo é desfalque",
+   "categoria": "Seleção",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 59.2,
+   "sinais": {
+    "busca": 70,
+    "aceleracao": 60,
+    "midia": 75,
+    "aderencia": 100,
+    "youtube": 0
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "carrillo corinthians",
+   "termos_trends": [],
+   "n_fontes": 5,
+   "n_manchetes": 5,
+   "assinatura": "corin|convo|retor|selec",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Lista ou ranking (3 a 5 min)",
+    "gancho": "“carrillo corinthians”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+    "titulo_thumb": "VOCÊ PESQUISOU",
+    "pergunta_enquete": "Qual sua opinião: Corinthians define data para retorno de atletas convocados para Seleção; Carrillo é desfal?",
+    "tecnica": "Dado",
+    "ganchos": [
+     {
+      "tecnica": "Dado",
+      "texto": "“carrillo corinthians”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Sem Carrillo, a briga por uma vaga na Seleção esquentou. Quem entra?",
+      "thumb": "SEM CARRILLO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Corinthians define data para retorno de atletas convocados para Seleção. Era para ser só mais um compromisso da Seleção. Virou dor de cabeça.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Quem merece a vaga de Carrillo na Seleção?",
+      "thumb": "E AGORA, CORINTHIANS?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Os melhores momentos da vitória do Santos sobre o São Paulo. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+      "texto": "Eu aposto que a próxima lista da Seleção vai ter [SEU PALPITE]. Me cobra depois.",
       "thumb": "MEU PALPITE"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Com vitória sobre o São Paulo, Santos iguala melhor sequência desde 2019",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnc5QkJMa3RIYkY0c0t1bW1NNjFiNTRmM21mSGJGcTNwby1QLVMzNEpvbDhuYm1KZHRiX1E3M1l4SnBrZEhqd04zT011Z3hTaVRaS3RSZzllZlhDeEluQlFMZElpcFh5SkNhckJ4eVZ5dExRZlpCUG0zTU51V3hRLTBUX21XWUpPNFEybm5tUlc2aHBvcnNacnJxU1pRSU85VzZtMkJBZW9HczI1?oc=5"
+     "titulo": "Corinthians tem retorno de trio convocado para a Seleção; saiba a logística",
+     "fonte": "Tribuna de Jundiaí",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX1NPbXR0SjRYQ0tiYTE1aGpiQy1lSzZwZUNHaTBlRUhrU1lEWTJvOTRVemN0MExoejdzb1dnQmg3VkNyM3F1U3huam41aVM4UjY4LU1nRGlrWjhyNTRnZ2tWdWtEUU5INE8zdDFGa1RhdmtneE4wNlNKWGFGVFRtM3NLUGdNMC0xUkZfVDg0aEtZdWRCbmsxWWMwakNiTGdUeDlDRjR0WkZJdzRBdUZEWjlTMUFEX3h1aHhiMVJn?oc=5"
     },
     {
-     "titulo": "Brasileirão: os melhores momentos da vitória do Santos sobre o São Paulo",
-     "fonte": "Metrópoles",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYURSYlVrY3NUR2hXM3dnOTcybU1DVnhBUWpmcG42Q1hDaXM1bk0zLW1aR0NEemdvMUxTb05jM2g1a2E5NXJDLVJ1V2lCNVdOMEo2TlFQNlpqYTRWdHdaWWRUbV9LTDEwTTVyMk1JNmR2ZkVQQU1OY1c3dFJTMzluYzA4MlJoVzhzZmhabzlBYnozcUJRTkRKUVVSbjdiNjdRd1N2TUN3?oc=5"
+     "titulo": "Corinthians conhece data para retorno de 3 convocados na Seleção",
+     "fonte": "Portal ABC do ABC",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNjNuR09hazZDTVpjaEdtcWFtVmExS3g3YU5DU2lrcGV1U1V1cTF3RGZUeS10RXRwZGhmRElMVkZaVzgxUmlRRndwNm9MM3dFQnBuWjdQcHBzNkxmR0N2OHNFVW9yXzN1d2tQbjFLdDAyeXdtbEVmalZLVTdzWk9IbA?oc=5"
     },
     {
-     "titulo": "São Paulo x Santos: veja melhores momentos de vitória do Peixe",
-     "fonte": "band.com.br",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOblRXaXVVNEJVVTdmZUxlUkluM21yemRnODdjdGhJc012N2tESTdUalJBQkgwRFVBaVdEU1FEXzlRNzFaN2cwVU5ESUdacElLOGlzRlNuck1ab2tfMkVxN3ZnS1RqOWNIYm5HZUlEUTFKbnpYMF9DcjM0bkItWVZyRGFGZklaMXFQWVBZSGt4eTBsT2Q0SlJhd0ZBOUF2QVBrd2Y4emtUWDZuUlA1YXExcTBKWUhzTEF3ejFkWW1RSQ?oc=5"
+     "titulo": "Corinthians define data para retorno de atletas convocados para Seleção; Carrillo é desfalque",
+     "fonte": "meutimao.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSlBwbnlLellrM1A5bGM4Mzg5YXF0UGtRdnc2REJwUjFYT01XM0Y0c1F0cXlLQ0JEelJuMDhPVEZkTkVUVEhPREFPajFSbTJtelZnQ3RNcHJZbXVXdnRqZmNCRmpDSnJfbXdZVkNnVVNaSmlTQ0tKV1FvY0NjZEhGVFVDSG9kZzNqWDFseUdxOUp0R1BEaXk0ZnEzNE5LVlpHcmxYbEV4eXI1ODFiTHhMTWp4c0lFN1dWZ1FuUDVzVVpmVkhySFNBMUhIT2hPamZfOUpJeGlR?oc=5"
+    },
+    {
+     "titulo": "Corinthians define retorno de convocados, e Carrillo desfalca time contra o Internacional",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUE1fT2JtcGd6eHlGZ1VKbFJpekRfZTZOM1NuTjloa0hWQnh0cUxPbEZpVFRDZC1ORndubkNvamV1MW5qWXpyM09BWHVNc2JzS0VhYTJvNXNmbmJRbFVDQ3dTMU4zQUFEbnBtQ003TVpzdUtCUFowYy16clgyOGJneC1ZSkNta1hCMVZWajNNWl9ZeVpfTFpUaVJkT3RJR1M1aGhfR1BueFZ6ZUdwb0dVbTJnblpfRHdXTlBrRDVtTFFIWDJZS2JXckVwWVdRVDlMUDMwZ0poYUpFMnR5b2FpMTI5N1dvZHNyY21TRHdjUzltUdIBgAJBVV95cUxNcXd2STE1dTZta0hKLWJlN2tBN19KOEMwX2hPV3NiMW1VU2J6dzFQTHZ0ekg5c21zRmc2Vm4weWt6eWJLSzBNUmpHaEJZUVpnbnRWM3hmQV91NC1nSnNrcm16eXRGU2NOMzkyRWdQTnR5aHkzNEVmbmNyQlVhOEFPaWdwOWJpQS0yX25jSm9zdDA0REM0WXNQTXZLYmU0X09lUkdmQ25tTzFpdHVKeHd3QmE1UDJ5Z1VPMXhHS2NEajMwUzFZVzNfMm1EMlJsTzcxWkpmRTdEYlQzT3oyY0NlNi1sVnJ1ZEJ5Y09fNzZNamFpbF9MSGxaOXEtNExGcUxS?oc=5"
+    },
+    {
+     "titulo": "Alicia: questões internas no Corinthians tiveram efeito no time feminino",
+     "fonte": "UOL",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTVBZTGRXRkpOOTI0QUxKQm1pZjV6eXl2ZVQ1N1VLOWFvUTdCUlRaa2hSa1JwbE9LRF9OUGowUDhVVFluY2MzV0hGNmx1Z3hDbnpQZlM1dW5nY3FfV2p3ZUEybVlzcnZEMTE1b2JvX1pFZkZnTjNBcU5SLVB1ejI3M1pESndGMU1iaGxZUGJ5VWtwOFF4cHZjSW9zWUVWbFFVazVURzU1MlJVc0J1VFk4aHltajlXVGxzSDVoVE1sZ0hZcDYta29ZaEV0UUU0TkJMS0gwbw?oc=5"
     }
-   ]
+   ],
+   "youtube": {
+    "amostra": [],
+    "consulta": "Corinthians Carrillo convocados retorno",
+    "n_videos": 0,
+    "mais_de": false,
+    "views": 0,
+    "top": []
+   }
   },
   {
-   "tema": "Fluminense e Palmeiras acertam carga de ingressos para visitantes na semifinal da Libertadores",
+   "tema": "Lula lá: Veja a declaração de voto de Paulinho, atacante do Palmeiras",
    "categoria": "Polêmica e bastidor",
    "clubes": [
-    "Palmeiras",
-    "Fluminense"
+    "Palmeiras"
    ],
    "foco": true,
-   "nota": 54.1,
+   "nota": 58.7,
    "sinais": {
-    "busca": 0,
-    "aceleracao": 47,
-    "midia": 100,
+    "busca": 65,
+    "aceleracao": 63,
+    "midia": 75,
     "aderencia": 100,
-    "youtube": null
+    "youtube": 0
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": null,
+   "busca_torcedor": "paulinho palmeiras",
    "termos_trends": [],
-   "n_fontes": 11,
-   "n_manchetes": 15,
-   "assinatura": "flumi|ingre|liber|palme",
+   "n_fontes": 5,
+   "n_manchetes": 5,
+   "assinatura": "voto|pauli|palme|decla",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "Fluminense e Palmeiras acertam carga de ingressos para visitantes na semifinal da Libertadores. Tem gente no Palmeiras puxando para lados opostos, e essa conta chega no campo.",
-    "titulo_thumb": "PALMEIRAS x FLUMINENSE",
-    "pergunta_enquete": "Qual sua opinião: Fluminense e Palmeiras acertam carga de ingressos para visitantes na semifinal da Libertad?",
+    "gancho": "Atacante do Palmeiras, Paulinho declara voto para presidente. Nem todo mundo no Palmeiras vai gostar disso, e eu vou explicar por quê.",
+    "titulo_thumb": "QUEM TEM RAZÃO?",
+    "pergunta_enquete": "Qual sua opinião: Lula lá: Veja a declaração de voto de Paulinho, atacante do Palmeiras?",
     "tecnica": "Conflito",
     "ganchos": [
      {
       "tecnica": "Conflito",
-      "texto": "Fluminense e Palmeiras acertam carga de ingressos para visitantes na semifinal da Libertadores. Tem gente no Palmeiras puxando para lados opostos, e essa conta chega no campo.",
-      "thumb": "PALMEIRAS x FLUMINENSE"
+      "texto": "Atacante do Palmeiras, Paulinho declara voto para presidente. Nem todo mundo no Palmeiras vai gostar disso, e eu vou explicar por quê.",
+      "thumb": "QUEM TEM RAZÃO?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Dizem que está tudo em paz no Palmeiras. O que acontece nos bastidores mostra o contrário.",
+      "texto": "Atacante do Palmeiras, Paulinho declara voto para presidente. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
@@ -2615,195 +2019,332 @@
      },
      {
       "tecnica": "Aposta",
-      "texto": "Fluminense e Palmeiras acertam carga de ingressos para visitantes na semifinal da Libertadores. Eu aposto que [SEU PALPITE]. Se eu acertar, você me deve um like.",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Conmebol multa Fluminense por confusão na Argentina pela Libertadores",
-     "fonte": "TV Prefeito",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeXJPcnl6UGRnQ1hVOVk3Y2NNZUFyVEdaVy1pY1pCSVJFWmRNUkdVV1BjSkR3Smc5RktMcUFBWlVDckh6WFpIc1RGRUEtU3o0SjBXSG44Smx5R1V6d09nZy1xal9jZklCbEhGcEtONVRUR0VRSUdZTmpYS3hheG5LUFFvUklVOUpTRm9XelFCTUVWQ0ZwWGJQNw?oc=5"
-    },
-    {
-     "titulo": "Fluminense e Palmeiras fecham acordo de ingressos para a semifinal da Libertadores",
-     "fonte": "canal flunews",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZjBIYk9MdXlMT2ZhQVA1eGVJc1lQRl83dTc2SG9VdmJsb0M3cF9wSjIybktycGQ5NmEzZ0ZXQzVlSGxibERpck5WR0ozRm5MUVM0aUI3b0gzVms2blRhRHZldWNrX3FBckFUMlg1WDJPYmg3MV9vRUltOE5WQ0hHdVQyS0xRNkNzUVREb3llWjVjM1ZYOTZpLUhKaGtXcWhUSUZnblFaYWs2QlcxYkVDTDBiMDh2MEZaTzJKR1JORQ?oc=5"
-    },
-    {
-     "titulo": "Palmeiras e Fluminense concordam sobre ingressos de visitantes na Libertadores",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUE1wWWFuaE5zaGNmWVU4STc4MmJZakN6VldfV2ZjUDV5MUZNNGlHakJUNFd3NllkcEJkZDZ1WV9rdjRORmlvV1Fld085dkxhWHVxY0kycGN1eE4tM2MyOGhPRVpTRFUtc05IM0hWNWxRUDFqMUNiOE9NV2xOLUc0Mnp6WmllZ0FiNFQ5V0dGWE5rQTBHcGVDdFctWXQzajhhalJ0MGVFX09zVHJRb2owd29CVWc5VHh1SlFRctIBywFBVV95cUxOQTJ0UmhqNWJFb2ExWld2Skg5TERZOUtmQmRDWkhEZldTQzZDbnRhNVJYYXRVd2NXYTJjZ0dwZDNsV1g1QmFCeXQzaEtUUXhlVGJxRzJVSWV3REZ1cW9VOGg3LUZXbEk4RGxZckNyLTFnNWRKbVVYN2xwTXV5Q2FvNzFpZ1ZBVU9vYjlSUEY2SU5uempMWWFkUGJhMzAxdndRVWRuVzdxNGpiNmFoX2d2RFc2M09ENklqc0JKTjVfWW1oaFlKMmZiaXRyWQ?oc=5"
-    },
-    {
-     "titulo": "Fluminense e Palmeiras definem carga de ingressos de visitantes na Libertadores",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNFNBa2NjWkd3eTNXZWhsaDB3TzZHblF1d2ltdk5BS2dGN05nbDR4Z1lpeW1zMmJ6cmRMLVN0OHlhRGppUzVXb2czLXQtMTZNMUk1RzVaWlpWUEo5aUF6bzhlTk9MUFUzRnYtSlVLS1JLWjgwVlhubmxwXzNmY3VsM0dOb1JUNDNNZ2owaU9hWWYtUWdlNGdJY1FrcnlKUTNHVTN4MUxjaTNKdzI0ZjBKb194RldfMmZtYmp5cEFaZzN3djBuS1hXU2xZcVdtMlBnMU9YWXU5anVpb0FjRzRkWkp2MlcxTWlkYnE2cWdpeS1fN211RUZtR3RCVQ?oc=5"
-    },
-    {
-     "titulo": "Palmeiras e Fluminense acertam carga de ingressos para visitantes na Libertadores",
-     "fonte": "365Scores",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaG1ITDN5Y1RYbk5DVkoyS1RqLVV1ZU90SkZFZHoyVWlFQXlXc3VlSTNJYWVkTU54Sko5d1lDYkduSzlNMjVTRXk3SklST0VIOE5aMVNNXzkxam14SDNrd0lDQ0F3ajBJUTR5d3o2bUJRVFNjNGFRLWhzSDNnZGFyc29VcWUxSGJkMy1uOFZOQkJIQ05Td245SWQ1Y3Q1NURkY2c?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Seleção Brasileira fecha Data Fifa com confronto inédito contra Índia",
-   "categoria": "Seleção",
-   "clubes": [],
-   "foco": false,
-   "nota": 53.6,
-   "sinais": {
-    "busca": 75,
-    "aceleracao": 40,
-    "midia": 67,
-    "aderencia": 70,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "índia x brasil",
-   "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 5,
-   "assinatura": "brasi|india|inedi|selec",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Lista ou ranking (3 a 5 min)",
-    "gancho": "Seleção Brasileira fecha Data Fifa com confronto inédito contra Índia. Parece notícia pequena. Não é.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Seleção Brasileira fecha Data Fifa com confronto inédito contra Índia?",
-    "tecnica": "Contradição",
-    "ganchos": [
-     {
-      "tecnica": "Contradição",
-      "texto": "Seleção Brasileira fecha Data Fifa com confronto inédito contra Índia. Parece notícia pequena. Não é.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Seleção Brasileira fecha Data Fifa com confronto inédito contra Índia. E agora: o que muda para a Seleção?",
-      "thumb": "E AGORA, SELEÇÃO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Seleção Brasileira fecha Data Fifa com confronto inédito contra Índia. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
+      "texto": "Atacante do Palmeiras, Paulinho declara voto para presidente. Eu aposto que [SEU PALPITE]. Se eu acertar, você me deve um like.",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Dado",
-      "texto": "“índia x brasil”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+      "texto": "“paulinho palmeiras”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
       "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Seleção Brasileira fecha Data Fifa com confronto inédito contra Índia. Por trás disso, tem dois lados que não querem a mesma coisa.",
-      "thumb": "QUEM TEM RAZÃO?"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Com novatos, Brasil faz confronto inédito contra a Índia para mostrar evolução",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR3NpRGxUeW5MS2Z2RlpSckxCNzNSX0JMMzJxVjZyR1V1aUk3cGczckFKMXZlNmE1YTVBR3B3dzg3ZHNCOXEyTC13Qm9Ibm9NVGtFZFlPSVVmS3M0OE1WMk1fZUNXVkk5ZWViYmZLZG51dzJwWGpJZjVSVTI3ekJxY2xQSy1GS2llRmtWQmZCUmR0ZFhzNF96bW5GYXU1U2pWYWU3TGJyZHoxblA1cFFGUkpKTnAtN0VaSnhLZW12czRLbnZELWVtcElucDVUVU02UHNuTE5uOXRCZlNrcE9WUExR?oc=5"
+     "titulo": "Paulinho, atacante do Palmeiras, revela voto e explica: “Eu não esqueço minhas raízes”",
+     "fonte": "tmc.com.br",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVFuX3ZTRUxMTllzZzRiSGF2eFlEVGQtcVI5d3ppWFptX1QzTW5yQkRXWTZSYWR6bGdsRFJzRkcyYmFDTzhCc1ZtdFg0S1BuNVd5OWRJRDl4WGJabWpieE5kME0wOHFIeG5EOEk3NFQzc1MtWldlMEpibDZjQ1p6cUowLUhtRHJmaTVTbHBYUTdCUnEtR1F0OFN2MEVlVVg0ZEtNVUtwUW1LSHlCM1E?oc=5"
     },
     {
-     "titulo": "Índia x Brasil: entenda o cenário que levou a Seleção ao confronto inédito",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQamlSSFBYei1iUXFLdUthclpKNUJYUjJTWXIySm1hS2lJWFRZN2hnLWxwSm1yWXZieXlwb2dqY0h1WWJjemhYSXpLamlieDR2S2FPX3MxSTVmcEhDSkpXX0o4RU1qRXdLNnd2WWJtaFhkQlZ6VVNBT3hFbFlWMUxCUVdGcGYwbVVlSGp3SmExN29CN2MwRjIxbXg0NjNlWFJPZDFGeXJteWR3b2dtMVl3b3NYUlVnZ0Nwa241a0tROEo3REVhSW00SExBek5reTlaX0Vid3hR?oc=5"
+     "titulo": "Atacante do Palmeiras, Paulinho declara voto para presidente: 'Desde sempre'",
+     "fonte": "itatiaia.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVmp2VTdBczZ0REYwZ2F2T3RGSXhBMHYtaC1BT2wwbzhGRXhEQXBvOHVNaGFac0tyWER0ay1rTDBnYmhDNENiSG1tQThFRmJxMDlYc0VRME5GMGNjQWdaWmN2aVJFeWhld3JMLVhaRW1TSWxENjAxTkViQldNN1R4b1hwTVVIOWlPd1dpME9WZThlSURrZzdILS0tdGNJWHduYUVVclI3QWZPcXowVHUzZDcwMlZOMWUtU3VhZjBHOG5ibWF2MjVJRktvOEtBWHRqQ3paSG9YWk1tRWluSGtUMy1vdHFvcW9VTC04TG5PQjBtWS1Z?oc=5"
     },
     {
-     "titulo": "Seleção brasileira encerra a Data Fifa com confronto inédito contra a Índia",
-     "fonte": "R7 Esportes",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOGtRbWJJU2V2bGFJUVpBUm00LWlsMkVDbThXZUV3ZF9IS3NGZzJ6Y1VtSXhaU3dIcU9wOFFNZ29FUW5YNXpxeUowZmw2RkwzQjVaQ3dZd2xIN3g0X2xoRk8wZENEX2VWOGlqazNsQzFvVzR0Q2tGdTJKaFZQWi1TRmRPZkFLaXJaSU9zRHdhcUgzWUtqZGhkWGYycWRfdGVoUWRDOHVVNF9uTmlEelpjenRVcXExeFAwam1sT1N4eC0wZGRMMjdjNWxaM2dBMnhJUUE?oc=5"
+     "titulo": "Paulinho, do Palmeiras, declara voto em Lula e explica escolha: \"Não esqueço de onde eu vim”",
+     "fonte": "Palmeiras Online",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZnhmNlFFcVRQSFU2X2lCMWFKUDhoQjJBMDlOcVlvaVY0WUtOZ3Nvb1FNMGdvOERQc2FRc3JKcVN3Q0RmUTkzamtnUS1DNnNjQ3ZjekYtemltNG5Ib3dqWXVfRGJ1eklGMzU2RDhiQ0s5Q1FWOEVjSDA1T2ZFbTZRQkdHSENEVEpPdjJpa2RzUGxzb005UGhhcUluQUJielpRQWtDV0lFMjk4RGdqOVZRb1F4NzRSOEpsZVluRURhRkgxTTBYNVE?oc=5"
     },
     {
-     "titulo": "Seleção Brasileira fecha Data Fifa com confronto inédito contra Índia",
-     "fonte": "Metrópoles",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbm9YRlU2QmJva21tLVhxa2YtUXVZNFVPVTJ6Zmd5bmhzWm0yM3pwTW5aeVhMMFM0enVvUVVNWms4UmowMU03ZTFiMmExU0gxSy11b2YwZ1hSSG4yNUlCSUhma1ljQWkzVDhqY3hONmpVeW0zSjc3WndHVkFXU0NQTk5hZWlMR3k0azE3VW1FMjRhX2lZcE01Nkh1RHJScG83QmFSb0w4RGY?oc=5"
+     "titulo": "Paulinho, do Palmeiras, declara voto em Lula e cita Bolsa Família, ProUni e cotas",
+     "fonte": "Diário do Centro do Mundo",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY0IwMjlHdkhxYXhOZEVLWDNzcllYUWdaUjU2YWdWQlZUWnI4dld5eENNVkltWFp5b2g0N1FPU1NnZVFoa0g2cVpETF9XRElrRDBvSlBJaXlPMlZGcUpXNWZSOWZhUkRxY0w2MEZFZ0hQS0VNTFBPU1h5RzBSLUdxNjVJX3k?oc=5"
     },
     {
-     "titulo": "Veja cinco curiosidades da Índia, adversária inédita da Seleção Brasileira",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcVMtVTI4ZVFoQUYycDEwVnFaOXRYTF8xOHVHNWtyalpjcEZ0cTZMMy1yV3gydEF5QWh2aFhJQUJLRVozb0NkYjNpeUN2S2EzblkyMGdldl9IcFFxNGVNNGJTeDM3TTB6T01yX1lhRVVrRkFSZ0FZNEk3ZUtLb1M1VF9iYnphSTRlVDViTkdDRXJmYVNOZzBHak9nQjZqNUxYTTRJUHNZOS1mdDZGMDhPdHl4RnRnNHJNTGRlNWRKcGQtOVZzWGhmbnBQeG1Cal9hZVlJSHVR?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Cássio rasga elogios a Otávio, goleiro do Cruzeiro: 'Promissor'",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Flamengo",
-    "Cruzeiro"
-   ],
-   "foco": true,
-   "nota": 53.4,
-   "sinais": {
-    "busca": 55,
-    "aceleracao": 70,
-    "midia": 46,
-    "aderencia": 100,
-    "youtube": 0
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "flamengo x cruzeiro",
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "cruze|elogi|golei|histo",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Goleiro histórico de Cruzeiro e Flamengo elogia Rossi. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-    "titulo_thumb": "E AGORA, FLAMENGO?",
-    "pergunta_enquete": "Qual sua opinião: Cássio rasga elogios a Otávio, goleiro do Cruzeiro: 'Promissor'?",
-    "tecnica": "Pergunta aberta",
-    "ganchos": [
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Goleiro histórico de Cruzeiro e Flamengo elogia Rossi. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-      "thumb": "E AGORA, FLAMENGO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Goleiro histórico de Cruzeiro e Flamengo elogia Rossi. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Goleiro histórico de Cruzeiro e Flamengo elogia Rossi. Por trás disso, tem dois lados que não querem a mesma coisa.",
-      "thumb": "FLAMENGO x CRUZEIRO"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Goleiro histórico de Cruzeiro e Flamengo elogia Rossi. Parece notícia pequena. Não é.",
-      "thumb": "NÃO É BEM ASSIM"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Goleiro histórico de Cruzeiro e Flamengo elogia Rossi: 'Ele é tranquilo'",
-     "fonte": "Rádio Itatiaia",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPenFKQ2F1UWZXcmp3c1dELTRLc04tVEZkMVE0aFdIamlnZDBKWnR4bVB3Yl9lSlNXZE12OENoN1J4MG5ZeUpoY3lPUU4xa3BocVE3aFZDbVBWWUJiWUthVmZKcnBrUFNEbnJSNmVlanRSaWdhbjNSTkZUWlh2aGlBVW9zUFZpOTIxQlNYTXBBcmRoYm5EMWRITXozQ0tobzJXQ1QtRGZ4V3o5SXNObUVxS2xNYjNUWFkxdmZtaVF0X2cyVWJZaTZmQ0Vob1FoUU9VXzNTVVN5dU9SYzJlaFZOS0s3bGtlTldTX0lpYkF3?oc=5"
-    },
-    {
-     "titulo": "Cássio rasga elogios a Otávio, goleiro do Cruzeiro: 'Promissor'",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQVdITi1BMllhVWFQMWJBbmYxZE9Kc2RHR0VSSGo3WFI4Z29vemROb21xRG4wcGhaUDh6SDQ2MFNDd1ZoZzZRb282b1o3a0FpWUpNZVc1UDlmWXRRM3dsVzlTUlBSR3VhSV8zZmlQd1J1Q0cxeVlRSFZ5YzA2ZVFybUw2ajNYaFJwSk5sV2VyNl8tOWRRRERxOE03N2g0U28?oc=5"
+     "titulo": "Lula lá: Veja a declaração de voto de Paulinho, atacante do Palmeiras",
+     "fonte": "revistaforum.com.br",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZXpGNkhWR05OVmNCWEtrOV9falJWS0F1bkdScnk1QlZha24yS212QjdRNlFOT3NpUkhZSU5QOWF5NkNWTDJNY19kelVpaHVrRS1GNUlPLTZsWDRzTllQU2xHZnBTeFJGY1lUNlFqNHVoemxCdjFuWXp4SUJvT2drUzNaeXBGVEVDcFJ3dUZ4dEhpdTZNZXgxS0t3RklpdTB5RlF2bw?oc=5"
     }
    ],
    "youtube": {
     "amostra": [],
-    "consulta": "Flamengo elogios goleiro",
+    "consulta": "Palmeiras Paulinho voto declaração",
     "n_videos": 0,
     "mais_de": false,
     "views": 0,
     "top": []
    }
+  },
+  {
+   "tema": "São Paulo mantém time, e Corinthians tem Jhonson e Thaís Regina titulares",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Corinthians",
+    "São Paulo"
+   ],
+   "foco": true,
+   "nota": 55.8,
+   "sinais": {
+    "busca": 55,
+    "aceleracao": 26,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "corinthians x são paulo",
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "titul|paulo|corin|chega",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "São Paulo mantém time, e Corinthians tem Jhonson e Thaís Regina titulares. A leitura óbvia é uma. A que importa é outra.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
+    "pergunta_enquete": "Qual sua opinião: São Paulo mantém time, e Corinthians tem Jhonson e Thaís Regina titulares?",
+    "tecnica": "Contradição",
+    "ganchos": [
+     {
+      "tecnica": "Contradição",
+      "texto": "São Paulo mantém time, e Corinthians tem Jhonson e Thaís Regina titulares. A leitura óbvia é uma. A que importa é outra.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "São Paulo mantém time, e Corinthians tem Jhonson e Thaís Regina titulares. E agora: o que muda para o Corinthians?",
+      "thumb": "E AGORA, CORINTHIANS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "São Paulo mantém time, e Corinthians tem Jhonson e Thaís Regina titulares. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "“corinthians x são paulo”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "São Paulo mantém time, e Corinthians tem Jhonson e Thaís Regina titulares. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+      "thumb": "CORINTHIANS x SÃO PAULO"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Carlinha volta a ser decisiva no São Paulo em título contra o Corinthians",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzJIUUtSalpaV3E1dUZKSGR0OXJVMUVOS3ZBazB1Zkd3aDNuaVlSblM2NXFvU0V1cl84TzBadElUNnRNYnNWRmFSdDRlSGs1WnJhc1RacWhkckpzODdPQkFLUFBUdXU4NklyeThqZjZ1R0hublBYMHd1UlJSeWVwS0V2WVhjTWNLcFhfOXptWU9RMXVDR1hyWkNB0gGfAUFVX3lxTE1VNU14cGd0M195X1Z4cjNsaXhvMU5zTnJCS0tBb2lhWjJPLWZxLUdCZm9wbXJ6OFlDSDVOdHpUTzkyaktreC1vMzFqbUFJalVFZ3hGUUhZVEJkeVg0MFBVY1BtYVlmZi1ndXdOd3FNWkZQekxBVFE3LUFRWmRiVEFnTG5lVjhMbXRLYnd4MmZRY3hTdnFfUFJQdHVfWi1BRQ?oc=5"
+    },
+    {
+     "titulo": "Bia Menezes desabafa após título do São Paulo sobre o Corinthians: 'Muitas pessoas falaram que não chegaríamos'",
+     "fonte": "espn.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUkZaU0l1bXgtcVh5UjZBSEF1bVdYcGItSEszQnBIbFV1YXh5azJNQ2szc1VzX3RnbXVNOWhMeVF5T0Rxbmx1RkNZakxpUW1LMlhNYTg4Y3ZEZ1B5cHJlcWJOaVFFakpqVU5pa0h4dXh6eE00R2NQZExVckI5UVVneEpBaUlXNmZTQUhiTlBPejNfWEw5UTY4M3VwaDRheFcxbFpxMjB3NFJJVWVuSll3N1BkdzhOUG4yTDNkMEM4S19XNHUycHpCSHlVS2FCNnItX2tnRlc5VnBfSlkycEdYZmhwM1d6eXNqU3ZrVA?oc=5"
+    },
+    {
+     "titulo": "São Paulo mantém time, e Corinthians tem Jhonson e Thaís Regina titulares",
+     "fonte": "UOL",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd3NGbWZSQTFqWFVjQW5YcWV3NEs1UzItbllzbkpndHYwRXA2OFVFMmNTbm5rV0lPQkd5bXVfaFotdjJFZW9YaUJWenF0WlktcjE5MWdyZnRJeXl3cDZuM3JURUtQUFRnN290RzQ1U2Z6Wi1JUWt4N2VnbmE3QnF2RXV2dWY4VDBiZlhBV3lXS1luMC1OenQybVhHWjM2N2liUzRWanJfT00?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Quanto vale a camisa do São Paulo sem a Superbet? Veja",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Corinthians",
+    "Palmeiras"
+   ],
+   "foco": true,
+   "nota": 55.4,
+   "sinais": {
+    "busca": 55,
+    "aceleracao": 90,
+    "midia": 29,
+    "aderencia": 100,
+    "youtube": 0
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "corinthians x são paulo",
+   "termos_trends": [],
+   "n_fontes": 1,
+   "n_manchetes": 3,
+   "assinatura": "quant|camis|vale|sorte",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "O torcedor está digitando “corinthians x são paulo” no Google agora. A resposta não é tão simples.",
+    "titulo_thumb": "VOCÊ PESQUISOU",
+    "pergunta_enquete": "Qual sua opinião: Quanto vale a camisa do São Paulo sem a Superbet? Veja?",
+    "tecnica": "Dado",
+    "ganchos": [
+     {
+      "tecnica": "Dado",
+      "texto": "O torcedor está digitando “corinthians x são paulo” no Google agora. A resposta não é tão simples.",
+      "thumb": "VOCÊ PESQUISOU"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Quanto vale a camisa do Corinthians sem a Esportes da Sorte? Veja",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWDhHcGVpOUc5a3MtZHlUSkVBZGlzalFyU1pSTHh4UzJIMnYyNWhueExOX25JSU41M3BjTEJYaC12bkNkcWJfend3Mlc3eHIwOGJGd2tFRENaRU5TTVBqZHhJaHdna0hPdFVlQUg1QVZQTGlCZTVtaTJXei0yVHBqcl9CX2x5N2ZxR2lCVzI0TVdudWhCbXJRWmY5dW1QaGpGTFhvaVQ3WWRDX2VNVnBrSXZmTlYwR3FycmRnUzNPWG55Yk1ZdzlPd2MwN2hnNXZ3eFJ1RU9vVkN2NHdFZjktTGVmaU9OUlRrcTFBQQ?oc=5"
+    },
+    {
+     "titulo": "Quanto vale a camisa do São Paulo sem a Superbet? Veja",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQk9ZaDFiWUFKYmZQNjRkZUozRmNoaFhTSkZWQl9vdnlDSkVSWFplV0Q1bVhwc2hITllnR0xSb2ItRWtNcEZQTkdKcFBUV2RPaVo3ckIwSDI3OG5sT1FIUUlsMDRpdWVJdDF4dEdha2tRVksxZV9yQi1mcENqNjBPZm1SdDBlN19kWUdVWmNTS2FFMU9mWFlxUHhLM0RWa1dDVUFkLU1KVEZ5SFR6WkwtdmVJWmg4eU5ZeE5xZEprd3J1QXdJQUhaeWxDZnE3X0tuWDd4dll6NExkRGM?oc=5"
+    },
+    {
+     "titulo": "Quanto vale a camisa do Palmeiras sem a Sportingbet? Veja",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeUg0QXAycXBNYkJYYXN6cXE1b002V2Y1LVJFQzY0VW1mU0NhTmIwdXFnZFhhS2RtRFVzdl9faGZQUUsxT2FYWFl0S21pdmVLVEdQT2lCQk5fTS1qZGVvZXo2cGFqQU9hc191VUc2XzFVd1hGMmh6bUpmV3RkMFBhUDVPcGktVkNFZWZMV3ZmbVhMQlhkTHIxMmxUMk1INUk1MjZkakwwa0libENENmItbThrdEh3bG9MMjdyeFRfVFZibks3WnVoZEY2WDJFYmQzMjJaY1p4VGgxcDFTd3c4?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [],
+    "consulta": "Corinthians Quanto vale Superbet",
+    "n_videos": 0,
+    "mais_de": false,
+    "views": 0,
+    "top": []
+   }
+  },
+  {
+   "tema": "São Paulo confirma quatro lesões e terá desfalques contra o Cruzeiro",
+   "categoria": "Lesão e desfalque",
+   "clubes": [
+    "São Paulo",
+    "Cruzeiro"
+   ],
+   "foco": true,
+   "nota": 55.0,
+   "sinais": {
+    "busca": 60,
+    "aceleracao": 18,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "são paulo fc sp x santos fc sp",
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "quatr|paulo|confi|lesoe",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "São Paulo confirma quatro lesões e terá desfalques contra o Cruzeiro. Meu palpite de quanto tempo esse desfalque vai durar: [SEU PALPITE]. Qual é o seu?",
+    "titulo_thumb": "MEU PALPITE",
+    "pergunta_enquete": "Qual sua opinião: São Paulo confirma quatro lesões e terá desfalques contra o Cruzeiro?",
+    "tecnica": "Aposta",
+    "ganchos": [
+     {
+      "tecnica": "Aposta",
+      "texto": "São Paulo confirma quatro lesões e terá desfalques contra o Cruzeiro. Meu palpite de quanto tempo esse desfalque vai durar: [SEU PALPITE]. Qual é o seu?",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "“são paulo fc sp x santos fc sp”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "São Paulo confirma quatro lesões e terá desfalques contra o Cruzeiro. Agora o técnico tem que escolher: improvisar ou mudar o time inteiro.",
+      "thumb": "SÃO PAULO x CRUZEIRO"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "São Paulo confirma quatro lesões e terá desfalques contra o Cruzeiro. Todo mundo está olhando para quem sai. O problema está em quem entra.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "São Paulo confirma quatro lesões e terá desfalques contra o Cruzeiro. Quem entra no lugar, e o time aguenta?",
+      "thumb": "E AGORA, SÃO PAULO?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "São Paulo confirma quatro lesões e terá desfalques contra o Cruzeiro",
+     "fonte": "CNN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV3NQN2VNOXFYV3p3VWtid21OamVlMkhmNHhfaDRoS3RGSHNpVWlfYVdKX21UcFc5TGMwdFltQ1ZZcHY0RDlwYjI0UWdNTVFhWGp3cVpXOWNqdDBZZWlWeWRxejJtb0lXX3Y2cjU1UVd5blVoUVVhenNINUxzZ1U5MjZvQ2FFaUh5YnhVMjYzVTdHUWJKZzFTRGdfZi1SSzRFbE90V01qSXpEOU9hTWhMbG5COVh1YmZxOGttWXRkWC1SclU?oc=5"
+    },
+    {
+     "titulo": "São Paulo confirma quatro lesões após clássico e liga alerta no Brasileirão",
+     "fonte": "band.com.br",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQkRzU2NkSjhLVzJ6QlNwTUJSZVpBaXFBdHN0c1VrUWpLNUMzaS1vdVpEMnVDZnVvNV9tT0Z1YWZsbnhpdVIwSlp0UzM4b3l2dzJLZEpIamo2WG1LSElVNzBYOFRyLXFZaUxhdHUtOXBta2R3UmpGbFFMUEI4NmNwdkx3Z28tNERrSkZYRzZ2QkIyS3pfMWF5NFV4WERibEdnYUJ6TXpUcWVEYVE2Q0hEWjlQNTgwcWVvcWlzRmdoQ2U2ZExpekZ2LWJKbGw?oc=5"
+    },
+    {
+     "titulo": "São Paulo confirma lesões de quatro jogadores após derrota para o Santos",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLUxXb1YxNGUyNHI3ZFE3ZUFKVko5MlFxMlB5bXktUl92eWtQQWJiTVNUeDRiNE0tYTJlWEhYZkZtMTN1SG9hS0c1NzZTazZBQjdWaWpYNlAyblJBazZzSlR2OU1fMlZfaVJoaHpZVGc4Y01TWHF3X1dJV0VXV2RQTElhbTZwUG1uR2pnM3dnaTlTU2xFdzZHNVFFWUhzcS1sVy1DcjNKYkY3ZFFOTkFqeUFXX1FFb2VTQmZaeFNsd3lHMHhFZEcwM0xYUWpGM3owWUdyV3JyYVdjZ9IB6AFBVV95cUxPUzNnX2pGdFJXMVBzb1pTSkRmNm5QR1pNVllQeEJORFlNMnJSVWY1QlR6ZC0yVFlkUERORTY3aXlRcE9YNGpnV1ZzcmNpcXRiOHpXZmhlcWF2a3NITnIydlZHYmg2QUhMcEdjUTRnREtFRE40ZzdZd1k1djI4RFowX091UnhOaS15RTk0cE5pQnp4MUtIcmRFSGR5ZFptek5nV0x0NEstZnRnNEMzMFJBclluUXlPNEMxZEFEaW16TlJvZWVVRjdQMkJ6Vmpyck1QXzNKV1hMbGVZUHlEaDVWdlVhWGtkV3M3?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Corinthians aposta em novidade para fugir do rebaixamento",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 54.6,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 85,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "apost|rebai|fugir|corin",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Corinthians aposta em novidade para fugir do rebaixamento. E agora: o que muda para o Corinthians?",
+    "titulo_thumb": "E AGORA, CORINTHIANS?",
+    "pergunta_enquete": "Qual sua opinião: Corinthians aposta em novidade para fugir do rebaixamento?",
+    "tecnica": "Pergunta aberta",
+    "ganchos": [
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Corinthians aposta em novidade para fugir do rebaixamento. E agora: o que muda para o Corinthians?",
+      "thumb": "E AGORA, CORINTHIANS?"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Corinthians aposta em novidade para fugir do rebaixamento. Nem todo mundo no Corinthians vai gostar disso, e eu vou explicar por quê.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Corinthians aposta em novidade para fugir do rebaixamento. Parece notícia pequena. Não é.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Corinthians aposta em novidade para fugir do rebaixamento. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Corinthians aposta em Yuri Alberto para fugir do rebaixamento no Brasileirão",
+     "fonte": "O TEMPO",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT1ZSVUxDNWpYN1d4OFYyNlJxYmpkMVNYWXA5ZEVDeTZ6QXhRZmxCc2RDR0hYcnpCb3RjU2cwMGhIZVNTa1h5cFFxTUZrS0FnYVN4SFBRRFFhaW5TcjNlTzEycmtOX1pRQ29saWg0OFNnR25FeVhueEplS0xkdWR5eXdCVmpTN1I1aGQyS2tsTjRncmh4eklxVC1FS0NUM1E4cWlaVWRIRldsT1VYNm1KZ1NtampseE0ycnBfRl9ySWVlenFTcnZqRVVOSmowanJNYk1jQ0RHR1ZOYmxQZTY3Z2Z3?oc=5"
+    },
+    {
+     "titulo": "Corinthians aposta em novidade para fugir do rebaixamento",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNEFtOEw0R2JkdEZCVmlOWTg5NE0yQUdsckJLNFlYUVZQa2xLRFhEX21JeVQxanFGRE56QW1YTUZ3al9PWHh2My1vT3FZVF80cFdaYWMtazlMN2VUN3k5VmNSYzRJOW1jWlp0MmlLSGI3QnZQRElGN29jUlNUaTVhSS1qLXBaUW1GZkhNa3dFcTdac3BJZXR5TFBpWWFYS2pRYTlSYVhHYnFkaXZMMDFtVzJvbGJIZ3dKRkE?oc=5"
+    }
+   ]
   }
  ]
 }
