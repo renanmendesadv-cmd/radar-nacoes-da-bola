@@ -1,32 +1,35 @@
 {
- "atualizado_em": "2026-10-04T01:42:50.427522+00:00",
+ "atualizado_em": "2026-10-06T17:18:24.209322+00:00",
  "alertas": [
   {
-   "id": "iQOnqmNfM-A",
-   "tema": "SANTA CRUZ X MARINGÁ: AO VIVO, COM IMAGENS E EXCLUSIVO | 2ª FASE - RODADA 5|BRASILEIRÃO SÉRIE C",
-   "clubes": [],
+   "id": "pnXeNs_rzy8",
+   "tema": "GOLEIRO DO GALO CHOROU NO GOL DO ARRASCAETA NO MARACANÃ",
+   "clubes": [
+    "Flamengo",
+    "Atlético-MG"
+   ],
    "origem": "Em alta no YouTube (Esportes)",
-   "formato_em_alta": "Lives",
-   "sugestao": "Live de debate ou react ao vivo, com o assunto no título",
-   "dica_do_canal": "No seu canal, Transmissão de jogo rende 2,0x a média: puxe o assunto também na próxima live.",
+   "formato_em_alta": "Shorts",
+   "sugestao": "Short de 30 a 60 s com a sua opinião ou reação (poste o mesmo vídeo como Reels no Instagram)",
+   "dica_do_canal": "Seu canal quase não tem Shorts: é uma chance de testar o formato com um assunto que já está bombando.",
    "n_videos": 1,
-   "views": 1877157,
-   "velocidade": 938.3,
+   "views": 678384,
+   "velocidade": 32.1,
    "engajamento": 1.2,
-   "engajamento_pct": 3.2,
+   "engajamento_pct": 3.3,
    "ganho_hora": null,
    "exemplos": [
     {
-     "titulo": "SANTA CRUZ X MARINGÁ: AO VIVO, COM IMAGENS E EXCLUSIVO | 2ª FASE - RODADA 5|BRASILEIRÃO SÉRIE C",
-     "canal": "SportyNet",
-     "views": 1877157,
-     "url": "https://www.youtube.com/watch?v=iQOnqmNfM-A",
-     "formato": "Lives",
-     "views_hora": 559352
+     "titulo": "GOLEIRO DO GALO CHOROU NO GOL DO ARRASCAETA NO MARACANÃ",
+     "canal": "CORTES DO FLAMENGO ",
+     "views": 678384,
+     "url": "https://www.youtube.com/watch?v=pnXeNs_rzy8",
+     "formato": "Shorts",
+     "views_hora": 13223
     }
    ],
-   "gancho": "Santa cruz x maringá: ao vivo, com imagens e exclusivo. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-   "avisado_em": "2026-10-04T01:42:50.427522+00:00",
+   "gancho": "Goleiro do galo chorou no gol do arrascaeta no maracanã. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
+   "avisado_em": "2026-10-06T17:18:24.209322+00:00",
    "pelo_vigia": true
   }
  ]
