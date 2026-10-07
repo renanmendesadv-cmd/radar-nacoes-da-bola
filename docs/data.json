@@ -1,18 +1,28 @@
 {
- "gerado_em": "2026-10-06T16:56:39.652649+00:00",
- "data_br": "06/10/2026 13:56",
+ "gerado_em": "2026-10-07T17:33:08.860765+00:00",
+ "data_br": "07/10/2026 14:33",
  "status": {
   "Google Trends": 10,
-  "Google News": 992,
+  "Google News": 1008,
   "Vídeos do canal": 15,
   "Buscas do torcedor": 18,
   "YouTube (48 h)": 12,
-  "Alertas de tendência": "nenhum hoje",
+  "Alertas de tendência": 2,
   "Agenda (ESPN)": 200,
-  "Agenda (buscas Google)": 1
+  "Agenda (buscas Google)": 0
  },
  "canal_id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
  "videos_recentes": [
+  {
+   "titulo": "INTERNACIONAL  X  CORINTHIANS  - 29ª RODADA",
+   "url": "https://www.youtube.com/watch?v=CH9iLpalAn0",
+   "publicado": "2026-10-07T14:58:13+00:00"
+  },
+  {
+   "titulo": "PEIXE SOBE E SP ESTANCA/TRICOLOR CAMPEÃO BRASILEIRO FEMININO/DATA FIFA VALEU?/MESSI E O FIM DA MAGIA",
+   "url": "https://www.youtube.com/watch?v=2TzEBAEgUfo",
+   "publicado": "2026-10-07T12:45:17+00:00"
+  },
   {
    "titulo": "SÃO PAULO  X  SANTOS -  RODADA 21",
    "url": "https://www.youtube.com/watch?v=HU2ftPLYSfI",
@@ -52,16 +62,6 @@
    "titulo": "FLU AFUNDA TIMÃO /VERDÃO PARA NAS MÃOS DE EX/TRICOLOR BATE INTER NO SUFOCO/MENGÃO ABRE SOBRE VERDÃO",
    "url": "https://www.youtube.com/watch?v=5G-G0JQj4rU",
    "publicado": "2026-09-23T12:41:04+00:00"
-  },
-  {
-   "titulo": "SAI PRO JOGO   #218",
-   "url": "https://www.youtube.com/watch?v=KTLAoFp-OXM",
-   "publicado": "2026-09-21T21:21:17+00:00"
-  },
-  {
-   "titulo": "CORINTHIANS  X  FLUMINENSE - 28ª RODADA",
-   "url": "https://www.youtube.com/watch?v=ixh02th_l_k",
-   "publicado": "2026-09-20T21:15:48+00:00"
   }
  ],
  "termos_futebol": [],
@@ -96,7 +96,7 @@
     "estado": "pre",
     "clube": "Corinthians",
     "tipo": "pré-jogo",
-    "em_horas": 30,
+    "em_horas": 5,
     "gancho": "Meu palpite para Internacional x Corinthians: [SEU PLACAR]. Deixa o seu nos comentários.",
     "titulo_thumb": "MEU PALPITE",
     "tecnica": "Aposta",
@@ -113,7 +113,7 @@
     "estado": "pre",
     "clube": "São Paulo",
     "tipo": "pré-jogo",
-    "em_horas": 32,
+    "em_horas": 7,
     "gancho": "Cruzeiro x São Paulo parece um jogo com dono. É exatamente aí que mora o perigo.",
     "titulo_thumb": "ZEBRA À VISTA?",
     "tecnica": "Contradição",
@@ -130,11 +130,11 @@
     "estado": "pre",
     "clube": "Flamengo",
     "tipo": "pré-jogo",
-    "em_horas": 54,
+    "em_horas": 29,
     "gancho": "Se você fosse o técnico em Santos x Flamengo, quem escalaria?",
     "titulo_thumb": "SUA ESCALAÇÃO",
     "tecnica": "Pergunta aberta",
-    "formato": "Enquete: qual o seu palpite? (30 s)"
+    "formato": "Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)"
    },
    {
     "id": "401841254",
@@ -147,11 +147,11 @@
     "estado": "pre",
     "clube": "Palmeiras",
     "tipo": "pré-jogo",
-    "em_horas": 56,
+    "em_horas": 31,
     "gancho": "Palmeiras x Bahia: qual é o detalhe que vai decidir esse jogo?",
     "titulo_thumb": "QUEM LEVA?",
     "tecnica": "Pergunta aberta",
-    "formato": "Enquete: qual o seu palpite? (30 s)"
+    "formato": "Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)"
    },
    {
     "id": "401841259",
@@ -164,7 +164,7 @@
     "estado": "pre",
     "clube": "São Paulo",
     "tipo": "pré-jogo",
-    "em_horas": 103,
+    "em_horas": 78,
     "gancho": "Se você fosse o técnico em São Paulo x Vitória, quem escalaria?",
     "titulo_thumb": "SUA ESCALAÇÃO",
     "tecnica": "Pergunta aberta",
@@ -181,7 +181,7 @@
     "estado": "pre",
     "clube": "Flamengo",
     "tipo": "pré-jogo",
-    "em_horas": 124,
+    "em_horas": 99,
     "gancho": "Flamengo x Fluminense: qual é o detalhe que vai decidir esse jogo?",
     "titulo_thumb": "QUEM LEVA?",
     "tecnica": "Pergunta aberta",
@@ -198,7 +198,7 @@
     "estado": "pre",
     "clube": "Palmeiras",
     "tipo": "pré-jogo",
-    "em_horas": 124,
+    "em_horas": 99,
     "gancho": "Palmeiras x Corinthians: um precisa vencer, o outro não pode perder.",
     "titulo_thumb": "PALMEIRAS X CORINTHIANS",
     "tecnica": "Conflito",
@@ -206,60 +206,30 @@
    }
   ],
   "resultados": [],
-  "na_midia": [
-   {
-    "jogo": "Informacoes Sobre Flamengo x Estudiantes",
-    "clube": "Flamengo",
-    "manchetes": 2,
-    "exemplo": "Libertadores: Conmebol divulga novas informações sobre Flamengo x Estudiantes"
-   }
-  ],
-  "nas_buscas": [
-   {
-    "tipo": "pré-jogo",
-    "fonte": "buscas do Google",
-    "clube": "Palmeiras",
-    "jogo": "Palmeiras x Ldu Quito",
-    "casa": "Palmeiras",
-    "fora": "Ldu Quito",
-    "confianca": "alta",
-    "posicao_busca": 4,
-    "manchetes": 0,
-    "exemplo": null,
-    "sugestoes": [
-     "palmeiras x ldu quito",
-     "palmeiras x ldu",
-     "palmeiras x ldu quito"
-    ],
-    "gancho": "Se você fosse o técnico em Palmeiras x Ldu Quito, quem escalaria?",
-    "titulo_thumb": "SUA ESCALAÇÃO",
-    "tecnica": "Pergunta aberta",
-    "formato": "Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)"
-   }
-  ]
+  "na_midia": [],
+  "nas_buscas": []
  },
  "buscas_torcedor": {
   "flamengo": [
    "flamengo x cruzeiro",
-   "flamengo x corinthians",
-   "flamengo e cruzeiro"
+   "flamengo e cruzeiro",
+   "flamengo x santos"
   ],
   "corinthians": [
-   "corinthians x rosario central",
    "corinthians x estudiantes",
+   "corinthians x rosario central",
    "corinthians libertadores",
    "corinthians x internacional"
   ],
   "são paulo fc": [
-   "são paulo fc contratação",
-   "são paulo fc wikipedia",
-   "são paulo fc tem quantos anos"
+   "são paulo fc contratação"
   ],
   "palmeiras": [
    "palmeiras x santos",
    "palmeiras x cerro porteño",
    "palmeiras x ldu quito",
-   "palmeiras x ldu"
+   "palmeiras x ldu",
+   "palmeiras tem mundial"
   ],
   "seleção brasileira": [
    "seleção brasileira feminina",
@@ -267,802 +237,122 @@
    "seleção brasileira de futebol",
    "seleção brasileira 2002",
    "seleção brasileira jogadores",
-   "seleção brasileira de futebol sub-20"
+   "seleção brasileira x seleção norueguesa de futebol"
   ],
   "brasileirão": [
    "brasileirão série a",
    "brasileirão série b",
+   "brasileirão série a classificação",
    "brasileirão série c",
    "brasileirão 2026",
-   "brasileirão série a classificação",
    "brasileirão série d"
   ]
  },
- "alertas": [],
- "aviso_requisitos": null,
+ "alertas": [
+  {
+   "id": "Jc__u7FMXXk",
+   "tema": "Atletico MG x Cruzeiro Sub50 #futebol #atleticomineiro #cruzeiro #sub50 #ronaldinho",
+   "clubes": [
+    "Cruzeiro"
+   ],
+   "origem": "Em alta no YouTube (Esportes)",
+   "formato_em_alta": "Shorts",
+   "sugestao": "Short de 30 a 60 s com a sua opinião ou reação (poste o mesmo vídeo como Reels no Instagram)",
+   "dica_do_canal": "Seu canal quase não tem Shorts: é uma chance de testar o formato com um assunto que já está bombando.",
+   "n_videos": 1,
+   "views": 593779,
+   "velocidade": 59.1,
+   "engajamento": 1.4,
+   "engajamento_pct": 4.0,
+   "ganho_hora": null,
+   "exemplos": [
+    {
+     "titulo": "Atletico MG x Cruzeiro Sub50 #futebol #atleticomineiro #cruzeiro #sub50 #ronaldinho",
+     "canal": "Felipe Gomes ",
+     "views": 593779,
+     "url": "https://www.youtube.com/watch?v=Jc__u7FMXXk",
+     "formato": "Shorts",
+     "views_hora": 21623
+    }
+   ],
+   "gancho": "Atletico MG x Cruzeiro Sub50 #futebol #atleticomineiro #cruzeiro #sub50 #ronaldinho. E agora: o que muda para o Cruzeiro?"
+  },
+  {
+   "id": "BX3dCt0zCzk",
+   "tema": "Ao vivo: Santos x Flamengo | Rodada 29 | Campeonato Brasileiro",
+   "clubes": [
+    "Flamengo",
+    "Santos"
+   ],
+   "origem": "Pauta do radar",
+   "formato_em_alta": "Shorts",
+   "sugestao": "Short de 30 a 60 s com a sua opinião ou reação (poste o mesmo vídeo como Reels no Instagram)",
+   "dica_do_canal": "Seu canal quase não tem Shorts: é uma chance de testar o formato com um assunto que já está bombando.",
+   "n_videos": 24,
+   "views": 3712337,
+   "velocidade": 36.6,
+   "engajamento": 1.6,
+   "engajamento_pct": 4.4,
+   "ganho_hora": null,
+   "exemplos": [
+    {
+     "titulo": "240 MILHÕES! FLAMENGO VAI FAZER A MAIOR VENDA DA HISTÓRIA! MENGÃO ORGANIZA PROTESTO! 2 REFORÇOS E+",
+     "canal": "FLAZOEIRO",
+     "views": 81162,
+     "url": "https://www.youtube.com/watch?v=BX3dCt0zCzk",
+     "formato": "Vídeos longos",
+     "views_hora": 13365
+    },
+    {
+     "titulo": "Entrevista com Jorginho, jogador do Flamengo | The Noite (05/10/26)",
+     "canal": "The Noite com Danilo Gentili",
+     "views": 272512,
+     "url": "https://www.youtube.com/watch?v=E9wzk7JdBGY",
+     "formato": "Vídeos longos",
+     "views_hora": 11138
+    },
+    {
+     "titulo": "VITOR BIRNER FALA SOBRE LEILA PEREIRA NO VASCO E A DISPUTA COM O FLAMENGO",
+     "canal": "LINE FUTEBOL",
+     "views": 221791,
+     "url": "https://www.youtube.com/watch?v=Z5IqM88PeXs",
+     "formato": "Shorts",
+     "views_hora": 10792
+    }
+   ],
+   "gancho": "3,7 milhões de visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora."
+  }
+ ],
+ "aviso_requisitos": {
+  "resumo": "1 requisito(s) medido(s) abaixo da meta: Horas assistidas públicas (12 meses).",
+  "nota": "O canal já está no Programa de Parcerias: requisitos de entrada abaixo da meta não tiram a monetização, mas indicam queda de audiência. O que pode tirar é inatividade, advertências ou violação de políticas.",
+  "itens": [
+   {
+    "id": "horas_12m",
+    "nome": "Horas assistidas públicas (12 meses)",
+    "atual": 2289,
+    "meta": 4000,
+    "nivel": "anúncios",
+    "status": "abaixo",
+    "texto": "2.289 h públicas nos últimos 12 meses (vídeos longos e lives; Shorts, privados e apagados não contam). Nos próximos 30 dias saem da conta ~274 h e entram ~181 h no ritmo atual: projeção de 2.196 h.",
+    "acao": "Faltam 1.711 h. Lives longas e vídeos longos contam; seriam uns 143 h a mais por mês durante um ano."
+   }
+  ]
+ },
  "temas": [
-  {
-   "tema": "Leila Pereira descarta assumir o Vasco após deixar o Palmeiras: 'Eu vou voltar para as minhas empresas'",
-   "categoria": "Polêmica e bastidor",
-   "clubes": [
-    "Palmeiras",
-    "Vasco"
-   ],
-   "foco": true,
-   "nota": 81.0,
-   "sinais": {
-    "busca": 75,
-    "aceleracao": 76,
-    "midia": 81,
-    "aderencia": 100,
-    "youtube": 79
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "leila pereira",
-   "termos_trends": [],
-   "n_fontes": 6,
-   "n_manchetes": 7,
-   "assinatura": "leila|vasco|palme|oposi",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "Leila Pereira descarta assumir o Vasco após deixar o Palmeiras. Eu aposto que [SEU PALPITE]. Se eu acertar, você me deve um like.",
-    "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Leila Pereira descarta assumir o Vasco após deixar o Palmeiras: 'Eu vou voltar para as min?",
-    "tecnica": "Aposta",
-    "ganchos": [
-     {
-      "tecnica": "Aposta",
-      "texto": "Leila Pereira descarta assumir o Vasco após deixar o Palmeiras. Eu aposto que [SEU PALPITE]. Se eu acertar, você me deve um like.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "Leila aponta investimento de R$ 1 bi no Palmeiras. Guarda esse número, porque ele muda a conversa sobre o Palmeiras.",
-      "thumb": "R$ 1 BI"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Leila Pereira descarta assumir o Vasco após deixar o Palmeiras. Por trás disso, tem dois lados que não querem a mesma coisa.",
-      "thumb": "PALMEIRAS x VASCO"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Todo clube fala em união. Leila aponta investimento de R$ 1 bi no Palmeiras. Esse número conta outra história.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Até onde essa história do Palmeiras vai chegar?",
-      "thumb": "E AGORA, PALMEIRAS?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Leila Pereira no Vasco? Presidente do Palmeiras revela próximo passo na carreira após deixar o clube",
-     "fonte": "NSC Total",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2JHMTRMcTFMM2sycTF3Zk5xVHhTLTZqY1ZIdUdlZFVRZE04dnNSZHRmY0pRSFl3dXlyNkxUdVhsSk1xaksta2NHQ0Fvbm5vV3ZRM0dZMGZjNDRQM0ZhdFFRMjBxczFsMUtjLXdNeV85U1kwWjdKX3JISmxZR003MmpBbGVPY2ZXcWtPRXB4aUw4WXE1RVoyWU1nV0ZSUmxmZ21aQU5BelZQQ1NMb0JneWJUTGJOcnhIaWZCTHNZODEwRDQyc1k4aXRDU090enJLU1E?oc=5"
-    },
-    {
-     "titulo": "Leila diz que oposição é 'meia dúzia de imbecis' e nega conflito com Vasco",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSkRYZVdmckQzWXdDdGVRZGpwbVNUaFQyYl9vRlU2aHZSb2sxc1daUzh6b0tPS0VfY0g0R0NwR3hEMDZhY2ZCWlY5ampqOG9sMUYtdkRwMDhmWmhuU3k3TlZoSmswRUhReklLdGFTbHhicDRlZzMwaTFyRFRwYm9xOHdOUm51dTc2akhBNUxEWFVOQXNpZE82MFYyMmE2UmlTeERHU2pVZWFEcXBFdWkxdFlZUXZXSVBJRTlWRzZUWDJGMlkwN095dVMxSUZBXzdyM3QteTJOMHk0cFFB?oc=5"
-    },
-    {
-     "titulo": "Leila aponta investimento de R$ 1 bi no Palmeiras, ataca oposição e nega ida ao Vasco",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc2FpS2d1dTVSazV2STNoR2dUT2pNMTF6YkdvSFdxbjRZdkdDbDZrZEZNWXJLZzd1LW5oV2RSNG52OWNwWmVjdUwwSE4xVkJVdkFzTldGWlE3c3M4WDZMaUl4Nm5jY1hpN1E0ZU1XOEtsXzlaNzVIbnNHRU9FWmtXNFJvT3Q4cVJzdnFDX2FuU2NiVFkxVVdNYTliajFxZzctTURCZTltazVNaVZRYUhXN2dOWUNkbnVrOGF4dGxfaG8?oc=5"
-    },
-    {
-     "titulo": "Rômulo: Por que Leila não se defende para o palmeirense sobre o Vasco?",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNEZ1SHlidVNhVXU3MVAzcFFoaVNrVDQ1RjJUSWtWb2FYX3JNVmw1ckZwNm9HR1hHNFkwbUl5Zngtb2o4ejk0ZFNiT2NIcHp2MHVwNkgydTMwVWZPdWdtNDJod3B6VlZaR0dGLUxqZWlWMEZpNDRzWTc5OHhReHQyQ1Bjeml6MHFqZGxGSGpvQVBXbU5yYVI1NzdmQ3V0RFNFNWpwOGYwdnpsN2VmUE5GVFR1b1ZrcEQyeUFFNVd5ak1hOGFtQnFNYXg0NHhYUGZCdC1fQ1hQQ18?oc=5"
-    },
-    {
-     "titulo": "Leila fala sobre relação com Vasco após fim de mandato no Palmeiras",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUEttdXhCZ3pOUGo4ZGRZZElJYlgxUk1vWUxGVE1qRXFOSndkY0NldVlPMVp4MU8xd1RYS2NDUDN5THBlZlpnSjZKWnl4MGJRdG9jQ3lqNHp4LVlVa1NJU3BNVk5NUW93Q1dHTmRmTHNPVTRkeENiOWI4cVBFYTFiMUtvZXVZUVAwdUJxb0dqdHg5SXdlaFJlbFBRLTVGTlBYUEJ0SktvNXhiZ1ByTm9ZQUNzQ1dURENYc2x6Y2U2LVJaUnl4T25GSjVYX2tyN2IxTlJzRjVDUmZUYUtIdTdyMDdKMzY2YVhEekNndVA1QnNQeGl6RVYydnQ5ODNLLU9O?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "ou0nGD6sb1o",
-      "titulo": "Leão NÃO ESCONDE o que pode mudar se a Leila deixar o cargo!",
-      "canal": "Papo de Palmeirense",
-      "views": 39338,
-      "likes": 724,
-      "comentarios": 22,
-      "publicado": "2026-10-04T17:00:19Z",
-      "duracao_s": 2396,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=ou0nGD6sb1o"
-     },
-     {
-      "id": "pXEj6jQAH5g",
-      "titulo": "O Plano de Leila Pereira Para As Contratações do Palmeiras de 2027",
-      "canal": "Verde Forte",
-      "views": 3466,
-      "likes": 42,
-      "comentarios": 1,
-      "publicado": "2026-10-04T19:09:17Z",
-      "duracao_s": 1212,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=pXEj6jQAH5g"
-     },
-     {
-      "id": "SJYPi7tW4QU",
-      "titulo": "ÁUDIO VAZADO DE LEILA PEREIRA: \"UNIÃO\" DOS CONSELHEIROS DO PALMEIRAS CONTRA \"MEIA DÚZIA DE IMBECIS\"",
-      "canal": "Nosso Palestra",
-      "views": 1539,
-      "likes": 88,
-      "comentarios": 20,
-      "publicado": "2026-10-06T12:00:46Z",
-      "duracao_s": 292,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=SJYPi7tW4QU"
-     },
-     {
-      "id": "hn6o_Vp4zsU",
-      "titulo": "🔥EITA! 😳 LEILA DEFENDE LAMACCHIA E DETONA: \" SÃO TODOS IMBECIS \"😠",
-      "canal": "Verdão MVVC",
-      "views": 1386,
-      "likes": 135,
-      "comentarios": 39,
-      "publicado": "2026-10-06T10:37:09Z",
-      "duracao_s": 419,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=hn6o_Vp4zsU"
-     },
-     {
-      "id": "NjxpobhHRQs",
-      "titulo": "Leila Pereira não sabe contratar!  #futebol #palmeiras",
-      "canal": "Comentarista Sincerão",
-      "views": 1022,
-      "likes": 23,
-      "comentarios": 0,
-      "publicado": "2026-10-05T16:10:25Z",
-      "duracao_s": 58,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=NjxpobhHRQs"
-     },
-     {
-      "id": "lBr8pqlKX5I",
-      "titulo": "Leila Pereira pressionada no Palmeiras? Piperno vê demagogia em críticas",
-      "canal": "Metrópoles",
-      "views": 494,
-      "likes": 5,
-      "comentarios": 2,
-      "publicado": "2026-10-06T15:09:24Z",
-      "duracao_s": 80,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=lBr8pqlKX5I"
-     },
-     {
-      "id": "u3rnkOD0XZ8",
-      "titulo": "SE LEILA ERA CONTRA BETS, POR QUE O PALMEIRAS FEZ EVENTO?",
-      "canal": "Canal Ser Flamengo",
-      "views": 445,
-      "likes": 16,
-      "comentarios": 0,
-      "publicado": "2026-10-05T11:30:05Z",
-      "duracao_s": 135,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=u3rnkOD0XZ8"
-     },
-     {
-      "id": "U2HKgiMN5fI",
-      "titulo": "BOMBA! RICHARLISON É DO PALMEIRAS! LEILA FECHA COM CRAQUE DA SELEÇÃO E POMBO VEM ASSINAR!",
-      "canal": "Palestra Fut News",
-      "views": 424,
-      "likes": 34,
-      "comentarios": 2,
-      "publicado": "2026-10-06T02:18:42Z",
-      "duracao_s": 606,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=U2HKgiMN5fI"
-     },
-     {
-      "id": "pSh2oQMi4Ko",
-      "titulo": "🔥 TRETA NO PALMEIRAS! ÁUDIO DE LEILA VAZA E NETO PROMETE BOMBA ENVOLVENDO O VASCO!",
-      "canal": "VASCONAUTA",
-      "views": 159,
-      "likes": 13,
-      "comentarios": 3,
-      "publicado": "2026-10-06T14:14:27Z",
-      "duracao_s": 987,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=pSh2oQMi4Ko"
-     },
-     {
-      "id": "u3PNZz8MIxs",
-      "titulo": "LEILA PEREIRA EXPLODE E REBATE CRÍTICAS NO PALMEIRAS: “É MENTIRA! É MENTIRA!”",
-      "canal": "TOP SIX BRASIL FUT",
-      "views": 155,
-      "likes": 2,
-      "comentarios": 0,
-      "publicado": "2026-10-06T15:39:34Z",
-      "duracao_s": 82,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=u3PNZz8MIxs"
-     },
-     {
-      "id": "TEOH6Hie3TM",
-      "titulo": "🚨 MINHA NOSSA! LEILA PEREIRA FALOU DO VASCO! OLHA O QUE ELA DISSE! QUASE NÃO ACREDITEI!",
-      "canal": "Jogada Nota 10 ®",
-      "views": 100,
-      "likes": 18,
-      "comentarios": 1,
-      "publicado": "2026-10-06T15:09:45Z",
-      "duracao_s": 254,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=TEOH6Hie3TM"
-     },
-     {
-      "id": "XkHdQFZP4Lg",
-      "titulo": "\"BANDO DE IMBECIS!\" LEILA SURTA E XINGA CONSELHEIROS DO PALMEIRAS APÓS DENÚNCIA GRAVE!",
-      "canal": "É Hora do Gol",
-      "views": 83,
-      "likes": 14,
-      "comentarios": 1,
-      "publicado": "2026-10-06T15:24:47Z",
-      "duracao_s": 230,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=XkHdQFZP4Lg"
-     },
-     {
-      "id": "zDs91apT9kM",
-      "titulo": "VAZOU! LEILA PEREIRA PEDE SOCORRO AO CONSELHO E REBATE BOATOS NO PALMEIRAS!",
-      "canal": "Jornalismo Alviverde",
-      "views": 32,
-      "likes": 9,
-      "comentarios": 0,
-      "publicado": "2026-10-06T15:33:11Z",
-      "duracao_s": 304,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=zDs91apT9kM"
-     }
-    ],
-    "consulta": "Palmeiras Leila Pereira deixar",
-    "n_videos": 13,
-    "mais_de": false,
-    "views": 48643,
-    "top": [
-     {
-      "titulo": "Leão NÃO ESCONDE o que pode mudar se a Leila deixar o cargo!",
-      "canal": "Papo de Palmeirense",
-      "views": 39338,
-      "url": "https://www.youtube.com/watch?v=ou0nGD6sb1o",
-      "publicado": "2026-10-04T17:00:19Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "O Plano de Leila Pereira Para As Contratações do Palmeiras de 2027",
-      "canal": "Verde Forte",
-      "views": 3466,
-      "url": "https://www.youtube.com/watch?v=pXEj6jQAH5g",
-      "publicado": "2026-10-04T19:09:17Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "ÁUDIO VAZADO DE LEILA PEREIRA: \"UNIÃO\" DOS CONSELHEIROS DO PALMEIRAS CONTRA \"MEIA DÚZIA DE IMBECIS\"",
-      "canal": "Nosso Palestra",
-      "views": 1539,
-      "url": "https://www.youtube.com/watch?v=SJYPi7tW4QU",
-      "publicado": "2026-10-06T12:00:46Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Leila Pereira cobra aliados e reafirma saída do Palmeiras em 2027",
-   "categoria": "Polêmica e bastidor",
-   "clubes": [
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 75.0,
-   "sinais": {
-    "busca": 75,
-    "aceleracao": 93,
-    "midia": 87,
-    "aderencia": 100,
-    "youtube": 24
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "leila pereira",
-   "termos_trends": [],
-   "n_fontes": 7,
-   "n_manchetes": 7,
-   "assinatura": "leila|palme|saida|cobra",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "O torcedor está digitando “leila pereira” no Google agora. A resposta não é tão simples.",
-    "titulo_thumb": "VOCÊ PESQUISOU",
-    "pergunta_enquete": "Qual sua opinião: Leila Pereira cobra aliados e reafirma saída do Palmeiras em 2027?",
-    "tecnica": "Dado",
-    "ganchos": [
-     {
-      "tecnica": "Dado",
-      "texto": "O torcedor está digitando “leila pereira” no Google agora. A resposta não é tão simples.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Leila Pereira cobra aliados e reafirma saída do Palmeiras em 2027. Tem gente no Palmeiras puxando para lados opostos, e essa conta chega no campo.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Leila Pereira cobra aliados e reafirma saída do Palmeiras em 2027. Era para ser uma decisão simples. Virou a maior confusão da semana.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Leila Pereira cobra aliados e reafirma saída do Palmeiras em 2027. Quem ganha com essa confusão? Pensa bem antes de responder.",
-      "thumb": "E AGORA, PALMEIRAS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Minha aposta: essa confusão do Palmeiras ainda vai ter mais um capítulo esta semana. Guarda esse vídeo.",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Em áudio vazado, Leila pede 'união contra imbecis' no Palmeiras e revela o que fará após deixar clube em 2027",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQk1HUXFmcXl6djloYnVZLTN2OTZWY18tTHhyY0J2TDktc095OGFkQUxlX2liY3hzeGF3dlpya0ZsZVp4d2pZdGl2b3JUaVVQVmRDNnZXV3V4T2pJaWwwMlpMSDRJWURqbDJGX0tmTG12ZE1ua2k4RmpnMk42M1RTZVp6MkFUYWIxb0xkWFNDYkNLVXhJcy0xdzJVQVRRQ2FGUlkzNmJxTHNNNU04UHF0SXV1ZlBVZXd4NlVXMjZCQ19Lb3lsc1F2LWN1Mzk1X1c4S3JUYV9YNnZZQnI5eFpsNFIxaEZOdVdicExN?oc=5"
-    },
-    {
-     "titulo": "Leila Pereira se irrita com críticas e cobra defesa de aliados no Palmeiras",
-     "fonte": "Jornal da Orla de Santos",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTnFES01xVmpNZ3N5U2hoYi12VTNyY2RnQUdNZWszNU1xcWlJa1FHMnlKalFtcWVmdGUzNjRtSzRXaFlLa2ctanJoNmhSckpNOVZwdERlRkhzSGlhbmEyaEZ0WlBDejlOeFR4V3N4SUFTa1haZnNLTGZMX3BPai1Xc1ppc3pZZ0FEWTlNclU4RWZidF94VXFNSy1iazdsd3NUaEtlRmpfZ21LeWN4bkx6Zm0yVQ?oc=5"
-    },
-    {
-     "titulo": "Leila cobra apoio no Palmeiras e detona oposição por críticas sobre Vasco: 'Imbecis'",
-     "fonte": "Rádio Itatiaia",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQVnF1ZlBaMGExZl9NS1pVY3VZd0NVS2YwWG1tT2N2NURWQThBZnBBMjBFSUJ6U21TREdrS1B1SmxReG9YazloNFFRcXN2UG1ZV1VrZ2VkLXdBM0FVeTVaRjN6ejBDeEZ2YUxhbDJWR1lFNG52VG5ic2FkX0txMU1JckZvaFFnem5lWUpVV0tOaGtYbWJpSzlScDA5dVZPRnV4Z2F3cjBsNmhPR1NMZzUxSk13em9uOGhZZGJyYWpkQWU0bjdXZUlrNDVnQWxBczBHYUFzM1RCaXhOYjBFdlQ1T0NneUxTa0V0SS1ZcEN4dmZtaGtlRnpEc1ludWs1UWx3?oc=5"
-    },
-    {
-     "titulo": "Leila Pereira cobra aliados e reafirma saída do Palmeiras em 2027",
-     "fonte": "Diário do Centro do Mundo",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYnBoVG1MTkRKOGprSjEwNHNUSnR1X2ZCRndxRU9McUh4SkpLR0E2cEhDYzlVMnhsclJPX2xvNlNSY01FaVhNV3V5ZHN1QnNub3dkMTJMZUhUc2k2RzFvcExhTXlrT0RZd3J6WHFwbzY4NF93LWc2MUUwXzA2cFRUQ25IcTUtZ1dGc2ZITGtBcFd3ZURXUXpDVTBQSmNFbExaQ2R5QmNRRmJoZEF1NFNRRnpVQTZuOEJNZVhHYWhodHZBSEtYUWJYbQ?oc=5"
-    },
-    {
-     "titulo": "Leila cobra apoio no Palmeiras contra \"meia dúzia de imbecis\" e indica saída do futebol em 2027",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWWJ2RnBwaHVuYW44UG5ZSWRobmkyNThBUVE1UzkzLWIxR3hkV2szQk1SM25SNHlDTlVIOHZWejE3S0Q4WjMwU0xMckJMYXBsNW5uZWlnZFZVY1pyRVVNa3dyYi01b2tHclhFa3FkckJXb3Nad04xWFB3eXJ3QmZqOE9ya3FuRmJBblJRVHdEd0N6LU5ZSUlQOUNSMk5FdjNTRll2clQ0M1ZWb2NheVo3R0NXaHo0OGdFeVFzX0dyUFVpR3pTTC1hV3BfSm9Oei1hNmptazd3YlRUVUNlaEJIT2poaVZ5WGhxSWlObklEUEVvd3djRVNr0gGGAkFVX3lxTFBlVENLeUwyc0pOOTEzMVVxQWducnR4N3hyZFhZdkw3RDJiY0o0X01GV0xMQ3pCMlYzbjdJZDJWblhVekJHWlhRNFZyM2E0Vldad09tN01xMFh2VGJOSGtsOEhwSHR6ZjBQdXNjbzJSS0lkS1VCWGtFaHhWdnBDOTZRQ25vYllGTXkyQ3VZWDJaRWNndWctbUlvRVoxZ3pmVGY3R2ZhbkdvR3Z6RURReWVfc0VRQ28zY3JmTmVENGtyY1duT2F3cEdhWmNPS0o1a0xERGd0UkNJWFB0bHY0dHl0QzdnZVQ3N1hKRVh1QVl2cVpIRlprYmpvNTlEMjhMdE9XM1VMSVE?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "zDs91apT9kM",
-      "titulo": "VAZOU! LEILA PEREIRA PEDE SOCORRO AO CONSELHO E REBATE BOATOS NO PALMEIRAS!",
-      "canal": "Jornalismo Alviverde",
-      "views": 32,
-      "likes": 9,
-      "comentarios": 0,
-      "publicado": "2026-10-06T15:33:11Z",
-      "duracao_s": 304,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=zDs91apT9kM"
-     }
-    ],
-    "consulta": "Palmeiras Leila cobra Pereira",
-    "n_videos": 1,
-    "mais_de": false,
-    "views": 32,
-    "top": [
-     {
-      "titulo": "VAZOU! LEILA PEREIRA PEDE SOCORRO AO CONSELHO E REBATE BOATOS NO PALMEIRAS!",
-      "canal": "Jornalismo Alviverde",
-      "views": 32,
-      "url": "https://www.youtube.com/watch?v=zDs91apT9kM",
-      "publicado": "2026-10-06T15:33:11Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "São Paulo pode perder pontos no Brasileirão por transfer ban da Fifa",
-   "categoria": "Mercado da bola",
-   "clubes": [
-    "São Paulo"
-   ],
-   "foco": true,
-   "nota": 74.9,
-   "sinais": {
-    "busca": 60,
-    "aceleracao": 84,
-    "midia": 92,
-    "aderencia": 100,
-    "youtube": 48
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "jogadores de brasileirão série a",
-   "termos_trends": [],
-   "n_fontes": 8,
-   "n_manchetes": 10,
-   "assinatura": "perde|pode|ponto|paulo",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 3 min)",
-    "gancho": "São Paulo pode perder pontos no Brasileirão por transfer ban da Fifa. Nessa negociação, alguém vai sair perdendo.",
-    "titulo_thumb": "QUEM TEM RAZÃO?",
-    "pergunta_enquete": "Qual sua opinião: São Paulo pode perder pontos no Brasileirão por transfer ban da Fifa?",
-    "tecnica": "Conflito",
-    "ganchos": [
-     {
-      "tecnica": "Conflito",
-      "texto": "São Paulo pode perder pontos no Brasileirão por transfer ban da Fifa. Nessa negociação, alguém vai sair perdendo.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "São Paulo pode perder pontos no Brasileirão por transfer ban da Fifa. Parece um grande negócio. Olhando de perto, não é bem assim.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "São Paulo pode perder pontos no Brasileirão por transfer ban da Fifa. Se isso sair, quem perde espaço no elenco?",
-      "thumb": "E AGORA, SÃO PAULO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Minha aposta é que essa novela do São Paulo termina [SEU PALPITE]. Guarda esse vídeo.",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Tricolor pode perder pontos no Brasileiro devido a transfer ban",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS2VPa09RbllzRTgtQVBYSUNNSEJXSXdfZmEzWmVVYi1NTDFwUFA2N2hyeVFWdy1GSU5PWFl3bWdtbW02dHV6TzVYTVRiWlhQdmZfSE1JdDJvWks0X1V2RzRmNGp4Q3pXampYRmxQNjBKRHp1bzhiLU9NTHgtaU1qLUFVN0ZmRVdNUW9wQmVGN3Jic0NCaWNNS2xkQ1ZjS3hIVjZWcXVqU1PSAbcBQVVfeXFMT0tOYkliOVpWM2VvNFhUNXdyclFiWGRsbWl5NXlWMUU2SmFvRkJ6bG05Y0R5ejVOa0kxUU95bVdudUl2c0ViNUdZc0lVOW9kU0ZuejNOQ0xSMTQwX2hSbHk5OXA1NUNaMHBINUNrc3Bhb1NHNUMwZTlYSF9uVFdUQ0pXcGRON083RmJtZ0o0dHJ0b05sbk1QMWRiSGJ1ZjcxRW55Q3k1SGN2eHV5SVZ6WkZqM0ZaUFFn?oc=5"
-    },
-    {
-     "titulo": "São Paulo pode perder pontos no Campeonato Brasileiro",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOW9oSm9oLVNjR0oxUlROckxhbXVRQmNWY3AzWVFMVFpfY3hkWGdSMGViRmM0MTlWVFNrMGhUVWNUU2paWTU4bkV5MW1uTi1BdVF1TmtfZWE5R0FReDh1LV94Z19KcU5JUFJCLTRLdjNDM0lWODhIeFhCeUhMdzZfdEx5eWZFWnVyYVV2YjgwUHlrT2NRLVljOA?oc=5"
-    },
-    {
-     "titulo": "São Paulo pode perder seis pontos no Brasileirão; entenda o caso",
-     "fonte": "Band",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakpwWVhTWmxJVjFkZHJ3dmZpVS1VVlhBTXdyRUxOb1VNbGp1OWRCMEhDcnZtMTBFTlpxSFUwR3AxRGE3VFVHYnFpbzZqMjZNb3ZldlRqcDJyOVNSTEdaczM1dTRPUllFM1NZLUx3TVBmVHVaNWhWb0pTNTBzV1lmMFpwZnR1OFFOdE5FMWM2WC1Ec3FwdXViWXc5OEtwTVZ2NllrY3RyV2pZbFNidFFpd2RpOGl3OEZsVGg5Mg?oc=5"
-    },
-    {
-     "titulo": "São Paulo pode perder seis pontos por dívida na Fifa",
-     "fonte": "Maringá Post",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdjR1ay1zVUM5UFVXVzdkb2dtZWNEeVhjR3FvNXdqMzN0eUkxNGlxR0lRWGwwWVpuNm0yamwxcjJtQTJfTGxubG14LWtkR1hYbml1dW1iMjNCQlFjcm1vTXJjV3pPY3BZMGlBZXRUc3BtdmNyRzhUQkZEUk9ZVi01X19NSjVtemdXQXdkTTZnTjB6b3U3Tnc?oc=5"
-    },
-    {
-     "titulo": "São Paulo pode perder pontos no Brasileirão por transfer ban da Fifa",
-     "fonte": "Metrópoles",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeS1YSnEyNjZNV01kaFMtMm42eHFjOGMxcjljaklNZ0dtTjVqb2hXR1dQa0hJSTY1S3JVTGg2NVQ2bXJGSlFVTVJlWVd4QlNTcjJiQ1VaTmZfemROc1JpNmctQUpMclU2dzVQbDl2TVBpcDZVQXBYSWtwSUZLNVg0Q2xmb2ZXUFZTTlZWM3Z3R3Z1c05YQkpJdVR5bnZkcjRCdGN0YUZuVQ?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "mTE34TGEizs",
-      "titulo": "São Paulo indo ladeira abaixo! Talvez perca 6 pontos no Brasileirão?",
-      "canal": "André Vilabrisa ",
-      "views": 246,
-      "likes": 3,
-      "comentarios": 0,
-      "publicado": "2026-10-06T15:01:54Z",
-      "duracao_s": 12,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=mTE34TGEizs"
-     },
-     {
-      "id": "SzcnP3uhwXQ",
-      "titulo": "BOMBA NO SÃO PAULO! 💣SÃO PAULO PODE PERDER 6 PONTOS POR CAUSA DO GALOPPO!",
-      "canal": "Corneta Tricolor",
-      "views": 218,
-      "likes": 10,
-      "comentarios": 1,
-      "publicado": "2026-10-06T15:32:24Z",
-      "duracao_s": 62,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=SzcnP3uhwXQ"
-     },
-     {
-      "id": "TrM0-9jbgNo",
-      "titulo": "🚨 SÃO PAULO PODE PERDER 6 PONTOS! DECISÃO DA FIFA ASSUSTA E REBAIXAMENTO VIRA RISCO",
-      "canal": "Morumbi News Oficial",
-      "views": 7,
-      "likes": 1,
-      "comentarios": 0,
-      "publicado": "2026-10-06T15:55:11Z",
-      "duracao_s": 224,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=TrM0-9jbgNo"
-     },
-     {
-      "id": "qUPY_uD_25I",
-      "titulo": "São Paulo pode perder 6 pontos no Brasileirão por punição da Fifa 😱 #shorts",
-      "canal": "Diegola Cortes",
-      "views": 1,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-10-06T16:02:22Z",
-      "duracao_s": 34,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=qUPY_uD_25I"
-     },
-     {
-      "id": "RegL9HyLbiA",
-      "titulo": " SÃO PAULO -6 PONTOS? FIFA DÁ 60 DIAS PRA HARRY MESSIS PAGAR A DÍVIDA DO GALOPPO",
-      "canal": "Magno Footz",
-      "views": 0,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-10-06T16:48:43Z",
-      "duracao_s": 46,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=RegL9HyLbiA"
-     },
-     {
-      "id": "Y4X4SeB2wCM",
-      "titulo": "São Paulo em Alerta: Transfer Ban da FIFA Ameaça Clube com Perda de Pontos",
-      "canal": "Deep Dive - Dicas do Renato",
-      "views": 0,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-10-06T15:24:00Z",
-      "duracao_s": 278,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Y4X4SeB2wCM"
-     }
-    ],
-    "consulta": "São Paulo Fifa perder pontos",
-    "n_videos": 6,
-    "mais_de": false,
-    "views": 472,
-    "top": [
-     {
-      "titulo": "São Paulo indo ladeira abaixo! Talvez perca 6 pontos no Brasileirão?",
-      "canal": "André Vilabrisa ",
-      "views": 246,
-      "url": "https://www.youtube.com/watch?v=mTE34TGEizs",
-      "publicado": "2026-10-06T15:01:54Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "BOMBA NO SÃO PAULO! 💣SÃO PAULO PODE PERDER 6 PONTOS POR CAUSA DO GALOPPO!",
-      "canal": "Corneta Tricolor",
-      "views": 218,
-      "url": "https://www.youtube.com/watch?v=SzcnP3uhwXQ",
-      "publicado": "2026-10-06T15:32:24Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "🚨 SÃO PAULO PODE PERDER 6 PONTOS! DECISÃO DA FIFA ASSUSTA E REBAIXAMENTO VIRA RISCO",
-      "canal": "Morumbi News Oficial",
-      "views": 7,
-      "url": "https://www.youtube.com/watch?v=TrM0-9jbgNo",
-      "publicado": "2026-10-06T15:55:11Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Corinthians suspende contrato com Fatal Fans e cumpre liminar da Justiça de SP",
-   "categoria": "Finanças e gestão",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 74.7,
-   "sinais": {
-    "busca": 75,
-    "aceleracao": 53,
-    "midia": 96,
-    "aderencia": 100,
-    "youtube": 63
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "fatal fans",
-   "termos_trends": [],
-   "n_fontes": 9,
-   "n_manchetes": 9,
-   "assinatura": "corin|suspe|justi|patro",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "Corinthians suspende contrato com Fatal Fans e cumpre liminar da Justiça de SP. A manchete conta uma parte. A outra parte está nos números.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Corinthians suspende contrato com Fatal Fans e cumpre liminar da Justiça de SP?",
-    "tecnica": "Contradição",
-    "ganchos": [
-     {
-      "tecnica": "Contradição",
-      "texto": "Corinthians suspende contrato com Fatal Fans e cumpre liminar da Justiça de SP. A manchete conta uma parte. A outra parte está nos números.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Corinthians suspende contrato com Fatal Fans e cumpre liminar da Justiça de SP. Quem paga essa conta no fim: a diretoria ou o torcedor?",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Eu aposto que essa conta chega no elenco do Corinthians ainda nesta temporada. Você aposta em quê?",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "“fatal fans”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Corinthians suspende contrato com Fatal Fans e cumpre liminar da Justiça de SP. Nessa conta, tem quem ganha e tem quem paga, e não é a mesma pessoa.",
-      "thumb": "QUEM TEM RAZÃO?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Decisão da Justiça tira patrocínio de conteúdo adulto dos espaços do Corinthians",
-     "fonte": "Bahia Notícias",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYm9OT196bGI1dGhEWkZTaUFTdnkwN2RFYVlUR05JZVNHM2tKWUUtLUF6cUp2ZE5vbVg1c0RUOE90WFBnSDE0ZjdIOHhKX0VuYWc1TEp6U1A1dEhrdUFkYzlONGl4WVNTOU9nX2V2cFVyaE53am9VTlJiOHJGcUF2eXVMNXMtMDRMYXZ3V0FNU3otRnJHaERrSTdxSHdwRVJqTmF1OVlJaC1kTGlMMWdFSUo3dUpNWnE3NGU0WVBjN0YtYXZsem52VHRTMDZqSGZUS3c?oc=5"
-    },
-    {
-     "titulo": "Corinthians suspende contrato com Fatal Fans após decisão da justiça; entenda",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOEZJemhHNVQ1TXBLeG9XdE1FRzUwSUEyUEF5am1YUUcxOU1vd29HY3F4bVJQWTZRYXBVMHllbjJaME85RU9CallvdHdLUmRjQkFVa0FjVjdrR2tGNjhtbkg5bWdvMk1JUHV1QVFzYWdhRDBleDNMWjA5ZDMtVjFCX1VtRW13YWpsNXBoZGl4a0hNbjNyV3N5dUQwcVJWRHV5OHhRcWNLYmpoVzhVcTRnZ1U1b3Z4bFQyV2VfRQ?oc=5"
-    },
-    {
-     "titulo": "Corinthians suspende contrato com Fatal Fans após liminar da Justiça de SP",
-     "fonte": "Diário de São Paulo",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZThCYU9FZ1pKSXlOcnphd3dZTDJZeU02c0lFNUVNMjRhZUZQa2hCejlaY2tfNVZDeXJnMEd1VW1WVVJoZ0JQcXMydVVTQUlBS05Hd3ZDTG56NFF3NkY2d1M0YjFFRktDQTVNRElXT3lIS0duRWZ4Y2dFclJLZ1hGekxrTWN1aU05cHFWNldyd1FYcnVTMlNMRkMybGhMLXI5YnVtdWFoLXA5Q2ZmMGxCdTNVTGQySG1nVWF0TUFR0gHDAUFVX3lxTFBBcER5NGxrby1xSkQ3ZllQdWZ6UmczNlJ2Tjd5N09CbHVBQU9mNkVLaGozUEN3Nk9lMk1aVWJDUW9tRTZVanVXUmNCU0ZLU1F2X1E4UTNBR1pLam5uTUFRVDIzaVlvQzc5ckJkb2pSc2RYWWNXbFJjc1lHT2YyTEJfNHQ5RnJkdGdRUE5hdTRycFhwVE1DbENCVGl3dnFTVnNKY25SajRqdGxjSWFIbE0tTmlTSElrMEdpRFRVdW44OXBObw?oc=5"
-    },
-    {
-     "titulo": "Corinthians suspende patrocínio de conteúdo adulto após decisão da Justiça",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQkVkc1hkTUJVM19YNTQ3eVBreF9XX0pQdG1XdEhMZ0JnMEp0Sy1hNGNJaEE5RC1aa052aEVqeC1QaWI1em9jbjNUb0tkTnlTMXpZM2xSYTVuMFlaNjZXZldrcWpRYk80dDBzTmFQY3M3ekRXVWU1UUlId0dUTDVXM1JUMDNJTHYxM2d2ekZaWHcyTFlIMF9aaEIzdDdqdVhfMGc1dzZ2NUQyMF9DNTRfU20ybkhFeS1FeWQ3ekJWUHdKekoyc0tETVczaWhnQQ?oc=5"
-    },
-    {
-     "titulo": "Corinthians anuncia suspensão de patrocínio milionário após decisão da Justiça",
-     "fonte": "Meu Timão",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQzhncVgwNUowUjBzb3VHcTM1R3RHWmp3eGxmUTlvNFNMNk9WeF9TNUdMOEtVNTRCWGlVb1JQa3l3N3NOWHFxUHhfV3dPVDduYV9HeUMzdjRDMXA0Mm5yc1Zoc1VUNmI0SmFWcFI3bFE5VTQ2eWlwbWpoQ1M5dDlTUzQyWG9JLUR2M1B2RHNPYjJQR25lWG1PcXNrMm0xVHFMdUlsbllKT252UkxjZjhWRkx3RnlwOG1aUFkxclE4MnNVM2hDY3VpTUVPYTB1WU40Tmc0?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "-XHo28lz6Gg",
-      "titulo": "CORINTHIANS SUSPENDE CONTRATO COM FATAL FANS; CRISE FINANCEIRA AUMENTA PRESSÃO SOBRE STABILE",
-      "canal": "PodcasTIMÃO",
-      "views": 5226,
-      "likes": 405,
-      "comentarios": 3,
-      "publicado": "2026-10-06T12:26:48Z",
-      "duracao_s": 2354,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=-XHo28lz6Gg"
-     },
-     {
-      "id": "8z-xBLpruVU",
-      "titulo": "🚨 BOMBA NO CORINTHIANS! JUSTIÇA SUSPENDE PATROCÍNIO DA FATAL FANS! 😱🖤🤍",
-      "canal": "NAÇÃO CORINTHIANA ",
-      "views": 1600,
-      "likes": null,
-      "comentarios": 1,
-      "publicado": "2026-10-06T12:17:44Z",
-      "duracao_s": 26,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=8z-xBLpruVU"
-     },
-     {
-      "id": "50ROYA8QcIU",
-      "titulo": "Corinthians suspende contrato com a Fatal Fans — agora começa outro problema",
-      "canal": "Tapa na Orelha",
-      "views": 184,
-      "likes": 22,
-      "comentarios": 1,
-      "publicado": "2026-10-06T14:00:10Z",
-      "duracao_s": 682,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=50ROYA8QcIU"
-     },
-     {
-      "id": "bvMOLxAn2xs",
-      "titulo": "Corinthians desafia decisão da Justiça sobre patrocínio",
-      "canal": "FutNews Shorts",
-      "views": 184,
-      "likes": 3,
-      "comentarios": 0,
-      "publicado": "2026-10-06T09:42:26Z",
-      "duracao_s": 29,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=bvMOLxAn2xs"
-     },
-     {
-      "id": "Y39V9iNHHt4",
-      "titulo": "Corinthians suspende bets e busca novo patrocínio",
-      "canal": "PipiraShow",
-      "views": 65,
-      "likes": 2,
-      "comentarios": 0,
-      "publicado": "2026-10-06T10:22:21Z",
-      "duracao_s": 36,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Y39V9iNHHt4"
-     },
-     {
-      "id": "MBmVEcs1J6U",
-      "titulo": "🚨URGENTE🚨| TIMÃO SE ANIMA COM ACORDO COM A CAIXA!🚨| CORINTHIANS SUSPENDE CONTRATO COM FATAL FANS!",
-      "canal": "Meu Corinthians News",
-      "views": 55,
-      "likes": null,
-      "comentarios": 0,
-      "publicado": "2026-10-06T15:40:31Z",
-      "duracao_s": 660,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=MBmVEcs1J6U"
-     }
-    ],
-    "consulta": "Corinthians Fatal suspende Fans",
-    "n_videos": 6,
-    "mais_de": false,
-    "views": 7314,
-    "top": [
-     {
-      "titulo": "CORINTHIANS SUSPENDE CONTRATO COM FATAL FANS; CRISE FINANCEIRA AUMENTA PRESSÃO SOBRE STABILE",
-      "canal": "PodcasTIMÃO",
-      "views": 5226,
-      "url": "https://www.youtube.com/watch?v=-XHo28lz6Gg",
-      "publicado": "2026-10-06T12:26:48Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "🚨 BOMBA NO CORINTHIANS! JUSTIÇA SUSPENDE PATROCÍNIO DA FATAL FANS! 😱🖤🤍",
-      "canal": "NAÇÃO CORINTHIANA ",
-      "views": 1600,
-      "url": "https://www.youtube.com/watch?v=8z-xBLpruVU",
-      "publicado": "2026-10-06T12:17:44Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "Corinthians suspende contrato com a Fatal Fans — agora começa outro problema",
-      "canal": "Tapa na Orelha",
-      "views": 184,
-      "url": "https://www.youtube.com/watch?v=50ROYA8QcIU",
-      "publicado": "2026-10-06T14:00:10Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
   {
    "tema": "Ao vivo: Santos x Flamengo | Rodada 29 | Campeonato Brasileiro",
    "categoria": "Jogo e resultado",
    "clubes": [
     "Flamengo",
-    "Corinthians",
     "Santos"
    ],
    "foco": true,
-   "nota": 73.3,
+   "nota": 84.8,
    "sinais": {
-    "busca": 65,
-    "aceleracao": 76,
-    "midia": 67,
+    "busca": 60,
+    "aceleracao": 62,
+    "midia": 87,
     "aderencia": 100,
     "youtube": 100
    },
@@ -1070,34 +360,26 @@
    "trafego_google": 0,
    "busca_torcedor": "palmeiras x santos",
    "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 9,
-   "assinatura": "brasi|rodad|campe|flame",
-   "ja_coberto": {
-    "titulo": "FLAMENGO  X  CORINTHIANS - 27ª RODADA",
-    "url": "https://www.youtube.com/watch?v=DeQazvF7_Bs"
-   },
+   "n_fontes": 7,
+   "n_manchetes": 13,
+   "assinatura": "brasi|flame|santo|campe",
+   "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "O que o Flamengo precisa fazer para vencer esse jogo?",
-    "titulo_thumb": "E AGORA, FLAMENGO?",
+    "gancho": "3,7 milhões de visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
+    "titulo_thumb": "TODO MUNDO VIU",
     "pergunta_enquete": "Qual sua opinião: Ao vivo: Santos x Flamengo | Rodada 29 | Campeonato Brasileiro?",
-    "tecnica": "Pergunta aberta",
+    "tecnica": "Dado",
     "ganchos": [
      {
-      "tecnica": "Pergunta aberta",
-      "texto": "O que o Flamengo precisa fazer para vencer esse jogo?",
-      "thumb": "E AGORA, FLAMENGO?"
+      "tecnica": "Dado",
+      "texto": "3,7 milhões de visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
+      "thumb": "TODO MUNDO VIU"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Meu palpite para Flamengo x Corinthians: [SEU PLACAR]. Deixa o seu nos comentários.",
+      "texto": "Eu aposto que o Flamengo [VENCE / EMPATA / PERDE], e explico por quê. Qual é o seu placar?",
       "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "3,2 milhões de visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
-      "thumb": "TODO MUNDO VIU"
      },
      {
       "tecnica": "Conflito",
@@ -1106,8 +388,13 @@
      },
      {
       "tecnica": "Contradição",
-      "texto": "Rodada 29 | Campeonato Brasileiro. Parece que está tudo resolvido. No futebol, quase nunca está.",
+      "texto": "Flamengo x Corinthians parece um jogo com dono. É exatamente aí que mora o perigo.",
       "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "O que o Flamengo precisa fazer para vencer esse jogo?",
+      "thumb": "E AGORA, FLAMENGO?"
      }
     ]
    },
@@ -1118,14 +405,14 @@
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0RGNDdtT291clZGWU1LNnpadk12SjBIejh3Tl92TmRGNjNIOGNNT2xrRmV0bGlVY2NpTGhYbm9ON3hScVpvZkx6b0I2N1pVdEpVNV90cUJ1MWJxNFhHci1OVGM5V3BxUlhXUktOYmFLTERfZFBzSi1yZFVwZzBzenpWa1k0S0psTnNZcW01QktXd0FLaldHbDhCNmtta0Jw?oc=5"
     },
     {
-     "titulo": "Ao vivo: Fluminense x Coritiba | Rodada 29 | Campeonato Brasileiro",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZk9DTHNvN2s2MEhMNDBOOFRKaUhTdGRJdy1IWTFkdkwxMUtpWEo5X09ieTNTRFhfVnRzS3llTHhzaUpvM0lBblVXN1BZbmJrQURsZm9NaGhqSlBHQUp2YnlzWmlCeFpWRjh1WVA5alEzMGhmMzlhdjRMRDBmeWthNzRsR3NHZDd1V1haN1dEMjFtNldBbVNXRw?oc=5"
+     "titulo": "Pedro é um dos únicos três jogadores que estiveram em campo em todas as 28 rodadas do Campeonato Brasileiro até o momento. O atacante do Flamengo aparece ao lado de Alef Manga e Stiven Mendoza na lista. O camisa 9 mantém presença constante",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QVlV5OWxCd3VsT1dVSjIwSHdMaEVmMy1iWUduS0Y3clFjUnhvMlFhdXhMOWlmSUN2YlptaG1PbzI2YVpySms3cHAzWGE0SzY1Mmc?oc=5"
     },
     {
-     "titulo": "Ao vivo: Palmeiras x Bahia | Rodada 29 | Campeonato Brasileiro",
+     "titulo": "Ao vivo: Athletico-PR x Atlético-MG | Rodada 29 | Campeonato Brasileiro",
      "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLU83dlowTjRpNTlTb3dYV1FoS3FiQldlZ2ZocTI1YjU1eWJEM3hxczlCQXNzRFlzamtJUEpGeF9oakFhSF9xQS1HdFk1QkI3UWhDVWpZbV9nbU1fMGZJdEQ5U0RUV0ZkcDJOdURIUENjakhJUzBSeUVLYm4xVjNWS0YtRDYxT0R3QjEzcWxrZ00wSGM?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY1pDN2pwZ2pjYlBwY1JKV1FGam04NmM3dFU3MHhVMGVXTnFvRXBaTl9NSndRZ0hCdXd6Y0RPbnY5OGJiRmtOSWc1NXg5RkFudGtrb0lkcFliSFpMWnlCdUk0NFJGNWlHM3RlY2h5ZHMzaFMxNnd0a3ZQYXVkNE9HV2ljZmZMSVhJV1FMc2FJV1REMjE4TjREZ3pkdFZoQQ?oc=5"
     },
     {
      "titulo": "Ao vivo: Santos x Flamengo | Rodada 29 | Campeonato Brasileiro",
@@ -1133,506 +420,1808 @@
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaV92WDVRRjFxTEhHbnlfNGJyZXVVVnlrbFhMb1FoQnV1SFJYWWNPNDNaMXR4bjJSaUh3QmVWb3ZuWExLZW1ucTFsSzItUElrX3Y3VEJnOHhRVWRzU1JBcnZOQ29haU1LLTdDMnZJdU80LVBLUXBZNW9QMVhER25tSUN0NUpuRVZsQ0U3WnViNUdHT1RPSWZtRHhXQWdzcWtGTWJNVS12UVM?oc=5"
     },
     {
-     "titulo": "Ao vivo: Vitória x Chapecoense | Rodada 29 | Campeonato Brasileiro",
+     "titulo": "Ao vivo: Bahia x Flamengo | Rodada 31 | Campeonato Brasileiro",
      "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTGlUZ3dSX3pUUDc4bkNNRXFVMklNcmt2a3RjYTAzbHJqNE1vOGxtQ2ZBaDY1TkktaU82aDhXc1ZaRjQ3ZVEyZEV0VFRsTDhCY0ZIekdYODdEczUwamFYSXdFMXJDaWpib3FUMlFmaS15NDJvWGFBMF83YnhIS2loUGNkVlp4N3J3MWFFMGhDRW1NMnFicjYybw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa1o0dmZHWmdCMWhmQkR0aTVQSHJMVTk3cmprZ1JScDFoR1JkbWMxdGFRNEk0Y3VwaE81MC1KNTZHUWNRUDA3WlZiUlF4X3BjTEdQcHZfS3pBaDNNb3dUQWEyQzZnS1hzUzhUaWhka1Bpc0U0MDdjemZZek9IMERocjRCN0lXNFlBZGFUR3hsUThyZw?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "tGQN-ynp0-g",
-      "titulo": "Pode votar sem título? #flamengo #vasco #mengão #mengo #futebol",
-      "canal": "Klistube",
-      "views": 378650,
-      "likes": 6911,
-      "comentarios": 175,
-      "publicado": "2026-10-04T18:32:25Z",
-      "duracao_s": 14,
+      "id": "E9wzk7JdBGY",
+      "titulo": "Entrevista com Jorginho, jogador do Flamengo | The Noite (05/10/26)",
+      "canal": "The Noite com Danilo Gentili",
+      "views": 272512,
+      "likes": 11376,
+      "comentarios": 340,
+      "publicado": "2026-10-06T17:05:09Z",
+      "duracao_s": 2574,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=tGQN-ynp0-g"
+      "url": "https://www.youtube.com/watch?v=E9wzk7JdBGY"
      },
      {
-      "id": "PtjLgZELvLM",
-      "titulo": "\"MEU DEUS DO CÉU! Gente, o FLAMENGO AGORA VAI...\" O SANTOS DÁ MEDO ao LÍDER DO BRASILEIRÃO?",
+      "id": "aFHUixZW3Ko",
+      "titulo": "COLAPSO FINANCEIRO NO FLAMENGO??? \"Cara, ESSE DISCURSO É...\" MAURO CEZAR FALA A REAL | BETS e VENDAS",
       "canal": "Jovem Pan Esportes",
-      "views": 250515,
-      "likes": 4457,
-      "comentarios": 320,
-      "publicado": "2026-10-05T16:52:07Z",
-      "duracao_s": 1104,
+      "views": 251474,
+      "likes": 6714,
+      "comentarios": 728,
+      "publicado": "2026-10-06T16:30:32Z",
+      "duracao_s": 2049,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=PtjLgZELvLM"
-     },
-     {
-      "id": "Hz62n4AkKLM",
-      "titulo": "ARRASCAETA perde semifinal e FLAMENGO pode ser indenizado pela FIFA 😱",
-      "canal": "O Inspetor",
-      "views": 226641,
-      "likes": 334,
-      "comentarios": 5,
-      "publicado": "2026-10-04T22:11:40Z",
-      "duracao_s": 6,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Hz62n4AkKLM"
-     },
-     {
-      "id": "po2AgZ9HoeM",
-      "titulo": "será q a torcida do Flamengo tem esse poder todo? #football",
-      "canal": "futebolmmg ⚽️ ",
-      "views": 204635,
-      "likes": 722,
-      "comentarios": 42,
-      "publicado": "2026-10-05T11:36:46Z",
-      "duracao_s": 6,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=po2AgZ9HoeM"
-     },
-     {
-      "id": "_gmp0d3Kl3Q",
-      "titulo": "FLAMENGO TEME O SANTOS?; DATA-FIFA DO BRASIL PREOCUPA?; JJ NÃO SE DESCULPA COM CR7! | BATE-PRONTO",
-      "canal": "Jovem Pan Esportes",
-      "views": 190859,
-      "likes": 3287,
-      "comentarios": 36,
-      "publicado": "2026-10-05T17:11:05Z",
-      "duracao_s": 7640,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=_gmp0d3Kl3Q"
+      "url": "https://www.youtube.com/watch?v=aFHUixZW3Ko"
      },
      {
       "id": "HdRs4DLOTuw",
       "titulo": "🫀LEILÃO SURDO #loucosporfutebol #futebol #futeboldaglobo #copadomundo #selecaobrasileira #flamengo",
       "canal": "Thiago Bittar",
-      "views": 168166,
-      "likes": 9892,
-      "comentarios": 37,
+      "views": 225244,
+      "likes": 11284,
+      "comentarios": 43,
       "publicado": "2026-10-05T18:18:47Z",
       "duracao_s": 103,
       "live": false,
       "url": "https://www.youtube.com/watch?v=HdRs4DLOTuw"
      },
      {
-      "id": "d8iojTeiKJk",
-      "titulo": "CAVOU UMA VAGA NA FLAMENGO! GABIGOL FORA DOS PLANOS DO MENGÃO! PROGRAMAÇÃO DE TREINOS! FIM DATA FIFA",
-      "canal": "FLAZOEIRO",
-      "views": 167455,
-      "likes": 13715,
-      "comentarios": 421,
-      "publicado": "2026-10-05T10:02:57Z",
-      "duracao_s": 621,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=d8iojTeiKJk"
-     },
-     {
-      "id": "C_ykIWmfQkA",
-      "titulo": "Júlio César revela maior conquista pelo Flamengo: evitar o rebaixamento 🔴⚫",
-      "canal": "LINE FUTEBOL",
-      "views": 152512,
-      "likes": 716,
-      "comentarios": 13,
-      "publicado": "2026-10-05T11:00:16Z",
-      "duracao_s": 6,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=C_ykIWmfQkA"
-     },
-     {
-      "id": "Cs6I05RV8Uo",
-      "titulo": "REFORÇO CONFIRMADO! JOGADOR COMPRADO PELO FLAMENGO VAI SE APRESENTAR! FIFA VAI PAGAR MENGÃO! NEYMAR!",
-      "canal": "FLAZOEIRO",
-      "views": 147853,
-      "likes": 11038,
-      "comentarios": 129,
-      "publicado": "2026-10-04T20:00:15Z",
-      "duracao_s": 635,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Cs6I05RV8Uo"
-     },
-     {
-      "id": "1YmAXbJFBvI",
-      "titulo": "171 MILHÕES! FLAMENGO LIGA SINAL DE ALERTA PRA VENDER JOGADORES! PROPOSTA POR LINO! MENGÃO EM MANAUS",
-      "canal": "FLAZOEIRO",
-      "views": 140739,
-      "likes": 13087,
-      "comentarios": 249,
-      "publicado": "2026-10-05T21:40:15Z",
-      "duracao_s": 644,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=1YmAXbJFBvI"
-     },
-     {
-      "id": "Ktk07QweFSQ",
-      "titulo": "Olha esse detalhe ❌🚨 #noticiasdofutebol #flamengo #samuellino #selecaobrasileira #gols",
-      "canal": "Sprint Prodz ",
-      "views": 132832,
-      "likes": 3129,
-      "comentarios": 44,
-      "publicado": "2026-10-05T17:00:15Z",
-      "duracao_s": 57,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Ktk07QweFSQ"
-     },
-     {
-      "id": "oKw9njqnM-8",
-      "titulo": "Pulgar não perdoa nem nos treinos 😈🔥 #futebol #flamengo #erickpulgar",
-      "canal": "Arthurex_edits",
-      "views": 131542,
-      "likes": 5390,
-      "comentarios": 635,
-      "publicado": "2026-10-04T19:08:53Z",
+      "id": "9WWv2wE5hFU",
+      "titulo": "Um grande erro na campanha #brasileirão #flamengo #corinthians #eleições #futebol",
+      "canal": "Klistube",
+      "views": 222715,
+      "likes": 5391,
+      "comentarios": 467,
+      "publicado": "2026-10-06T03:52:48Z",
       "duracao_s": 65,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=oKw9njqnM-8"
+      "url": "https://www.youtube.com/watch?v=9WWv2wE5hFU"
+     },
+     {
+      "id": "Z5IqM88PeXs",
+      "titulo": "VITOR BIRNER FALA SOBRE LEILA PEREIRA NO VASCO E A DISPUTA COM O FLAMENGO",
+      "canal": "LINE FUTEBOL",
+      "views": 221791,
+      "likes": 981,
+      "comentarios": 34,
+      "publicado": "2026-10-06T21:00:01Z",
+      "duracao_s": 6,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Z5IqM88PeXs"
      },
      {
       "id": "Fp4fg9ycswE",
       "titulo": "TORCIDA DO FLAMENGO NÃO VOTOU NO LULA? #Flamengo #noticiasdoflamengo #mengão",
       "canal": "Insider FLA",
-      "views": 124954,
-      "likes": 10842,
-      "comentarios": 565,
+      "views": 193601,
+      "likes": 12866,
+      "comentarios": 678,
       "publicado": "2026-10-05T18:06:47Z",
       "duracao_s": 68,
       "live": false,
       "url": "https://www.youtube.com/watch?v=Fp4fg9ycswE"
      },
      {
+      "id": "4VzX3slJoNc",
+      "titulo": "Ache sua idade! #futebol #futebol # #football #soccer #edit #prime #flamengo",
+      "canal": "FutNex_editz",
+      "views": 185719,
+      "likes": 7144,
+      "comentarios": 1393,
+      "publicado": "2026-10-06T02:01:57Z",
+      "duracao_s": 15,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=4VzX3slJoNc"
+     },
+     {
+      "id": "lrfEr2jTAIA",
+      "titulo": "a FIFA tá DEVENDO o FLAMENGO",
+      "canal": "Verner",
+      "views": 166164,
+      "likes": null,
+      "comentarios": 11,
+      "publicado": "2026-10-05T22:00:15Z",
+      "duracao_s": 22,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=lrfEr2jTAIA"
+     },
+     {
+      "id": "1YmAXbJFBvI",
+      "titulo": "171 MILHÕES! FLAMENGO LIGA SINAL DE ALERTA PRA VENDER JOGADORES! PROPOSTA POR LINO! MENGÃO EM MANAUS",
+      "canal": "FLAZOEIRO",
+      "views": 154873,
+      "likes": 13455,
+      "comentarios": 262,
+      "publicado": "2026-10-05T21:40:15Z",
+      "duracao_s": 644,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=1YmAXbJFBvI"
+     },
+     {
       "id": "fC3Xr93U5-o",
       "titulo": "novidades do flamengo que vai jogar contra o Santos #flamengo #loucosporfutebol #futeboldaglobo",
       "canal": "LEONN0 FLA NEWS",
-      "views": 119283,
-      "likes": 2773,
-      "comentarios": 11,
+      "views": 153120,
+      "likes": 3193,
+      "comentarios": 14,
       "publicado": "2026-10-05T18:13:39Z",
       "duracao_s": 81,
       "live": false,
       "url": "https://www.youtube.com/watch?v=fC3Xr93U5-o"
      },
      {
-      "id": "yroRHahmVmE",
-      "titulo": "3 jogadores que podem retornar ao de empréstimo #flamengo #noticiasdoflamengo",
-      "canal": "Nação Rubro-Negra ",
-      "views": 83610,
-      "likes": 3417,
-      "comentarios": 154,
-      "publicado": "2026-10-04T21:24:29Z",
-      "duracao_s": 77,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=yroRHahmVmE"
-     },
-     {
-      "id": "dnzOH9hieYU",
-      "titulo": "ZICO, o melhor meia da história!👑 #zico #flamengo #futebol",
-      "canal": "Fut_editsCR7",
-      "views": 75777,
-      "likes": null,
-      "comentarios": 131,
-      "publicado": "2026-10-05T13:00:02Z",
-      "duracao_s": 17,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=dnzOH9hieYU"
-     },
-     {
-      "id": "XJAsqiqHO5Q",
-      "titulo": "MENGÃO BATE RECORDE EM VENDAS DE CAMISA #Flamengo #noticiasdoflamengo #mengão",
-      "canal": "Insider FLA",
-      "views": 70040,
-      "likes": 8278,
-      "comentarios": 137,
-      "publicado": "2026-10-05T12:37:34Z",
-      "duracao_s": 68,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=XJAsqiqHO5Q"
-     },
-     {
-      "id": "7Bdn6KNoWiM",
-      "titulo": "ESTÁDIO MILIONÁRIO NO FLAMENGO! RENATA FAN & CICINHO AVALIAM A CAMPANHA DO MENGÃO NO BRASILEIRÃO!",
-      "canal": "FLA ATUALIZADO",
-      "views": 68254,
-      "likes": 1268,
-      "comentarios": 8,
-      "publicado": "2026-10-05T15:06:32Z",
-      "duracao_s": 1477,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=7Bdn6KNoWiM"
-     },
-     {
-      "id": "s6RecsJKgiI",
-      "titulo": "camisa do Flamengo #copadomundo #selecaobrasileira #flamengo #gabigol",
-      "canal": "Futebol é artes ",
-      "views": 67405,
-      "likes": 2941,
-      "comentarios": 12,
-      "publicado": "2026-10-04T22:00:39Z",
-      "duracao_s": 24,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=s6RecsJKgiI"
-     },
-     {
-      "id": "DL3_0cDakGg",
-      "titulo": "O bebê do “embala neném” cresceu, virou jogador e ainda tá na ativa. #futebol #Flamengo #Farense",
-      "canal": "FUTFLIX",
-      "views": 67142,
-      "likes": 1694,
-      "comentarios": 12,
-      "publicado": "2026-10-04T20:00:04Z",
-      "duracao_s": 66,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=DL3_0cDakGg"
-     },
-     {
-      "id": "S2TNwricFZw",
-      "titulo": "GLOBO ESPORTE HOJE 05/10/26 FLAMENGO TRAZENDO REFORÇO DO RIVAL| NOTÍCIAS DO FLAMENGO HOJE ",
-      "canal": "Flamengo Bastidores ",
-      "views": 64552,
-      "likes": 397,
-      "comentarios": 6,
-      "publicado": "2026-10-05T16:45:53Z",
-      "duracao_s": 891,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=S2TNwricFZw"
-     },
-     {
-      "id": "Pn4WCvpwT4Q",
-      "titulo": "Flamengo começa a semana com desfalques, volta importante e novidade milionária",
-      "canal": "Giro Fla ",
-      "views": 63599,
-      "likes": 2373,
-      "comentarios": 9,
-      "publicado": "2026-10-05T09:05:07Z",
-      "duracao_s": 141,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Pn4WCvpwT4Q"
-     },
-     {
-      "id": "dgGvSe1_yKw",
-      "titulo": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 05/10/26",
-      "canal": "Flamengo TV",
-      "views": 55280,
-      "likes": 4067,
-      "comentarios": 50,
-      "publicado": "2026-10-05T13:32:12Z",
-      "duracao_s": 1855,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=dgGvSe1_yKw"
-     },
-     {
       "id": "YRMmqL9Y4nw",
       "titulo": "DEU BOM! E O FLAMENGO COMEMOROU A RESPOSTA DA CBF! PATROCÍNIO MASTER DO MENGÃO FOI PROIBIDO! TREINO!",
       "canal": "FLAZOEIRO",
-      "views": 54254,
-      "likes": 11371,
-      "comentarios": 193,
+      "views": 152963,
+      "likes": 14865,
+      "comentarios": 253,
       "publicado": "2026-10-06T11:46:28Z",
       "duracao_s": 665,
       "live": false,
       "url": "https://www.youtube.com/watch?v=YRMmqL9Y4nw"
      },
      {
+      "id": "pSk_jiMerEA",
+      "titulo": "FLAMENGO PODE EXPOR LULA NA CAMISA: “PROIBIR NÃO É PROTEGER”",
+      "canal": "Henrique Esteter (Economesteter)",
+      "views": 147233,
+      "likes": 9733,
+      "comentarios": 208,
+      "publicado": "2026-10-07T00:41:53Z",
+      "duracao_s": 116,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=pSk_jiMerEA"
+     },
+     {
+      "id": "J_kK3iCzIv0",
+      "titulo": "PALMEIRAS X FLAMENGO! Quem acertar o golzinho com menos toques vence #palmeiras #flamengo #futebol",
+      "canal": "Mundo Di Fut",
+      "views": 145976,
+      "likes": 2439,
+      "comentarios": 64,
+      "publicado": "2026-10-05T23:04:43Z",
+      "duracao_s": 28,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=J_kK3iCzIv0"
+     },
+     {
+      "id": "6XqRjbzY5Pg",
+      "titulo": "NEYMAR VAI PAGAR AO FLAMENGO PARA CEBOLINHA JOGAR? EXCELENTE NOTÍCIA NO MENGÃO! DISPUTA ARTILHARIA! ",
+      "canal": "FLAZOEIRO",
+      "views": 131484,
+      "likes": 12857,
+      "comentarios": 198,
+      "publicado": "2026-10-06T21:03:31Z",
+      "duracao_s": 698,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=6XqRjbzY5Pg"
+     },
+     {
       "id": "hrDeSPYLtRI",
       "titulo": "LEILA NEGA CONFLITO DE INTERESSES COM VASCO; FLAMENGO NÃO BATE META DE VENDAS! | BATE-PRONTO",
       "canal": "Jovem Pan Esportes",
-      "views": 40101,
-      "likes": 2870,
-      "comentarios": 0,
-      "publicado": "2026-10-06T14:19:28Z",
-      "duracao_s": 0,
+      "views": 128296,
+      "likes": 3379,
+      "comentarios": 30,
+      "publicado": "2026-10-06T17:11:35Z",
+      "duracao_s": 7746,
       "live": true,
       "url": "https://www.youtube.com/watch?v=hrDeSPYLtRI"
+     },
+     {
+      "id": "4TZy7NzV3Jk",
+      "titulo": "Flávio Bolsonaro terá apoio de clubes brasileiros #brasileirão #flamengo #vasco #palmeiras #futebol",
+      "canal": "Klistube",
+      "views": 124241,
+      "likes": 7315,
+      "comentarios": 759,
+      "publicado": "2026-10-06T18:23:15Z",
+      "duracao_s": 81,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=4TZy7NzV3Jk"
+     },
+     {
+      "id": "kMq24uIIzBc",
+      "titulo": "O Pequeno Torcedor do Porto Mandou Bem ? 👀 #flamengo #futebol #shorts",
+      "canal": "Cortes do Fla",
+      "views": 115645,
+      "likes": 1962,
+      "comentarios": 358,
+      "publicado": "2026-10-05T19:01:59Z",
+      "duracao_s": 45,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=kMq24uIIzBc"
+     },
+     {
+      "id": "Q-6SRrD5eSk",
+      "titulo": "#flamengo #vasco #corinthians #mengao #mengo #palmeiras #eleições2026 #eleições #rubronegro #crf",
+      "canal": "Diego Freire",
+      "views": 112333,
+      "likes": 1117,
+      "comentarios": 36,
+      "publicado": "2026-10-05T19:36:17Z",
+      "duracao_s": 67,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Q-6SRrD5eSk"
+     },
+     {
+      "id": "ajXSBu4bFAI",
+      "titulo": "6 jogadores com salários altos que devem deixar o Flamengo #flamengo #noticiasdoflamengo",
+      "canal": "Nação Rubro-Negra ",
+      "views": 111871,
+      "likes": 3136,
+      "comentarios": 69,
+      "publicado": "2026-10-05T18:20:01Z",
+      "duracao_s": 91,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=ajXSBu4bFAI"
+     },
+     {
+      "id": "pGwAcwh2oOc",
+      "titulo": "Jornalista debocha do BAP e do Flamengo, não tem nada de grande, cadê a fila de patrocínio!",
+      "canal": "Vasco Noticias",
+      "views": 108505,
+      "likes": 4516,
+      "comentarios": 423,
+      "publicado": "2026-10-05T23:26:48Z",
+      "duracao_s": 107,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=pGwAcwh2oOc"
+     },
+     {
+      "id": "9HhJZAmUe20",
+      "titulo": "FLAMENGO RECUSOU A PROPOSTA DA ROMA",
+      "canal": "FALA SAYD",
+      "views": 104303,
+      "likes": 2968,
+      "comentarios": 76,
+      "publicado": "2026-10-06T05:59:06Z",
+      "duracao_s": 29,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=9HhJZAmUe20"
+     },
+     {
+      "id": "1LGKWyog6B0",
+      "titulo": "CONFIRMADA A INFORMAÇÃO DO @lucasjornal - O FLAMENGO É OUTROS CLUBES USARÃO NO LUGAR DAs BETs QUE O",
+      "canal": "Paparazzo Rubro-Negro",
+      "views": 103300,
+      "likes": 3296,
+      "comentarios": 201,
+      "publicado": "2026-10-06T23:27:50Z",
+      "duracao_s": 32,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=1LGKWyog6B0"
+     },
+     {
+      "id": "E5rFkMjzlig",
+      "titulo": "QUANDO O FUTEBOL VIRA VIDEOGAME #flamengo #edit #videogame #futebol #gols #bug #melhores #youtube",
+      "canal": "RMN FC",
+      "views": 97812,
+      "likes": 3302,
+      "comentarios": 33,
+      "publicado": "2026-10-05T21:43:40Z",
+      "duracao_s": 60,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=E5rFkMjzlig"
+     },
+     {
+      "id": "BX3dCt0zCzk",
+      "titulo": "240 MILHÕES! FLAMENGO VAI FAZER A MAIOR VENDA DA HISTÓRIA! MENGÃO ORGANIZA PROTESTO! 2 REFORÇOS E+",
+      "canal": "FLAZOEIRO",
+      "views": 81162,
+      "likes": 12853,
+      "comentarios": 593,
+      "publicado": "2026-10-07T11:28:47Z",
+      "duracao_s": 666,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=BX3dCt0zCzk"
      }
     ],
     "consulta": "Flamengo",
-    "n_videos": 25,
+    "n_videos": 24,
     "mais_de": true,
-    "views": 3246650,
+    "views": 3712337,
     "top": [
      {
-      "titulo": "Pode votar sem título? #flamengo #vasco #mengão #mengo #futebol",
-      "canal": "Klistube",
-      "views": 378650,
-      "url": "https://www.youtube.com/watch?v=tGQN-ynp0-g",
-      "publicado": "2026-10-04T18:32:25Z",
+      "titulo": "Entrevista com Jorginho, jogador do Flamengo | The Noite (05/10/26)",
+      "canal": "The Noite com Danilo Gentili",
+      "views": 272512,
+      "url": "https://www.youtube.com/watch?v=E9wzk7JdBGY",
+      "publicado": "2026-10-06T17:05:09Z",
       "do_canal": false
      },
      {
-      "titulo": "\"MEU DEUS DO CÉU! Gente, o FLAMENGO AGORA VAI...\" O SANTOS DÁ MEDO ao LÍDER DO BRASILEIRÃO?",
+      "titulo": "COLAPSO FINANCEIRO NO FLAMENGO??? \"Cara, ESSE DISCURSO É...\" MAURO CEZAR FALA A REAL | BETS e VENDAS",
       "canal": "Jovem Pan Esportes",
-      "views": 250515,
-      "url": "https://www.youtube.com/watch?v=PtjLgZELvLM",
-      "publicado": "2026-10-05T16:52:07Z",
+      "views": 251474,
+      "url": "https://www.youtube.com/watch?v=aFHUixZW3Ko",
+      "publicado": "2026-10-06T16:30:32Z",
       "do_canal": false
      },
      {
-      "titulo": "ARRASCAETA perde semifinal e FLAMENGO pode ser indenizado pela FIFA 😱",
-      "canal": "O Inspetor",
-      "views": 226641,
-      "url": "https://www.youtube.com/watch?v=Hz62n4AkKLM",
-      "publicado": "2026-10-04T22:11:40Z",
+      "titulo": "🫀LEILÃO SURDO #loucosporfutebol #futebol #futeboldaglobo #copadomundo #selecaobrasileira #flamengo",
+      "canal": "Thiago Bittar",
+      "views": 225244,
+      "url": "https://www.youtube.com/watch?v=HdRs4DLOTuw",
+      "publicado": "2026-10-05T18:18:47Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "Presença de Paulinho em Palmeiras x Bahia ainda é incerta",
-   "categoria": "Notícia do dia",
+   "tema": "Joanna De Assis: Astros brasileiros compram diploma falso de técnico com ex-Fla e Palmeiras",
+   "categoria": "Técnico",
    "clubes": [
-    "Palmeiras"
+    "Palmeiras",
+    "Flamengo"
    ],
    "foco": true,
-   "nota": 64.0,
+   "nota": 79.3,
    "sinais": {
-    "busca": 60,
-    "aceleracao": 58,
-    "midia": 67,
+    "busca": 75,
+    "aceleracao": 87,
+    "midia": 75,
     "aderencia": 100,
-    "youtube": 45
+    "youtube": 62
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "paulinho palmeiras",
+   "busca_torcedor": "flamengo x",
    "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 4,
-   "assinatura": "bahia|palme|pauli|ainda",
+   "n_fontes": 5,
+   "n_manchetes": 5,
+   "assinatura": "diplo|falso|palme|tecni",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Presença de Paulinho em Palmeiras x Bahia ainda é incerta. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
-    "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Presença de Paulinho em Palmeiras x Bahia ainda é incerta?",
-    "tecnica": "Aposta",
+    "formato": "Opinião forte (60 a 90 s)",
+    "gancho": "Astros brasileiros compram diploma falso de técnico com ex-Fla e Palmeiras. O técnico do Palmeiras está contra o relógio: cada jogo agora é uma prova.",
+    "titulo_thumb": "QUEM TEM RAZÃO?",
+    "pergunta_enquete": "Qual sua opinião: Joanna De Assis: Astros brasileiros compram diploma falso de técnico com ex-Fla e Palmeira?",
+    "tecnica": "Conflito",
     "ganchos": [
      {
-      "tecnica": "Aposta",
-      "texto": "Presença de Paulinho em Palmeiras x Bahia ainda é incerta. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "O torcedor está digitando “paulinho palmeiras” no Google agora. A resposta não é tão simples.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
       "tecnica": "Conflito",
-      "texto": "Presença de Paulinho em Palmeiras x Bahia ainda é incerta. Nem todo mundo no Palmeiras vai gostar disso, e eu vou explicar por quê.",
-      "thumb": "PALMEIRAS x BAHIA"
+      "texto": "Astros brasileiros compram diploma falso de técnico com ex-Fla e Palmeiras. O técnico do Palmeiras está contra o relógio: cada jogo agora é uma prova.",
+      "thumb": "QUEM TEM RAZÃO?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Presença de Paulinho em Palmeiras x Bahia ainda é incerta. A leitura óbvia é uma. A que importa é outra.",
+      "texto": "Astros brasileiros compram diploma falso de técnico com ex-Fla e Palmeiras. O técnico parece garantido no cargo. Os bastidores dizem outra coisa.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Presença de Paulinho em Palmeiras x Bahia ainda é incerta. E agora: o que muda para o Palmeiras?",
+      "texto": "Se o técnico do Palmeiras cair amanhã, quem você colocaria no lugar?",
       "thumb": "E AGORA, PALMEIRAS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Eu aposto que [SEU PALPITE] até a próxima rodada. Qual é a sua?",
+      "thumb": "MEU PALPITE"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Paulinho joga contra o Bahia? Veja como está a recuperação no Palmeiras",
+     "titulo": "Ex-jogador do Fla e Palmeiras é acusado de vender diplomas falsos de técnico a astros brasileiros, diz site",
      "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUnhBd1NTOEVIRVFEMU9PcjZWUHdBa3BnbGs0eFhWWG1obUpPWEQ3eG9PTnVKbVZIdllIenczcFVIbzZEMFloeVMwUVQteHNHQWxvTm5fRVV4cVREUXBraW9neUN5QW12WDdlWFI4OFY3Qm5jNzRVX1VpNmxrMk14cWFaWXViSTFuTzZDNHQtYTBqaVlLbnQ5TjFVRDU1WlBpSG4yTEtSMUNHTUtMYmtjOUNfTzNCdkdaclpkcXJmQktIdDhudF96d3lKb3dwRFlzVVkxS05TTkN3a0d2SjR1dWNCdndvbC1yT0ljYTVJSFVCdw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNcHZZNGFmWFVFX2Y0a01EYzhsbXNnWnhaNlRlUjV0VGZ5eUxjTmI2T054d3F6bUJycDJQZWxlbFVTSlItaWNnZFNqeFotd2Y1dUFOVkd0cDM4SW1iOFNXLWFsUkZVWFdrcUZZUlg4cGZIc2IwaEJobGZjbDdkSzIzbkM4ZENZOU5oLXZqb1RDSTFFZ1M2Qi01MG9sM0E3QThqVjFsQWNiNEtibnJtYTljTkJub1FpN0E4VUE1akhVTmxkZ3FXaWhBcnRMdUszWGc1NmZrTUZVdDhuREhGVGlDZW1NVjhmcUZhV3NiNXdvdlJTanUzd1hwZ2liMkZCS3dtUEZYbVJZMUhkY2xUZHYzX20zMHVNcnlwOFZ6ZjZIRQ?oc=5"
     },
     {
-     "titulo": "Adversário do Bahia, Palmeiras ainda tem quatro jogadores em amistosos nesta terça",
-     "fonte": "ecbahia.com",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGVnp1WjZGVHdUc2RUNHZWU1VUcFcxWmdsaTZSdEQtZnZlc0JhWWlFYVFaYWlHVWV4dkRxbWVnYVM0SjVQN3dMTFhOMlZLMEtLcjE2cXM0cGtVMkZSOThKM2FNdU9KbEsxV09Za3R4bktzSzg?oc=5"
+     "titulo": "Máfia das licenças: ex-Fla e Palmeiras vendia diplomas falsos de técnico para jogadores, revela site",
+     "fonte": "Revista PLACAR",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWnd2YWhPaHIzOG1kVXZsbGt1RzZ1U2tCRXJGNFlKbnN4dEpTeTRHOEdIVUo0TFRkaDAycUtjS2p1RHpQZ3dtVW1oeldaVnZtV25ydnU1aWhva01Rc0M0TDZtQXAzQTZNckRqbUpHM0FmVXA4UE1jeTRnWjAyckhWalZING9Tc3BVeGQ1VUxfNVB0QnI3ZWFNUU1FT1FjTmhnUngtSl9XcEJFRDA0azVITTFpVk8zajBuaWNVcnpOMzdQbTc1TnZzV2R1M0RTTDla?oc=5"
     },
     {
-     "titulo": "Presença de Paulinho em Palmeiras x Bahia ainda é incerta",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWFlsUmRoRFZZVGc0N0RmZDV5QjZsY2F6TXBSOFdJdXdwYkpRZTBGUFdsVGpSMzJTTWMxTGM2Q2xzNnBVNHRlUFdaa3hMc25lQjIxUVJyZlVzVnlmdzd4VWtNWHBWTmk5WUc1Uk9MbWp6cXBUQkE2ay1WRlNnOWI3eHJsNUxIUTVNZWdHZG9vR0VsblAzYnlLb0h1eEpnVk5Dajc0Yk00OXIxZVNfYUpRNF9vUHN3T1JJeExWSk0yV1RBNUNMZWVkX1BOblVyRHhmbzBz?oc=5"
+     "titulo": "Ex-volante de Flamengo e Palmeiras, Mancuso é citado em denúncia sobre diplomas falsos",
+     "fonte": "Jornal da Orla de Santos",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOendRVmtscTdJMkpQa18tdjByRFZoTEx4UXFmVkRtWjIxaXlFeVUxbmI0M19fNm9OTFF5emh2Q2JEYUxEd25nYTVFOC10dzNyaDkwNG1XYUYtNEMySG9Zby1yNTdBcWxvVUt1SmNrZWg4cFNoLV91ZTJ6UW53VFFmRnM3dHlRaUtxZENrYUhDRzdQMjlJNC1FeUgyT0FNMTVPVjNDb3M2OFhKRFpUZExRY0pCQkFMQjJmaUxxOHliSTc?oc=5"
     },
     {
-     "titulo": "Paulinho inicia transição física e Palmeiras aprimora conceitos táticos visando Bahia",
-     "fonte": "Palmeiras",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWTJuSHJ2R0x0a1dqR0dHZTNmZ0pvRWJURWZMeU0tYlc1bVE3ZEJuQ2wtc2tEdU1oQVBxZmJaSnZfRWo2MXVpTC0xTlhrcnBjcGFaM05zOFluZ3R0WnNfdlo3S19kVnA0ZWhiLXBUeWt3WlVYRHd0OUp2ZU9VM1FJNC1qc3FpQTVLdUltLTVaUHpjY1Iwa3Ita25tcEp2R3hzWG5jaE9BWVcyVzZUQ19URVdTSnBvbGhfbFd4TzdodGI4QQ?oc=5"
+     "titulo": "Joanna De Assis: Astros brasileiros compram diploma falso de técnico com ex-Fla e Palmeiras",
+     "fonte": "UOL",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNnJWTlFvX2dpYU1NRkhObmlJT05LdEVGeFdWTjFfVEhUcHBzTlNMY2JMRUNSWEdBT2lQcDVZcWdEMk9JYUlSNVZZM2pCdjJhVzJFamhMT0JFVlhzWTN4ZVozUG5vWXpwXzl5QS1WZmEyY0I2bzhGVU9DRDZTV1RoLXdZNmh4cnJhWHRWdVRMOTIwTEVJeTF6bE8ydjhTMWNDemV1eHVWZWw4cE9qYV9MTktvZ19HZUdjT0pwNHA5Y1cybGJkcEpFcS1UbGc0T2hPUjNBTm1MZWR6U1JI?oc=5"
+    },
+    {
+     "titulo": "Escândalo: Ex-Flamengo e Palmeiras vendeu diplomas falsos a estrelas do futebol",
+     "fonte": "tmc.com.br",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeHF3NUdMUFRIWi1aU3NEa1l3TnZTR3ZkWFRQN1R6ejVsRVhIUFhhM2Z3MnFzdWYwQkVIeHQtZVJWSW55bU5rYTVfQWcyNGQzWEM0WDZqbGMzVlNTbmY1Mzlrc0d6SzlpNVFTd1lEZlN3akpPTzQwSk90ZFE2eUxldkhfRGt3aExVdDN6anJReGtKUjlLWDMyc2VrLXpvVFB5YU5HOUtTN3J3UQ?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "wOUKGy6LY9Q",
-      "titulo": "O PAULINHO AINDA PODE SER DECISIVO, KIM?! #paulinho#futebol#esportes#palmeiras",
-      "canal": "Podporco",
-      "views": 704,
-      "likes": 54,
-      "comentarios": 0,
-      "publicado": "2026-10-05T20:39:50Z",
-      "duracao_s": 130,
+      "id": "NyL7xcgL05Q",
+      "titulo": "GOLPE DOS DIPLOMAS: MANCUSO, EX-FLAMENGO E PALMEIRAS, VENDE CERTIFICADO FALSO DE TÉCNICO A CRAQUES",
+      "canal": "UOL Esporte",
+      "views": 16154,
+      "likes": 208,
+      "comentarios": 32,
+      "publicado": "2026-10-07T11:35:57Z",
+      "duracao_s": 94,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=wOUKGy6LY9Q"
+      "url": "https://www.youtube.com/watch?v=NyL7xcgL05Q"
      },
      {
-      "id": "YMHYoQ3Zjbo",
-      "titulo": "Paulinho ainda é uma incógnita no Palmeiras  #palmeiras #verdão #paulinho #futebolbrasileiro",
-      "canal": "Rádio Zero9 ",
-      "views": 213,
-      "likes": 6,
-      "comentarios": 0,
-      "publicado": "2026-10-05T23:00:35Z",
-      "duracao_s": 62,
+      "id": "noSudgLMC8Y",
+      "titulo": "ASTROS BRASILEIROS COMPRAM DIPLOMA FALSO DE TÉCNICO COM EX-FLAMENGO E PALMEIRAS",
+      "canal": "UOL Esporte",
+      "views": 1745,
+      "likes": 61,
+      "comentarios": 1,
+      "publicado": "2026-10-07T12:52:29Z",
+      "duracao_s": 141,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=YMHYoQ3Zjbo"
+      "url": "https://www.youtube.com/watch?v=noSudgLMC8Y"
      }
     ],
-    "consulta": "Palmeiras Paulinho ainda Presença",
+    "consulta": "Palmeiras diploma falso",
     "n_videos": 2,
     "mais_de": false,
-    "views": 917,
+    "views": 17899,
     "top": [
      {
-      "titulo": "O PAULINHO AINDA PODE SER DECISIVO, KIM?! #paulinho#futebol#esportes#palmeiras",
-      "canal": "Podporco",
-      "views": 704,
-      "url": "https://www.youtube.com/watch?v=wOUKGy6LY9Q",
-      "publicado": "2026-10-05T20:39:50Z",
+      "titulo": "GOLPE DOS DIPLOMAS: MANCUSO, EX-FLAMENGO E PALMEIRAS, VENDE CERTIFICADO FALSO DE TÉCNICO A CRAQUES",
+      "canal": "UOL Esporte",
+      "views": 16154,
+      "url": "https://www.youtube.com/watch?v=NyL7xcgL05Q",
+      "publicado": "2026-10-07T11:35:57Z",
       "do_canal": false
      },
      {
-      "titulo": "Paulinho ainda é uma incógnita no Palmeiras  #palmeiras #verdão #paulinho #futebolbrasileiro",
-      "canal": "Rádio Zero9 ",
-      "views": 213,
-      "url": "https://www.youtube.com/watch?v=YMHYoQ3Zjbo",
-      "publicado": "2026-10-05T23:00:35Z",
+      "titulo": "ASTROS BRASILEIROS COMPRAM DIPLOMA FALSO DE TÉCNICO COM EX-FLAMENGO E PALMEIRAS",
+      "canal": "UOL Esporte",
+      "views": 1745,
+      "url": "https://www.youtube.com/watch?v=noSudgLMC8Y",
+      "publicado": "2026-10-07T12:52:29Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "Corinthians prepara retorno de Yuri Alberto e define limite de minutos contra o Internacional",
+   "tema": "Inter retoma parceria e terá patrocínio máster pontual contra Corinthians e Grêmio",
+   "categoria": "Finanças e gestão",
+   "clubes": [
+    "Corinthians",
+    "Grêmio"
+   ],
+   "foco": true,
+   "nota": 77.2,
+   "sinais": {
+    "busca": 65,
+    "aceleracao": 73,
+    "midia": 67,
+    "aderencia": 100,
+    "youtube": 87
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "internacional x grêmio",
+   "termos_trends": [],
+   "n_fontes": 4,
+   "n_manchetes": 5,
+   "assinatura": "patro|corin|novo|maste",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Explicador de bastidor (2 a 4 min)",
+    "gancho": "Inter retoma parceria e terá patrocínio máster pontual contra Corinthians e Grêmio. Parece só uma questão de dinheiro. Não é: isso chega no campo.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
+    "pergunta_enquete": "Qual sua opinião: Inter retoma parceria e terá patrocínio máster pontual contra Corinthians e Grêmio?",
+    "tecnica": "Contradição",
+    "ganchos": [
+     {
+      "tecnica": "Contradição",
+      "texto": "Inter retoma parceria e terá patrocínio máster pontual contra Corinthians e Grêmio. Parece só uma questão de dinheiro. Não é: isso chega no campo.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Inter retoma parceria e terá patrocínio máster pontual contra Corinthians e Grêmio. Dinheiro de um lado, time do outro: alguma coisa vai ter que ceder.",
+      "thumb": "CORINTHIANS x GRÊMIO"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Inter retoma parceria e terá patrocínio máster pontual contra Corinthians e Grêmio. Quem paga essa conta no fim: a diretoria ou o torcedor?",
+      "thumb": "E AGORA, CORINTHIANS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Inter retoma parceria e terá patrocínio máster pontual contra Corinthians e Grêmio. Minha aposta: [SEU PALPITE]. Volta aqui daqui a um mês e me cobra.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "103 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
+      "thumb": "TODO MUNDO VIU"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Corinthians acerta com novo patrocinador máster; veja",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcjE3MnM3TS1NYW9mN3MwcEF5OFdMOFF5ZVpqbENScy1TenFYSWlESHRsc1RSR0FYX2diTmNGMndSVVNpNWF4UkNZTHp0RzNUeFZFcWRsMnNkWjF5T1A4SWFmSFZQR0tkYkRyTy1sejdWcDV5RHNVT19ieXhQbzJXVFpwdkptZUZ2RFNVMVQxSUNibjJHd1BfMjByMHpEZC1KS3NBaHhKVmt5MHZQRlRuRTBNVW1DZGVYcnRwazZBVFB0VFowNWJDUGUwZ1pWNFFXWGNLd092clIyUkJ5?oc=5"
+    },
+    {
+     "titulo": "Corinthians muda escalação para encarar o Inter | Novo patrocínio?",
+     "fonte": "Meu Timão",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM3dlZUZmS0Q0cExMbVRWd2N3QjlBRzNvNzZ2cFlSelF2TzMxdExQNktmd2g5TzVFa1YybDRtRlN6ZmdHVlVHZExRY2RkSW1Gd1FGcldJN1p4Tll1TjRfTGFrcE1JYzdpM1Iwbk9aN2c3T1pPTW1VLWFhM253RXlSdUlPV2s3LW9sZ3dMZlMxM0E5M1FJV1g4Y1lFWENTZEtBdVhKZkZoTjZhMXFjekVuZ3N0NXU3VG5OUmFtTw?oc=5"
+    },
+    {
+     "titulo": "Após proibição das bets, Inter define nova patrocinadora máster para jogos contra Corinthians e Grêmio",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYVo1S3puYV95UnJPSHpDVHBoS2FfOUh4czJsRkgya1MxTXVaa3dKVm9XTmUxdG5ncm9hQnVTZ2ZZMkRkb2dJc3lIMmU2WlFGSDVEbml2WEFrdGd3aElmeVE0V1BvVS16Q2dLaXdBYUpBSDU4UkJBQ2JfenJjRjhNak40LXdCSnNRZ3FoT09pby1aU1BlMzhydVlORW93REs5ckpqdG9XM2pIa1hoWmdYQmQyalpBcFlPbVFqSlNGbXdzaXJka2pXd3Q5c1VGVlVfYU1oM1Z0QmtjemJEcUcwMkVsN3RIOXZjd0HSAe8BQVVfeXFMTzVNWVV3cHBzSXJiNEZHUTJJYlFwbV9nTTQ1T0NtT1d1X1VhTl9IaDlWcDVCaHlLeVU5OWw4QkdWcVVPNlIwcTFad3NFRm5ROHp5d0hqZTBDS1ExYkFPOVotV0Q2UWxpTnZMUXFIeUxQNFVQM2JUNTk4X2JFdWlQcnNPRUwzdjRRQ3BYUFdhUjUyTkFPSDQtaldNWFgyOG5QODMwaXpFd3lMbUctMkVDdjVtYXdtUk1VcVd4MXp0NUFMVktpQk9YZlpTLTZJSVg0R3k5cTU0eGFMenBTV3R4eHFBZ2d1Z3l2bnNYQWRiLW8?oc=5"
+    },
+    {
+     "titulo": "Corinthians encaminha novo patrocínio para duelo no Beira-Rio",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR1I0cm00T2pEQnpkTUNWZTFINVlnTHJrZS1SX0Y1Vi14SERvSWpUQl9QVGZVYVFCVFItUGVVZDRVRXZRaUt5dWpMMmYwbmZJcURSZ24weVNHOWlQdHFNUmhsX1FWcWlxZUthZVhobUFfLVQ4N3JXNG1fLWRnMjc4bEhCTlZKX1dUd3l4M1Y3MmFreDdBTHFvMlpvSnRtamdfem1aelR3NG1hSkNtUGk2ZEZfNm5IenZ5QUF2OXp0YVNrbGQtUDVmTHJpSGhyN3VUeklGeFJ2dmxnRkJTT19nSW02MmRRajBD?oc=5"
+    },
+    {
+     "titulo": "Inter retoma parceria e terá patrocínio máster pontual contra Corinthians e Grêmio",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOY05yaUljTm5oQ011TkxRdGtZbk5iS1NFUmV4SG9LNFFyMHRkWEU4VnBiVXk1T01sbUxKc1FFay1tVmZ1dFZlSW1fSFlKTXd2TlI4YmlYTmZEdUt6U050dDMyUWdlUTFhbTZRY1drSDEyY1oxZGdDdy0zNFNGVDRTS1pQbFNxdGp2NG5leFBlYUFGRXBZZzZKYWxSM1hpS0d6UEdFam1Qa3Y1bzl4RHB4a1h5OVpVLWtXNTRhM1lIdUhGWU9QWFNzeHcxeUhWVmZOOHczOUtmd3BHUTlWbFhRRmR6N0E1Zm43VVVJYjhkNnrSAf8BQVVfeXFMTnAzOHNqZU5nOWZVOXhXTlYxT0JGeTRWYW9SOUJ3THhibF9EUGpiZFNENjhYQ0Rtem01WjZhOFFEeUFBeUdoZTFFeGxsRDZOWUtVOHVyWjg3NmUwNzVXcHNsalU3R0FTeXlaWmJPYUMzcHFvVFRadENYTDNkUVBDSmZVZXFEZXJmSC1DSzVKUjRzckpXSzI0QUdnakVQNzlRdlZRcDA0YTNLR2tza2RYRldmZDlibFJuRC1iZ0VOR0tab0xMWXlTdjVqd1B3NG45cmxYWWZnU080ZFN0aWVxVk04bElLcHZ2WHhZZ2hLN0xyZGJuRV93NkFPbmJvTjNn?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "hhYnSBQ8lnY",
+      "titulo": "SP: NOVO MÁSTER? PEDRO SEM CLIMA| TIMÃO: 5º FAVORITO PRA CAIR| JORGINHO NO VERDÃO? GALO, NEY, MESSI+",
+      "canal": "Canal do Nicola",
+      "views": 18165,
+      "likes": 2368,
+      "comentarios": 101,
+      "publicado": "2026-10-07T13:15:37Z",
+      "duracao_s": 834,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=hhYnSBQ8lnY"
+     },
+     {
+      "id": "pITt4hM--qc",
+      "titulo": "MEMPHIS INCOMODADO no TIMÃO! MÁSTER VOLTANDO ao CORINTHIANS? DINIZ NÃO ESCONDEU da FIEL! PATROCINIO",
+      "canal": "Timão Mania",
+      "views": 14328,
+      "likes": 884,
+      "comentarios": 22,
+      "publicado": "2026-10-05T21:31:01Z",
+      "duracao_s": 526,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=pITt4hM--qc"
+     },
+     {
+      "id": "pFIDNdBQ6ZM",
+      "titulo": "NOVO MÁSTER DO CORINTHIANS! R$ 630 MILHÕES da CAIXA pela ARENA! MEMPHIS e YURI ALBERTO TITULARES",
+      "canal": "Timão Mania",
+      "views": 12551,
+      "likes": 878,
+      "comentarios": 36,
+      "publicado": "2026-10-06T21:30:06Z",
+      "duracao_s": 517,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=pFIDNdBQ6ZM"
+     },
+     {
+      "id": "r9YkqQLAy1Q",
+      "titulo": "CORINTHIANS TERÁ NOVO PATROCÍNIO MASTER CONTRA O INTERNACIONAL! SAMIR DETALHA",
+      "canal": "UOL Esporte",
+      "views": 11425,
+      "likes": 118,
+      "comentarios": 23,
+      "publicado": "2026-10-06T19:02:54Z",
+      "duracao_s": 665,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=r9YkqQLAy1Q"
+     },
+     {
+      "id": "OmVScUy-hbs",
+      "titulo": "MEGA PATROCÍNIO MASTER!! STÁBILE SOLTA BOMBA | ESTRÉIA CONTRA O INTER E MAIS....",
+      "canal": "Fiel Torcida!",
+      "views": 9332,
+      "likes": 141,
+      "comentarios": 0,
+      "publicado": "2026-10-07T00:55:30Z",
+      "duracao_s": 0,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=OmVScUy-hbs"
+     },
+     {
+      "id": "zxGfznXS2bs",
+      "titulo": "O NOVO PATROCINADOR MASTER DO CORINTHIANS! #corinthians #Master #patrocinio #timão",
+      "canal": "Fala, Futebol! ",
+      "views": 8871,
+      "likes": 315,
+      "comentarios": 3,
+      "publicado": "2026-10-06T18:01:09Z",
+      "duracao_s": 69,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=zxGfznXS2bs"
+     },
+     {
+      "id": "qk66HGrMt_U",
+      "titulo": "HOJE TEM INTER X CORINTHIANS: TIMÃO PRECISA REAGIR E YURI ALBERTO ESTÁ DE VOLTA",
+      "canal": "PodcasTIMÃO",
+      "views": 5214,
+      "likes": 365,
+      "comentarios": 2,
+      "publicado": "2026-10-07T12:53:02Z",
+      "duracao_s": 3385,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=qk66HGrMt_U"
+     },
+     {
+      "id": "FryTQz1pN78",
+      "titulo": "🚨🚨🚨NOVO PATROCINADOR MÁSTER DO CORINTHIANS🚨🚨🚨",
+      "canal": "Noticias do Corinthians",
+      "views": 3524,
+      "likes": 113,
+      "comentarios": 1,
+      "publicado": "2026-10-06T15:53:11Z",
+      "duracao_s": 156,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=FryTQz1pN78"
+     },
+     {
+      "id": "NGPLv6bCZZ0",
+      "titulo": "NOVO PATROCINADOR MÁSTER DO CORINTHIANS! ACORDO ENTRE CORINTHIANS E CAIXA BEM ENCAMINHADO! ",
+      "canal": "CORINTHIANS INFORMATIVO",
+      "views": 2778,
+      "likes": 86,
+      "comentarios": 3,
+      "publicado": "2026-10-06T16:21:44Z",
+      "duracao_s": 1125,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=NGPLv6bCZZ0"
+     },
+     {
+      "id": "92HI3-B2Elg",
+      "titulo": "MUDANÇAS NO ELENCO | PERITO FOI AO MP | ÚLTIMO DIA DE PATROCÍNIO MÁSTER",
+      "canal": "Corinthiano Informa",
+      "views": 2319,
+      "likes": 56,
+      "comentarios": 0,
+      "publicado": "2026-10-06T06:51:21Z",
+      "duracao_s": 3991,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=92HI3-B2Elg"
+     },
+     {
+      "id": "PTicXZiYuDc",
+      "titulo": "\"R$ 1,2 MILHÃO POR UM JOGO?!\": O novo patrocinador master do Corinthians! #corinthians",
+      "canal": "Corinthians Fut Gols",
+      "views": 2215,
+      "likes": 76,
+      "comentarios": 0,
+      "publicado": "2026-10-07T09:45:08Z",
+      "duracao_s": 57,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=PTicXZiYuDc"
+     },
+     {
+      "id": "yz8lrGOKe6g",
+      "titulo": "CAIXA AVANÇA! CORINTHIANS IGNORA MP E PERITO? NOVO MASTER E 4 REFORÇOS!",
+      "canal": "Pokazideia Alvinegro",
+      "views": 2132,
+      "likes": 133,
+      "comentarios": 1,
+      "publicado": "2026-10-07T12:00:55Z",
+      "duracao_s": 5439,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=yz8lrGOKe6g"
+     },
+     {
+      "id": "RK1w1iufTcs",
+      "titulo": "CORINTHIANS TERÁ NOVO PATROCÍNIO MASTER CONTRA O INTERNACIONAL! SAMIR DETALHA",
+      "canal": "UOL Esporte",
+      "views": 1637,
+      "likes": 34,
+      "comentarios": 1,
+      "publicado": "2026-10-06T20:26:55Z",
+      "duracao_s": 42,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=RK1w1iufTcs"
+     },
+     {
+      "id": "sJprl54TPRM",
+      "titulo": "PATROCINADOR MASTER PONTUAL CHEGANDO? | CAIXA E CORINTHIANS AVANÇAM POR QUITAÇÃO | YURI VOLTOU!",
+      "canal": "TV Central do Timão",
+      "views": 1630,
+      "likes": 59,
+      "comentarios": 0,
+      "publicado": "2026-10-07T16:20:47Z",
+      "duracao_s": 3015,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=sJprl54TPRM"
+     },
+     {
+      "id": "EAbuR57g8PA",
+      "titulo": "O TIME DO DINIZ | AGORA VAI COM A CAIXA? | NOVO PATROCINADOR MÁSTER",
+      "canal": "Corinthiano Informa",
+      "views": 1521,
+      "likes": 54,
+      "comentarios": 3,
+      "publicado": "2026-10-07T06:00:13Z",
+      "duracao_s": 1378,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=EAbuR57g8PA"
+     },
+     {
+      "id": "gpzIHsl69oM",
+      "titulo": "Olha o novo patrocinador master do Corinthians #shorts #futebol #viralvideo",
+      "canal": "Fute27",
+      "views": 1515,
+      "likes": 40,
+      "comentarios": 0,
+      "publicado": "2026-10-06T20:29:02Z",
+      "duracao_s": 69,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=gpzIHsl69oM"
+     },
+     {
+      "id": "HmHQgLSK02k",
+      "titulo": "#CORINTHIANS SEM PATROCÍNIO MASTER #FIIEL",
+      "canal": "CORINTHIANO ",
+      "views": 1335,
+      "likes": 4,
+      "comentarios": 0,
+      "publicado": "2026-10-06T01:27:44Z",
+      "duracao_s": 181,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=HmHQgLSK02k"
+     },
+     {
+      "id": "udgdzOY6TTE",
+      "titulo": "CORINTHIANS TEM NOVO PATROCÍNIO MÁSTER PARA O JOGO CONTRA O INTERNACIONAL",
+      "canal": "Corinthiano Informa",
+      "views": 1096,
+      "likes": 71,
+      "comentarios": 1,
+      "publicado": "2026-10-06T21:42:33Z",
+      "duracao_s": 690,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=udgdzOY6TTE"
+     },
+     {
+      "id": "v4KZfN0tJ3A",
+      "titulo": "​CORINTHIANS FECHA NOVO PATROCÍNIO MÁSTER COM EMPRESA DE IA! 💰👕 #futebol #shorts",
+      "canal": "Corneta Corinthiana",
+      "views": 684,
+      "likes": 9,
+      "comentarios": 0,
+      "publicado": "2026-10-07T12:45:18Z",
+      "duracao_s": 57,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=v4KZfN0tJ3A"
+     },
+     {
+      "id": "W5J5rBQVUbg",
+      "titulo": "O Corinthians tem um novo patrocinador master! #shorts #viral #futbol",
+      "canal": "Sem Noção FC",
+      "views": 271,
+      "likes": 2,
+      "comentarios": 0,
+      "publicado": "2026-10-06T22:31:33Z",
+      "duracao_s": 27,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=W5J5rBQVUbg"
+     },
+     {
+      "id": "6ggILWfkvfI",
+      "titulo": "Jota.ai será patrocinadora máster do Corinthians contra o Inter?",
+      "canal": "Timão em 60 Segundos",
+      "views": 177,
+      "likes": 2,
+      "comentarios": 0,
+      "publicado": "2026-10-06T18:17:33Z",
+      "duracao_s": 38,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=6ggILWfkvfI"
+     },
+     {
+      "id": "DuqK93MUiMk",
+      "titulo": "CORINTHIANS sem patrocínio Master : Em CRISE",
+      "canal": "CORINTHIANS TOTAL",
+      "views": 88,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-10-06T15:00:36Z",
+      "duracao_s": 73,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=DuqK93MUiMk"
+     },
+     {
+      "id": "-Muo2Stxojc",
+      "titulo": "URGENTE: CORINTHIANS É OBRIGADO A RETIRAR PATROCINADOR MÁSTER HOJE!",
+      "canal": "Voz da Fiel Torcida 1910",
+      "views": 38,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-05T20:49:37Z",
+      "duracao_s": 187,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=-Muo2Stxojc"
+     }
+    ],
+    "consulta": "Corinthians patrocínio máster",
+    "n_videos": 23,
+    "mais_de": true,
+    "views": 102846,
+    "top": [
+     {
+      "titulo": "SP: NOVO MÁSTER? PEDRO SEM CLIMA| TIMÃO: 5º FAVORITO PRA CAIR| JORGINHO NO VERDÃO? GALO, NEY, MESSI+",
+      "canal": "Canal do Nicola",
+      "views": 18165,
+      "url": "https://www.youtube.com/watch?v=hhYnSBQ8lnY",
+      "publicado": "2026-10-07T13:15:37Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "MEMPHIS INCOMODADO no TIMÃO! MÁSTER VOLTANDO ao CORINTHIANS? DINIZ NÃO ESCONDEU da FIEL! PATROCINIO",
+      "canal": "Timão Mania",
+      "views": 14328,
+      "url": "https://www.youtube.com/watch?v=pITt4hM--qc",
+      "publicado": "2026-10-05T21:31:01Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "NOVO MÁSTER DO CORINTHIANS! R$ 630 MILHÕES da CAIXA pela ARENA! MEMPHIS e YURI ALBERTO TITULARES",
+      "canal": "Timão Mania",
+      "views": 12551,
+      "url": "https://www.youtube.com/watch?v=pFIDNdBQ6ZM",
+      "publicado": "2026-10-06T21:30:06Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Filipe Luis relembra conflito com Pedro no Flamengo: 'Complicado'",
+   "categoria": "Técnico",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 72.8,
+   "sinais": {
+    "busca": 70,
+    "aceleracao": 77,
+    "midia": 67,
+    "aderencia": 100,
+    "youtube": 54
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "filipe luís",
+   "termos_trends": [],
+   "n_fontes": 4,
+   "n_manchetes": 4,
+   "assinatura": "filip|flame|luis|pedro",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Opinião forte (60 a 90 s)",
+    "gancho": "Quanto tempo o técnico ainda tem no Flamengo?",
+    "titulo_thumb": "E AGORA, FLAMENGO?",
+    "pergunta_enquete": "Qual sua opinião: Filipe Luis relembra conflito com Pedro no Flamengo: 'Complicado'?",
+    "tecnica": "Pergunta aberta",
+    "ganchos": [
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Quanto tempo o técnico ainda tem no Flamengo?",
+      "thumb": "E AGORA, FLAMENGO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Todo mundo culpa o técnico. Eu acho que o problema do Flamengo está em outro lugar.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Minha aposta: essa história do técnico do Flamengo termina [SEU PALPITE]. Volta aqui e me cobra.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "O torcedor está digitando “filipe luís” no Google agora. A resposta não é tão simples.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Diretoria de um lado, elenco do outro, e no meio um técnico que precisa de resultado já.",
+      "thumb": "QUEM TEM RAZÃO?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Filipe Luís é sincero ao falar sobre Pedro, do Flamengo",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNckJfbVgxNU96M0hlQ2lhRm04T0dZaHBaRm5nai16c18yeWFPVFBENnJjYU5tU0J4QW9iZVVPUUhMN0xKbDIzSExrRUI1M3I2dC1QWTEtU3VpYm9tUFM5RWdnLWdUbWJIMkFwRUI3WF95TFdEMWs2RVpRSl82cDFrQzFZa290ZTJ0RVpxZ1FEZzZsZTRKZ0xFUWV4djBmUUg0UDUwMVV0SV9WV1N3Z0xxMXM1My1jOVBTYkhYQmZVRUR6a3FlV21MYjFZLXFjYUFvdmNuTzhHalR5cTg?oc=5"
+    },
+    {
+     "titulo": "Filipe Luis relembra conflito com Pedro no Flamengo: 'Complicado'",
+     "fonte": "O Dia",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakotYm9YYkxpZVhuN0lVREZ4RVJ5X2VSY09WUUpvTGRxeEJnalE2TXlwSFZtTnExM3hoeWZoc2pFTElfelEzcjU3VWVtb2hIRVF5RnBRZGJGUUpoTDFxdjlHVEx2d3RHY19ldDJsYnNIUElKYXAzRExITjRJRlozUDEwWW9CeWw1SGlBVnk0X0pCWU0tVWxMbTJYRU40MWx1cFJiTk1sdXBGSEtJbHJFX083UU3SAboBQVVfeXFMTkdvRnRfdGVLaWNXd3ppaHRkTjhHMWlVRFJXRFRxZ2swT2NUOER2RkwxenN3ZEN5cU5MWk16UF8xSzhxQUJlNXc1Nkh3Q2k5eDJESDM4cUNwWVBOVjBURTJjVGJnaEtaTWxNa2dValZZUUZpTzY1YjR6NS13ZjFZczg1N2s4VTRiNklQZmdndUhIZnRWRGFWWi10WTNPdWFJSVQzLVEtcVAwWGpzU2ZXNldBQjgwdU93aDVB?oc=5"
+    },
+    {
+     "titulo": "FILIPE LUÍS RELEMBRA SITUAÇÃO COM PEDRO NO FLAMENGO E DIZ NÃO SE ARREPENDER DA DECISÃO!",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDZjhZcWFRdUF6TFZCVUltNS1wOUxqZXFNVkE1dENFVVFVMTQ3eEJ2U2Rfa0hRY3BFbUpQeEt1QlRaaHNveVl1ZTJWTXppU1hwSnc?oc=5"
+    },
+    {
+     "titulo": "Ex-treinador do Flamengo, Filipe Luís revela vício inusitado",
+     "fonte": "A TARDE",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVVZLMjF4NEhYcUJ5S0d0aE1Uc0Q3RVZLd09ONWpnMzc0SGNiT191MGl6X2MwV21WWkRwVXhkUGxPTjJ6VDVLRXdUME8wZkFkYnYyd0hiSkdlejZ0c04zcjl5WHZGNUs4X21lVUJvNVBoalFvcUhtdERVRUNFb3duVU5CT2xUWi1qVnpxdm1TR1NUTjYzTjZUb1dWNEZBa3FLZm02UFl4UjRhQdIBsgFBVV95cUxPU2hmYl81QXRFWUlMc1hONzlwLW9kRGFQdWE2QktyUmZydkI1MlVPX3M3dkFLTzlJZ2cyazNXQ3dNRE1LTHpMaG1EdndYMlR0MkZCWGJSc3NEWlkyRnY1OHFKX2dMdlhXM3Q1U2FkRTFnTFBpNFRLSGJvZkhNeXo3Slg3bWd4RmstRFJ1aExfM3czWEZqNFZ2MzVGQWJGMzRtVW1wVElpbHFLam1iOERYWGZ3?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "PXnxIduacno",
+      "titulo": "Filipe Luís relembra briga com Pedro no Flamengo: “Ninguém é mais importante do que a equipe”",
+      "canal": "Flamengo Agora",
+      "views": 833,
+      "likes": 20,
+      "comentarios": 0,
+      "publicado": "2026-10-07T11:55:14Z",
+      "duracao_s": 34,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=PXnxIduacno"
+     },
+     {
+      "id": "jb1ny41F5FQ",
+      "titulo": "FILIPE LUÍS RELEMBRA SITUAÇÃO COM PEDRO NO FLAMENGO E DIZ NÃO SE ARREPENDER DA DECISÃO!",
+      "canal": "Paparazzo Rubro-Negro",
+      "views": 778,
+      "likes": 38,
+      "comentarios": 2,
+      "publicado": "2026-10-07T15:04:43Z",
+      "duracao_s": 175,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=jb1ny41F5FQ"
+     },
+     {
+      "id": "8VF4qrJDc1Y",
+      "titulo": "TUDO DESMENTIDO! FILIPE LUÍS ABRE O JOGO SOBRE SITUAÇÃO COM PEDRO! APURAÇÃO COMPLETA!",
+      "canal": "Paparazzo Rubro-Negro II",
+      "views": 457,
+      "likes": 135,
+      "comentarios": 4,
+      "publicado": "2026-10-07T16:08:11Z",
+      "duracao_s": 662,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=8VF4qrJDc1Y"
+     },
+     {
+      "id": "DPiw0Ts2bRM",
+      "titulo": "Filipe Luís abre o jogo, Jorginho alfineta Palmeiras e Mengão muda de uniforme!",
+      "canal": "Flamengo Agora",
+      "views": 6,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-07T11:55:44Z",
+      "duracao_s": 187,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=DPiw0Ts2bRM"
+     }
+    ],
+    "consulta": "Flamengo Filipe Luis Pedro",
+    "n_videos": 4,
+    "mais_de": false,
+    "views": 2074,
+    "top": [
+     {
+      "titulo": "Filipe Luís relembra briga com Pedro no Flamengo: “Ninguém é mais importante do que a equipe”",
+      "canal": "Flamengo Agora",
+      "views": 833,
+      "url": "https://www.youtube.com/watch?v=PXnxIduacno",
+      "publicado": "2026-10-07T11:55:14Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "FILIPE LUÍS RELEMBRA SITUAÇÃO COM PEDRO NO FLAMENGO E DIZ NÃO SE ARREPENDER DA DECISÃO!",
+      "canal": "Paparazzo Rubro-Negro",
+      "views": 778,
+      "url": "https://www.youtube.com/watch?v=jb1ny41F5FQ",
+      "publicado": "2026-10-07T15:04:43Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "TUDO DESMENTIDO! FILIPE LUÍS ABRE O JOGO SOBRE SITUAÇÃO COM PEDRO! APURAÇÃO COMPLETA!",
+      "canal": "Paparazzo Rubro-Negro II",
+      "views": 457,
+      "url": "https://www.youtube.com/watch?v=8VF4qrJDc1Y",
+      "publicado": "2026-10-07T16:08:11Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Ex-Flamengo vendia diploma falso de técnico a astros do futebol brasileiro",
+   "categoria": "Técnico",
+   "clubes": [
+    "Flamengo",
+    "Palmeiras"
+   ],
+   "foco": true,
+   "nota": 70.2,
+   "sinais": {
+    "busca": 70,
+    "aceleracao": 73,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": 53
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "ex flamengo no palmeiras",
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "vendi|ex-fl|futeb|tecni",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Opinião forte (60 a 90 s)",
+    "gancho": "Ex-Flamengo vendia diploma falso de técnico a astros do futebol brasileiro. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+    "titulo_thumb": "MEU PALPITE",
+    "pergunta_enquete": "Qual sua opinião: Ex-Flamengo vendia diploma falso de técnico a astros do futebol brasileiro?",
+    "tecnica": "Aposta",
+    "ganchos": [
+     {
+      "tecnica": "Aposta",
+      "texto": "Ex-Flamengo vendia diploma falso de técnico a astros do futebol brasileiro. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Ex-Flamengo vendia diploma falso de técnico a astros do futebol brasileiro. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
+      "thumb": "E AGORA, FLAMENGO?"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Ex-Flamengo vendia diploma falso de técnico a astros do futebol brasileiro. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Ex-Flamengo vendia diploma falso de técnico a astros do futebol brasileiro. Parece notícia pequena. Não é.",
+      "thumb": "NÃO É BEM ASSIM"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Ex-Flamengo e auxiliar de Maradona vendia diploma falsificado de técnico a jogadores do futebol brasileiro",
+     "fonte": "VEJA",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX3J2Y1hmWUl6RDVuN2JPYzR0TVNuMndIdmctZE53Z2dQbnNqclAzb3ltRDB5cHQ2WGJ3Wlg4Z0dKTUUyWWp6cWd2SXB5Ujl5VVJZSjVaLVI0aEl5NWJUQlo0aW9xY21pam1OQlZjNW9ja0R2ZzJuOUxpTHFjWGlpblAtWXVTbFpPUUUtZlNENktzbWd5QWdnLXB3X2twV09QVDl0Nk9nUW9sYlI1S0phN0wtbDE0cGExd1dGQ2FRUXRYUHBJZDdlRUxSLUI0SHlkeUFObWk0c0g?oc=5"
+    },
+    {
+     "titulo": "Ex-Flamengo e Palmeiras vendia licenças falsas a astros do futebol",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0FPaVZjMGkxQmgwdUJvOEhwNzU2M2JXRTVYV2NhVTVJZzY0RnFpY2VoelZRcUlsbE1KYTg3OVRnRkdqMGc4LW4xWkJBUExBSzRtc0p5bWRoTlBNb3JmSXE5Vm5JS0FBcUowMVJXcEt1a0hTOGNnNVpCZFBuT1p5a0NlS2ZsQ2NiMEZrTW9kdGZCbm5RZ0UwT3ctVndIWHczajVvWFA3b2VxRGR1U0RJ?oc=5"
+    },
+    {
+     "titulo": "Ex-Flamengo vendia diploma falso de técnico a astros do futebol brasileiro",
+     "fonte": "Metrópoles",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVlZSV1BHMXB3QjZseFV4cml5ZFdfOVBnbEpxQk45LS1JeVIwYkRZU0RHa1lDWmRpZGE1SHpyeHVCV0MtNXhaLUZYS3dWMU8yRW5PdXhyMEVzSHJPaUV2NVJoV2hEVW1fUklaLXJfZEVhNEtFa2JoOW4tT3VzcFFDZjR1M2RYYlgydjFmLWk5RmZ3alRHU3FaY3pGVmFMT1lsRW9ZWDhKanZTSlU3TEFn?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "p_N4jUJ622M",
+      "titulo": "😱PALMEIRENSES DESESPERADOS com o FLAMENGO! MAIOR VENDA DA HISTÓRIA! - 240 MILHÕES por SAMUEL LINO ",
+      "canal": "NAÇÃO FLA REACT",
+      "views": 2960,
+      "likes": 184,
+      "comentarios": 11,
+      "publicado": "2026-10-07T14:01:04Z",
+      "duracao_s": 1103,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=p_N4jUJ622M"
+     },
+     {
+      "id": "_liQtaLgj_s",
+      "titulo": "Flamengo vai fazer maior venda da história #flamengo #futebol #mengo",
+      "canal": "Fla News2019",
+      "views": 552,
+      "likes": 36,
+      "comentarios": 2,
+      "publicado": "2026-10-07T14:30:47Z",
+      "duracao_s": 120,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=_liQtaLgj_s"
+     }
+    ],
+    "consulta": "Flamengo futebol vendia",
+    "n_videos": 2,
+    "mais_de": false,
+    "views": 3512,
+    "top": [
+     {
+      "titulo": "😱PALMEIRENSES DESESPERADOS com o FLAMENGO! MAIOR VENDA DA HISTÓRIA! - 240 MILHÕES por SAMUEL LINO ",
+      "canal": "NAÇÃO FLA REACT",
+      "views": 2960,
+      "url": "https://www.youtube.com/watch?v=p_N4jUJ622M",
+      "publicado": "2026-10-07T14:01:04Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Flamengo vai fazer maior venda da história #flamengo #futebol #mengo",
+      "canal": "Fla News2019",
+      "views": 552,
+      "url": "https://www.youtube.com/watch?v=_liQtaLgj_s",
+      "publicado": "2026-10-07T14:30:47Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Internacional x Corinthians no Brasileirão: onde assistir, horário e escalações",
+   "categoria": "Arbitragem e VAR",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 67.5,
+   "sinais": {
+    "busca": 65,
+    "aceleracao": 66,
+    "midia": 100,
+    "aderencia": 100,
+    "youtube": 80
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "internacional x grêmio",
+   "termos_trends": [],
+   "n_fontes": 26,
+   "n_manchetes": 36,
+   "assinatura": "corin|inter|brasi|assis",
+   "ja_coberto": {
+    "titulo": "INTERNACIONAL  X  CORINTHIANS  - 29ª RODADA",
+    "url": "https://www.youtube.com/watch?v=CH9iLpalAn0"
+   },
+   "sugestao": {
+    "formato": "Corte de debate (30 a 60 s)",
+    "gancho": "Onde vai passar Internacional x Corinthians pelo Brasileirão? Como assistir ao vivo. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
+    "titulo_thumb": "MEU PALPITE",
+    "pergunta_enquete": "Qual sua opinião: Internacional x Corinthians no Brasileirão: onde assistir, horário e escalações?",
+    "tecnica": "Aposta",
+    "ganchos": [
+     {
+      "tecnica": "Aposta",
+      "texto": "Onde vai passar Internacional x Corinthians pelo Brasileirão? Como assistir ao vivo. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "43 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
+      "thumb": "TODO MUNDO VIU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Onde vai passar Internacional x Corinthians pelo Brasileirão? Como assistir ao vivo. Nem todo mundo no Corinthians vai gostar disso, e eu vou explicar por quê.",
+      "thumb": "CORINTHIANS x INTERNACIONAL"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Onde vai passar Internacional x Corinthians pelo Brasileirão? Como assistir ao vivo. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Onde vai passar Internacional x Corinthians pelo Brasileirão? Como assistir ao vivo. Isso é bom ou ruim para o Corinthians? Responde antes de ver a minha análise.",
+      "thumb": "E AGORA, CORINTHIANS?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Internacional x Corinthians: ao vivo e com imagens do estádio | Brasileirão 2026 | 29ª rodada",
+     "fonte": "Meu Timão",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU3U5c2ltT3NRWVBPZ0hBWTRfM1RPbjZXZkFPSzFWODdHcmgyR0s3X0djX0xXcTRGQXc0VU8tWVpNYlBqUnNtRWhiVDBuNTlRS3BmaVNCTURNbF9mNE5oZUtyRmFuN0Q4X0tMV0poVS1ZdkUtZVpDbXVFMkY1STJSbXBKal9qZmJqZHBOV0dndXMtcVRzX1Y0WXhtX0tUY1hGcHotR2JHcF8wOVVQVVN6RzdpU0xkSjRpWXA3UDNEZWVPc3NxVGc5YmRPcF9oTHNFM3hQTE80R2ZnMlk4?oc=5"
+    },
+    {
+     "titulo": "Cruzeiro x São Paulo: onde assistir, horário e escalações pelo Brasileirão",
+     "fonte": "Arquibancada Tricolor",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemlKYTJSenhTNk94SXJtaFVpQ0J1X2FCbmVWcGpXYWo0aXZ1b25Db09tbkNoM2ktY3Z3dFFiVmtHaS1BNWhKTTYwaFl3MU9uX01LNHpaTVR3TGhBVWJDbk9lOWZ5OVFtM3BzMDZfOTRCRUM0ZGM3Y0RPVXVXQmNuNk9fUXN0RDlEWVlSa1lEcjRxenYxTHJ4SzlB?oc=5"
+    },
+    {
+     "titulo": "Brasileirão: Internacional x Corinthians terá transmissão ao vivo na NDTV RECORD",
+     "fonte": "ND Mais",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYVhhbFpnUGRhX3NZVDZ6c3paT2FEMU5HSnV6VkRCM0UzTVlHVGtJcFpTSU9aamprOFJwWWF1cmRFQXFBNGlyWkEweDc0aUprUGVYeXZ4M05YaVVULURCeEtkdHQzQXMzdTJ6Y2RqMnRKLWFVcHh0dkttQ1JDRU5yN1pXTnkwVVByVW1rWG9jTmF3aDVObHRVMk1PSm9oSWxVUks1Qw?oc=5"
+    },
+    {
+     "titulo": "No Beira-Rio, Inter recebe o Corinthians pela 29ª rodada do Brasileirão",
+     "fonte": "Jornal O Sul",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVWNoejdvRndtbTZKN2ZEdXdqOVJrMnlkTkRVbFdXVHpfNDVCdDNGbjdxSzVnd0Z3Qk1vZ25uM2JyQzdmcnBXb05FUzZYV2dsdUE5MDF6LVY2NHBLajBDVjNFNGJ2QVNiRG8zSnN4Q0F0SUZMWHpCTURzQjA1YUJJYk1MNEFlOUVKaHBPNlc3cEpDYnh3amZ2RVVjTdIBoAFBVV95cUxOd0NCQTJZR29iRWxZclZkYzRhME1kS0h3RGhFcTZQNzdOclAzaU9pN2hKZnlHclIzTmdqaGFPZEdRdmdaVHF2UmNiSWE4djhlQVhwR204Z1E3eUJFRFNUYUZsNzZLT2d2VTNCYlFaeDdsRGdreGI1T3hIWEl3S3k5WTd6Q1BjYTVuZ2swX0hWMFdCOEJ0TDd4ZXJYbkEyY21m?oc=5"
+    },
+    {
+     "titulo": "Onde vai passar Internacional x Corinthians pelo Brasileirão? Como assistir ao vivo",
+     "fonte": "UOL",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQzRrOFpWT1Z2aVU0Rkdadm5HVXZKUnA4RUVndHNTQlBTWmp0SGc0ZEVfdjZfUlJkLW5QTU84VF83Y2lBQW9heFBTS1NDZ1ljalBBczJianZDMW1HNV9rejE3bm1aZTFrMHhCMXNVVk5QdTNHUEVoNjR4cXh6YWdPMUhhcmZhcDVLWnpKekxDSUJ6Q1JmMTZmcmVKclR6QlNJZGVrZmVsZ0tYbldKQTE1aWdoSGdFUFJXTTl3VTdYbjZHUXl1Q1JmMWp1eE1TVTNvc3FOcHpKRnVGWGplVENwUHlpSQ?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "T2HTUmuIq0Y",
+      "titulo": "Diniz muda o time e Matheus Pereira CORRE risco 😱",
+      "canal": "Camisa 17 oficial",
+      "views": 17972,
+      "likes": null,
+      "comentarios": 14,
+      "publicado": "2026-10-06T01:30:01Z",
+      "duracao_s": 69,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=T2HTUmuIq0Y"
+     },
+     {
+      "id": "faPx4UtiMiQ",
+      "titulo": "SUBSTITUTO DO DINIZ!! DEMISSÃO DO BURRO | DINIZ FAZ ÚLTIMO JOGO NO CORINTHIANS....",
+      "canal": "Fiel Torcida!",
+      "views": 10274,
+      "likes": 80,
+      "comentarios": 0,
+      "publicado": "2026-10-06T19:58:12Z",
+      "duracao_s": 42900,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=faPx4UtiMiQ"
+     },
+     {
+      "id": "jWspHZrEkaY",
+      "titulo": "Corinthians define time pro Sul e Yuri Alberto SURPREENDE 👀⚽",
+      "canal": "Camisa 17 oficial",
+      "views": 3858,
+      "likes": null,
+      "comentarios": 6,
+      "publicado": "2026-10-07T02:30:07Z",
+      "duracao_s": 66,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=jWspHZrEkaY"
+     },
+     {
+      "id": "Br68eMaKK0Y",
+      "titulo": "ELE VOLTOU! YURI ALBERTO RELACIONADO PARA O CONFRONTO CONTRA O INTERNACIONAL",
+      "canal": "IDENTIDADE CORINTHIANA",
+      "views": 2820,
+      "likes": 217,
+      "comentarios": 6,
+      "publicado": "2026-10-06T21:30:35Z",
+      "duracao_s": 36,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Br68eMaKK0Y"
+     },
+     {
+      "id": "D_T3wV7AY_U",
+      "titulo": "MANTO E CANETA NA MÃO, ESSE É O CLIMA DA FIEL QUE AGUARDA A CHEGADA DO CORINTHIANS EM PORTO ALEGRE",
+      "canal": "IDENTIDADE CORINTHIANA",
+      "views": 1882,
+      "likes": 124,
+      "comentarios": 4,
+      "publicado": "2026-10-06T21:18:00Z",
+      "duracao_s": 53,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=D_T3wV7AY_U"
+     },
+     {
+      "id": "Ax1yNiqhFAo",
+      "titulo": "ADEUS DESCULPAS MEMPHIS DEPAY PRECISA MOSTRAR RESULTADO 💪  #corinthians",
+      "canal": "FIEL IA",
+      "views": 1603,
+      "likes": 20,
+      "comentarios": 0,
+      "publicado": "2026-10-05T18:49:56Z",
+      "duracao_s": 24,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Ax1yNiqhFAo"
+     },
+     {
+      "id": "lIevCQu9swE",
+      "titulo": "O CORINTHIANS FAZ QUANTOS PONTOS NO BRASILEIRÃO NAS ÚLTIMAS 10 RODADAS?",
+      "canal": "IDENTIDADE CORINTHIANA",
+      "views": 1265,
+      "likes": 47,
+      "comentarios": 4,
+      "publicado": "2026-10-06T01:48:03Z",
+      "duracao_s": 61,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=lIevCQu9swE"
+     },
+     {
+      "id": "lRtj341qNYc",
+      "titulo": "CORINTHIANS TERÁ MUDANÇAS CONTRA O INTERNACIONAL - PROVÁVEL ESCALAÇÃO",
+      "canal": "IDENTIDADE CORINTHIANA",
+      "views": 1015,
+      "likes": 29,
+      "comentarios": 2,
+      "publicado": "2026-10-06T23:03:26Z",
+      "duracao_s": 330,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=lRtj341qNYc"
+     },
+     {
+      "id": "iCGuHURKu68",
+      "titulo": "⚫⚪ ESCALAÇÃO OUSADA DO CORINTHIANS? | SEGUE O FIO",
+      "canal": "Gaúcha Esportes",
+      "views": 777,
+      "likes": 23,
+      "comentarios": 0,
+      "publicado": "2026-10-07T15:45:10Z",
+      "duracao_s": 51,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=iCGuHURKu68"
+     },
+     {
+      "id": "dCHPLpiZOUQ",
+      "titulo": "Provável escalação do Corinthians contra o Internacional, no duelo da 29ª rodada",
+      "canal": "Jogo Aberto",
+      "views": 382,
+      "likes": 17,
+      "comentarios": 1,
+      "publicado": "2026-10-07T17:01:08Z",
+      "duracao_s": 91,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=dCHPLpiZOUQ"
+     },
+     {
+      "id": "WkXlmkQilYo",
+      "titulo": "CORINTHIANS com apostas arriscadas de DINIZ para o BRASILEIRÃO. O que você achou?",
+      "canal": "Portal da Fiel",
+      "views": 337,
+      "likes": 16,
+      "comentarios": 0,
+      "publicado": "2026-10-07T14:20:09Z",
+      "duracao_s": 63,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=WkXlmkQilYo"
+     },
+     {
+      "id": "oQ7t6VGsLjI",
+      "titulo": "INTER X CORINTHIANS: ONDE ASSISTIR, ESCALAÇÕES E MAIS INFORMAÇÕES ",
+      "canal": "RK INTER",
+      "views": 313,
+      "likes": 5,
+      "comentarios": 0,
+      "publicado": "2026-10-05T21:41:36Z",
+      "duracao_s": 176,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=oQ7t6VGsLjI"
+     },
+     {
+      "id": "EUiYP4nE6ng",
+      "titulo": "VEJA PROVÁVEL ESCALAÇÃO DO INTER NA ESTREIA DE EDUARDO BAPTISTA ",
+      "canal": "RK INTER",
+      "views": 231,
+      "likes": 7,
+      "comentarios": 0,
+      "publicado": "2026-10-06T14:00:46Z",
+      "duracao_s": 158,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=EUiYP4nE6ng"
+     },
+     {
+      "id": "02oylPYFOnc",
+      "titulo": "🔴⚠️ INTER x CORINTHIANS: ESCÂNDALO HORAS ANTES DO JOGO! Escalações, onde assistir, árbitro polêmico",
+      "canal": "Lucas Dias Repórter",
+      "views": 147,
+      "likes": 29,
+      "comentarios": 1,
+      "publicado": "2026-10-07T17:16:42Z",
+      "duracao_s": 445,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=02oylPYFOnc"
+     },
+     {
+      "id": "pcMQ355iS5Q",
+      "titulo": "INTERNACIONAL X CORINTHIANS - ESCALAÇÕES | PROMOTOR IRRITADO COM OS DIRIGENTES DO TIMÃO",
+      "canal": "Corinthiano Informa",
+      "views": 74,
+      "likes": 16,
+      "comentarios": 0,
+      "publicado": "2026-10-07T16:17:19Z",
+      "duracao_s": 0,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=pcMQ355iS5Q"
+     },
+     {
+      "id": "jNwEVXeNujA",
+      "titulo": "INTER X CORINTHIANS: ESCALAÇÕES, ONDE ASSISTIR, DESFALQUES, HORÁRIO, ARBITRAGEM ",
+      "canal": "RK INTER",
+      "views": 5,
+      "likes": 2,
+      "comentarios": 0,
+      "publicado": "2026-10-07T16:54:38Z",
+      "duracao_s": 309,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=jNwEVXeNujA"
+     }
+    ],
+    "consulta": "Corinthians escalações",
+    "n_videos": 16,
+    "mais_de": true,
+    "views": 42955,
+    "top": [
+     {
+      "titulo": "Diniz muda o time e Matheus Pereira CORRE risco 😱",
+      "canal": "Camisa 17 oficial",
+      "views": 17972,
+      "url": "https://www.youtube.com/watch?v=T2HTUmuIq0Y",
+      "publicado": "2026-10-06T01:30:01Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "SUBSTITUTO DO DINIZ!! DEMISSÃO DO BURRO | DINIZ FAZ ÚLTIMO JOGO NO CORINTHIANS....",
+      "canal": "Fiel Torcida!",
+      "views": 10274,
+      "url": "https://www.youtube.com/watch?v=faPx4UtiMiQ",
+      "publicado": "2026-10-06T19:58:12Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Corinthians define time pro Sul e Yuri Alberto SURPREENDE 👀⚽",
+      "canal": "Camisa 17 oficial",
+      "views": 3858,
+      "url": "https://www.youtube.com/watch?v=jWspHZrEkaY",
+      "publicado": "2026-10-07T02:30:07Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Corinthians conta com retorno de Yuri Alberto para 'decisão' contra o Inter no Brasileirão",
    "categoria": "Notícia do dia",
    "clubes": [
     "Corinthians"
    ],
    "foco": true,
-   "nota": 63.5,
+   "nota": 64.5,
    "sinais": {
-    "busca": 55,
-    "aceleracao": 61,
-    "midia": 58,
+    "busca": 60,
+    "aceleracao": 45,
+    "midia": 67,
     "aderencia": 100,
-    "youtube": 52
+    "youtube": 63
    },
    "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "diniz corinthians",
+   "termos_trends": [],
+   "n_fontes": 4,
+   "n_manchetes": 5,
+   "assinatura": "yuri|corin|alber|retor",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "“diniz corinthians”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+    "titulo_thumb": "VOCÊ PESQUISOU",
+    "pergunta_enquete": "Qual sua opinião: Corinthians conta com retorno de Yuri Alberto para 'decisão' contra o Inter no Brasileirão?",
+    "tecnica": "Dado",
+    "ganchos": [
+     {
+      "tecnica": "Dado",
+      "texto": "“diniz corinthians”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Corinthians conta com retorno de Yuri Alberto para 'decisão' contra o Inter no Brasileirão. Por trás disso, tem dois lados que não querem a mesma coisa.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Corinthians conta com retorno de Yuri Alberto para 'decisão' contra o Inter no Brasileirão. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Corinthians conta com retorno de Yuri Alberto para 'decisão' contra o Inter no Brasileirão. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
+      "thumb": "E AGORA, CORINTHIANS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Corinthians conta com retorno de Yuri Alberto para 'decisão' contra o Inter no Brasileirão. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Trio Yuri Alberto, Rodrigo Garro e Memphis é recordista de participações em gols do Corinthians; veja",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNc2k0b2lha2NxVWlkbGpiT0g5Nm5fbDlFMlBhclE2TGEtdU1nTzJsWklNeXBhVFlEMTJHSjJCNi10N0h1SXl6c0VmdXgtaGstTnVpVTR0ZUtRMjFvUS1SYXVEem50Tklqb2Y0OHdkUGozSVhVQ3dZb3oySDZKOHZGRW8zTlNOeENXTlhteXBhVHlxUi1RQ3F1N1hwQzBOR3BVSGwtMUlYTEh6akxhTzk2ZExRb3BYT1dQX05NTXUtU2psYUdocHRPZDdYUUh4RnhianJFSWR0eU9yeFR2eUhzdVhMWmllZjYyY2RMTmNrMmY3NG1FNmRKNnRNeGJEMG8zVE9LcGl2cl9sWlh6SW9QSUhKaVpQczYwRWZr?oc=5"
+    },
+    {
+     "titulo": "Com Yuri Alberto ou sem? Qual o provável time do Corinthians para o jogo contra o Inter",
+     "fonte": "GZH",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNT29yam5QeTk0Vm1Pb0Z1SWQxdE56dGEzdGlRTVdPME9lNWQxQzhzNm5ZSnZJeGxOYUNjeHF5QVV3VjhGNGNKbVdfRHVXUEp2dGZZRFkyNkxia011bmIzU0hHUDlYa2tqbjJIc3l0REdqODA0Z0FYc2RaUW53YUlyQVh2QTVJVzM2NXgxeU15aEZUWHExcnE1czdoTEprNlI5djc0dHhaOGNDSWNfQnlNVjR3OG1Od2VGczVyMlZ4WV9aVmlUbFdUd2k5b2l2dmhsaXMtSldZLUtXVEJtMG5kTU83aFlGMGZFc1Uzc0laQXp4aF9XcnNBLUI2UjZQOENvRUFGNDJFRmllRmVi?oc=5"
+    },
+    {
+     "titulo": "Corinthians conta com retorno de Yuri Alberto para 'decisão' contra o Inter no Brasileirão",
+     "fonte": "Notícias ao Minuto Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMWxGNlVQTUpWb2xaa0ZnN3lSVWhiWVVvUmtfR2RvdTNFdlJfZHJIYlA4cjJxRE1MWmN4WGtwM2pzNjFoT2JKd0JCU19seF9xRUtmZGtVTGxRZ1NuSmhnd3dTVE9QSUNFSTVxQVhvbnA4MXBuempLTUdubVJuc1lUcFVRNkV1YkM4czFSNmFNTWhZUGRRamNhMVpzSm1vQ2RvbWg1WDRBQ19mN2NTYTVCOXd3WnNFR3IxeGh6NHV5YmZRa0pGTWNVQVNTNk5vSTVoX0JPcV9ZSQ?oc=5"
+    },
+    {
+     "titulo": "Com Yuri Alberto e trio da Seleção, Corinthians desembarca em Porto Alegre; veja relacionados",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdk93SHI4MnJHbVAyYnhaUjZuS1FVXzRpOTdnRGxhRUlMZWVuYlBibUREQTZTemRibDZBeEJPRFpNSFBtSEpQR09IM2VsdWNUZUhUcGFYVnc0RmlNdEFkbkR1WV9SLUhBUUoxUXRCVGVzb1JWRU1DM3kzQ2N6UDhORGlwYW0xajduaGoyUDB5Y28xTHE2c3diYkYyTUhJUGF6QlAta2VtQlMwcTk1UzBWRUJVbHpsUjMwd2EtRnNTVTlYZzhZQTVWVXpqTlFrOUFOUjhoMjZfRWM5VEFEdDZLQ0NGenFtTmo2OXhCbFgxNGRuS04wc3fSAYQCQVVfeXFMTjg5V29pX1ViUS03UzBiVkd6M093NDNhS3F5bEV5RHRtN19jWXNMcVlQTmtCVzJNLU5JbUtxc3dVNWQ0OTBoV1FweXNCM2NBWlBlVGtYRXQ5TzBXRVEtVExlQ0hlQUw3dmpsdTZpNk14bHFLZHROcW9pd19OTXVmN2FEQ01tcVp1S012Z3JmRklLMlE2YU1mX3lQMTFJR1l0Wk1sTC1Wb2M1LWNVY0xpZmNvNmNPYTVlQU5VNzltYlVMQi1ONnJiMy1nMTJyQkM1ZW1uYnd1WVVaNm9Lel9LV3dHZDlCTkFYbDRJOHlDX0hHMlI1ZlRzb0l3UTg5QzEwUm9NSWU?oc=5"
+    },
+    {
+     "titulo": "Escalação do Corinthians: Diniz prepara mudanças no meio e terá retorno de Yuri Alberto",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPX3VCbXlPVlk4Y1AzNVYzR0plTUR4T0kwbWNlc1lUeE43U1I2bzlGSk5JbWtKUTJObi10a3loNnlWaWZnUTdDdW1oRGNka2dnd2xjS2hxbzFENHlHdk9jVDE4MWQteDh0MlBhb0ZxNF9ON3VVRXFQQjVDMWFuQm9yRHJkeVo4YjMyd1Vib0g2QmxPWkcxVEluZkQzUzVWMG5YWUNBeGViU0ZlLXNDQXlEY0luMlU1b1NiTHU1eC1ONzVmZUtyY2NkbkV4bG1KTDVGaGFWMF93SXg4NV9pSmJ2SW8tWUJKSU1ZU2FPcXFVc9IB_gFBVV95cUxPUHdjVURnTzNoT01CNG5CZjVkTHVfZDZZMGVkLVNzdkVsYndqUUU0clZkTnNUUUxBWW5KRy15VVNFOE5VQldSUVVZcEtNUDZncUVEMmhOcVZTbUo3akNjVkNWaXNhaWNjRG53WTFGb0tnRHpTXzRHb29iSXBPREl0UlQxV0s4RmMyTjVGa0dGTXRzbC1haExwNjRSdHBmakZKWllXX2RMelpUS2pnQ0VXaGZ0bjNPbHhJUmY3SHFsS3g0eDRTTDM5eTA0QnMtaUhnQ2k2ZEZHaUJsYmdQZzZpZ3Zkc2RQaXRLcTNqUXUwODhLWUJxVFBfZmJVY3NfQQ?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "C12vGxBUuug",
+      "titulo": "🚨 INFORMAÇÃO QUENTÍSSIMA NO CORINTHIANS!! R$ 27 MILHÕES, CAIXA E YURI ALBERTO DE VOLTA!!",
+      "canal": "BANDO DE LOUCOS INFORMATIVO ",
+      "views": 2753,
+      "likes": 27,
+      "comentarios": 2,
+      "publicado": "2026-10-06T06:45:04Z",
+      "duracao_s": 823,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=C12vGxBUuug"
+     },
+     {
+      "id": "-eH4DRld55M",
+      "titulo": "Escalação do Corinthians: Diniz prepara mudanças no meio e terá retorno de Yuri Alberto",
+      "canal": "CANAL DE FUTEBOL",
+      "views": 1522,
+      "likes": 25,
+      "comentarios": 1,
+      "publicado": "2026-10-06T22:40:14Z",
+      "duracao_s": 1274,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=-eH4DRld55M"
+     },
+     {
+      "id": "s8hKvTtKoNw",
+      "titulo": "Yuri Alberto falou da expectativa para o retorno aos gramados #corinthians #vaicorinthians #timão",
+      "canal": "InfoTimão - Notícias e Vídeos do Corinthians ",
+      "views": 1159,
+      "likes": 71,
+      "comentarios": 1,
+      "publicado": "2026-10-06T19:23:01Z",
+      "duracao_s": 52,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=s8hKvTtKoNw"
+     },
+     {
+      "id": "hNT53u4WsNw",
+      "titulo": "Yuri Alberto fala sobre o retorno #corinthians #yurialberto #vaicorinthians #editsccp #timão #sccp",
+      "canal": "Dna Alvinegro 1910",
+      "views": 896,
+      "likes": 78,
+      "comentarios": 2,
+      "publicado": "2026-10-06T21:53:05Z",
+      "duracao_s": 52,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=hNT53u4WsNw"
+     },
+     {
+      "id": "WFFQf-O74kw",
+      "titulo": "Yuri Alberto revela ansiedade antes de retorno ao Corinthians e mira ‘Lei do Ex’",
+      "canal": "JOGOS DE HOJE NA TV ",
+      "views": 735,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-10-06T22:00:57Z",
+      "duracao_s": 10,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=WFFQf-O74kw"
+     },
+     {
+      "id": "lJdlGT1xjYk",
+      "titulo": "YURI ALBERTO VOLTOU! O CORINTHIANS AGORA VAI 😂🔥",
+      "canal": "Gavião Mosqueteiro",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-07T16:45:38Z",
+      "duracao_s": 11,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=lJdlGT1xjYk"
+     }
+    ],
+    "consulta": "Corinthians Alberto Yuri retorno",
+    "n_videos": 6,
+    "mais_de": false,
+    "views": 7065,
+    "top": [
+     {
+      "titulo": "🚨 INFORMAÇÃO QUENTÍSSIMA NO CORINTHIANS!! R$ 27 MILHÕES, CAIXA E YURI ALBERTO DE VOLTA!!",
+      "canal": "BANDO DE LOUCOS INFORMATIVO ",
+      "views": 2753,
+      "url": "https://www.youtube.com/watch?v=C12vGxBUuug",
+      "publicado": "2026-10-06T06:45:04Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Escalação do Corinthians: Diniz prepara mudanças no meio e terá retorno de Yuri Alberto",
+      "canal": "CANAL DE FUTEBOL",
+      "views": 1522,
+      "url": "https://www.youtube.com/watch?v=-eH4DRld55M",
+      "publicado": "2026-10-06T22:40:14Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Yuri Alberto falou da expectativa para o retorno aos gramados #corinthians #vaicorinthians #timão",
+      "canal": "InfoTimão - Notícias e Vídeos do Corinthians ",
+      "views": 1159,
+      "url": "https://www.youtube.com/watch?v=s8hKvTtKoNw",
+      "publicado": "2026-10-06T19:23:01Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Santos x Flamengo: ingressos esgotados para jogo do Brasileirão",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Flamengo",
+    "Santos"
+   ],
+   "foco": true,
+   "nota": 61.8,
+   "sinais": {
+    "busca": 30,
+    "aceleracao": 71,
+    "midia": 87,
+    "aderencia": 100,
+    "youtube": 38
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "flamengo x santos",
+   "termos_trends": [],
+   "n_fontes": 7,
+   "n_manchetes": 7,
+   "assinatura": "ingre|flame|santo|esgot",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Torcida do Santos esgota ingressos para o jogo contra o Flamengo na Vila Belmiro. Nem todo mundo no Flamengo vai gostar disso, e eu vou explicar por quê.",
+    "titulo_thumb": "FLAMENGO x SANTOS",
+    "pergunta_enquete": "Qual sua opinião: Santos x Flamengo: ingressos esgotados para jogo do Brasileirão?",
+    "tecnica": "Conflito",
+    "ganchos": [
+     {
+      "tecnica": "Conflito",
+      "texto": "Torcida do Santos esgota ingressos para o jogo contra o Flamengo na Vila Belmiro. Nem todo mundo no Flamengo vai gostar disso, e eu vou explicar por quê.",
+      "thumb": "FLAMENGO x SANTOS"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Torcida do Santos esgota ingressos para o jogo contra o Flamengo na Vila Belmiro. A leitura óbvia é uma. A que importa é outra.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Torcida do Santos esgota ingressos para o jogo contra o Flamengo na Vila Belmiro. E agora: o que muda para o Flamengo?",
+      "thumb": "E AGORA, FLAMENGO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Torcida do Santos esgota ingressos para o jogo contra o Flamengo na Vila Belmiro. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "É PELO PENTA! INGRESSOS ESGOTADOS PARA FLAMENGO X ESTUDIANTES NO MARACANÃ!",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvaTVPakx1OW5fbGljLWc3LXdiNnZxNEc3Q295NkVjVlVCd2FSbWVVamFSR0xJNXBQZjJwcS1BUHlJYmw3ajNOS3NXQkNyMElJN2c?oc=5"
+    },
+    {
+     "titulo": "Santos esgota ingressos para duelo contra o Flamengo na Vila",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUElTQ3BjeHNVNEFILXNBTXBBd05vb3YtMmVieWJFeHFTU1NTV1h1b0lkWGlXZTZIWnpmVmFoZlJpUV9Wa1BYY0VlLXB5VjdxZzVZQ1QxR0lHYWZYdVpYVndwZ2kyaHVDUHdjM3Y4dUJjSWRVQ0xGQmRJYV9sVXFsYWtqdkY3dmtPOWoxQjF2N3ZrOUpKLVlkTDRkTldVcXZERkY3Zm9sRUtCN0NHbS05U1RlekFCU2h3SWYzdEViVkRLbFptSjFjcjJLWnJmR0Rka1dWa2lBQXNSQVNEZGZTYg?oc=5"
+    },
+    {
+     "titulo": "Torcida do Santos esgota ingressos para o jogo contra o Flamengo na Vila Belmiro",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjJuSXBpUC1xUGo3dFFLWkZtSTU0dk1iUUNudHlqR25zXy1NZTY0dVR2ejVOaFNBS21xNGZnU3prOENBU0kxOTItYW1ZUnZ3Qi1nLTUwZjFTTWEydGs0OXpoQUcxVTdQNVl0N1l2NnZBSVdWdmR2V1dIVENBN2FYRWNLcEpqTlJsNjI5YjVoYlRLb3dvRE5nR2N30gGfAUFVX3lxTE1OX2JyNFdfNEQ0ejg2eTFWZ2NpS0RDWFp5S0hoZlFnWnNTWDhDU0tCWjFIWjhMX3VsdFhwNDNjM2VPRjJTNzFmeEx2UlRsWFNJMzhXRE5vUmhQNkNhNFQ5ZmRIamtSVENoaVlad2Y1SnpQS0dNWHExZVlGWW9DazBIbzU5WmNNdzJqeUU2UmVSOVFGMG5QbDZOblMzNFlDMA?oc=5"
+    },
+    {
+     "titulo": "Santos x Flamengo: ingressos esgotados para jogo do Brasileirão",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMWhDM0phVjZFUzViY2JUQXNfUEs3cmt0VFNVaFRWejlHRkZyTjRrMmlDMUgySzQ2eFo2dU1QSzU5ZWgweGhwenBtc2o0dXlBZElnZnJnaVRSVGdLbWpPNnhVRWlfSnRjaVNrT0hSYTNPQTI2bUpDbXFmQkE1MnFYaXZkTlBQOHFoenFjVGxEaDRLTk8xU0plZE1fekljbEtQU1hqUmJ4Rjg2bmpZQlBPVGZ3MlRWQk9IVDBhd0N4M2VBMU84bkEzQ2UwUUxRZUtNSExUVm85ak9JclU4a2EtSUx30gHwAUFVX3lxTFB3T3FyR3JPeEU3ajJtMk1Oa3FpOHpEVGdEOTlzMHZPc0tCdTZXc3BCaTJSWXdhZldLRFlJeG5mNFp4OVJzLU1lRFhWS2Nxelo4Z2dDQWM0V2RTOEVuc0dUYVVDaTZTcVlSUjFkVGl5VWVrWEtRSlNNNzAtUjBtOUxqSGM3bmF1ZWV4NW5LdldLc3pSZkhMNWJoWkdSVmN1WnBhcDdSb2VMWmFDMmZkUXlsQTIyd2FUcm5RNTBKYWFJcl9NUUxOVWZSV2ZEYkYyVjJXYVUyTkRCMllPcEd6LUs3eWRWR1BuZmV1Sm55MmhJTg?oc=5"
+    },
+    {
+     "titulo": "Com retorno de Neymar, Santos x Flamengo tem ingressos esgotados",
+     "fonte": "Jornal da Orla de Santos",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3pNamJ0U0x3dHNRXzVldFJMRTRicHZCaDdjMl9PVGVHR0hZdTVJbHVEZVJwNUlKLUhXVGZjQ3J6dkpYbjEzSHg4VGczRlR0TDk2QUVBN09yMEZidFB3bk5BTy1HMWFpbW9mV2tNZ2NLQVFWRTlYR3c5QkNTSzVET01PLUFyRFBuVG0yRFN3RmxlMWNUQzQ2SFdHd3RYQUZPZ3JF?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "7ER-RGZEDKM",
+      "titulo": "PHILIPPE COUTINHO DEVE ENTRAR JOGANDO CONTRA O FLAMENGO NA VILA BELMIRO",
+      "canal": "Família Santista",
+      "views": 412,
+      "likes": null,
+      "comentarios": 0,
+      "publicado": "2026-10-07T12:34:54Z",
+      "duracao_s": 30,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=7ER-RGZEDKM"
+     }
+    ],
+    "consulta": "Flamengo Vila esgotados",
+    "n_videos": 1,
+    "mais_de": false,
+    "views": 412,
+    "top": [
+     {
+      "titulo": "PHILIPPE COUTINHO DEVE ENTRAR JOGANDO CONTRA O FLAMENGO NA VILA BELMIRO",
+      "canal": "Família Santista",
+      "views": 412,
+      "url": "https://www.youtube.com/watch?v=7ER-RGZEDKM",
+      "publicado": "2026-10-07T12:34:54Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Debate Donos: Corinthians vai vencer o Inter?",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 61.5,
+   "sinais": {
+    "busca": 50,
+    "aceleracao": 70,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.071,
    "trafego_google": 0,
    "busca_torcedor": "internacional x corinthians",
    "termos_trends": [],
    "n_fontes": 3,
-   "n_manchetes": 4,
-   "assinatura": "alber|corin|yuri|minut",
-   "ja_coberto": null,
+   "n_manchetes": 3,
+   "assinatura": "inter|corin|vence|debat",
+   "ja_coberto": {
+    "titulo": "INTERNACIONAL  X  CORINTHIANS  - 29ª RODADA",
+    "url": "https://www.youtube.com/watch?v=CH9iLpalAn0"
+   },
    "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "O torcedor está digitando “internacional x corinthians” no Google agora. A resposta não é tão simples.",
-    "titulo_thumb": "VOCÊ PESQUISOU",
-    "pergunta_enquete": "Qual sua opinião: Corinthians prepara retorno de Yuri Alberto e define limite de minutos contra o Internacio?",
-    "tecnica": "Dado",
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Internacional x Corinthians: raio-x, estatísticas e quem vence no Brasileirão. O placar diz uma coisa. O jogo, visto de perto, diz outra.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
+    "pergunta_enquete": "Qual sua opinião: Debate Donos: Corinthians vai vencer o Inter??",
+    "tecnica": "Contradição",
     "ganchos": [
+     {
+      "tecnica": "Contradição",
+      "texto": "Internacional x Corinthians: raio-x, estatísticas e quem vence no Brasileirão. O placar diz uma coisa. O jogo, visto de perto, diz outra.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Internacional x Corinthians: raio-x, estatísticas e quem vence no Brasileirão. O que esse resultado muda daqui para frente?",
+      "thumb": "E AGORA, CORINTHIANS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Internacional x Corinthians: raio-x, estatísticas e quem vence no Brasileirão. Eu aposto que esse resultado vai pesar lá na frente. Você concorda?",
+      "thumb": "MEU PALPITE"
+     },
      {
       "tecnica": "Dado",
       "texto": "O torcedor está digitando “internacional x corinthians” no Google agora. A resposta não é tão simples.",
@@ -1640,727 +2229,589 @@
      },
      {
       "tecnica": "Conflito",
-      "texto": "Corinthians prepara retorno de Yuri Alberto e define limite de minutos contra o Internacional. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Corinthians prepara retorno de Yuri Alberto e define limite de minutos contra o Internacional. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Corinthians prepara retorno de Yuri Alberto e define limite de minutos contra o Internacional. Isso é bom ou ruim para o Corinthians? Responde antes de ver a minha análise.",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Corinthians prepara retorno de Yuri Alberto e define limite de minutos contra o Internacional. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
-      "thumb": "MEU PALPITE"
+      "texto": "Internacional x Corinthians: raio-x, estatísticas e quem vence no Brasileirão. Quem venceu comemora; quem perdeu tem uma conta para acertar.",
+      "thumb": "CORINTHIANS x INTERNACIONAL"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Yuri Alberto retorna ao Corinthians com minutagem controlada",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaE9ZaUNoY282T2RLYlFOMnNiNTFEZGtfa2Uta040NlctUFdXTFJhYk1vdkFaTXItZXNHSzhnOUlCSUJucXJjLTVENEs2WjBob2pDREVKY3Z3Uk5DN05zWHhudWFCZDI1YlZVZ2NDbmY5NDZCenB6ZGFSazRxVEt1dkRNN1F3VnBOcExlemp2RjAyTENQendmeW5uZU9Va1A0RF9WNzFkWWhNekRPd1pEOFZ3WlUtdUM5TE41dEhsSjdlY3B1WW9rczhYYTctS0lnLW9Xb1RGZXNtWnlYa2xaTXcxT0F0cVU?oc=5"
+     "titulo": "Debate Donos: Corinthians vai vencer o Inter?",
+     "fonte": "band.com.br",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSXRJXzU2UDdhbnNtYUZBNWJNUjl0dEE2eGRQQlg3dGVCT2NSVVpRQkJueTd4LTZBRkZVVktoVFZLb1lOVUd0cjVVd0pKNFFuTS02SlR3WTRVUlRHN0ZLcjJjU1BYNDJaTFhpTDJpZ3pZMmtiaktjTUN5WWZnUFBtazZLT01Qcmg1SlkydXVGUTE0RTZYZnhNYVhoTHY5QQ?oc=5"
     },
     {
-     "titulo": "Corinthians prepara retorno de Yuri Alberto e define limite de minutos contra o Internacional",
-     "fonte": "Goal.com",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb2tpb3BTZ0VzdHZocm1yMUZwSGhMZnBmUUlxeTUyeHBWR3dEOGFJTVlqNkNGcGRFa1M1ZmMycVpWU2NISGNmSWhiOF82SnRfR2tfNXcyM1JLVGNGZGRQb1FVVng4OGs5Y0lpOVFrMWpoUl9zbEhuMXZ4N0NyQTdDeU9vQndDM1dBajk2ZGpNbnRjTHZ1ZTI5VmJOY0tzZFZGTWFuQ1F0aHpRSWszWFJJTFFEVldhWFlVQlFqaG8zMWFaY3lvZHZrSTIwcEkzRkE?oc=5"
+     "titulo": "Internacional x Corinthians",
+     "fonte": "tmc.com.br",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM1UzbFU3Q0VlUHhnaTJnVnoyaEgwNkpvMG5QcFRXeHVoSWV6b1Frbndla253aUVENG9fQk4yNWdBbkFFY19tS004RnlRclpSMV9CUjk3ck1EcmFaZzFaQ0o2YmRGQ0kzMHg2SUhGZmVaS0hkWDZncGRoeDJDejZ6V01XNkQtWGN3VTdiM2JaeUR5UkJOWDl6TE5rUW1sUQ?oc=5"
     },
     {
-     "titulo": "Corinthians toma decisão sobre Yuri Alberto para duelo contra o Internacional",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUHQyQ1k1bC1qVmZOVFNCXzVldUI3N21wS2ZVaTN2WmdFVjQyenR1OTdwcFVmXzdzRFJ2YnQxSnZXRElial95QWxmX3pKcVg1VFh2Wm9Qa3dvc1YxLTk0ZnMtSHhscVN2RXM4aWp4NGtNRFNuU2NMYWduV1hkbE50Rk9RQzRCamZUYXV4SVdidDdPczA5Mm8yMXhMSTV6UzJXbDh6VjFqa2JqZUJ0WnhVYmFYWXByenBsLWlPTzlER2tKeVpVZ21CaDV6R3gwb3ZWSTdla2J3NE91X200ZkNLWVl0RUdCU1lrVW5WVGNQUGo2dmVJc0pMX1F2Mk56dw?oc=5"
-    },
-    {
-     "titulo": "Corinthians planeja ter Yuri Alberto por até 65 minutos contra o Inter",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY2RMTjhsMG5BSGg3NHhZcW1vUjB0LTRHZms3VFFDa2lUOFZCWXJ5S3RGUk1HQ2p0TTVCVF9tdHI1cjRrUkRGTUVNU1llWUdtaU1tRzU2Ym41dWVVYm9ud1NnQzFfNUJJTjlsd1dwb3RDWEY3b1A4SHA3M3JKZFZ3OTVhVUpuLUVYQnBPcHBhT09QSlNHLUtIcnV3NmlhMmQ0aEtqXzhaNlc4Z0tLRWticXdCMmp2dVM5TkNoSHZ0cjRkNzhlcnZCMFZEX19qMXUxQm1XTGtZTE1CQdIB6AFBVV95cUxNQkFVTWp1cUxHT2VLVS1PYlpMMWx5U3R1elJnVUNZVE1DMThvSmxvZEswdGtWMm9ORXMwa0dQd0xGaHBPdGMzZTRqOG1xQTdXR19iT0Nrb25MaEtreWlUaTVwNzNhbE9kVkZOVXVCTjRLWEhDdkptV1R5bnVuaGJrNTVOc2ZWRlB3NmIzOFc4eDBZdHlsbjdnT1FOWmJDYnE0bUk3MVhWWUVRNV9uOVFBQjNyb0ppaWpGTzFLMTZTMDlOS3VXVFVwQmF3OW9ZU2VVNF9wTWFjTzA2ZG9GMC02Tmw3S2U4YzZU?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "E-DqYxR2eP4",
-      "titulo": "Yuri Volta Com Limite! Corinthians Planeja Até 65 Minutos Contra O Inter",
-      "canal": "Gazeta Fut",
-      "views": 2074,
-      "likes": 8,
-      "comentarios": 0,
-      "publicado": "2026-10-06T12:37:55Z",
-      "duracao_s": 4,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=E-DqYxR2eP4"
-     },
-     {
-      "id": "A_tMO-nM_bg",
-      "titulo": "O Yuri vai jogar, mas o Timão vai precisar ajudar muito pra ver seu gol!",
-      "canal": "André Vilabrisa ",
-      "views": 46,
-      "likes": 2,
-      "comentarios": 0,
-      "publicado": "2026-10-06T15:29:56Z",
-      "duracao_s": 12,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=A_tMO-nM_bg"
-     },
-     {
-      "id": "wJlSahTK_kk",
-      "titulo": "Yuri Alberto volta após lesão e pode jogar até 65 minutos",
-      "canal": "Futebol com Zé",
-      "views": 2,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-10-06T14:14:58Z",
-      "duracao_s": 37,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=wJlSahTK_kk"
-     }
-    ],
-    "consulta": "Corinthians Alberto Yuri minutos",
-    "n_videos": 3,
-    "mais_de": false,
-    "views": 2122,
-    "top": [
-     {
-      "titulo": "Yuri Volta Com Limite! Corinthians Planeja Até 65 Minutos Contra O Inter",
-      "canal": "Gazeta Fut",
-      "views": 2074,
-      "url": "https://www.youtube.com/watch?v=E-DqYxR2eP4",
-      "publicado": "2026-10-06T12:37:55Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "O Yuri vai jogar, mas o Timão vai precisar ajudar muito pra ver seu gol!",
-      "canal": "André Vilabrisa ",
-      "views": 46,
-      "url": "https://www.youtube.com/watch?v=A_tMO-nM_bg",
-      "publicado": "2026-10-06T15:29:56Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "Yuri Alberto volta após lesão e pode jogar até 65 minutos",
-      "canal": "Futebol com Zé",
-      "views": 2,
-      "url": "https://www.youtube.com/watch?v=wJlSahTK_kk",
-      "publicado": "2026-10-06T14:14:58Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Corinthians: montadora chinesa pode fechar patrocínio master",
-   "categoria": "Finanças e gestão",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 62.8,
-   "sinais": {
-    "busca": 55,
-    "aceleracao": 57,
-    "midia": 46,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "internacional x corinthians",
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "patro|maste|corin|monta",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "Corinthians engatilha acordo com empresa financeira para patrocínio máster contra o Internacional. Dinheiro de um lado, time do outro: alguma coisa vai ter que ceder.",
-    "titulo_thumb": "QUEM TEM RAZÃO?",
-    "pergunta_enquete": "Qual sua opinião: Corinthians: montadora chinesa pode fechar patrocínio master?",
-    "tecnica": "Conflito",
-    "ganchos": [
-     {
-      "tecnica": "Conflito",
-      "texto": "Corinthians engatilha acordo com empresa financeira para patrocínio máster contra o Internacional. Dinheiro de um lado, time do outro: alguma coisa vai ter que ceder.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Corinthians engatilha acordo com empresa financeira para patrocínio máster contra o Internacional. Parece só uma questão de dinheiro. Não é: isso chega no campo.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Corinthians engatilha acordo com empresa financeira para patrocínio máster contra o Internacional. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Corinthians engatilha acordo com empresa financeira para patrocínio máster contra o Internacional. Minha aposta: [SEU PALPITE]. Volta aqui daqui a um mês e me cobra.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "“internacional x corinthians”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Corinthians: montadora chinesa pode fechar patrocínio master",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSWFWcVV3Szc4S09hNFZCVUYzLXpVZ0xtR3hnZ3c3Vm9CUHJ1azE0SF9RcEFGQm44VDFVOUNGYnJ6SEpod2t5LThMdm5hTkdqNkNNdGxzak1Tb3BISXRjcjJmOEVTR2NDTC1abUpoOVkwbk9raDExaEZIdUpCZmM3LWFsU3Q3SGtIWWJ6UkdBSU5iZkhZNDQ3V0hTLVZOUWlnLUVfRWUwWTZkM21YVzVfOWJEcjg4dmlneTdQUnYzRlF3QW96MXFtUE5yZGp0THp6V05JQlgxVlljWDVGWEQ1UnVnOXpwQQ?oc=5"
-    },
-    {
-     "titulo": "Corinthians engatilha acordo com empresa financeira para patrocínio máster contra o Internacional",
-     "fonte": "Meu Timão",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNN2M5SXYtRWtFWThQSmllRURmOXVyazE2U0JZLVdhM2kzakFZOHVnZDJObGdHWFREa3haTTdsWUFlOElLaWl1Mmw2a3R1M25aNFg4MVJ5c1lmSTBzdFloYktrYlZYV1BOZGFkVjdydm90ckNwM0ZqNEExOE14Y01YdUtBOFNBQ211VTZqQm5iZktpRnBoN0dEUGlUMmZFbE0wX0VvQmR2S21fem5qN0pUQm0wa090aUtoUFVPRXBLaHo0ZlVpRzJqNGNnQTlQYTk5ZHRMcVFWUE05V1J2cmprNzdCMzJVdDhBUlRsNA?oc=5"
+     "titulo": "Internacional x Corinthians: raio-x, estatísticas e quem vence no Brasileirão",
+     "fonte": "365Scores",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUlhCRnp3Y28tMV9STkdzOFdicS1nZlpaY2EtXzJLUXBSM1huNzI1eTFrVjl1Q3FvYkw3bjhtOVFQZDNiWHVFZG8xeHhJbHVRSHlPUjdzMExBOHVxWERqX3d6bm9NMVlhb3Z5bVpHM1pib0h5UlNuQllKeDRIbUd0VFhVanZzRFlIZ3gtNkU0MUdrazVrUmFBeHpHSTN5V2M0b3dic242QW8?oc=5"
     }
    ]
   },
   {
-   "tema": "Jogador do Palmeiras entra na lista das maiores promessas do mundo",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Corinthians",
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 62.7,
-   "sinais": {
-    "busca": 75,
-    "aceleracao": 81,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": 0
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "jogadores de copa do mundo",
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 4,
-   "assinatura": "jogad|maior|prome|palme",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Jogador do Palmeiras entra na lista das maiores promessas do mundo. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Jogador do Palmeiras entra na lista das maiores promessas do mundo?",
-    "tecnica": "Contradição",
-    "ganchos": [
-     {
-      "tecnica": "Contradição",
-      "texto": "Jogador do Palmeiras entra na lista das maiores promessas do mundo. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Jogador do Palmeiras entra na lista das maiores promessas do mundo. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Jogador do Palmeiras entra na lista das maiores promessas do mundo. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "O torcedor está digitando “jogadores de copa do mundo” no Google agora. A resposta não é tão simples.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Jogador do Palmeiras entra na lista das maiores promessas do mundo. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
-      "thumb": "CORINTHIANS x PALMEIRAS"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Jogador do Corinthians entra na lista das maiores promessas do mundo",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbkhVLXBNcmVmVEswbFllOXJYdE1TU0std3R2NHhLQVFxWG9JOVFSbnc4Znc5blJQWENIZkJxalp4WGRXT1ViOTRDMmZGeXdLbk1XbWFjMUJTNFlfRXdScmU1X2kya2duMmMweWhJZUhia3NzNFloTHB0WV9TVzZXNDdrYldLY1JsSUV2aVlYb0dCa1o2Ri1waF9EeVRmU1g4R21MX2VlWnB0REpnZmo1V1RTVEdlcVRtbXh4SEhWUVRLRlVpR2tncUZndWVmMUtKUXdkQjZjVHRNQjlMbEJEaVFRNGFKUWo2Q0w0YkpPdTVMZw?oc=5"
-    },
-    {
-     "titulo": "Jogador do Palmeiras entra na lista das maiores promessas do mundo",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNT1l2OEtBYlJiN3FJeE5jcW84emRIeHgtNlNkREdoTlhzbEdyRG5zNzFQcENSS0pvd0ZfZmd2aDdhOEdXZVZRNTNHN0hzTHByU0ViSFRwbjNqQ1dURmF3WTIxMmhsTWxpMnRMdW9zQl9LeldWOUN4MFN2TXV4bEFvalJRUkFpeDV4SVBFdXJxR3U5a2llT1lkV0hiMXR6cmtNNC05c1RkMm0zVHVhN1N6V0VlMUh0QVB3T0gxdmc2NmV5Z09GaDdpR0kyZkJPR3hUZWl6M0FhdElaWHBqQm51aEg3OHMtbDZTdUFqRQ?oc=5"
-    },
-    {
-     "titulo": "Quem são os jogadores de Palmeiras e Corinthians apontados como maiores promessas do futebol mundial",
-     "fonte": "Estadão",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON3hJLWJBM3VCbFB2Y3FlcHEwTVJvLUpxNnBCcVJ5elFab1pzOURIdU0ySzhlVmtzVUotaTFkVUg2ZG9SOWZfaVRLcVJuMnNPdlBiM3haQ3J1QTdpTVZtcHB4SUVQc3AtbVNmVXRvV0hWc3BZNlpVbkxaUUFwc21XR2F4TFlJNkJtZk9lWko3OG1OYXMtR01nQkdVTnVTY25YRmxiWk5MbGMtbV8tMzd6MWNMemlLcjRYOGw3bEh2eF9KNW5VM00waGN1ei12eUF6aDJyNVJtMEVpSGFaU0pudGJKd2s3QdIB6wFBVV95cUxQSFV6QnNNb3RCU3hUYzE3OWFDSXdYbXU5M0dpWTdOLTN3TFJPblNhSXdCTk9jOWdUaVg2MHJCYXlpNDd3ampfV3RYclF3X0ZGQ0dZOGt6cHlVWXZIdUV4QzRhRHIzYno2bjJTbGNfQ09oeUt1SWtBUGc2SU9LWGI1M1pIYXFoTFBqOWxoZmlWTHhlNzU4M2Q3aE1ZTnpub19IX0JtM1M1OGNQQ3o0Z2Z2OUNMbjZXSTVCdDVoNVBTcjBMa2FPVjFDSnNEZ3dmUnQ3cFdrbDBzbl9IeW1rV1dUalpSTmh3ckFaZVhn?oc=5"
-    },
-    {
-     "titulo": "Jogadores brasileiros de Palmeiras e Corinthians aparecem em lista de maiores promessas nascidas em 2009",
-     "fonte": "Portal ABC do ABC",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQW1USW8za1FuZzR6ZW16RlZoNmJIeUNSNGxyY3hBRC1OaHRtSEZaUHpLY2xoZXdDSTJGelN4ZGNOSkxac3E3MkhweEFKS1FINlItZU16Ynp4YW56ZU9vNHZTcjB1SUJfOHVmTjNYUXk4c1VWMjVpWUNNMmh1MFFPQlNn?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [],
-    "consulta": "Corinthians Jogador promessas maiores",
-    "n_videos": 0,
-    "mais_de": false,
-    "views": 0,
-    "top": []
-   }
-  },
-  {
-   "tema": "Fernando Diniz será demitido do Corinthians? Entenda a situação",
+   "tema": "Diniz pode ser demitido do Corinthians hoje? Como técnico chega nos bastidores para 'final' contra Inter",
    "categoria": "Técnico",
    "clubes": [
     "Corinthians"
    ],
    "foco": true,
-   "nota": 62.5,
+   "nota": 60.5,
    "sinais": {
-    "busca": 50,
-    "aceleracao": 53,
-    "midia": 58,
+    "busca": 60,
+    "aceleracao": 85,
+    "midia": 81,
     "aderencia": 100,
-    "youtube": null
+    "youtube": 37
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "jogadores de corinthians",
+   "busca_torcedor": "diniz corinthians",
    "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "diniz|corin|demit|ferna",
-   "ja_coberto": null,
+   "n_fontes": 6,
+   "n_manchetes": 6,
+   "assinatura": "corin|inter|demit|pode",
+   "ja_coberto": {
+    "titulo": "INTERNACIONAL  X  CORINTHIANS  - 29ª RODADA",
+    "url": "https://www.youtube.com/watch?v=CH9iLpalAn0"
+   },
    "sugestao": {
     "formato": "Opinião forte (60 a 90 s)",
-    "gancho": "Quanto tempo o técnico ainda tem no Corinthians?",
+    "gancho": "Diniz pode ser demitido do Corinthians hoje? Como técnico chega nos bastidores para 'final' contra Inter. E agora: o que muda para o Corinthians?",
     "titulo_thumb": "E AGORA, CORINTHIANS?",
-    "pergunta_enquete": "Qual sua opinião: Fernando Diniz será demitido do Corinthians? Entenda a situação?",
+    "pergunta_enquete": "Qual sua opinião: Diniz pode ser demitido do Corinthians hoje? Como técnico chega nos bastidores para 'final?",
     "tecnica": "Pergunta aberta",
     "ganchos": [
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Quanto tempo o técnico ainda tem no Corinthians?",
+      "texto": "Diniz pode ser demitido do Corinthians hoje? Como técnico chega nos bastidores para 'final' contra Inter. E agora: o que muda para o Corinthians?",
       "thumb": "E AGORA, CORINTHIANS?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Eu aposto que [SEU PALPITE] até a próxima rodada. Qual é a sua?",
+      "texto": "Diniz pode ser demitido do Corinthians hoje? Como técnico chega nos bastidores para 'final' contra Inter. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
       "thumb": "MEU PALPITE"
      },
      {
+      "tecnica": "Dado",
+      "texto": "O torcedor está digitando “diniz corinthians” no Google agora. A resposta não é tão simples.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
       "tecnica": "Conflito",
-      "texto": "Diretoria de um lado, elenco do outro, e no meio um técnico que precisa de resultado já.",
+      "texto": "Diniz pode ser demitido do Corinthians hoje? Como técnico chega nos bastidores para 'final' contra Inter. Nem todo mundo no Corinthians vai gostar disso, e eu vou explicar por quê.",
       "thumb": "QUEM TEM RAZÃO?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Fernando Diniz será demitido do Corinthians? Entenda a situação. O técnico parece garantido no cargo. Os bastidores dizem outra coisa.",
+      "texto": "Diniz pode ser demitido do Corinthians hoje? Como técnico chega nos bastidores para 'final' contra Inter. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
       "thumb": "NÃO É BEM ASSIM"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Milton Neves: Corinthians nem deveria pensar em demitir Diniz",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXA0NzFRTGdpbkl3YWJIVnFuejdCdmM1SllCVlVfUmg5NWVfc0poR29CWGZVTFJoNWRBdEdaZk04RVZUVHlPMVRKSUpjUXREV080SThhWlg0NHFqT1JndGJ5WkRYWjRZcUJkM2UtaEFMVk9YdVc0UWdjWjAzWk5HbjV3UTd4a0tzaFYxU24xbzZsSS04cXZBRF9jQWd6UnlYWF92T3ExR05UMm1RTmdkTXZqUjE?oc=5"
+     "titulo": "Corinthians entra na reta final de investigação com cenário favorável à intervenção, diz MP",
+     "fonte": "R7 Esportes",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdjFOZHl6RFVFMTcwbUlnS25HNGFfd0JyVFVVZXVVNDJib2RkXzJ4VmpxcWVJRGNxaTUxSlAtTXpDaTV4eVBVVzJRRUV2SlRsRU5pUloxS2pfd1pCcldJTDlTYmJwUHBRbWJ3R1lmbFkwZllCTDlqNGtLMk5aYUlISXA1NzgtZDN2bk9UdlZ2bEFseDRwajlkeDZLNW9Td0JuUXFvZHRjQkhqYms4bFFtWmRTZDAxRmJVaExDV3hWa0JrYjU1RUt2MnpSMXROaDg?oc=5"
     },
     {
-     "titulo": "Fernando Diniz será demitido do Corinthians? Entenda a situação",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNa3pycmVFR2o5TjVvQmhyMlFJSTN0ZVRNT2VFUVNGd201MUhtRjhoV3ZyOWt3Skw5bGVtVzlYUzExdXFWRkNJNm9Tb3BuNzgyUDZaNW5MdFhlN0poQ2g5TGJ3OXhYTG5CTnIwMTczc2Q3MGZ3a09qNko4WGxMRzBhMldUc3g0aU9XUnR2bDFNdTFmV2NxS1g0cHNqbzUyczFIRnNPVVFDY054ODhEcVBRYmpBV2QxVXluU2J4c280TWQxckp0Z2dKa3FyTFhWUjVVeHJmZXBKWU1yRF9fRjRvb1pqQlB1V083YlE?oc=5"
-    },
-    {
-     "titulo": "Yuri Alberto é o único jogador presente em todos os jogos de Fernando Diniz no Corinthians",
+     "titulo": "Corinthians pode ter trio GYM junto pela primeira vez no segundo semestre contra o Internacional",
      "fonte": "Meu Timão",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcjF6RzlxckJFU2UwaE90c180R2dOSi1taWpUa2t6c0ZzR3BqTFR6MFZOU2FwU193UW1TSXpGRjZ0R2pFaXhUWFBhTmJSNGhWZGV2el9BZHQyX01nWHZ5aFJ5NWdTYnpSMDl6WG9xM0IwNjlpU0NKWXpKV1FaSXpxZ1pPUl83VGRTNnUtR1A1WjlqcjJwRXYtMEJXR1p2TFFCTjFORi02eWc4clVhczJfTVozekhrVWhUbEQzU0V4ZWw5dGhSTkNJcV9hWUlPVU9YVFI1LURqbDNLaVNITEtZQ3IzZw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQW5rbzd4SThXdTFVTGVHdmxJTWlTcnhJdml1N2ZMTWxrU0FPQ1BJajVJVmxKYzNpTFRFQVFqTVk2d0xuZlc5N3VVT2F4MHdHeUxucjRWVDlyWWRTVnVsX2w3VFNfMlcwWDF4N3ozQnRBWGtkdzFLSjEyTUUyUjdieFRqd09sNmJ0RnVvOEJHOEplVmkyem9jNTZ6SjNKV2NFVUFpVG9pSldrYVkwU2ZRSmVNWmcxSVB5TDdSaUc3ME52WTB3Z1N1RDBMS0RqZVBmVGZFdE1oemlLR3BZQ3VMd2VERGtwNHlxaDRZ?oc=5"
+    },
+    {
+     "titulo": "Diniz pode ser demitido do Corinthians? Veja os números do treinador",
+     "fonte": "Band",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnJLUkREOVh5RG5SSU9RTU1heWZkVnByd1lYUzFrZHQ1WG93dGdfbGtkOVV1OVBLbWIxVEcxdmR5WXZQQ2RnZFdkQlRRUFYzNjJTYkY1cDhJXzEwTmlwWEJXTmF4RTlmd25WUVpERFZLSmxlcXJsdk9OdUlYZHJ3a0huMktDM0pKXzh6dnE3WERQQzFJdVhyZi1BOEluMDVtZUQ3bHpNUjE5VHhnMkluZXE4YlJETXhjQUV6NThvNDNfRkR1?oc=5"
+    },
+    {
+     "titulo": "Diniz pode ser demitido do Corinthians hoje? Como técnico chega nos bastidores para 'final' contra Inter",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQem1oa1R5MmU1SzdlbkU1SzZTd01xODlUMC1YOHRmODUtNE5qVXdNUVVqVGFRSG9VYnNSUVBYRHRzYkJEQjNGdV95UENzN0J2R0U1UlZSVzhzelNCcGZWUFJseWpfY0NsWVVnR3MyZ0tiTDI0RGZUTlo3eEFDN3JHMmNCRTZkdVhlcVJxNEdFOWgybGVTMmptcG1zMnhoeU14S0hVbE1MSEFlQ0VyYXZSNW1NejZ3a1ZJYkNjbGhjcXlMQUlKR2NpWmtBNlBvN2hnenhEOE5TOEtVQkFYM2twa2RSb3RrNlNNemc?oc=5"
+    },
+    {
+     "titulo": "Investigação do MP entra na reta final e reúne indícios para pedido de intervenção no Corinthians",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcDFHNGNpX3ZudjhxdUV0R1ZmMmd5YmQ2bFRFMV9jT2JnalUxb21md0ZnSV80ZnA3Vkc0MmJFMXVxeFFWWFhMOEtIOURSd3RMZEZLelFZNUQ1d05yLTk0S0pFalNwaWdlbFg1X1NSMTJjdW1pSjFWUml0bDhCclZqRlJzY1FiYXdyQ2xwRUNSY1ZZVGVnUXFWY1J2T3RKSThxUk9HbDFZdmpxZDc0UlBqRjJYVUlqNEsxWFJiSE96ODlNRHBnZFpTNlRoQzM4ZmVPUC1ST21NaDlwRGdrWDFCaVZWbFVMXzFodFR0Zll3Mmhpdk1qdU11T2lkMVRXQdIBjAJBVV95cUxQa0JhaERkMHdka1IwbDBCdXhfaUF5ci1TZUt3bVdnVE92SUh1Ym5iUTNHX0hYTHNpcUZhX3NvRzlFanpjaENyQ19ua3hnek5vV2JQMV81T0dIQ0dhWjFhZHNFUDVwM3ZoSEhYNnVIcTA4dFY2MUJfMDVEZURIVDB5UmlQb1NheGpyZ1Nyb0ZTNUo1bnpRUUktM0xlNE9oVUdjR2hhSUtSTy1GRHNEVEtrRVV0NktpT3NaSHJQWVZJTDJmVUVDT0labDFCWXFCZWY1SWNKcUJmQzRuemhUaExTei0yQTdhdmMwV0Z0RkVaWHVKTVpCUmdEVF96YmZfcWRXZGlERTlaU0lCdjdn?oc=5"
     }
-   ]
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "l43DbiqM3I8",
+      "titulo": "DINIZ DEVE SER DEMITIDO EM CASO DE DERROTA PARA O INTER! BASTIDORES DO CORINTHIANS",
+      "canal": "Cortes do Nicola",
+      "views": 192,
+      "likes": 16,
+      "comentarios": 1,
+      "publicado": "2026-10-06T22:00:29Z",
+      "duracao_s": 198,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=l43DbiqM3I8"
+     },
+     {
+      "id": "43EQZxB9xs4",
+      "titulo": "DINIZ DEMITIDO HOJE? CRISE DE BASTIDORES E PROMESSA DE R$ 630 MI NO CORINTHIANS",
+      "canal": "Bando Digital SCCP",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-06T15:15:19Z",
+      "duracao_s": 106,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=43EQZxB9xs4"
+     }
+    ],
+    "consulta": "Corinthians Diniz demitido bastidores",
+    "n_videos": 2,
+    "mais_de": false,
+    "views": 192,
+    "top": [
+     {
+      "titulo": "DINIZ DEVE SER DEMITIDO EM CASO DE DERROTA PARA O INTER! BASTIDORES DO CORINTHIANS",
+      "canal": "Cortes do Nicola",
+      "views": 192,
+      "url": "https://www.youtube.com/watch?v=l43DbiqM3I8",
+      "publicado": "2026-10-06T22:00:29Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "DINIZ DEMITIDO HOJE? CRISE DE BASTIDORES E PROMESSA DE R$ 630 MI NO CORINTHIANS",
+      "canal": "Bando Digital SCCP",
+      "views": 0,
+      "url": "https://www.youtube.com/watch?v=43EQZxB9xs4",
+      "publicado": "2026-10-06T15:15:19Z",
+      "do_canal": false
+     }
+    ]
+   }
   },
   {
-   "tema": "Paulinho inicia transição física, e Palmeiras treina com foco no Bahia",
-   "categoria": "Notícia do dia",
+   "tema": "Santos x Flamengo: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão",
+   "categoria": "Arbitragem e VAR",
    "clubes": [
-    "Palmeiras"
+    "Flamengo",
+    "Santos"
    ],
    "foco": true,
-   "nota": 61.9,
+   "nota": 59.7,
    "sinais": {
-    "busca": 60,
-    "aceleracao": 13,
-    "midia": 100,
+    "busca": 30,
+    "aceleracao": 68,
+    "midia": 75,
     "aderencia": 100,
-    "youtube": null
+    "youtube": 41
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "paulinho palmeiras",
+   "busca_torcedor": "flamengo x santos",
    "termos_trends": [],
-   "n_fontes": 10,
-   "n_manchetes": 10,
-   "assinatura": "pauli|palme|inici|trans",
+   "n_fontes": 5,
+   "n_manchetes": 7,
+   "assinatura": "santo|flame|escal|prova",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Paulinho inicia transição física, e Palmeiras treina com foco no Bahia. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+    "formato": "Corte de debate (30 a 60 s)",
+    "gancho": "Aposto que ninguém vai ser punido por esse lance. Você aposta em quê?",
     "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Paulinho inicia transição física, e Palmeiras treina com foco no Bahia?",
+    "pergunta_enquete": "Qual sua opinião: Santos x Flamengo: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo ?",
     "tecnica": "Aposta",
     "ganchos": [
      {
       "tecnica": "Aposta",
-      "texto": "Paulinho inicia transição física, e Palmeiras treina com foco no Bahia. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+      "texto": "Aposto que ninguém vai ser punido por esse lance. Você aposta em quê?",
       "thumb": "MEU PALPITE"
      },
      {
-      "tecnica": "Dado",
-      "texto": "“paulinho palmeiras”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
       "tecnica": "Conflito",
-      "texto": "Paulinho inicia transição física, e Palmeiras treina com foco no Bahia. Nem todo mundo no Palmeiras vai gostar disso, e eu vou explicar por quê.",
-      "thumb": "QUEM TEM RAZÃO?"
+      "texto": "Santos x Flamengo Palpite – Onde assistir e escalações (08/10). Juiz de um lado, o Flamengo do outro: a imagem vai mostrar quem tem razão.",
+      "thumb": "FLAMENGO x SANTOS"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Paulinho inicia transição física, e Palmeiras treina com foco no Bahia. Parece notícia pequena. Não é.",
+      "texto": "Santos x Flamengo Palpite – Onde assistir e escalações (08/10). Muita gente está reclamando da arbitragem, mas a regra pode estar do outro lado.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Paulinho inicia transição física, e Palmeiras treina com foco no Bahia. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-      "thumb": "E AGORA, PALMEIRAS?"
+      "texto": "Santos x Flamengo Palpite – Onde assistir e escalações (08/10). Foi ou não foi? Responde nos comentários antes de ver a minha análise.",
+      "thumb": "E AGORA, FLAMENGO?"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Paulinho avança em recuperação e fica mais perto de voltar ao Palmeiras",
-     "fonte": "Notícias ao Minuto Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdWJBSXA5bGZ5Q1hOVGVBaWZrejg3MlpzM3VYd19VeWRzWUhJTEdsMkZCNUlpNjRWTFdMZXZ4eHd2cUY5akxNbFFSMVRtOUVQZlRlNEFFNkVIRF9IaHdQaENLMDdySWlvdW9EZWNlMndwTzdKejF6eFlCRW9EVGEwam1UNTdwM1JUblVGT29tZEcxMlJyMGdta3Fhd2lIZng2TDZGYXR6cktKSU5ZRGZ1dmxBRjQySTJxN1ZsUmt2TVQ?oc=5"
+     "titulo": "Santos x Flamengo: onde assistir, escalações e arbitragem",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUXhxTGNGby12SklXb1pwUFA1YUtSbjlQODFVa2ltdjJWa3haN09IWWNEQzRPR25WQTRzRkpzd3lUbkVIRWY0cG40VlVDbFA5NzcwRHlkTVZjeENYSHZnT0gwVUZqNlV2cUMyQVVlZF9NVVdXVlhQcTl3ZGMzRndyUk14cjFrdHBtaDJCcV9kanRvSTlSaVprRzhQMVVhd3FMNkRUSk1HYWtNbno0OHVpU3VqZ053S1E3bTk0a25ESjd2TXVGMUVWTTBvaFBPaTNiOU5oT0dJS2Y4VGtf?oc=5"
     },
     {
-     "titulo": "Paulinho inicia transição e Palmeiras treina de olho no Bahia",
-     "fonte": "GZH",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNTFvb19KUVFPeXcxSkwxQmxRd2V2cDBXVFJYUGQ4SzVVUG84Tk42QTgzUGRveFY1c0I5cG9JTVE4bkVnLThOR3o2UVVXbEd2RTRTNXNnZVhVRHdNa2RGOUVRZWJ3bC16SlNIS3laQURGb1RRVEZvVUNCQkVPYW1mR2Z2dVV0UFQ5bHVGemRzR2hxeXVyeWVkSlBjcUl5ZlZPUFdKb0tpLXdoREdKSDlDVzNqNHVjTmY3RzhHTmxSZVlrRnNudno0TG1mUXMwZXVTRnIyTVBBMWtqTXJXNkVrUDlFWQ?oc=5"
+     "titulo": "Santos x Flamengo: onde assistir, horário e escalações",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXNhNUtsY281RFpKUDRCTkdXRk1zQnB1WXhMNVNyTHk4alg1ZUstUWUxMEFzSy10X3FOYmRkd2hFUFlPUWI4TUNrdFljbGcza0ZUUEowbXNqWVJ1amhSR3NOc3VoX0lXSWRPYk91cldGelZpeG1xTjAzbktvRTNPaUNIeGg3TGsyUXRmYkNIUlh2Qi1obXRycEhJYmQ?oc=5"
     },
     {
-     "titulo": "VÍDEO: Paulinho inicia transição, e Palmeiras treina",
-     "fonte": "Imirante.com",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUldaVXdzZEZVSmhPdF90NkxERjYyX0tmVEhMdE5tTUsyeGZscnhrbGk4bVM3SzQwUDR0bktHQnpHRS1nUGlPZUgyTl9OM3FZR2RlRDdOOHI2aXdXWGFwbC1KdDlLS0p5S3FEaG5jQlpXb0VydHhMdkhYUWFFSFp2RTJvaFNYYzFaWkVtc0h5S0FsemNLT2VXbk0zNkFHaXdyUWY00gGjAUFVX3lxTFBSV1pVd3NkRlVKaE90X3Q2TERGNjJfS2ZUSEx0Tm1NSzJ4ZmxyeGtsaThtUzdLNDBQNHRuS0dCekdFLWdQaU9lSDJOX04zcVlHZGVEN044cjZpd1dYYXBsLUp0OUtLSnlLcURobmNCWldvRXJ0eEx2SFhRYUVIWnZFMm9oU1hjMVpaRW1zSHlLQWx6Y0tPZVduTTM2QUdpd3JRZjQ?oc=5"
+     "titulo": "Santos x Flamengo Palpite – Onde assistir e escalações (08/10)",
+     "fonte": "Trivela",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcHNHNGRhZ18xMHAzTGVmeU1kSkRDb0pfMFZkUkNYYlo3anRWT3FvZTFIdi1QbjU3MlRlZnl4RUlZQ2V0NlJWeGNzWVA5amtJdWlrVnRJc0F6Ykl2a1hZOXdIbW5jQVNFdjJ4R0xHRkg1UjFVeE5EVDlMQ21uQk1mUWlFQmJ3bVJLQmJiQzFn?oc=5"
     },
     {
-     "titulo": "Paulinho inicia transição física e fica mais perto de retorno no Palmeiras",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcHBGaWw3bUxacmpMSFpVWXBta1pLWF9GS25Kc1NWbmdUZVlVSUtacnJBdWpXRGEwcENtZ2hoR0hJcDNVeEdfM3hRaWcybGxQYXh0X0IxTXZ5S1BJSnYyMzMyZUxmWDAtUlFKOVFhb2loWXNrbHlUR1RqSEs5ZUc3eXhKUlJNTGJwakgzUkd2eVBMTS1tMEQ4Ym9iaUdjeGl2UzRDamZCY1JaMEZVRHVTUmVMWEhBMnhFbUMwNDVLd3lSeFhxaXNETWhBRmRmcGx0bk14dHJjUEpwM3o2anhj?oc=5"
+     "titulo": "PROVÁVEL TIME DO FLAMENGO CONTRA O SANTOS! REAGINDO AO @insiderfla",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81eExweDVrYTdQcTJPYU5lSmtGbUIwSmhUZERrUDdLVWUwOEdxcTZFLS1ROXBMdUNIT0NhWldFR3FtSDFGWVlGaFRfUTUtaU1RcmpSb0pR?oc=5"
     },
     {
-     "titulo": "Palmeiras treina com foco tático e inicia transição de Paulinho visando o Bahia",
-     "fonte": "Portal ABC do ABC",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRnNJSTVRVWdYLVZMNFc1bEU4WGpNSG5HZ1E2eklUUk9LTWJmYmNWVEJPN1duLW9wdUoyZWw1OWRISWI5STVXdWh5T3NlMFFKby1URTNPNDVCY1RrT0lKMGs1aEx2MHRLbDN0emljcFFnWks2TmtpM2hkdWdmTEtENElR?oc=5"
+     "titulo": "Santos pode ter Neymar contra o Flamengo; veja provável escalação",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTWd3S0NPemdSRU5saVhPeDJTQmp0bnUtZkZ1eUNTQlhEZnRwbERxc2RGMzJIdUZqcVAzd3dLNXRvUmp2aVpyWE52UUxYdC1uem5nU3FCaUstOXdneUxmZFBPMDh0aUFGaXBjZ1RqTXdwWktIenhpRS1IQnkyR2FrNTlnd1NyTWxjLWw5SFAtY2pYSFRaeU0tdkdCMFFUNW4tLWI2LUgyX3p5bk1MSWFOaUJfWmFxOGpCMV9ZeUYybEtnblZBSWptaDRDcTEyNjVhNDRjVnFfX1VVV1l0V0ZPdkI3bjZRQQ?oc=5"
     }
-   ]
-  },
-  {
-   "tema": "Paulinho vira novidade no Palmeiras e anima Abel Ferreira",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Palmeiras"
    ],
-   "foco": true,
-   "nota": 61.7,
-   "sinais": {
-    "busca": 70,
-    "aceleracao": 39,
-    "midia": 46,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "paulinho da força foi eleito ou não",
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "novid|palme|abel|ferre",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "O torcedor está digitando “paulinho da força foi eleito ou não” no Google agora. A resposta não é tão simples.",
-    "titulo_thumb": "VOCÊ PESQUISOU",
-    "pergunta_enquete": "Qual sua opinião: Paulinho vira novidade no Palmeiras e anima Abel Ferreira?",
-    "tecnica": "Dado",
-    "ganchos": [
+   "youtube": {
+    "amostra": [
      {
-      "tecnica": "Dado",
-      "texto": "O torcedor está digitando “paulinho da força foi eleito ou não” no Google agora. A resposta não é tão simples.",
-      "thumb": "VOCÊ PESQUISOU"
+      "id": "fRnypeO9wzc",
+      "titulo": "AS PROVÁVEIS ESCALAÇÕES DE SANTOS X FLAMENGO #santosfc #neymarjr #brasileirão #brasileirão #gabigol",
+      "canal": "dellacostasantista",
+      "views": 392,
+      "likes": 17,
+      "comentarios": 0,
+      "publicado": "2026-10-07T13:26:45Z",
+      "duracao_s": 53,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=fRnypeO9wzc"
      },
      {
-      "tecnica": "Conflito",
-      "texto": "Paulinho vira novidade no Palmeiras e anima Abel Ferreira. Por trás disso, tem dois lados que não querem a mesma coisa.",
-      "thumb": "QUEM TEM RAZÃO?"
+      "id": "gW6_eVP7ISE",
+      "titulo": "SANTOS x FLAMENGO AO VIVO | PRÉ-JOGO, ANÁLISE E ESCALAÇÕES | BRASILEIRÃO 2026",
+      "canal": "Sem mordaça",
+      "views": 4,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-06T19:59:00Z",
+      "duracao_s": 664,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=gW6_eVP7ISE"
+     }
+    ],
+    "consulta": "Flamengo escalações prováveis",
+    "n_videos": 2,
+    "mais_de": false,
+    "views": 396,
+    "top": [
+     {
+      "titulo": "AS PROVÁVEIS ESCALAÇÕES DE SANTOS X FLAMENGO #santosfc #neymarjr #brasileirão #brasileirão #gabigol",
+      "canal": "dellacostasantista",
+      "views": 392,
+      "url": "https://www.youtube.com/watch?v=fRnypeO9wzc",
+      "publicado": "2026-10-07T13:26:45Z",
+      "do_canal": false
      },
      {
-      "tecnica": "Contradição",
-      "texto": "Paulinho vira novidade no Palmeiras e anima Abel Ferreira. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Paulinho vira novidade no Palmeiras e anima Abel Ferreira. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
-      "thumb": "E AGORA, PALMEIRAS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Paulinho vira novidade no Palmeiras e anima Abel Ferreira. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
-      "thumb": "MEU PALPITE"
+      "titulo": "SANTOS x FLAMENGO AO VIVO | PRÉ-JOGO, ANÁLISE E ESCALAÇÕES | BRASILEIRÃO 2026",
+      "canal": "Sem mordaça",
+      "views": 4,
+      "url": "https://www.youtube.com/watch?v=gW6_eVP7ISE",
+      "publicado": "2026-10-06T19:59:00Z",
+      "do_canal": false
      }
     ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Abel prepara novidade no Palmeiras e nova aposta ganha força",
-     "fonte": "Portal | TN Sul",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSEV4a055cXk0ckl2bGRwVVNVZVdVbmtLUDdTdGVnNDc1UUJjYXpFNXFfa2FyUHNJUkZkUm5wWHJVeEoyNjhVeFFYSU1XcGtBclBRTkRDaXdNQlJqbDUycnRhaXFrazFmQjNLbnZ0NTVDdGZ5X0xlbkRMenZhVHJmMEwyb2hMQTItRE5ZQ1pyVnVFT200?oc=5"
-    },
-    {
-     "titulo": "Paulinho vira novidade no Palmeiras e anima Abel Ferreira",
-     "fonte": "CartaCapital",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0ZwdFdZYmgxT2tCVjVXME5KTDlyd2pIN0VNTFdNRUprdnEzdEQxNXlzM092VWhSUHZ5Q25Scmt4emM2ak96cFpUWlVEQ09EcUVYcDl0QXlSTUp3TGtIODZlQXdiRUR2ajRKR2k2WnRTSmhQS2dMTXdkYS1OTTQtbU5yaTJaZm00ZktPUHotRW1jdmt1RWlPbURMd2NwUzg?oc=5"
-    }
-   ]
+   }
   },
   {
-   "tema": "Jornal inglês coloca joias de Palmeiras, Corinthians e Cruzeiro entre as mais promissoras do mundo",
+   "tema": "Inter recebe Corinthians no Beira-Rio em estreia de Eduardo Baptista",
    "categoria": "Notícia do dia",
    "clubes": [
-    "Corinthians",
-    "Palmeiras",
-    "Cruzeiro"
+    "Corinthians"
    ],
    "foco": true,
-   "nota": 61.6,
+   "nota": 57.3,
    "sinais": {
-    "busca": 0,
-    "aceleracao": 94,
+    "busca": 50,
+    "aceleracao": 63,
     "midia": 67,
     "aderencia": 100,
     "youtube": null
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": null,
+   "busca_torcedor": "internacional x corinthians",
    "termos_trends": [],
    "n_fontes": 4,
    "n_manchetes": 4,
-   "assinatura": "mundo|jorna|promi|palme",
-   "ja_coberto": null,
+   "assinatura": "inter|eduar|corin|bapti",
+   "ja_coberto": {
+    "titulo": "INTERNACIONAL  X  CORINTHIANS  - 29ª RODADA",
+    "url": "https://www.youtube.com/watch?v=CH9iLpalAn0"
+   },
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
-    "gancho": "Jornal inglês coloca joias de Palmeiras, Corinthians e Cruzeiro entre as mais promissoras do mundo. Por trás disso, tem dois lados que não querem a mesma coisa.",
-    "titulo_thumb": "CORINTHIANS x PALMEIRAS",
-    "pergunta_enquete": "Qual sua opinião: Jornal inglês coloca joias de Palmeiras, Corinthians e Cruzeiro entre as mais promissoras ?",
+    "gancho": "Inter recebe Corinthians no Beira-Rio em estreia de Eduardo Baptista. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+    "titulo_thumb": "QUEM TEM RAZÃO?",
+    "pergunta_enquete": "Qual sua opinião: Inter recebe Corinthians no Beira-Rio em estreia de Eduardo Baptista?",
     "tecnica": "Conflito",
     "ganchos": [
      {
       "tecnica": "Conflito",
-      "texto": "Jornal inglês coloca joias de Palmeiras, Corinthians e Cruzeiro entre as mais promissoras do mundo. Por trás disso, tem dois lados que não querem a mesma coisa.",
-      "thumb": "CORINTHIANS x PALMEIRAS"
+      "texto": "Inter recebe Corinthians no Beira-Rio em estreia de Eduardo Baptista. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+      "thumb": "QUEM TEM RAZÃO?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Jornal inglês coloca joias de Palmeiras, Corinthians e Cruzeiro entre as mais promissoras do mundo. Parece notícia pequena. Não é.",
+      "texto": "Inter recebe Corinthians no Beira-Rio em estreia de Eduardo Baptista. Parece notícia pequena. Não é.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Jornal inglês coloca joias de Palmeiras, Corinthians e Cruzeiro entre as mais promissoras do mundo. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
+      "texto": "Inter recebe Corinthians no Beira-Rio em estreia de Eduardo Baptista. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
       "thumb": "E AGORA, CORINTHIANS?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Jornal inglês coloca joias de Palmeiras, Corinthians e Cruzeiro entre as mais promissoras do mundo. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
+      "texto": "Inter recebe Corinthians no Beira-Rio em estreia de Eduardo Baptista. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
       "thumb": "MEU PALPITE"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Jornal inglês aponta joia do Palmeiras e outros dois de times brasileiros entre os mais promissores do mundo",
-     "fonte": "NSC Total",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcUJoQU1yUkI5V3ltOTJhTkpoejhXVXJsQnhLY0hnRXpQN1k3d1dYcFRobW9GcmNuc2VfN2p6UzcxT1UzR3hQaWxqM2F2cm1KeDhGRDJILWQyMVRTUnVJRTBnckhqbV9rLUFJeFZvQ0JZYmY3UVJyQVVHWEdDbnZBT2ZPYU1TS0wzallYbllHRzkzQ292RHlRclZSSHhWUTJEWGtocG9FY0Z6UXZmTlBHMjhrTmdoQXU0WFdnZTlOWmVYRnNKT2NKbk9MX0o5NnFONndQRW9JazBjSmZ4Y1E?oc=5"
+     "titulo": "Inter recebe Corinthians no Beira-Rio em estreia de Eduardo Baptista",
+     "fonte": "Rádio Guaíba",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLU5JbjNRMnNSRjIyalVqOHprSXh3dnZuVGN3cUpkSFY4OER0dWNqR3dMZk1HLUlVR2dvVzJWUGJHNFQzMU5GT28walZCTnplV1hjNFdtc2hiRFByTEVCaEc5blk3SzgtZExjYlpYc0YtVGJsVUFVZDNUY09QUDZnN2hCQXBIek5Xc3ZleENwT0ttZTBvX3c?oc=5"
     },
     {
-     "titulo": "Jornal inglês coloca joias de Palmeiras, Corinthians e Cruzeiro entre as mais promissoras do mundo",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaVMyYVVTWFBkaGl5OEVpRHFadTdKeHdGVUNIdnlYcXJsODQ0X0pmNldkQUVSMEFVcUROMzdTNFZoaEUybm96VjNaRzhiMXloYTUtRzctMTktVmZPWjB3Sy1yMy1WMkExUGZyQWVtdExsc21nUmFOUG9uVG94c1ljOWJWTTlVdE9uZkZ4NFNXWE9zMGNEampFUnp3QmstLUpCaG81YUZ3LTlKcHZBR0dZWDExemNjR0YzVHl3TjQxRnN3dVlRU1lNNS0wSnJLX0k4V0hKa0d3Qk1vYjB6bEhuNlZoZE0?oc=5"
+     "titulo": "Inter estreia Eduardo Baptista em confronto decisivo contra o Corinthians",
+     "fonte": "Sistema Província de Comunicação",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR2Rlb2hMRlIzMTBYME1QeVhrYVRvSjAzemtoTzd0TTZLWjVIXy1TaFBDVGNadi1DVlowc1c1Wk9YRHhJNGJfQjFYUXQ2bXpFejdDZ1hSSC0zaU14Nmd3X1N1dF9Vc3otZHF5aTNpOEFINWwya0FEZzRmVmowNWFrdU52TkhBdUR4NGtDRnZaTGx5WmRpMGxsSjZoU1lrci1RWmZsLTUtYW1lYTFGeFJjcTdZU1c1MkpfbGw4?oc=5"
     },
     {
-     "titulo": "Jornal britânico coloca zagueiro do Corinthians entre 60 jovens mais promissores do mundo",
-     "fonte": "Meu Timão",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd2VrRmhiem9XVVRNQzZfdmI3ZDg2dFhzNXo2MHRjeDNrc3BmLU9ZYm5MS0JsU3NJTHRTc204eXpIcmxSQkVBTzdFRE1Ea1c4Zm1XMjA0c1JNeTJQR0YtRldoRzVManVrbkUyT3oteHR3TnRweEU2THdvb0VLTloxMkNvRF9mZXR4azdhRHdjWEtPQTZKa0ZIVDN5SmJid0R3ci1oSXFzcWVRMnF3WUhvNzNOVGRsX2VoeW9DN1dnWHdHcXRfN2ZvMUJYbzZSaWFlX3p6akNhZE94VzVveHJ3?oc=5"
+     "titulo": "Na estreia de Eduardo Baptista, Inter recebe o Corinthians pelo Brasileirão",
+     "fonte": "Jornal - Folha Popular",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU2hDVWtTQlg1RHhVZzVfdlJEMkdib2s3TzNTTzlSdFdOZ3R4WnZfb202ZU0xQV9oQTRiMndTWkVhdllsaVdVSF96d014bE1TRXVGVmpWVi1tSEZsQ2F4VGd5RGlpalc4R1hoaGdnT1UtUmR3VkNoSkhPMGNnbWlkTnc5SG15Y3dVNS1fOS1wclFDZUtRb3ZBdllpdm5mVGFqaWRwZmFMazhKbS1wSkZWclh3bm1VbU1CTmc0MGgtbw?oc=5"
     },
     {
-     "titulo": "Joias de Palmeiras, Corinthians e Cruzeiro entram em lista de promessas",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObzR6UzNMVGoyU21ZUWtaNTdZU29ickpyak9RdzdGN21YMHhXNF9Ed2gwZWlkdjdJY29ieWxVbFBZZ1R3NWNtRHhQQ0twNlEtYWFKMmJ0UUJ6Rm9HWktuZC03aTByNVlobEQ1djNCQ3NEYmlYMnRneVN1dlIwVFItWTJ0ZVp6Uk9zZEhZc0x3YnBKUE1PVElzeUdCaWp5VjRhWlViZTdVd1RITFZTUmdmUjNrU3hlSWs0WmZjWURTS2xFZm5LVkh1QVZ0SkdLQVJpaXFycG9qR3VEd0FKckh1VWlJQUtqaUE2QWc?oc=5"
+     "titulo": "Entenda como Eduardo Baptista pretende montar o Inter contra o Corinthians",
+     "fonte": "GZH",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeG00MF9wUk5iX3FyNUdqTVZtUEo3Vng0SElQSjI2TFRRV3BLZlIxaS1YYUllXy0xbk1Yb205d2pVZWxYNVF3OGVLRlYtOS0zdXdNbzlkeUtURFNmUWJrSHVUd2c0RVJ3NW1zbjJjaXp0blpvSy1PQTk5cU9oQkp1c1pDZk5rT0VBdTIzYll5UE5xRWZvSTBFbE1xeXR6VHFCUkFQaF8zb0V1WXZTWUQ0RHRJLTJRSzYwMDRjR1VlMS01ZGFIRzdFWldpeFQzaEhMdHpaNmZVWXc5RG5sdHNFQmUyT21mS3otQTZsbG5Od08xWDVkbW9aSVpMSnI?oc=5"
     }
    ]
   },
   {
-   "tema": "Como Eduardo Baptista montará o ataque do Inter diante do Corinthians",
-   "categoria": "Notícia do dia",
+   "tema": "Pedro Volta Ao Flamengo Após Destaque Na Seleção Brasileira",
+   "categoria": "Seleção",
    "clubes": [
-    "Corinthians"
+    "Flamengo"
    ],
    "foco": true,
-   "nota": 61.6,
+   "nota": 56.7,
    "sinais": {
     "busca": 55,
-    "aceleracao": 53,
+    "aceleracao": 37,
     "midia": 46,
     "aderencia": 100,
     "youtube": null
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "internacional x corinthians",
+   "busca_torcedor": "internacional x flamengo",
    "termos_trends": [],
    "n_fontes": 2,
-   "n_manchetes": 3,
-   "assinatura": "corin|eduar|bapti|inter",
+   "n_manchetes": 2,
+   "assinatura": "flame|volta|pedro|recla",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Como Eduardo Baptista montará o ataque do Inter diante do Corinthians. Parece notícia pequena. Não é.",
+    "formato": "Lista ou ranking (3 a 5 min)",
+    "gancho": "Pedro Volta Ao Flamengo Após Destaque Na Seleção Brasileira. Todo mundo está olhando para um lado; o que importa para a Seleção está do outro.",
     "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Como Eduardo Baptista montará o ataque do Inter diante do Corinthians?",
+    "pergunta_enquete": "Qual sua opinião: Pedro Volta Ao Flamengo Após Destaque Na Seleção Brasileira?",
     "tecnica": "Contradição",
     "ganchos": [
      {
       "tecnica": "Contradição",
-      "texto": "Como Eduardo Baptista montará o ataque do Inter diante do Corinthians. Parece notícia pequena. Não é.",
+      "texto": "Pedro Volta Ao Flamengo Após Destaque Na Seleção Brasileira. Todo mundo está olhando para um lado; o que importa para a Seleção está do outro.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
+      "tecnica": "Conflito",
+      "texto": "Pedro Volta Ao Flamengo Após Destaque Na Seleção Brasileira. Clube e Seleção puxando para lados diferentes: quem tem razão?",
+      "thumb": "SEM PEDRO?"
+     },
+     {
       "tecnica": "Pergunta aberta",
-      "texto": "Como Eduardo Baptista montará o ataque do Inter diante do Corinthians. Isso é bom ou ruim para o Corinthians? Responde antes de ver a minha análise.",
-      "thumb": "E AGORA, CORINTHIANS?"
+      "texto": "Se você fosse o técnico da Seleção, quem chamaria agora?",
+      "thumb": "E AGORA, FLAMENGO?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Como Eduardo Baptista montará o ataque do Inter diante do Corinthians. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+      "texto": "Minha aposta para a vaga de Pedro: [SEU PALPITE]. Qual é a sua?",
       "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "Eduardo Baptista precisa ter êxito de 100% contra o Corinthians. Parece só um número, mas ele vai pesar nos próximos meses do Corinthians.",
-      "thumb": "100%"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Como Eduardo Baptista montará o ataque do Inter diante do Corinthians. Por trás disso, tem dois lados que não querem a mesma coisa.",
-      "thumb": "QUEM TEM RAZÃO?"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Eduardo Baptista precisa ter êxito de 100% contra o Corinthians",
-     "fonte": "GZH",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdllwaU5nMjdjRzRwS3d5dVNmNU54SG1SNWJvTlc3VUlDVm5hSTJKbDkwaFZ0M1o0bmFZNFhJRktnMlRyeWxlOEQ4ejR0NWZCQ09wTmF4eF9MZ29BWDY3WW9ESS1TZWVWSkpJZ0FjNC1pQkFaWTBzZTFSdFVqSVhjcVBUQWZwcWhNdXlZQlZCRWxEc190STNXeFRscmtZcTliTVl6S0NIOGZrRnF2a3c1czVoLXcydjN6MWFCY3dqcmxQY0pDRHBJMEl6V3FUN25SU1d6UFNfXzlENEM4VFRjYkVRU3d3X1FQck9HYTVCcm1PRS1JVWppUHBKT2JVeFk?oc=5"
+     "titulo": "Pedro Volta Ao Flamengo Após Destaque Na Seleção Brasileira",
+     "fonte": "InMagazine",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fOXJmVzlRV3pVS1FDb3k0OTE4cmtOWVdjRnZsVlF4ZnRUQk9jU2tab2ZPYWV0T3BmdGNXSUdtamEyYWdQck9wcDNITGhTTmdFSnBWOVVTb1RCVXZYNFJsN1ZzUUZGQlVoZ09xaXlabERDdDgxZ1dpMw?oc=5"
     },
     {
-     "titulo": "Eduardo Baptista estreia pelo Inter diante do Corinthians no Beira-Rio",
-     "fonte": "Rádio grenal",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRTJ4R0VKU1lqMnZWTmc4X21Xb1N5b0JQSHd0ejg4aS11aEtFelpoSTZJQ01wMjhfR0JDeTQ0cFpqQ3ZBOXJiUnRLYTJiODFsWDUwQWduVmxsZHJKLURlMTBqUjJrbHNOTmFjRkdvU0pESXk3aVMyX3BLSWI0dG9yMkNDRlAwZzdpZkM1NG5mWHNIWFJWN2hnR2REdFphRXhnRjhCSQ?oc=5"
-    },
-    {
-     "titulo": "Como Eduardo Baptista montará o ataque do Inter diante do Corinthians",
-     "fonte": "GZH",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQR05tNm90UjVvUm1qYmdTZzk5UV9ma3NMLTl0emxPaEFnREJGeE5Ba0NnczU3RjN0MkFPRXUxTjV1MkMyelhxVllfTm82YmN5MVJDdklqNUczVHI4UTB0Y0RSaHJ5Q2lRY3lIMHI1TmN5YWc5eHBmNUowOHF4SHlMVVU4VWhZblRnd2VCRjVuVjBEeTY0TWRCUDFxSU5ybkFfb3VncmRDeWY2TDloZmZ2UnA3SlU4VE5HaE43dloydXhLdDFxWHJqRDN2eGVLQm9lVkR4X1FhTU45Nkk5MlBxWmxWbk1tRkRjcHpOMVBFVEx3am56SHc?oc=5"
+     "titulo": "Pedro se sai bem em estreia com Ancelotti, mas volta ao Flamengo após reclamação e insatisfação interna",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSGJreGhrMVFOSkVheDdrZm1rdF9LMHJ0cUFuWVdpb1F6aHBJOVkxSGh0ZEVSUEgxVE96TW1ld2F3WWg5eHZyY292NHFUaU9XSm5Ha0RUWHRtbFFsRDRRaXZRVnNzLXpUOU05X190SHg0SnI4WHdudUFGQl8wR1RrYnZBNTZWWFYzRVdKSmcxZDR3UFJrTGN3V1RHcDRZejJDVUFweU5YSVBhT3BYakJBNERNb0pNdzMxa0VDbkt6SEkxY3pMa2M4ZTBVeHpTYWVwMHhUY1ctZVdmMWFmYmZuRTh0SkltUENxNlZLLS1VcEFheDhOak1sTnpQMEJFTHdi0gGPAkFVX3lxTFBPSUVnTzNIOVdMU0hWVTAzZkdOWWZlZGt6bFhvTE81WXBKTEdQZ0Z5VjlFa0tnTTloUVRrTU4yMWM4VXFDYUtPNWxmNWp4Yk0wU1MyT2RsaGJtWmh2MVJRTXJGWkhtZnZmWFBmeWJrSUt5ZjJaMGJ5VHdOcnlwVlVBYmtPZFhYcUhVSEtZbHNlNmkxNkhzaG9hMUJLNHQ4NkVDZEVSRnd5OFBPa2VsSDlHR2ROSEdXRWkyMExzOUkzS0VFb3JwT2h2ZnBPdHdXaUh6TFpXNG9EWHZiYk03eHlxN0p2dmJfemdlX1h4c2NTd1RaVmVDNEVJc01zOV8yNC16MjhlTWtTT0FZemNMa0U?oc=5"
     }
    ]
   },
   {
-   "tema": "O retrospecto entre Inter e Corinthians no Beira-Rio na era dos pontos corridos do Brasileirão",
-   "categoria": "Notícia do dia",
+   "tema": "Flamengo quer zagueiro na mira do Tottenham e recusou propostas de R$ 392,6 milhões",
+   "categoria": "Finanças e gestão",
    "clubes": [
-    "Corinthians"
+    "Flamengo"
    ],
    "foco": true,
-   "nota": 61.5,
+   "nota": 56.4,
    "sinais": {
-    "busca": 55,
-    "aceleracao": 45,
-    "midia": 58,
+    "busca": 30,
+    "aceleracao": 61,
+    "midia": 46,
     "aderencia": 100,
     "youtube": null
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "internacional x corinthians",
+   "busca_torcedor": "flamengo x santos",
    "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "inter|corin|brasi|beira",
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "milho|flame|mira|neyma",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "O retrospecto entre Inter e Corinthians no Beira-Rio na era dos pontos corridos do Brasileirão. E agora: o que muda para o Corinthians?",
-    "titulo_thumb": "E AGORA, CORINTHIANS?",
-    "pergunta_enquete": "Qual sua opinião: O retrospecto entre Inter e Corinthians no Beira-Rio na era dos pontos corridos do Brasile?",
+    "formato": "Explicador de bastidor (2 a 4 min)",
+    "gancho": "Flamengo quer zagueiro na mira do Tottenham e recusou propostas de R$ 392,6 milhões. De onde vai sair esse dinheiro?",
+    "titulo_thumb": "E AGORA, FLAMENGO?",
+    "pergunta_enquete": "Qual sua opinião: Flamengo quer zagueiro na mira do Tottenham e recusou propostas de R$ 392,6 milhões?",
     "tecnica": "Pergunta aberta",
     "ganchos": [
      {
       "tecnica": "Pergunta aberta",
-      "texto": "O retrospecto entre Inter e Corinthians no Beira-Rio na era dos pontos corridos do Brasileirão. E agora: o que muda para o Corinthians?",
-      "thumb": "E AGORA, CORINTHIANS?"
+      "texto": "Flamengo quer zagueiro na mira do Tottenham e recusou propostas de R$ 392,6 milhões. De onde vai sair esse dinheiro?",
+      "thumb": "E AGORA, FLAMENGO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Todo clube fala em equilíbrio. Santos repete Flamengo como novo patrocinador e mira até R$ 50 milhões. Esse número conta outra história.",
+      "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Aposta",
-      "texto": "O retrospecto entre Inter e Corinthians no Beira-Rio na era dos pontos corridos do Brasileirão. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+      "texto": "Eu aposto que essa conta chega no elenco do Flamengo ainda nesta temporada. Você aposta em quê?",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Dado",
-      "texto": "“internacional x corinthians”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
+      "texto": "Santos repete Flamengo como novo patrocinador e mira até R$ 50 milhões. Guarda esse número, porque ele muda a conversa sobre o Flamengo.",
+      "thumb": "R$ 50 MILHÕES"
      },
      {
       "tecnica": "Conflito",
-      "texto": "O retrospecto entre Inter e Corinthians no Beira-Rio na era dos pontos corridos do Brasileirão. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+      "texto": "Flamengo quer zagueiro na mira do Tottenham e recusou propostas de R$ 392,6 milhões. Nessa conta, tem quem ganha e tem quem paga, e não é a mesma pessoa.",
       "thumb": "QUEM TEM RAZÃO?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Com ajuda de Neymar, Santos repete Flamengo como novo patrocinador e mira até R$ 50 milhões",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcDhNOHRTUnFFUGx3bkF3RTNFbFdyWGVndkprcFhlV0hjLWJ6aWEtLWpVNWx4YlJEN0ZkNkprVHI3NnFEX213eXJGU2ExaWlrbjdEZHBnam9GVmFjeDcyOVZtcnpGUjVkWU1GNXpWQU5FTloydzBpZ3RsVG4wX01nQ0pEODhwdVBXckhqMURiTTd5dE9vVUdGQk9jUW1xZV9ZaDJPVmVMUFdsM1dScDd4RUN5VHJyUlhuaTFWVzhDZDRfa3FqZkxmckdhVkZlaDhLc1doR1J6RUkyTTUwNWI2S2dYdVQ?oc=5"
+    },
+    {
+     "titulo": "Flamengo quer zagueiro na mira do Tottenham e recusou propostas de R$ 392,6 milhões",
+     "fonte": "www.jornalcruzeiro.com.br",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeC1Sa25JNVlUcFNQaUk0OC1telE1aW9XWHRqbWdXR1FKamNad29uc1BwSzI0ZTJWMFRXSlpOcnhjZVJTVHNfUHNiZnZ5MGx2ZG45dEt2QldLRnVnMXBTN3J2Nlg5YnFkb1M0anZSemhZa0hQV3RBRC1hUTdsajdVMkRHWkwwb3JMcXEwaWU1bHhwT3hyS2llVWQ4UGo0VjZlTmNsM0VqUW9YVmNNNGxzSXlfYXMzc0JSMFFzVWpxamZ0ZWpFUnc?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Santos terá mudanças e desfalques importantes para enfrentar o Flamengo",
+   "categoria": "Lesão e desfalque",
+   "clubes": [
+    "Flamengo",
+    "Santos"
+   ],
+   "foco": true,
+   "nota": 56.2,
+   "sinais": {
+    "busca": 30,
+    "aceleracao": 46,
+    "midia": 67,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "flamengo x santos",
+   "termos_trends": [],
+   "n_fontes": 4,
+   "n_manchetes": 4,
+   "assinatura": "flame|santo|desfa|jogo",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "6 desfalques. Esse é o número da semana no Flamengo, e eu vou te mostrar por quê.",
+    "titulo_thumb": "6 DESFALQUES",
+    "pergunta_enquete": "Qual sua opinião: Santos terá mudanças e desfalques importantes para enfrentar o Flamengo?",
+    "tecnica": "Dado",
+    "ganchos": [
+     {
+      "tecnica": "Dado",
+      "texto": "6 desfalques. Esse é o número da semana no Flamengo, e eu vou te mostrar por quê.",
+      "thumb": "6 DESFALQUES"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Santos terá mudanças e desfalques importantes para enfrentar o Flamengo. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
+      "thumb": "E AGORA, FLAMENGO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Santos terá mudanças e desfalques importantes para enfrentar o Flamengo. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Santos terá mudanças e desfalques importantes para enfrentar o Flamengo. Nem todo mundo no Flamengo vai gostar disso, e eu vou explicar por quê.",
+      "thumb": "FLAMENGO x SANTOS"
      },
      {
       "tecnica": "Contradição",
-      "texto": "O retrospecto entre Inter e Corinthians no Beira-Rio na era dos pontos corridos do Brasileirão. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
+      "texto": "Santos terá mudanças e desfalques importantes para enfrentar o Flamengo. Parece notícia pequena. Não é.",
       "thumb": "NÃO É BEM ASSIM"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Internacional e Corinthians se enfrentam pelo Brasileirão na quarta-feira",
-     "fonte": "ND Mais",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcURpUWphNzlNYmg3eHIwS0JMTDBsZ21CbjFSbVBqb2ZfLXdSTWd6TnktSlZUWXRpMWhUSUxKdWhrUGU1d3oyUVZsRmVoVUhqcWlua2RxbmtJczZQTnUxaUhFVmN3RW40czJ2cTNkbjY0M3lBdGJZTzlHdllpVk1JbFNkR1B5bkZSMGcwT1MtRXlRNDY3ZGtUWVdBaV9jYUh2SnhxZw?oc=5"
+     "titulo": "Santos terá mudanças e desfalques importantes para enfrentar o Flamengo",
+     "fonte": "ContilNet",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFBuUHRocWtaWTdFQWhmQi16QmU2S1E2bkxhTDJDZXRkaUZjU0tQdXlKMWlueEhSVzljTGppWTRzR19KTGtneGdjd0wtUTZtOF9oajZWSWtYWENkWDZSRGI1YlRLdWpmT2lraXlUdVRWVGpjQ3hadnlXRjgyemVvVURVV1lud0phOHVZLVowdEtsVXd3QUp1VFNlbmJ5OUltVnVCYjJTTWdGVUF1eHJwbG9lUQ?oc=5"
     },
     {
-     "titulo": "Inter espera bom público no Beira-Rio contra o Corinthians",
-     "fonte": "Rádio Guaíba",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGVIeXEzZ2U2cDNsNzB5Qm1NaEozREVYLW45d0U0LTBKT1BjREJaVXhtaWNycVFyeV9NX3k0SUw4SEloTVVFX0o1azVVT2lscHEza09fc3JpQ3RfZ3pQdFBibXVtUXZNYktLVXBhcjQ1d2s2c1p2bGxnUFBLQUVvb1FGWDU3MlJJ?oc=5"
+     "titulo": "Com desfalques importantes, Santos terá mudanças contra o Flamengo; confira",
+     "fonte": "Metrópoles",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUxNTGlLVXNWZTktblhyM2pVSGlwUlNDdnZpNXgxTUpqbWF2Z1B2eHh0WmtSN2lHSl82enNHOVBNdHcybzN1X1BENGZHSFhmQTRuaFJGMGpaTjBvaUpJX3J6YWJCY0F2Wk5ETndJa1Q0X0lWbmJSVHAzbHpleDRta0dBZlJUNzZkWHlaSkdyREdxR1FHMlpyUlVzN0xPZWxYY1lPbkRLWGYyWk9IaWc?oc=5"
     },
     {
-     "titulo": "O retrospecto entre Inter e Corinthians no Beira-Rio na era dos pontos corridos do Brasileirão",
-     "fonte": "GZH",
-     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxONUlyZEJCUm83ZmVvWlk0TUhVMHdvbmZObEx0ckVrQVJhcFlWOVJjVFFCYmNoVFNyemJmc1Z4NTZud0MtYnN3SWRNaTBoV1lULWd6OHlkT19EU3lDNEQxOWotXzZmRmF0OEV6VEt5VUpRaWpVMTNza0FCejBKb3dRTkFyNkowV3ZjUlRYb0x5SjNZRkVGeVVjLUJRMmRGbVJ6T1RBazZWb2hqdXRRSE10X050Ym9nd2VGWVEwNjBFMWdZNGxxb2hxNUdCVUhuRjI5UFhyX0NLMV9Md2QxVzZBNjBYLWNZRVp6eTVvcTAxSkpPMjQxZDFrSDFTV0hHT2E3VURIMlpWcmFOVm9kWGxUaWZfTmxWTEk?oc=5"
+     "titulo": "Flamengo deve fazer protesto contra MP das Bets em jogo contra o Santos",
+     "fonte": "Jornal da Orla de Santos",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS29YeEttR1kzRVU4TXpEenNmSWJQMmJGcUN2QlJLbFFEZjlZWGdHMWVWclJZS251c0wxRW1laS1vdkluVU4yb1hTWmhkTEpDMFJRQi1pQVEzUDI2M0JPOGY0VThpUWtqVmFhc0V3dVM5NVpmeWlCbUMzdXlLS2N1dHFqamxLWk0tZk84QW5weDBrcXFadl9JVy1xY3F0Z2UyUnRLQ3QtdFBKM1VIUWc?oc=5"
+    },
+    {
+     "titulo": "6 desfalques marcam o jogo entre Santos e Flamengo",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeEtmUjluNGFJMjNxRy1EMmFKLXJ0eHZweEFTZXp6QkpLZlBUSzVkM3NQcmloU1FtRjNCN2pqRkVxQ0k3R05aR1VPVWk2WTAzb1NxcmR2bFVKV3BfMzRlaF9JSWRwanhwUTdBRDd6UHRsYlRGR2d3b0sxQzU1QUhpZVp1ZVRSVVQtUDE0RVczR0tKdy16M2hNNkJwelQxa2d1R2JlVjdBMlp1NWNJb3JhYzhYTXVjbHE2V2dLTk5sVUV0LXlwZ0xaMEM2RWptYUs3MnhteEtB?oc=5"
     }
    ]
   }
