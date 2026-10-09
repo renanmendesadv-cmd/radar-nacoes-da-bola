@@ -1,51 +1,35 @@
 {
- "atualizado_em": "2026-10-07T17:51:46.921038+00:00",
+ "atualizado_em": "2026-10-09T22:45:43.392952+00:00",
  "alertas": [
   {
-   "id": "hhYnSBQ8lnY",
-   "tema": "Inter retoma parceria e terá patrocínio máster pontual contra Corinthians e Grêmio",
+   "id": "EVmuBjgNItc",
+   "tema": "Dublagem de Santos X Flamengo! #dublagem #flamengo #santos #neymar #brasileirão #futebol",
    "clubes": [
-    "Corinthians",
-    "Grêmio"
+    "Flamengo",
+    "Santos"
    ],
-   "origem": "Pauta do radar",
-   "formato_em_alta": "Vídeos longos",
-   "sugestao": "Vídeo de 8 a 12 min com análise e opinião forte logo no início",
-   "dica_do_canal": "No seu canal, Transmissão de jogo rende 1,8x a média: puxe o assunto também na próxima live.",
-   "n_videos": 23,
-   "views": 105456,
-   "velocidade": 12.0,
-   "engajamento": 2.1,
-   "engajamento_pct": 5.7,
+   "origem": "Em alta no YouTube (Esportes)",
+   "formato_em_alta": "Shorts",
+   "sugestao": "Short de 30 a 60 s com a sua opinião ou reação (poste o mesmo vídeo como Reels no Instagram)",
+   "dica_do_canal": "Seu canal quase não tem Shorts: é uma chance de testar o formato com um assunto que já está bombando.",
+   "n_videos": 1,
+   "views": 761286,
+   "velocidade": 286.0,
+   "engajamento": 2.3,
+   "engajamento_pct": 6.1,
    "ganho_hora": null,
    "exemplos": [
     {
-     "titulo": "SP: NOVO MÁSTER? PEDRO SEM CLIMA| TIMÃO: 5º FAVORITO PRA CAIR| JORGINHO NO VERDÃO? GALO, NEY, MESSI+",
-     "canal": "Canal do Nicola",
-     "views": 20158,
-     "url": "https://www.youtube.com/watch?v=hhYnSBQ8lnY",
-     "formato": "Vídeos longos",
-     "views_hora": 4380
-    },
-    {
-     "titulo": "PATROCINADOR MASTER PONTUAL CHEGANDO? | CAIXA E CORINTHIANS AVANÇAM POR QUITAÇÃO | YURI VOLTOU!",
-     "canal": "TV Central do Timão",
-     "views": 1636,
-     "url": "https://www.youtube.com/watch?v=sJprl54TPRM",
-     "formato": "Lives",
-     "views_hora": 1079
-    },
-    {
-     "titulo": "HOJE TEM INTER X CORINTHIANS: TIMÃO PRECISA REAGIR E YURI ALBERTO ESTÁ DE VOLTA",
-     "canal": "PodcasTIMÃO",
-     "views": 5318,
-     "url": "https://www.youtube.com/watch?v=qk66HGrMt_U",
-     "formato": "Lives",
-     "views_hora": 1068
+     "titulo": "Dublagem de Santos X Flamengo! #dublagem #flamengo #santos #neymar #brasileirão #futebol",
+     "canal": "Gustavo Machado",
+     "views": 761286,
+     "url": "https://www.youtube.com/watch?v=EVmuBjgNItc",
+     "formato": "Shorts",
+     "views_hora": 75492
     }
    ],
-   "gancho": "Inter retoma parceria e terá patrocínio máster pontual contra Corinthians e Grêmio. Parece só uma questão de dinheiro. Não é: isso chega no campo.",
-   "avisado_em": "2026-10-07T17:51:46.921038+00:00",
+   "gancho": "Dublagem de Santos X Flamengo! #dublagem #flamengo #santos #neymar #brasileirão #futebol. Isso é bom ou ruim para o Flamengo? Responde antes de ver a minha análise.",
+   "avisado_em": "2026-10-09T22:45:43.392952+00:00",
    "pelo_vigia": true
   }
  ]
