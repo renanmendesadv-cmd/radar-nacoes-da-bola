@@ -1,1502 +1,418 @@
 {
- "palmeiras titulo chances": {
-  "dia": "2026-10-09",
-  "resultado": {
-   "amostra": [],
-   "consulta": "Palmeiras título chances",
-   "n_videos": 0,
-   "mais_de": false,
-   "views": 0,
-   "top": []
-  }
- },
- "corinthians carille negativas opcao": {
-  "dia": "2026-10-09",
-  "resultado": {
-   "amostra": [],
-   "consulta": "Corinthians Carille negativas opção",
-   "n_videos": 0,
-   "mais_de": false,
-   "views": 0,
-   "top": []
-  }
- },
- "corinthians sylvinho ramon diaz": {
-  "dia": "2026-10-09",
+ "corinthians emiliano diaz explica": {
+  "dia": "2026-10-10",
   "resultado": {
    "amostra": [
     {
-     "id": "yoTAY-TzyYE",
-     "titulo": "Possíveis nomes para assumir o comando do Corinthians. #corinthians #ramondiaz #mercadodabola",
-     "canal": "Fiel News",
-     "views": 23655,
-     "likes": 947,
-     "comentarios": 34,
-     "publicado": "2026-10-09T00:36:06Z",
-     "duracao_s": 66,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=yoTAY-TzyYE"
-    },
-    {
-     "id": "1q6_E9SYtJQ",
-     "titulo": "BOMBA: CORINTHIANS DEMITE DINIZ! RAMÓN DÍAZ DE VOLTA? + TITE PASSA VERGONHA E NEYMAR RELACIONADO!",
-     "canal": "Oeste Esporte",
-     "views": 16584,
-     "likes": 459,
-     "comentarios": 1,
-     "publicado": "2026-10-08T17:50:41Z",
-     "duracao_s": 7611,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=1q6_E9SYtJQ"
-    },
-    {
-     "id": "YW1Alc54gsY",
-     "titulo": "CORINTHIANS PERDE PRO INTERNACIONAL POR 2X1 E DINIZ É DEMITIDO | RAMÓN DÍAZ, SYLVINHO... E AGORA?",
-     "canal": "CTC - Canal do Torcedor Corinthiano ",
-     "views": 16422,
-     "likes": 361,
-     "comentarios": 2,
-     "publicado": "2026-10-08T13:18:07Z",
-     "duracao_s": 7901,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=YW1Alc54gsY"
-    },
-    {
-     "id": "4vi36auFaKE",
-     "titulo": "🚨 UM NOVO CORINTHIANS!? R$ 27 MILHÕES DA CAIXA, SALÁRIOS PAGOS E RAMÓN DÍAZ NA MIRA",
-     "canal": "CORINTHIANS 1910 INFORMATIVO ",
-     "views": 14259,
-     "likes": 216,
-     "comentarios": 2,
-     "publicado": "2026-10-08T22:05:17Z",
-     "duracao_s": 1109,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=4vi36auFaKE"
-    },
-    {
-     "id": "Ojsu_ymTm2c",
-     "titulo": "🚨 RAMÓN DÍAZ VAI VOLTAR?! ELE É O FAVORITO PARA ASSUMIR O CORINTHIANS",
+     "id": "DAtujTorXzw",
+     "titulo": "🚨 POR ISSO RAMÓN NÃO FECHOU! CORINTHIANS QUERIA SÓ EMILIANO DÍAZ",
      "canal": "Fiel Informa",
-     "views": 11538,
-     "likes": 184,
-     "comentarios": 8,
-     "publicado": "2026-10-08T10:20:45Z",
-     "duracao_s": 541,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Ojsu_ymTm2c"
-    },
-    {
-     "id": "BcN4xHgAYX0",
-     "titulo": "RAMON DIAZ OU SYLVINHO: QUEM SERÁ O NOVO TREINADOR DO TIMÃO? VOJVODA É OPÇÃO DE MARCELO PAZ E+",
-     "canal": "John do Timão",
-     "views": 10965,
-     "likes": 897,
-     "comentarios": 98,
-     "publicado": "2026-10-08T15:18:36Z",
-     "duracao_s": 1198,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=BcN4xHgAYX0"
-    },
-    {
-     "id": "cdSQTz2B6Lk",
-     "titulo": "🚨 QUEDA DE DINIZ | RAMON DIAZ E SYLVINHO FAVORITOS PARA ASSUMIR O CORINTHIANS | 1 PONTO DO Z4 ⚫⚪",
-     "canal": "TV Central do Timão",
-     "views": 4732,
-     "likes": 113,
-     "comentarios": 1,
-     "publicado": "2026-10-09T03:04:44Z",
-     "duracao_s": 6751,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=cdSQTz2B6Lk"
-    },
-    {
-     "id": "VhYghL54VtQ",
-     "titulo": "🚨BRUNO VICARI CHEGA COM NOTÍCIAS ATUALIZADAS DO CORINTHIANS | RAMON DIAZ OU ZUBELDIA NO TIMÃO?",
-     "canal": "CORINTHIANS FANÁTICOS ",
-     "views": 2680,
-     "likes": 28,
-     "comentarios": 3,
-     "publicado": "2026-10-08T23:00:04Z",
-     "duracao_s": 1033,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=VhYghL54VtQ"
-    },
-    {
-     "id": "FLWec9sGuv0",
-     "titulo": "Quem vai salvar o Corinthians da crise? #shorts  #futebol",
-     "canal": "9 Raiz",
-     "views": 2251,
-     "likes": 101,
-     "comentarios": 6,
-     "publicado": "2026-10-08T09:00:37Z",
-     "duracao_s": 81,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=FLWec9sGuv0"
-    },
-    {
-     "id": "tpsOtH64N3I",
-     "titulo": "🚨RAMON DIAZ ESTÁ NO RADAR DO CORINTHIANS? BRUNO ANDRADE TRAS NOTÍCIAS DO TIMÃO ATUALIZADAS",
-     "canal": "CORINTHIANS FANATICS",
-     "views": 1799,
-     "likes": 30,
-     "comentarios": 1,
-     "publicado": "2026-10-08T21:00:28Z",
-     "duracao_s": 1343,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=tpsOtH64N3I"
-    },
-    {
-     "id": "LBnEVe4c490",
-     "titulo": "RAMON DIAZ NÃO É BOLA DE SEGURANÇA PRO CORINTHIANS",
-     "canal": "Fanatíssimo",
-     "views": 1414,
-     "likes": 77,
-     "comentarios": 3,
-     "publicado": "2026-10-09T11:45:17Z",
-     "duracao_s": 1618,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=LBnEVe4c490"
-    },
-    {
-     "id": "DrYYcAs_iCA",
-     "titulo": "Quem assume o Corinthians: os 5 nomes",
-     "canal": "Timão TV",
-     "views": 1407,
-     "likes": 17,
-     "comentarios": 3,
-     "publicado": "2026-10-08T18:54:38Z",
-     "duracao_s": 48,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=DrYYcAs_iCA"
-    },
-    {
-     "id": "wD3d9vAAjEc",
-     "titulo": "🚨🦅 QUEM VAI ASSUMIR O TIMÃO?! 😱 #futebol #corinthians",
-     "canal": "SCCP_NEWS",
-     "views": 1393,
-     "likes": 31,
-     "comentarios": 0,
-     "publicado": "2026-10-09T00:30:14Z",
-     "duracao_s": 20,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=wD3d9vAAjEc"
-    },
-    {
-     "id": "-BuDynG0i2o",
-     "titulo": "🚨 RAMÓN DÍAZ, CARILLE OU SYLVINHO? NETO CITA TRÊS NOMES! #Corinthians #Diaz #Carille #CraqueNeto",
-     "canal": "Kyaronte",
-     "views": 1341,
-     "likes": 42,
+     "views": 4089,
+     "likes": 58,
      "comentarios": 2,
-     "publicado": "2026-10-09T16:22:53Z",
+     "publicado": "2026-10-08T21:46:21Z",
+     "duracao_s": 531,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=DAtujTorXzw"
+    }
+   ],
+   "consulta": "Corinthians Emiliano Díaz explica",
+   "n_videos": 1,
+   "mais_de": false,
+   "views": 4089,
+   "top": [
+    {
+     "titulo": "🚨 POR ISSO RAMÓN NÃO FECHOU! CORINTHIANS QUERIA SÓ EMILIANO DÍAZ",
+     "canal": "Fiel Informa",
+     "views": 4089,
+     "url": "https://www.youtube.com/watch?v=DAtujTorXzw",
+     "publicado": "2026-10-08T21:46:21Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "flamengo coritiba leonardo jardim": {
+  "dia": "2026-10-10",
+  "resultado": {
+   "amostra": [],
+   "consulta": "Flamengo Coritiba Leonardo Jardim",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "flamengo jardim quebrar metade": {
+  "dia": "2026-10-10",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "pw1wwViTr2E",
+     "titulo": "FLAMENGO PERDE METADE DO MEIO-CAMPO",
+     "canal": "Fla Informa",
+     "views": 649,
+     "likes": 18,
+     "comentarios": 0,
+     "publicado": "2026-10-10T15:04:20Z",
+     "duracao_s": 28,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=pw1wwViTr2E"
+    }
+   ],
+   "consulta": "Flamengo Jardim quebrar metade",
+   "n_videos": 1,
+   "mais_de": false,
+   "views": 649,
+   "top": [
+    {
+     "titulo": "FLAMENGO PERDE METADE DO MEIO-CAMPO",
+     "canal": "Fla Informa",
+     "views": 649,
+     "url": "https://www.youtube.com/watch?v=pw1wwViTr2E",
+     "publicado": "2026-10-10T15:04:20Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "corinthians william batista comandara": {
+  "dia": "2026-10-10",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "61RhBhkcssM",
+     "titulo": "Corinthians sem treinador William Batista comandará contra o Palmeiras.",
+     "canal": "DNA CORINTHIANO🖤🤍",
+     "views": 82,
+     "likes": 1,
+     "comentarios": 0,
+     "publicado": "2026-10-10T14:00:04Z",
      "duracao_s": 50,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=-BuDynG0i2o"
+     "url": "https://www.youtube.com/watch?v=61RhBhkcssM"
     },
     {
-     "id": "IGut4rduzHs",
-     "titulo": "🚨CORINTHIANS QUER EMILIANO! RAMÓN VEM JUNTO?",
-     "canal": "ARENA CORINTIANA",
-     "views": 1301,
-     "likes": 18,
-     "comentarios": 3,
-     "publicado": "2026-10-09T00:21:32Z",
-     "duracao_s": 474,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=IGut4rduzHs"
-    },
-    {
-     "id": "VzcRjDz8Dp8",
-     "titulo": "DINIZ DEMITIDO DO CORINTHIANS! 🚨 QUEM VAI ASSUMIR O TIMÃO? RAMÓN DÍAZ É O FAVORITO. #corinthians",
-     "canal": "Canal do Guimaa",
-     "views": 761,
-     "likes": 9,
-     "comentarios": 0,
-     "publicado": "2026-10-08T16:04:01Z",
-     "duracao_s": 96,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=VzcRjDz8Dp8"
-    },
-    {
-     "id": "nuZ4YxvTehI",
-     "titulo": "🚨 FERNANDO DINIZ DEMITIDO! RAMÓN DÍAZ É O FAVORITO e CORINTHIANS TERÁ DESFALQUES CONTRA O PALMEIRAS!",
-     "canal": "Corinthians em Debate",
-     "views": 315,
-     "likes": 9,
-     "comentarios": 3,
-     "publicado": "2026-10-08T10:35:23Z",
-     "duracao_s": 568,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=nuZ4YxvTehI"
-    },
-    {
-     "id": "wVS_aslqwSs",
-     "titulo": "🚨 PATROCÍNIO MILIONÁRIO FECHADO NO CORINTHIANS!!RAMÓN DÍAZ PODE VOLTAR AO CORINTHIANS!! IMPASSE E+",
-     "canal": "BANDO DE LOUCOS INFORMATIVO ",
-     "views": 309,
-     "likes": 31,
-     "comentarios": 2,
-     "publicado": "2026-10-09T15:26:22Z",
-     "duracao_s": 1005,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=wVS_aslqwSs"
-    },
-    {
-     "id": "4smkrBwHXyw",
-     "titulo": "#Corinthians ve com bons olhos Ramon diaz e Silvinho p novo tecnico do clube Vcs tao de sacanagem",
-     "canal": "OIDEOTA",
-     "views": 107,
-     "likes": 8,
-     "comentarios": 0,
-     "publicado": "2026-10-08T10:41:08Z",
-     "duracao_s": 144,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=4smkrBwHXyw"
-    },
-    {
-     "id": "XMxmCmhrKlM",
-     "titulo": "🚨 Corinthians: Sylvinho e Ramón Díaz na mira!",
-     "canal": "Central do Timão",
-     "views": 43,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-10-09T15:05:27Z",
-     "duracao_s": 147,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=XMxmCmhrKlM"
-    },
-    {
-     "id": "z9C5o1J67_w",
-     "titulo": "PLANTÃO URGENTE: RAMÓN DÍAZ ACEITA O CORINTHIANS? VEJA AS EXIGÊNCIAS!",
-     "canal": "Bancada 1910",
-     "views": 24,
-     "likes": 0,
-     "comentarios": 2,
-     "publicado": "2026-10-08T23:30:20Z",
-     "duracao_s": 388,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=z9C5o1J67_w"
-    },
-    {
-     "id": "_1Vo1r1MSUQ",
-     "titulo": "CORINTHIANS PODE TER UM PROBLEMA INESPERADO NA ESCOLHA DO NOVO TÉCNICO!",
-     "canal": "TOP FUT NEWS",
-     "views": 22,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-10-08T18:30:02Z",
-     "duracao_s": 168,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=_1Vo1r1MSUQ"
-    },
-    {
-     "id": "07wsbX9O3fE",
-     "titulo": "🚨 QUEM SERÁ O NOVOTREINADOR DO CORINTHIANS? SYLVINHO OU RAMON DÍAZ? 👀🦅",
-     "canal": "Biel da Fiel SCCP 🦅",
-     "views": 8,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-10-09T00:15:25Z",
-     "duracao_s": 230,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=07wsbX9O3fE"
-    }
-   ],
-   "consulta": "Corinthians Sylvinho Ramón Díaz",
-   "n_videos": 23,
-   "mais_de": true,
-   "views": 113330,
-   "top": [
-    {
-     "titulo": "Possíveis nomes para assumir o comando do Corinthians. #corinthians #ramondiaz #mercadodabola",
-     "canal": "Fiel News",
-     "views": 23655,
-     "url": "https://www.youtube.com/watch?v=yoTAY-TzyYE",
-     "publicado": "2026-10-09T00:36:06Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "BOMBA: CORINTHIANS DEMITE DINIZ! RAMÓN DÍAZ DE VOLTA? + TITE PASSA VERGONHA E NEYMAR RELACIONADO!",
-     "canal": "Oeste Esporte",
-     "views": 16584,
-     "url": "https://www.youtube.com/watch?v=1q6_E9SYtJQ",
-     "publicado": "2026-10-08T17:50:41Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "CORINTHIANS PERDE PRO INTERNACIONAL POR 2X1 E DINIZ É DEMITIDO | RAMÓN DÍAZ, SYLVINHO... E AGORA?",
-     "canal": "CTC - Canal do Torcedor Corinthiano ",
-     "views": 16422,
-     "url": "https://www.youtube.com/watch?v=YW1Alc54gsY",
-     "publicado": "2026-10-08T13:18:07Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "flamengo neymar exaltado revoluciona": {
-  "dia": "2026-10-09",
-  "resultado": {
-   "amostra": [],
-   "consulta": "Flamengo Neymar exaltado Revoluciona",
-   "n_videos": 0,
-   "mais_de": false,
-   "views": 0,
-   "top": []
-  }
- },
- "flamengo belmiro empatam vila": {
-  "dia": "2026-10-09",
-  "resultado": {
-   "amostra": [],
-   "consulta": "Flamengo Belmiro empatam Vila",
-   "n_videos": 0,
-   "mais_de": false,
-   "views": 0,
-   "top": []
-  }
- },
- "flamengo arbitragem graves": {
-  "dia": "2026-10-09",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "RqV8I2pOQM4",
-     "titulo": "ERA PRA VERMELHO?! Pedro Ivo detona arbitragem por falta grave em Santos x Flamengo! #flamengo",
-     "canal": "Fla Calado",
-     "views": 100,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-10-09T14:02:22Z",
-     "duracao_s": 180,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=RqV8I2pOQM4"
-    },
-    {
-     "id": "kJcrvqkv59c",
-     "titulo": "ERA PRA VERMELHO?! Pedro Ivo detona arbitragem por falta grave em Santos x Flamengo!",
-     "canal": "Fla Calado",
-     "views": 2,
+     "id": "p9YV3lLj-l8",
+     "titulo": "Interino William Batista comandará o Corinthians no Derby contra o Palmeiras",
+     "canal": "PipiraShow",
+     "views": 81,
      "likes": 1,
      "comentarios": 1,
-     "publicado": "2026-10-09T13:39:40Z",
-     "duracao_s": 183,
+     "publicado": "2026-10-10T08:39:58Z",
+     "duracao_s": 77,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=kJcrvqkv59c"
-    },
-    {
-     "id": "I8peWKAuAwA",
-     "titulo": "🚨ROUBARAM O FLAMENGO? ABSURDO! ARBITRAGEM É MASSACRADA APÓS ERROS GRAVES",
-     "canal": "Rodar da Bola",
-     "views": 1,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-10-09T08:31:16Z",
-     "duracao_s": 627,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=I8peWKAuAwA"
+     "url": "https://www.youtube.com/watch?v=p9YV3lLj-l8"
     }
    ],
-   "consulta": "Flamengo arbitragem graves",
-   "n_videos": 3,
+   "consulta": "Corinthians William Batista comandará",
+   "n_videos": 2,
    "mais_de": false,
-   "views": 103,
+   "views": 163,
    "top": [
     {
-     "titulo": "ERA PRA VERMELHO?! Pedro Ivo detona arbitragem por falta grave em Santos x Flamengo! #flamengo",
-     "canal": "Fla Calado",
-     "views": 100,
-     "url": "https://www.youtube.com/watch?v=RqV8I2pOQM4",
-     "publicado": "2026-10-09T14:02:22Z",
+     "titulo": "Corinthians sem treinador William Batista comandará contra o Palmeiras.",
+     "canal": "DNA CORINTHIANO🖤🤍",
+     "views": 82,
+     "url": "https://www.youtube.com/watch?v=61RhBhkcssM",
+     "publicado": "2026-10-10T14:00:04Z",
      "do_canal": false
     },
     {
-     "titulo": "ERA PRA VERMELHO?! Pedro Ivo detona arbitragem por falta grave em Santos x Flamengo!",
-     "canal": "Fla Calado",
-     "views": 2,
-     "url": "https://www.youtube.com/watch?v=kJcrvqkv59c",
-     "publicado": "2026-10-09T13:39:40Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "🚨ROUBARAM O FLAMENGO? ABSURDO! ARBITRAGEM É MASSACRADA APÓS ERROS GRAVES",
-     "canal": "Rodar da Bola",
-     "views": 1,
-     "url": "https://www.youtube.com/watch?v=I8peWKAuAwA",
-     "publicado": "2026-10-09T08:31:16Z",
+     "titulo": "Interino William Batista comandará o Corinthians no Derby contra o Palmeiras",
+     "canal": "PipiraShow",
+     "views": 81,
+     "url": "https://www.youtube.com/watch?v=p9YV3lLj-l8",
+     "publicado": "2026-10-10T08:39:58Z",
      "do_canal": false
     }
    ]
   }
  },
- "flamengo": {
-  "dia": "2026-10-09",
+ "corinthians diferente terceiro": {
+  "dia": "2026-10-10",
+  "resultado": {
+   "amostra": [],
+   "consulta": "Corinthians diferente terceiro",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "flamengo jorginho expulsao penalti": {
+  "dia": "2026-10-10",
   "resultado": {
    "amostra": [
-    {
-     "id": "I-M0PCZPpE4",
-     "titulo": "SANTOS X FLAMENGO | PRÉ-JOGO | BRASILEIRÃO 2026 | Premiere",
-     "canal": "ge tv",
-     "views": 3142488,
-     "likes": 29500,
-     "comentarios": 321,
-     "publicado": "2026-10-08T22:33:01Z",
-     "duracao_s": 3530,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=I-M0PCZPpE4"
-    },
-    {
-     "id": "IIEIicucQz8",
-     "titulo": "JOGO COMPLETO: FLAMENGO 2x2 SANTOS | JOGO AO VIVO | COM IMAGENS DA VILA BELMIRO | BRASILEIRÃO 2026",
-     "canal": "Coluna do Fla",
-     "views": 2677500,
-     "likes": 9534,
-     "comentarios": 11,
-     "publicado": "2026-10-09T01:44:55Z",
-     "duracao_s": 19655,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=IIEIicucQz8"
-    },
-    {
-     "id": "_Y5B3JOtdYI",
-     "titulo": "SANTOS 2 X 2 FLAMENGO | MELHORES MOMENTOS | 29ª RODADA BRASILEIRÃO 2026 | ge.globo",
-     "canal": "ge tv",
-     "views": 2415738,
-     "likes": 48217,
-     "comentarios": 3428,
-     "publicado": "2026-10-09T00:50:03Z",
-     "duracao_s": 324,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=_Y5B3JOtdYI"
-    },
-    {
-     "id": "42Yptd0e0uU",
-     "titulo": "🔴 SANTOS X FLAMENGO | AO VIVO | CAMPEONATO BRASILEIRO | JOGO AO VIVO COM IMAGENS DA VILA BELMIRO",
-     "canal": "Na Rede Oficial",
-     "views": 2212255,
-     "likes": 8130,
-     "comentarios": 7,
-     "publicado": "2026-10-09T01:03:57Z",
-     "duracao_s": 20769,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=42Yptd0e0uU"
-    },
-    {
-     "id": "fa7FtEgmu7M",
-     "titulo": "SANTOS X FLAMENGO AO VIVO",
-     "canal": "Na Rede Oficial",
-     "views": 1911443,
-     "likes": 9923,
-     "comentarios": 13,
-     "publicado": "2026-10-09T00:44:51Z",
-     "duracao_s": 7971,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=fa7FtEgmu7M"
-    },
-    {
-     "id": "V43w3BvGQjU",
-     "titulo": "AO VIVO: SANTOS X FLAMENGO (PRÉ-JOGO, NARRAÇÃO E PÓS) | BRASILEIRÃO 2026",
-     "canal": "TNT Sports Brasil",
-     "views": 1601593,
-     "likes": 8774,
-     "comentarios": 12,
-     "publicado": "2026-10-09T01:08:55Z",
-     "duracao_s": 9910,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=V43w3BvGQjU"
-    },
-    {
-     "id": "jT0lS-5JbJI",
-     "titulo": "🔴 AO VIVO: SANTOS x FLAMENGO | PRÉ-JOGO + NARRAÇÃO | BRASILEIRÃO (08/10/26)",
-     "canal": "Flamengo TV",
-     "views": 1599037,
-     "likes": 29516,
-     "comentarios": 19,
-     "publicado": "2026-10-09T01:40:25Z",
-     "duracao_s": 21494,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=jT0lS-5JbJI"
-    },
-    {
-     "id": "yMoJJmc7CE8",
-     "titulo": "SANTOS X FLAMENGO | BRASILEIRÃO 2026 | NEYMAR INCENDEIA O JOGO E MARCA 2 GOLS PARA GARANTIR O EMPATE",
-     "canal": "BTB SPORTS OFICIAL",
-     "views": 1338132,
-     "likes": 3080,
-     "comentarios": 3,
-     "publicado": "2026-10-09T00:47:12Z",
-     "duracao_s": 14172,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=yMoJJmc7CE8"
-    },
-    {
-     "id": "9TFDg2j6MZk",
-     "titulo": "SANTOS 2 x 2 FLAMENGO | BRASILEIRÃO | 08/10/2026",
-     "canal": "Jovem Pan Esportes",
-     "views": 1148498,
-     "likes": 5796,
-     "comentarios": 32,
-     "publicado": "2026-10-09T00:45:20Z",
-     "duracao_s": 9502,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=9TFDg2j6MZk"
-    },
     {
      "id": "MVe5LL8bRhU",
      "titulo": "NEYMAR \"SALVA\" O SANTOS COM DOIS GOLS, PAQUETÁ MARCA E JORGINHO É EXPULSO | SANTOS 2X2 FLAMENGO",
      "canal": "TNT Sports Brasil",
-     "views": 1028676,
-     "likes": 13362,
-     "comentarios": 897,
+     "views": 1206432,
+     "likes": 14406,
+     "comentarios": 962,
      "publicado": "2026-10-09T00:36:19Z",
      "duracao_s": 182,
      "live": false,
      "url": "https://www.youtube.com/watch?v=MVe5LL8bRhU"
     },
     {
-     "id": "eoKSNEcXUZw",
-     "titulo": "AO VIVO: SANTOS 2 X 2 FLAMENGO | CAMPEONATO BRASILEIRO | 29ª RODADA",
-     "canal": "Tupi Esportes",
-     "views": 954288,
-     "likes": 9385,
-     "comentarios": 69,
-     "publicado": "2026-10-09T00:43:23Z",
-     "duracao_s": 8761,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=eoKSNEcXUZw"
-    },
-    {
-     "id": "DMsuADERTLA",
-     "titulo": "SANTOS X FLAMENGO AO VIVO  | SANTOS AO VIVO | FLAMENGO AO VIVO COM IMAGENS |JOGO AO VIVO COM IMAGENS",
-     "canal": "Litoral News",
-     "views": 856327,
-     "likes": 1894,
-     "comentarios": 5,
-     "publicado": "2026-10-09T00:51:22Z",
-     "duracao_s": 11359,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=DMsuADERTLA"
-    },
-    {
-     "id": "ynUQMu99WTs",
-     "titulo": "JOGAÇO HISTÓRICO NA VILA - Santos x Flamengo - Melhores Momentos - Brasileirão 08/10/2026",
-     "canal": "Minuto Futebol",
-     "views": 840751,
-     "likes": 3680,
-     "comentarios": 280,
-     "publicado": "2026-10-08T23:31:26Z",
-     "duracao_s": 564,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ynUQMu99WTs"
-    },
-    {
-     "id": "unbh3PmsLWM",
-     "titulo": "REAÇÃO DO CRAQUE NETO COM EMPATE DO SANTOS CONTRA O FLAMENGO NO BRASILEIRÃO!",
-     "canal": "Artigo Futebol ",
-     "views": 796829,
-     "likes": 15267,
-     "comentarios": 979,
-     "publicado": "2026-10-09T00:52:37Z",
-     "duracao_s": 45,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=unbh3PmsLWM"
-    },
-    {
-     "id": "0_jwdWQa8ck",
-     "titulo": "2 Gols de Neymar! Santos 2 x 2 Flamengo | Melhores Momentos (COMPLETO) | Brasileirão 2026",
-     "canal": "Start Sports",
-     "views": 730598,
-     "likes": 6755,
-     "comentarios": 632,
-     "publicado": "2026-10-09T00:32:41Z",
-     "duracao_s": 537,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=0_jwdWQa8ck"
-    },
-    {
-     "id": "490n8eUG4Qs",
-     "titulo": "RÁDIO ENERGIA 97FM APRESENTA: SANTOS X FLAMENGO - 08/10/2026 - BRASILEIRÃO - AO VIVO",
-     "canal": "Energia 97 FM",
-     "views": 510493,
-     "likes": 8167,
-     "comentarios": 8,
-     "publicado": "2026-10-09T01:26:07Z",
-     "duracao_s": 12645,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=490n8eUG4Qs"
-    },
-    {
-     "id": "-1dTgtsnw8Q",
-     "titulo": "Santos Amassa Flamengo?",
-     "canal": "Studio CI Futebol",
-     "views": 506421,
-     "likes": 10084,
-     "comentarios": 713,
-     "publicado": "2026-10-08T12:39:05Z",
-     "duracao_s": 17,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=-1dTgtsnw8Q"
-    },
-    {
-     "id": "8J-NeMDh1v8",
-     "titulo": "QUEM É O SEGUNDO MAIOR DA HISTÓRIA DO FLAMENGO?",
-     "canal": "Lucas Veloso",
-     "views": 500511,
-     "likes": 30649,
-     "comentarios": 1942,
-     "publicado": "2026-10-08T13:50:24Z",
-     "duracao_s": 159,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=8J-NeMDh1v8"
-    },
-    {
-     "id": "xNDNdCRZjPk",
-     "titulo": "NEYMAR COBRANDO PÊNALTI É ASSIM... DIFICILMENTE DESPERDIÇA! | #shorts | ge tv",
-     "canal": "ge tv",
-     "views": 402284,
-     "likes": 7910,
-     "comentarios": 270,
-     "publicado": "2026-10-09T01:47:42Z",
-     "duracao_s": 10,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=xNDNdCRZjPk"
-    },
-    {
-     "id": "rUpyroodhfY",
-     "titulo": "🔴 Santos x Flamengo | AO VIVO | Campeonato Brasileiro 2026 | Rádio Craque Neto",
-     "canal": "Rádio Craque Neto",
-     "views": 338672,
-     "likes": 2261,
-     "comentarios": 12,
-     "publicado": "2026-10-09T00:48:10Z",
-     "duracao_s": 13870,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=rUpyroodhfY"
-    },
-    {
-     "id": "bVVXgVZGHjE",
-     "titulo": "Top Melhores Momentos Rodilindo #futebol #ranking #futebolbrasileiro #flamengo #rodinei",
-     "canal": "Peres Ranks",
-     "views": 292405,
-     "likes": 5258,
-     "comentarios": 7,
-     "publicado": "2026-10-07T18:00:37Z",
-     "duracao_s": 22,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=bVVXgVZGHjE"
-    },
-    {
-     "id": "O7peATZApkk",
-     "titulo": "FLAMENGO X SANTOS AO VIVO | JOGO DO FLAMENGO HOJE | BRASILEIRÃO 2026 | DIRETO DA VILA BELMIRO",
-     "canal": "Flazoeiro TV",
-     "views": 280055,
-     "likes": 1793,
-     "comentarios": 11,
-     "publicado": "2026-10-09T00:46:42Z",
-     "duracao_s": 11198,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=O7peATZApkk"
-    },
-    {
-     "id": "HJOW6IEhwN0",
-     "titulo": "FLAMENGO 2x0 SANTOS | MELHORES MOMENTOS E GOLS DO PRIMEIRO TEMPO | BRASILEIRÃO 2026 | 29ª RODADA",
-     "canal": "Coluna do Fla",
-     "views": 254140,
-     "likes": 754,
-     "comentarios": 49,
-     "publicado": "2026-10-08T23:29:35Z",
-     "duracao_s": 131,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=HJOW6IEhwN0"
-    },
-    {
-     "id": "njARekjBpYw",
-     "titulo": "Neymar vs Flamengo (08/10/2026)",
-     "canal": "CANETOU",
-     "views": 246206,
-     "likes": 4023,
-     "comentarios": 213,
-     "publicado": "2026-10-09T00:43:53Z",
-     "duracao_s": 272,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=njARekjBpYw"
-    },
-    {
-     "id": "zsyhcHtcViA",
-     "titulo": "🔴 AO VIVO: SANTOS x FLAMENGO | BRASILEIRÃO (08/10/26)",
-     "canal": "SantosTV",
-     "views": 205034,
-     "likes": 2312,
-     "comentarios": 2,
-     "publicado": "2026-10-09T00:57:03Z",
-     "duracao_s": 10572,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=zsyhcHtcViA"
-    }
-   ],
-   "consulta": "Flamengo",
-   "n_videos": 25,
-   "mais_de": true,
-   "views": 26790374,
-   "top": [
-    {
-     "titulo": "SANTOS X FLAMENGO | PRÉ-JOGO | BRASILEIRÃO 2026 | Premiere",
-     "canal": "ge tv",
-     "views": 3142488,
-     "url": "https://www.youtube.com/watch?v=I-M0PCZPpE4",
-     "publicado": "2026-10-08T22:33:01Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "JOGO COMPLETO: FLAMENGO 2x2 SANTOS | JOGO AO VIVO | COM IMAGENS DA VILA BELMIRO | BRASILEIRÃO 2026",
-     "canal": "Coluna do Fla",
-     "views": 2677500,
-     "url": "https://www.youtube.com/watch?v=IIEIicucQz8",
-     "publicado": "2026-10-09T01:44:55Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "SANTOS 2 X 2 FLAMENGO | MELHORES MOMENTOS | 29ª RODADA BRASILEIRÃO 2026 | ge.globo",
-     "canal": "ge tv",
-     "views": 2415738,
-     "url": "https://www.youtube.com/watch?v=_Y5B3JOtdYI",
-     "publicado": "2026-10-09T00:50:03Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "palmeiras vence lideranca": {
-  "dia": "2026-10-09",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "5fKY64BCnAk",
-     "titulo": "PALMEIRAS VENCE, FLAMENGO TROPEÇA CONTRA O SANTOS, E VANTAGEM NA LIDERANÇA CAI! | CANELADA",
-     "canal": "Jovem Pan Esportes",
-     "views": 207759,
-     "likes": 3600,
-     "comentarios": 94,
-     "publicado": "2026-10-09T03:30:21Z",
-     "duracao_s": 3957,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=5fKY64BCnAk"
-    },
-    {
-     "id": "pm44H8vHQtc",
-     "titulo": "\"PALMEIRAS TÁ CHEGANDO !\" FLACO BRILHA, PALMEIRAS VENCE e COLA na LIDERANÇA ! PALMEIRAS 1 X 0 BAHIA",
-     "canal": "VERDÃO 24H",
-     "views": 44108,
-     "likes": 699,
-     "comentarios": 17,
-     "publicado": "2026-10-09T03:17:02Z",
-     "duracao_s": 1503,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=pm44H8vHQtc"
-    },
-    {
-     "id": "em4Mr-zHn2M",
-     "titulo": "Com gol de Flaco López, Palmeiras vence o Bahia e fica a um ponto da liderança",
-     "canal": "Rádio CBN",
-     "views": 2148,
-     "likes": 2,
-     "comentarios": 1,
-     "publicado": "2026-10-09T11:03:10Z",
-     "duracao_s": 111,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=em4Mr-zHn2M"
-    },
-    {
-     "id": "9KZyH9CJ4y0",
-     "titulo": "Palmeiras vence Bahia e só depende de si",
-     "canal": "Vinícius Vieira",
-     "views": 1132,
-     "likes": 43,
-     "comentarios": 2,
-     "publicado": "2026-10-09T09:30:30Z",
-     "duracao_s": 43,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=9KZyH9CJ4y0"
-    },
-    {
-     "id": "CEFDJ2-pSb4",
-     "titulo": "PALMEIRAS VENCE O BAHIA,  NEYMAR FAZ DOIS E SANTOS EMPATA COM FLAMENGO,  DINIZ É DEMITIDO E MAIS",
-     "canal": "Variando Esporte",
-     "views": 1126,
-     "likes": 11,
-     "comentarios": 0,
-     "publicado": "2026-10-09T16:37:26Z",
-     "duracao_s": 4497,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=CEFDJ2-pSb4"
-    },
-    {
-     "id": "wzmz8MYOfEE",
-     "titulo": "Escrita🚨 FLAMENGO TROPEÇA, PALMEIRAS VENCE E A LIDERANÇA FICA EM JOGO! 😱",
-     "canal": "arena atual esp10 ",
-     "views": 1124,
-     "likes": 27,
-     "comentarios": 1,
-     "publicado": "2026-10-09T13:43:28Z",
-     "duracao_s": 14,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=wzmz8MYOfEE"
-    },
-    {
-     "id": "JdHSdQ0t9Ks",
-     "titulo": "VOLTAMOS A 1 PONTO DA LIDERANÇA | JEFTÉ FORA POR DOPING | E MAIS: RECADO PRO DERBY | EP 20 | 09/10",
-     "canal": "Porco House TV",
-     "views": 882,
-     "likes": 302,
-     "comentarios": 3,
-     "publicado": "2026-10-09T16:57:37Z",
-     "duracao_s": 3720,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=JdHSdQ0t9Ks"
-    },
-    {
-     "id": "z94xg6D4Ixc",
-     "titulo": "Palmeiras vence o Bahia e cola no Flamengo na liderança! 🔥💚",
-     "canal": "Guilherme Miranda ",
-     "views": 850,
-     "likes": 30,
-     "comentarios": 2,
-     "publicado": "2026-10-09T09:00:28Z",
-     "duracao_s": 21,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=z94xg6D4Ixc"
-    },
-    {
-     "id": "kHWj31eQI9U",
-     "titulo": "DARONCO PREJUDICOU O FLAMENGO? PALMEIRAS VENCE E PODE REASSUMIR LIDERANÇA DO BRASILEIRÃO NO DERBY",
-     "canal": "THtv9",
-     "views": 347,
-     "likes": 28,
-     "comentarios": 1,
-     "publicado": "2026-10-09T09:00:36Z",
-     "duracao_s": 769,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=kHWj31eQI9U"
-    },
-    {
-     "id": "PziUFuiRhkI",
-     "titulo": "Palmeiras vence o Bahia com autoridade e pode retomar a liderança no domingo...",
-     "canal": "Francis Anacleto",
-     "views": 339,
-     "likes": 17,
-     "comentarios": 0,
-     "publicado": "2026-10-09T15:34:45Z",
-     "duracao_s": 98,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=PziUFuiRhkI"
-    },
-    {
-     "id": "ubAXzsrsDJY",
-     "titulo": "PALMEIRAS VENCE EM CASA E VOLTA A SONHAR COM A LIDERANÇA NA 29ª RODADA DO BRASILEIRÃO",
-     "canal": "Esporte na Band",
-     "views": 199,
-     "likes": 4,
-     "comentarios": 0,
-     "publicado": "2026-10-09T13:12:26Z",
-     "duracao_s": 219,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=ubAXzsrsDJY"
-    },
-    {
-     "id": "dSnvn9b5-t8",
-     "titulo": "Palmeiras vence o Bahia e volta a colar na liderança do Brasileirão #palmeiras #brasileirão",
-     "canal": "Orgulho Alviverde",
-     "views": 186,
-     "likes": 13,
-     "comentarios": 5,
-     "publicado": "2026-10-09T02:55:01Z",
-     "duracao_s": 159,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=dSnvn9b5-t8"
-    },
-    {
-     "id": "hSgBN8JzzBY",
-     "titulo": "Palmeiras vence Bahia e encosta no Flamengo na liderança do Brasileirão #Shorts",
-     "canal": "Futebol Agora",
-     "views": 153,
-     "likes": 7,
-     "comentarios": 0,
-     "publicado": "2026-10-09T11:01:21Z",
-     "duracao_s": 85,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=hSgBN8JzzBY"
-    },
-    {
-     "id": "JnEFapCR21k",
-     "titulo": "palmeiras vence e cola no flamengo na liderança!#brasileirão #palmeiras #bahia #futebolbrasileiro",
-     "canal": "palmeirense doido ",
-     "views": 99,
-     "likes": 3,
-     "comentarios": 0,
-     "publicado": "2026-10-09T02:34:41Z",
-     "duracao_s": 144,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=JnEFapCR21k"
-    },
-    {
-     "id": "H6LtQYgHO2c",
-     "titulo": "PALMEIRAS VENCE O BAHIA E FICA A 1 PONTO DO LÍDER FLAMENGO. #palmeiras #brasileirão #liderança ",
-     "canal": "Saudações Verdes!",
-     "views": 73,
-     "likes": 10,
-     "comentarios": 1,
-     "publicado": "2026-10-09T05:06:42Z",
-     "duracao_s": 898,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=H6LtQYgHO2c"
-    },
-    {
-     "id": "JvHKmfCa-fY",
-     "titulo": "VITÓRIA BOM JOGO E APROXIMAÇÃO A LIDERANÇA #palmeiras #avantipalestra #futebol",
-     "canal": "Por Nosso Alviverde",
-     "views": 59,
-     "likes": 2,
-     "comentarios": 0,
-     "publicado": "2026-10-09T10:00:04Z",
-     "duracao_s": 97,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=JvHKmfCa-fY"
-    },
-    {
-     "id": "AP8_tuauYrg",
-     "titulo": "Palmeiras vence jogando bem e diminui a distância para a liderança para apenas 01 ponto",
-     "canal": "Verdão todos os dias",
-     "views": 38,
-     "likes": 7,
-     "comentarios": 0,
-     "publicado": "2026-10-09T16:28:29Z",
-     "duracao_s": 1963,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=AP8_tuauYrg"
-    },
-    {
-     "id": "kciA6aFAJv0",
-     "titulo": "React palmeiras 1x0 Bahia palmeiras vence o Bahia e fica perto da liderança ",
-     "canal": "A dimensão do Anthony react",
-     "views": 11,
-     "likes": 2,
-     "comentarios": 0,
-     "publicado": "2026-10-09T03:28:46Z",
-     "duracao_s": 672,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=kciA6aFAJv0"
-    },
-    {
-     "id": "F5LSLuyxULg",
-     "titulo": "Santos 2 x 2 Flamengo, Neymar decisivo, Palmeiras vence Bahia e encosta na liderança",
-     "canal": "Futebol em Debate",
-     "views": 10,
-     "likes": 8,
-     "comentarios": 5,
-     "publicado": "2026-10-09T15:00:18Z",
-     "duracao_s": 490,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=F5LSLuyxULg"
-    },
-    {
-     "id": "DifkeaTYfe0",
-     "titulo": "Palmeiras vence Bahia e encosta no Flamengo na briga pela liderança do Brasileirão",
-     "canal": "Lucas Amaral",
-     "views": 7,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-10-09T02:53:44Z",
-     "duracao_s": 20,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=DifkeaTYfe0"
-    },
-    {
-     "id": "l3jYeKmK2gQ",
-     "titulo": "Palmeiras vence Bahia e cola na liderança",
-     "canal": "Sala Verde FC",
-     "views": 6,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-10-09T09:00:30Z",
-     "duracao_s": 998,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=l3jYeKmK2gQ"
-    },
-    {
-     "id": "RPdSjoc79Sw",
-     "titulo": "🚨 NEYMAR BRILHA E FLAMENGO TROPEÇA NA VILA BELMIRO! PALMEIRAS VENCE E COLA NO LÍDER!",
-     "canal": "Se Cair é Pênalti",
-     "views": 3,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-10-09T09:38:49Z",
-     "duracao_s": 562,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=RPdSjoc79Sw"
-    },
-    {
-     "id": "v3cfidw-RIk",
-     "titulo": "Santos empata com o Flamengo; Palmeiras vence o Bahia!",
-     "canal": "Nícolas Alves",
-     "views": 0,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-10-09T16:00:16Z",
-     "duracao_s": 692,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=v3cfidw-RIk"
-    },
-    {
-     "id": "uE6BgD2x6kg",
-     "titulo": "Palmeiras vence Bahia e reduz diferença para o líder",
-     "canal": "FutNews Shorts",
-     "views": 0,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-10-09T09:34:09Z",
-     "duracao_s": 27,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=uE6BgD2x6kg"
-    }
-   ],
-   "consulta": "Palmeiras vence liderança",
-   "n_videos": 24,
-   "mais_de": false,
-   "views": 260659,
-   "top": [
-    {
-     "titulo": "PALMEIRAS VENCE, FLAMENGO TROPEÇA CONTRA O SANTOS, E VANTAGEM NA LIDERANÇA CAI! | CANELADA",
-     "canal": "Jovem Pan Esportes",
-     "views": 207759,
-     "url": "https://www.youtube.com/watch?v=5fKY64BCnAk",
-     "publicado": "2026-10-09T03:30:21Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "\"PALMEIRAS TÁ CHEGANDO !\" FLACO BRILHA, PALMEIRAS VENCE e COLA na LIDERANÇA ! PALMEIRAS 1 X 0 BAHIA",
-     "canal": "VERDÃO 24H",
-     "views": 44108,
-     "url": "https://www.youtube.com/watch?v=pm44H8vHQtc",
-     "publicado": "2026-10-09T03:17:02Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "Com gol de Flaco López, Palmeiras vence o Bahia e fica a um ponto da liderança",
-     "canal": "Rádio CBN",
-     "views": 2148,
-     "url": "https://www.youtube.com/watch?v=em4Mr-zHn2M",
-     "publicado": "2026-10-09T11:03:10Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "palmeiras flaco lopez": {
-  "dia": "2026-10-09",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "YfOjgXOQnTM",
-     "titulo": "FLACO LOPES O NOVO MESSI DO VERDÃO DECIDIU DE NOVO - Palmeiras x Bahia - Melhores Momentos",
-     "canal": "Minuto Futebol",
-     "views": 128974,
-     "likes": 667,
-     "comentarios": 14,
-     "publicado": "2026-10-09T02:26:59Z",
-     "duracao_s": 750,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=YfOjgXOQnTM"
-    },
-    {
-     "id": "UJEQn4rkI3U",
-     "titulo": "ANDREAS + BARBOZA + FLACO = GOLLLLLLLLL! ⚽🥵 | #shorts | ge tv",
-     "canal": "ge tv",
-     "views": 38882,
-     "likes": 840,
-     "comentarios": 16,
-     "publicado": "2026-10-09T00:51:00Z",
-     "duracao_s": 58,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=UJEQn4rkI3U"
-    },
-    {
-     "id": "b6yXWaU-xcA",
-     "titulo": "NÃO DÁ PRA SEGURAR! O GOL AÉREO DE FLACO LÓPEZ CONTRA O BAHIA",
-     "canal": "TV Palmeiras",
-     "views": 30536,
-     "likes": 1692,
-     "comentarios": 23,
-     "publicado": "2026-10-09T03:55:16Z",
-     "duracao_s": 17,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=b6yXWaU-xcA"
-    },
-    {
-     "id": "H3nhbf31Lao",
-     "titulo": "NEYMAR E FLACO LÓPEZ SALVAM PALMEIRAS NO BRASILEIRÃO! 💚 E PROBLEMA CRÔNICO AINDA ASSUSTA VERDÃO! 🤬",
-     "canal": "CANAL DO FACINCANI",
-     "views": 28858,
-     "likes": 1171,
-     "comentarios": 60,
-     "publicado": "2026-10-09T03:41:05Z",
-     "duracao_s": 175,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=H3nhbf31Lao"
-    },
-    {
-     "id": "0GGcVXMeigU",
-     "titulo": "FLACO LÓPEZ DECIDE EM FALHA DO GOLEIRO E VERDÃO ENCOSTA NA LIDERANÇA | PALMEIRAS 1X0 BAHIA",
+     "id": "Jqp8odESl4U",
+     "titulo": "EXPULSÃO! JORGINHO CAIU COM A MÃO NA BOLA, FOI EXPULSO E O SANTOS AINDA TEVE UM PÊNALTI #shorts",
      "canal": "TNT Sports Brasil",
-     "views": 19306,
-     "likes": 295,
-     "comentarios": 16,
-     "publicado": "2026-10-09T02:28:57Z",
-     "duracao_s": 172,
+     "views": 973346,
+     "likes": 13540,
+     "comentarios": 729,
+     "publicado": "2026-10-09T01:30:31Z",
+     "duracao_s": 40,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=0GGcVXMeigU"
+     "url": "https://www.youtube.com/watch?v=Jqp8odESl4U"
     },
-    {
-     "id": "Bl8HKgWnjZc",
-     "titulo": "✅1º GOL DO PALMEIRAS 1x0 BAHIA | Brasileirão 2026 | 08/10/2026",
-     "canal": "Saiu Gol | Gols de Hoje",
-     "views": 18865,
-     "likes": 207,
-     "comentarios": 3,
-     "publicado": "2026-10-09T00:40:14Z",
-     "duracao_s": 12,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Bl8HKgWnjZc"
-    },
-    {
-     "id": "eyJf0slgWO4",
-     "titulo": "FLACO LÓPEZ FALA SOBRE MESSI E MUDA VOTOS PARA CRAQUE DE PALMEIRAS X BAHIA! | Tropa ge tv",
-     "canal": "ge tv",
-     "views": 17177,
-     "likes": 191,
-     "comentarios": 2,
-     "publicado": "2026-10-09T04:21:37Z",
-     "duracao_s": 393,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=eyJf0slgWO4"
-    },
-    {
-     "id": "nnBbYW_J8GY",
-     "titulo": "Gol Flaco Lopez #palmeiras #futebol",
-     "canal": "Go Verdão",
-     "views": 14695,
-     "likes": 322,
-     "comentarios": 2,
-     "publicado": "2026-10-09T00:39:26Z",
-     "duracao_s": 12,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=nnBbYW_J8GY"
-    },
-    {
-     "id": "LEaC5Y4YbW0",
-     "titulo": "O GOL DE PALMEIRAS X BAHIA! ⚽🔥",
-     "canal": "Energia 97 FM",
-     "views": 13451,
-     "likes": 729,
-     "comentarios": 15,
-     "publicado": "2026-10-09T02:36:19Z",
-     "duracao_s": 90,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=LEaC5Y4YbW0"
-    },
-    {
-     "id": "-L2fwVcRHsw",
-     "titulo": "NEYMAR E FLACO LÓPEZ SALVAM PALMEIRAS NO BRASILEIRÃO! 💚 E PROBLEMA CRÔNICO AINDA ASSOMBRA VERDÃO! 🤬",
-     "canal": "CANAL DO FACINCANI",
-     "views": 13327,
-     "likes": 682,
-     "comentarios": 34,
-     "publicado": "2026-10-09T03:54:40Z",
-     "duracao_s": 905,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=-L2fwVcRHsw"
-    },
-    {
-     "id": "Lh9Da13L4BQ",
-     "titulo": "GOL DO PALMEIRAS | GOL DE FLACO LÓPEZ | Palmeiras 1 x 0 Bahia | Brasileirão 2026 #Palmeiras #Bahia",
-     "canal": "Jon Sports Brasil 3",
-     "views": 10764,
-     "likes": 129,
-     "comentarios": 6,
-     "publicado": "2026-10-09T00:40:10Z",
-     "duracao_s": 21,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Lh9Da13L4BQ"
-    },
-    {
-     "id": "75li_yKSPZg",
-     "titulo": "PALMEIRAS 1 X 0 BAHIA | GOL E LANCES DO JOGO | 29ª RODADA BRASILEIRÃO 2026",
-     "canal": "Show Brasileirão",
-     "views": 9000,
-     "likes": null,
-     "comentarios": 1,
-     "publicado": "2026-10-09T00:44:48Z",
-     "duracao_s": 9,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=75li_yKSPZg"
-    },
-    {
-     "id": "mZtzaUYiNgA",
-     "titulo": "FLACO LÓPEZ MARCA MAIS UMA VEZ NO BRASILEIRÃO E PALMEIRAS ABRE O PLACAR CONTRA O BAHIA",
-     "canal": "UOL Esporte",
-     "views": 8885,
-     "likes": 29,
-     "comentarios": 2,
-     "publicado": "2026-10-09T01:19:00Z",
-     "duracao_s": 28,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=mZtzaUYiNgA"
-    },
-    {
-     "id": "r3WyVDPz4wo",
-     "titulo": "🚨 Pedro está muito acima de Flaco López: “Não existe comparação”",
-     "canal": "FUTEBOL RENOVO",
-     "views": 8087,
-     "likes": 42,
-     "comentarios": 4,
-     "publicado": "2026-10-08T09:00:17Z",
-     "duracao_s": 6,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=r3WyVDPz4wo"
-    },
-    {
-     "id": "WRpWU7wjsdk",
-     "titulo": "Gol do Palmeiras! Golaço do Flaco Lopez! Reação torcedor palmeirense #gol #palmeiras #flacolopez",
-     "canal": "Mateo Palestrino",
-     "views": 7707,
-     "likes": 673,
-     "comentarios": 13,
-     "publicado": "2026-10-09T12:18:07Z",
-     "duracao_s": 19,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=WRpWU7wjsdk"
-    },
-    {
-     "id": "Spsc-X3Hou0",
-     "titulo": "FLACO MARCA E PALMEIRAS ENCOSTA NO FLAMENGO",
-     "canal": "Alma e Coração Palmeirense",
-     "views": 7240,
-     "likes": 361,
-     "comentarios": 3,
-     "publicado": "2026-10-09T02:51:50Z",
-     "duracao_s": 16,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Spsc-X3Hou0"
-    },
-    {
-     "id": "TIlxqN4r11w",
-     "titulo": "HOJE TEM GOL DO FLACO! MAS O GOLEIRO ATÉ QUE DEU UMA AJUDA NÉ...#shorts",
-     "canal": "TNT Sports Brasil",
-     "views": 6637,
-     "likes": 184,
-     "comentarios": 2,
-     "publicado": "2026-10-09T03:00:18Z",
-     "duracao_s": 28,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=TIlxqN4r11w"
-    },
-    {
-     "id": "Kx5H3i114Po",
-     "titulo": "GOL DE ARTILHEIRO? TEM SIM! MAIS UM DO FLACO LÓPEZ PRO PALMEIRAS",
-     "canal": "UOL Esporte",
-     "views": 6147,
-     "likes": 130,
-     "comentarios": 0,
-     "publicado": "2026-10-09T02:21:46Z",
-     "duracao_s": 18,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Kx5H3i114Po"
-    },
-    {
-     "id": "lexj6-T21jE",
-     "titulo": "GOLS | PALMEIRAS 1X0 BAHIA | BRASILEIRÃO 2026 | 29ª RODADA",
-     "canal": "Lance!",
-     "views": 5634,
-     "likes": 72,
-     "comentarios": 1,
-     "publicado": "2026-10-09T04:45:14Z",
-     "duracao_s": 41,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=lexj6-T21jE"
-    },
-    {
-     "id": "vqin49keZC4",
-     "titulo": "GOL DO PALMEIRAS HOJE! GOL DE FLACO LOPEZ CONTRA O BAHIA",
-     "canal": "Miguel Leite",
-     "views": 5029,
-     "likes": 37,
-     "comentarios": 0,
-     "publicado": "2026-10-09T00:49:38Z",
-     "duracao_s": 9,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=vqin49keZC4"
-    },
-    {
-     "id": "vhM5WdRvR0I",
-     "titulo": "FLACO TERIA VAGA NA SELEÇÃO BRASILEIRA? 🤔 #shorts",
-     "canal": "ESPN Brasil",
-     "views": 4261,
-     "likes": 113,
-     "comentarios": 6,
-     "publicado": "2026-10-08T15:00:11Z",
-     "duracao_s": 89,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=vhM5WdRvR0I"
-    },
-    {
-     "id": "nZkJ-LKeo5o",
-     "titulo": "1º GOL DO PALMEIRAS | FLACO LÓPEZ | PALMEIRAS 1X0 BAHIA | BRASILEIRÃO 2026 | 08/10/2026",
-     "canal": "VarTV",
-     "views": 3367,
-     "likes": 27,
-     "comentarios": 0,
-     "publicado": "2026-10-09T00:46:54Z",
-     "duracao_s": 8,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=nZkJ-LKeo5o"
-    },
-    {
-     "id": "B5Qd-v7_iTc",
-     "titulo": "Bobeou na área, É CAIXA! Flaco López não perdoou saída BIZARRA do goleirão #shorts",
-     "canal": "TMC Esporte",
-     "views": 2493,
-     "likes": 67,
-     "comentarios": 1,
-     "publicado": "2026-10-09T01:43:36Z",
-     "duracao_s": 51,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=B5Qd-v7_iTc"
-    },
-    {
-     "id": "K2fMlieZH48",
-     "titulo": "Gol do Flaco López hoje 😍💚 | #flacolopez #gol #palmeiras #hayftbl #fyp",
-     "canal": "hay",
-     "views": 1440,
-     "likes": 27,
-     "comentarios": 0,
-     "publicado": "2026-10-09T01:00:21Z",
-     "duracao_s": 19,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=K2fMlieZH48"
-    },
-    {
-     "id": "fbua0KwEbyA",
-     "titulo": "flaco lopez 🇦🇷🔥🏆 #edit #fyp #palmeiras",
-     "canal": "SEPZ_TH",
-     "views": 1377,
-     "likes": 38,
-     "comentarios": 5,
-     "publicado": "2026-10-07T18:53:05Z",
-     "duracao_s": 23,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=fbua0KwEbyA"
-    }
-   ],
-   "consulta": "Palmeiras Flaco López",
-   "n_videos": 25,
-   "mais_de": true,
-   "views": 412139,
-   "top": [
-    {
-     "titulo": "FLACO LOPES O NOVO MESSI DO VERDÃO DECIDIU DE NOVO - Palmeiras x Bahia - Melhores Momentos",
-     "canal": "Minuto Futebol",
-     "views": 128974,
-     "url": "https://www.youtube.com/watch?v=YfOjgXOQnTM",
-     "publicado": "2026-10-09T02:26:59Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "ANDREAS + BARBOZA + FLACO = GOLLLLLLLLL! ⚽🥵 | #shorts | ge tv",
-     "canal": "ge tv",
-     "views": 38882,
-     "url": "https://www.youtube.com/watch?v=UJEQn4rkI3U",
-     "publicado": "2026-10-09T00:51:00Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "NÃO DÁ PRA SEGURAR! O GOL AÉREO DE FLACO LÓPEZ CONTRA O BAHIA",
-     "canal": "TV Palmeiras",
-     "views": 30536,
-     "url": "https://www.youtube.com/watch?v=b6yXWaU-xcA",
-     "publicado": "2026-10-09T03:55:16Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "flamengo jorginho expulsao polemico": {
-  "dia": "2026-10-09",
-  "resultado": {
-   "amostra": [
     {
      "id": "fPg2iN3brKg",
      "titulo": "PC DE OLIVEIRA ANALISA LANCES POLÊMICOS ENTRE FLAMENGO X SANTOS | EXPULSÃO JORGINHO ",
      "canal": "Diversos FC",
-     "views": 151555,
+     "views": 280790,
      "likes": null,
-     "comentarios": 579,
+     "comentarios": 780,
      "publicado": "2026-10-09T05:11:25Z",
      "duracao_s": 549,
      "live": false,
      "url": "https://www.youtube.com/watch?v=fPg2iN3brKg"
     },
     {
-     "id": "aRnw_9S61qc",
-     "titulo": "🟥 JORGINHO EXPULSO! SANTOS 0x2 FLAMENGO | BRASILEIRÃO",
-     "canal": "SPORTIX",
-     "views": 16851,
-     "likes": 124,
-     "comentarios": 5,
-     "publicado": "2026-10-09T00:14:47Z",
-     "duracao_s": 12,
+     "id": "8G1iU-9KxL0",
+     "titulo": "CBF DIVULGA ÁUDIO DO VAR DE SANTOS X FLAMENGO; VEJA",
+     "canal": "UOL Esporte",
+     "views": 137797,
+     "likes": 832,
+     "comentarios": 374,
+     "publicado": "2026-10-09T23:36:53Z",
+     "duracao_s": 444,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=aRnw_9S61qc"
+     "url": "https://www.youtube.com/watch?v=8G1iU-9KxL0"
     },
     {
-     "id": "PcaVexa24pc",
-     "titulo": "O FORTE DESABAFO DE JORGINHO APÓS EMPATE POLÊMICO | FLAMENGO 2x2 SANTOS",
-     "canal": "Coluna do Fla",
-     "views": 11401,
-     "likes": 174,
-     "comentarios": 12,
-     "publicado": "2026-10-09T02:33:08Z",
-     "duracao_s": 173,
+     "id": "I489X-wsRQA",
+     "titulo": "JORGINHO ANALISA LANCE EM QUE FOI EXPULSO | #shorts | ge.globo",
+     "canal": "ge tv",
+     "views": 101820,
+     "likes": 2101,
+     "comentarios": 320,
+     "publicado": "2026-10-09T02:35:39Z",
+     "duracao_s": 56,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=PcaVexa24pc"
+     "url": "https://www.youtube.com/watch?v=I489X-wsRQA"
     },
     {
-     "id": "hivvNB_P_mE",
-     "titulo": "😳EXPULSÃO JORGINHO FLAMENGO",
-     "canal": "Diversos FC",
-     "views": 4733,
-     "likes": 151,
-     "comentarios": 8,
-     "publicado": "2026-10-09T15:52:06Z",
-     "duracao_s": 19,
+     "id": "vfOtrCVzuEk",
+     "titulo": "Daronco acertou ao marcar pênalti pro Santos contra o Flamengo pelo expulsar o Jorginho?  #FLAMENGO",
+     "canal": "Fanaticosporfutebol ",
+     "views": 71401,
+     "likes": 1023,
+     "comentarios": 121,
+     "publicado": "2026-10-09T16:15:51Z",
+     "duracao_s": 112,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=hivvNB_P_mE"
+     "url": "https://www.youtube.com/watch?v=vfOtrCVzuEk"
     },
     {
-     "id": "ovsQF6iymII",
-     "titulo": "JORGINHO FOI BEM EXPULSO? FICOU BARATO PRO BARREAL? ANALISAMOS AS POLÊMICAS DE SANTOS X FLAMENGO",
+     "id": "zffPBHyA6kQ",
+     "titulo": "PÊNALTI E EXPULSÃO BEM MARCADOS?",
+     "canal": "Xsports",
+     "views": 45780,
+     "likes": 330,
+     "comentarios": 132,
+     "publicado": "2026-10-09T01:28:07Z",
+     "duracao_s": 28,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=zffPBHyA6kQ"
+    },
+    {
+     "id": "rQNBLP3KGFw",
+     "titulo": "Lance do pênalti de Jorginho em Santos x Flamengo. Foi falta do Rony antes? ",
+     "canal": "WILL DE OLHO NO LANCE",
+     "views": 44905,
+     "likes": 566,
+     "comentarios": 178,
+     "publicado": "2026-10-09T01:18:22Z",
+     "duracao_s": 276,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=rQNBLP3KGFw"
+    },
+    {
+     "id": "k1AHF-exfcg",
+     "titulo": "PÊNALTI NO GABIGOL? JORGINHO DEVERIA TER SIDO EXPULSO? DEBATEMOS AS POLÊMICAS DE SANTOS X FLAMENGO",
      "canal": "Cortes da TNT Sports",
-     "views": 3576,
-     "likes": 250,
-     "comentarios": 35,
-     "publicado": "2026-10-09T14:00:19Z",
-     "duracao_s": 1437,
+     "views": 36495,
+     "likes": 940,
+     "comentarios": 98,
+     "publicado": "2026-10-09T17:00:29Z",
+     "duracao_s": 1190,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=ovsQF6iymII"
+     "url": "https://www.youtube.com/watch?v=k1AHF-exfcg"
+    },
+    {
+     "id": "sFxXKDFnZ7k",
+     "titulo": "GOL DE NEYMAR! SANTOS DIMINUI CONTRA O FLAMENGO APÓS VAR, EXPULSÃO DE JORGINHO E PÊNALTI",
+     "canal": "UOL Esporte",
+     "views": 31909,
+     "likes": 65,
+     "comentarios": 12,
+     "publicado": "2026-10-09T00:49:22Z",
+     "duracao_s": 46,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=sFxXKDFnZ7k"
+    },
+    {
+     "id": "BJZx2J56dSY",
+     "titulo": "ESCÂNDALO!😱 PC SEM QUERER DEIXA VAZAR QUE PENALTI FOI CAVADO! JORGINHO RELATA FALHA NA EQUIPE!",
+     "canal": "Pedala Mano",
+     "views": 21078,
+     "likes": 243,
+     "comentarios": 105,
+     "publicado": "2026-10-10T01:00:08Z",
+     "duracao_s": 1304,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=BJZx2J56dSY"
+    },
+    {
+     "id": "hvrhCTVusPA",
+     "titulo": "Erro de Rossi termina em pênalti e expulsão no Flamengo",
+     "canal": "FLAMENGUISTA ORIGINAL ",
+     "views": 16581,
+     "likes": 264,
+     "comentarios": 28,
+     "publicado": "2026-10-09T01:35:25Z",
+     "duracao_s": 20,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=hvrhCTVusPA"
+    },
+    {
+     "id": "ts0e4dRVwAg",
+     "titulo": "LANCE DO PENALTI -  EXPULSÃO DE JORGINHO CONTRA O SANTOS | 08/10/26",
+     "canal": "well React",
+     "views": 14341,
+     "likes": 37,
+     "comentarios": 16,
+     "publicado": "2026-10-09T00:15:40Z",
+     "duracao_s": 35,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=ts0e4dRVwAg"
+    },
+    {
+     "id": "v4DixHIVV4g",
+     "titulo": "\"OS PÊNALTIS ESTAVAM CORRETOS!\" JARDIM FALA DE EXPULSÃO DE JORGINHO E DARONCO! COLETIVA DO FLAMENGO!",
+     "canal": "Redação Ninho",
+     "views": 11990,
+     "likes": 495,
+     "comentarios": 40,
+     "publicado": "2026-10-09T01:53:01Z",
+     "duracao_s": 943,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=v4DixHIVV4g"
+    },
+    {
+     "id": "IQs7lihBDyo",
+     "titulo": "LANCE DE EXPULSÃO DE JORGINHO HOJE CONTRA O SANTOS",
+     "canal": "Miguel Leite",
+     "views": 10881,
+     "likes": 97,
+     "comentarios": 5,
+     "publicado": "2026-10-09T00:18:47Z",
+     "duracao_s": 13,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=IQs7lihBDyo"
+    },
+    {
+     "id": "00y5a0jhHaw",
+     "titulo": "JORGINHO EXPLODE! Acusa dupla punição e dispara contra o VAR",
+     "canal": "MindSplashBR",
+     "views": 10626,
+     "likes": 17,
+     "comentarios": 1,
+     "publicado": "2026-10-09T17:55:34Z",
+     "duracao_s": 7,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=00y5a0jhHaw"
+    },
+    {
+     "id": "8-0J0inBe4I",
+     "titulo": "React: Santos 2x2 Flamengo! Mengão prejudicado em Santos, penaltis duvidosos Jorginho expulso...",
+     "canal": "Ela e Eu React",
+     "views": 9405,
+     "likes": 608,
+     "comentarios": 48,
+     "publicado": "2026-10-09T07:51:58Z",
+     "duracao_s": 1169,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=8-0J0inBe4I"
+    },
+    {
+     "id": "zBqc3GTbrKk",
+     "titulo": "\"OPERARAM O FLAMENGO!\" A ACUSAÇÃO GRAVÍSSIMA PRA CIMA DE DARONCO APÓS PÊNALTI PARA O SANTOS!",
+     "canal": "É Hora do Gol",
+     "views": 5970,
+     "likes": 55,
+     "comentarios": 33,
+     "publicado": "2026-10-09T02:06:22Z",
+     "duracao_s": 195,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=zBqc3GTbrKk"
+    },
+    {
+     "id": "Akt4ZpVhCCQ",
+     "titulo": "Flamengo abriu 2 a 0, Jorginho foi expulso e Neymar empatou com 2 pênaltis — 2x2 na Vila Belmiro!",
+     "canal": "Central do Flamengo",
+     "views": 5839,
+     "likes": 101,
+     "comentarios": 3,
+     "publicado": "2026-10-09T01:12:15Z",
+     "duracao_s": 30,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Akt4ZpVhCCQ"
+    },
+    {
+     "id": "cq85UIXgv84",
+     "titulo": "JORGINHO SE REVOLTA COM MARCAÇÃO DE PÊNALTI E EXPULSÃO DE DARONCO! “MUDOU A HISTÓRIA DO JOGO”!",
+     "canal": "Paparazzo Rubro-Negro",
+     "views": 5256,
+     "likes": 252,
+     "comentarios": 15,
+     "publicado": "2026-10-09T02:04:47Z",
+     "duracao_s": 135,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=cq85UIXgv84"
+    },
+    {
+     "id": "JLLuFgEc5ck",
+     "titulo": "ESSA FOI DIFÍCIL. 14 MINUTOS DE JOGO PARADO.#flamengo",
+     "canal": "Faz um dois",
+     "views": 4607,
+     "likes": 52,
+     "comentarios": 24,
+     "publicado": "2026-10-09T14:06:26Z",
+     "duracao_s": 11,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=JLLuFgEc5ck"
+    },
+    {
+     "id": "JAVBeAYuViM",
+     "titulo": "Lance polêmico, era para pênalti? Era para expulsão? #futebol #Flamengo #Santos #jorginho",
+     "canal": "Mente e Mercado",
+     "views": 3986,
+     "likes": 197,
+     "comentarios": 49,
+     "publicado": "2026-10-09T15:08:23Z",
+     "duracao_s": 95,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=JAVBeAYuViM"
     },
     {
      "id": "8KKLuBxOzJ8",
      "titulo": "JORGINHO EXPULSO! PÊNALTI E GOL DE NEYMAR CONTRA O FLAMENGO #Shorts",
      "canal": "Flacaxi",
-     "views": 3372,
+     "views": 3490,
      "likes": null,
      "comentarios": 4,
      "publicado": "2026-10-09T00:21:32Z",
@@ -1505,707 +421,487 @@
      "url": "https://www.youtube.com/watch?v=8KKLuBxOzJ8"
     },
     {
-     "id": "zwU3H039RbE",
-     "titulo": "Lance polêmico e paralisação do VAR: Expulsão de Jorginho em Santos 2 x 2 Flamengo",
-     "canal": "Top Ligas",
-     "views": 1853,
-     "likes": 18,
-     "comentarios": 3,
-     "publicado": "2026-10-09T11:00:12Z",
-     "duracao_s": 24,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=zwU3H039RbE"
-    },
-    {
-     "id": "Q9_eDQoN36M",
-     "titulo": "NEYMAR DIMINUI PARA O SANTOS! 😱 JORGINHO É EXPULSO E A VILA PEGA FOGO! 🐳🔥",
-     "canal": "Radar da Bola",
-     "views": 1342,
-     "likes": 12,
-     "comentarios": 0,
-     "publicado": "2026-10-09T01:34:00Z",
-     "duracao_s": 28,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Q9_eDQoN36M"
-    },
-    {
-     "id": "T8V4JkUUPRw",
-     "titulo": "JORGINHO DESABAFA APÓS EXPULSÃO POLÊMICA! \"NÃO FOI PÊNALTI, FOI FALTA EM MIM!\" SANTOS 2x2 FLAMENGO",
-     "canal": "MAEL LIMA -MENGÃO",
-     "views": 1266,
-     "likes": 23,
-     "comentarios": 4,
-     "publicado": "2026-10-09T09:40:12Z",
-     "duracao_s": 34,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=T8V4JkUUPRw"
-    },
-    {
-     "id": "gaB3MGaqOQ4",
-     "titulo": "🚨 JORGINHO ABRE O JOGO SOBRE A EXPULSÃO! 😱🔴⚫ “ANTES SOFRI FALTA!” #Flamengo #Jorginho #Shorts",
-     "canal": "Notícias do Fla ",
-     "views": 1227,
-     "likes": 30,
-     "comentarios": 2,
-     "publicado": "2026-10-09T09:22:43Z",
-     "duracao_s": 135,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=gaB3MGaqOQ4"
-    },
-    {
-     "id": "E1zNMt9q9KE",
-     "titulo": "JORGINHO EXPULSO!  FALTA? VEJA O LANCE POLÊMICO QUE MUDOU SANTOS 2x2 FLAMENGO POR OUTRO ÂNGULO",
-     "canal": "MAEL LIMA -MENGÃO",
-     "views": 1163,
-     "likes": 24,
-     "comentarios": 1,
-     "publicado": "2026-10-09T10:54:25Z",
-     "duracao_s": 36,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=E1zNMt9q9KE"
-    },
-    {
-     "id": "JAVBeAYuViM",
-     "titulo": "Lance polêmico, era para pênalti? Era para expulsão? #futebol #Flamengo #Santos #jorginho",
-     "canal": "Mente e Mercado",
-     "views": 949,
-     "likes": 49,
-     "comentarios": 12,
-     "publicado": "2026-10-09T15:08:23Z",
-     "duracao_s": 95,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=JAVBeAYuViM"
-    },
-    {
-     "id": "Qou6jht9ixk",
-     "titulo": "Flamengo ASSALTADO na Vila!",
-     "canal": "Zona LB",
-     "views": 900,
-     "likes": 26,
-     "comentarios": 2,
-     "publicado": "2026-10-09T14:11:48Z",
-     "duracao_s": 48,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Qou6jht9ixk"
-    },
-    {
-     "id": "SlQ4uuVc-54",
-     "titulo": "EXPULSÃO DO JORGINHO GEROU REVOLTA E DIVIDIU OPINIÕES | FLAMENGO x SANTOS",
-     "canal": "Diversos FC",
-     "views": 108,
+     "id": "i39eHnGcpRM",
+     "titulo": "Análise sobre pênalti e expulsão de JORGINHO na partida entre Santos 2 x 2 Flamengo",
+     "canal": "O Mengão Em Campo",
+     "views": 2847,
      "likes": null,
-     "comentarios": 0,
-     "publicado": "2026-10-09T06:15:11Z",
-     "duracao_s": 526,
+     "comentarios": 6,
+     "publicado": "2026-10-09T09:48:33Z",
+     "duracao_s": 120,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=SlQ4uuVc-54"
-    },
-    {
-     "id": "_0P-OKtBzYY",
-     "titulo": "FLAMENGO FOI PREJUDICADO? Expulsão de Jorginho e pênaltis geram revolta!",
-     "canal": "NOTÍCIAS DO MENGÃO HOJE",
-     "views": 102,
-     "likes": 9,
-     "comentarios": 0,
-     "publicado": "2026-10-09T14:14:15Z",
-     "duracao_s": 270,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=_0P-OKtBzYY"
-    },
-    {
-     "id": "k1AHF-exfcg",
-     "titulo": "PÊNALTI NO GABIGOL? JORGINHO DEVERIA TER SIDO EXPULSO? DEBATEMOS AS POLÊMICAS DE SANTOS X FLAMENGO",
-     "canal": "Cortes da TNT Sports",
-     "views": 96,
-     "likes": 10,
-     "comentarios": 0,
-     "publicado": "2026-10-09T17:00:29Z",
-     "duracao_s": 1190,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=k1AHF-exfcg"
-    },
-    {
-     "id": "L5pROz0ApVg",
-     "titulo": "POLÊMICA! \"8 MINUTOS DE VAR PRA MARCAR O PÊNALTI? É UM ABSURDO!\" 🤬  EM SANTOS x FLAMENGO",
-     "canal": "RS FUTEBOL ",
-     "views": 19,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-10-09T12:55:31Z",
-     "duracao_s": 50,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=L5pROz0ApVg"
-    },
-    {
-     "id": "7qhzZoobk5g",
-     "titulo": "ISSO É UMA VERGONHA! FLAMENGO FOI ROUBADO NA VILA! MÍDIA ENLOUQUECE COM DARONCO E ROSSI!",
-     "canal": "Visão de Jogo",
-     "views": 4,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-10-09T02:40:03Z",
-     "duracao_s": 392,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=7qhzZoobk5g"
-    },
-    {
-     "id": "Ikqx5Ma4ICU",
-     "titulo": "Coletiva do Flamengo: Jardim analisa polêmicas, pênaltis e expulsão de Jorginho || Flamengo ",
-     "canal": "Sem mordaça",
-     "views": 4,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-10-09T02:26:08Z",
-     "duracao_s": 947,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Ikqx5Ma4ICU"
+     "url": "https://www.youtube.com/watch?v=i39eHnGcpRM"
     }
    ],
-   "consulta": "Flamengo Jorginho expulsão polêmico",
-   "n_videos": 19,
-   "mais_de": false,
-   "views": 200521,
+   "consulta": "Flamengo Jorginho expulsão pênalti",
+   "n_videos": 24,
+   "mais_de": true,
+   "views": 3057572,
    "top": [
+    {
+     "titulo": "NEYMAR \"SALVA\" O SANTOS COM DOIS GOLS, PAQUETÁ MARCA E JORGINHO É EXPULSO | SANTOS 2X2 FLAMENGO",
+     "canal": "TNT Sports Brasil",
+     "views": 1206432,
+     "url": "https://www.youtube.com/watch?v=MVe5LL8bRhU",
+     "publicado": "2026-10-09T00:36:19Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "EXPULSÃO! JORGINHO CAIU COM A MÃO NA BOLA, FOI EXPULSO E O SANTOS AINDA TEVE UM PÊNALTI #shorts",
+     "canal": "TNT Sports Brasil",
+     "views": 973346,
+     "url": "https://www.youtube.com/watch?v=Jqp8odESl4U",
+     "publicado": "2026-10-09T01:30:31Z",
+     "do_canal": false
+    },
     {
      "titulo": "PC DE OLIVEIRA ANALISA LANCES POLÊMICOS ENTRE FLAMENGO X SANTOS | EXPULSÃO JORGINHO ",
      "canal": "Diversos FC",
-     "views": 151555,
+     "views": 280790,
      "url": "https://www.youtube.com/watch?v=fPg2iN3brKg",
      "publicado": "2026-10-09T05:11:25Z",
      "do_canal": false
-    },
+    }
+   ]
+  }
+ },
+ "palmeiras sub-20 penaltis avanca": {
+  "dia": "2026-10-10",
+  "resultado": {
+   "amostra": [
     {
-     "titulo": "🟥 JORGINHO EXPULSO! SANTOS 0x2 FLAMENGO | BRASILEIRÃO",
-     "canal": "SPORTIX",
-     "views": 16851,
-     "url": "https://www.youtube.com/watch?v=aRnw_9S61qc",
-     "publicado": "2026-10-09T00:14:47Z",
-     "do_canal": false
-    },
+     "id": "wre9CoNCzZ0",
+     "titulo": "PALMEIRAS 3 (4) X (2) 3 SANTOS | MELHORES MOMENTOS | OITAVAS | COPA DO BRASIL SUB-20 2026 | ge.globo",
+     "canal": "ge tv",
+     "views": 235489,
+     "likes": 2161,
+     "comentarios": 78,
+     "publicado": "2026-10-10T01:43:33Z",
+     "duracao_s": 395,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=wre9CoNCzZ0"
+    }
+   ],
+   "consulta": "Palmeiras Sub-20 pênaltis avança",
+   "n_videos": 1,
+   "mais_de": false,
+   "views": 235489,
+   "top": [
     {
-     "titulo": "O FORTE DESABAFO DE JORGINHO APÓS EMPATE POLÊMICO | FLAMENGO 2x2 SANTOS",
-     "canal": "Coluna do Fla",
-     "views": 11401,
-     "url": "https://www.youtube.com/watch?v=PcaVexa24pc",
-     "publicado": "2026-10-09T02:33:08Z",
+     "titulo": "PALMEIRAS 3 (4) X (2) 3 SANTOS | MELHORES MOMENTOS | OITAVAS | COPA DO BRASIL SUB-20 2026 | ge.globo",
+     "canal": "ge tv",
+     "views": 235489,
+     "url": "https://www.youtube.com/watch?v=wre9CoNCzZ0",
+     "publicado": "2026-10-10T01:43:33Z",
      "do_canal": false
     }
    ]
   }
  },
- "corinthians rebaixamento risco": {
-  "dia": "2026-10-09",
+ "sao paulo escalacoes provaveis": {
+  "dia": "2026-10-10",
   "resultado": {
    "amostra": [
     {
-     "id": "hbZTRvOe5KU",
-     "titulo": "“EU NÃO ACREDITO..VAI SER REBAIXADO” NETO SURTA COM CORINTHIANS E CONFUSÃO COM JOGADORES",
-     "canal": "Nação Clubista",
-     "views": 74576,
-     "likes": 1025,
-     "comentarios": 116,
-     "publicado": "2026-10-08T01:20:52Z",
-     "duracao_s": 508,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=hbZTRvOe5KU"
-    },
-    {
-     "id": "7Omyo8fqVbw",
-     "titulo": "VampTV | DINIZ DEMITIDO! QUEM ASSUME O TIMÃO? BRIGA CONTRA O REBAIXAMENTO E MAIS",
-     "canal": "VampTV [OFICIAL]",
-     "views": 15752,
-     "likes": 466,
-     "comentarios": 3,
-     "publicado": "2026-10-08T18:37:22Z",
-     "duracao_s": 4281,
+     "id": "UsAyjRYeD3U",
+     "titulo": "CRUZEIRO x SÃO PAULO -- ONDE ASSISTIR (BRASILEIRÃO 2026)",
+     "canal": "RADIO SPORTS",
+     "views": 4419,
+     "likes": 10,
+     "comentarios": 0,
+     "publicado": "2026-10-08T16:17:25Z",
+     "duracao_s": 74,
      "live": true,
-     "url": "https://www.youtube.com/watch?v=7Omyo8fqVbw"
+     "url": "https://www.youtube.com/watch?v=UsAyjRYeD3U"
     },
     {
-     "id": "_ezjyPnsenM",
-     "titulo": "\"VAI CONHECER O FOGO!\": Zé Elias manda a real sobre Memphis no Corinthians! #corinthians",
-     "canal": "Corinthians Fut Gols",
-     "views": 12924,
-     "likes": 438,
-     "comentarios": 7,
-     "publicado": "2026-10-09T01:34:58Z",
-     "duracao_s": 47,
+     "id": "OyhW32RjFC4",
+     "titulo": "O JOGADOR MAIS INÚTIL DO TIME DO SÃO PAULO!",
+     "canal": "Radar SPFC",
+     "views": 1497,
+     "likes": 35,
+     "comentarios": 2,
+     "publicado": "2026-10-09T15:00:23Z",
+     "duracao_s": 48,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=_ezjyPnsenM"
+     "url": "https://www.youtube.com/watch?v=OyhW32RjFC4"
     },
     {
-     "id": "_k8jJS6i2MM",
-     "titulo": "Corinthians, Grêmio e Internacional entram na reta final sob risco no Z-4",
-     "canal": "Rádio Bandeirantes",
-     "views": 1691,
+     "id": "b9UGi0zCgqM",
+     "titulo": "❤️SÃO PAULO X VITÓRIA - VEJA A PROVÁVEL ESCALAÇÃO DO TRICOLOR PARA O DUELO NO BRASILEIRÃO 2026!",
+     "canal": "TOTALPLUS99",
+     "views": 271,
+     "likes": 16,
+     "comentarios": 1,
+     "publicado": "2026-10-10T14:50:39Z",
+     "duracao_s": 553,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=b9UGi0zCgqM"
+    },
+    {
+     "id": "LaJzduCwUOw",
+     "titulo": "ANÁLISE SÃO PAULO 0 X 2 CRUZEIRO",
+     "canal": "Radar SPFC",
+     "views": 202,
+     "likes": 8,
+     "comentarios": 0,
+     "publicado": "2026-10-09T20:00:26Z",
+     "duracao_s": 84,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=LaJzduCwUOw"
+    },
+    {
+     "id": "wisqdyD48yg",
+     "titulo": "A INCRÍVEL HABILIDADE DE DORIVAL JUNIOR NO SÃO PAULO!",
+     "canal": "Radar SPFC",
+     "views": 156,
+     "likes": 5,
+     "comentarios": 0,
+     "publicado": "2026-10-09T11:00:29Z",
+     "duracao_s": 82,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=wisqdyD48yg"
+    },
+    {
+     "id": "QjFtvHBCEu8",
+     "titulo": "PRÉ JOGO - SÃO PAULO X VITÓRIA",
+     "canal": "Manicomio Tricolor",
+     "views": 69,
+     "likes": 16,
+     "comentarios": 1,
+     "publicado": "2026-10-10T02:52:40Z",
+     "duracao_s": 461,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=QjFtvHBCEu8"
+    },
+    {
+     "id": "7iVIGKQgCl4",
+     "titulo": "ÁNALISE SÃO PAULO 0 x 2 CRUZEIRO E A HABILIDADE DE DORIVAL JUNIOR!",
+     "canal": "Radar SPFC",
+     "views": 6,
+     "likes": 3,
+     "comentarios": 2,
+     "publicado": "2026-10-09T12:00:13Z",
+     "duracao_s": 626,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=7iVIGKQgCl4"
+    }
+   ],
+   "consulta": "São Paulo escalações prováveis",
+   "n_videos": 7,
+   "mais_de": false,
+   "views": 6620,
+   "top": [
+    {
+     "titulo": "CRUZEIRO x SÃO PAULO -- ONDE ASSISTIR (BRASILEIRÃO 2026)",
+     "canal": "RADIO SPORTS",
+     "views": 4419,
+     "url": "https://www.youtube.com/watch?v=UsAyjRYeD3U",
+     "publicado": "2026-10-08T16:17:25Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "O JOGADOR MAIS INÚTIL DO TIME DO SÃO PAULO!",
+     "canal": "Radar SPFC",
+     "views": 1497,
+     "url": "https://www.youtube.com/watch?v=OyhW32RjFC4",
+     "publicado": "2026-10-09T15:00:23Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "❤️SÃO PAULO X VITÓRIA - VEJA A PROVÁVEL ESCALAÇÃO DO TRICOLOR PARA O DUELO NO BRASILEIRÃO 2026!",
+     "canal": "TOTALPLUS99",
+     "views": 271,
+     "url": "https://www.youtube.com/watch?v=b9UGi0zCgqM",
+     "publicado": "2026-10-10T14:50:39Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "corinthians classico define": {
+  "dia": "2026-10-10",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "NQB0cf9siGA",
+     "titulo": "CORINTHIANS DEFINE TREINADOR PARA O DERBY CONTRA O PALMEIRAS",
+     "canal": "IDENTIDADE CORINTHIANA",
+     "views": 6151,
+     "likes": 240,
+     "comentarios": 10,
+     "publicado": "2026-10-10T00:55:33Z",
+     "duracao_s": 61,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=NQB0cf9siGA"
+    },
+    {
+     "id": "1pnH9Mxlv1E",
+     "titulo": "URGENTE| CORINTHIANS PODE ANUNCIAR FÁBIO CARILLE?| DIRETORIA DEFINE INTERINOS| JOTA.AI FICA",
+     "canal": "Capitão Corintiano",
+     "views": 4131,
+     "likes": 257,
+     "comentarios": 32,
+     "publicado": "2026-10-09T20:21:28Z",
+     "duracao_s": 993,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=1pnH9Mxlv1E"
+    },
+    {
+     "id": "4yQMZzKxg7g",
+     "titulo": "Corinthians define Batista e Léo Porto para comandar time no Derby futebol",
+     "canal": "Bola em Contexto",
+     "views": 161,
      "likes": 1,
      "comentarios": 0,
-     "publicado": "2026-10-07T21:07:07Z",
-     "duracao_s": 231,
+     "publicado": "2026-10-10T11:11:53Z",
+     "duracao_s": 96,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=_k8jJS6i2MM"
+     "url": "https://www.youtube.com/watch?v=4yQMZzKxg7g"
+    }
+   ],
+   "consulta": "Corinthians clássico define",
+   "n_videos": 3,
+   "mais_de": false,
+   "views": 10443,
+   "top": [
+    {
+     "titulo": "CORINTHIANS DEFINE TREINADOR PARA O DERBY CONTRA O PALMEIRAS",
+     "canal": "IDENTIDADE CORINTHIANA",
+     "views": 6151,
+     "url": "https://www.youtube.com/watch?v=NQB0cf9siGA",
+     "publicado": "2026-10-10T00:55:33Z",
+     "do_canal": false
     },
     {
-     "id": "df_BYtaAOMw",
-     "titulo": "Craque Neto diz Corinthians ser rebaixado é real #corinthians",
-     "canal": "futcompass",
-     "views": 1551,
-     "likes": 32,
-     "comentarios": 4,
-     "publicado": "2026-10-08T13:24:53Z",
-     "duracao_s": 44,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=df_BYtaAOMw"
+     "titulo": "URGENTE| CORINTHIANS PODE ANUNCIAR FÁBIO CARILLE?| DIRETORIA DEFINE INTERINOS| JOTA.AI FICA",
+     "canal": "Capitão Corintiano",
+     "views": 4131,
+     "url": "https://www.youtube.com/watch?v=1pnH9Mxlv1E",
+     "publicado": "2026-10-09T20:21:28Z",
+     "do_canal": false
     },
     {
-     "id": "_wAMslGfwEw",
-     "titulo": "CAIU NO VESTIARIO! CORINTHIANS DEMITE FERNANDO DINIZ!",
-     "canal": "Bancada 1910",
-     "views": 1334,
-     "likes": 3,
-     "comentarios": 0,
-     "publicado": "2026-10-08T01:18:07Z",
-     "duracao_s": 482,
+     "titulo": "Corinthians define Batista e Léo Porto para comandar time no Derby futebol",
+     "canal": "Bola em Contexto",
+     "views": 161,
+     "url": "https://www.youtube.com/watch?v=4yQMZzKxg7g",
+     "publicado": "2026-10-10T11:11:53Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "flamengo palpite escalacoes 11 10": {
+  "dia": "2026-10-10",
+  "resultado": {
+   "amostra": [],
+   "consulta": "Flamengo Palpite escalações 11/10",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "selecao brasileira argentina feminina escalacoes": {
+  "dia": "2026-10-10",
+  "resultado": {
+   "amostra": [],
+   "consulta": "Seleção Brasileira Argentina Feminina escalações",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "corinthians derbi paulista": {
+  "dia": "2026-10-10",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "rQpr5w3MBH0",
+     "titulo": "😂OLHA O QUE O MARAVILHA FALOU ANTES DE PALMEIRAS X CORINTHIANS PELO BRASILEIRO 2026",
+     "canal": "CABINHO TV",
+     "views": 54794,
+     "likes": 793,
+     "comentarios": 37,
+     "publicado": "2026-10-09T17:53:21Z",
+     "duracao_s": 592,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=_wAMslGfwEw"
+     "url": "https://www.youtube.com/watch?v=rQpr5w3MBH0"
     },
     {
-     "id": "Z3C3R5_R2QQ",
-     "titulo": "🤯 Timão será REBAIXADO? Confira a repercussão da MÍDIA! Ultimas noticias Corinthians x Internacional",
-     "canal": "Manual dos Fatos",
-     "views": 1319,
-     "likes": 13,
-     "comentarios": 2,
-     "publicado": "2026-10-08T02:28:49Z",
-     "duracao_s": 514,
+     "id": "GlRSHA5xYU8",
+     "titulo": "Escalação do Palmeiras contra o Corinthians!",
+     "canal": "Cemazzetto ",
+     "views": 33371,
+     "likes": null,
+     "comentarios": 36,
+     "publicado": "2026-10-09T21:06:26Z",
+     "duracao_s": 64,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=Z3C3R5_R2QQ"
+     "url": "https://www.youtube.com/watch?v=GlRSHA5xYU8"
     },
     {
-     "id": "y7uiUrXee5E",
-     "titulo": "o Corinthians entrou MUITO em risco de rebaixamento. 😬",
-     "canal": "visaodjogobr ",
-     "views": 1266,
+     "id": "SvhyvGE5-CY",
+     "titulo": "ESCALAÇÃO DO TIMÃO PRO DÉRBI: SEM TÉCNICO E SEM GARRO! 🦅",
+     "canal": "Dingo Corinthians ",
+     "views": 10423,
+     "likes": 126,
+     "comentarios": 58,
+     "publicado": "2026-10-08T19:46:24Z",
+     "duracao_s": 498,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=SvhyvGE5-CY"
+    },
+    {
+     "id": "-VGR8_hdPyg",
+     "titulo": "CLIMINHA DE DÉRBI! ⚔️🐷 #futebol#palmeiras #corinthians",
+     "canal": "gera reações ",
+     "views": 4157,
      "likes": 28,
      "comentarios": 0,
-     "publicado": "2026-10-08T00:44:35Z",
-     "duracao_s": 44,
+     "publicado": "2026-10-08T20:11:30Z",
+     "duracao_s": 11,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=y7uiUrXee5E"
+     "url": "https://www.youtube.com/watch?v=-VGR8_hdPyg"
     },
     {
-     "id": "bILEaccxRtw",
-     "titulo": "FERNANDO DINIZ RESPONSABILIZADO!!!#FOOTBOOL#SOCCER#FUTEBOL#CORINTHIANS#REBAIXAMENTO#BRASILEIRÃO#GOLS",
-     "canal": "futeconnect",
-     "views": 1109,
-     "likes": 25,
-     "comentarios": 2,
-     "publicado": "2026-10-08T20:30:24Z",
-     "duracao_s": 54,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=bILEaccxRtw"
-    },
-    {
-     "id": "rRN4u7zpBn0",
-     "titulo": "Risco de rebaixamento #corinthians #futboldeelite #futbol",
-     "canal": "388esportes ",
-     "views": 1042,
-     "likes": 27,
-     "comentarios": 6,
-     "publicado": "2026-10-08T10:18:52Z",
-     "duracao_s": 43,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=rRN4u7zpBn0"
-    },
-    {
-     "id": "52Jc_dDaTGU",
-     "titulo": "🦅🚨 CORINTHIANS PODE SER REBAIXADO? DERROTA NO DÉRBI SERIA FATAL? 👀",
-     "canal": "Martins Nação Fiel News 24h",
-     "views": 345,
-     "likes": 7,
-     "comentarios": 4,
-     "publicado": "2026-10-08T21:44:30Z",
-     "duracao_s": 69,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=52Jc_dDaTGU"
-    },
-    {
-     "id": "EtnrkQhkrCU",
-     "titulo": "19 técnicos caíram no Brasileirão e o Corinthians corre risco | As 5 do Dia",
-     "canal": "Vovô Menino",
-     "views": 333,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-10-09T09:00:28Z",
-     "duracao_s": 103,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=EtnrkQhkrCU"
-    },
-    {
-     "id": "d7VUbHb_Rww",
-     "titulo": "CORITNHIANS CORRE RISCO DO REBAIXAMENTO E A CULPA E DOS DIRIGENTES DO CLUBE #shorts",
-     "canal": "NOTICIAS E FOFOCA DO ED",
-     "views": 275,
-     "likes": 22,
+     "id": "vNBojiyUXVk",
+     "titulo": "💚PASCOAL E ZINHO DEBATEM PALMEIRAS X CORINTHIANS PELO BRASILEIRO 2026",
+     "canal": "FUTEBOL TOTAL OFICIAL",
+     "views": 3626,
+     "likes": 68,
      "comentarios": 1,
-     "publicado": "2026-10-08T13:52:09Z",
-     "duracao_s": 2155,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=d7VUbHb_Rww"
-    },
-    {
-     "id": "xUlfPiOxwNY",
-     "titulo": "CORINTHIANS PERDE PARA O INTER E AFUNDA NA CRISE! DINIZ CAI!",
-     "canal": "Numerada Fc - Futebol & Debate",
-     "views": 148,
-     "likes": 1,
-     "comentarios": 2,
-     "publicado": "2026-10-08T01:31:34Z",
-     "duracao_s": 733,
+     "publicado": "2026-10-09T21:45:42Z",
+     "duracao_s": 1054,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=xUlfPiOxwNY"
+     "url": "https://www.youtube.com/watch?v=vNBojiyUXVk"
     },
     {
-     "id": "11xKcG1JKpw",
-     "titulo": "CORINTHIANS REPETE O PESADELO DE DOIS ANOS ATRÁS?",
-     "canal": "Corinthiosidades",
-     "views": 136,
-     "likes": 11,
-     "comentarios": 0,
-     "publicado": "2026-10-09T00:53:07Z",
-     "duracao_s": 69,
+     "id": "wWYcnTnloG4",
+     "titulo": "💚PALMEIRAS X CORINTHIANS - QUEM VENCE O DÉRBI? VEJA OS PALPITES PARA O CLÁSSICO NO BRASILEIRÃO 2026!",
+     "canal": "Palestra Futebol",
+     "views": 3603,
+     "likes": 51,
+     "comentarios": 3,
+     "publicado": "2026-10-09T16:18:16Z",
+     "duracao_s": 589,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=11xKcG1JKpw"
+     "url": "https://www.youtube.com/watch?v=wWYcnTnloG4"
     },
     {
-     "id": "CmCPaRAyo48",
-     "titulo": "Rebaixamento à vista? Corinthians afunda no Brasileirão",
-     "canal": "CRAQUE NEWS",
-     "views": 120,
-     "likes": 17,
-     "comentarios": 0,
-     "publicado": "2026-10-08T12:30:19Z",
-     "duracao_s": 229,
+     "id": "ZWPqQZjnNZQ",
+     "titulo": "🚨😡 Palmeiras pode ter DESFALQUE de peso contra o Corinthians!",
+     "canal": "Cemazzetto ",
+     "views": 3383,
+     "likes": null,
+     "comentarios": 12,
+     "publicado": "2026-10-10T14:08:47Z",
+     "duracao_s": 64,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=CmCPaRAyo48"
+     "url": "https://www.youtube.com/watch?v=ZWPqQZjnNZQ"
     },
     {
-     "id": "ThfTzQoivv8",
-     "titulo": "CORINTHIANS VAI CAIR?",
-     "canal": "Eixo Curiosidade",
-     "views": 15,
-     "likes": 3,
-     "comentarios": 4,
-     "publicado": "2026-10-08T11:50:53Z",
-     "duracao_s": 235,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ThfTzQoivv8"
-    },
-    {
-     "id": "sdMdEEbchOw",
-     "titulo": "VASCO SOBE, CORINTHIANS AFUNDA: derrota acende alerta de rebaixamento",
-     "canal": "Bendito Futebol | Notícias, Vasco, React, Análises",
-     "views": 8,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-10-08T12:00:23Z",
-     "duracao_s": 478,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=sdMdEEbchOw"
-    },
-    {
-     "id": "ey80mvqrk1o",
-     "titulo": "O risco de rebaixamento do Corinthians",
-     "canal": "Cortes Lendário",
-     "views": 3,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-10-09T15:45:26Z",
-     "duracao_s": 49,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ey80mvqrk1o"
-    },
-    {
-     "id": "SwUZYfnGyBw",
-     "titulo": "O que a derrota para o Inter significa para o Corinthians",
-     "canal": "FutNews Shorts",
-     "views": 1,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-10-08T19:52:23Z",
-     "duracao_s": 27,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=SwUZYfnGyBw"
-    },
-    {
-     "id": "vKnceFd6Usg",
-     "titulo": "TEM GIGANTE CORRENDO RISCO? CORINTHIANS, INTER E GRÊMIO NA BRIGA CONTRA O Z-4!",
-     "canal": "Banco Reserva",
-     "views": 0,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-10-08T16:34:20Z",
-     "duracao_s": 938,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=vKnceFd6Usg"
-    },
-    {
-     "id": "I5h-NEtvedU",
-     "titulo": "Risco de rebaixamento do Corinthians sobe para 35,9% #Shorts",
-     "canal": "Futebol Sem Limites",
-     "views": 0,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-10-09T14:17:51Z",
-     "duracao_s": 31,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=I5h-NEtvedU"
-    }
-   ],
-   "consulta": "Corinthians rebaixamento risco",
-   "n_videos": 22,
-   "mais_de": true,
-   "views": 113948,
-   "top": [
-    {
-     "titulo": "“EU NÃO ACREDITO..VAI SER REBAIXADO” NETO SURTA COM CORINTHIANS E CONFUSÃO COM JOGADORES",
-     "canal": "Nação Clubista",
-     "views": 74576,
-     "url": "https://www.youtube.com/watch?v=hbZTRvOe5KU",
-     "publicado": "2026-10-08T01:20:52Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "VampTV | DINIZ DEMITIDO! QUEM ASSUME O TIMÃO? BRIGA CONTRA O REBAIXAMENTO E MAIS",
-     "canal": "VampTV [OFICIAL]",
-     "views": 15752,
-     "url": "https://www.youtube.com/watch?v=7Omyo8fqVbw",
-     "publicado": "2026-10-08T18:37:22Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "\"VAI CONHECER O FOGO!\": Zé Elias manda a real sobre Memphis no Corinthians! #corinthians",
-     "canal": "Corinthians Fut Gols",
-     "views": 12924,
-     "url": "https://www.youtube.com/watch?v=_ezjyPnsenM",
-     "publicado": "2026-10-09T01:34:58Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "flamengo encosta vence": {
-  "dia": "2026-10-09",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "zDtgE5ANYbU",
-     "titulo": "PALMEIRAS VENCE O BAHIA PELO BRASILEIRÃO E ENCOSTA NO FLAMENGO",
-     "canal": "Mil Grau",
-     "views": 55343,
-     "likes": 4829,
-     "comentarios": 162,
-     "publicado": "2026-10-09T02:55:44Z",
-     "duracao_s": 102,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=zDtgE5ANYbU"
-    },
-    {
-     "id": "6Dcq2i5Ks8A",
-     "titulo": "🟢⚪ PALMEIRAS VENCE O BAHIA E ENCOSTA NO FLAMENGO! 🔥🐷",
-     "canal": "CANAL JP PALMEIRAS",
-     "views": 25191,
-     "likes": 262,
-     "comentarios": 9,
-     "publicado": "2026-10-09T03:00:54Z",
-     "duracao_s": 1210,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=6Dcq2i5Ks8A"
-    },
-    {
-     "id": "VI5ZSd9bXmM",
-     "titulo": "PILHADO FICA IMPRESSIONADO! PALMEIRAS JOGA MUITA BOLA E ENCOSTA NO FLAMENGO!",
-     "canal": "Rei.Reacts",
-     "views": 5819,
-     "likes": 185,
-     "comentarios": 7,
-     "publicado": "2026-10-09T04:30:07Z",
-     "duracao_s": 1328,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=VI5ZSd9bXmM"
-    },
-    {
-     "id": "jk3iNAThfvg",
-     "titulo": "🚨 VANTAGEM DO LÍDER DIMINUIU! VEJA A TABELA, PALMEIRAS VENCE E ENCOSTA NO LIDER FLAMENGO",
-     "canal": "A.S Tutoriais",
-     "views": 4475,
-     "likes": 92,
-     "comentarios": 2,
-     "publicado": "2026-10-09T02:36:02Z",
-     "duracao_s": 226,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=jk3iNAThfvg"
-    },
-    {
-     "id": "e4EwbX9SHr0",
-     "titulo": "O PALMEIRAS VENCE O BAHIA ENCOSTA NO FLAMENGO",
-     "canal": "Paradão do Futebol",
-     "views": 4380,
-     "likes": 36,
-     "comentarios": 2,
-     "publicado": "2026-10-09T02:42:00Z",
-     "duracao_s": 27,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=e4EwbX9SHr0"
-    },
-    {
-     "id": "X0SI7DqnvXo",
-     "titulo": "Gol do Flaco Lopez! Palmeiras vence Bahia no Brasileirão e encosta no Flamengo #gol #Palmeiras #jogo",
-     "canal": "Mateo Palestrino",
-     "views": 1962,
-     "likes": 89,
-     "comentarios": 6,
-     "publicado": "2026-10-09T12:23:57Z",
-     "duracao_s": 24,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=X0SI7DqnvXo"
-    },
-    {
-     "id": "B3TQCglI_3E",
-     "titulo": "Palmeiras vence e encosta no Fla",
-     "canal": "Vapt-Fut",
-     "views": 1616,
-     "likes": 57,
-     "comentarios": 2,
-     "publicado": "2026-10-09T03:25:29Z",
-     "duracao_s": 21,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=B3TQCglI_3E"
-    },
-    {
-     "id": "uwBUmFBhI18",
-     "titulo": "PALMEIRAS VENCE O BAHIA E ENCOSTA NO FLAMENGO",
-     "canal": "Alberto Martins Avanti Palmeiras",
-     "views": 1375,
-     "likes": 17,
-     "comentarios": 4,
-     "publicado": "2026-10-09T02:30:44Z",
-     "duracao_s": 7,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=uwBUmFBhI18"
-    },
-    {
-     "id": "t1JHLSDG5vY",
-     "titulo": "PALMEIRAS VENCE O BAHIA COM GOL DE FLACO LÓPEZ E ENCOSTA NO FLAMENGO!",
-     "canal": "O CHEIRO DA GRAMA",
-     "views": 350,
+     "id": "OQj8cZNum3Q",
+     "titulo": "🔥 É GUERRA! CORINTHIANS X PALMEIRAS: ESCALAÇÃO, PRESSÃO E TUDO SOBRE O DERBI DOMINGO! 📱",
+     "canal": "Cryba",
+     "views": 3142,
      "likes": 6,
      "comentarios": 0,
-     "publicado": "2026-10-09T15:03:52Z",
-     "duracao_s": 24,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=t1JHLSDG5vY"
-    },
-    {
-     "id": "-pwjcHaiOpk",
-     "titulo": "O verdão vence o Bahia e encosta no Flamengo,e domingo tem derby paulista contra o Corinthians.",
-     "canal": "Chicopalestra ",
-     "views": 210,
-     "likes": 4,
-     "comentarios": 0,
-     "publicado": "2026-10-09T16:46:06Z",
-     "duracao_s": 68,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=-pwjcHaiOpk"
-    },
-    {
-     "id": "hSgBN8JzzBY",
-     "titulo": "Palmeiras vence Bahia e encosta no Flamengo na liderança do Brasileirão #Shorts",
-     "canal": "Futebol Agora",
-     "views": 153,
-     "likes": 7,
-     "comentarios": 0,
-     "publicado": "2026-10-09T11:01:21Z",
-     "duracao_s": 85,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=hSgBN8JzzBY"
-    },
-    {
-     "id": "ZTbDaOfkO6Y",
-     "titulo": "💣PALMEIRAS GANHA DO BAHIA E ENCOSTA NO FLAMENGO!😱👀",
-     "canal": "Palestra Italia de Coração ",
-     "views": 19,
-     "likes": 5,
-     "comentarios": 5,
-     "publicado": "2026-10-09T03:10:13Z",
-     "duracao_s": 419,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ZTbDaOfkO6Y"
-    },
-    {
-     "id": "F5LSLuyxULg",
-     "titulo": "Santos 2 x 2 Flamengo, Neymar decisivo, Palmeiras vence Bahia e encosta na liderança",
-     "canal": "Futebol em Debate",
-     "views": 10,
-     "likes": 8,
-     "comentarios": 5,
-     "publicado": "2026-10-09T15:00:18Z",
-     "duracao_s": 490,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=F5LSLuyxULg"
-    },
-    {
-     "id": "DifkeaTYfe0",
-     "titulo": "Palmeiras vence Bahia e encosta no Flamengo na briga pela liderança do Brasileirão",
-     "canal": "Lucas Amaral",
-     "views": 7,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-10-09T02:53:44Z",
-     "duracao_s": 20,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=DifkeaTYfe0"
-    },
-    {
-     "id": "qlYgi__CQ1M",
-     "titulo": "🔴#AOVIVO |  PALMEIRES VENCE BAHIA E ENCOSTA NO FLAMENGO | AGORA É GUERRA NO DERBY",
-     "canal": "CANAL DO DJ PALMEIRAS",
-     "views": 0,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-10-09T17:12:37Z",
-     "duracao_s": 0,
+     "publicado": "2026-10-10T13:15:46Z",
+     "duracao_s": 5024,
      "live": true,
-     "url": "https://www.youtube.com/watch?v=qlYgi__CQ1M"
+     "url": "https://www.youtube.com/watch?v=OQj8cZNum3Q"
+    },
+    {
+     "id": "t45YzpWJl9E",
+     "titulo": "💚PALMEIRAS SE REAPRESENTA E JÁ MIRA O CORINTHIANS! VERDÃO SE PREPARA PARA O DÉRBI NO BRASILEIRÃO",
+     "canal": "Futebol Verde React",
+     "views": 2832,
+     "likes": 42,
+     "comentarios": 2,
+     "publicado": "2026-10-09T14:56:14Z",
+     "duracao_s": 909,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=t45YzpWJl9E"
+    },
+    {
+     "id": "5-SPTdVQ_rc",
+     "titulo": "GUSTAVO GÓMEZ FALA SOBRE O DÉRBI DE DOMINGO!",
+     "canal": "SeleCortes",
+     "views": 2142,
+     "likes": 53,
+     "comentarios": 1,
+     "publicado": "2026-10-09T15:28:15Z",
+     "duracao_s": 28,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=5-SPTdVQ_rc"
+    },
+    {
+     "id": "DrYYcAs_iCA",
+     "titulo": "Quem assume o Corinthians: os 5 nomes",
+     "canal": "Timão TV",
+     "views": 1478,
+     "likes": 19,
+     "comentarios": 3,
+     "publicado": "2026-10-08T18:54:38Z",
+     "duracao_s": 48,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=DrYYcAs_iCA"
+    },
+    {
+     "id": "jIboMAK76yc",
+     "titulo": "Vai passar na TV! Veja onde e quando assistir ao vivo o Dérbi paulista Palmeiras vs Corinthians",
+     "canal": "DIÁRIO DE BORDO DO VERDÃO",
+     "views": 389,
+     "likes": 4,
+     "comentarios": 2,
+     "publicado": "2026-10-08T23:00:15Z",
+     "duracao_s": 27,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=jIboMAK76yc"
+    },
+    {
+     "id": "SGk0S-m-xNY",
+     "titulo": "Dérbi Paulista (Palmeiras X Corinthians)",
+     "canal": "Depois dos 90´",
+     "views": 2,
+     "likes": 1,
+     "comentarios": null,
+     "publicado": "2026-10-10T11:30:10Z",
+     "duracao_s": 557,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=SGk0S-m-xNY"
     }
    ],
-   "consulta": "Flamengo encosta vence",
-   "n_videos": 15,
-   "mais_de": false,
-   "views": 100910,
+   "consulta": "Corinthians Dérbi Paulista",
+   "n_videos": 13,
+   "mais_de": true,
+   "views": 123342,
    "top": [
     {
-     "titulo": "PALMEIRAS VENCE O BAHIA PELO BRASILEIRÃO E ENCOSTA NO FLAMENGO",
-     "canal": "Mil Grau",
-     "views": 55343,
-     "url": "https://www.youtube.com/watch?v=zDtgE5ANYbU",
-     "publicado": "2026-10-09T02:55:44Z",
+     "titulo": "😂OLHA O QUE O MARAVILHA FALOU ANTES DE PALMEIRAS X CORINTHIANS PELO BRASILEIRO 2026",
+     "canal": "CABINHO TV",
+     "views": 54794,
+     "url": "https://www.youtube.com/watch?v=rQpr5w3MBH0",
+     "publicado": "2026-10-09T17:53:21Z",
      "do_canal": false
     },
     {
-     "titulo": "🟢⚪ PALMEIRAS VENCE O BAHIA E ENCOSTA NO FLAMENGO! 🔥🐷",
-     "canal": "CANAL JP PALMEIRAS",
-     "views": 25191,
-     "url": "https://www.youtube.com/watch?v=6Dcq2i5Ks8A",
-     "publicado": "2026-10-09T03:00:54Z",
+     "titulo": "Escalação do Palmeiras contra o Corinthians!",
+     "canal": "Cemazzetto ",
+     "views": 33371,
+     "url": "https://www.youtube.com/watch?v=GlRSHA5xYU8",
+     "publicado": "2026-10-09T21:06:26Z",
      "do_canal": false
     },
     {
-     "titulo": "PILHADO FICA IMPRESSIONADO! PALMEIRAS JOGA MUITA BOLA E ENCOSTA NO FLAMENGO!",
-     "canal": "Rei.Reacts",
-     "views": 5819,
-     "url": "https://www.youtube.com/watch?v=VI5ZSd9bXmM",
-     "publicado": "2026-10-09T04:30:07Z",
+     "titulo": "ESCALAÇÃO DO TIMÃO PRO DÉRBI: SEM TÉCNICO E SEM GARRO! 🦅",
+     "canal": "Dingo Corinthians ",
+     "views": 10423,
+     "url": "https://www.youtube.com/watch?v=SvhyvGE5-CY",
+     "publicado": "2026-10-08T19:46:24Z",
      "do_canal": false
     }
    ]
