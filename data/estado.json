@@ -1,25 +1,12 @@
 {
- "ultima_execucao": "2026-10-11T16:25:29.644511+00:00",
- "ultimo_email": "2026-10-11T16:25:29.644511+00:00",
+ "ultima_execucao": "2026-10-12T20:00:21.631112+00:00",
+ "ultimo_email": "2026-10-12T20:00:21.631112+00:00",
  "youtube": {
-  "dia": "2026-10-11",
+  "dia": "2026-10-12",
   "buscas": 12
  },
- "ultimo_raiox": "2026-10-05",
+ "ultimo_raiox": "2026-10-12",
  "alertas": {
-  "bBULCsmsv60": "2026-10-08",
-  "ERjurhwu4jw": "2026-10-08",
-  "VTo_JCZpo1k": "2026-10-08",
-  "u_vTsRs8VoA": "2026-10-08",
-  "KcA3vPHuW-4": "2026-10-08",
-  "4p7uB5wcsDU": "2026-10-08",
-  "0VSrogxnGvE": "2026-10-08",
-  "uCLsV6xt3FQ": "2026-10-08",
-  "EfrZlHZrzZY": "2026-10-08",
-  "0dP1LlAgI5E": "2026-10-08",
-  "H3cJD4oCubI": "2026-10-08",
-  "ZkBe6PCgxhw": "2026-10-08",
-  "xFwZYjpBEIE": "2026-10-08",
   "zDtgE5ANYbU": "2026-10-09",
   "6Dcq2i5Ks8A": "2026-10-09",
   "VI5ZSd9bXmM": "2026-10-09",
@@ -62,7 +49,28 @@
   "JiyavKdHdMc": "2026-10-10",
   "bllBmya1DlA": "2026-10-11",
   "xLuZI7_5EsA": "2026-10-11",
-  "184dGu579To": "2026-10-11"
+  "184dGu579To": "2026-10-11",
+  "HFaj3hToVro": "2026-10-12",
+  "CvV-1ciI6yw": "2026-10-12",
+  "Yy-ydGNi7mE": "2026-10-12",
+  "xfFurHSRpts": "2026-10-12",
+  "xCJObdl4UUw": "2026-10-12",
+  "Bx8xywaF3Pg": "2026-10-12",
+  "sGZk1BSDRpE": "2026-10-12",
+  "xiZvIF7CjHw": "2026-10-12",
+  "6sQ1IO_liXQ": "2026-10-12",
+  "RvJ4OtGuVzI": "2026-10-12",
+  "1GpOwPTyOYs": "2026-10-12",
+  "oFkNbm3Zz38": "2026-10-12",
+  "TZ40Qq3W2bE": "2026-10-12",
+  "F62KfZMdT34": "2026-10-12",
+  "TieoZZmarPs": "2026-10-12",
+  "9mhTr2izxRE": "2026-10-12",
+  "eLNnam2Yx2U": "2026-10-12",
+  "SUFqSsmjpKo": "2026-10-12",
+  "r5GhkAMs0bw": "2026-10-12",
+  "Vo8uEDSk81E": "2026-10-12",
+  "M9KKNelymNo": "2026-10-12"
  },
  "aviso_requisitos": {
   "dia": "2026-10-07",
@@ -70,5 +78,5 @@
    "Horas assistidas públicas (12 meses)"
   ]
  },
- "ultima_agendada": "2026-10-11"
+ "ultima_agendada": "2026-10-12"
 }

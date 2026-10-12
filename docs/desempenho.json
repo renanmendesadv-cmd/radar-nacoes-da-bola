@@ -1,33 +1,33 @@
 {
- "gerado_em": "2026-10-11T16:25:29.644511+00:00",
+ "gerado_em": "2026-10-12T20:00:21.631112+00:00",
  "canal": {
   "id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
   "nome": "NAÇÕES DA BOLA o canal de todas as torcidas",
   "inscritos": 5910
  },
  "periodo": {
-  "inicio": "2026-09-11",
-  "fim": "2026-10-08",
-  "janela_inicio": "2026-07-11"
+  "inicio": "2026-09-12",
+  "fim": "2026-10-09",
+  "janela_inicio": "2026-07-12"
  },
  "n_videos": 58,
  "n_videos_v7": 40,
  "mediana_v7": 172,
  "resumo_semana": {
   "views": {
-   "atual": 3132,
-   "anterior": 4668,
-   "variacao": -32.9
+   "atual": 1339,
+   "anterior": 6429,
+   "variacao": -79.2
   },
   "minutos": {
-   "atual": 2300,
-   "anterior": 2398,
-   "variacao": -4.1
+   "atual": 1487,
+   "anterior": 2989,
+   "variacao": -50.3
   },
   "inscritos_ganhos": {
-   "atual": 4,
-   "anterior": 8,
-   "variacao": -50.0
+   "atual": 1,
+   "anterior": 10,
+   "variacao": -90.0
   },
   "inscritos_perdidos": {
    "atual": 2,
@@ -42,7 +42,7 @@
    "mediana_v7": 0,
    "indice": null,
    "pct_assistido": null,
-   "views": 29,
+   "views": 28,
    "pct_views": 0.2,
    "inscritos": 0,
    "minutos": 6
@@ -64,10 +64,10 @@
    "mediana_v7": 172,
    "indice": 1.0,
    "pct_assistido": 2.9,
-   "views": 15010,
+   "views": 14972,
    "pct_views": 99.6,
    "inscritos": 18,
-   "minutos": 10156
+   "minutos": 10133
   }
  ],
  "tipos": [
@@ -241,7 +241,7 @@
  "trafego": [
   {
    "origem": "Página inicial e inscrições",
-   "views": 12522,
+   "views": 12492,
    "pct": 83.1
   },
   {
@@ -251,12 +251,12 @@
   },
   {
    "origem": "Sites e apps externos",
-   "views": 431,
-   "pct": 2.9
+   "views": 425,
+   "pct": 2.8
   },
   {
    "origem": "Busca do YouTube",
-   "views": 322,
+   "views": 319,
    "pct": 2.1
   },
   {
@@ -271,7 +271,7 @@
   },
   {
    "origem": "Acesso direto ou desconhecido",
-   "views": 87,
+   "views": 84,
    "pct": 0.6
   },
   {
@@ -344,7 +344,7 @@
    "url": "https://www.youtube.com/watch?v=HU2ftPLYSfI",
    "formato": "Lives",
    "inscritos": 3,
-   "views": 1887
+   "views": 1890
   },
   {
    "titulo": "BÉLGICA   X  FRANÇA - 2ª RODADA",
@@ -425,15 +425,15 @@
   "Finanças e gestão": 1.0,
   "Lesão e desfalque": 1.0,
   "Seleção": 1.0,
-  "Jogo e resultado": 1.071
+  "Jogo e resultado": 1.092
  },
  "alcance": {
-  "impressoes": 92026,
+  "impressoes": 91783,
   "ctr": 5.6,
   "por_formato": [
    {
     "nome": "Lives",
-    "impressoes": 90119,
+    "impressoes": 89882,
     "ctr": 5.6,
     "n_videos": 47
    }
@@ -441,19 +441,19 @@
   "por_tipo": [
    {
     "nome": "Transmissão de jogo",
-    "impressoes": 69970,
+    "impressoes": 69951,
     "ctr": 6.8,
     "n_videos": 24
    },
    {
     "nome": "Sai pro Jogo (programa)",
-    "impressoes": 2539,
-    "ctr": 2.3,
+    "impressoes": 2534,
+    "ctr": 2.2,
     "n_videos": 6
    },
    {
     "nome": "Resenha multitemas",
-    "impressoes": 16157,
+    "impressoes": 15944,
     "ctr": 1.4,
     "n_videos": 15
    }
@@ -478,7 +478,7 @@
    {
     "titulo": "SÃO PAULO  X  SANTOS -  RODADA 21",
     "url": "https://www.youtube.com/watch?v=HU2ftPLYSfI",
-    "impressoes": 6760,
+    "impressoes": 6769,
     "ctr": 10.8,
     "formato": "Lives",
     "pct_assistido": 0.7
@@ -512,7 +512,7 @@
    {
     "titulo": "PEIXE SOBE E SP ESTANCA/TRICOLOR CAMPEÃO BRASILEIRO FEMININO/DATA FIFA VALEU?/MESSI E O FIM DA MAGIA",
     "url": "https://www.youtube.com/watch?v=2TzEBAEgUfo",
-    "impressoes": 6691,
+    "impressoes": 6694,
     "ctr": 1.2,
     "formato": "Lives",
     "pct_assistido": 4.7
@@ -546,13 +546,13 @@
   "ativado_em": "2026-09-30T04:22:41.545419+00:00"
  },
  "monetizacao": {
-  "views_28d": 15110,
-  "media_diaria": 540,
+  "views_28d": 15072,
+  "media_diaria": 538,
   "tendencia_pct": -30.0,
   "previsao_views_30d": {
    "Vídeos longos": 28,
-   "Lives": 11283,
-   "Shorts": 22
+   "Lives": 11255,
+   "Shorts": 21
   },
   "rpm_referencia": {
    "Vídeos longos": [
@@ -572,15 +572,11 @@
    ]
   },
   "estimativa_rs": {
-   "pessimista": 16.98,
-   "provavel": 33.96,
-   "otimista": 67.93
+   "pessimista": 16.94,
+   "provavel": 33.88,
+   "otimista": 67.76
   },
   "serie_diaria": [
-   {
-    "dia": "2026-09-11",
-    "views": 45
-   },
    {
     "dia": "2026-09-12",
     "views": 36
@@ -688,6 +684,10 @@
    {
     "dia": "2026-10-08",
     "views": 86
+   },
+   {
+    "dia": "2026-10-09",
+    "views": 7
    }
   ],
   "elegibilidade": {
@@ -714,7 +714,7 @@
     "meta": 4000,
     "nivel": "anúncios",
     "status": "abaixo",
-    "texto": "2.280 h públicas nos últimos 12 meses (vídeos longos e lives; Shorts, privados e apagados não contam). Nos próximos 30 dias saem da conta ~292 h e entram ~181 h no ritmo atual: projeção de 2.168 h.",
+    "texto": "2.280 h públicas nos últimos 12 meses (vídeos longos e lives; Shorts, privados e apagados não contam). Nos próximos 30 dias saem da conta ~307 h e entram ~180 h no ritmo atual: projeção de 2.153 h.",
     "acao": "Faltam 1.720 h. Lives longas e vídeos longos contam; seriam uns 143 h a mais por mês durante um ano."
    },
    {
@@ -750,11 +750,11 @@
    {
     "id": "atividade",
     "nome": "Canal ativo (envios públicos)",
-    "atual": 0,
+    "atual": 1,
     "meta": 180,
     "nivel": "manter a monetização",
     "status": "ok",
-    "texto": "Último envio público: hoje. Canais sem envios por 6 meses podem ter a monetização revisada.",
+    "texto": "Último envio público há 1 dia. Canais sem envios por 6 meses podem ter a monetização revisada.",
     "acao": null
    },
    {
@@ -803,7 +803,7 @@
    "por_mes": [
     {
      "mes": "2025-10",
-     "horas": 223
+     "horas": 222
     },
     {
      "mes": "2025-11",
@@ -854,9 +854,9 @@
      "horas": 47
     }
    ],
-   "saem_30d": 292,
-   "entram_30d": 181,
-   "projecao_30d": 2168,
+   "saem_30d": 307,
+   "entram_30d": 180,
+   "projecao_30d": 2153,
    "fora_da_conta": 15
   },
   "pendencias": [
@@ -869,11 +869,11 @@
   "Quem mais traz inscritos: Lives (18 nas últimas 4 semanas).",
   "Tipo de conteúdo que mais rende: Transmissão de jogo (1,9x a mediana, 21 vídeos); o que menos rende: Resenha multitemas (0,2x).",
   "Tema que mais rende: Jogo e resultado (1,2x a mediana). O radar já dá peso maior a ele.",
-  "Taxa de cliques das miniaturas: 5,6% em 92,026 impressões nas últimas 4 semanas (a maioria dos canais fica entre 2% e 10%).",
+  "Taxa de cliques das miniaturas: 5,6% em 91,783 impressões nas últimas 4 semanas (a maioria dos canais fica entre 2% e 10%).",
   "Miniatura que mais atrai cliques: Transmissão de jogo (6,8%); a que menos atrai: Resenha multitemas (1,4%). Copie o estilo da primeira.",
   "\"ANÁLISE DOS DOIS JOGOS DO BRASIL/40 JOGOS INVICTOS. ESPANHA \" foi muito mostrado, mas pouco clicado (0,9%): troque a miniatura e o título (o YouTube Studio permite testar até 3 miniaturas).",
   "Maior origem de público: Página inicial e inscrições (83% das views).",
   "Melhor momento para publicar: terça, noite (18h–24h) (mediana de views nos 7 primeiros dias)."
  ],
- "pesos_ajustados_em": "2026-10-05T19:58:54.809297+00:00"
+ "pesos_ajustados_em": "2026-10-12T20:00:21.631112+00:00"
 }
