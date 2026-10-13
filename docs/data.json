@@ -1,15 +1,15 @@
 {
- "gerado_em": "2026-10-12T20:00:21.631112+00:00",
- "data_br": "12/10/2026 17:00",
+ "gerado_em": "2026-10-13T17:48:04.494527+00:00",
+ "data_br": "13/10/2026 14:48",
  "status": {
   "Google Trends": 10,
-  "Google News": 1023,
+  "Google News": 1016,
   "Vídeos do canal": 15,
   "Buscas do torcedor": 18,
   "YouTube (48 h)": 12,
-  "Alertas de tendência": 2,
+  "Alertas de tendência": "nenhum hoje",
   "Agenda (ESPN)": 200,
-  "Agenda (buscas Google)": 0
+  "Agenda (buscas Google)": 1
  },
  "canal_id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
  "videos_recentes": [
@@ -65,11 +65,11 @@
   }
  ],
  "termos_futebol": [
-  "famalicão",
-  "coritiba x botafogo minuto a minuto",
-  "new castle",
-  "botafogo de futebol e regatas",
-  "danilo"
+  "al-ittihad x shabab al-ahli",
+  "gol linhas aéreas",
+  "kaique pereira",
+  "jj gabriel",
+  "uefa"
  ],
  "pesos": {
   "busca": 0.24,
@@ -102,11 +102,11 @@
     "estado": "pre",
     "clube": "Palmeiras",
     "tipo": "pré-jogo",
-    "em_horas": 52,
+    "em_horas": 31,
     "gancho": "Se você fosse o técnico em Fluminense x Palmeiras, quem escalaria?",
     "titulo_thumb": "SUA ESCALAÇÃO",
     "tecnica": "Pergunta aberta",
-    "formato": "Enquete: qual o seu palpite? (30 s)"
+    "formato": "Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)"
    },
    {
     "id": "401912523",
@@ -119,10 +119,10 @@
     "estado": "pre",
     "clube": "Flamengo",
     "tipo": "pré-jogo",
-    "em_horas": 76,
-    "gancho": "Meu palpite para Estudiantes de La Plata x Flamengo: [SEU PLACAR]. Deixa o seu nos comentários.",
-    "titulo_thumb": "MEU PALPITE",
-    "tecnica": "Aposta",
+    "em_horas": 55,
+    "gancho": "Estudiantes de La Plata x Flamengo: qual é o detalhe que vai decidir esse jogo?",
+    "titulo_thumb": "QUEM LEVA?",
+    "tecnica": "Pergunta aberta",
     "formato": "Enquete: qual o seu palpite? (30 s)"
    },
    {
@@ -136,7 +136,7 @@
     "estado": "pre",
     "clube": "Palmeiras",
     "tipo": "pré-jogo",
-    "em_horas": 122,
+    "em_horas": 101,
     "gancho": "Athletico Paranaense x Palmeiras parece um jogo com dono. É exatamente aí que mora o perigo.",
     "titulo_thumb": "ZEBRA À VISTA?",
     "tecnica": "Contradição",
@@ -153,7 +153,7 @@
     "estado": "pre",
     "clube": "São Paulo",
     "tipo": "pré-jogo",
-    "em_horas": 124,
+    "em_horas": 102,
     "gancho": "São Paulo x Vasco da Gama: um precisa vencer, o outro não pode perder.",
     "titulo_thumb": "SÃO PAULO X VASCO DA GAMA",
     "tecnica": "Conflito",
@@ -170,75 +170,88 @@
     "estado": "pre",
     "clube": "Flamengo",
     "tipo": "pré-jogo",
-    "em_horas": 145,
-    "gancho": "Bahia x Flamengo: qual é o detalhe que vai decidir esse jogo?",
-    "titulo_thumb": "QUEM LEVA?",
+    "em_horas": 124,
+    "gancho": "Se você fosse o técnico em Bahia x Flamengo, quem escalaria?",
+    "titulo_thumb": "SUA ESCALAÇÃO",
     "tecnica": "Pergunta aberta",
+    "formato": "Enquete: qual o seu palpite? (30 s)"
+   },
+   {
+    "id": "401841272",
+    "data": "2026-10-19T23:00Z",
+    "liga": "Brasileirão",
+    "casa": "Corinthians",
+    "fora": "Vitória",
+    "placar_casa": null,
+    "placar_fora": null,
+    "estado": "pre",
+    "clube": "Corinthians",
+    "tipo": "pré-jogo",
+    "em_horas": 149,
+    "gancho": "Meu palpite para Corinthians x Vitória: [SEU PLACAR]. Deixa o seu nos comentários.",
+    "titulo_thumb": "MEU PALPITE",
+    "tecnica": "Aposta",
     "formato": "Enquete: qual o seu palpite? (30 s)"
    }
   ],
-  "resultados": [
+  "resultados": [],
+  "na_midia": [
    {
-    "id": "401841263",
-    "data": "2026-10-11T20:30Z",
-    "liga": "Brasileirão",
-    "casa": "Flamengo",
-    "fora": "Fluminense",
-    "placar_casa": 1,
-    "placar_fora": 0,
-    "estado": "post",
+    "jogo": "Flamengo x Fluminense",
     "clube": "Flamengo",
-    "tipo": "pós-jogo",
-    "gancho": "O Flamengo venceu o Fluminense, mas tem um detalhe que ninguém comentou.",
-    "titulo_thumb": "FLAMENGO VENCEU. E AGORA?",
-    "formato": "Corte da reação na live + análise (60 a 90 s)"
-   },
-   {
-    "id": "401841261",
-    "data": "2026-10-11T20:30Z",
-    "liga": "Brasileirão",
-    "casa": "Palmeiras",
-    "fora": "Corinthians",
-    "placar_casa": 4,
-    "placar_fora": 1,
-    "estado": "post",
-    "clube": "Palmeiras",
-    "tipo": "pós-jogo",
-    "gancho": "O Palmeiras venceu o Corinthians, mas tem um detalhe que ninguém comentou.",
-    "titulo_thumb": "PALMEIRAS VENCEU. E AGORA?",
-    "formato": "Corte da reação na live + análise (60 a 90 s)"
+    "manchetes": 2,
+    "exemplo": "Ecos do Flamengo x Fluminense: Danilo atualiza após cirurgia e manda recado"
    }
   ],
-  "na_midia": [],
-  "nas_buscas": []
+  "nas_buscas": [
+   {
+    "tipo": "pré-jogo",
+    "fonte": "buscas do Google",
+    "clube": "Palmeiras",
+    "jogo": "Palmeiras x Ldu Quito",
+    "casa": "Palmeiras",
+    "fora": "Ldu Quito",
+    "confianca": "alta",
+    "posicao_busca": 5,
+    "manchetes": 0,
+    "exemplo": null,
+    "sugestoes": [
+     "palmeiras x ldu quito",
+     "palmeiras x ldu",
+     "palmeiras x ldu quito"
+    ],
+    "gancho": "Palmeiras x Ldu Quito: qual é o detalhe que vai decidir esse jogo?",
+    "titulo_thumb": "QUEM LEVA?",
+    "tecnica": "Pergunta aberta",
+    "formato": "Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)"
+   }
+  ]
  },
  "buscas_torcedor": {
   "flamengo": [
-   "flamengo x fluminense",
-   "flamengo-fluminense",
    "flamengo x cruzeiro",
-   "flamengo x fluminense onde assistir"
+   "flamengo x fluminense",
+   "flamengo e cruzeiro"
   ],
   "corinthians": [
+   "corinthians x estudiantes",
    "corinthians x palmeiras",
-   "corinthians e palmeiras",
-   "corinthians-palmeiras",
-   "corinthians x estudiantes"
+   "corinthians x rosario central",
+   "corinthians libertadores"
   ],
   "são paulo fc": [
    "são paulo fc contratação"
   ],
   "palmeiras": [
-   "palmeiras x corinthians",
-   "palmeiras-corinthians",
    "palmeiras x santos",
-   "palmeiras x corinthians onde assistir",
+   "palmeiras x corinthians",
    "palmeiras x cerro porteño",
-   "palmeiras x ldu quito"
+   "palmeiras x ldu quito",
+   "palmeiras x ldu"
   ],
   "seleção brasileira": [
-   "seleção brasileira feminina",
    "seleção brasileira de futebol feminino",
+   "seleção brasileira feminina",
    "seleção brasileira 2002",
    "seleção brasileira de futebol",
    "seleção brasileira jogadores",
@@ -247,899 +260,1331 @@
   "brasileirão": [
    "brasileirão série a",
    "brasileirão série b",
-   "brasileirão série c",
    "brasileirão série a classificação",
    "brasileirão 2026",
-   "brasileirão série a 2026"
+   "brasileirão série c",
+   "brasileirão série d"
   ]
  },
- "alertas": [
-  {
-   "id": "CvV-1ciI6yw",
-   "tema": "Danilo tem duas fraturas na mandíbula e vai passar por cirurgia após choque em Flamengo x Fluminense",
-   "clubes": [
-    "Flamengo"
-   ],
-   "origem": "Pauta do radar",
-   "formato_em_alta": "Shorts",
-   "sugestao": "Short de 30 a 60 s com a sua opinião ou reação (poste o mesmo vídeo como Reels no Instagram)",
-   "dica_do_canal": "Seu canal quase não tem Shorts: é uma chance de testar o formato com um assunto que já está bombando.",
-   "n_videos": 19,
-   "views": 75002,
-   "velocidade": 24.5,
-   "engajamento": 1.6,
-   "engajamento_pct": 4.2,
-   "ganho_hora": null,
-   "exemplos": [
-    {
-     "titulo": "FLAMENGO pode perder DANILO antes da semifinal da LIBERTADORES 😳",
-     "canal": "O Inspetor",
-     "views": 27992,
-     "url": "https://www.youtube.com/watch?v=CvV-1ciI6yw",
-     "formato": "Shorts",
-     "views_hora": 5473
-    },
-    {
-     "titulo": "PÉSSIMA NOTÍCIA | DANILO SOFRE DUAS FRATURAS NA MANDÍBULA E DESFALCA O FLAMENGO POR 5 SEMANAS",
-     "canal": "Venê Casagrande",
-     "views": 28352,
-     "url": "https://www.youtube.com/watch?v=HFaj3hToVro",
-     "formato": "Vídeos longos",
-     "views_hora": 3421
-    },
-    {
-     "titulo": "DANILO, DO FLAMENGO, TEM FRATURA NA MANDÍBULA APÓS CHOQUE COM FÁBIO NO FLA-FLU E PASSA POR CIRURGIA",
-     "canal": "UOL Esporte",
-     "views": 6335,
-     "url": "https://www.youtube.com/watch?v=Yy-ydGNi7mE",
-     "formato": "Shorts",
-     "views_hora": 2296
-    }
-   ],
-   "gancho": "O Flamengo sem Danilo: o técnico vai ter que escolher entre improvisar ou mudar o time."
-  },
-  {
-   "id": "Vo8uEDSk81E",
-   "tema": "Palmeiras provoca Corinthians e agita redes sociais",
-   "clubes": [
-    "Corinthians",
-    "Palmeiras"
-   ],
-   "origem": "Pauta do radar",
-   "formato_em_alta": "Lives",
-   "sugestao": "Live de debate ou react ao vivo, com o assunto no título",
-   "dica_do_canal": "No seu canal, Transmissão de jogo rende 1,9x a média: puxe o assunto também na próxima live.",
-   "n_videos": 2,
-   "views": 40127,
-   "velocidade": 9.1,
-   "engajamento": 2.9,
-   "engajamento_pct": 7.5,
-   "ganho_hora": null,
-   "exemplos": [
-    {
-     "titulo": "PALMEIRAS PROVOCA CORINTHIANS APÓS GOLEADA, FLAMENGO É AJUDADO E ABEL MANDA INDIRETA AO RIVAL",
-     "canal": "Mil Grau",
-     "views": 39868,
-     "url": "https://www.youtube.com/watch?v=Vo8uEDSk81E",
-     "formato": "Lives",
-     "views_hora": 2031
-    },
-    {
-     "titulo": "Palmeiras provoca Corinthians após goleada em Itaquera",
-     "canal": "Palmeiras 247 - Tudo sobre o Porco",
-     "views": 259,
-     "url": "https://www.youtube.com/watch?v=M9KKNelymNo",
-     "formato": "Shorts",
-     "views_hora": 13
-    }
-   ],
-   "gancho": "Palmeiras provoca Corinthians e agita redes sociais. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu."
-  }
- ],
+ "alertas": [],
  "aviso_requisitos": null,
  "temas": [
   {
-   "tema": "Carrascal decide, Flamengo vence o Fluminense e segue líder do Brasileiro",
-   "categoria": "Jogo e resultado",
+   "tema": "Fluminense x Palmeiras: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo da Libertadores",
+   "categoria": "Arbitragem e VAR",
    "clubes": [
-    "Flamengo",
+    "Palmeiras",
     "Fluminense"
    ],
    "foco": true,
-   "nota": 88.3,
+   "nota": 79.0,
    "sinais": {
-    "busca": 70,
-    "aceleracao": 52,
+    "busca": 65,
+    "aceleracao": 76,
     "midia": 100,
     "aderencia": 100,
-    "youtube": 98
+    "youtube": 66
    },
-   "fator_categoria": 1.092,
+   "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "flamengo x fluminense",
+   "busca_torcedor": "estudiantes x flamengo",
    "termos_trends": [],
-   "n_fontes": 11,
-   "n_manchetes": 12,
-   "assinatura": "flame|brasi|lider|flumi",
+   "n_fontes": 14,
+   "n_manchetes": 15,
+   "assinatura": "flumi|palme|liber|assis",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Flamengo e Palmeiras somam 99,98% de chances de conquistar o Campeonato Brasileiro. Após vencerem. Quase ninguém fez a conta do que isso significa para o Flamengo.",
-    "titulo_thumb": "99,98%",
-    "pergunta_enquete": "Qual sua opinião: Carrascal decide, Flamengo vence o Fluminense e segue líder do Brasileiro?",
-    "tecnica": "Dado",
+    "formato": "Corte de debate (30 a 60 s)",
+    "gancho": "Veja onde assistir Fluminense x Palmeiras e Estudiantes x Flamengo pelas semifinais da Libertadores. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
+    "titulo_thumb": "MEU PALPITE",
+    "pergunta_enquete": "Qual sua opinião: Fluminense x Palmeiras: onde assistir ao vivo, horário, palpite e prováveis escalações do ?",
+    "tecnica": "Aposta",
     "ganchos": [
      {
+      "tecnica": "Aposta",
+      "texto": "Veja onde assistir Fluminense x Palmeiras e Estudiantes x Flamengo pelas semifinais da Libertadores. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
+      "thumb": "MEU PALPITE"
+     },
+     {
       "tecnica": "Dado",
-      "texto": "Flamengo e Palmeiras somam 99,98% de chances de conquistar o Campeonato Brasileiro. Após vencerem. Quase ninguém fez a conta do que isso significa para o Flamengo.",
-      "thumb": "99,98%"
+      "texto": "17 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
+      "thumb": "TODO MUNDO VIU"
      },
      {
       "tecnica": "Conflito",
-      "texto": "Carrascal decide, Flamengo vence o Fluminense e segue líder do Brasileiro. Dentro de campo acabou. Fora dele, a discussão está só começando.",
-      "thumb": "FLAMENGO x PALMEIRAS"
+      "texto": "Veja onde assistir Fluminense x Palmeiras e Estudiantes x Flamengo pelas semifinais da Libertadores. Nem todo mundo no Palmeiras vai gostar disso, e eu vou explicar por quê.",
+      "thumb": "PALMEIRAS x FLUMINENSE"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Carrascal decide, Flamengo vence o Fluminense e segue líder do Brasileiro. Todo mundo vai olhar o resultado; eu vou mostrar o que ele esconde.",
+      "texto": "Veja onde assistir Fluminense x Palmeiras e Estudiantes x Flamengo pelas semifinais da Libertadores. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Carrascal decide, Flamengo vence o Fluminense e segue líder do Brasileiro. O que esse resultado muda daqui para frente?",
-      "thumb": "E AGORA, FLAMENGO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Carrascal decide, Flamengo vence o Fluminense e segue líder do Brasileiro. Minha aposta: depois desse jogo, [SEU PALPITE]. Me cobra depois.",
-      "thumb": "MEU PALPITE"
+      "texto": "Veja onde assistir Fluminense x Palmeiras e Estudiantes x Flamengo pelas semifinais da Libertadores. E agora: o que muda para o Palmeiras?",
+      "thumb": "E AGORA, PALMEIRAS?"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Flamengo mantém a liderança do Brasileirão após rodada de clássicos",
-     "fonte": "Agência Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTUVZeW5adnF0ZXJEV3hkdVdpV2J5US1wNk9OSjZwTmlKY0FSX3M5dzJZczM3T0k3TkZCRzFKVFIzdXdPR2h3UVhUU1lTUDBnRVhYemhaUWxqbVVjM1gyODZtQnlGeFhnc2pHS1hhTEZkVHhsQUkzbHRmU2p3ODdRUWVHZFVKc1ZyN202RkQ3M1BLRkdWSm1XZF9sUGo2TDZVMVVLY0J2QzE3SURDamF4cDdaLUFDT09PT243cFhwNjA?oc=5"
+     "titulo": "Palmeiras: Sosa treina e fica à disposição para decisão contra o Fluminense pela Libertadores",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZWRHTW1ZOWtjYXAtVjlibk9BRW1EVVhvcEpMN2wyWmxib1RHQlhvUGw4UGxrX3RiU3oybGhuMDJ0ZVdnVHFEZUVuSERuMGIzcUhKOFdkeUp2b0NYV2J5VHJiYnRmV0tHTDd0WXNiUWJsc3JxWkwxZXB0b0x0dGk1WmZhYlZoQVY1SVhtaHB4VjdXZ3BFNWZzU1FQWThReTgtNDZWOWRhRjlLY3BfS3JRTW9XT0hOQ0lYeklhSnFlbEQ1U2hEMVY3OGdMQVhHMXp5UjdkR3JTVUk0X3VfSXRzdG81clNlT0NUOWpF?oc=5"
     },
     {
-     "titulo": "Flamengo lidera Brasileirão após rodada de clássicos",
-     "fonte": "Tribuna do Sertão",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT2pxRDhJaUVFVGZpeTh1TUZhUk11N09YdGZncEtPNkZDUlJUYm11d3JsdVc4TEdaZzdyVUNDTW0tRWJXeUFKdnhUaGlfMlFVcWdkVzRzRm9BUGtBdjJDS0hWQnRVa0cxYnpjeWZqcVZIX3loREpCNTU5LTQ3c2NkQm9tMkVMQ3BNYUFCQ0dWV1RlS2oyTlZzaFN5bkIzLUZ2RXIxQ0ktZDZtV2VVYTE3dUk5cDI?oc=5"
+     "titulo": "Veja onde assistir Fluminense x Palmeiras e Estudiantes x Flamengo pelas semifinais da Libertadores",
+     "fonte": "O TEMPO",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQkhkMnRJeDlqeUFlYU5zVGZsWTc5RU5kYnpFVVFfWXNEQVRpUVM2NlFvT2szUmpXQ2ZOTUJ1WjFxUUdzLXNJU1dWNE5vS1BiMy1EVTFtQWw3a0JSRnFwLXdnNnNoRzhVRjZMeThIdHhRbnZKaWQyM0ZualRndjB4Qm9kMVpiSmI1dnZzQ3lXNWJ6eEF5a2ZxbzRTZXhwRlZuVFM4bTVVOC1PMDcxMHpjcG1jbDRyWTJsUmE1NnRyNm5ZQzdEaEtTaE53N2U0M3ZHcjRnTDFTRlZhdHg0Z2hMN3VXOTVRVExjdmVqc2FR?oc=5"
     },
     {
-     "titulo": "Após clássicos, Flamengo mantém favoritismo ao título do Brasileirão contra o Palmeiras",
-     "fonte": "Rádio Itatiaia",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSG5oSjByWTZ5WVJOV1gzYjdPTWZwOG1RSWpjVjBhM3dTSDRKOE5pLVFSTkFQOXFicE4xZS1ZaHJXT3NiYkVIOE5heDlZOU1zWlBLQnI2OXFQaDRhbHlOSTR6RlN1TVJGVGFFNFBsVnFfNDdFQkdDVUxoTnpDOVJ1dnVvTGE3eXBwa0hFNTZHOHJYc0FMX1hDRGxGQVplSm9aRmV6ZWVaU0hwMWpiODV5djdTV0hONTFkaHVMVkhlQ09KZEs3S3ZiWUh0eXpVR3F4SmlrUHc4TWFxSUZRQjgwLUMxQ1I3NG55UFlhRUlGdXhYSnQtcGh0WElyaUdqUQ?oc=5"
+     "titulo": "Ao vivo: Fluminense x Palmeiras | Semifinal | Taça Conmebol Libertadores",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNamgxNjBmOWc1cWRVMTBzY3NfejJ0dTQ2eGFIaVB2ZTRXQWJEZXZJcm5NLTJHWkM4NUp2cnhweEhGNGtFenpWWFpSaG9qSlYxNnRmN0xvVWtfRVRvTThUek42TEJHS1ZwRFlDT0ZDOXJGTDVad0FqOFZhYThXVDB1bm1PYk1uOTNZcEEyRmN1UlU?oc=5"
     },
     {
-     "titulo": "Segundo o departamento de matemática da UFMG, Flamengo e Palmeiras somam 99,98% de chances de conquistar o Campeonato Brasileiro. Após vencerem os clássicos contra Fluminense e Corinthians, respectivamente, o líder e o vice-líder concentram",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GQ1FUTnI5cUVoLTg2dVk2OFNmZnk3aXp3dC0zeWJUV1Y5cnhMR0Ewc3VMSGVqenVSY0wtTVNLLWdWUlZZWDBKcF9GZ3Q3cElyRGc?oc=5"
+     "titulo": "Fluminense e Palmeiras colocam à prova estilos distintos na semifinal",
+     "fonte": "O Dia",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTnZhaXBlOGNNX0xhX0hDOTIyMjUyN3FjckNnSEFtVHpYLTQ2ZmVqcGFrbVB4SmpKMkU2OWRJS0EwYXR4bjQ3TUZ1QXcxSjd1X3pXWWxHaG1COEJHcUU3ZkZnMkN3bEQ0OGp5S0F3LXV2ZUd4aUlPdXhfMWNEaDB0a3djc3VhZkpWTFY2VHpwN3pPbk1mYUIyTFd3RHl4TUZMdnNqdnBIdkxwdTlPOV9LZDRTbmpXaEtuZUNja2x0ZnRaRXNPZUM2UlNtQTTSAdIBQVVfeXFMTTQtcDd4TEN0NTZCMWllSkk3UHRRd3laR05CYUQ2UDZ6WFhqeTVJTGJJWHMzR1ZBb1ZxZTZWSEFGemlEcFBjRmlwQXl4T0VCVVgxOERQT0tRWkhUNEtPNFlkOC0xbEdwRlJCTjJldjd1UTNnVjlkMHVJeFRaMFFEQ3NuRzU1RzF3akZQSE5WczVrOWZZNmVwWmo5UDkyRzhvVDk3YjNSLVY2VWJqZjI2Yll3ODJGSm80c3ByTTYwTnAyMWpjZFBlX3JFM19XQndGZkxn?oc=5"
     },
     {
-     "titulo": "O Bahia já mira o confronto contra o Flamengo, no próximo domingo (18), na Arena Fonte Nova, pela 31ª rodada do Campeonato Brasileiro. Após vencer o Mirassol por 1 a 0, neste domingo (11), o técnico Rogério Ceni afirmou que acredita na possibilidade",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NZWY5Y1Ntb3dCYTN2NlVVRVZsRUZTbTdaWkhscTFCdWtqbXY1Ukc2d2F1c005NzQ3b0FJbldjTUswaV9EVFhqZ0djWE00NXVpWWc?oc=5"
+     "titulo": "Fluminense recebe o Palmeiras pela Libertadores; saiba prováveis escalações",
+     "fonte": "Diário do Rio",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY292NWpTb2JlR0dEUUROVy1FOXl5NGN1OGJnQnpoZVNVNkJoZU9jQU91WE44aTNKYWgxRzBkOTJvRW9yVUdUTEhxUkhhT0dBb0JFQkFDSlFLV0puUTZFeXRPSmptWDAycFhSakNQN2ZxNHVJVmtIZEsxUkpjbnZYcUhZWkZoWkxBaVBuVnNjclM1Y0d6TmFuYlRoeTRlTk4tTFhzdUthMGU4eUxlcjl5QllLaXkyZXlyTlMzNGhzYjRjcUExMG9fVGgzem5GUQ?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "8Gzmx8H4dZw",
-      "titulo": "Flamengo vence Fluminense e é líder do brasileirão",
-      "canal": "FC CURIOSIDADES DO FUTEBOL",
-      "views": 252717,
-      "likes": 14648,
-      "comentarios": 298,
-      "publicado": "2026-10-12T03:55:33Z",
-      "duracao_s": 105,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=8Gzmx8H4dZw"
-     },
-     {
-      "id": "RmTbmX5RzAc",
-      "titulo": "FLAMENGO VENCE O FLUMINENSE E SEGUE NA LIDERANÇA DO BRASILEIRÃO | FECHAMENTO | sportv",
-      "canal": "ge tv",
-      "views": 83768,
-      "likes": 1163,
-      "comentarios": 93,
-      "publicado": "2026-10-12T00:04:36Z",
-      "duracao_s": 1110,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=RmTbmX5RzAc"
-     },
-     {
-      "id": "sTo5SR9vxzo",
-      "titulo": "SEGUE O LÍDER!!! O Flamengo vence o Fluminense #flamengo #futebol #liderança  #mengao #fyp",
-      "canal": "Luiz_pepelino150 ",
-      "views": 71852,
-      "likes": 2663,
-      "comentarios": 130,
-      "publicado": "2026-10-12T00:00:31Z",
-      "duracao_s": 18,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=sTo5SR9vxzo"
-     },
-     {
-      "id": "WjkGvjtb3PU",
-      "titulo": "FLAMENGO SOFRE MAS VENCE E SEGUE LÍDER!",
-      "canal": "Canal RMP",
-      "views": 69423,
-      "likes": 3869,
-      "comentarios": 92,
-      "publicado": "2026-10-12T00:22:25Z",
-      "duracao_s": 5467,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=WjkGvjtb3PU"
-     },
-     {
-      "id": "QOrRPsTunjQ",
-      "titulo": "SEGUE O LIDER, FLAMENGO VENCE O CLÁSSICO E MANTÉM A LIDERANÇA, GANHAR FLA X FLU É NORMAL! 📱",
-      "canal": "Urubucam",
-      "views": 26670,
-      "likes": 112,
+      "id": "f8xTvr_Iscg",
+      "titulo": "PALMEIRAS x CORINTHIANS -- ONDE ASSISTIR (BRASILEIRÃO 2026)",
+      "canal": "RADIO SPORTS",
+      "views": 16496,
+      "likes": 39,
       "comentarios": 0,
-      "publicado": "2026-10-12T13:18:29Z",
-      "duracao_s": 6990,
+      "publicado": "2026-10-11T23:29:08Z",
+      "duracao_s": 60,
       "live": true,
-      "url": "https://www.youtube.com/watch?v=QOrRPsTunjQ"
+      "url": "https://www.youtube.com/watch?v=f8xTvr_Iscg"
      },
      {
-      "id": "5yJQa7nKCJ8",
-      "titulo": "FLAMENGO VENCE O FLUMINENSE COM GOL DE CARRASCAL E SEGUE LÍDER DO BRASILEIRÃO! E QUAL A NOTA DO VAR?",
-      "canal": "CANHOTINHA 70",
-      "views": 22803,
-      "likes": 1400,
-      "comentarios": 96,
-      "publicado": "2026-10-11T23:15:18Z",
-      "duracao_s": 666,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=5yJQa7nKCJ8"
-     },
-     {
-      "id": "qOVnySGC4c0",
-      "titulo": "Palmeiras ATR0PELA Corinthians MAS Flamengo VENCE e continua LÍDER! ",
-      "canal": "OPINA PORCO",
-      "views": 20415,
-      "likes": 1312,
-      "comentarios": 160,
-      "publicado": "2026-10-11T22:56:34Z",
-      "duracao_s": 497,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=qOVnySGC4c0"
-     },
-     {
-      "id": "5Mw9C4fQ8nY",
-      "titulo": "COM GOL DE CARRASCAL, FLA VENCE E SEGUE LIDER! ATUAÇÃO FICA DEVENDO! MUITAS CHANCES PERDIDAS! E+",
-      "canal": "Visão Rubro-Negra",
-      "views": 15396,
-      "likes": 1153,
-      "comentarios": 8,
-      "publicado": "2026-10-11T23:49:31Z",
-      "duracao_s": 3908,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=5Mw9C4fQ8nY"
-     },
-     {
-      "id": "szGOcTIhrzI",
-      "titulo": "MELHORES MOMENTOS FLAMENGO 1X0 FLUMINENSE - MENGÃO VENCE CLÁSSICO E SEGUE LÍDER DO BRASILEIRÃO",
-      "canal": "UM FLAMENGUISTA SINCERO",
-      "views": 13812,
-      "likes": 55,
-      "comentarios": 2,
-      "publicado": "2026-10-11T22:38:17Z",
-      "duracao_s": 199,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=szGOcTIhrzI"
-     },
-     {
-      "id": "5VUXoUr11qw",
-      "titulo": "NORMAL! FLAMENGO VENCE O FLA-FLU E SEGUE LÍDER DO BRASILEIRÃO!",
-      "canal": "Bruninho e Simões ",
-      "views": 12692,
-      "likes": 459,
-      "comentarios": 11,
-      "publicado": "2026-10-11T23:26:49Z",
-      "duracao_s": 991,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=5VUXoUr11qw"
-     },
-     {
-      "id": "_w8ndGUyPbE",
-      "titulo": "FLAMENGO VENCE O FLUMINENSE E O LÍDER CONTINUA O MESMO! CARRASCAL DECISIVO! DANILO FRATURA MAXILAR!",
-      "canal": "DECO SRN",
-      "views": 12104,
-      "likes": 967,
-      "comentarios": 6,
-      "publicado": "2026-10-12T14:30:12Z",
-      "duracao_s": 7297,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=_w8ndGUyPbE"
-     },
-     {
-      "id": "3QOAKCNBtXQ",
-      "titulo": "AO VIVO- MENGÃO VENCE CLÁSSICO, SEGUE LÍDER E SE PREPARA PARA  LIBERTA|PÓS-JOGO ANÁLISE E DEBATE",
-      "canal": "Rubro News TV",
-      "views": 8239,
-      "likes": 577,
-      "comentarios": 1,
-      "publicado": "2026-10-12T17:53:46Z",
-      "duracao_s": 6409,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=3QOAKCNBtXQ"
-     },
-     {
-      "id": "VWsoJLyADkc",
-      "titulo": "FLAMENGO VENCE O FLUMINENSE, SEGUE O LÍDER!!",
-      "canal": "CANAL DO REI - FLA",
-      "views": 8125,
-      "likes": 813,
-      "comentarios": 14,
-      "publicado": "2026-10-11T23:02:54Z",
-      "duracao_s": 1575,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=VWsoJLyADkc"
-     },
-     {
-      "id": "t2jTx-7lO64",
-      "titulo": "🚨SEGUE O LÍDER🚨FLAMENGO VENCE O FLA X FLU E SE MANTÉM NA LIDERANÇA DO BRASILEIRO/TORCIDA XINGA PRES.",
-      "canal": "FLAMÍLIA DA NAÇÃO",
-      "views": 5429,
-      "likes": 483,
-      "comentarios": 36,
-      "publicado": "2026-10-12T00:30:07Z",
-      "duracao_s": 1307,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=t2jTx-7lO64"
-     },
-     {
-      "id": "-w1YKG2t3KY",
-      "titulo": "🔴⚫ FLAMENGO VENCE O FLA-FLU E SEGUE LÍDER DO BRASILEIRÃO! | Resenha com Baesso 📱",
-      "canal": "Bruno Baesso",
-      "views": 4948,
-      "likes": 14,
+      "id": "sH47s4Q5lcU",
+      "titulo": "🔥 FLUMINENSE X PALMEIRAS HOJE ONDE ASSISTIR, HORÁRIO E ESCALAÇÕES LIBERTADORES 2026",
+      "canal": "Qual News",
+      "views": 7,
+      "likes": null,
       "comentarios": 0,
-      "publicado": "2026-10-11T23:46:37Z",
-      "duracao_s": 2616,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=-w1YKG2t3KY"
-     },
-     {
-      "id": "Y2E_LKGkN2s",
-      "titulo": "SEGUE O LIDER, FLAMENGO VENCE O CLÁSSICO E MANTÉM A LIDERANÇA, GANHAR FLA X FLU É NORMAL!",
-      "canal": "Urubucam",
-      "views": 4910,
-      "likes": 361,
-      "comentarios": 4,
-      "publicado": "2026-10-12T13:48:00Z",
-      "duracao_s": 6993,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=Y2E_LKGkN2s"
-     },
-     {
-      "id": "Y4Mw7gJB0nU",
-      "titulo": "FLAMENGO VENCE O FLA-FLU E SEGUE LÍDER #shorts",
-      "canal": "RailtonFla",
-      "views": 4454,
-      "likes": 361,
-      "comentarios": 2,
-      "publicado": "2026-10-11T23:47:01Z",
-      "duracao_s": 62,
+      "publicado": "2026-10-13T04:45:16Z",
+      "duracao_s": 162,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=Y4Mw7gJB0nU"
+      "url": "https://www.youtube.com/watch?v=sH47s4Q5lcU"
      },
      {
-      "id": "JxrsHI2yp8I",
-      "titulo": "VOCÊ VIU ISSO? Flamengo vence o Fluminense e segue LÍDER do Brasileirão! 🔴⚫ #futebol #flamengo",
-      "canal": "FLA VIDA NEWS",
-      "views": 4301,
-      "likes": 386,
-      "comentarios": 14,
-      "publicado": "2026-10-12T10:00:02Z",
-      "duracao_s": 157,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=JxrsHI2yp8I"
-     },
-     {
-      "id": "rIm6YlQVpfI",
-      "titulo": "FLAMENGO VENCE O FLUMINENSE! 😂🔥 SIGAM O LÍDER! #shorts",
-      "canal": "fla60segundos",
-      "views": 3085,
-      "likes": 150,
-      "comentarios": 2,
-      "publicado": "2026-10-11T23:30:19Z",
-      "duracao_s": 51,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=rIm6YlQVpfI"
-     },
-     {
-      "id": "wEOW5HCo1Uw",
-      "titulo": "SEGUE O LÍDER! CARRASCAL DECIDE, MENGÃO VENCE O FLUMINENSE E DISPARA NO BRASILEIRÃO! 🔴⚫🔥",
-      "canal": "FlaShorts",
-      "views": 3036,
-      "likes": 115,
-      "comentarios": 2,
-      "publicado": "2026-10-12T00:10:45Z",
-      "duracao_s": 27,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=wEOW5HCo1Uw"
-     },
-     {
-      "id": "kAvJIZ5JK28",
-      "titulo": "🔴AO VIVO: Flamengo VENCE e continua LÍDER!  Pedro VAIADO!",
-      "canal": "JONAS STELMANN",
-      "views": 3008,
-      "likes": 160,
-      "comentarios": 5,
-      "publicado": "2026-10-12T18:02:46Z",
-      "duracao_s": 5532,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=kAvJIZ5JK28"
-     },
-     {
-      "id": "i_TNeF2FOnk",
-      "titulo": "Flamengo vence o flaflu e é líder!🔥 #flamengo #edit #viral #fyp #foryou #brasileirão #football",
-      "canal": "Davi.Edits_7",
-      "views": 2694,
-      "likes": 128,
-      "comentarios": 19,
-      "publicado": "2026-10-11T23:47:58Z",
-      "duracao_s": 30,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=i_TNeF2FOnk"
-     },
-     {
-      "id": "S6wOPIg-8yU",
-      "titulo": "FLAMENGO VENCE FLUMINENSE CLM GOL DE CARRASCAL, E SEGUE LÍDER DO CAMPEONATO BRASILEIRO, FLA 1X0 FLU",
-      "canal": "#OS PIRADINHOS PELO MENGÃO",
-      "views": 2029,
-      "likes": 82,
+      "id": "4f0esUWwVQ8",
+      "titulo": "FACE A FACE DE FLUMINENSE E PALMEIRAS I Prevendo o Jogo #21",
+      "canal": "Entendendo o Jogo",
+      "views": 5,
+      "likes": 0,
       "comentarios": 0,
-      "publicado": "2026-10-11T23:07:27Z",
-      "duracao_s": 293,
+      "publicado": "2026-10-13T00:26:26Z",
+      "duracao_s": 606,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=S6wOPIg-8yU"
+      "url": "https://www.youtube.com/watch?v=4f0esUWwVQ8"
      },
      {
-      "id": "DoqCgILfvqw",
-      "titulo": "SEGUE O LÍDER! FLAMENGO VENCE O FLUMINENSE | COLETIVA DO TÉCNICO LEONARDO JARDIM",
-      "canal": "Manifesto Rubro-Negro",
-      "views": 1329,
-      "likes": 178,
+      "id": "Sr4E0WJo3ig",
+      "titulo": "CORINTHIANS: PALMEIRAS X CORINTHIANS: ONDE ASSISTIR E PROVÁVEIS ESCALAÇÕES",
+      "canal": "🥇 Batalha dos Mascotes",
+      "views": 2,
+      "likes": 0,
       "comentarios": 0,
-      "publicado": "2026-10-12T00:23:07Z",
-      "duracao_s": 5679,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=DoqCgILfvqw"
+      "publicado": "2026-10-11T18:20:35Z",
+      "duracao_s": 362,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Sr4E0WJo3ig"
      },
      {
-      "id": "AbnJAVi_CI8",
-      "titulo": "GLOBO ESPORTE FLAMENGO HOJE! MENGÃO VENCE O FLAXFLU E SEGUE LIDER! NOTICIAS DO FLAMENGO HOJE!",
-      "canal": "Central Rubro-Negra",
-      "views": 1248,
-      "likes": 42,
-      "comentarios": 2,
-      "publicado": "2026-10-12T17:41:32Z",
-      "duracao_s": 1058,
+      "id": "pvXGdvdD_zQ",
+      "titulo": "PODCAST | CORINTHIANS: PALMEIRAS X CORINTHIANS: ONDE ASSISTIR E PROVÁVEIS ESCALAÇÕES",
+      "canal": "🥇 Batalha dos Mascotes",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-11T18:20:15Z",
+      "duracao_s": 351,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=AbnJAVi_CI8"
+      "url": "https://www.youtube.com/watch?v=pvXGdvdD_zQ"
      }
     ],
-    "consulta": "Flamengo líder vence",
-    "n_videos": 25,
-    "mais_de": true,
-    "views": 658487,
+    "consulta": "Palmeiras prováveis escalações",
+    "n_videos": 5,
+    "mais_de": false,
+    "views": 16510,
     "top": [
      {
-      "titulo": "Flamengo vence Fluminense e é líder do brasileirão",
-      "canal": "FC CURIOSIDADES DO FUTEBOL",
-      "views": 252717,
-      "url": "https://www.youtube.com/watch?v=8Gzmx8H4dZw",
-      "publicado": "2026-10-12T03:55:33Z",
+      "titulo": "PALMEIRAS x CORINTHIANS -- ONDE ASSISTIR (BRASILEIRÃO 2026)",
+      "canal": "RADIO SPORTS",
+      "views": 16496,
+      "url": "https://www.youtube.com/watch?v=f8xTvr_Iscg",
+      "publicado": "2026-10-11T23:29:08Z",
       "do_canal": false
      },
      {
-      "titulo": "FLAMENGO VENCE O FLUMINENSE E SEGUE NA LIDERANÇA DO BRASILEIRÃO | FECHAMENTO | sportv",
-      "canal": "ge tv",
-      "views": 83768,
-      "url": "https://www.youtube.com/watch?v=RmTbmX5RzAc",
-      "publicado": "2026-10-12T00:04:36Z",
+      "titulo": "🔥 FLUMINENSE X PALMEIRAS HOJE ONDE ASSISTIR, HORÁRIO E ESCALAÇÕES LIBERTADORES 2026",
+      "canal": "Qual News",
+      "views": 7,
+      "url": "https://www.youtube.com/watch?v=sH47s4Q5lcU",
+      "publicado": "2026-10-13T04:45:16Z",
       "do_canal": false
      },
      {
-      "titulo": "SEGUE O LÍDER!!! O Flamengo vence o Fluminense #flamengo #futebol #liderança  #mengao #fyp",
-      "canal": "Luiz_pepelino150 ",
-      "views": 71852,
-      "url": "https://www.youtube.com/watch?v=sTo5SR9vxzo",
-      "publicado": "2026-10-12T00:00:31Z",
+      "titulo": "FACE A FACE DE FLUMINENSE E PALMEIRAS I Prevendo o Jogo #21",
+      "canal": "Entendendo o Jogo",
+      "views": 5,
+      "url": "https://www.youtube.com/watch?v=4f0esUWwVQ8",
+      "publicado": "2026-10-13T00:26:26Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "Danilo tem duas fraturas na mandíbula e vai passar por cirurgia após choque em Flamengo x Fluminense",
+   "tema": "Ao vivo: Corinthians x Flamengo | 4ª de final | Campeonato Brasileiro sub-17",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Flamengo",
+    "Atlético-MG"
+   ],
+   "foco": true,
+   "nota": 73.8,
+   "sinais": {
+    "busca": 70,
+    "aceleracao": 52,
+    "midia": 67,
+    "aderencia": 100,
+    "youtube": 58
+   },
+   "fator_categoria": 1.092,
+   "trafego_google": 0,
+   "busca_torcedor": "vitória da conquista",
+   "termos_trends": [],
+   "n_fontes": 4,
+   "n_manchetes": 5,
+   "assinatura": "brasi|flame|campe|atlet",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "7 jogos. Esse é o número da semana no Flamengo, e eu vou te mostrar por quê.",
+    "titulo_thumb": "7 JOGOS",
+    "pergunta_enquete": "Qual sua opinião: Ao vivo: Corinthians x Flamengo | 4ª de final | Campeonato Brasileiro sub-17?",
+    "tecnica": "Dado",
+    "ganchos": [
+     {
+      "tecnica": "Dado",
+      "texto": "7 jogos. Esse é o número da semana no Flamengo, e eu vou te mostrar por quê.",
+      "thumb": "7 JOGOS"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Flamengo contra Atlético-MG vale mais do que três pontos, e os dois sabem disso.",
+      "thumb": "FLAMENGO x ATLÉTICO-MG"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Flamengo x Atlético-MG parece um jogo com dono. É exatamente aí que mora o perigo.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "O que o Flamengo precisa fazer para vencer esse jogo?",
+      "thumb": "E AGORA, FLAMENGO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Meu palpite para Flamengo x Atlético-MG: [SEU PLACAR]. Deixa o seu nos comentários.",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Flamengo x Atlético-MG: informações sobre ingressos para a partida pelo Campeonato Brasileiro",
+     "fonte": "www.flamengo.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTzNZOG1ocmhTMnJyckkxdm1UTHM4ZWdnT2JOSXNTOEhIekFhWVRVclV3S0hDUi1VaTI5c2VueXg5T1BCdHZudDJ6Y1NTOVNOWlM2dDNQd1RGSWNlakFzTC1oNTBqQWRHVlN3aWFLaXI4aEFmRUk2bTlDRE9hYlFhcHNpNFhBNzd5VXpEYThfSzBQR3FpSDJkYVBuZkM2V0NsYnNua1lqQzBMWlUxM2NYV3c5TzBFY24zSGYwa3VqX01UX29FVDlicklDbVU0TWJfejBSanBB?oc=5"
+    },
+    {
+     "titulo": "Ao vivo: Palmeiras x Atlético-MG | 4ª de final | Campeonato Brasileiro sub-17",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2VjT0dIVmpUaUNZZFZTbGtFY1I4M3Y5U2V3VXNKTkNYcFRsbkpMRTFCaXhrRTVrLUpiMngzek5CT1JTRTdYMlNwNllQWGZBUUNzaE9WOVZzVzIyRnZ5dVpsXzRfNGlUNUMtT0otQVVWei1PNmx3TVBfdHZ2dl9EeGdQRm5nQWlON0VSZ2xlMUdKNlgzNkVVV1UxNXlqU3JPNmNZdU1Vd2lqZmNXS014VlZB?oc=5"
+    },
+    {
+     "titulo": "Ao vivo: Corinthians x Flamengo | 4ª de final | Campeonato Brasileiro sub-17",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc0x6U2ZvSjF0QlpuN29BYUtTeTAzQ2FSa3ZpVGNYRWVNb1VHTlJMRy01VlN6UlBWT3d0bFhUbFNXUjBmRVFMaER4NE12NWhITTUxY01iaTVHdTV5cnQ4c2g3RVJpWThWTE9XMWlkdVNaQU03Qmh5R04wcXhPdXhCVGMxUGJEMnAxSVYzZWY3Q2xjbFVSQnlJcQ?oc=5"
+    },
+    {
+     "titulo": "Atlético-MG, Cruzeiro, Flamengo e Fortaleza saem na frente nas quartas de final do Brasileiro Sub-17",
+     "fonte": "CBF",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOQ3NDMXhST3lubVZ0bWEtbUNtaTlGc3pIX0FOTGpJMmVLenJobjhiaGYtU0w0clhjN1lHNEhGV3pabzlUR2hic3VNNE55Q1c3dEc5VnlDTnpZWmRudGVteUI1WXlyOVYtOE5kTVVWaHZ3QktVaTVjaXVSRzAyOHROS25aU0F5cy1jb3RKaTYyOTZ5eHA5aTFFaEpFV0FGTjRlbFBkYWp0RGhGQWNPamZsSTJaaDdQM2RkYkM5S0NmQWZJaXJ5Y1gwTHZ0RG5EZVBfdVRfZWxhUF9jaklfS1J1YzdCRWFJM0ttTE9aSkVPR2l6aWtSSDdRNzBSclB5alJWVlQ0SHNwVlZPYVk?oc=5"
+    },
+    {
+     "titulo": "O Flamengo vive grande fase no Campeonato Brasileiro. Nos últimos sete jogos pela competição, o Rubro-Negro conquistou seis vitórias e um empate, mantendo a regularidade na reta decisiva do torneio. 📊 Confira o retrospecto: 🏟️ 7 jogos ✅ 6 vitórias 🤝 1",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qclpqbGZkMFBTYzJwN1V1TG5VV29tRTE2dDhaOEN4d3BmUllXSjNvUzYwVjd3VVlvV0lqSFFfZ2dHY1ZaN1kxT2RGQTl0NVJDb2c?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "Li229gK6O2A",
+      "titulo": "Adriano: O SUB-17 ME DEU UM ESTALO PRA SER PROFISSIONAL",
+      "canal": "Cortou FC",
+      "views": 1031,
+      "likes": 13,
+      "comentarios": 1,
+      "publicado": "2026-10-11T22:00:36Z",
+      "duracao_s": 28,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Li229gK6O2A"
+     },
+     {
+      "id": "Now9wt2Lh5M",
+      "titulo": "🔥 CORINTHIANS x FLAMENGO! DECISÃO NO SUB-17: QUEM VAI À SEMIFINAL?",
+      "canal": "CONSENTINI",
+      "views": 322,
+      "likes": 4,
+      "comentarios": 0,
+      "publicado": "2026-10-13T15:13:31Z",
+      "duracao_s": 40,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Now9wt2Lh5M"
+     },
+     {
+      "id": "V6Jr1-Pida4",
+      "titulo": "Corinthians x Flamengo: decisão do Sub-17 na Fazendinha #Shorts",
+      "canal": "Dossiê da Fiel",
+      "views": 23,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-13T14:30:03Z",
+      "duracao_s": 21,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=V6Jr1-Pida4"
+     },
+     {
+      "id": "xvVgL77Fkuk",
+      "titulo": "📱🔥 AO VIVO (VERTICAL)! 🎙️📲 - CORINTHIANS X FLAMENGO - BRASILEIRO SUB-17 ( VOLTA) - 13.10.26",
+      "canal": "Rádio Gama Esportiva ",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-12T23:41:41Z",
+      "duracao_s": 0,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=xvVgL77Fkuk"
+     },
+     {
+      "id": "VCSf9d1Y4c4",
+      "titulo": "CORINTHIANS x FLAMENG0 - Brasileiro Sub 17 - QUARTAS DE FINAL - AO VIVO",
+      "canal": "Alternativa Esportes",
+      "views": 0,
+      "likes": 2,
+      "comentarios": 0,
+      "publicado": "2026-10-12T18:22:20Z",
+      "duracao_s": 0,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=VCSf9d1Y4c4"
+     },
+     {
+      "id": "MsEvRE3VmFk",
+      "titulo": "🚨 CORINTHIANS X FLAMENGO AO VIVO | BRASILEIRÃO SUB-17 2026 | TRANSMISSÃO COMPLETA",
+      "canal": "Dimensão Esportiva",
+      "views": 0,
+      "likes": 2,
+      "comentarios": 0,
+      "publicado": "2026-10-13T17:23:14Z",
+      "duracao_s": 0,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=MsEvRE3VmFk"
+     },
+     {
+      "id": "5LKAPOmMC5I",
+      "titulo": "CORINTHIANS x FLAMENG0 - Brasileiro Sub 17 - QUARTAS DE FINAL - AO VIVO 📱",
+      "canal": "COVIL RUBRO NEGRO",
+      "views": 0,
+      "likes": 2,
+      "comentarios": 0,
+      "publicado": "2026-10-12T19:49:17Z",
+      "duracao_s": 0,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=5LKAPOmMC5I"
+     },
+     {
+      "id": "33E4hw-hyQk",
+      "titulo": "AO VIVO: CORINTHIANS X FLAMENGO | BRASILEIRÃO SUB-17 2026 | DIRETO DO PARQUE SÃO JORGE",
+      "canal": "O Tikitaka Sports",
+      "views": 0,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-10-13T09:39:01Z",
+      "duracao_s": 0,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=33E4hw-hyQk"
+     },
+     {
+      "id": "kI2M57u0yFI",
+      "titulo": "CORINTHIANS x FLAMENG0 - Brasileiro Sub 17 - QUARTAS DE FINAL - AO VIVO",
+      "canal": "COVIL RUBRO NEGRO",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-12T18:44:47Z",
+      "duracao_s": 0,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=kI2M57u0yFI"
+     },
+     {
+      "id": "9tnLg3Rc4OI",
+      "titulo": "CORINTHIANS X FLAMENGO - AO VIVO SEM DELAY -  BRASILEIRO SUB-17 - NARRAÇÃO - 13.10.26",
+      "canal": "Rádio Gama Esportiva ",
+      "views": 0,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-10-12T23:45:49Z",
+      "duracao_s": 0,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=9tnLg3Rc4OI"
+     }
+    ],
+    "consulta": "Flamengo sub-17",
+    "n_videos": 10,
+    "mais_de": false,
+    "views": 1376,
+    "top": [
+     {
+      "titulo": "Adriano: O SUB-17 ME DEU UM ESTALO PRA SER PROFISSIONAL",
+      "canal": "Cortou FC",
+      "views": 1031,
+      "url": "https://www.youtube.com/watch?v=Li229gK6O2A",
+      "publicado": "2026-10-11T22:00:36Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "🔥 CORINTHIANS x FLAMENGO! DECISÃO NO SUB-17: QUEM VAI À SEMIFINAL?",
+      "canal": "CONSENTINI",
+      "views": 322,
+      "url": "https://www.youtube.com/watch?v=Now9wt2Lh5M",
+      "publicado": "2026-10-13T15:13:31Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Corinthians x Flamengo: decisão do Sub-17 na Fazendinha #Shorts",
+      "canal": "Dossiê da Fiel",
+      "views": 23,
+      "url": "https://www.youtube.com/watch?v=V6Jr1-Pida4",
+      "publicado": "2026-10-13T14:30:03Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Giay entra na mira da Europa após grande destaque no Palmeiras",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Palmeiras"
+   ],
+   "foco": true,
+   "nota": 72.2,
+   "sinais": {
+    "busca": 70,
+    "aceleracao": 78,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": 57
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "giay palmeiras",
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "mira|entra|giay|palme",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Giay entra na mira da Europa após grande destaque no Palmeiras. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+    "titulo_thumb": "QUEM TEM RAZÃO?",
+    "pergunta_enquete": "Qual sua opinião: Giay entra na mira da Europa após grande destaque no Palmeiras?",
+    "tecnica": "Conflito",
+    "ganchos": [
+     {
+      "tecnica": "Conflito",
+      "texto": "Giay entra na mira da Europa após grande destaque no Palmeiras. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Giay entra na mira da Europa após grande destaque no Palmeiras. A leitura óbvia é uma. A que importa é outra.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Giay entra na mira da Europa após grande destaque no Palmeiras. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
+      "thumb": "E AGORA, PALMEIRAS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Giay entra na mira da Europa após grande destaque no Palmeiras. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "O torcedor está digitando “giay palmeiras” no Google agora. A resposta não é tão simples.",
+      "thumb": "VOCÊ PESQUISOU"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Giay entra na mira de clubes europeus e pode deixar o Palmeiras",
+     "fonte": "365Scores",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNek9TRlpVOEp5aVA2VXNmb3drcVo1S0FPc3I3R2NMU0hMdC1lUk5NVVpDY2FRejZjZGtYSGJPMjdQeWVjcDk3RWdOTWh6czF6SS1SWjRtZFZ0OWYyd2dqRWF6T2l6QjNIRGZvQ2NmTnk1OHRTY2plZTdfc0ZZWkE2bFlkaVpsTVA5UWNVVG5R?oc=5"
+    },
+    {
+     "titulo": "Giay entra na mira da Europa após grande destaque no Palmeiras",
+     "fonte": "iG Esportes",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZG40b0Yyd3pEbVkweTJYSnlDcjVxNWZEdFNoY3BZRHFWb3k0N3NENGw2a1UzNmF5djV2bzR5SVVnQW11MWJaMzMtRGNrcDBldnJpNXdEZ0U3Zm5HSVNBN25kT01aLUdHd19kaXBNUGJpOTJ5RDZpbzVfUUdydGRtaTI0UURZWFk0TVhPWVZ2MzJKZExWTk5DZWdYR2ZLcWZ4bm1TUG1ock41Y0Vva2Z3YmtrNTU4eFNnM2paUUdkMG7SAcYBQVVfeXFMTUpEUlFmZ1QzZE9uOXhQcEZyMDN3dU9UYi1jZFIwRHQ5dWJ1ZTQ1NmdCa0VHVi1teW5KNVhJSUNINE1rSVBDdlloTldSSGR4YzdDUjBSVl9iU0xSM1kwTEEzVWVid2FHUDZmQVlIalVybmRTQUxRZkdob0UtVFpOR1lWN3FuQ1VubHUxNHVzSzFnRWMxaFh2RGtDcVZSVmpnYkpFeUQzQnZtdURpOGxCUk1jbjZZdkNvSm9lT2g2QTZyb2JrWmFR?oc=5"
+    },
+    {
+     "titulo": "Giay entra na mira da Europa após ganhar destaque no Palmeiras",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSE1ybG9LWnJ6cllsTVExWjc0LWpBWE9vN2FjNUpoSVhjMW1Uc2RUU2RNcktkSVlzSS1jd0k1cUNRMXhGUzZnTHl5SE9rVnJTekM3UUczc3ZnTmY2Z0pEaDlGOXlweUV5Yl91U1hGTVI4N1ZVOFdhSVZqRmFIZnczX1hJTVdLX1M2WW5OUDlaamp6Ni1uOXdqdTJRZWZqRTkwWVQ1YUg5d2tINVJLeDdNQnVaY000bTVyQ2NkYmZlcEhyMzVzeXllR2VMeE1FWFNjY3h6aElPSkd4d2dvZE9uVk85UWlSQWo0cUZwejQ2Yk9fZFJqelBGdUN3?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "s8CJfzkHO-M",
+      "titulo": "Palmeiras estipula R$ 139 milhões por Giay e lateral só deve ir para a Europa no meio de 2027",
+      "canal": "JOGOS DE HOJE NA TV ",
+      "views": 7296,
+      "likes": 34,
+      "comentarios": 0,
+      "publicado": "2026-10-13T10:47:09Z",
+      "duracao_s": 10,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=s8CJfzkHO-M"
+     },
+     {
+      "id": "NIpz1kG953I",
+      "titulo": "🚨 GIAY NA MIRA DA EUROPA! 🇮🇹💚",
+      "canal": "Ricardo do Palestra",
+      "views": 1044,
+      "likes": 52,
+      "comentarios": 1,
+      "publicado": "2026-10-13T11:30:00Z",
+      "duracao_s": 84,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=NIpz1kG953I"
+     }
+    ],
+    "consulta": "Palmeiras Giay Europa entra",
+    "n_videos": 2,
+    "mais_de": false,
+    "views": 8340,
+    "top": [
+     {
+      "titulo": "Palmeiras estipula R$ 139 milhões por Giay e lateral só deve ir para a Europa no meio de 2027",
+      "canal": "JOGOS DE HOJE NA TV ",
+      "views": 7296,
+      "url": "https://www.youtube.com/watch?v=s8CJfzkHO-M",
+      "publicado": "2026-10-13T10:47:09Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "🚨 GIAY NA MIRA DA EUROPA! 🇮🇹💚",
+      "canal": "Ricardo do Palestra",
+      "views": 1044,
+      "url": "https://www.youtube.com/watch?v=NIpz1kG953I",
+      "publicado": "2026-10-13T11:30:00Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "SEM EVERTTON ARAÚJO E AYRTON LUCAS, CONFIRA OS RELACIONADOS DO MENGÃO PARA ENFRENTAR O ESTUDIANTES NA SEMIFINAL DA COPA LIBERTADORES DA AMÉRICA EM BUENOS AIRES.",
+   "categoria": "Técnico",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 70.1,
+   "sinais": {
+    "busca": 75,
+    "aceleracao": 75,
+    "midia": 67,
+    "aderencia": 100,
+    "youtube": 37
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "evertton araújo",
+   "termos_trends": [],
+   "n_fontes": 4,
+   "n_manchetes": 6,
+   "assinatura": "arauj|evert|flame|estud",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Opinião forte (60 a 90 s)",
+    "gancho": "Sem evertton araújo e ayrton lucas. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
+    "pergunta_enquete": "Qual sua opinião: SEM EVERTTON ARAÚJO E AYRTON LUCAS, CONFIRA OS RELACIONADOS DO MENGÃO PARA ENFRENTAR O EST?",
+    "tecnica": "Contradição",
+    "ganchos": [
+     {
+      "tecnica": "Contradição",
+      "texto": "Sem evertton araújo e ayrton lucas. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Sem evertton araújo e ayrton lucas. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
+      "thumb": "E AGORA, FLAMENGO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Sem evertton araújo e ayrton lucas. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "“evertton araújo”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Sem evertton araújo e ayrton lucas. Por trás disso, tem dois lados que não querem a mesma coisa.",
+      "thumb": "QUEM TEM RAZÃO?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Ayrton Lucas e Evertton Araújo se aproximam de retorno ao Flamengo",
+     "fonte": "365Scores",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ0k4YjlvUDdaRXdIWnhVQWQ4ZVFielRWMnZQMG5iTE1FaFBLaUk5UUFPVU9TcUYyYmZGZkMyeUVBZDV5amJJU2N2dTNsVmxtTlBYbHZuVFJhazNZZVdLdW5GU3pnTjVpcG8zd1hUSmxMSnlmUmVYUG1EcEdCRGhNMC1HYXhFMnZ1aTZiV1lfY205TlpJT25n?oc=5"
+    },
+    {
+     "titulo": "SEM EVERTTON ARAÚJO E AYRTON LUCAS, CONFIRA OS RELACIONADOS DO MENGÃO PARA ENFRENTAR O ESTUDIANTES NA SEMIFINAL DA COPA LIBERTADORES DA AMÉRICA EM BUENOS AIRES.",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yeThIQTU1MzJJU2pzOTdNdWpzb193UlBMRWFZTFNLUnhpV09MekNhV2RiOVFLZDRTdS1NTHdPS2ViZFJMZE1GWElHd2stNHdNV2c?oc=5"
+    },
+    {
+     "titulo": "Ainda sem Evertton Araújo, Flamengo divulga lista de relacionados contra o Estudiantes",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdUJlLXVmOXBJQ1FyVEJZc0N4bjJoTE5LNEt4Xzh1YnUtbDVzR0N4TkkxT18tR2d4aFlZaUw4ekM2am1lSHgxOG55UWxxWFZ2S0VqbmM2RXdMRmlWTjZrUDFtUVIzem9hdnpqT0IxTmpydktuTzMwdG12QmFPeTd3QVRIQkwzN09mT3loc29NekhFYWUzTlhMSEQtYWtDYXpJZHJ5SG5xdWhWS2w5bGlQMmQtUVhlYzUzX1phSDJJV2dSb0txamJ3c3kxRmJXWHVpU09ta0h6bTAwRTI2MmpHdjBxaVRhX3JLb3fSAfgBQVVfeXFMTTg5bS1SS3hjT3NyNnIxOWVTWlZUbXdZMlhRS1lsWDhzUHJRRWZSX2F0RUhyZnVjSGVlVW1PV0ZiYU13dV9sZkpSa3RvNXVlN0RvUVNzMDVkandiVk5SbE5rR29mQjJFUk42dDhoNEhhSE9CbG8teE1HWnY2M1VRbExYLVNfbmVETmJzdzRtV2NyVFF1WW42cXZUenpOUzlIai1jbWhTUWFwUUphdi1xS1ZiUWppZXhOWkY0dW10eWhHdy15YmxqREY0aTVQOW9mREFXclp5eXdJbkpRZjBKcTdEMzNuOFdvOGVtalF1SnFnbUxfencwLUo?oc=5"
+    },
+    {
+     "titulo": "Evertton Araújo é liberado e pode reforçar Flamengo contra Estudiantes",
+     "fonte": "O Dia",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSVNKcnd3WDBZdElMczQ1ZTRiWFFoQllxNjM0eXZhSlRuVm9xOVlOcklLdFdlTGtQNm1ld3kxanZreDF4T3dNUHFlclhTN09GTHo0emFaU3B6ZGxVcXRJdklGaEdHMjlvczRtMFZ1ZlVreG5nZ3k0RlAwa29TUDE3VjRSUkNzdXlqcjVHUTNvYnpzQW9DM3VxUWczWHNHdERIRmlpYm5kSHBlY1ZtRDNCSHo4Y1hVSFFCd1BabW16eFVCZUc4cy1vSHVpa9IB0AFBVV95cUxQQVV4VnNxQ0JVUXVPU2xHWHdjaWxlRjAzWWo3VVphUGJ1bHdIMDlBMUo4R2xDMFlMTDdhS25FRklvZFlDbWRjUGd5RzlIRzVQVC13d3FFWm42NU1zR3JkNjhjaktOTnA4ckxCbDR6NFpfdEdNWmhUeUJfQ3UwcDBZdFhWMVliTnQtSzNqVExXaGJqZWluMjZCeGh1Zzg0ZUxaVUF0WXNjR2xwd0NscWk4M3RzZ0xDczdhal9iWGxDTmlCN0JOZkc3OU9tR2RDNWs0?oc=5"
+    },
+    {
+     "titulo": "O volante Evertton Araujo pode ser relacionado para o duelo com o Estudiantes. O jogador já não está mais entregue ao Departamento Médico, e caberá à comissão técnica definir se ele será, ou não, relacionado para o confronto. O Flamengo realiza, nesta",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhRjNiVUNLY211Zk5xU1J5OXd3djFwZWZ1R2JrbXVUUkZRVGt5MU5RMnE3bUdkWC1NQUpydUZEVXBjSWdZZ1VNQXBSdkdoSWhEZGc?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "_4_FVLgXHkU",
+      "titulo": "🚨 ARRASCAETA PREOCUPA! Evertton e Ayrton Lucas evoluem no Flamengo 🔴⚫",
+      "canal": "bola em 1 minuto",
+      "views": 191,
+      "likes": 9,
+      "comentarios": 0,
+      "publicado": "2026-10-13T17:30:29Z",
+      "duracao_s": 80,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=_4_FVLgXHkU"
+     },
+     {
+      "id": "1k8Bv7sLEbU",
+      "titulo": "Saiu a lista! Flamengo tem 4 desfalques pra La Plata #Shorts",
+      "canal": "Dossiê Rubro-Negro",
+      "views": 2,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-10-13T16:59:15Z",
+      "duracao_s": 33,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=1k8Bv7sLEbU"
+     }
+    ],
+    "consulta": "Flamengo Evertton ARAÚJO ESTUDIANTES",
+    "n_videos": 2,
+    "mais_de": false,
+    "views": 193,
+    "top": [
+     {
+      "titulo": "🚨 ARRASCAETA PREOCUPA! Evertton e Ayrton Lucas evoluem no Flamengo 🔴⚫",
+      "canal": "bola em 1 minuto",
+      "views": 191,
+      "url": "https://www.youtube.com/watch?v=_4_FVLgXHkU",
+      "publicado": "2026-10-13T17:30:29Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Saiu a lista! Flamengo tem 4 desfalques pra La Plata #Shorts",
+      "canal": "Dossiê Rubro-Negro",
+      "views": 2,
+      "url": "https://www.youtube.com/watch?v=1k8Bv7sLEbU",
+      "publicado": "2026-10-13T16:59:15Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Lucas Moura chora no vestiário do São Paulo e emociona elenco por motivo especial",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "São Paulo"
+   ],
+   "foco": true,
+   "nota": 68.3,
+   "sinais": {
+    "busca": 60,
+    "aceleracao": 44,
+    "midia": 75,
+    "aderencia": 100,
+    "youtube": 48
+   },
+   "fator_categoria": 1.092,
+   "trafego_google": 0,
+   "busca_torcedor": "lucas moura",
+   "termos_trends": [],
+   "n_fontes": 5,
+   "n_manchetes": 5,
+   "assinatura": "moura|lucas|paulo|chora",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Lucas Moura chora no vestiário do São Paulo e emociona elenco por motivo especial. Isso é bom ou ruim para o São Paulo? Responde antes de ver a minha análise.",
+    "titulo_thumb": "E AGORA, SÃO PAULO?",
+    "pergunta_enquete": "Qual sua opinião: Lucas Moura chora no vestiário do São Paulo e emociona elenco por motivo especial?",
+    "tecnica": "Pergunta aberta",
+    "ganchos": [
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Lucas Moura chora no vestiário do São Paulo e emociona elenco por motivo especial. Isso é bom ou ruim para o São Paulo? Responde antes de ver a minha análise.",
+      "thumb": "E AGORA, SÃO PAULO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Eu aposto que o São Paulo [VENCE / EMPATA / PERDE], e explico por quê. Qual é o seu placar?",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "O torcedor está digitando “lucas moura” no Google agora. A resposta não é tão simples.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Lucas Moura chora no vestiário do São Paulo e emociona elenco por motivo especial. Por trás disso, tem dois lados que não querem a mesma coisa.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Lucas Moura chora no vestiário do São Paulo e emociona elenco por motivo especial. Parece que está tudo resolvido. No futebol, quase nunca está.",
+      "thumb": "NÃO É BEM ASSIM"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Lucas Moura chora no vestiário após volta aos gramados",
+     "fonte": "tmc.com.br",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDWTh6SS15Vk12aXBMejhPeHBQLVRvZXMwXzRQTzhYQlFFRHV1S0Uwc3JaZXBJVFBENXhhUllSN21wSm1EMmdhQjd1OFp0ZThid1c0ZmlkSzB6TU5wcWdPWGZFVEVhZXlNTlFjZ2h5OS1DQ1hDX3hPakxlMA?oc=5"
+    },
+    {
+     "titulo": "Lucas Moura emociona elenco do São Paulo com discurso antes de vitória",
+     "fonte": "Nação Tricolor",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ISE9lMjU2cXl0YWVGV3FleWhJcVVacWxBdUZTLU41MHZDNUJ3WGdKUmltM3Zjcm44X1V4S0ZCU2MzdG15VWhzMlVYc2M3bWhQN1FvTDNDVEVEcGhwNXl2bVpsVFA3Znd4ek8xWmR4Zm5PRy1mWnNjNjItelE?oc=5"
+    },
+    {
+     "titulo": "Lucas Moura chora no vestiário do São Paulo e emociona elenco por motivo especial",
+     "fonte": "CartaCapital",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQQ200YjhPUG1UcV9TS29RY1o5VGFmOHVmOEJVZ2ZUOXRkdVlJWFVQMlJES1RvSXhzUk84MGZDanYyYWhCRFNJV2FPQ0NqcGtQZ2x6a2tPWGxQcmhRQVI2MnExRlBYMFFzYVlaUVUtWV82ZG5NaXhSOGFUYm1LTUFSYjktVmdBdTlQY2NaeW5LNG1RX1lTU2J2amd1MXp5WlcwZVdMenZWdEs0RVdJMGRodVBkNm5TdDlRaW9lb0xmNDRGWkU3UHZnOEdVR0dlcTd1ZC1leG1GOGdXcDJJa2JEUGM5ck5Fc0NBWThQcS1iY1BFVnFybl9JYjlSZ1VIeEpOX1FiRmlzN1VISEh4MUNFNA?oc=5"
+    },
+    {
+     "titulo": "Potência e velocidade com a bola no pé. No Debate em 3 Cores desta segunda-feira, o nosso @renanoficial5 destacou essas características de Lucas Moura e avaliou positivamente a condição física do atacante no retorno ao São Paulo. A participação na jo",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EdUZfOXNMNDZMMWVzUDZuQlFIMDlmd1RnckFUSUowajNkdERnU0NJaEtZcTNtUVZQN0VmRm5kNTNsMDZkekU5NHAtWmdpbVN4MVVhTFlR?oc=5"
+    },
+    {
+     "titulo": "Lucas Moura chora após vitória do São Paulo",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV1BncmVXbU5zc2FrUkFjREFMY2tIVlc0WDdGSWFJS1E2VUNqUVpXMHNIQ1dybkpvckNzeGxnS1NkNldQY3RReWlBLWUxbGZQRS1KcGxjcGJVVVg3U2N4Ym5tQk9MVlZHei1FRWlWREMyaHY4dmRyY2p0a2NqUW5XS1NoZ3hKNG44eVlUclJBRVZTaFA0S2FMSFFicldHay1kU2VPRkZYemJZWDd4cVVBMUZNREZfc2ZKSFgzT0tTY2hfZnZZdEZRUUlaX3FMUQ?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "uoSfK4xrabQ",
+      "titulo": "Lucas Moura CHORA Após Vitória do São Paulo! 😢🇾🇪 Gabriel Sá Comenta o Retorno do Camisa 7",
+      "canal": "Paixão Tricolor - Notícias SPFC",
+      "views": 2472,
+      "likes": 14,
+      "comentarios": 0,
+      "publicado": "2026-10-12T23:41:04Z",
+      "duracao_s": 166,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=uoSfK4xrabQ"
+     }
+    ],
+    "consulta": "São Paulo Lucas Moura chora",
+    "n_videos": 1,
+    "mais_de": false,
+    "views": 2472,
+    "top": [
+     {
+      "titulo": "Lucas Moura CHORA Após Vitória do São Paulo! 😢🇾🇪 Gabriel Sá Comenta o Retorno do Camisa 7",
+      "canal": "Paixão Tricolor - Notícias SPFC",
+      "views": 2472,
+      "url": "https://www.youtube.com/watch?v=uoSfK4xrabQ",
+      "publicado": "2026-10-12T23:41:04Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Em sua 3ª temporada no Flamengo, De la Cruz completa 100 jogos em meio a debate por custo-benefício",
+   "categoria": "Polêmica e bastidor",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 66.2,
+   "sinais": {
+    "busca": 50,
+    "aceleracao": 65,
+    "midia": 75,
+    "aderencia": 100,
+    "youtube": 53
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "cruzeiro x flamengo",
+   "termos_trends": [],
+   "n_fontes": 5,
+   "n_manchetes": 5,
+   "assinatura": "jogos|cruz|flame|compl",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Explicador de bastidor (2 a 4 min)",
+    "gancho": "Minha aposta: essa confusão do Flamengo ainda vai ter mais um capítulo esta semana. Guarda esse vídeo.",
+    "titulo_thumb": "MEU PALPITE",
+    "pergunta_enquete": "Qual sua opinião: Em sua 3ª temporada no Flamengo, De la Cruz completa 100 jogos em meio a debate por custo-?",
+    "tecnica": "Aposta",
+    "ganchos": [
+     {
+      "tecnica": "Aposta",
+      "texto": "Minha aposta: essa confusão do Flamengo ainda vai ter mais um capítulo esta semana. Guarda esse vídeo.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "De la Cruz completa 100 jogos pelo Flamengo. Guarda esse número, porque ele muda a conversa sobre o Flamengo.",
+      "thumb": "100 JOGOS"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "De la Cruz completa 100 jogos pelo Flamengo. Diretoria de um lado, torcida do outro, e quem perde é sempre o time.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Dizem que está tudo em paz no Flamengo. O que acontece nos bastidores mostra o contrário.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "De la Cruz completa 100 jogos pelo Flamengo. Quem ganha com essa confusão? Pensa bem antes de responder.",
+      "thumb": "E AGORA, FLAMENGO?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "De la Cruz completa 100 jogos pelo Flamengo",
+     "fonte": "Portal iG",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iRUVWTGVKSWwxQy1KeTZxNVJOVl94UUU5V0dTT2V0WF9uOTB1eDVuWDVBZUh4YkdhT2NDbm92Zmo0UVdyS3hSa2d6NXlZOTVyQVVJSzFiV2lhQVF4NVRhZWRaeWJHR19TczRFLU9vZmhaWXRhX3pNXzJrem5xZw?oc=5"
+    },
+    {
+     "titulo": "De La Cruz Completa 100 Jogos Pelo Flamengo Com Críticas",
+     "fonte": "InMagazine",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzdXlYbGVPVzdNa2R1Z2ozdU5WNmJrUDloWGt1Vl83NWtZczhvVUFXVkNLaDZkSzJHbzdRQ3JMWTJqZGE5Z0hiUVM5QlBka1M1SHd6b0xqdDNPOHZNVU9Sb1Z6SHcxamJnZ2JUeW9oWWtDV0w4dUE?oc=5"
+    },
+    {
+     "titulo": "DE LA CRUZ CHEGA A 100 JOGOS COM A CAMISA DO FLAMENGO. VALEU O CUSTO-BENEFICIO?",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fSklISGFQTm03RzFPME8tVEdhckFhVUR6WUtsVDloQS1HQm9vN2UyUndENHU5U3dsbkE5RkFJLXZiTE1TRzVUaWxfTTUyMnJwZ3Q5ZTVn?oc=5"
+    },
+    {
+     "titulo": "De la Cruz chega a 100 jogos pelo Flamengo, mas atua cada vez menos",
+     "fonte": "TV Sim Brasil",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONWFQTTZCcklaWFBLMUstdHNMVUJPNjFyaUlLMGZZOVJLNTlwRm5zTUZqVDlXOGMxMUVldWlTTk1lLUY1QWZFdnk2WFhpMTM2SGtPdWFyNDBtdzJTUFliUzh3TXRWR1dTSmltSWZKajhDb0dPT1ZIaEFiLTg2VzdFQlJPLVR3am9CQjdYTHFPRjdaUTU2UjFPMUdCNmNJSHNCT0YtZXdBOXdRVzNOM2I3dEh4NmNHZVIwRXh3NU9XQXExdE0yV1kw?oc=5"
+    },
+    {
+     "titulo": "Em sua 3ª temporada no Flamengo, De la Cruz completa 100 jogos em meio a debate por custo-benefício",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZ3F3bE1LQTdKWHNWWGtMTUpMdU9RcHFfRnJMRDJBUzR0a1BMNXVKYkpUWWRsUDcwNTROUmdBc0ZleTNPcndhOU5JYzF2aFJuRUh4VE5GQ3h4aXNXT09ORGVEZHRlU01jazNQemRkSlVVUVh4UzUxNnN2LXA2cWhfTUxaQWpYUVE5UlBkSW80aTVSNTdRNEVLSjRMN1RMTmI5ZVNjZmhmNndfLWxVdXFhY3FnSTNYMFFYMS1tTVhqZ1ZCU0hNTGdtaXRqdGtyVUR0ZUltYml0NzdSeC16NWx2UnY5a3FRZkxxOE9lcUE1dTFGYmlkNW41d3lzZ9IBigJBVV95cUxNSklINkJiUkd2TDZHX19LRm1OUy1GbWRSM3FxdkJnbHc0SGhFSUVxSk45NHlxMl9oTHBqMkExUTNrQ281VUNjbXd4TnFhc29DMXAxNGxjWWtxSkU1ODNVNnAxeEVJaTdabV91b2djYWNvbkVaZEwtdV83RkpyRDZhZmIwMmZTOUotZlQ5NE1CbHJwVDBxQ2hiVm51VXY1VDZNdU1EQm1xNDg2dzRhMUxiQVFPSUpKXzNoUTF4SFdWeXpabE1KZlZIWm1wdXEwVXlFRXpBUlF6LTBscFJKX3dlbHJha2pOSUtJZ0VBbUR6S3RselhyUHBhRjlHOW05WmxGTmpnYjVyWnlaQQ?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "DEKU64VIi40",
+      "titulo": "DE LA CRUZ COMPLETA 100 JOGOS PELO FLAMENGO",
+      "canal": "Fla Informa",
+      "views": 1099,
+      "likes": 40,
+      "comentarios": 0,
+      "publicado": "2026-10-13T10:17:35Z",
+      "duracao_s": 28,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=DEKU64VIi40"
+     },
+     {
+      "id": "MJOtrhIe7gs",
+      "titulo": "🔴🖤 De la Cruz completa 100 jogos pelo Flamengo em meio a debates por custo-benefício",
+      "canal": "Lente Global",
+      "views": 576,
+      "likes": 4,
+      "comentarios": 0,
+      "publicado": "2026-10-13T17:04:06Z",
+      "duracao_s": 6,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=MJOtrhIe7gs"
+     },
+     {
+      "id": "cAtu1pOOrok",
+      "titulo": "De la Cruz 100 JOGOS: FUTURO NO MEIO",
+      "canal": "Portal Rubro Negro News",
+      "views": 190,
+      "likes": 4,
+      "comentarios": 0,
+      "publicado": "2026-10-13T15:07:21Z",
+      "duracao_s": 108,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=cAtu1pOOrok"
+     },
+     {
+      "id": "ym5Npc2QMHk",
+      "titulo": "Flamengo: De La Cruz Completa 100 Jogos e Gera Discussões Sobre Seu Desempenho",
+      "canal": "Flamengo 247 - Notícias sobre o Mengão",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-13T17:01:20Z",
+      "duracao_s": 247,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=ym5Npc2QMHk"
+     }
+    ],
+    "consulta": "Flamengo Cruz completa custo-benefício",
+    "n_videos": 4,
+    "mais_de": false,
+    "views": 1865,
+    "top": [
+     {
+      "titulo": "DE LA CRUZ COMPLETA 100 JOGOS PELO FLAMENGO",
+      "canal": "Fla Informa",
+      "views": 1099,
+      "url": "https://www.youtube.com/watch?v=DEKU64VIi40",
+      "publicado": "2026-10-13T10:17:35Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "🔴🖤 De la Cruz completa 100 jogos pelo Flamengo em meio a debates por custo-benefício",
+      "canal": "Lente Global",
+      "views": 576,
+      "url": "https://www.youtube.com/watch?v=MJOtrhIe7gs",
+      "publicado": "2026-10-13T17:04:06Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "De la Cruz 100 JOGOS: FUTURO NO MEIO",
+      "canal": "Portal Rubro Negro News",
+      "views": 190,
+      "url": "https://www.youtube.com/watch?v=cAtu1pOOrok",
+      "publicado": "2026-10-13T15:07:21Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Luta pelo título! Veja reta final de Flamengo e Palmeiras no Brasileirão",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Palmeiras",
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 65.0,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 75,
+    "midia": 87,
+    "aderencia": 100,
+    "youtube": 58
+   },
+   "fator_categoria": 1.092,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 7,
+   "n_manchetes": 7,
+   "assinatura": "palme|flame|titul|chanc",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Flamengo chega a 69% de chances de título. Quase ninguém fez a conta do que isso significa para o Palmeiras.",
+    "titulo_thumb": "69%",
+    "pergunta_enquete": "Qual sua opinião: Luta pelo título! Veja reta final de Flamengo e Palmeiras no Brasileirão?",
+    "tecnica": "Dado",
+    "ganchos": [
+     {
+      "tecnica": "Dado",
+      "texto": "Flamengo chega a 69% de chances de título. Quase ninguém fez a conta do que isso significa para o Palmeiras.",
+      "thumb": "69%"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Palmeiras x Flamengo: um precisa vencer, o outro não pode perder.",
+      "thumb": "PALMEIRAS x FLAMENGO"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Luta pelo título! Veja reta final de Flamengo e Palmeiras no Brasileirão. Parece notícia pequena. Não é.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Palmeiras x Flamengo: qual é o detalhe que vai decidir?",
+      "thumb": "E AGORA, PALMEIRAS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Luta pelo título! Veja reta final de Flamengo e Palmeiras no Brasileirão. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Palmeiras vê chance de título cair mesmo após goleada; Flamengo amplia favoritismo",
+     "fonte": "Jornal do Comércio",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQkZJaGNpMFVxOVJsZ0tPNTBrMUIzNEJOcXJJSWQ3V1dSb1E3T2pLSUxsSW8wbVBRMmVtTmRzS1dtN2xjZ1dwbTZncjhFNHB1XzBlMGdubk43SXZhNVFXeUEtNDZ3UUMtell4Q3BDTDhRSmJOQ2xZMzN2N0dKNmpHb25PTlp1V1FCcHFIZ0dXb2N6WEpCc0dZMEVrRmxnb3loVHVpOU9ETGN0V2FTUDh6aFdRYXVzVVJtdDlsUGdxRHZzLXFXVkl1RzZMTFZtcDlTeVZFTFE3ZG8yaXJa?oc=5"
+    },
+    {
+     "titulo": "Brasileirão: Flamengo e Palmeiras vencem clássicos e acirram luta pelo título",
+     "fonte": "Sofascore",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN0VjVFVUaDdkaDU5MW16SGs5MVpJeDhNMWozNmpyaThKdHEzY01QOUdNVWFSTUZQTzE5bVFoSGZTQ01mdlhtY0YzY2FiQ0I1Y2hVNWFHTlhQZE82R1lsYVhDOHZrQnN3VkxrR002dWJ2WFJDbldCdW1fZjhwaEFJV2x3ME9YUjFQWlJHbHNLRjdsYzlmenVKejVtWDJOU2o5czZyc2kzS29YQXBDTlFR?oc=5"
+    },
+    {
+     "titulo": "Luta pelo título! Confira a reta final de Flamengo e Palmeiras no Brasileirão 2026",
+     "fonte": "ContilNet",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdExMSkg4SzdUaTNHaHVXN1JMeEpGdDlLWmVSZE14RGJmMlpkZXVXZTNQM3JVUV9ibk80eFNGeEZocjNKTmk0dDJ0eFZhOS1jLXpKSFNNNXdqdS16dlI5RVR4R1AwcVJ0LTZMeHR3cDlUMktVMHJRSTB0RENndmdNMG9VOVZlaHMzWlJLaV8zLUo1MHVwb2JrbzF2Rno3ZEU3MGZDb2V2WGRKMEozczZ0cXBZSjFrMEVYLWJxZHA4Tjg?oc=5"
+    },
+    {
+     "titulo": "Flamengo ou Palmeiras? UFMG aponta chances de título da Série A após a 30ª rodada",
+     "fonte": "Rádio Itatiaia",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWWJ3Si1hM1lCS0lUT3NPRjlGaTY3a3R4OFljUzFISnZPbElZa0NCNThTMEJLMWhia2JodmVINWd4OEpPVDg1SjVXa2liaUp4bm9KYWMwR282QkRTS3RweWc5ZjBDS0dENFFKbEFtYW1jaFZ0WjBhOUsxX1R1Z2U5bGtUWHdqbTJNYkVhNmt2STM0WExlLU5KbkUwNWl5T1JUR3RrLUxfVkl3VmdaeFBWNklaTlhpYlVUcXhDS0F3VVoxbG1hWUcyN0RQcUJ4a2pER1dydUJKRFQ5Y0U5NW92d3JvRjBrS2NkTktlSlZDLXRmaFNwa3c?oc=5"
+    },
+    {
+     "titulo": "Flamengo chega a 69% de chances de título, e Palmeiras cai para 30,8%, diz UFMG",
+     "fonte": "Diário da Manhã",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUThiaURUM3c0YWpuNklXbldGRHktRUFWOWE0NkFtY2M0dkEtdVI0UF9wQ3NiMnBFTWhTbTVyQ28tTnMwSF9iNHJKUjI2eDFIM2JwdDZ6TnRtR2dUeXZvOVZmMlpXN1pkcXVUUTZVS3lmN0tmbUxydUR4M2VTcHlDT3dQejgtOUU1bVJxNUZBb0VJOHZfZUJNS3ZydGVSbGdqLW9lbHg3ODc1Zw?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "m9RSi9eEk7Y",
+      "titulo": "Giay provoca o Corinthians e destaca disputa pelo título do Palmeiras KKKKK 💚🐷",
+      "canal": "NU SOCCER",
+      "views": 7348,
+      "likes": 38,
+      "comentarios": 1,
+      "publicado": "2026-10-11T23:28:40Z",
+      "duracao_s": 6,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=m9RSi9eEk7Y"
+     },
+     {
+      "id": "9iBwLpOX42g",
+      "titulo": "DERBY DE VIDA OU MORTE! 🔥 PALMEIRAS x CORINTHIANS AO VIVO | TÍTULO x REBAIXAMENTO",
+      "canal": "TIFOSI 14 • Palmeiras ( T14 ) • Jogos Ao Vivo",
+      "views": 2116,
+      "likes": 83,
+      "comentarios": 0,
+      "publicado": "2026-10-11T23:44:55Z",
+      "duracao_s": 14680,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=9iBwLpOX42g"
+     }
+    ],
+    "consulta": "Palmeiras título Luta",
+    "n_videos": 2,
+    "mais_de": false,
+    "views": 9464,
+    "top": [
+     {
+      "titulo": "Giay provoca o Corinthians e destaca disputa pelo título do Palmeiras KKKKK 💚🐷",
+      "canal": "NU SOCCER",
+      "views": 7348,
+      "url": "https://www.youtube.com/watch?v=m9RSi9eEk7Y",
+      "publicado": "2026-10-11T23:28:40Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "DERBY DE VIDA OU MORTE! 🔥 PALMEIRAS x CORINTHIANS AO VIVO | TÍTULO x REBAIXAMENTO",
+      "canal": "TIFOSI 14 • Palmeiras ( T14 ) • Jogos Ao Vivo",
+      "views": 2116,
+      "url": "https://www.youtube.com/watch?v=9iBwLpOX42g",
+      "publicado": "2026-10-11T23:44:55Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Classificação do segundo turno: Flamengo assume a liderança isolada; Corinthians é o último",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 64.4,
+   "sinais": {
+    "busca": 70,
+    "aceleracao": 59,
+    "midia": 75,
+    "aderencia": 100,
+    "youtube": 0
+   },
+   "fator_categoria": 1.092,
+   "trafego_google": 0,
+   "busca_torcedor": "vitória da conquista",
+   "termos_trends": [],
+   "n_fontes": 5,
+   "n_manchetes": 6,
+   "assinatura": "lider|flame|class|segun",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Classificação do segundo turno: Flamengo assume a liderança isolada. Dentro de campo acabou. Fora dele, a discussão está só começando.",
+    "titulo_thumb": "FLAMENGO x PALMEIRAS",
+    "pergunta_enquete": "Qual sua opinião: Classificação do segundo turno: Flamengo assume a liderança isolada; Corinthians é o últim?",
+    "tecnica": "Conflito",
+    "ganchos": [
+     {
+      "tecnica": "Conflito",
+      "texto": "Classificação do segundo turno: Flamengo assume a liderança isolada. Dentro de campo acabou. Fora dele, a discussão está só começando.",
+      "thumb": "FLAMENGO x PALMEIRAS"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Classificação do segundo turno: Flamengo assume a liderança isolada. Todo mundo vai olhar o resultado; eu vou mostrar o que ele esconde.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Classificação do segundo turno: Flamengo assume a liderança isolada. Foi mérito de quem venceu ou erro de quem perdeu?",
+      "thumb": "E AGORA, FLAMENGO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Classificação do segundo turno: Flamengo assume a liderança isolada. Minha aposta: depois desse jogo, [SEU PALPITE]. Me cobra depois.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "O meia Nicolás De La Cruz chegou à marca de 100 partidas com a. Parece só um número, mas ele vai pesar nos próximos meses do Flamengo.",
+      "thumb": "100 PARTIDAS"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Flamengo vence clássico no Maracanã e Palmeiras goleia no Derby para manter disputa acirrada pela liderança",
+     "fonte": "RCWTV",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV0hQUEt0T1VtNkdlNnR1ZWJuQ3V4bEtoTzR2R05GdWN1ekVzRkFCeXV3ei1GLTJaZ2g2MHN4OEIwMmZaTTJuUWpGdnFCTFVYakVJTUNQQnZiak5FWDBJNjBnRUZUem9xU2dOSDM2OUhIaERfWEswVjN0OUhVc2dmcTNsSUFLNHNXaHU1RFl6QkprUS1kOGtKN0RzdEZiUWpVN19nM3JsNzdPRjM5SXdMYW01bTdSaWJaeHpXOEphM19Mak9LWlgtMHFTVG8zTTU5WTFkaFpaMA?oc=5"
+    },
+    {
+     "titulo": "Classificação do segundo turno: Flamengo assume a liderança isolada; Corinthians é o último",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPY1Y3NktiYUVZY25WaUJPUGIzSDBEVUt4S0dDcWFzdU1IWGk1UVJSY1VtRUF6MER0ZWJXR3hFYkRfdXl2dzhvOUViZVBjM2RSTmV2N3JwQnVMSklyUEpZUXpQRGJkdjNpV2lKelY0TF8wTUtNN3l2b2tyZFpyV1pVTVM3OW5tQkpTWW1QQUUxMXVfQVAycVBsRndoVVV3LTZPN3hkSDdYYWo4X1h4RC1Fb3lhRUk0cHd3Tnd4VFMtbm1vd1I4aDMxdkNDMi16d2dTTnNWYVlmWWJsNU5zMzlTbtIB7wFBVV95cUxNQ3B1ZEJoVEctcEsxQjJjSEUwT0djYTdLQk41VnJfRjVENTlISWdGVTFOTzV5QVhrLTFHOVJHR3VlWGx3X0g1YmRSTVdod0pmRWY1OGhqRmVkZm03MmRvWF9PbERjZmQ4Q2VJSVU0c2szZ0I0ZDFRYlZIMDZENUpfLWhBdzY0ZVRFemd0WmRfQlZwd2QtNWJ5Vm9TZ1pBZFB1N3VFWHp0YjNCaHFtdE9pQ2d3MXJ1cTZtbkpDRzc2OWZ6MEpBdC1jZzZSV2czZFVLUjhtVDg2YTRNMy1hUzlzdXNLbWwwNGVmTy1HbEN1VQ?oc=5"
+    },
+    {
+     "titulo": "MENGÃO VOANDO! LÍDER GERAL E LÍDER DO SEGUNDO TURNO DO CAMPEONATO BRASILEIRO! 📸 Reprodução | TNT Sports",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94VEdDTkt2c0ZwNm5KWlhqdVRkcFBwNXA3UEcwUDViV1VBTkhqY053d1ExMzl1Q0xqaDZvckdkWVJvTmk3a2JhMy1nSzNEOXFDZUE?oc=5"
+    },
+    {
+     "titulo": "Flamengo mantém liderança após rodada de clássicos",
+     "fonte": "ES Brasil",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sVjlQQlRtNXRjbGwzek9td0otQmxUWndUcUV6OW9sa1pfb0VYUFRfMnc0cmo1Z1NhLTNJMzJmMnRuN2plMTdKb3J2dTR6UmRTYi1rQkF3RTBIY3pLcmVzaDFnSlJYaTBBNF9tOFluemdfaUJVQlAtag?oc=5"
+    },
+    {
+     "titulo": "O meia Nicolás De La Cruz chegou à marca de 100 partidas com a camisa do Flamengo no último domingo (11), contra o Fluminense. O uruguaio entrou no segundo tempo do clássico e ajudou o Rubro-Negro a conquistar a vitória por 1 a 0 no Maracanã. Po",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PcG5SVWxKSWxwRW5aeDZLWUNiSWdZRFVUVUtUb2hQcFFvSUVxVGpISHhvWnhWUmI1eGo3MmstWE1KMGpUdVVUTy0zR1ZLeFlJVEE?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [],
+    "consulta": "Flamengo liderança segundo",
+    "n_videos": 0,
+    "mais_de": false,
+    "views": 0,
+    "top": []
+   }
+  },
+  {
+   "tema": "Desfalcado, Flamengo divulga relacionados para decisão com Estudiantes",
    "categoria": "Lesão e desfalque",
    "clubes": [
     "Flamengo"
    ],
    "foco": true,
-   "nota": 86.7,
+   "nota": 64.2,
    "sinais": {
-    "busca": 70,
-    "aceleracao": 88,
-    "midia": 100,
+    "busca": 65,
+    "aceleracao": 78,
+    "midia": 87,
     "aderencia": 100,
-    "youtube": 84
+    "youtube": 0
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "flamengo x fluminense",
+   "busca_torcedor": "estudiantes x flamengo",
    "termos_trends": [],
-   "n_fontes": 11,
-   "n_manchetes": 14,
-   "assinatura": "danil|flame|cirur|fratu",
+   "n_fontes": 7,
+   "n_manchetes": 7,
+   "assinatura": "flame|relac|estud|divul",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 2 min)",
-    "gancho": "O Flamengo sem Danilo: o técnico vai ter que escolher entre improvisar ou mudar o time.",
-    "titulo_thumb": "SEM DANILO?",
-    "pergunta_enquete": "Qual sua opinião: Danilo tem duas fraturas na mandíbula e vai passar por cirurgia após choque em Flamengo x ?",
-    "tecnica": "Conflito",
+    "gancho": "Desfalcado, Flamengo divulga relacionados para decisão com Estudiantes. Todo mundo está olhando para quem sai. O problema está em quem entra.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
+    "pergunta_enquete": "Qual sua opinião: Desfalcado, Flamengo divulga relacionados para decisão com Estudiantes?",
+    "tecnica": "Contradição",
     "ganchos": [
      {
-      "tecnica": "Conflito",
-      "texto": "O Flamengo sem Danilo: o técnico vai ter que escolher entre improvisar ou mudar o time.",
-      "thumb": "SEM DANILO?"
-     },
-     {
       "tecnica": "Contradição",
-      "texto": "Após cirurgia, Flamengo vê volta de Danilo ainda este ano como improvável. Todo mundo está olhando para quem sai. O problema está em quem entra.",
+      "texto": "Desfalcado, Flamengo divulga relacionados para decisão com Estudiantes. Todo mundo está olhando para quem sai. O problema está em quem entra.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Sem Danilo, quem segura o Flamengo nos próximos jogos?",
+      "texto": "Sem Estudiantes, quem segura o Flamengo nos próximos jogos?",
       "thumb": "E AGORA, FLAMENGO?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Minha aposta: o Flamengo vai sentir a falta de Danilo já no próximo jogo. Comenta a sua e me cobra depois.",
+      "texto": "Minha aposta: o Flamengo vai sentir a falta de Estudiantes já no próximo jogo. Comenta a sua e me cobra depois.",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Dado",
-      "texto": "75 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
-      "thumb": "TODO MUNDO VIU"
+      "texto": "Com 5 desfalques. Parece só um número, mas ele vai pesar nos próximos meses do Flamengo.",
+      "thumb": "5 DESFALQUES"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "O Flamengo sem Estudiantes: o técnico vai ter que escolher entre improvisar ou mudar o time.",
+      "thumb": "SEM ESTUDIANTES?"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Danilo passa por cirurgia e vira desfalque no Flamengo na Libertadores",
-     "fonte": "Band",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNejhwYmNXRC02Z2pzVnV6SGZ1Q0lmdGZYdXk1MlJVdUNTdnhvallmSGp1bVdSNVZzdlBzeVRqRXk1NGw5RXdUZ0IxWUpxR25Xd0hMR2ozeVcyLTBxQ2EwNVFuOE90R3lyZGlBYldOYmJGYk5CQlRqcWU2WVJ3bTExTWF3SVZfRHRiZWFiclluVTdBUUI1SzJrWTBaVkg5MmRFV3VfbF9yZHVsOFEwZEctQ0V4LUgtS0ZfcVg3VUtiT1ZXTWpQ?oc=5"
+     "titulo": "Desfalcado, Flamengo divulga relacionados para decisão com Estudiantes",
+     "fonte": "O Dia",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSU1vUTZHempsQWJkY1p4MDYwVXdUV1h0V1VXalNIQ29Uc1lJNVlNTEpqcXdHdm13MjZaSW44TzYxaHV1ODRGeGRZR0pJNGVaQ3I4c1NQemR6eW5BV2MwR3p4WWlxaS1HQk5CY285NkxXc1htUXYwUENhVWppUWl0bFJNZUNTdlVoMVVFLVY5UlgzUzg5U3l1SUhXMVpDd1NaVXp6YkpnMllNT0xET1FPUUpxNWxzb1FkVFgxVkJfcDk5d0NYZUwtQzJB0gHPAUFVX3lxTE9KR2tMZ0czUElyUkRGMUN2dnV1Wk83ZjdQbWg4UXdvQ0N1NkY4dkd2VV9WOWYtWFpHYk5QTVNnajlMR1Qwekh1N2hvNmJHVVhBajVWVkFFbVBtWi1UbGx0WUxNT2xNa2ZsdGFWMWwzY29vdF9tcnBzRjN5Mm1OdzNuTjdkU0RMTnk2RXdxMW5YS1VTOXpRM2l5TFFyV1lZbXpoUXJyREg0ei1nSVh2ckE0YWEtOU5ZZHp3dU1TYl9XbUc3MWRWaWZVbm1ka3dwUQ?oc=5"
     },
     {
-     "titulo": "O Flamengo atualizou a situação do zagueiro Danilo: “A cirurgia realizada no zagueiro Danilo na manhã desta segunda-feira (12), para corrigir duas fraturas na mandíbula sofridas no clássico contra o Fluminense, foi finalizada com sucesso. O jogador tem pr",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16RVlJTVNMZGZCNHJYamk5bWZBZ1JlbVR1NVhUZUlKamNpTC13U21KUElDMnhJcGxjaUxUQXh5UGpDUy1jSlRFcVc2THNuRFFaSmc?oc=5"
+     "titulo": "Flamengo divulga relacionados para semifinal da Libertadores com quatro desfalques",
+     "fonte": "O TEMPO",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOEZaX2hRbXh1V09HSWhubmxoMDZ1QjB2Ym1zZFBFay1Za1hvcXZfY1ZPYndHekphb1ZBZDZ4NXk3a3RDVGNJZ0JBcktRcDdFbXZlXzFLTFQzd2lGNzV3eDNtTXh5MTNfM19xazVsSjMyWHlDTmx1LVFNTjYzSjZpOU9JaHl4aUkyVlh4SUJMM09vTHpnV3NqUVRUaURoZ3ZRVnhGbmY4RTBzRTAyYklyUW5RQnRlY3Y1T29qUFBKUG9YbGVrX0thYlN2YVNKZzZyNkx4bU92ZGVjc2hJQ2hmeUhrN0pSS2M?oc=5"
     },
     {
-     "titulo": "Flamengo: cirurgia de Danilo para corrigir fraturas é bem-sucedida",
+     "titulo": "Flamengo divulga relacionados para enfrentar o Estudiantes",
+     "fonte": "Lance!",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQamN6QURrZ3ZnTHRiZG5HZUtudktZSFUzT19IRC1sb1ZpNVhRS2R4UE9BZGdfQ3NZNmxjWjNYU2psNVpsYWlqSGNLNzJTbUdGbXhsenVRcjhXOFlndlVFN3BkbUFoZGZMNVVMZGQxblkydXZIdzkxV3Z1WnhDWElPNURTZ3B3bHVkUUxIYVBTdUF2Rk5NaDRBaWhBOThlYjItTFZIQThEZWwxUzlmT0JySkNrcGtnVFdtVjJFUWhR?oc=5"
+    },
+    {
+     "titulo": "Flamengo divulga relacionados para ida da semifinal contra o River Plate",
      "fonte": "Metrópoles",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYUsyZjZwUGdRYmk2cXpfMFhlSFJkaFlBb19WdjNjVW02VUU0VlZGRzlUNGp2eXgwaEZHM3BkNnJCb3FOZzd4NXhRWUJqS1NoQ0dyanJYdW56OFRCRm9jRUxCRWV1VTVGOTlHZ2IzajRISnlxZ3pEazBJOXFtYXZMal9ZTi11UkNycllwN3djU0h5WlR3V0ExemEzYlozWjlxRmg0?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUjQ0LXlEai1yaWw0N0ZvT1ZvamEyVmNJdnpqbFZ0YktWWWNJM2ROeWFVYVUtTHhOdE14cVV4M3lGVHF0eXhSb0RqTDlYZDdURDFab25JVjl1UHpsVzUtVGRielJ4TjNxMFNka1A4dENsNG1XUlhub0Qwc0IxRVhhTGh1T0ctSXdWZ24wMkhFdFZuRWlIcGlhX2VlUV9VdUFYZVRHRWstYjNFYVR2?oc=5"
     },
     {
-     "titulo": "Após cirurgia, Flamengo vê volta de Danilo ainda este ano como improvável; jogador ficou desorientado no vestiário",
-     "fonte": "O GLOBO",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPS0VZS0xGUURfenlMckI3MFpEalM5QkxadnhVX3p0dmZJWUhVMmR3dEJJWHFJRHRzaF9DQTBxTUgxbFRUOF9Yc2RLUDY2ZTZLMzFXdGl1TnZHMnpHZjlvNTFvWVpmR0Q5YXFtd3BKYk10OTFiYUFKRnBPdDNfRDRUX0Q0R1FvNWE2ejdWVmxvdmcycC0xTFVnanNaNWRIOWw4WDg5RnMwQ3psS1h4VEJWTmRWSnNKeUplN2ZuRjdJdFNMcWtQV0c4a21DcEQxbnhzbDlBNXNoc29QY2V0RER6MEFyNlI0emJiR1NoTk9vbHY2YXJjNXdn0gGGAkFVX3lxTE5MbTNaZUtJVjVNLXNROGowTHFjcUpRYWF5cmJBM3pKZ1l3eVVEd3NLZW0xMjlFb1dmZDZ2c25GZEl6TDF1TGpiNGJmaDZGOGoyV3ZRdjQ5MXdfejFvYlBpbm5nckpvc2ozZUc1MnFHMmJ5by1UNzZUcXBDM1ZoWTJJUm9JOWNXWkRyN0JVd3MzM253LUVyUkMyTTBZVTRLVXhGSEx0SWhxNU83TXFsUmJaS3R0ZDNMQTBiR1JJREFoSEp5YmpUc2dtb0V4Rzd6blYyNTk3LXVTTWhhdEtQcl9ibHd6dmc5M0g1eVpOVVBJZS14aVdZc0JHMVFhR2QteEU2S2RTY3c?oc=5"
-    },
-    {
-     "titulo": "Flamengo perde Danilo por mais de um mês por lesão no Fla-Flu e terá desfalque na Libertadores",
-     "fonte": "Goal.com",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWTlPSnRnN1I3d1pvNm9YVWlTTGZ0R1FpVzF5ejI3UHlwUlRUQmZDQUNrQXV6OFlGaXEzYlhpSzZQUWF0a2lHancySEVzN0xjVEFnLTlUNG02SWVJSlVkbS1EVE5JdDZacUVnNDU0MFZneG5EeDVoek54RGJyRWhVS05MRDRsbXhtX1NOdFVvM1o5ZXJ3VmZJcWZ4eWgzZHk5dDVkb2I3U2lnNXZaQ2hoUkhyWWZFV1g0WGZJUFVSMEl2bDVhNWYtV3FR?oc=5"
+     "titulo": "Com 5 desfalques, veja lista de relacionados do Flamengo para jogo contra o Estudiantes, pela Libertadores",
+     "fonte": "Coluna do Fla",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVUVDbDlJRkVFRnhBSGtsNDBIbTh5RTR4Ym9NN2tPTTUyOTdYOWJHOHN6Y01tZm9XNDhpQTlvNndaRWpVdTB4TzFZbF9MVXFkZ1FrSmtKUGRudmdCRm16ZUpXYjdWQ25pX3J0ZjM4Z3NqNDY2Tl9fclhmcEFZRG5obnllYlJDOWNLTWJfVS1tcDFxZHRWb3k4NzM5R1ZBY3NiUjdCZmdpSXBwV0ZrVUxNMzEtN0YzZzBheERnRldVV3Y0MlowNkR0cHJCdVJaajF3S0Y0?oc=5"
     }
    ],
    "youtube": {
-    "amostra": [
-     {
-      "id": "HFaj3hToVro",
-      "titulo": "PÉSSIMA NOTÍCIA | DANILO SOFRE DUAS FRATURAS NA MANDÍBULA E DESFALCA O FLAMENGO POR 5 SEMANAS",
-      "canal": "Venê Casagrande",
-      "views": 28352,
-      "likes": 2509,
-      "comentarios": 107,
-      "publicado": "2026-10-12T11:43:05Z",
-      "duracao_s": 507,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=HFaj3hToVro"
-     },
-     {
-      "id": "CvV-1ciI6yw",
-      "titulo": "FLAMENGO pode perder DANILO antes da semifinal da LIBERTADORES 😳",
-      "canal": "O Inspetor",
-      "views": 27992,
-      "likes": 135,
-      "comentarios": 0,
-      "publicado": "2026-10-12T14:53:29Z",
-      "duracao_s": 6,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=CvV-1ciI6yw"
-     },
-     {
-      "id": "Yy-ydGNi7mE",
-      "titulo": "DANILO, DO FLAMENGO, TEM FRATURA NA MANDÍBULA APÓS CHOQUE COM FÁBIO NO FLA-FLU E PASSA POR CIRURGIA",
-      "canal": "UOL Esporte",
-      "views": 6335,
-      "likes": 19,
-      "comentarios": 1,
-      "publicado": "2026-10-12T17:14:48Z",
-      "duracao_s": 25,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Yy-ydGNi7mE"
-     },
-     {
-      "id": "xfFurHSRpts",
-      "titulo": "Danilo, jogador do Flamengo, sofre fratura na mandíbula e fará cirurgia",
-      "canal": "FLAMENGUISTA ORIGINAL ",
-      "views": 5190,
-      "likes": 136,
-      "comentarios": 10,
-      "publicado": "2026-10-12T14:00:39Z",
-      "duracao_s": 19,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=xfFurHSRpts"
-     },
-     {
-      "id": "xCJObdl4UUw",
-      "titulo": "BOLETIM MÉDICO PREOCUPANTE! DANILO FRATURA A MANDÍBULA E PASSA POR CIRURGIA!🚨🔴⚫️ #flamengo #viral",
-      "canal": "CACRJFLA",
-      "views": 2104,
-      "likes": 103,
-      "comentarios": 1,
-      "publicado": "2026-10-12T04:12:55Z",
-      "duracao_s": 72,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=xCJObdl4UUw"
-     },
-     {
-      "id": "Bx8xywaF3Pg",
-      "titulo": "DANILO SOFRE DUAS FRATURAS E VAI PASSAR POR CIRURGIA NA MANHÃ DESTA SEGUNDA",
-      "canal": "Fonte Rubro-Negra",
-      "views": 1726,
-      "likes": 41,
-      "comentarios": 2,
-      "publicado": "2026-10-12T02:41:57Z",
-      "duracao_s": 51,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Bx8xywaF3Pg"
-     },
-     {
-      "id": "sGZk1BSDRpE",
-      "titulo": "DANILO OPERA HOJE COM DUAS FRATURAS NA MANDÍBULA",
-      "canal": "Fla Informa",
-      "views": 1028,
-      "likes": 23,
-      "comentarios": 0,
-      "publicado": "2026-10-12T15:10:53Z",
-      "duracao_s": 28,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=sGZk1BSDRpE"
-     },
-     {
-      "id": "xiZvIF7CjHw",
-      "titulo": "URGENTE: Danilo sofre duas fraturas no Flamengo",
-      "canal": " Portal da Nação",
-      "views": 807,
-      "likes": 12,
-      "comentarios": 0,
-      "publicado": "2026-10-12T18:20:33Z",
-      "duracao_s": 21,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=xiZvIF7CjHw"
-     },
-     {
-      "id": "6sQ1IO_liXQ",
-      "titulo": "DANILO SOFRE DUAS FRATURAS NA MANDÍBULA E PASSARÁ POR CIRURGIA.",
-      "canal": "GLAYCON FUTNEWS ",
-      "views": 617,
-      "likes": 8,
-      "comentarios": 0,
-      "publicado": "2026-10-12T19:06:22Z",
-      "duracao_s": 27,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=6sQ1IO_liXQ"
-     },
-     {
-      "id": "RvJ4OtGuVzI",
-      "titulo": "ALERTA: Danilo tem FRATURAS e entrará em CIRURGIA",
-      "canal": "Portal Rubro Negro News",
-      "views": 326,
-      "likes": 15,
-      "comentarios": 0,
-      "publicado": "2026-10-12T10:05:31Z",
-      "duracao_s": 89,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=RvJ4OtGuVzI"
-     },
-     {
-      "id": "1GpOwPTyOYs",
-      "titulo": "BOMBA! DANILO SOFRE DUAS FRATURAS NA MANDÍBULA E PASSARÁ POR CIRURGIA HOJE! 🚨🚑#danilo #lesao #fla",
-      "canal": "Gabarito Do Mengão ",
-      "views": 188,
-      "likes": 3,
-      "comentarios": 0,
-      "publicado": "2026-10-12T19:40:42Z",
-      "duracao_s": 56,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=1GpOwPTyOYs"
-     },
-     {
-      "id": "oFkNbm3Zz38",
-      "titulo": "Danilo sofre duas fraturas na mandíbula após choque com Fábio",
-      "canal": "PipiraShow",
-      "views": 179,
-      "likes": 1,
-      "comentarios": 0,
-      "publicado": "2026-10-12T13:49:07Z",
-      "duracao_s": 64,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=oFkNbm3Zz38"
-     },
-     {
-      "id": "TZ40Qq3W2bE",
-      "titulo": "Danilo sofre duas fraturas na mandíbula e passará por cirurgia",
-      "canal": "davilopesdsv_crf",
-      "views": 85,
-      "likes": 1,
-      "comentarios": 0,
-      "publicado": "2026-10-12T09:00:23Z",
-      "duracao_s": 20,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=TZ40Qq3W2bE"
-     },
-     {
-      "id": "F62KfZMdT34",
-      "titulo": "URGENTE!! DANILO SOFRE DUAS FRATURAS E PASSARÁ POR CIRURGIA NESTA SEGUNDA-FEIRA ",
-      "canal": "FLA RAÇA E PAIXÃO",
-      "views": 34,
-      "likes": 1,
-      "comentarios": 0,
-      "publicado": "2026-10-12T09:00:21Z",
-      "duracao_s": 113,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=F62KfZMdT34"
-     },
-     {
-      "id": "TieoZZmarPs",
-      "titulo": "Danilo: 2 fraturas e o Flamengo sem zagueiro de vez #shorts",
-      "canal": "Recorte Esportivo",
-      "views": 31,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-10-12T09:35:49Z",
-      "duracao_s": 48,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=TieoZZmarPs"
-     },
-     {
-      "id": "9mhTr2izxRE",
-      "titulo": "Danilo fratura a mandíbula em choque com Fábio no Fla-Flu e passará por cirurgia",
-      "canal": "PopNEWs-k",
-      "views": 8,
-      "likes": 1,
-      "comentarios": 0,
-      "publicado": "2026-10-12T18:21:06Z",
-      "duracao_s": 29,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=9mhTr2izxRE"
-     },
-     {
-      "id": "eLNnam2Yx2U",
-      "titulo": "DANILO FORA DO FLAMENGO: A grave lesão no Fla-Flu que ninguém esperava!",
-      "canal": "Nação Sem Fronteira",
-      "views": 0,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-10-12T18:48:31Z",
-      "duracao_s": 0,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=eLNnam2Yx2U"
-     },
-     {
-      "id": "SUFqSsmjpKo",
-      "titulo": "URGENTE: Danilo sofre duas fraturas e passará por cirurgia no Flamengo",
-      "canal": " Portal da Nação",
-      "views": 0,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-10-12T18:14:41Z",
-      "duracao_s": 85,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=SUFqSsmjpKo"
-     },
-     {
-      "id": "r5GhkAMs0bw",
-      "titulo": "DANILO, DO FLAMENGO, TEM FRATURA NA MANDÍBULA APÓS CHOQUE COM FÁBIO NO FLA-FLU E PASSA POR CIRURGIA",
-      "canal": "NUNES FILMES",
-      "views": 0,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-10-12T18:16:01Z",
-      "duracao_s": 28,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=r5GhkAMs0bw"
-     }
-    ],
-    "consulta": "Flamengo Danilo cirurgia fraturas",
-    "n_videos": 19,
+    "amostra": [],
+    "consulta": "Flamengo Estudiantes relacionados divulga",
+    "n_videos": 0,
     "mais_de": false,
-    "views": 75002,
-    "top": [
-     {
-      "titulo": "PÉSSIMA NOTÍCIA | DANILO SOFRE DUAS FRATURAS NA MANDÍBULA E DESFALCA O FLAMENGO POR 5 SEMANAS",
-      "canal": "Venê Casagrande",
-      "views": 28352,
-      "url": "https://www.youtube.com/watch?v=HFaj3hToVro",
-      "publicado": "2026-10-12T11:43:05Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "FLAMENGO pode perder DANILO antes da semifinal da LIBERTADORES 😳",
-      "canal": "O Inspetor",
-      "views": 27992,
-      "url": "https://www.youtube.com/watch?v=CvV-1ciI6yw",
-      "publicado": "2026-10-12T14:53:29Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "DANILO, DO FLAMENGO, TEM FRATURA NA MANDÍBULA APÓS CHOQUE COM FÁBIO NO FLA-FLU E PASSA POR CIRURGIA",
-      "canal": "UOL Esporte",
-      "views": 6335,
-      "url": "https://www.youtube.com/watch?v=Yy-ydGNi7mE",
-      "publicado": "2026-10-12T17:14:48Z",
-      "do_canal": false
-     }
-    ]
+    "views": 0,
+    "top": []
    }
   },
   {
-   "tema": "Craque Neto detona Memphis por crise no Corinthians: \"Vontade de chorar\"",
+   "tema": "Conselho do Corinthians convoca Stabile para dar explicações após desabafo de Gabriel Paulista",
    "categoria": "Polêmica e bastidor",
    "clubes": [
     "Corinthians"
    ],
    "foco": true,
-   "nota": 83.8,
+   "nota": 62.4,
    "sinais": {
-    "busca": 75,
-    "aceleracao": 72,
+    "busca": 38,
+    "aceleracao": 49,
     "midia": 81,
     "aderencia": 100,
-    "youtube": 98
+    "youtube": null
    },
    "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "memphis depay",
-   "termos_trends": [],
+   "trafego_google": 200,
+   "busca_torcedor": null,
+   "termos_trends": [
+    "jj gabriel"
+   ],
    "n_fontes": 6,
    "n_manchetes": 7,
-   "assinatura": "corin|neto|memph|deton",
+   "assinatura": "corin|gabri|pauli|desab",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "Craque Neto detona Memphis por crise no Corinthians. Era para ser uma decisão simples. Virou a maior confusão da semana.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Craque Neto detona Memphis por crise no Corinthians: \"Vontade de chorar\"?",
-    "tecnica": "Contradição",
+    "gancho": "Até onde essa história do Corinthians vai chegar?",
+    "titulo_thumb": "E AGORA, CORINTHIANS?",
+    "pergunta_enquete": "Qual sua opinião: Conselho do Corinthians convoca Stabile para dar explicações após desabafo de Gabriel Paul?",
+    "tecnica": "Pergunta aberta",
     "ganchos": [
-     {
-      "tecnica": "Contradição",
-      "texto": "Craque Neto detona Memphis por crise no Corinthians. Era para ser uma decisão simples. Virou a maior confusão da semana.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
      {
       "tecnica": "Pergunta aberta",
       "texto": "Até onde essa história do Corinthians vai chegar?",
@@ -1147,1639 +1592,500 @@
      },
      {
       "tecnica": "Aposta",
-      "texto": "Minha aposta: essa confusão do Corinthians ainda vai ter mais um capítulo esta semana. Guarda esse vídeo.",
+      "texto": "Conselho do Corinthians convoca Stabile para dar explicações após desabafo de Gabriel Paulista. Eu aposto que [SEU PALPITE]. Se eu acertar, você me deve um like.",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Dado",
-      "texto": "686 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
-      "thumb": "TODO MUNDO VIU"
+      "texto": "Seedorf receberá o mesmo que Yuri Alberto no Corinthians e R$ 1,3 milhão a. Parece só um número, mas ele vai pesar nos próximos meses do Corinthians.",
+      "thumb": "R$ 1,3 MILHÃO"
      },
      {
       "tecnica": "Conflito",
-      "texto": "Craque Neto detona Memphis por crise no Corinthians. Diretoria de um lado, torcida do outro, e quem perde é sempre o time.",
+      "texto": "Conselho do Corinthians convoca Stabile para dar explicações após desabafo de Gabriel Paulista. Tem gente no Corinthians puxando para lados opostos, e essa conta chega no campo.",
       "thumb": "QUEM TEM RAZÃO?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Craque Neto aponta culpado por crise no Corinthians: 'Maior responsável'",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNekU3SXpvZEFTd2xvS2tWQmFidmtxbUZRX20yTmFxelYzMjZMTkNPVXA0aTRIR1UyTDAyR0VBUVN0QndDUEJnUmNOQ3ZBdWpPdjVtUVNVdEhfdFl6Qm9aTkFwTWFkTjNOZ1NGUU1qOFdPRHM2ek85cWFhMklGMXljVUZ1YlQta1Ztb0hYZVRhd2lZbWdNd0JiZmMyY2MxR1liRVlxc0VlVFV4R3BkaDFwbXJrMA?oc=5"
-    },
-    {
-     "titulo": "Craque Neto detona Memphis: “Maior responsável pela crise no Corinthians\"",
-     "fonte": "band.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPemhrOW44dFVRX1daWDdJZTFJY2dscE9zdjdBVTZkWjNhT0RjaVU3cUx5MzhNLVRzeXpwYlI0OUFKNmljQWVtcFVaSnpRWE8tR3BMSEJxYW5jTXBKSGYzVTE4MVg3cW5lWGxXajY4dVVXMlpaVkdtaTJHYlhrX2x3U0ZlUUJwbFdrT0p2REctY3RPdl9NdWlJSWstT3o4dTFsZVJ4aDd3MDc2NE1VWVhxdlJaaE03amU4Q1hpT0dmSWt3Zw?oc=5"
-    },
-    {
-     "titulo": "Craque Neto detona Memphis após Palmeiras golear o Corinthians",
-     "fonte": "Band",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQREdwMG0xYmNOdHd6d09xblBkUXJYMzYxREx5T2ZMVGNQajdhMU1kalZ6MktfdGZ6QXZVU0xDcEJ4aV9BYmVTSHNDNTBUcGxIeWpfalpyc0JISzJMSmxDblVpWVhHOTNDWUZENEZPYW5ZYjBMcW05cE5YUGNBWDZKaUt3MmEtb21ISE1jeFhRX2FlN0RhZVh4ZWRMalZHVERGQUd1bXNnOVBLVUdpNDFIU1lrS0RIV1JzaTRXLWNB?oc=5"
-    },
-    {
-     "titulo": "Coutinho detona atuação de Memphis em Palmeiras x Corinthians: \"Ridícula\"",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdUI5WU9XSnhRcDFOTUpLQXViOGdVbGM3SWdMSGRhcnR1RjR1RVctQjZVVWF0SlBUQl9PWUtrZk94dVNablNvMFBuSktJQ19wTFJmYlBGMkJpSERaLXZQNF9uSXJFc2N1aHhGTC1ZakZ6djFBbkx3djBWM0R3WGcyWFZtSEQwdGtDTk1TZEN5M1E1bjFQVWU0WEE0d0xWR3VnNGs0d1JzLUFoM2hrd0NSUlQwNjRMcjRJZ3pPUGxZczFrYVN2Q0J2OXRWS0NxS1BtaGpQS1RqYm4xSnExMEU4ZzRRZm9adHdXTk5Z0gHrAUFVX3lxTE91QjlZT1dKeFFwMU5NSktBdWI4Z1VsYzdJZ0xIZGFydHVGNHVFVy1CNlVVYXRKUFRCX09ZS2tmT3h1U1puU28wUG5KS0lDX3BMUmZiUEYyQmlIRFotdlA0X25JckVzY3VoeEZMLVlqRnp2MUFuTHd2MFYzRHdYZzJYVm1IRDB0a0NOTVNkQ3kzUTVuMVBVZTRYQTR3TFZHdWc0azR3UnMtQWgzaGt3Q1JSVDA2NExyNElnek9QbFlzMWthU3ZDQnY5dFZLQ3FLUG1oalBLVGpibjFKcTEwRThnNFFmb1p0d1dOTlk?oc=5"
-    },
-    {
-     "titulo": "Craque Neto detona Memphis por crise no Corinthians: \"Vontade de chorar\"",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWmYtS2JuRDhTaDdSRms5QmszRkdIQ2Y0ME9xYV9PN25GU3c4REE5dWhmZjdzcUtUZkYzTUdNN1E2a3pzXzRIWkd3OFNlaFBiOVJGZ0xtSHk4dmJuamMtOFdoYUFGLUVxeGlNQWI0WHNKMGhRLXhCOV9wenZMVTN4MTVKTHVsY2NQZjF6T1RzRkdDR1dIX0ppaFhTUXpZUlVCVC1mZ2UzMVNVV3U3eWRZOEJoTW5uWDNYSlZ6dTg5NTk5SXY0Wklr?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "eA-0UeN1Log",
-      "titulo": "🚨POLÊMICA ! Neto põe culpa no memphis #corinthians #timão #Brasileirão #futebol #memphis #palmeiras",
-      "canal": "JogoAbertoFC",
-      "views": 264655,
-      "likes": 4269,
-      "comentarios": 454,
-      "publicado": "2026-10-11T23:37:21Z",
-      "duracao_s": 61,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=eA-0UeN1Log"
-     },
-     {
-      "id": "U58dEkbatv4",
-      "titulo": "Craque Neto pede a SAÍDA de Memphis Depay! #corinthians",
-      "canal": "Coringaço",
-      "views": 120476,
-      "likes": 2556,
-      "comentarios": 370,
-      "publicado": "2026-10-11T22:48:53Z",
-      "duracao_s": 63,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=U58dEkbatv4"
-     },
-     {
-      "id": "0Fp3CLfH8No",
-      "titulo": "Craque Neto detona Memphis Depay: “Maior responsável pela crise no Corinthians\"",
-      "canal": "Os Donos da Bola",
-      "views": 44402,
-      "likes": 1969,
-      "comentarios": 178,
-      "publicado": "2026-10-12T17:07:50Z",
-      "duracao_s": 575,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=0Fp3CLfH8No"
-     },
-     {
-      "id": "u2zx70ybDII",
-      "titulo": "😂NETO TÁ COM MEDO DA SERIE B! MARAVILHA NÃO PERDOOU ELE!!!",
-      "canal": "Momento Clubista",
-      "views": 43867,
-      "likes": 433,
-      "comentarios": 12,
-      "publicado": "2026-10-10T21:00:19Z",
-      "duracao_s": 495,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=u2zx70ybDII"
-     },
-     {
-      "id": "2BTid60M1Kg",
-      "titulo": "Craque Neto SE REVOLTA com falta cobrada por Memphis! 🚨 #shorts",
-      "canal": "Resenha da Bola News",
-      "views": 38495,
-      "likes": 455,
-      "comentarios": 34,
-      "publicado": "2026-10-12T04:36:21Z",
-      "duracao_s": 21,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=2BTid60M1Kg"
-     },
-     {
-      "id": "IhfL86VwMow",
-      "titulo": "CRAQUE NETO DETONA MEMPHIS APÓS A DERROTA PARA PALMEIRAS 😱 #futebol #football #corinthians #craque",
-      "canal": "futeplay",
-      "views": 17918,
-      "likes": 396,
-      "comentarios": 29,
-      "publicado": "2026-10-12T05:44:34Z",
-      "duracao_s": 33,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=IhfL86VwMow"
-     },
-     {
-      "id": "X7tuKcS7xnI",
-      "titulo": "Memphis NÃO CONSEGUIU bater o escanteio e o Neto reagiu! 🚨 #shorts",
-      "canal": "Resenha da Bola News",
-      "views": 17731,
-      "likes": 418,
-      "comentarios": 14,
-      "publicado": "2026-10-12T04:39:19Z",
-      "duracao_s": 15,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=X7tuKcS7xnI"
-     },
-     {
-      "id": "lVXsfWSmBRA",
-      "titulo": "NETO E MARCELINHO CARIOCA DETONAM VEXAME DO CORINTHIANS 1 X 4 PALMEIRAS ",
-      "canal": "Diversos FC",
-      "views": 17197,
-      "likes": null,
-      "comentarios": 17,
-      "publicado": "2026-10-12T04:30:45Z",
-      "duracao_s": 569,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=lVXsfWSmBRA"
-     },
-     {
-      "id": "1yV5m06mfVk",
-      "titulo": "REAÇÕES DO NETO, PALMEIRAS 4 X 1 CORINTHIANS BRASILEIRAO 2026",
-      "canal": "futebol noticias reações",
-      "views": 14483,
-      "likes": 525,
-      "comentarios": 9,
-      "publicado": "2026-10-11T22:44:39Z",
-      "duracao_s": 78,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=1yV5m06mfVk"
-     },
-     {
-      "id": "nXG8jh-HmzI",
-      "titulo": "CRAQUE NETO DETONA MEMPHIS DEPAY",
-      "canal": "Trincheira Corinthians",
-      "views": 13785,
-      "likes": 161,
-      "comentarios": 7,
-      "publicado": "2026-10-11T22:39:50Z",
-      "duracao_s": 29,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=nXG8jh-HmzI"
-     },
-     {
-      "id": "5lwgE_KLFdA",
-      "titulo": "PARABENS DEPAY  #depay #craqueneto #viral #corinthians #palmeiras #shorts",
-      "canal": "RED FUT",
-      "views": 11873,
-      "likes": 349,
-      "comentarios": 15,
-      "publicado": "2026-10-12T02:15:33Z",
-      "duracao_s": 26,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=5lwgE_KLFdA"
-     },
-     {
-      "id": "gSDu07YmghE",
-      "titulo": "Neto pede demissões e rescisão no Corinthians",
-      "canal": "FUTBOLÃO",
-      "views": 9823,
-      "likes": 273,
-      "comentarios": 12,
-      "publicado": "2026-10-12T00:05:24Z",
-      "duracao_s": 51,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=gSDu07YmghE"
-     },
-     {
-      "id": "405m4vzwB6U",
-      "titulo": "Neto detona Memphis Depay após goleada",
-      "canal": "FUTBOLÃO",
-      "views": 8763,
-      "likes": 214,
-      "comentarios": 13,
-      "publicado": "2026-10-12T00:03:58Z",
-      "duracao_s": 37,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=405m4vzwB6U"
-     },
-     {
-      "id": "wWLO0kQwblI",
-      "titulo": "O desabafo do Craque Neto no 4 a 1 de Palmeiras x Corinthians! 🚨 #shorts",
-      "canal": "Resenha da Bola News",
-      "views": 8542,
-      "likes": 240,
-      "comentarios": 15,
-      "publicado": "2026-10-12T04:16:23Z",
-      "duracao_s": 40,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=wWLO0kQwblI"
-     },
-     {
-      "id": "FRGlknHvZUQ",
-      "titulo": "𝐂𝐑𝐀𝐐𝐔𝐄 𝐍𝐄𝐓𝐎 𝐃𝐄𝐓𝐎𝐍𝐀 𝐌𝐄𝐌𝐏𝐇𝐈𝐒: “𝐕𝐎𝐂Ê É 𝐎 𝐌𝐀𝐈𝐎𝐑 𝐑𝐄𝐒𝐏𝐎𝐍𝐒Á𝐕𝐄𝐋!” 🤯🔥",
-      "canal": "OneSoccer Br",
-      "views": 7993,
-      "likes": 197,
-      "comentarios": 8,
-      "publicado": "2026-10-11T22:28:17Z",
-      "duracao_s": 63,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=FRGlknHvZUQ"
-     },
-     {
-      "id": "V-pGvophecw",
-      "titulo": "Neto: “Memphis teve influência na contratação do Seedorf”",
-      "canal": "Os Donos da Bola",
-      "views": 7819,
-      "likes": 291,
-      "comentarios": 19,
-      "publicado": "2026-10-12T17:14:52Z",
-      "duracao_s": 278,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=V-pGvophecw"
-     },
-     {
-      "id": "tKqafZOogls",
-      "titulo": "Muita mídia e pouca bola? Craque Neto e turma do Donos debatem Memphis | Aconteceu na Semana",
-      "canal": "Os Donos da Bola",
-      "views": 6851,
-      "likes": 75,
-      "comentarios": 2,
-      "publicado": "2026-10-11T20:20:00Z",
-      "duracao_s": 262,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=tKqafZOogls"
-     },
-     {
-      "id": "CTFslu9JiNs",
-      "titulo": "😂NETO DETONA MEMPHIS DEPAY APÓS PALMEIRAS 4 X 1 CORINTHIANS! NETO PERDE A PACIÊNCIA COM O HOLANDÊS!",
-      "canal": "GOLAÇO BRASIL",
-      "views": 5936,
-      "likes": 286,
-      "comentarios": 17,
-      "publicado": "2026-10-12T16:58:11Z",
-      "duracao_s": 1198,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=CTFslu9JiNs"
-     },
-     {
-      "id": "aXs-mt3RfM8",
-      "titulo": "Craque Neto SE REVOLTA com Memphis Depay: \"Ele tomando sorvete!\" 😂🍦 #shorts",
-      "canal": "Resenha da Bola News",
-      "views": 5326,
-      "likes": 210,
-      "comentarios": 6,
-      "publicado": "2026-10-12T04:41:38Z",
-      "duracao_s": 20,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=aXs-mt3RfM8"
-     },
-     {
-      "id": "jw5hVLx31M8",
-      "titulo": "NETO DETONA MEMPHIS DEPAY NOS DONOS DA BOLA APÓS GOLEADA DO PALMEIRAS #corinthians",
-      "canal": "Bola agora",
-      "views": 4766,
-      "likes": 154,
-      "comentarios": 2,
-      "publicado": "2026-10-12T18:06:52Z",
-      "duracao_s": 32,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=jw5hVLx31M8"
-     },
-     {
-      "id": "q3Ng1rHTeME",
-      "titulo": "Craque Neto reage ao Palmeiras 4x1 Corinthians #Shorts",
-      "canal": "Futibola",
-      "views": 4648,
-      "likes": 121,
-      "comentarios": 4,
-      "publicado": "2026-10-12T01:03:19Z",
-      "duracao_s": 40,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=q3Ng1rHTeME"
-     },
-     {
-      "id": "LLOPsafsU_U",
-      "titulo": "NETO CULPA DEPAY POR VEXAME DO CORINTHIANS ! #corinthians #derby #palmeiras #vexame #brasileirao",
-      "canal": "Futebol Em Pedaços",
-      "views": 4604,
-      "likes": 139,
-      "comentarios": 4,
-      "publicado": "2026-10-11T23:31:05Z",
-      "duracao_s": 57,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=LLOPsafsU_U"
-     },
-     {
-      "id": "nmzyxpuxgJU",
-      "titulo": "𝐍𝐄𝐓𝐎 𝐃𝐄𝐓𝐎𝐍𝐀 𝐌𝐄𝐌𝐏𝐇𝐈𝐒 𝐄 𝐂𝐎𝐁𝐑𝐀 𝐉𝐎𝐆𝐀𝐃𝐎𝐑𝐄𝐒 𝐃𝐎 𝐓𝐈𝐌Ã𝐎! 🚨",
-      "canal": "OneSoccer Br",
-      "views": 3477,
-      "likes": 89,
-      "comentarios": 6,
-      "publicado": "2026-10-11T22:56:27Z",
-      "duracao_s": 53,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=nmzyxpuxgJU"
-     },
-     {
-      "id": "v1-IssNAC_E",
-      "titulo": "DA VONTADE DE CHORAR.. NUNCA VI UM TIME TÃO RUIM! NETO SURTA COM ATUAÇÃO VERGONHOSA DO CORINTHIANS",
-      "canal": "Plantão do Fut",
-      "views": 2513,
-      "likes": 34,
-      "comentarios": 3,
-      "publicado": "2026-10-11T23:52:00Z",
-      "duracao_s": 669,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=v1-IssNAC_E"
-     },
-     {
-      "id": "O3E8VRfdH6I",
-      "titulo": "🚨 CRAQUE NETO DETONA MEMPHIS DEPAY APÓS GOLEADA DO PALMEIRAS! “NUNCA MAIS” E REVOLTA NO CORINTHIANS!",
-      "canal": "Futebol Update Brasil",
-      "views": 0,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-10-12T10:27:46Z",
-      "duracao_s": 348,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=O3E8VRfdH6I"
-     }
-    ],
-    "consulta": "Corinthians Memphis Craque Neto",
-    "n_videos": 25,
-    "mais_de": true,
-    "views": 685943,
-    "top": [
-     {
-      "titulo": "🚨POLÊMICA ! Neto põe culpa no memphis #corinthians #timão #Brasileirão #futebol #memphis #palmeiras",
-      "canal": "JogoAbertoFC",
-      "views": 264655,
-      "url": "https://www.youtube.com/watch?v=eA-0UeN1Log",
-      "publicado": "2026-10-11T23:37:21Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "Craque Neto pede a SAÍDA de Memphis Depay! #corinthians",
-      "canal": "Coringaço",
-      "views": 120476,
-      "url": "https://www.youtube.com/watch?v=U58dEkbatv4",
-      "publicado": "2026-10-11T22:48:53Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "Craque Neto detona Memphis Depay: “Maior responsável pela crise no Corinthians\"",
-      "canal": "Os Donos da Bola",
-      "views": 44402,
-      "url": "https://www.youtube.com/watch?v=0Fp3CLfH8No",
-      "publicado": "2026-10-12T17:07:50Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Brasileirão: Flamengo e Palmeiras somam 99,8% de chances de título",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Flamengo",
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 82.4,
-   "sinais": {
-    "busca": 70,
-    "aceleracao": 61,
-    "midia": 100,
-    "aderencia": 100,
-    "youtube": 60
-   },
-   "fator_categoria": 1.092,
-   "trafego_google": 0,
-   "busca_torcedor": "palmeiras x corinthians",
-   "termos_trends": [],
-   "n_fontes": 12,
-   "n_manchetes": 12,
-   "assinatura": "flame|titul|chanc|palme",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Flamengo x Corinthians: qual é o detalhe que vai decidir?",
-    "titulo_thumb": "E AGORA, FLAMENGO?",
-    "pergunta_enquete": "Qual sua opinião: Brasileirão: Flamengo e Palmeiras somam 99,8% de chances de título?",
-    "tecnica": "Pergunta aberta",
-    "ganchos": [
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Flamengo x Corinthians: qual é o detalhe que vai decidir?",
-      "thumb": "E AGORA, FLAMENGO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Meu palpite para Flamengo x Corinthians: [SEU PLACAR]. Deixa o seu nos comentários.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "Flamengo dispara na corrida pelo título e chega a 69% de chances no Brasileirão. Guarda esse número, porque ele muda a conversa sobre o Flamengo.",
-      "thumb": "69%"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Flamengo contra Corinthians vale mais do que três pontos, e os dois sabem disso.",
-      "thumb": "FLAMENGO x CORINTHIANS"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Flamengo x Corinthians parece um jogo com dono. É exatamente aí que mora o perigo.",
+      "texto": "R$ 1,3 milhão. No discurso, união. Na prática, essa conta não fecha.",
       "thumb": "NÃO É BEM ASSIM"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Flamengo dispara nas chances de título do Brasileirão; veja ranking",
-     "fonte": "Esporte",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNzhGMWVsY1Q5ZG9FVG1HSFJraVB4SHBWZXppVWxHdzVWak05VE5zWDMwN2lTUUdMd3FGVlkteG1DUENjcVd3TjhkSGFFSWN1ZFdSQzZZQmxmMEZueHlxelFTcUxVRmVPUDl1UFM2Q3BzYzJkSV9TMGY0U2Y0d3p2cG9NN2c5SEMxdld4UF9BWXNHUDAyYVVIRVNBeE5aaEc4WktBZ0FUTXZsODJySDd4VkxlVmdUX01FNDdrTzBoQVhHOXUyY3c?oc=5"
+     "titulo": "Após críticas de Gabriel Paulista, Conselho do Corinthians convoca presidente para prestar esclarecimentos",
+     "fonte": "Bahia Notícias",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeDRNcXNkemU0ZS1yT2R3RnItQnc5dE5PMHRtXzlFcUxUTnFHcmNabi1MY0dhN19tdTJEMjBSNG00ZS1sUXV1czZmS0hMOU54aVdvOGg0ODFRUkNWZXliYmF4TkJ1amd1SjJkT1hZMWFBclFvYmJROWlQa1l5M0VrMHdaMnpLX3RrX0ktMHBNNFhGWmpJZmtfSnNJUFJicXc3RTBFVGhVVDdQbGtMRDdEWV94cW5oeTZ6T2JFNlpMQmRvUVZ3Uk02TnppWmlJZTBWeFNRZUlyODktWS1UTVRsOGVWaklJODltQXhyNUZFNGIxeUU?oc=5"
     },
     {
-     "titulo": "Flamengo dispara na corrida pelo título e chega a 69% de chances no Brasileirão",
-     "fonte": "Agenda do Poder",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMU10SzhkS0ZDOEQxdnFMN1NSbk1LcjZzZTdXY09BOGdZbkNaUnJsSS03dDVWODd6WVVBSFRjc2tFZjJSelVYUjliOHNJQkZqTzNYMGp6UzdVLXVLdDJETEw3Qm4xTS1wRkU1dHdQQlpyalFNS25zTmo2eHY4NVM5NjUxU3VfZlpwclY2X0dtRFZRd3ZNSFpmUlVhNi1zVURRSWNDdUdiVDJBSm1m?oc=5"
+     "titulo": "Gabriel Paulista cobra proteção da diretoria do Corinthians após goleada no Dérbi",
+     "fonte": "BandNews",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdnNYZHBRekJ2RXkwQWZ6Q2F2Yy11b1RjV0t4cVAyTVZpa3ZpdzF6ZUw5NDhsWVRJR2tVSmVueVhobjhCbVRCaVRLV2JWaURpMnItdU9CbmduX1NFTXE0akdWRGFzckFmeWt4aVI0T2R3S2VSeXY3M0dkRUxhOXJFRlNlZHc1TktlWE1TaVZUaUozbThFM1dMZHhkVmFFY284eFpoZ3JhSjl6cmNYd0lUR2F4d2dGc3dT?oc=5"
     },
     {
-     "titulo": "FLAMENGO COM QUASE 70% DE CHANCES DE SER CAMPEÃO BRASILEIRO SEGUNDO A UFMG! OLHA O CORINTHIANS LÁ EM BAIXO!",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ULVc2dHg1ejBpNXl4V1hQOXVKU0xhQTllUGdvZlJpRkZ1MEdHdXBSZzFtdlFVU2Z1XzRTNFByX3M0dklDdlJRNElEVUU2eXF6c2UtSHJR?oc=5"
+     "titulo": "Gabriel Paulista chora, desabafa e critica diretoria do Corinthians: ‘Estou vivendo um pesadelo’",
+     "fonte": "Estadão",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVURHS3dfZ01wTDg4cnRNZXVBOVRkeFJFMDNGWGtRZi04c0R6ZUlFYTdVS3FDV0p5ZnBSaTgtQ1JEU3NaeHB6bHctSXFkMnlEcFBJOVdWaGVTbUcxRWc4UmRkNTc0VHIwR0p3OUtOZW5tcWRzRFJUZmZjcVVyMlZrUWY0ckhucWFfMExlYWdHdkRuRTN4eF9oMFE1cm9lMFM1SGhaMzJ4NEx2V1hHWEowUHcwTnYweE03QUxfZlBrZHJNUV9mX2gyV3Y1OXF3U09Ya1AtVk9nZnJwSXdjcUNDMWY1X1lqUQ?oc=5"
     },
     {
-     "titulo": "Brasileirão 2026: Flamengo e Palmeiras disputam título ponto a ponto",
-     "fonte": "Folha Vitória",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUVNOZ2lPMUV1T0duVEtPcmJYZ0c5ZDExMEFVcm1wUDZWeWpfYTRnbVRIMVRldG5xNWNQczh6cnk4djJRODlIUm01VTBDX282RVhVUFlHNUhHR3BhSkRYaEY1bWVFTEYxRkV0OVB3WElBZHMyeWZtUmRJZHQ2TzJXU2psX1BDNjRjb0xadXJKbU1Nank0Sk5ieVNLY3hhSndtdFFnSlVzdnFyZUpLMVpydzZBQjhTZHFyY3RiSUhFVFp1QQ?oc=5"
+     "titulo": "Seedorf receberá o mesmo que Yuri Alberto no Corinthians e R$ 1,3 milhão a mais que Gabriel Paulista",
+     "fonte": "www.jornalcruzeiro.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYVpCTzEzNEdUdHF6TDgzMHFiWk5hSjR0Y3hJMjZaMjFwSXU4MGRFNjJ2SzlmZE5MeWdFOE5aSU8zQnVweldlcE5tb2p0TWJQTGVibkJLTG93Zm1CQmkyWGVTNnR2NE4tUkkyMTl6ZnI3c2pXRkM2VGhMSzBpV1lCa3d6d2E5Qy1nSHZld0NLYklnbmlhckNmeEw3ZjBoLXpxTlVlZEFkV0k3dlkxM1JTbkY3dzAzRHh0aEI0czdWMmk3TFBZQnJteXZCYjNQVjNrUC1yZFppdTJsUVhm?oc=5"
     },
     {
-     "titulo": "Flamengo sobe para 69% de chance de título; Palmeiras cai para 30,8%",
-     "fonte": "Metrópoles",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYkx6YjhaTFVWZmdMRy1rT2NhZDVzOC1FVzRFbjhGT09PZUttTjV4SDYxX0ZwTTVBbmk1R2UtVDQ0WWxnMEFkb2FpcU8zWWJ0U0dyRjFWYWpUQkdwcy1lQm04OWhydkJBRG5Ba01LdmtqSE9BM1dGSHlIZlAxaks4Nnp6XzAxSWR3MmVRZFVucktfaXlXR3RZRUZRMmc0LUdYYUE?oc=5"
+     "titulo": "Bastidores: desabafo de Gabriel Paulista expõe atrito entre elenco e presidente do Corinthians",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNc09aY3lxeVJxZjJKTU54eVJ6V0lLcGhFZUVsajQ3SkdGTDQ4ajVoXy1sSTJfYlBiS25vSlZ4YldaQzA4enpWTW8tcGhsWjl3X0xZa1BYc25fcmFRNk80TUZ4cVdVTWpseExKTDlwdU1MUVVBam1rOU90ZEo5SjB0ajdyNDd6Y0IyaG9xRWVncjFBNXkyMXZOMVBMR2JYbDVPcHJvVUd4djk0dk1tQ2loZllpcXQ4Q0phaGpjeUhWdVRkUnZtRnpMNFFQZnNhQmswemdvRkxlS3d6UGlFR0VWYUZlRVhrS05nLTIyOE5WcFdGR0JYLTRmd9IBhwJBVV95cUxPVHkyNXY0ajVQU1F3TnF6ek92c2p4VmJLM1d1WHZOUS0xSUVibi1OYUtiZmNQa0pMWlpPV1NRbkpxVXRPZndscjBnSThWczh1T0JjNGlWZWZJRy02ckxKTkoxY3dTdDREd2xveS00Rm9CUV9zbDQtRGtMUndfeG00VUwzd25EdmRzakRqdUhOS2hvOENMWEhPZXVUNy1FSHlfRm1ESVFiNGI3dkIzYUpGLXBkLVAxcEhuXzF0cklNcGZZalJXV1hqaHFxTVFCQlZIdzA3UzdTLWdUMy1YLVQ1d0p6YmcxTXZjMjNBbWxaLTF6UVp4SDh4a2RpendMSU1NeHoyZVN4MA?oc=5"
     }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "66ayXAkh1OQ",
-      "titulo": "VEJA AS CHANCES DE TITULOS DE FLAMENGO E PALMEIRAS  #flamengo #shorts",
-      "canal": "Giro do Flamengo",
-      "views": 5195,
-      "likes": 418,
-      "comentarios": 3,
-      "publicado": "2026-10-12T15:52:34Z",
-      "duracao_s": 63,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=66ayXAkh1OQ"
-     },
-     {
-      "id": "sXix9BbAKyg",
-      "titulo": "TABELA DO BRASILEIRÃO SÉRIE A | Flamengo e Palmeiras separados por 1 pontos",
-      "canal": "Futebol com Zé",
-      "views": 1345,
-      "likes": 5,
-      "comentarios": 0,
-      "publicado": "2026-10-11T16:42:38Z",
-      "duracao_s": 31,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=sXix9BbAKyg"
-     },
-     {
-      "id": "BMNxCzwGGIQ",
-      "titulo": "Flamengo e Palmeiras: Disputa acirrada pelo título do Brasileirão",
-      "canal": "Flamengo 247 - Notícias sobre o Mengão",
-      "views": 1,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-10-12T07:42:02Z",
-      "duracao_s": 229,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=BMNxCzwGGIQ"
-     },
-     {
-      "id": "_HWgYb85F7w",
-      "titulo": "FLAMENGO CAMPEÃO? Revelado o motivo do Fla ter mais de 70% de chance no Brasileirão!",
-      "canal": "OPINIÃO E FOCO",
-      "views": 0,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-10-12T18:21:06Z",
-      "duracao_s": 105,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=_HWgYb85F7w"
-     }
-    ],
-    "consulta": "Flamengo chances título",
-    "n_videos": 4,
-    "mais_de": false,
-    "views": 6541,
-    "top": [
-     {
-      "titulo": "VEJA AS CHANCES DE TITULOS DE FLAMENGO E PALMEIRAS  #flamengo #shorts",
-      "canal": "Giro do Flamengo",
-      "views": 5195,
-      "url": "https://www.youtube.com/watch?v=66ayXAkh1OQ",
-      "publicado": "2026-10-12T15:52:34Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "TABELA DO BRASILEIRÃO SÉRIE A | Flamengo e Palmeiras separados por 1 pontos",
-      "canal": "Futebol com Zé",
-      "views": 1345,
-      "url": "https://www.youtube.com/watch?v=sXix9BbAKyg",
-      "publicado": "2026-10-11T16:42:38Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "Flamengo e Palmeiras: Disputa acirrada pelo título do Brasileirão",
-      "canal": "Flamengo 247 - Notícias sobre o Mengão",
-      "views": 1,
-      "url": "https://www.youtube.com/watch?v=BMNxCzwGGIQ",
-      "publicado": "2026-10-12T07:42:02Z",
-      "do_canal": false
-     }
-    ]
-   }
+   ]
   },
   {
-   "tema": "Seedorf tem data para chegar ao Brasil e comandar primeiro treino no Corinthians",
-   "categoria": "Técnico",
+   "tema": "Cartola 2026: Giay, do Palmeiras, atropela contra o Corinthians e é o Craque da Rodada 30",
+   "categoria": "Jogo e resultado",
    "clubes": [
-    "Corinthians"
+    "Corinthians",
+    "Palmeiras"
    ],
    "foco": true,
-   "nota": 77.4,
+   "nota": 62.4,
    "sinais": {
     "busca": 70,
-    "aceleracao": 70,
-    "midia": 100,
+    "aceleracao": 57,
+    "midia": 46,
     "aderencia": 100,
-    "youtube": 59
+    "youtube": null
    },
-   "fator_categoria": 1.0,
+   "fator_categoria": 1.092,
    "trafego_google": 0,
-   "busca_torcedor": "seedorf corinthians",
+   "busca_torcedor": "giay palmeiras",
    "termos_trends": [],
-   "n_fontes": 16,
-   "n_manchetes": 19,
-   "assinatura": "seedo|corin|trein|prime",
-   "ja_coberto": null,
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "corin|giay|palme|andre",
+   "ja_coberto": {
+    "titulo": "PALMEIRAS  X  CORINTHIANS 30ª RODADA",
+    "url": "https://www.youtube.com/watch?v=PuOgQ5uhNOo"
+   },
    "sugestao": {
-    "formato": "Opinião forte (60 a 90 s)",
-    "gancho": "Minha aposta: essa história do técnico do Corinthians termina [SEU PALPITE]. Volta aqui e me cobra.",
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Giay, do Palmeiras, atropela contra o Corinthians e é o Craque da Rodada 30. Eu aposto que esse resultado vai pesar lá na frente. Você concorda?",
     "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Seedorf tem data para chegar ao Brasil e comandar primeiro treino no Corinthians?",
+    "pergunta_enquete": "Qual sua opinião: Cartola 2026: Giay, do Palmeiras, atropela contra o Corinthians e é o Craque da Rodada 30?",
     "tecnica": "Aposta",
     "ganchos": [
      {
       "tecnica": "Aposta",
-      "texto": "Minha aposta: essa história do técnico do Corinthians termina [SEU PALPITE]. Volta aqui e me cobra.",
+      "texto": "Giay, do Palmeiras, atropela contra o Corinthians e é o Craque da Rodada 30. Eu aposto que esse resultado vai pesar lá na frente. Você concorda?",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Dado",
-      "texto": "O torcedor está digitando “seedorf corinthians” no Google agora. A resposta não é tão simples.",
-      "thumb": "VOCÊ PESQUISOU"
+      "texto": "4 x 1. Grava esse número: ele explica boa parte do que está acontecendo no Corinthians.",
+      "thumb": "4 X 1"
      },
      {
       "tecnica": "Conflito",
-      "texto": "Seedorf tem data para chegar ao Brasil e comandar primeiro treino no Corinthians. O técnico do Corinthians está contra o relógio: cada jogo agora é uma prova.",
-      "thumb": "QUEM TEM RAZÃO?"
+      "texto": "Giay, do Palmeiras, atropela contra o Corinthians e é o Craque da Rodada 30. Quem venceu comemora; quem perdeu tem uma conta para acertar.",
+      "thumb": "CORINTHIANS x PALMEIRAS"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Todo mundo culpa o técnico. Eu acho que o problema do Corinthians está em outro lugar.",
+      "texto": "Giay, do Palmeiras, atropela contra o Corinthians e é o Craque da Rodada 30. O placar diz uma coisa. O jogo, visto de perto, diz outra.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Se o técnico do Corinthians cair amanhã, quem você colocaria no lugar?",
+      "texto": "Giay, do Palmeiras, atropela contra o Corinthians e é o Craque da Rodada 30. O que esse resultado muda daqui para frente?",
       "thumb": "E AGORA, CORINTHIANS?"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Zagueiro do Corinthians destaca liderança de Seedorf e projeta reação com treinador no Brasileirão",
-     "fonte": "Meu Timão",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaWxZYmVwTE5qUTl6bC1VR1pfd1NxWnlwR1czbVR2eWs5QVdXUGV4OHVXQmcyV1V0VEFPLWwtNC00ZENlNncxR0VpQnNlbTJ1NTU0dXIwa0dxTHVkbGFqNkZaRUFCc2lZTWEwcWFGcV9LLWFoemJpVVVDaHBYcmNvbkYtOVFjTnFzdG5BRU0wQUc1bEF3VnI3RGE2S28yNHNieXVvb3IzRjM4SWdHVTBZRGs0MEtpWmh5MUFHWC0tMW03c0p2XzFyeEFPTWowdUpWOW5EZS1QUEplWGdQdklMNGtzUXpxU3pnak0tNXVR?oc=5"
+     "titulo": "Cartola 2026: Giay, do Palmeiras, atropela contra o Corinthians e é o Craque da Rodada 30",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOd21jX2VVZVBKOTE4cVlRa1RDcGp6NHk3bVp1YnpoU0l2ZlNlOW16M042a004ZmExOXZ0RDNNZmtDOGtGNUVPdVFvSEdvWURiekpPQTFJYlpSOFBLSGtLWms2TUxnYVFWVmVETjFwMGdrNzlaMnp1LVRGTHEzSVg3SFJGMGRBQ0pCX2NXU015VldGdFEteDk4MEk4MlBMdkhQclBuX2dQZHBrTTJhdXVobzh5OXpDMnRvV3hiaUpLYTR5QzR4elgtNVNISEFQUXN6QUtMZzFueU5jS2Q5aXhxNk93eWdpNlEwN0hhak13?oc=5"
     },
     {
-     "titulo": "Corinthians detalha chegada e apresentação de Seedorf",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQjFIM2t4VVZBOG5YX1hRaWtMNTVMSXdRVi0zV2k1UXFld01jblRKNXdFWGluS3JyYmNOaG81MkwtOGRwV2tCeGtXNmVTYnUxOXhoNFA5T2lUVlR3OUtDQk9YWWlzUGlpTWVQZFpmVnRrYjhTN0lyc2xueFAyaW1mc3dKclkzY2o5dzc3ZnNBUFR3NkdyRm9sUEp0Y2Y1RXNRLUExT3NiTWc3QXdCQzJmNml3?oc=5"
-    },
-    {
-     "titulo": "Seedorf chega ao Brasil para comandar primeiro treino no Corinthians",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUzFQNlhJdWxkT0gxelVZVTFNVEtiVVo1bGwwaWFOYk9IUjBvdFFhdnZPS0ZDLS0zajUtT044bEZ5d1pySjRCQ0RXYlpNclRibFJBRmpnWm9STW1ieHo5VDRpY1lkbkFyWDExY2owWHNGZ3FWY0tNQ0pJNGFPTmc0TXZtQzBVU0owLTZucE5rS1RBOHVRTlkwVjViY0tnZUM2Uk5MWnFUMkUzNzg?oc=5"
-    },
-    {
-     "titulo": "Seedorf tem data para chegar ao Brasil e comandar primeiro treino no Corinthians",
-     "fonte": "Estadão",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRnZMLUZvYXdSUWJxSG0tcE96eVlHWFkwZ1NFVGR5OHBLX0NoRmFYR3pRYXNXTVBidWk0WVZfZ3drTnN0RkwzSlJORDBSZ3puNlp3d21tQnJPVG5ROFVUWF91MnhWVEpDV05UV0NnUGRWMUxfY1MyaGxuMWw5ck9qNzdWX1A5WnNKUkxRVGNzTU4wX1JYeWFNcmxFTk5neUczTFprSkNqVnBVTzU5aVZVdWViMEZKQW85YW5qcjdjcHdmTVHSAcgBQVVfeXFMTVlRVng5bTB0WnlqZDZkaGxoZWNyd3kzQ3daN0lPaGlTbVY4ZmJWSWlIVlBqX3hRX1Bad3RzSENaRmZmVnlhN3RMYXVQcmFfX2hiS3BiWHdmQU5aVm5ZNWVnbUVuQ2FZVFdkZDQ2LURxdmxfeDNNcV85Y0lwWkJ4WGc1X3RZUHZ6NWhQNTVBYng4enMtVlQ3S3NCTV80X2NxY3hMenBRUFVSdlhTVnRxN3pvZnJyRU5kOEcybUpGSlAwTzJCSkU1NTY?oc=5"
-    },
-    {
-     "titulo": "Postado às 13h00 | 12 out 2026 | redação Seedorf: a carreira e como pensa o novo treinador do Corinthians",
-     "fonte": "DeFato.com",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnRfNGVMaXBfUWtlV2QwMVI3azM2Mjd0U0M5VUxYS200Q3RhWFc5U3gtVW93eHhVem52MkZKSUpFSURoOURQMHA3aWc3dkhWWXlkaG53WUxTNDZYQkR2MVY0QjNKa0hTRXVTTzBZNlJqU0NpNWxaS1RaVUpLZDUzZWxjeE1tYTRtV2VPc2Y3MlBjMnkxUTNsb0d0eXN2ZFE?oc=5"
+     "titulo": "Palmeiras 4 x 1 Corinthians teve 'previsão' de Abel sobre Giay e recado de Andreas Pereira: 'A gente estava sobrando'",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZl9oTUVIN2NMTkFrT0dLWkRiS2pWYTFTY1AwSzljN0hybDQ1amJkMkdaUWhJZWRYanI1Qzk5V3dKUUMzeG1yVFI1UTBlWXE2RmM5cUxRdjVRcm9YSHJvMjhhRkwya0kyblA0eFcxOWVXS28tazVVaGljX2dySUNsZ3RULWhxWFROXzFoOFhBb0swN0g0OEVvVGtmcjhxbm5zUnRaRjV0clVISFBjdHdLLVpuYkpZSHJCc1lkbXBGa0pEMVFOaEUtT2RDZUpMcXZSV2ZZYjRJc3E1RGhhQmhWV0F4MUNPU21RSjBQRU12VmZGNzU4d2ptYWNXVWpkS0ZGYnNRdU9n?oc=5"
     }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "NL5wbLtzdRI",
-      "titulo": "Clarence Seedorf chega quarta-feira no Brasil",
-      "canal": "Jogo Aberto",
-      "views": 4141,
-      "likes": 129,
-      "comentarios": 5,
-      "publicado": "2026-10-12T16:28:56Z",
-      "duracao_s": 144,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=NL5wbLtzdRI"
-     },
-     {
-      "id": "DabQa-29US8",
-      "titulo": "“Seedorf pediu treino em dois períodos”, diz luis Fabiani",
-      "canal": "Os Donos da Bola",
-      "views": 2529,
-      "likes": 136,
-      "comentarios": 5,
-      "publicado": "2026-10-12T17:56:16Z",
-      "duracao_s": 92,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=DabQa-29US8"
-     },
-     {
-      "id": "1M8XnKeK2jA",
-      "titulo": "🚨 SEEDORF CHEGA QUARTA AO CORINTHIANS! PRIMEIRO TREINO JÁ TEM DATA! #futebol #cortes #corinthians",
-      "canal": "CortesBR1000",
-      "views": 1117,
-      "likes": 38,
-      "comentarios": 0,
-      "publicado": "2026-10-12T16:55:22Z",
-      "duracao_s": 84,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=1M8XnKeK2jA"
-     }
-    ],
-    "consulta": "Corinthians Seedorf treino chegar",
-    "n_videos": 3,
-    "mais_de": false,
-    "views": 7787,
-    "top": [
-     {
-      "titulo": "Clarence Seedorf chega quarta-feira no Brasil",
-      "canal": "Jogo Aberto",
-      "views": 4141,
-      "url": "https://www.youtube.com/watch?v=NL5wbLtzdRI",
-      "publicado": "2026-10-12T16:28:56Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "“Seedorf pediu treino em dois períodos”, diz luis Fabiani",
-      "canal": "Os Donos da Bola",
-      "views": 2529,
-      "url": "https://www.youtube.com/watch?v=DabQa-29US8",
-      "publicado": "2026-10-12T17:56:16Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "🚨 SEEDORF CHEGA QUARTA AO CORINTHIANS! PRIMEIRO TREINO JÁ TEM DATA! #futebol #cortes #corinthians",
-      "canal": "CortesBR1000",
-      "views": 1117,
-      "url": "https://www.youtube.com/watch?v=1M8XnKeK2jA",
-      "publicado": "2026-10-12T16:55:22Z",
-      "do_canal": false
-     }
-    ]
-   }
+   ]
   },
   {
-   "tema": "Casagrande: Memphis Depay vestir a camisa 10 do Corinthians é revoltante para mim",
-   "categoria": "Jogo e resultado",
+   "tema": "Danilo, do Flamengo, se manifesta após cirurgia e brinca com filho torcedor do Fluminense: \"Chorou em dobro\"",
+   "categoria": "Lesão e desfalque",
    "clubes": [
-    "Corinthians"
+    "Flamengo",
+    "Fluminense"
    ],
    "foco": true,
-   "nota": 75.5,
+   "nota": 61.8,
    "sinais": {
-    "busca": 75,
-    "aceleracao": 61,
-    "midia": 58,
+    "busca": 50,
+    "aceleracao": 40,
+    "midia": 75,
     "aderencia": 100,
-    "youtube": 56
+    "youtube": null
    },
-   "fator_categoria": 1.092,
+   "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "memphis depay",
+   "busca_torcedor": "flamengo x fluminense",
    "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "corin|depay|memph|janel",
+   "n_fontes": 5,
+   "n_manchetes": 5,
+   "assinatura": "flame|cirur|danil|flumi",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Depay perderá possível estreia de Seedorf no Corinthians e terá janela de 12 dias. Parece só um número, mas ele vai pesar nos próximos meses do Corinthians.",
-    "titulo_thumb": "12 DIAS",
-    "pergunta_enquete": "Qual sua opinião: Casagrande: Memphis Depay vestir a camisa 10 do Corinthians é revoltante para mim?",
-    "tecnica": "Dado",
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "De um lado, o Flamengo precisando de resultado. Do outro, o departamento médico pedindo calma com Danilo.",
+    "titulo_thumb": "SEM DANILO?",
+    "pergunta_enquete": "Qual sua opinião: Danilo, do Flamengo, se manifesta após cirurgia e brinca com filho torcedor do Fluminense:?",
+    "tecnica": "Conflito",
     "ganchos": [
      {
-      "tecnica": "Dado",
-      "texto": "Depay perderá possível estreia de Seedorf no Corinthians e terá janela de 12 dias. Parece só um número, mas ele vai pesar nos próximos meses do Corinthians.",
-      "thumb": "12 DIAS"
-     },
-     {
       "tecnica": "Conflito",
-      "texto": "Memphis Depay vestir a camisa 10 do Corinthians é revoltante para mim. Nem todo mundo no Corinthians vai gostar disso, e eu vou explicar por quê.",
-      "thumb": "QUEM TEM RAZÃO?"
+      "texto": "De um lado, o Flamengo precisando de resultado. Do outro, o departamento médico pedindo calma com Danilo.",
+      "thumb": "SEM DANILO?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Memphis Depay vestir a camisa 10 do Corinthians é revoltante para mim. Parece que está tudo resolvido. No futebol, quase nunca está.",
+      "texto": "Todo mundo diz que sem Danilo o Flamengo afunda. Eu não tenho tanta certeza, e vou te mostrar por quê.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "O que o Corinthians precisa fazer para vencer esse jogo?",
-      "thumb": "E AGORA, CORINTHIANS?"
+      "texto": "Danilo, do Flamengo, se manifesta após cirurgia e brinca com filho torcedor do Fluminense. Quem entra no lugar, e o time aguenta?",
+      "thumb": "E AGORA, FLAMENGO?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Eu aposto que o Corinthians [VENCE / EMPATA / PERDE], e explico por quê. Qual é o seu placar?",
+      "texto": "Danilo, do Flamengo, se manifesta após cirurgia e brinca com filho torcedor do Fluminense. Meu palpite de quanto tempo esse desfalque vai durar: [SEU PALPITE]. Qual é o seu?",
       "thumb": "MEU PALPITE"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Casagrande: Memphis Depay vestir a camisa 10 do Corinthians é revoltante para mim",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQm92M0Znc2l6UXFIbUlRNnhYMmhmbEZyZ2hScGtIczl2Y09tbm41X3lJdGYtaGd5dlNiaW51aUVOM3cydEVwMi05Smd2aFpWbVNvdmExZ1FqbzJkY2NDeUxobUlfZGV2bElEREVEZEdSNERwMV8wQ0hmSDRTbXlyTUtnaC04SEQ2R016VDJpc0xtOWZEWXk3NTNFTG84QTM1bjJJeGdLQzFHMVZRYXd2M3Y0WWJBWk01V2QxakpBV1puSW1KQ3RuVEJza2hZYXdJZXBjYU53?oc=5"
+     "titulo": "Ecos do Flamengo x Fluminense: Danilo atualiza após cirurgia e manda recado",
+     "fonte": "Rádio Itatiaia",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxON0hRVjd3VXBuS1ZLVkExVmFqV3EyLXVSRVduMnczY0QxeWxuLWh1S1QyYzJjZW5XTzdtVmhXdFRKUmkyLURib0Q2SGxPTkRwSmJwa1RLZFJkVGRKcnJHallDN05kQ1VCZlFxV2FDbUNpSnJMMnkzQVUwVU9HS2Nza3psV2FpbUxKOWZUcThTR1VrS0RZQ1RjTENFRW1XSkwxVVVvX1gwcHJDQWVxakUyU1dNcGN0NjU0VFZ4dDE3R21jZlBSWjdCbEVweVNZUUxPRTg5SV9fNWFNOU9LWWF0VTh1bEhsR3A1WEZydTZ0TWxhbW52?oc=5"
     },
     {
-     "titulo": "Suspenso, Memphis Depay perderá possível estreia de Seedorf no Corinthians e terá janela de 12 dias sem jogar",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb0VtQ2hZTjg2Rm5jQTFrSnVUa2FBX1FsZU01N1VYNXUwZm8wUDhrOU5pMGNrLUdGcXFuQm9jYnJ5Nlp1WVlJLXhyVlVkd1VNbGVERXo4Mk5NOHhfaHl4b3pEV3Qwb1kxY0FNVkxKNmRrcGkxSElxbG56U3RuNnBHNkZZN2owRmFiVE5QRlBmbjlodkwyZWllYVJVTVlWRFlPbjU1dlhvaUxob1IwS2x4SWU0QjlBNG4yREZiS0NvNlRFVURFUUJaMEVlWUcyRFYtUmh4NXdOa3liZC1s?oc=5"
+     "titulo": "Craque do Flamengo se manifesta após cirurgia: “ Em breve estou de volta”",
+     "fonte": "Bnews",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcGdtVDVQUExwQk1MOTIxb1p5V1F3cFo4dTRXaGhjV0NNTVk1a0pGVmlnaFRBalk2RTVCZHNYSE5ZemtwMzlZUExJQmpHMHA0MTlYS3k0LWdUSzduQm5pYlBPQjZPbnRMR2ZveUUzcUR2bm5mS25Galk0cWxfRnNlaXAxNENsUG9vajktTWhqdkRTWlBlb2w5OGMtbmNsVFh5NDBmdzBWM01aWTVKeGh3TFNVUGxVcHBsVEstSNIBvAFBVV95cUxNcGdtVDVQUExwQk1MOTIxb1p5V1F3cFo4dTRXaGhjV0NNTVk1a0pGVmlnaFRBalk2RTVCZHNYSE5ZemtwMzlZUExJQmpHMHA0MTlYS3k0LWdUSzduQm5pYlBPQjZPbnRMR2ZveUUzcUR2bm5mS25Galk0cWxfRnNlaXAxNENsUG9vajktTWhqdkRTWlBlb2w5OGMtbmNsVFh5NDBmdzBWM01aWTVKeGh3TFNVUGxVcHBsVEstSA?oc=5"
     },
     {
-     "titulo": "Memphis Depay recebe terceiro cartão amarelo e desfalca o Corinthians contra o Vitória",
+     "titulo": "Danilo, do Flamengo, se pronuncia após cirurgia e faz brincadeira com filho",
+     "fonte": "CNN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb19JeU1VOWttQVJnMHM2cXJZYjlDR05LME85RU01bE90ajNjeVo0aWFWU1M2WThvTEZmckEtZGJEUUNqZzhXX2EtSDZ3bVY5Z0hRRklwbV95T2YwVXYwWEJ6amRqeDVzX3c5Y0wwUHlBWkFJT2QyWC1lWHItdFVNd2NtbE1adEFvYngyY2MzcnJHdHBlQ2pnQzRoQ0p2SFIxZGhLYTV5c25Hb0FSZXNGR0x2bXdSejA3VThORTA5LXZJOTFEUkFBcQ?oc=5"
+    },
+    {
+     "titulo": "Danilo, do Flamengo, se manifesta após cirurgia e brinca com filho torcedor do Fluminense: \"Chorou em dobro\"",
      "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcVRZTFo2RDNlSnREZUp6dGlOcHo5cGFacm9vMzFuejgxdlpkSnk3NnpZb19Xb1NLUnpSeUZpamd6Mmx2S1ZCNlpmMXQwVGNtVmJsazJoWW8yd3Q3Y3VaTGgyZjdSNTQ0OEltblFmMV9nYUY2cVBXaWNubFJ0V0tqU1RXeXFYTFhkWkN1ZEt2WHE5WWJVb0NEVnZQcTV5VTZvaklJS1lzdTRvYk9Bbkk1ZUNZUWMtcEY4cFNGWHR6eXBKSW5IX0N5eXRUczVINWFrNElqeXlfZkY1aXZVd0hIUC1DMXp0MWI3bVpuLVdMa9IB_gFBVV95cUxPelh3STdWQzdadUYweDI0QXRnTnY5SzY2c1JLdkloTS1iWko0YnQ5bFlodWFrd1FwTXIyaDNjRk5NeWxqRU9yWFd5UE04eWNuQUZYeUlWVzdsakJiX0RtcTdadklzSHRTWW1sQ0ZaMV9pbVlTRFNfTjZjejN3SlIxVVMtWGI5Zld6c0hGYWxKbktjQWpROFE3cXJqcEUwcElGMWNiUHZDRUFObXFoVlhKWUVSd2dYUWhWNFlyT2tkYVpCZ3ItcG53N3dMT1VEbVdwdkRkSmxMd3oxTnFERmZvaWxlYTc5M2pqQWJzaGxsWkswd2swTHJjLUtJUC1xQQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNd1NEV2s2Y0dac01RcE11b3F1enlHaG5LS2NuS2l3SkJoSEdqZVduNFY4ckIxMTVHbFFFSzdqUjBGbTAyVGg5TlpvUUNtSkQ0QlBzZGVmNk4xRDhIWVlDV0xKeUwxeXdmXzZDRjF4UFRZXzEwWDhnMUh3VEt3ZVU2QVQ5Qjk3Wk12Wkh3UWRRejJoUGRLS080ZUlWd3lDUHBVT0JpRnM5LXYzdU5SNHJSUW1kM0oxaDlWOU92MGwwbHpiUWZOcnFqMHJCWURQOGpKNEtpOXZiZncyRS1QNHJOWFlyUVpGU2NhSkVxRllYcmNKaFhUMUVIeW1SUl94ajBBeEHSAZACQVVfeXFMTTJ0emdwZlBEeVBsYzd4WmdwRVdwWDNHZ1lTV0ViM3RrWXhCeEdPV0ZkWHh4SERNUml0aUs2c2RoYUQzQU9sbE9pMTFqNDNQc1J6UjdIVmF2Vjh1NWNSZXFpNWV5WEUtUzN5UTB2cTJ0enBuOW5aczRwSk9iOTBYVU9DNTg4UC1JWThLQkhBWGxPS240ZVBGQ1hoS0NWUTZucVc5V3VYQlRpXzUtY0dWVFd6aHZ5eUtzSFA2OGVtT0dTYk5NNzVNVUhvRENzckEzenJWZDVUTEFXeDJseFQ4RUtNTGtmeko0RVNGV1dwcmxvNk5Ia0FGMVFmSURNTlpqUnExQ0p6a3lENjdYMUFldDc?oc=5"
+    },
+    {
+     "titulo": "Após cirurgia, Flamengo vê volta de Danilo ainda este ano como improvável; jogador ficou desorientado no vestiário",
+     "fonte": "O GLOBO",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPS0VZS0xGUURfenlMckI3MFpEalM5QkxadnhVX3p0dmZJWUhVMmR3dEJJWHFJRHRzaF9DQTBxTUgxbFRUOF9Yc2RLUDY2ZTZLMzFXdGl1TnZHMnpHZjlvNTFvWVpmR0Q5YXFtd3BKYk10OTFiYUFKRnBPdDNfRDRUX0Q0R1FvNWE2ejdWVmxvdmcycC0xTFVnanNaNWRIOWw4WDg5RnMwQ3psS1h4VEJWTmRWSnNKeUplN2ZuRjdJdFNMcWtQV0c4a21DcEQxbnhzbDlBNXNoc29QY2V0RER6MEFyNlI0emJiR1NoTk9vbHY2YXJjNXdn0gGGAkFVX3lxTE5MbTNaZUtJVjVNLXNROGowTHFjcUpRYWF5cmJBM3pKZ1l3eVVEd3NLZW0xMjlFb1dmZDZ2c25GZEl6TDF1TGpiNGJmaDZGOGoyV3ZRdjQ5MXdfejFvYlBpbm5nckpvc2ozZUc1MnFHMmJ5by1UNzZUcXBDM1ZoWTJJUm9JOWNXWkRyN0JVd3MzM253LUVyUkMyTTBZVTRLVXhGSEx0SWhxNU83TXFsUmJaS3R0ZDNMQTBiR1JJREFoSEp5YmpUc2dtb0V4Rzd6blYyNTk3LXVTTWhhdEtQcl9ibHd6dmc5M0g1eVpOVVBJZS14aVdZc0JHMVFhR2QteEU2S2RTY3c?oc=5"
     }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "aXKnS05wniE",
-      "titulo": "Casagrande detona Memphis Depay! #corinthians",
-      "canal": "Coringaço",
-      "views": 6097,
-      "likes": 845,
-      "comentarios": 95,
-      "publicado": "2026-10-12T18:07:27Z",
-      "duracao_s": 58,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=aXKnS05wniE"
-     },
-     {
-      "id": "Ly4iYLmpWNA",
-      "titulo": "CRÍTICAS AO MEMPHIS DEPAY#memphis #corinthians #neto10 #casagrande #marcelinhocarioca #futebol",
-      "canal": "Só foot corts",
-      "views": 188,
-      "likes": 4,
-      "comentarios": 0,
-      "publicado": "2026-10-12T19:49:01Z",
-      "duracao_s": 46,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Ly4iYLmpWNA"
-     }
-    ],
-    "consulta": "Corinthians Memphis Depay Casagrande",
-    "n_videos": 2,
-    "mais_de": false,
-    "views": 6285,
-    "top": [
-     {
-      "titulo": "Casagrande detona Memphis Depay! #corinthians",
-      "canal": "Coringaço",
-      "views": 6097,
-      "url": "https://www.youtube.com/watch?v=aXKnS05wniE",
-      "publicado": "2026-10-12T18:07:27Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "CRÍTICAS AO MEMPHIS DEPAY#memphis #corinthians #neto10 #casagrande #marcelinhocarioca #futebol",
-      "canal": "Só foot corts",
-      "views": 188,
-      "url": "https://www.youtube.com/watch?v=Ly4iYLmpWNA",
-      "publicado": "2026-10-12T19:49:01Z",
-      "do_canal": false
-     }
-    ]
-   }
+   ]
   },
   {
-   "tema": "Flamengo critica arbitragem e cita nove fraturas em jogadores no ano",
-   "categoria": "Arbitragem e VAR",
+   "tema": "Ao vivo: Flamengo x Fluminense | 4ª de final | Copa do Brasil Feminina",
+   "categoria": "Jogo e resultado",
    "clubes": [
     "Flamengo"
    ],
    "foco": true,
-   "nota": 73.8,
+   "nota": 61.6,
    "sinais": {
-    "busca": 70,
-    "aceleracao": 80,
-    "midia": 81,
+    "busca": 50,
+    "aceleracao": 38,
+    "midia": 67,
     "aderencia": 100,
-    "youtube": 44
+    "youtube": 43
    },
-   "fator_categoria": 1.0,
-   "trafego_google": 1000,
-   "busca_torcedor": "danilo flamengo",
-   "termos_trends": [
-    "danilo"
-   ],
-   "n_fontes": 6,
-   "n_manchetes": 6,
-   "assinatura": "arbit|criti|flame|danil",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte de debate (30 a 60 s)",
-    "gancho": "O Flamengo contra a arbitragem: alguém está errado nesse lance, e eu vou mostrar quem.",
-    "titulo_thumb": "QUEM TEM RAZÃO?",
-    "pergunta_enquete": "Qual sua opinião: Flamengo critica arbitragem e cita nove fraturas em jogadores no ano?",
-    "tecnica": "Conflito",
-    "ganchos": [
-     {
-      "tecnica": "Conflito",
-      "texto": "O Flamengo contra a arbitragem: alguém está errado nesse lance, e eu vou mostrar quem.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Flamengo cita nove fraturas de jogadores em 2026 e critica arbitragem. Muita gente está reclamando da arbitragem, mas a regra pode estar do outro lado.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Flamengo cita nove fraturas de jogadores em 2026 e critica arbitragem. Foi ou não foi? Responde nos comentários antes de ver a minha análise.",
-      "thumb": "E AGORA, FLAMENGO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Minha aposta: esse lance ainda vai ser assunto a semana inteira. Comenta o seu palpite.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "“danilo flamengo”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Flamengo critica ‘conivência da arbitragem’ após lesão de Danilo",
-     "fonte": "Estadão",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMWdhd3JLcEVjUHNSQ2MwMFY0ZmZ3aURQYlYxN2JJZFAzUkhscWZNcEpNWEtITkxCYUpLWjB6TkVqQ1gtNkxtR3RxR3NfclVjcVVsRnNMcFFzcWhhUmdRanZ5SmlqeGNlbmoyNl91UHlYYlZLa0ROemM3WkRyRTE4c1RwU2VqcEFwWFFvLXRuNWpVOXpDQ0RUOFBNcy0tV0pwT2I3LVpMTTlWeHRWTDZkMl9HRDZidlg0QXZuY0Jn?oc=5"
-    },
-    {
-     "titulo": "Flamengo critica arbitragem após fratura de Danilo: “Conivência\"",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDVfQ2FGV3hEMFZDU1BXYUJ1eTVzWVlyWmJxdnlWNzh4NmFNQjRpRGI2Q3lUU3RLY0k5Yk9Vc2RDWk5zSC1sZFJFeEtTMGpmUDlvRzlBRWJKVHJveWdoSlNtZmFHZ0ZQbEtoQ1IxSzY3NEl6el90Y3pUSElWQmlORC1PVTdrRVg0dG9QajQ0Sm9OMnhqbktBcGZBdXZyeGJBVlk5dHE5VF9kcE9GbklROUlLS1lLei1v?oc=5"
-    },
-    {
-     "titulo": "Flamengo critica arbitragem após confirmação da lesão de Danilo; veja",
-     "fonte": "Band",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSFQxMUJIZU9STmN4N0M1UlJnVWVQV0tHa2U4WEIwcnRDZGxBS1RQSkVqdTh2NU1YWVIxS0RLZjRTNXd0MHNraEJRTkdobnYyTVJOTmVqUTVrSEVobGdGRGF1UVl0UjFzTUk1ZXFBaDltZFoyQ2lzSndiby0yMXZfVmtZekFNbG9mN2t2QXNHU2pEZkdKVWo5T2RKbXVYRUtCZkZTbmc4QmVuUV9BbGdMVms2NUVfS1NIMDhEbFpLM2R4UQ?oc=5"
-    },
-    {
-     "titulo": "Flamengo cita nove fraturas de jogadores em 2026 e critica arbitragem",
-     "fonte": "Extra online",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRHRselFGajZEYWEyT2QxYnZDRTJrTllaV0lHQ2Q3T2hJVENWb2ttc2xUblltdTJ4bXc0bEhBYlBMMEFOVG9SVFpkWEhaVXEtRHBkYWxDT1dqT1g3N2lnOWpydUJ4TG45Wk93SERoeHAtaTV2MExhUXB6Z21QUmZqS1ljYVdzX1pkX1ZIbDljanJLejF1UkVqNTJ2YzlaRTlHVGY0RXNFM1MzNnNPUnczZUVxd2FieklwTnJfd1dvdE1zcHJDZ1ZDeHp2VE11cWPSAc8BQVVfeXFMUER0bHpRRmo2RGFhMk9kMWJ2Q0Uya05ZWldJR0NkN09oSVRDVm9rbXNsVG5ZbXUyeG13NGxIQWJQTDBBTlRvUlRaZFhIWlVxLURwZGFsQ09Xak9YNzdpZzlqcnVCeExuOVpPd0hEaHhwLWk1djBMYVFwemdtUFJmaktZY2FXc19aZF9WSGw5Y2pyS3oxdVJFajUydmM5WkU5R1RmNEVzRTNTMzZzT1J3M2VFcXdhYnpJcE5yX3dXb3RNc3ByQ2dWQ3h6dlRNdXFj?oc=5"
-    },
-    {
-     "titulo": "Flamengo critica arbitragem e cita nove fraturas em jogadores no ano",
-     "fonte": "Bem Paraná",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYldEajBVZ0t4TXBNSjRHQlZ5b3F2WkZnYjlqQm1yMVBmRlV3ajkwbUJRQTN0V295YkthWWxzRVBRb21vY2RZMExQaUdTMDFmWXh2Q2RtbHZCd3ZkV3EzUzZuUWt1UFlHNWlyOTRKSkZEUFZrSUV5czhXcUFwU1lkcVFVOGFLWERaYkg4TDRacVRnOWxJR2RFSWtnbTlXLTdqQ01BdmN1Uk92RGPSAbABQVVfeXFMUFZQSzlwblNaZHJCZnBqX3duZmtwMXlvSmNBVW12emU0YWtHMEp6M254ZmQ2bWpfT3IwT0VueEdfRFowQ0JjSTVXTjE1QWJEODJqYTRRbkZZMy02RkVjZmFhcktIbTRUNlFRUTZTZTBpME9odGFLWHQ3Xy0ta2ltSXV3WWd0WW96YlFibkZYQnVmOVM3UEpGazJ0a3hCZEp3c2lzQUNJT0dnLVZJeWxOU0E?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "nUzi8BHS2V0",
-      "titulo": "FLAMENGO CHEGA A 9 FRATURAS E DISPARA CONTRA A ARBITRAGEM 😳",
-      "canal": "Futebol em campo",
-      "views": 1307,
-      "likes": 3,
-      "comentarios": 0,
-      "publicado": "2026-10-12T17:15:55Z",
-      "duracao_s": 4,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=nUzi8BHS2V0"
-     }
-    ],
-    "consulta": "Flamengo Danilo arbitragem critica",
-    "n_videos": 1,
-    "mais_de": false,
-    "views": 1307,
-    "top": [
-     {
-      "titulo": "FLAMENGO CHEGA A 9 FRATURAS E DISPARA CONTRA A ARBITRAGEM 😳",
-      "canal": "Futebol em campo",
-      "views": 1307,
-      "url": "https://www.youtube.com/watch?v=nUzi8BHS2V0",
-      "publicado": "2026-10-12T17:15:55Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Palmeiras provoca Corinthians e agita redes sociais",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Corinthians",
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 73.8,
-   "sinais": {
-    "busca": 70,
-    "aceleracao": 85,
-    "midia": 46,
-    "aderencia": 100,
-    "youtube": 66
-   },
-   "fator_categoria": 1.0,
+   "fator_categoria": 1.092,
    "trafego_google": 0,
-   "busca_torcedor": "palmeiras x corinthians",
+   "busca_torcedor": "flamengo x fluminense",
    "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "provo|corin|socia|agita",
+   "n_fontes": 4,
+   "n_manchetes": 6,
+   "assinatura": "brasi|copa|flame|femin",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Palmeiras provoca Corinthians e agita redes sociais. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "4ª de final | Copa do Brasil Feminina. A leitura óbvia é uma. A que importa é outra.",
     "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Palmeiras provoca Corinthians e agita redes sociais?",
+    "pergunta_enquete": "Qual sua opinião: Ao vivo: Flamengo x Fluminense | 4ª de final | Copa do Brasil Feminina?",
     "tecnica": "Contradição",
     "ganchos": [
      {
       "tecnica": "Contradição",
-      "texto": "Palmeiras provoca Corinthians e agita redes sociais. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
+      "texto": "4ª de final | Copa do Brasil Feminina. A leitura óbvia é uma. A que importa é outra.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
+      "tecnica": "Conflito",
+      "texto": "4ª de final | Copa do Brasil Feminina. Dentro de campo acabou. Fora dele, a discussão está só começando.",
+      "thumb": "FLAMENGO x FLUMINENSE"
+     },
+     {
       "tecnica": "Pergunta aberta",
-      "texto": "Palmeiras provoca Corinthians e agita redes sociais. E agora: o que muda para o Corinthians?",
-      "thumb": "E AGORA, CORINTHIANS?"
+      "texto": "4ª de final | Copa do Brasil Feminina. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
+      "thumb": "E AGORA, FLAMENGO?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Palmeiras provoca Corinthians e agita redes sociais. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+      "texto": "4ª de final | Copa do Brasil Feminina. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
       "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Palmeiras provoca Corinthians e agita redes sociais. Por trás disso, tem dois lados que não querem a mesma coisa.",
-      "thumb": "CORINTHIANS x PALMEIRAS"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Palmeiras provoca o Corinthians e agita redes sociais",
-     "fonte": "R7",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRFBxV3piNUctOW5Bb3NmUlNKeEtlckRIT2JJT0M5NWdvTk5kc2oyUXBBZnhzbVczcC13X2YteVk1Umx3bFU2VmNwUUhYejVLM0tXeXFNUGlJUzg4QjZhVmswcTg2d2xvd0JjV0dOZGlmWVk2WFFhclhscXFsRUZqR3NLdm11M09pT29mV3JzTzZ4QQ?oc=5"
+     "titulo": "Ao vivo: Flamengo x Fluminense | 4ª de final | Copa do Brasil Feminina",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTc2VVc5VGlTek1CcHZzZUdpaXhWZHJLQXRIVG1lR0dNSnctUmRoR0VlRnpJcnFZZ3NNZ0RUX0lPMXF6TDJfQmlpWFBWd0MyeXhtUS12MkZUd3ZZMW9HYkdCQzM5TlV3MXhNQmNrekEzbmQ3Vl9Ca1dKekQ2aFBWQ1BKcU5ZVjd6UVVTM3RqeGtCQkp2a3oyUXlFZlZRQkZRRHhsdVV4VjNlVUZtazJDX1I2MlE?oc=5"
     },
     {
-     "titulo": "Palmeiras provoca Corinthians e agita redes sociais",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUkZOaVdmWk4xRTFtSkFERUIzMF8yVEhtcEVuUnA1Z0xUYUZRUHJicXlzY0UzWVphMTUwbEx3VWc5Vm5uRFY1czdSWV9IZDBSaFZYUHB3bVdyT1l5TnBZODduMThVWDJNTDJUdU9wVlAyd1pKYUl4bXAyYnBUV3BfOXRhaDBDU3RVQWswaHNVTmdadzZCem1Ua2w2OA?oc=5"
+     "titulo": "Calendário do Brasileirão 2027 tem pausa para a Copa Feminina",
+     "fonte": "DOL",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTTdwem9EUlVRMDFjMW03U2hlSzFQcjdCNEpSUXM2MTl0VERhZGJHRzRSYk1Bd2JTRDU4TnFBbGhOdm41YzYzT3BiUFFRanA4ZWpqQk1aQnVyQ3lBeElmSkJZLTBuaDVZeUhiQTl3U01maTZhbTlrM29oQ1pBakFsVjh6anFMclpkc2daX0JtNlNyZ1hncTVsVkNrelJhOU5XZnpfbDdoM1U5S3F5SXVvc0hkOXnSAbcBQVVfeXFMTlRwTENFZGRnUG9ya1NMUEtJRHd3Q2VrZk1URmxycXctMTRVYUZCQ0dUUmlIUldhYlIyOXZZa19tS2RlakVFZmpDeDRPQXRJSk92LXVkRkhBUU5LX0V5T0pFNmZSSnF1UG0xMGFHaElhaVI2Q2EwZjNvYnJzX2cxRjQ1ZmxGeU9PMmZVQkdKTE5kNkg3ZjhhTEVSdFVUekJNckROLTZFQVZ5U3BVcFBvUm0tQWR6cERB?oc=5"
+    },
+    {
+     "titulo": "Coletiva no Maringá FC após vitória de 2 a 0 sobre o Flamengo pela Copa do Brasil",
+     "fonte": "maringaatual.com.br",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZHVPUHpWc0dxSVozODJzRDN3Ukh0Z0tzd0ZrbkEyZmpoRnlHNXRjYTRuNmI3OVpkNTNYWEhTUXlSVzF3eHlhbV94eXFwWjdMQ0JMdFdrSkoxVFlsSU1nbFBpanh6UTVKcTExODhFeDZYQk9XbTlKN3Z3WUowdmlRMFhleGNpbHlvUnhXRk5wS0JYZDJWN1R0RDhrNWFuT3FaVEMycG5aQjJGZ201U3BRUXIxQmdDZnI3YVJXOVZZQWs?oc=5"
+    },
+    {
+     "titulo": "Flamengo treina para duelo com Maringá FC pela Copa do Brasil",
+     "fonte": "maringaatual.com.br",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNTZucFQwLVVrZ3JoR0xkRDVNYS1xcVR4TFpycEw3MHh6X3RMM1pSNlNrOUhmMFloYURLemJXTkZmZEQ4NXBCNHVtMTYxRVdNMERZOC1HdWl5YXZCS3IwQWdoLUVZWlVOM1QxOU05MC1vLWVoZVpCbTdXUDJZMkx6d0FkekpSSkVqd3NxUkVuLVJiaUs1ZDgyS2FsY2FqWUVzX3BmMDNUTQ?oc=5"
+    },
+    {
+     "titulo": "Coletiva no são Paulo após derrota de 3 a 1 para o Flamengo pela Copa do Brasil",
+     "fonte": "maringaatual.com.br",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0NtMTl5M2pzeWZDLUZiX2t2SVg0Si1IM1c3dFhzN29Pa3hleUZlazBrZ1ZPZFRVclNQMF9fUjdfeXZMS2VsU2s5WHV3UWxTZkVVVnB0VURTQ0l5VHRQX3l1MUlUQmp5djMzVE1ZV2ltMk9WdUs2NjFjZVp2UzY2R3FyZXQyR2E0VnFLN0xkbVhVUktUZWViblc2OE5aV0NnTzNWaGt3SFg3MEVscElwMXNCalVJSE9Ib2h3c3BLRQ?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "Vo8uEDSk81E",
-      "titulo": "PALMEIRAS PROVOCA CORINTHIANS APÓS GOLEADA, FLAMENGO É AJUDADO E ABEL MANDA INDIRETA AO RIVAL",
-      "canal": "Mil Grau",
-      "views": 39868,
-      "likes": 2913,
-      "comentarios": 99,
-      "publicado": "2026-10-12T00:22:44Z",
-      "duracao_s": 997,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=Vo8uEDSk81E"
+      "id": "sAXxZINcrvI",
+      "titulo": "Fla feminino x Flu: quartas da Copa do Brasil Feminina, quinta 19h! #Shorts",
+      "canal": "Dossiê Rubro-Negro",
+      "views": 386,
+      "likes": 4,
+      "comentarios": 0,
+      "publicado": "2026-10-13T00:47:15Z",
+      "duracao_s": 28,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=sAXxZINcrvI"
      },
      {
-      "id": "M9KKNelymNo",
-      "titulo": "Palmeiras provoca Corinthians após goleada em Itaquera",
-      "canal": "Palmeiras 247 - Tudo sobre o Porco",
-      "views": 259,
-      "likes": 8,
+      "id": "qNcuxrRHHzo",
+      "titulo": "FLAMENGO x FLUMINENSE – Copa do Brasil Feminina AO VIVO na Rádio Gil Arruda Sports (Quartas, IDA)",
+      "canal": "Gil Arruda Sports Radio",
+      "views": 0,
+      "likes": 1,
       "comentarios": 0,
-      "publicado": "2026-10-11T23:46:47Z",
-      "duracao_s": 153,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=M9KKNelymNo"
+      "publicado": "2026-10-12T03:39:17Z",
+      "duracao_s": 0,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=qNcuxrRHHzo"
+     },
+     {
+      "id": "ZZFV76gIeQI",
+      "titulo": "AO VIVO: FLAMENGO X FLUMINENSE | COPA DO BRASIL FEMININA 2026 | DIRETO DO LUSO-BRASILEIRO",
+      "canal": "O Tikitaka Sports",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-10-13T10:29:14Z",
+      "duracao_s": 0,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=ZZFV76gIeQI"
      }
     ],
-    "consulta": "Corinthians provoca sociais",
-    "n_videos": 2,
+    "consulta": "Flamengo Feminina",
+    "n_videos": 3,
     "mais_de": false,
-    "views": 40127,
+    "views": 386,
     "top": [
      {
-      "titulo": "PALMEIRAS PROVOCA CORINTHIANS APÓS GOLEADA, FLAMENGO É AJUDADO E ABEL MANDA INDIRETA AO RIVAL",
-      "canal": "Mil Grau",
-      "views": 39868,
-      "url": "https://www.youtube.com/watch?v=Vo8uEDSk81E",
-      "publicado": "2026-10-12T00:22:44Z",
+      "titulo": "Fla feminino x Flu: quartas da Copa do Brasil Feminina, quinta 19h! #Shorts",
+      "canal": "Dossiê Rubro-Negro",
+      "views": 386,
+      "url": "https://www.youtube.com/watch?v=sAXxZINcrvI",
+      "publicado": "2026-10-13T00:47:15Z",
       "do_canal": false
      },
      {
-      "titulo": "Palmeiras provoca Corinthians após goleada em Itaquera",
-      "canal": "Palmeiras 247 - Tudo sobre o Porco",
-      "views": 259,
-      "url": "https://www.youtube.com/watch?v=M9KKNelymNo",
-      "publicado": "2026-10-11T23:46:47Z",
+      "titulo": "FLAMENGO x FLUMINENSE – Copa do Brasil Feminina AO VIVO na Rádio Gil Arruda Sports (Quartas, IDA)",
+      "canal": "Gil Arruda Sports Radio",
+      "views": 0,
+      "url": "https://www.youtube.com/watch?v=qNcuxrRHHzo",
+      "publicado": "2026-10-12T03:39:17Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "AO VIVO: FLAMENGO X FLUMINENSE | COPA DO BRASIL FEMININA 2026 | DIRETO DO LUSO-BRASILEIRO",
+      "canal": "O Tikitaka Sports",
+      "views": 0,
+      "url": "https://www.youtube.com/watch?v=ZZFV76gIeQI",
+      "publicado": "2026-10-13T10:29:14Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "Provocado pelo Atlético-MG após chute em bandeira, Gabigol relembra título e responde",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Flamengo",
-    "Atlético-MG"
-   ],
-   "foco": true,
-   "nota": 71.7,
-   "sinais": {
-    "busca": 60,
-    "aceleracao": 83,
-    "midia": 96,
-    "aderencia": 100,
-    "youtube": 0
-   },
-   "fator_categoria": 1.092,
-   "trafego_google": 0,
-   "busca_torcedor": "gabigol voltou para o flamengo",
-   "termos_trends": [],
-   "n_fontes": 9,
-   "n_manchetes": 9,
-   "assinatura": "gabig|provo|atlet|respo",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Provocado pelo Atlético-MG após chute em bandeira, Gabigol relembra título e responde. Foi mérito de quem venceu ou erro de quem perdeu?",
-    "titulo_thumb": "E AGORA, FLAMENGO?",
-    "pergunta_enquete": "Qual sua opinião: Provocado pelo Atlético-MG após chute em bandeira, Gabigol relembra título e responde?",
-    "tecnica": "Pergunta aberta",
-    "ganchos": [
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Provocado pelo Atlético-MG após chute em bandeira, Gabigol relembra título e responde. Foi mérito de quem venceu ou erro de quem perdeu?",
-      "thumb": "E AGORA, FLAMENGO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Provocado pelo Atlético-MG após chute em bandeira, Gabigol relembra título e responde. Eu aposto que esse resultado vai pesar lá na frente. Você concorda?",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "“gabigol voltou para o flamengo”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Provocado pelo Atlético-MG após chute em bandeira, Gabigol relembra título e responde. Quem venceu comemora; quem perdeu tem uma conta para acertar.",
-      "thumb": "FLAMENGO x SANTOS"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Provocado pelo Atlético-MG após chute em bandeira, Gabigol relembra título e responde. O placar diz uma coisa. O jogo, visto de perto, diz outra.",
-      "thumb": "NÃO É BEM ASSIM"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Após a virada do Atlético-MG sobre o Santos, o clube mineiro tentou provocar o atacante Gabigol, com uma foto da bandeirinha de escanteio e os dizeres “chute aqui só quem já foi eliminado pelo Galo”. Gabi, então, aproveitou pra responder à altura: “Só pod",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBONVh0MmxMdVRZZ2ZUUnZVUTZfcWRBOVBENGlLUHlENGo1dWVxamJQM0tVaGtKZlVYeE9MMUdhTEFCR0Y1VjNkZ3RsVEUzaWZrbUE?oc=5"
-    },
-    {
-     "titulo": "Gabigol responde provocação do Galo: ‘Só pode chutar o primeiro campeão nesse estádio’",
-     "fonte": "A Tribuna",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM1JEa3JiRHUtM0x3VldfLWtlOFJBeTFiazFDSklwNVpLamxiNUxGR21QWXM0Uk80aWFTU2N4V3ZqZl9wX0ltcmc4Nlh2cGJWLVgtemxBUVl0a2djVU1uczNIYzRaSDFvNUVhQUF4M3k1U1U3dUNHcVpXU0N0Zm9LUlZTdGM4d2FsemN5eWhGaUJzNWxWWkd3dEJqOVBqYmpmaFlvRkpZdTZ5OXhpU2hLelJNRVdKUnVtXzZYTC1pRFlydnBEZk9hakZKMi1iUFRyeVVfVEpn?oc=5"
-    },
-    {
-     "titulo": "Gabigol provoca Atlético-MG: \"Primeiro campeão\" na Arena MRV",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM05OMWxkZjQ3WVZIQjY4eERXSXUtMW15eVpla2hIMjFVd2hIRy1UVTd2d29ZaUNEZGVNZmdRYVlYaDhrZTNIQUxCbjF2NjExdGhKVXNlLVlNdEpPd2s5QlJCRnh2RmFMVzZSVVdmNXUtTVJvZlpSSXdVcmlOX3Y0aGFzdzlRUEhnU3liZURGeXM5b3NRQVFUZnRvQm1kbDNhMEZQRmdPX1doaGVpd2ZZYw?oc=5"
-    },
-    {
-     "titulo": "Gabigol responde provocação do Atlético-MG: 'Só pode chutar o primeiro campeão nesse estádio'",
-     "fonte": "Tribuna do Sertão",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeDdEMENWa0p0ZDM5TkVubW4ybzd6b2poNHAzX2hfZEFWMzJDdGdQTXhPN0ZPeXYyYUgyakpnUGdEYzQzWHE5Sy0ySzJZdTBwTmtDeG95NFI3NWVBWnljQmN6clFsdmdyeWsyUGdvYTFGS3hjcThla1dFeG5jTDdhNlozY0pQY09IYlBGNU1wLV9WY0FlVTN1bDV6RDlNdE5xZ3RuWVQweUdaQ2I4dG5kUm1TLU1hQ2ZGWFM4eWUzeW42a0g0NUM0WEVLbDVqLVhFZ2ZWUFJSenJMSU9CQ2tzSTJQU1BWZjQ?oc=5"
-    },
-    {
-     "titulo": "Gabigol rebate provocação do Atlético-MG e relembra título conquistado na Arena MRV",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXNYV1ZocDZjUm15RnFJR3B0UGx4S2dRX1ZhVHpPYk9FeHBaYklfR1o1SV92a0dUTU9Uc2VHXzdYclFmM19PZ1BIYjNWVVI3dTFWOHNTcFVUQzNJQjFvQjZreGIxU1UwLURuWENuV0J3N3RWd1NqS1pwZWRabFMwR0h3dHJnR295SFFEemdnY3J0UWVuWjEyVE9sX21PaW9s0gGgAUFVX3lxTE5Vc1hXVmhwNmNSbXlGcUlHcHRQbHhLZ1FfVmFUek9iT0V4cFpiSV9HWjVJX3ZrR1RNT1RzZUdfN1hyUWYzX09nUEhiM1ZVUjd1MVY4c1NwVVRDM0lCMW9CNmt4YjFTVTAtRG5YQ25XQnc3dFZ3U2pLWnBlZFpsUzBHSHd0cmdHb3lIUUR6Z2djcnRRZW5aMTJUT2xfbU9pb2w?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [],
-    "consulta": "Flamengo Gabigol Provocado responde",
-    "n_videos": 0,
-    "mais_de": false,
-    "views": 0,
-    "top": []
-   }
-  },
-  {
-   "tema": "Palmeiras inicia preparação para semifinal da Libertadores; Sosa tem trauma na coxa",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 71.5,
-   "sinais": {
-    "busca": 65,
-    "aceleracao": 83,
-    "midia": 87,
-    "aderencia": 100,
-    "youtube": 0
-   },
-   "fator_categoria": 1.092,
-   "trafego_google": 0,
-   "busca_torcedor": "sosa palmeiras",
-   "termos_trends": [],
-   "n_fontes": 7,
-   "n_manchetes": 7,
-   "assinatura": "palme|liber|prepa|coxa",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Sosa sofre trauma a coxa, e Palmeiras abre preparação para semifinal da Libertadores. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
-    "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Palmeiras inicia preparação para semifinal da Libertadores; Sosa tem trauma na coxa?",
-    "tecnica": "Aposta",
-    "ganchos": [
-     {
-      "tecnica": "Aposta",
-      "texto": "Sosa sofre trauma a coxa, e Palmeiras abre preparação para semifinal da Libertadores. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "“sosa palmeiras”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Sosa sofre trauma a coxa, e Palmeiras abre preparação para semifinal da Libertadores. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Sosa sofre trauma a coxa, e Palmeiras abre preparação para semifinal da Libertadores. Parece notícia pequena. Não é.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Sosa sofre trauma a coxa, e Palmeiras abre preparação para semifinal da Libertadores. Isso é bom ou ruim para o Palmeiras? Responde antes de ver a minha análise.",
-      "thumb": "E AGORA, PALMEIRAS?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Palmeiras começa preparação em Quito para a Libertadores Feminina",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR1FoTlFtQmRkSFpKekphLUREM2l2SzB1Unc0d2kyRG5iRDZsQ1FKSXJqb1czTzVROXAyWDQzdzVvY2NkNnFCSHJRMHFjcjEwMW54al83NEZmY0ZjdWF1ZllGSzZ0ZkNHX18tTVBCSEFMMGhzR2M0cHdxOG03QS1EX0xfMGpfYmd2eTZyaUdSZ01RM3A0cjVlYTYtcjVucmF2U0FTdzdCRU0taHFPQ2ZFYUMwMWU0UC1jYkp2MmxDZmRJR3E0QnhNbV9JRnM0NXdidHN4ZVZ6VzBXaUxwaklPeF91X1NiSlZ1cFVZ?oc=5"
-    },
-    {
-     "titulo": "Palmeiras inicia preparação para semifinal da Libertadores após goleada no Dérbi",
-     "fonte": "ABCD Jornal",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMFFiNUVyV1pMRWRLQmJ2SkxDNEpQQmt5MmpLWU94WWF0elNhNmxiSVBQS182d1VMcXA0Tm1Hc1ZmUHdBSjA4MTVwampCelB6Sld4a3NmN1NLdEh4R0lCVDF1NzR5bkdIWTlGdmlpbTdydlJwT285dXY3RUdianIxT1RzZVBwUFBpbktLU1g4azFva202VlpOMXVPSmxCSFltTS1pbkxhTDRFbmJOTk5wemo3UlRqMHI2bENPcUppLXZORHo2Q3VMMkE1R0NFcHPSAdQBQVVfeXFMTWpoYjYtMFdLM2NDU2JfdVV4NEc5YTV4V1Q5WVB6ZzhycXJFNFVhV1lIQnMxWmdHaG9BUXBONVBEY1hKcW96Y3hHOVF5eHc5T1hZeUxEMTl2RmRMTFpwamxVVDlvdVZKXzg1WUlCeEw2TXQ5NmMyODZvNU9UaVRCazJFOWphSzdyMlp3MUxWdV9WX3hCenNPaE5USEd3ZG5YekQtZlVQUjNEZ1gyZUR2aUNFU0x6bzR5Q1QzYkl5Qk1FSjZEcU85NTlkYmRGQ2I3R3VYQlo?oc=5"
-    },
-    {
-     "titulo": "Sosa sofre trauma a coxa, e Palmeiras abre preparação para semifinal da Libertadores",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2wxOUIxNVRiR1ZBaFdJVGtPeUZtd0hwUzBYcFI1QkwyajQta3lwOERUVE5RSW9KS2JTaUE4eU5XUkhlU2JpYUhMUVhKTHpEeTRDdmpUaDZEcVdTREZaT0xLVmZXS3NHS3BDMXlIUTBWY3Exc0hrU0k3LTNUdjltRmRZYVpQSFJlc2NBdnJYNDd4dnhzVFRORURUc0czUnl6MElTU00ta9IBrAFBVV95cUxNYmlBNW5aRmxOTmFWU2ZpSnZSSDdmYS1LZ2hyR0NjaEViV3o4T1p0ekxJZ1FqMFhWN05BNlpJRU9SbTRoYkNMb2FobEVHWXVQeHlINHEwQXRDNjRFdUg3dXpmMFd1YnpZaGpoVnhfSWxmYnltT1pSdGZJc0JKSDd5S21IWlpKcFRkcG1kRnoxOU9pRDZkenBycXA0NHBrLWtlU09SS0diaXJ6TTR5?oc=5"
-    },
-    {
-     "titulo": "Palmeiras se reapresenta, e Sosa faz regenerativo após trauma na coxa",
-     "fonte": "iG Esportes",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOHZSOUFIdUc4S2ZTQktPUDJlYzZQS3JGMVo2U21yQlM3Q09HUzBfcG95eldkU2k0cUxhVDdMeWpkYUxad2JRS3J3SFNSUUVMV180a05KTGd1SjdTTWZ6MWZHSU1hQUVadWUxeWRBbVBiak45UUUxQ2dmcmlwY3lUbTFpUFVSdXdpNkZvd1RSek13TWNzaXQwTVFGamJLN0FsVTlud2JUSk15ODVPa0w1UFl1RjVLdlNwNlNYSE1feXdwWUJJR2VSajdB0gHPAUFVX3lxTE9HQm83UjF6S2pfTEhlQVhsRDdYRlhoRHgyOVAxYndMQkp3TEgxaHZtd3BMSG5IeE1ZRlRmbFNFTlJzcHl5OEVXVGN4NnI1d2NxbFhUUXV1SUs4NWwtbnpPUzNkME5IOWctUTdQV2xjZnk1TnFPbEY1Vmo5LWdyTUNfNmIzRWwtcER4RHV6SnpmeUhHZnR1V1lfTmtVVWpac1hoMGNXSWx4NHBSWHhtb24yNGN3ZjhFczlURl84TlJ0LWpNY2drVmpiS1B3V0sxWQ?oc=5"
-    },
-    {
-     "titulo": "Palmeiras volta aos treinos após goleada e começa preparação para Libertadores",
-     "fonte": "Portal ABC do ABC",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNODNDdV9BMHhfX3JDY2cxME40bUdHdm03T1ZnaDhENkY5WWprdUlGQkZmam9zVU01MTZYdWQySWZ0Y01mRHRHUWN2V2lybUt4TGJURXVTeDVhdGROWHJqSURnc0taOUwycmtmUGNITXBSeG9KdnlLYjVtNU1wWEpBdA?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [],
-    "consulta": "Palmeiras Sosa preparação semifinal",
-    "n_videos": 0,
-    "mais_de": false,
-    "views": 0,
-    "top": []
-   }
-  },
-  {
-   "tema": "Corinthians anuncia Clarence Seedorf como novo técnico para tentar escapar do rebaixamento",
-   "categoria": "Técnico",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 71.0,
-   "sinais": {
-    "busca": 70,
-    "aceleracao": 33,
-    "midia": 100,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "seedorf corinthians",
-   "termos_trends": [],
-   "n_fontes": 11,
-   "n_manchetes": 12,
-   "assinatura": "seedo|corin|tecni|anunc",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Opinião forte (60 a 90 s)",
-    "gancho": "Seedorf precisará de aproveitamento inédito na carreira de técnico por '45 pontos mágicos'. Guarda esse número, porque ele muda a conversa sobre o Corinthians.",
-    "titulo_thumb": "45 PONTOS",
-    "pergunta_enquete": "Qual sua opinião: Corinthians anuncia Clarence Seedorf como novo técnico para tentar escapar do rebaixamento?",
-    "tecnica": "Dado",
-    "ganchos": [
-     {
-      "tecnica": "Dado",
-      "texto": "Seedorf precisará de aproveitamento inédito na carreira de técnico por '45 pontos mágicos'. Guarda esse número, porque ele muda a conversa sobre o Corinthians.",
-      "thumb": "45 PONTOS"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Diretoria de um lado, elenco do outro, e no meio um técnico que precisa de resultado já.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Corinthians anuncia Clarence Seedorf como novo técnico para tentar escapar do rebaixamento. O técnico parece garantido no cargo. Os bastidores dizem outra coisa.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Quanto tempo o técnico ainda tem no Corinthians?",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Eu aposto que [SEU PALPITE] até a próxima rodada. Qual é a sua?",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Novo técnico do Corinthians, Seedorf tem recorde de pontos pelo Botafogo no Cartola",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQjFzU19VUjdyekZaeEw0WGVNRzRhVnplSi1od18tRUZJZWhodG5VVnB5OWJqTkx5VEM2dGxSSnpXWHBSVXhqWE9lLS1GaEhqZW1VQ1RQbWFubnUyU0pmbGJQSW1Ua1JZNmN2cjYxZHA2amt0V2dQLWJTUy1yOFRSWDFmV3BFVk50OVA1WWlZZmNPRkJnTENSaVpOS0VTVElCTXhtSmJ4SVNTRnZSVFVOaUVrbUd6bk45R3hXU2x2Wm1FRWdmeV80RDBCYkJWU1hfRFHSAeABQVVfeXFMTUpSMTdGLVZ6YUlYZlBkQk0wbVlqcHJtN25LTkc2b1pZMWFiZklhQmNQRTc4TDRnc2tqdU9MVTl1N0Y2V1FTRXRLdEJ0SEE4eUgtdGtCWnhQS1VpOU9FQURRM0ZQZE8wOXU4dUhqQ3J2a3owWWpZcVd3RndSS05kbTZaZ243Sms1MDJsT2JESl9KU2FnYW1KTFFpTW1zMkdwa2ZUTS1LeVB2UFlfQlhxMnBibFVhMUxmaU5HWFVjVU04ZUtjbVU3Y3hXQXVwMUd6d21tb3FQSGhQeE1kaDU4aGQ?oc=5"
-    },
-    {
-     "titulo": "Opinião: Seedorf pode ser um ótimo coach, mas é aposta de risco como técnico do Corinthians neste momento",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVm1hTHY5d2xnVWpuUTRjZnFHRFhsTkRRYnRmTVlIMzl2akJQZ0sxUVhhZmg3Qkg0LTEtak82eUpZRGVxdkg2RmVJSlNxSWszWGZ1Y1hqdmhnaEhYV0lTajVwa3hRb1U5ZGxTWUNITDY0Tm9PN09Bb1Z2QmhEc2hzbk5UMnF6U29mUEJyRWxPMW1US3FDV1ZDZkFkR0c0SV9QNGIxSndEckRGZjZMTl84bFVHSDN4STJSXzZ1Znd3dHZDZHRuX3I0WEtyeGNFWU5ZY0tDcUdBMGxPdjRZQmZ1RjZ2QVVJWGtjQVow?oc=5"
-    },
-    {
-     "titulo": "Corinthians pode ser rebaixado? Seedorf precisará de aproveitamento inédito na carreira de técnico por '45 pontos mágicos'",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOT0tmWkVSQkVnRTNJQ1hmR0lra1FqR01ia19HYWVtWVNHZGVXMDMxbFJrR0pCLVZRcHhvazdCdHl1VzBlZ2psLUNVazZGaVVvT01GeXpmN0lIQjB6YmVRa1ctQ21IeDZOd0VBNnlGLUpiZzB0NDNfZGd6MW5adHhldjRJRXZKcjhRTmxxRUpIY05ZWUdUMFh6YTFmUHk0T0VrSlNhaDZrSWtiWUVTVE9EbDhJMFNWZGJ6X19KYkZSUC1kdlpxYlY3cEpfY2g1OUU1aVQzcEFtYlJFcTlYLWZGWU1pZnM2YnF6d1pJZmZuNnFEQ2hlbWRMZ3ZrblJ0S25u?oc=5"
-    },
-    {
-     "titulo": "Corinthians anuncia Clarence Seedorf como novo técnico",
-     "fonte": "Portal Saiba Mais",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDdBOVhxYmpGa3NGQ3ZpS29WR0lzRmU2T3B4X3dZX2RnbDFPNUlDRlJTWGFQZlFZMlI1WG90N3kwbkxVX2lRbHNSUHJVMndubXJERkFIb3lHVHI3S0hFNVk4bUpYWE9Fb2FKMTlmaU1vYS11ZWdtYTVZTlFhXzl5cmh4SHh4MHpSX2h0TlBTTGtRaHhm?oc=5"
-    },
-    {
-     "titulo": "Corinthians: Seedorf só conseguiu uma vez a sequência necessária para livrar o rebaixamento",
-     "fonte": "RTI Esporte",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BTEhKeDgydnREVGNJVWVqYVlXdG8xZU9WWG54TVZrSlh1aEpsa25nRGFXT0RNRTVSdnRYaHZWbVdnOVBTM3ZUWjNHSmZya3RUM3FxRWlnYlZHMXdjTGJDX2ZDRlRtT0pZT3hFdWZ1RjZrMkIwcHdic1Nzdw?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Corinthians Sem Memphis: Desafios à Vista Contra o Vitória",
+   "tema": "Bastidores da goleada do Palmeiras contra o Corinthians pelo Brasileirão",
    "categoria": "Jogo e resultado",
    "clubes": [
     "Corinthians",
     "Palmeiras"
    ],
    "foco": true,
-   "nota": 69.5,
+   "nota": 58.6,
    "sinais": {
-    "busca": 70,
+    "busca": 60,
     "aceleracao": 45,
-    "midia": 46,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.092,
-   "trafego_google": 0,
-   "busca_torcedor": "palmeiras x corinthians",
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "corin|vitor|memph|vista",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Corinthians x Palmeiras: um precisa vencer, o outro não pode perder.",
-    "titulo_thumb": "CORINTHIANS x PALMEIRAS",
-    "pergunta_enquete": "Qual sua opinião: Corinthians Sem Memphis: Desafios à Vista Contra o Vitória?",
-    "tecnica": "Conflito",
-    "ganchos": [
-     {
-      "tecnica": "Conflito",
-      "texto": "Corinthians x Palmeiras: um precisa vencer, o outro não pode perder.",
-      "thumb": "CORINTHIANS x PALMEIRAS"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Vestiário do Palmeiras provocou Corinthians com música alta de Memphis após vitória no clássico. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Vestiário do Palmeiras provocou Corinthians com música alta de Memphis após vitória no clássico. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Vestiário do Palmeiras provocou Corinthians com música alta de Memphis após vitória no clássico. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Vestiário do Palmeiras provocou Corinthians com música alta de Memphis após vitória no clássico",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IdFlzdlFwY3dJQnhoQnFPS1VmZjEzd3pSQXNmWkVxREoyMHR3UHpNOHB6MmV1Q2F5TEpaTmJxZUNOejhWTWpMU2dvUnF5RjZqb1RjcVA5cVdsYWRlQkE?oc=5"
-    },
-    {
-     "titulo": "Corinthians Sem Memphis: Desafios à Vista Contra o Vitória",
-     "fonte": "Portal Hortolândia",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc3hpWS1kSjNLSV9MeUtDWmpfSEJ5UkRNN3dnTk44TXJ2N1gwR1pmQ2FvY0FhV242SHhuZzhhUy1aRnNTTHB2NlUwVUxtbloyemIzTXptQTcxQUNPMVlTZUo1cnA1QUVCMGNvaVdsVllBRW4wUmtXVFcxY0JDNUlzWkZMaGxhMnBkRWZMcnY3VGFhRzR6U2JsVHMzZXdIVFVja2dHTHlKZWExWFhkYjhRWUdvTmJsZw?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Corinthians: STJD analisa imagens, e Gabriel Paulista pode ser denunciado por gesto à torcida do Palmeiras no Dérbi",
-   "categoria": "Polêmica e bastidor",
-   "clubes": [
-    "Palmeiras",
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 68.9,
-   "sinais": {
-    "busca": 70,
-    "aceleracao": 54,
     "midia": 58,
     "aderencia": 100,
     "youtube": null
    },
-   "fator_categoria": 1.0,
+   "fator_categoria": 1.092,
    "trafego_google": 0,
    "busca_torcedor": "palmeiras x corinthians",
    "termos_trends": [],
    "n_fontes": 3,
-   "n_manchetes": 4,
-   "assinatura": "derbi|pauli|gabri|torci",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "Dizem que está tudo em paz no Palmeiras. O que acontece nos bastidores mostra o contrário.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Corinthians: STJD analisa imagens, e Gabriel Paulista pode ser denunciado por gesto à torc?",
-    "tecnica": "Contradição",
-    "ganchos": [
-     {
-      "tecnica": "Contradição",
-      "texto": "Dizem que está tudo em paz no Palmeiras. O que acontece nos bastidores mostra o contrário.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Gabriel Paulista pode ser denunciado por gesto obsceno à torcida do Palmeiras no Dérbi. Quem ganha com essa confusão? Pensa bem antes de responder.",
-      "thumb": "E AGORA, PALMEIRAS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Gabriel Paulista pode ser denunciado por gesto obsceno à torcida do Palmeiras no Dérbi. Eu aposto que [SEU PALPITE]. Se eu acertar, você me deve um like.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Gabriel Paulista pode ser denunciado por gesto obsceno à torcida do Palmeiras no Dérbi. Tem gente no Palmeiras puxando para lados opostos, e essa conta chega no campo.",
-      "thumb": "QUEM TEM RAZÃO?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Gabriel Paulista pode ser denunciado por gesto obsceno à torcida do Palmeiras no Dérbi",
-     "fonte": "R7 Esportes",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMmNtbXc0X1lUWENLM0EtXzY3LXZGNGhnRzRBSW9KcGFvTmlhY1hUQXBERmV1ZWZrRVN6MzU1MjJkYmZJXzg2ODdlNmRsTnl1YUV0VDBtajR4WF9yN2haU2xHUmRhQ2VsT1lZbnE3b3lTOTZYcVJ6YjhINDRvdi1HMVJPWUZxZHhLZk4zRVhfZWk5bVROeklMVGNsTjZRZW1Fd1Z5MmFyel9iaG5lYkc4WldjbktGZTd4N0tKWFpab3BDcEliYXRsWHV3?oc=5"
-    },
-    {
-     "titulo": "Corinthians: STJD analisa imagens, e Gabriel Paulista pode ser denunciado por gesto à torcida do Palmeiras no Dérbi",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYzZudEdDZXJjcm10SUgxcVhkNmp0Y0wxUTNyWi1YTkFRemFmaG04U2d5Qjk2OUprbTV2MkhUYlZLRlVTZmpqbmxUeGJPMmtFTko5MUFzdHBSOUpPTnNxZUlXYmJkSkRDTlNXODZqLVNITDMyS09Yd1VaTU5BZjlFcHVnNnNISmx1SHg5LXl5UXJ3Zy0zNmVpaUNrX1pQTmNGaVhJRzJ4THItVWVsUmRhaWhLdGpBa3dPUXRkcVJZYXVaNUttT2JpcW9icXljZjFjMmYxbFVUeWg1LTJmdjlwS1ItS0pTRlEtMk9F?oc=5"
-    },
-    {
-     "titulo": "Gabriel Paulista dispara contra direção do Corinthians, reclama de salários e falta de proteção: 'É uma vergonha'",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaWpWaFBpb2t1YkJYczlGeFdZZlZ6N3NpVkZESml0VGl5TXZmUW1rdzlSc2ZGZVg2ZjFIc2J3d2FEb0dSU1JRVjFPWlg2Qk9pVFdBUlhoWEpGbGUzeXVYVDQzd0RtNWdxUURBdVhqa3QzZWE5N2JscnlPWWhIU3NxanI3dW16WldPUUVvX1RfWUZtM2QtdkdyekxHMVJkQVktNE94a3FNc2pUVUlYWExTRkJQVEpMOVlnY0ZBR3o0LVFvb0FDVGJLVnRtWnlDVUJYdHFxMnJGSzVYeDVuci1wNElNaVpBVnJWQm5TLU16YlRkeno2aWc?oc=5"
-    },
-    {
-     "titulo": "Abel é direto sobre polêmicas no Dérbi e faz pedido à torcida do Palmeiras",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYmNzbGFHTWQxU1cxUzE1TGd0V1lkdEFOYVFldjhYRHM2SGxTSFdadVdKVzk1OEcyeHlsM2Zyai1tbUF2djZDLXNBNURTdjNLWjZZUUhpZUE2XzE4Mzk5d1RhT3pPUFNmbGxsSGpBQjNFUkV6MUVUdUNUbWVkMm13WEMwMmhLTTlmQ040VDN5VF9QdVhKUnZPbWRZMG5rNU55UURYOUluOFBOQmJfeUM2TUhfTmdGQzB1S3UxejRLdjJraVJ6Z0p1WE43VQ?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Torcedores do Corinthians protestam em frente no Parque São Jorge e pedem ‘intervenção judicial já’",
-   "categoria": "Polêmica e bastidor",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 68.8,
-   "sinais": {
-    "busca": 70,
-    "aceleracao": 75,
-    "midia": 87,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "palmeiras x corinthians",
-   "termos_trends": [],
-   "n_fontes": 7,
-   "n_manchetes": 8,
-   "assinatura": "corin|inter|judic|torce",
+   "n_manchetes": 3,
+   "assinatura": "corin|palme|golea|brasi",
    "ja_coberto": {
-    "titulo": "INTERNACIONAL  X  CORINTHIANS  - 29ª RODADA",
-    "url": "https://www.youtube.com/watch?v=CH9iLpalAn0"
+    "titulo": "PALMEIRAS  X  CORINTHIANS 30ª RODADA",
+    "url": "https://www.youtube.com/watch?v=PuOgQ5uhNOo"
    },
    "sugestao": {
-    "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "Torcedores do Corinthians protestam em frente no Parque São Jorge e pedem ‘intervenção judicial já’. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Bastidores da goleada do Palmeiras contra o Corinthians pelo Brasileirão. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
     "titulo_thumb": "E AGORA, CORINTHIANS?",
-    "pergunta_enquete": "Qual sua opinião: Torcedores do Corinthians protestam em frente no Parque São Jorge e pedem ‘intervenção jud?",
+    "pergunta_enquete": "Qual sua opinião: Bastidores da goleada do Palmeiras contra o Corinthians pelo Brasileirão?",
     "tecnica": "Pergunta aberta",
     "ganchos": [
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Torcedores do Corinthians protestam em frente no Parque São Jorge e pedem ‘intervenção judicial já’. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
+      "texto": "Bastidores da goleada do Palmeiras contra o Corinthians pelo Brasileirão. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
       "thumb": "E AGORA, CORINTHIANS?"
      },
      {
+      "tecnica": "Contradição",
+      "texto": "Bastidores da goleada do Palmeiras contra o Corinthians pelo Brasileirão. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
       "tecnica": "Aposta",
-      "texto": "Torcedores do Corinthians protestam em frente no Parque São Jorge e pedem ‘intervenção judicial já’. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+      "texto": "Bastidores da goleada do Palmeiras contra o Corinthians pelo Brasileirão. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Conflito",
-      "texto": "Torcedores do Corinthians protestam em frente no Parque São Jorge e pedem ‘intervenção judicial já’. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Torcedores do Corinthians protestam em frente no Parque São Jorge e pedem ‘intervenção judicial já’. A leitura óbvia é uma. A que importa é outra.",
-      "thumb": "NÃO É BEM ASSIM"
+      "texto": "Bastidores da goleada do Palmeiras contra o Corinthians pelo Brasileirão. Por trás disso, tem dois lados que não querem a mesma coisa.",
+      "thumb": "CORINTHIANS x PALMEIRAS"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Torcedores do Corinthians protestam no Parque São Jorge e pedem 'intervenção judicial já'",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNd1NmRXNpOE5UM3dxYkRkOFlUbHlpSXkwaFV6M09WWUE3TGtoQU9oZS1VQjBSMVBhTHVOVGdfbENwTHRtQVlDYm13U3pYQmNoM3Jfd1ZrSXhfeF9lcjBzc2ppbTI1emR2cFpjV2g0R3ZweTZaWWhvVnc0QlNOUi1TbUhsN2g1SGk5QmcxRFY0SHhNb2JXWjZCUXdBRlFidFUyOUdDM2M4NnNIaEluenhQeGVMMFJnRUpXT3YzRXdXTlVYUHZVTEUzb3dZZXN1eDE3N0hoaG93NFVhQUpxbHZIOUdPYmJkb29ULThEc01Jcw?oc=5"
+     "titulo": "Memphis Depay perderá estreia de Clarence Seedorf, e crise do Corinthians na luta contra o rebaixamento se agrava após goleada sofrida para o Palmeiras",
+     "fonte": "Goal.com",
+     "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQUnFhamI1VHIwU3B0WmRsS2ZWblFJYWlVSF8xTDVWM0J1T1lsbDltZThJZzQ0c2hlTXItRzNjSUc0OFBwc3BneG5MbU1qMnFtaHJ5WjFENnVpeG9fVFo4QTY4VDJzc2VYYldsNWpVeEc0Y3Z4TUdpd3Zaa3B0N2htZHR3ODdvNkZjXzFCRE13Y2VmbTV1cDg3bnRjNGgtZHFhbHRzV3BGai0zVnRjXzFCOUJhUzNRTU5fNzFUY1ZnVEZ3Mms1UDNPUDZQenZHMjVlZkF6ckhUMjNSUllva0l6RXUxTlJmdjJ0bXVOVVV5aEFaVEp0LWk0SnhuZ2ZRVEc4NU90bVlSaHA5SmJ6U2ZLUkxhVms1M29zUFUzWmNLMGJ4NUd0cFBoNg?oc=5"
     },
     {
-     "titulo": "Torcedores do Corinthians protestam em frente no Parque São Jorge e pedem ‘intervenção judicial já’",
-     "fonte": "Estadão",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUWdiczIweEFkLW5MaE9YTVNqMXpYZUpSbGpyZ3Zfdk5LUVpOX1Zkb3UtVlhZTTVaRVFucjA2SXI2enpPQkE2NjlvMEx4MFN2ekV0bWVNemVyUEJMQ0lJTG84Ti1BNmplVjE0d3h0aG45LV9ybWw1M3RvZFd2dWVENERkWUlnZjUtTmx2a3BwMjZzNHRvZGFPSF9Jb1hIV3pHeVVCdVdEQlVpZlN3Z0txS2laN3lTcktRMXpjQVE3WFFWcXJ4amgwcjJYNEd6dUE1dl9rYVRyYlBtOUVMTWJyRzFUQjQ?oc=5"
+     "titulo": "Bastidores da goleada do Palmeiras contra o Corinthians pelo Brasileirão",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMTZ2OG1LaXlKdmhRQ3V5U0V3Mm45X29MekU1LUdyQUNGTnpvOEphTWViN1Q3Q0E5QWtjNXU2UmpjR0dfTHZKNEhtVTRfTjJaZllDay00ay1ZVV9lWTdvZWhmMXR1NnZTZThyQjhYSmQ0ZGtEa1k1TjI3R0FzazhuWmtsM3NjZzhWRnZSaGJtcjJmNDNtY3RCb003THYweG5DNUNsZlk3cFZpeWRiOUdPcWRJS1h4V2ZkS2hDekln0gHDAUFVX3lxTE5UcHRnTTBJU0paSTF3ekRPa19DQm5NS2FRRVJlVGV1UU5yYWFud045NlNZVjFHNE9YYjd0cFhfa2h2UFZ6S0tDd2NHZ1hIQTBMZkp2eTliVTRJcEoyUnpsbEs4by1RZDBDZm51ZGIwMTJmX09VbnUteEZ6eFRoOFV2a1JLc0F4dElZQUFtSEJDQ192ZElPLUQ3N29SS1pETThnOVV6ZldpQzR0T3N3d3V0RUc5RDZmYmpLZUhzcXdIM1ZGOA?oc=5"
     },
     {
-     "titulo": "Torcedores do Corinthians protestam no Parque São Jorge e pedem intervenção judicial",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeGs1Z1N1V3BuUDVoTlE3Q212WDgtVUcwQjF1cWJreVZqRU9QMWZMYVlQRTdxcl9zSkhBWnNJeDFEeFNNOE82Tk44aVdwOU02SXRLRGtWVFRocVdjbl8waEpNNC1GWmpFT2R3NGpVR0VTX3JlVlNSbEhReFRpMXhYN3gwU0wwMWJDMjR6VHV4V1lobU1ldVRHMHRFMThLeU9tSjBYOGZISmcyNzdOX0U3RUVqN245YlhOZkhieDZWRW9OZWNtQnE5eEJBLVl3R1NsNElDNV8wbHljOFJpc1dwMTJicTFYVFhDN1dsZ9IB-wFBVV95cUxOVDBJUHB3WnFMS3Btc3RSbzZsSTlLRVZuWVY5bXhmMEk0TFhPTl8tcF9xU0YyOGZfdTYzUk42Zmx3OUpaNUd5dnN6eGx2bGs3NERnenh1am01RUZyaWhlSDRXMHQ2bkdnLUdfUWk5SEVKZUJEREsyelhRcTFKNE5BbUhCQTFrUG1PQXVkYzVVSzI4cmxjM2JBUzJrNWdSR2tGTFhoRnJaZm9NV3huWWJzYmpNODZQdnJzUG9xRWU3andxdW9YYzljSGh4R1VSam9KSFJ3QzJVQ3IwR0FHVjF4Mm5xZHItM194dW1UcllTQmV4U1p6bnNkWnluOA?oc=5"
-    },
-    {
-     "titulo": "Torcedores do Corinthians protestam e pedem intervenção judicial",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTlEzZHB6U3k5dlkzQ0dyemRxblk4QVltR1NjOUMtSFh2STBjblFJMzc1UG9NRlB4amtPTTJDakJlWFo0dms1TVdBNGRMUmpoYVU1bTIwLUhkX0IyYk1nT1pDUTFpQXhGNUkwZjBrQ3FSdUdzV0JmTVVkS0lPSzk5dXpXbWZkOUo0TlRWNlNNTzRZS1V5dE5ncXloOUlYTEhTM0E1ZUFSOGV5T0JhQUE?oc=5"
-    },
-    {
-     "titulo": "Protesto: torcedores do Corinthians pedem intervenção judicial",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeGd2S2VvbXY0UzhCcTVmOUgtNWpGT3NWcGpLeC1PTEU0SlZiTG1IeG5DSUc2alJyWE52ZUY4cTRoZm94ZUp4bDFsaHRBZ08yOHNLUkJkUUM5VURZaUczQVNMd1A3VTQ3eEtxeFdBNDBsb0pWdTY4NmFsdmh3MUNMMHNWQWExcDRkbk0wN2F1Rm1WTkJ3dGxWWTRKVV9EZno2NDhzUjl3NU95NjNDVGRqbE11M0c4aG0zb2dadg?oc=5"
+     "titulo": "Joga nas 11: Palmeiras domina o clássico e Corinthians sofre a oitava derrota seguida no Brasileirão",
+     "fonte": "R7 Esportes",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQV0tkWFd6TGxVZVRGNmhqSXBMZGh0RXhzcmFtWlhvN0o5WVQ1N3BZbjBna3pTY3UzcDlDdGtBZXJ1bl9aNWZQRXlaR0pnQkZxOF8wR0laSy12UEFkdS1BV2x0OVJPb1RtanRlYXd4OExuWHlNRzZYV0JhQkZHRzl6MFlRVWlzS0thUDVsNjk4a3NvY3g0ZHhhc3RlbFNqV3h6TUpCYnhwX1Q0SnRYZkNCQl9NdUJuOXFyWlJpa1VaUGl0Nk5RNzRNN3FsM1lDY1VaNWRvMExhSWZHNzRuODRGclJ2WUtfWHpjRGR1ZllrcGhGZ0V2X09uSXM0bGxBRnNTYWZ2Ymx2bFJrNE5aekpUcWRTRTFYUE1aS213QVBPVlRQdw?oc=5"
     }
    ]
   },
   {
-   "tema": "Palmeiras goleia Corinthians e mantém invencibilidade em clássicos estaduais na temporada",
+   "tema": "Corinthians perde camisa 10 para confronto diante do Vitória",
    "categoria": "Jogo e resultado",
    "clubes": [
-    "Palmeiras",
     "Corinthians"
    ],
    "foco": true,
-   "nota": 68.6,
+   "nota": 58.3,
    "sinais": {
-    "busca": 70,
-    "aceleracao": 15,
-    "midia": 87,
+    "busca": 0,
+    "aceleracao": 73,
+    "midia": 58,
     "aderencia": 100,
     "youtube": null
    },
    "fator_categoria": 1.092,
    "trafego_google": 0,
-   "busca_torcedor": "palmeiras x corinthians",
+   "busca_torcedor": null,
    "termos_trends": [],
-   "n_fontes": 7,
-   "n_manchetes": 7,
-   "assinatura": "palme|class|mante|golei",
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "corin|perde|vitor|diant",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Palmeiras goleia Corinthians e mantém invencibilidade em clássicos estaduais na temporada. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
-    "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Palmeiras goleia Corinthians e mantém invencibilidade em clássicos estaduais na temporada?",
-    "tecnica": "Aposta",
+    "gancho": "Corinthians perde camisa 10 para confronto diante do Vitória. Isso é bom ou ruim para o Corinthians? Responde antes de ver a minha análise.",
+    "titulo_thumb": "E AGORA, CORINTHIANS?",
+    "pergunta_enquete": "Qual sua opinião: Corinthians perde camisa 10 para confronto diante do Vitória?",
+    "tecnica": "Pergunta aberta",
     "ganchos": [
      {
+      "tecnica": "Pergunta aberta",
+      "texto": "Corinthians perde camisa 10 para confronto diante do Vitória. Isso é bom ou ruim para o Corinthians? Responde antes de ver a minha análise.",
+      "thumb": "E AGORA, CORINTHIANS?"
+     },
+     {
       "tecnica": "Aposta",
-      "texto": "Palmeiras goleia Corinthians e mantém invencibilidade em clássicos estaduais na temporada. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
+      "texto": "Corinthians perde camisa 10 para confronto diante do Vitória. Minha aposta: depois desse jogo, [SEU PALPITE]. Me cobra depois.",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Conflito",
-      "texto": "Palmeiras goleia Corinthians e mantém invencibilidade em clássicos estaduais na temporada. Quem venceu comemora; quem perdeu tem uma conta para acertar.",
-      "thumb": "PALMEIRAS x CORINTHIANS"
+      "texto": "Corinthians perde camisa 10 para confronto diante do Vitória. Quem venceu comemora; quem perdeu tem uma conta para acertar.",
+      "thumb": "QUEM TEM RAZÃO?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Palmeiras goleia Corinthians e mantém invencibilidade em clássicos estaduais na temporada. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
+      "texto": "Corinthians perde camisa 10 para confronto diante do Vitória. O placar diz uma coisa. O jogo, visto de perto, diz outra.",
       "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Palmeiras goleia Corinthians e mantém invencibilidade em clássicos estaduais na temporada. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
-      "thumb": "E AGORA, PALMEIRAS?"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Palmeiras goleia Corinthians com naturalidade e reforça abismo entre rivais",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYmVybk1ab0ItazFtdUtTcllBT2Q2TEtPMHZiVl9GZTNHMHNkS0lVSjJIM3VNckEtT2ZsZVE0ajJScUlGTWpxLWxheThLcU5MYlFXS0d1Q01qNHRfZEpORWtFQ2E5SVQ5S2lTcUhqNmNkSUVHbWhaQW1jYlRjSDhHNGNyY29PTGFLbEwya3RoQ1ZUR19xUkMyTlEtcm1KZjYwNm5fdmlIeWM1WVRWNkpmdDhmZHR3aGNMYXJFdXpuYzJINzRJRWxsRmtFdVBkRUZlS2JxZ0tIYmNrb1NyczRTMg?oc=5"
+     "titulo": "Vitória perde atleta titular para encarar o Corinthians fora de casa",
+     "fonte": "A TARDE",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGNDWng3ZVl3UzFpZTNobDdjNUlGMGVTQ2w0VHN6TWdUbVQzNkpQbUFQS1BHc1d2aDVkbEVSb3VwTnBITzhHNk5DbVFOeTFfZjIxQ3kxenh6S083Z1Q2dmw3ZENqY1NaQTZYTmd0RnVJNmVYcy1PVE9SczFXdmJVZGdJeGVFa0RsdEYzS3p1RWM4MUZGZFI5TFU5aHF6V0JaX3hNTXVsTGpOQm1iNF9YNUl3UnViQlBG0gHAAUFVX3lxTE8wQXdCM0Vja29ic1JhNFdMMzR5N3hmcmNRM0szUzZHeld6TnVUd1RkZVUtOXh4TV9BSE93YjFmbThXX2g3UUxEUUw5SExXeDhKYzNIb3kxS2Yzd2hnaG1jTzJMb3N5VC1IVkx3Z0NQOXBrQ0d6Ul9TeUVxS3BDdG1nNmlhNG9WYkpwM2MtU3FYMndpMkxrcWFpaWY4YjBwUW5sVWJieVdGcU9odXhUNjVzTGxoQ2huLXk0cWNjRi1KTA?oc=5"
     },
     {
-     "titulo": "Palmeiras goleia e coloca Corinthians mais próximo da Z4",
-     "fonte": "G1",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSVQ5b1F2d3NDNFBQWmw4NnpXV1FQU3VMeE5YaGRBLVU5ZVV4NlMzZXc0bTNlYjJDZmRKWjVfRUlSeTRVdDBZTWI1RnpleXJkdExtYk12aHhSNm44emJGOWtRQ1dCM0ZJV0M1dEtHZDh4WW5aV3pReXlqbmlGMEJpUmE5TGEwNzlQbms3bWJrcHZLZVAtOFlHREpIOWEydW9LcXVaTU9PRy1zT1FNNjNwVjF1S3hSNi1NdGxvV1ZyQnFPb29yU3lFTm50QkRZZldaMFpYZDBBYVA1Q0pPa25FZUE3VUkwa2c1cHBIetIB7AFBVV95cUxOSVQ5b1F2d3NDNFBQWmw4NnpXV1FQU3VMeE5YaGRBLVU5ZVV4NlMzZXc0bTNlYjJDZmRKWjVfRUlSeTRVdDBZTWI1RnpleXJkdExtYk12aHhSNm44emJGOWtRQ1dCM0ZJV0M1dEtHZDh4WW5aV3pReXlqbmlGMEJpUmE5TGEwNzlQbms3bWJrcHZLZVAtOFlHREpIOWEydW9LcXVaTU9PRy1zT1FNNjNwVjF1S3hSNi1NdGxvV1ZyQnFPb29yU3lFTm50QkRZZldaMFpYZDBBYVA1Q0pPa25FZUE3VUkwa2c1cHBIeg?oc=5"
+     "titulo": "Corinthians perde camisa 10 para confronto diante do Vitória",
+     "fonte": "Portal Salvador FM",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVHZqZ2pJZUo4VGxfeldpdk9EYngyT0FLQkpqSVZzRXVaOWUwN0FUajFwYkpZM2s1TllMRjJyY0lrUFhQTFFmc2Nqam9JRl9QbU9PQXhUOHAxVUJ5UGMwVVRTc0ttVWpvbU80bGpOOTM5cEtUZV9lTHkxamk1X05rdUZENzAteW05QlBmOEFWd2taZnNoRFlJaEdwUm51RmZoSUJYODd5SHVXZw?oc=5"
     },
     {
-     "titulo": "Palmeiras mantém domínio em clássicos e ganha moral para Libertadores",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaU9SSU9JOTF1eVVXaVhTTnlFTjFSSmZ0Tjk5bTlXUlh5clBXcHlyaWVHNXZUUDVHWC04SllrMF9Nd1hCSUFHSE5LM01fSndvUFVKWUF4ck9hRU93UVlBSXFRU0FVeHV5VTk3NWhNUDV0UURLZ2hMc3Z6RzBPM0dCeEFWeHBhRXNRXzhKc0ppYmo0eHlWOG50N0hUZ1NzR3ZDWmZXYk5nS0V3NGlOSUQzOXNNLW5nTzNNZTlrd1QwNWZqamgyTGJMVklCbjUzY0RqcEhsZ3NBM2hmOTZzWGcxZEVMOTZhcFd6TFVkYVVUS1U?oc=5"
-    },
-    {
-     "titulo": "Palmeiras mantém domínio nos clássicos e ganha moral para Libertadores",
-     "fonte": "Jogada 10",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHQ3RmRBbGxGX2pxZF83QjBBaWs3dXhuS1VpVFJZcWM2NjhQRUxYTkZTaGFtOXRVbExDTTF1WHZIWWpld2JKUXlDcUNfanBlRXdUcFp0ejU1QnJ6clRfV2xsYmExWTBWTEJ5S3g2VUNZaEhKRnVSYnZ2bm9KOHJsX3RrS0FSRHQyUF9WUnVTUlFiQ1J6czFmY1hXRm51LTBL0gGgAUFVX3lxTFAwdDdGZEFsbEZfanFkXzdCMEFpazd1eG5LVWlUUllxYzY2OFBFTFhORlNoYW05dFVsTENNMXVYdkhZamV3YkpReUNxQ19qcGVFd1RwWnR6NTVCcnpyVF9XbGxiYTFZMFZMQnlLeDZVQ1loSEpGdVJidnZub0o4cmxfdGtLQVJEdDJQX1ZSdVNSUWJDUnpzMWZjWFdGbnUtMEs?oc=5"
-    },
-    {
-     "titulo": "Palmeiras se mantém imbatível em clássicos e mira invencibilidade",
-     "fonte": "Portal Hortolândia",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSldoN3JRZWlaN08wcklVWnZyX1hFYXhnajlHRFdaU1dUMWQzR0Z2R1J0ZnRqY2d2aHZ2cENTSjdaTnBlbFdiZVQtN1pIak1uRnBJVmhDV3UtdzlYaGVNNnoxTm9JbGptelZnMTFJVmh0Q1RtMXIyZUp4dGx6VkEydXlfWmM2X0JsRmgzSTUwak1nelg0MXBvSUlMRTljVGpSU2dOeXNaVnI5ZEtCRHl4LUdEWm43R2NBck9jaTRFdGY?oc=5"
+     "titulo": "Vitória perde Cacá e ganha retorno de Tarzia diante do Corinthians",
+     "fonte": "Bahia Notícias",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0pTNGhUNC11dEQzMVlOX25FS29hb1pDb082T1VMM3VtTDBLUzFEdlFkRmI4bVVhWl9wUEJWSVBQZjFBckZ5TjgtVVB3TU5uMm9xMExWZThKeVVwZ0QyRS0wVGpGMDZwc0pxX3ByQktRVmlUOUVPTWtEN1Y4em1WME9DV0N5Q3JxRFFVTFVId0h0V0ZQLWRObm9oc0JYdlhHQldDVGx4cFk3WkYzMjJzR2VvajVMakN1alJIeEY2bw?oc=5"
     }
    ]
   }
