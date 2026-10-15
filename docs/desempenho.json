@@ -1,38 +1,38 @@
 {
- "gerado_em": "2026-10-14T15:31:13.042905+00:00",
+ "gerado_em": "2026-10-15T15:20:24.106288+00:00",
  "canal": {
   "id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
   "nome": "NAÇÕES DA BOLA o canal de todas as torcidas",
   "inscritos": 5910
  },
  "periodo": {
-  "inicio": "2026-09-14",
-  "fim": "2026-10-11",
-  "janela_inicio": "2026-07-14"
+  "inicio": "2026-09-15",
+  "fim": "2026-10-12",
+  "janela_inicio": "2026-07-15"
  },
- "n_videos": 60,
+ "n_videos": 59,
  "n_videos_v7": 40,
  "mediana_v7": 172,
  "resumo_semana": {
   "views": {
-   "atual": 1958,
-   "anterior": 4661,
-   "variacao": -58.0
+   "atual": 1967,
+   "anterior": 2911,
+   "variacao": -32.4
   },
   "minutos": {
-   "atual": 2976,
-   "anterior": 2411,
-   "variacao": 23.4
+   "atual": 3046,
+   "anterior": 1673,
+   "variacao": 82.1
   },
   "inscritos_ganhos": {
    "atual": 2,
-   "anterior": 7,
-   "variacao": -71.4
+   "anterior": 4,
+   "variacao": -50.0
   },
   "inscritos_perdidos": {
-   "atual": 1,
+   "atual": 2,
    "anterior": 1,
-   "variacao": 0.0
+   "variacao": 100.0
   }
  },
  "formatos": [
@@ -42,7 +42,7 @@
    "mediana_v7": 0,
    "indice": null,
    "pct_assistido": null,
-   "views": 25,
+   "views": 24,
    "pct_views": 0.2,
    "inscritos": 0,
    "minutos": 5
@@ -53,7 +53,7 @@
    "mediana_v7": 0,
    "indice": null,
    "pct_assistido": null,
-   "views": 39,
+   "views": 38,
    "pct_views": 0.3,
    "inscritos": 0,
    "minutos": 35
@@ -64,10 +64,10 @@
    "mediana_v7": 172,
    "indice": 1.0,
    "pct_assistido": 2.9,
-   "views": 14237,
+   "views": 14076,
    "pct_views": 99.6,
-   "inscritos": 18,
-   "minutos": 10909
+   "inscritos": 17,
+   "minutos": 10770
   }
  ],
  "tipos": [
@@ -241,42 +241,42 @@
  "trafego": [
   {
    "origem": "Página inicial e inscrições",
-   "views": 11674,
-   "pct": 81.6
+   "views": 11567,
+   "pct": 81.8
   },
   {
    "origem": "Vídeos sugeridos",
-   "views": 1404,
-   "pct": 9.8
+   "views": 1400,
+   "pct": 9.9
   },
   {
    "origem": "Sites e apps externos",
-   "views": 425,
-   "pct": 3.0
+   "views": 384,
+   "pct": 2.7
   },
   {
    "origem": "Busca do YouTube",
-   "views": 317,
-   "pct": 2.2
+   "views": 325,
+   "pct": 2.3
   },
   {
    "origem": "Página do canal",
-   "views": 205,
+   "views": 198,
    "pct": 1.4
   },
   {
    "origem": "Notificações",
-   "views": 117,
+   "views": 111,
    "pct": 0.8
   },
   {
    "origem": "Acesso direto ou desconhecido",
-   "views": 85,
+   "views": 80,
    "pct": 0.6
   },
   {
    "origem": "Outras páginas do YouTube",
-   "views": 65,
+   "views": 64,
    "pct": 0.5
   }
  ],
@@ -358,7 +358,7 @@
    "url": "https://www.youtube.com/watch?v=5G-G0JQj4rU",
    "formato": "Lives",
    "inscritos": 3,
-   "views": 337
+   "views": 338
   },
   {
    "titulo": "SAI  PRO JOGO  # 215",
@@ -428,12 +428,12 @@
   "Jogo e resultado": 1.092
  },
  "alcance": {
-  "impressoes": 89377,
+  "impressoes": 88422,
   "ctr": 5.6,
   "por_formato": [
    {
     "nome": "Lives",
-    "impressoes": 87523,
+    "impressoes": 86566,
     "ctr": 5.6,
     "n_videos": 47
    }
@@ -441,19 +441,19 @@
   "por_tipo": [
    {
     "nome": "Transmissão de jogo",
-    "impressoes": 67817,
+    "impressoes": 67539,
     "ctr": 6.8,
     "n_videos": 24
    },
    {
     "nome": "Sai pro Jogo (programa)",
-    "impressoes": 2525,
-    "ctr": 2.2,
+    "impressoes": 1890,
+    "ctr": 1.8,
     "n_videos": 6
    },
    {
     "nome": "Resenha multitemas",
-    "impressoes": 15726,
+    "impressoes": 15682,
     "ctr": 1.4,
     "n_videos": 15
    }
@@ -462,7 +462,7 @@
    {
     "titulo": "NORUEGA  X  PORTUGAL - 2ª  RODADA",
     "url": "https://www.youtube.com/watch?v=JdjD9CTWZi8",
-    "impressoes": 2623,
+    "impressoes": 2624,
     "ctr": 21.7,
     "formato": "Lives",
     "pct_assistido": 1.1
@@ -470,7 +470,7 @@
    {
     "titulo": "BÉLGICA   X  FRANÇA - 2ª RODADA",
     "url": "https://www.youtube.com/watch?v=LipNKeyEO1k",
-    "impressoes": 5017,
+    "impressoes": 5018,
     "ctr": 17.5,
     "formato": "Lives",
     "pct_assistido": 0.6
@@ -478,7 +478,7 @@
    {
     "titulo": "SÃO PAULO  X  SANTOS -  RODADA 21",
     "url": "https://www.youtube.com/watch?v=HU2ftPLYSfI",
-    "impressoes": 6821,
+    "impressoes": 6822,
     "ctr": 10.7,
     "formato": "Lives",
     "pct_assistido": 0.7
@@ -486,7 +486,7 @@
    {
     "titulo": "NORUEGA X PORTUGAL",
     "url": "https://www.youtube.com/watch?v=NXHprVpRKOY",
-    "impressoes": 5054,
+    "impressoes": 5055,
     "ctr": 8.7,
     "formato": "Lives",
     "pct_assistido": 2.5
@@ -494,7 +494,7 @@
    {
     "titulo": "ESPANHA X CROÁCIA - 2ª RODADA",
     "url": "https://www.youtube.com/watch?v=ABGH1zdZRN0",
-    "impressoes": 3119,
+    "impressoes": 3120,
     "ctr": 8.1,
     "formato": "Lives",
     "pct_assistido": 0.4
@@ -504,7 +504,7 @@
    {
     "titulo": "ANÁLISE DOS DOIS JOGOS DO BRASIL/40 JOGOS INVICTOS. ESPANHA É A DONA DA  BOLA?/SAN-SÃO AGITA O BR/26",
     "url": "https://www.youtube.com/watch?v=gEjicU4OPnU",
-    "impressoes": 2884,
+    "impressoes": 2889,
     "ctr": 0.9,
     "formato": "Lives",
     "pct_assistido": 8.5
@@ -512,7 +512,7 @@
    {
     "titulo": "PEIXE SOBE E SP ESTANCA/TRICOLOR CAMPEÃO BRASILEIRO FEMININO/DATA FIFA VALEU?/MESSI E O FIM DA MAGIA",
     "url": "https://www.youtube.com/watch?v=2TzEBAEgUfo",
-    "impressoes": 6762,
+    "impressoes": 6805,
     "ctr": 1.2,
     "formato": "Lives",
     "pct_assistido": 5.4
@@ -520,7 +520,7 @@
    {
     "titulo": "A NOVA SELEÇÃO NA TERRA DOS CANGURUS/NDB PERGUNTA; QUAL É O CRAQUE DO BR-26 ?/BATISTA SALVA O INTER?",
     "url": "https://www.youtube.com/watch?v=__pBi2iRdIo",
-    "impressoes": 3336,
+    "impressoes": 3337,
     "ctr": 1.2,
     "formato": "Lives",
     "pct_assistido": 12.2
@@ -528,7 +528,7 @@
    {
     "titulo": "SÃO PAULO X  BOCA JUNIORS - JOGO DE VOLTA",
     "url": "https://www.youtube.com/watch?v=rNKkY2LwHrQ",
-    "impressoes": 15413,
+    "impressoes": 15414,
     "ctr": 1.8,
     "formato": "Lives",
     "pct_assistido": 0.5
@@ -536,23 +536,23 @@
    {
     "titulo": "FLU AFUNDA TIMÃO /VERDÃO PARA NAS MÃOS DE EX/TRICOLOR BATE INTER NO SUFOCO/MENGÃO ABRE SOBRE VERDÃO",
     "url": "https://www.youtube.com/watch?v=5G-G0JQj4rU",
-    "impressoes": 2347,
+    "impressoes": 2348,
     "ctr": 2.4,
     "formato": "Lives",
     "pct_assistido": 6.1
    }
   ],
-  "n_videos": 18,
+  "n_videos": 17,
   "ativado_em": "2026-09-30T04:22:41.545419+00:00"
  },
  "monetizacao": {
-  "views_28d": 14335,
-  "media_diaria": 512,
+  "views_28d": 14172,
+  "media_diaria": 506,
   "tendencia_pct": -30.0,
   "previsao_views_30d": {
    "Vídeos longos": 29,
-   "Lives": 10703,
-   "Shorts": 19
+   "Lives": 10582,
+   "Shorts": 18
   },
   "rpm_referencia": {
    "Vídeos longos": [
@@ -572,15 +572,11 @@
    ]
   },
   "estimativa_rs": {
-   "pessimista": 16.11,
-   "provavel": 32.23,
-   "otimista": 64.46
+   "pessimista": 15.93,
+   "provavel": 31.86,
+   "otimista": 63.73
   },
   "serie_diaria": [
-   {
-    "dia": "2026-09-14",
-    "views": 193
-   },
    {
     "dia": "2026-09-15",
     "views": 1066
@@ -688,16 +684,20 @@
    {
     "dia": "2026-10-11",
     "views": 763
+   },
+   {
+    "dia": "2026-10-12",
+    "views": 30
    }
   ],
   "elegibilidade": {
    "inscritos": 5910,
-   "horas_12m": 2297,
+   "horas_12m": 2299,
    "shorts_90d": 71,
    "meta_inscritos": 1000,
    "meta_horas": 4000,
    "meta_shorts": 10000000,
-   "horas_mes_ritmo": 195,
+   "horas_mes_ritmo": 193,
    "horas_mes_necessarias": 333,
    "monetizado": true,
    "cumpre": true
@@ -710,12 +710,12 @@
    {
     "id": "horas_12m",
     "nome": "Horas assistidas públicas (12 meses)",
-    "atual": 2297,
+    "atual": 2299,
     "meta": 4000,
     "nivel": "anúncios",
     "status": "abaixo",
-    "texto": "2.297 h públicas nos últimos 12 meses (vídeos longos e lives; Shorts, privados e apagados não contam). Nos próximos 30 dias saem da conta ~308 h e entram ~194 h no ritmo atual: projeção de 2.183 h.",
-    "acao": "Faltam 1.703 h. Lives longas e vídeos longos contam; seriam uns 142 h a mais por mês durante um ano."
+    "texto": "2.299 h públicas nos últimos 12 meses (vídeos longos e lives; Shorts, privados e apagados não contam). Nos próximos 30 dias saem da conta ~320 h e entram ~191 h no ritmo atual: projeção de 2.171 h.",
+    "acao": "Faltam 1.701 h. Lives longas e vídeos longos contam; seriam uns 142 h a mais por mês durante um ano."
    },
    {
     "id": "inscritos",
@@ -744,7 +744,7 @@
     "meta": null,
     "nivel": "Supers e membros",
     "status": "abaixo",
-    "texto": "5.910 de 500 inscritos, 60 de 3 envios públicos em 90 dias e 2.297 de 3.000 h (ou 3.000.000 views de Shorts em 90 dias).",
+    "texto": "5.910 de 500 inscritos, 59 de 3 envios públicos em 90 dias e 2.299 de 3.000 h (ou 3.000.000 views de Shorts em 90 dias).",
     "acao": null
    },
    {
@@ -798,7 +798,7 @@
     "acao": null
    }
   ],
-  "horas_publicas": 2297,
+  "horas_publicas": 2299,
   "horas": {
    "por_mes": [
     {
@@ -851,12 +851,12 @@
     },
     {
      "mes": "2026-10",
-     "horas": 72
+     "horas": 74
     }
    ],
-   "saem_30d": 308,
-   "entram_30d": 194,
-   "projecao_30d": 2183,
+   "saem_30d": 320,
+   "entram_30d": 191,
+   "projecao_30d": 2171,
    "fora_da_conta": 15
   },
   "pendencias": [
@@ -866,10 +866,10 @@
   "nota": "O canal já está no Programa de Parcerias: requisitos de entrada abaixo da meta não tiram a monetização, mas indicam queda de audiência. O que pode tirar é inatividade, advertências ou violação de políticas."
  },
  "recomendacoes": [
-  "Quem mais traz inscritos: Lives (18 nas últimas 4 semanas).",
+  "Quem mais traz inscritos: Lives (17 nas últimas 4 semanas).",
   "Tipo de conteúdo que mais rende: Transmissão de jogo (1,9x a mediana, 21 vídeos); o que menos rende: Resenha multitemas (0,2x).",
   "Tema que mais rende: Jogo e resultado (1,2x a mediana). O radar já dá peso maior a ele.",
-  "Taxa de cliques das miniaturas: 5,6% em 89,377 impressões nas últimas 4 semanas (a maioria dos canais fica entre 2% e 10%).",
+  "Taxa de cliques das miniaturas: 5,6% em 88,422 impressões nas últimas 4 semanas (a maioria dos canais fica entre 2% e 10%).",
   "Miniatura que mais atrai cliques: Transmissão de jogo (6,8%); a que menos atrai: Resenha multitemas (1,4%). Copie o estilo da primeira.",
   "\"ANÁLISE DOS DOIS JOGOS DO BRASIL/40 JOGOS INVICTOS. ESPANHA \" foi muito mostrado, mas pouco clicado (0,9%): troque a miniatura e o título (o YouTube Studio permite testar até 3 miniaturas).",
   "Maior origem de público: Página inicial e inscrições (82% das views).",
