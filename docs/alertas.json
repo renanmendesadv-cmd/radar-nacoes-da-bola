@@ -1,6 +1,33 @@
 {
- "atualizado_em": "2026-10-17T17:21:06.854307+00:00",
+ "atualizado_em": "2026-10-17T19:35:53.949122+00:00",
  "alertas": [
+  {
+   "id": "FCSO1cUEb44",
+   "tema": "QUEM VAI CAIR PARA A SÉRIE B!!??🅱️",
+   "clubes": [],
+   "origem": "Em alta no YouTube (Esportes)",
+   "formato_em_alta": "Shorts",
+   "sugestao": "Short de 30 a 60 s com a sua opinião ou reação (poste o mesmo vídeo como Reels no Instagram)",
+   "dica_do_canal": "Seu canal quase não tem Shorts: é uma chance de testar o formato com um assunto que já está bombando.",
+   "n_videos": 1,
+   "views": 530849,
+   "velocidade": 101.8,
+   "engajamento": 1.1,
+   "engajamento_pct": 2.5,
+   "ganho_hora": null,
+   "exemplos": [
+    {
+     "titulo": "QUEM VAI CAIR PARA A SÉRIE B!!??🅱️",
+     "canal": "Jaum Brow",
+     "views": 530849,
+     "url": "https://www.youtube.com/watch?v=FCSO1cUEb44",
+     "formato": "Shorts",
+     "views_hora": 22741
+    }
+   ],
+   "avisado_em": "2026-10-17T19:35:53.949122+00:00",
+   "pelo_vigia": true
+  },
   {
    "id": "uctU3ny65yQ",
    "tema": "São Paulo x Vasco: onde assistir ao vivo, horário e prováveis escalações do jogo do Brasileirão",
