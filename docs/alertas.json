@@ -1,6 +1,53 @@
 {
- "atualizado_em": "2026-10-16T22:54:26.580235+00:00",
+ "atualizado_em": "2026-10-17T17:21:06.854307+00:00",
  "alertas": [
+  {
+   "id": "uctU3ny65yQ",
+   "tema": "São Paulo x Vasco: onde assistir ao vivo, horário e prováveis escalações do jogo do Brasileirão",
+   "clubes": [
+    "São Paulo",
+    "Vasco"
+   ],
+   "origem": "Pauta do radar",
+   "formato_em_alta": "Vídeos longos",
+   "sugestao": "Vídeo de 8 a 12 min com análise e opinião forte logo no início",
+   "dica_do_canal": "No seu canal, Transmissão de jogo rende 1,9x a média: puxe o assunto também na próxima live.",
+   "n_videos": 5,
+   "views": 27072,
+   "velocidade": 14.6,
+   "engajamento": 2.9,
+   "engajamento_pct": 6.6,
+   "ganho_hora": null,
+   "exemplos": [
+    {
+     "titulo": "VASCO PRONTO! PEDRO EMANUEL MEXEU NO TIME E SURPREENDEU NA ESCALAÇÃO CONTRA O SÃO PAULO… \"PRA CIMA!\"",
+     "canal": "Nico Vasco",
+     "views": 23958,
+     "url": "https://www.youtube.com/watch?v=uctU3ny65yQ",
+     "formato": "Vídeos longos",
+     "views_hora": 3263
+    },
+    {
+     "titulo": "🔴 SÃO PAULO X VASCO AO VIVO | PRÉ-JOGO | BRASILEIRÃO",
+     "canal": "Tricolor_FAT",
+     "views": 630,
+     "url": "https://www.youtube.com/watch?v=8oVlidcdmMQ",
+     "formato": "Lives",
+     "views_hora": 159
+    },
+    {
+     "titulo": "🚨🔥 SÃO PAULO X VASCO! JOGÃO NO MORUMBIS! ⚽ PALPITES, ESCALAÇÕES E QUEM VENCE? 🇾🇪🏆",
+     "canal": "AtmosferaSPFC",
+     "views": 2267,
+     "url": "https://www.youtube.com/watch?v=3YtSzxDUBXw",
+     "formato": "Shorts",
+     "views_hora": 94
+    }
+   ],
+   "gancho": "São Paulo x Vasco: onde assistir ao vivo, horário e prováveis escalações do jogo do Brasileirão. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
+   "avisado_em": "2026-10-17T17:21:06.854307+00:00",
+   "pelo_vigia": true
+  },
   {
    "id": "6qy5d4J_hoM",
    "tema": "FIZEMOS A MENOR LIBERTADORES DO MUNDO! 🏆🔥",
