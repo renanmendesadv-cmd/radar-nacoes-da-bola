@@ -1,38 +1,38 @@
 {
- "gerado_em": "2026-10-21T15:38:56.323346+00:00",
+ "gerado_em": "2026-10-22T15:40:32.914240+00:00",
  "canal": {
   "id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
   "nome": "NAÇÕES DA BOLA o canal de todas as torcidas",
   "inscritos": 5920
  },
  "periodo": {
-  "inicio": "2026-09-21",
-  "fim": "2026-10-18",
-  "janela_inicio": "2026-07-21"
+  "inicio": "2026-09-22",
+  "fim": "2026-10-19",
+  "janela_inicio": "2026-07-22"
  },
  "n_videos": 52,
  "n_videos_v7": 40,
  "mediana_v7": 213,
  "resumo_semana": {
   "views": {
-   "atual": 4841,
-   "anterior": 1958,
-   "variacao": 147.2
+   "atual": 5384,
+   "anterior": 1967,
+   "variacao": 173.7
   },
   "minutos": {
-   "atual": 3412,
-   "anterior": 2976,
-   "variacao": 14.7
+   "atual": 3936,
+   "anterior": 3046,
+   "variacao": 29.2
   },
   "inscritos_ganhos": {
-   "atual": 8,
+   "atual": 9,
    "anterior": 2,
-   "variacao": 300.0
+   "variacao": 350.0
   },
   "inscritos_perdidos": {
-   "atual": 4,
-   "anterior": 1,
-   "variacao": 300.0
+   "atual": 3,
+   "anterior": 2,
+   "variacao": 50.0
   }
  },
  "formatos": [
@@ -42,7 +42,7 @@
    "mediana_v7": 0,
    "indice": null,
    "pct_assistido": null,
-   "views": 28,
+   "views": 26,
    "pct_views": 0.2,
    "inscritos": 0,
    "minutos": 6
@@ -53,7 +53,7 @@
    "mediana_v7": 0,
    "indice": null,
    "pct_assistido": null,
-   "views": 42,
+   "views": 41,
    "pct_views": 0.3,
    "inscritos": 1,
    "minutos": 19
@@ -64,10 +64,10 @@
    "mediana_v7": 213,
    "indice": 1.0,
    "pct_assistido": 2.9,
-   "views": 14139,
+   "views": 14477,
    "pct_views": 99.5,
-   "inscritos": 19,
-   "minutos": 11333
+   "inscritos": 20,
+   "minutos": 11523
   }
  ],
  "tipos": [
@@ -185,7 +185,7 @@
    "maior_queda": {
     "de": "1:28",
     "ate": "2:56",
-    "pontos": 84
+    "pontos": 80
    },
    "chega_ao_fim": 2
   },
@@ -241,42 +241,42 @@
  "trafego": [
   {
    "origem": "Página inicial e inscrições",
-   "views": 11475,
-   "pct": 80.8
+   "views": 11891,
+   "pct": 81.8
   },
   {
    "origem": "Vídeos sugeridos",
-   "views": 1502,
-   "pct": 10.6
+   "views": 1509,
+   "pct": 10.4
   },
   {
    "origem": "Sites e apps externos",
-   "views": 420,
-   "pct": 3.0
+   "views": 370,
+   "pct": 2.5
   },
   {
    "origem": "Busca do YouTube",
-   "views": 347,
+   "views": 345,
    "pct": 2.4
   },
   {
    "origem": "Página do canal",
-   "views": 192,
-   "pct": 1.4
+   "views": 178,
+   "pct": 1.2
   },
   {
    "origem": "Notificações",
-   "views": 111,
+   "views": 113,
    "pct": 0.8
   },
   {
    "origem": "Acesso direto ou desconhecido",
-   "views": 90,
-   "pct": 0.6
+   "views": 72,
+   "pct": 0.5
   },
   {
    "origem": "Outras páginas do YouTube",
-   "views": 58,
+   "views": 53,
    "pct": 0.4
   }
  ],
@@ -428,34 +428,28 @@
   "Jogo e resultado": 1.095
  },
  "alcance": {
-  "impressoes": 78563,
-  "ctr": 6.1,
+  "impressoes": 79128,
+  "ctr": 6.2,
   "por_formato": [
    {
     "nome": "Lives",
-    "impressoes": 76534,
-    "ctr": 6.2,
-    "n_videos": 49
+    "impressoes": 77108,
+    "ctr": 6.3,
+    "n_videos": 50
    }
   ],
   "por_tipo": [
    {
     "nome": "Transmissão de jogo",
-    "impressoes": 52121,
+    "impressoes": 53783,
     "ctr": 8.3,
-    "n_videos": 25
+    "n_videos": 26
    },
    {
     "nome": "Perguntas do público",
-    "impressoes": 3795,
+    "impressoes": 3806,
     "ctr": 2.3,
     "n_videos": 3
-   },
-   {
-    "nome": "Sai pro Jogo (programa)",
-    "impressoes": 1274,
-    "ctr": 2.1,
-    "n_videos": 6
    },
    {
     "nome": "Resenha multitemas",
@@ -500,7 +494,7 @@
    {
     "titulo": "SÃO PAULO  X   VASCO DA GAMA",
     "url": "https://www.youtube.com/watch?v=CQisa7_8LAg",
-    "impressoes": 9833,
+    "impressoes": 9858,
     "ctr": 8.6,
     "formato": "Lives",
     "pct_assistido": 0.8
@@ -542,7 +536,7 @@
    {
     "titulo": "TOCA E RECEBE",
     "url": "https://www.youtube.com/watch?v=687XT9STU9o",
-    "impressoes": 3715,
+    "impressoes": 3752,
     "ctr": 2.3,
     "formato": "Lives",
     "pct_assistido": 7.1
@@ -552,13 +546,13 @@
   "ativado_em": "2026-09-30T04:22:41.545419+00:00"
  },
  "monetizacao": {
-  "views_28d": 14244,
-  "media_diaria": 509,
+  "views_28d": 14574,
+  "media_diaria": 520,
   "tendencia_pct": 30.0,
   "previsao_views_30d": {
-   "Vídeos longos": 59,
-   "Lives": 19742,
-   "Shorts": 39
+   "Vídeos longos": 57,
+   "Lives": 20206,
+   "Shorts": 36
   },
   "rpm_referencia": {
    "Vídeos longos": [
@@ -578,15 +572,11 @@
    ]
   },
   "estimativa_rs": {
-   "pessimista": 29.73,
-   "provavel": 59.47,
-   "otimista": 118.94
+   "pessimista": 30.42,
+   "provavel": 60.85,
+   "otimista": 121.7
   },
   "serie_diaria": [
-   {
-    "dia": "2026-09-21",
-    "views": 243
-   },
    {
     "dia": "2026-09-22",
     "views": 299
@@ -689,21 +679,25 @@
    },
    {
     "dia": "2026-10-17",
-    "views": 2899
+    "views": 2894
    },
    {
     "dia": "2026-10-18",
     "views": 83
+   },
+   {
+    "dia": "2026-10-19",
+    "views": 578
    }
   ],
   "elegibilidade": {
    "inscritos": 5920,
-   "horas_12m": 2310,
-   "shorts_90d": 72,
+   "horas_12m": 2301,
+   "shorts_90d": 71,
    "meta_inscritos": 1000,
    "meta_horas": 4000,
    "meta_shorts": 10000000,
-   "horas_mes_ritmo": 203,
+   "horas_mes_ritmo": 206,
    "horas_mes_necessarias": 333,
    "monetizado": true,
    "cumpre": true
@@ -716,12 +710,12 @@
    {
     "id": "horas_12m",
     "nome": "Horas assistidas públicas (12 meses)",
-    "atual": 2310,
+    "atual": 2301,
     "meta": 4000,
     "nivel": "anúncios",
     "status": "abaixo",
-    "texto": "2.310 h públicas nos últimos 12 meses (vídeos longos e lives; Shorts, privados e apagados não contam). Nos próximos 30 dias saem da conta ~338 h e entram ~201 h no ritmo atual: projeção de 2.174 h.",
-    "acao": "Faltam 1.690 h. Lives longas e vídeos longos contam; seriam uns 141 h a mais por mês durante um ano."
+    "texto": "2.301 h públicas nos últimos 12 meses (vídeos longos e lives; Shorts, privados e apagados não contam). Nos próximos 30 dias saem da conta ~339 h e entram ~205 h no ritmo atual: projeção de 2.166 h.",
+    "acao": "Faltam 1.699 h. Lives longas e vídeos longos contam; seriam uns 142 h a mais por mês durante um ano."
    },
    {
     "id": "inscritos",
@@ -736,7 +730,7 @@
    {
     "id": "shorts_90d",
     "nome": "Alternativa às horas: views de Shorts (90 dias)",
-    "atual": 72,
+    "atual": 71,
     "meta": 10000000,
     "nivel": "anúncios",
     "status": "abaixo",
@@ -750,7 +744,7 @@
     "meta": null,
     "nivel": "Supers e membros",
     "status": "abaixo",
-    "texto": "5.920 de 500 inscritos, 52 de 3 envios públicos em 90 dias e 2.310 de 3.000 h (ou 3.000.000 views de Shorts em 90 dias).",
+    "texto": "5.920 de 500 inscritos, 52 de 3 envios públicos em 90 dias e 2.301 de 3.000 h (ou 3.000.000 views de Shorts em 90 dias).",
     "acao": null
    },
    {
@@ -804,12 +798,12 @@
     "acao": null
    }
   ],
-  "horas_publicas": 2310,
+  "horas_publicas": 2301,
   "horas": {
    "por_mes": [
     {
      "mes": "2025-10",
-     "horas": 169
+     "horas": 150
     },
     {
      "mes": "2025-11",
@@ -857,12 +851,12 @@
     },
     {
      "mes": "2026-10",
-     "horas": 129
+     "horas": 139
     }
    ],
-   "saem_30d": 338,
-   "entram_30d": 201,
-   "projecao_30d": 2174,
+   "saem_30d": 339,
+   "entram_30d": 205,
+   "projecao_30d": 2166,
    "fora_da_conta": 15
   },
   "pendencias": [
@@ -872,13 +866,13 @@
   "nota": "O canal já está no Programa de Parcerias: requisitos de entrada abaixo da meta não tiram a monetização, mas indicam queda de audiência. O que pode tirar é inatividade, advertências ou violação de políticas."
  },
  "recomendacoes": [
-  "Quem mais traz inscritos: Lives (19 nas últimas 4 semanas).",
+  "Quem mais traz inscritos: Lives (20 nas últimas 4 semanas).",
   "Tipo de conteúdo que mais rende: Transmissão de jogo (2,5x a mediana, 22 vídeos); o que menos rende: Resenha multitemas (0,3x).",
   "Tema que mais rende: Jogo e resultado (1,1x a mediana). O radar já dá peso maior a ele.",
-  "Taxa de cliques das miniaturas: 6,1% em 78,563 impressões nas últimas 4 semanas (a maioria dos canais fica entre 2% e 10%).",
+  "Taxa de cliques das miniaturas: 6,2% em 79,128 impressões nas últimas 4 semanas (a maioria dos canais fica entre 2% e 10%).",
   "Miniatura que mais atrai cliques: Transmissão de jogo (8,3%); a que menos atrai: Resenha multitemas (1,4%). Copie o estilo da primeira.",
   "\"ANÁLISE DOS DOIS JOGOS DO BRASIL/40 JOGOS INVICTOS. ESPANHA \" foi muito mostrado, mas pouco clicado (0,9%): troque a miniatura e o título (o YouTube Studio permite testar até 3 miniaturas).",
-  "Maior origem de público: Página inicial e inscrições (81% das views).",
+  "Maior origem de público: Página inicial e inscrições (82% das views).",
   "Melhor momento para publicar: terça, noite (18h–24h) (mediana de views nos 7 primeiros dias)."
  ],
  "pesos_ajustados_em": "2026-10-19T17:10:38.725551+00:00"
