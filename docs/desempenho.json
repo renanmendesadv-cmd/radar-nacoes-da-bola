@@ -1,38 +1,38 @@
 {
- "gerado_em": "2026-10-26T17:00:13.446669+00:00",
+ "gerado_em": "2026-10-27T16:02:05.620266+00:00",
  "canal": {
   "id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
   "nome": "NAÇÕES DA BOLA o canal de todas as torcidas",
   "inscritos": 5920
  },
  "periodo": {
-  "inicio": "2026-09-26",
-  "fim": "2026-10-23",
-  "janela_inicio": "2026-07-26"
+  "inicio": "2026-09-27",
+  "fim": "2026-10-24",
+  "janela_inicio": "2026-07-27"
  },
- "n_videos": 53,
+ "n_videos": 54,
  "n_videos_v7": 40,
  "mediana_v7": 192,
  "resumo_semana": {
   "views": {
-   "atual": 7883,
-   "anterior": 2638,
-   "variacao": 198.8
+   "atual": 5302,
+   "anterior": 5516,
+   "variacao": -3.9
   },
   "minutos": {
-   "atual": 4039,
-   "anterior": 3769,
-   "variacao": 7.2
+   "atual": 3430,
+   "anterior": 4892,
+   "variacao": -29.9
   },
   "inscritos_ganhos": {
-   "atual": 11,
-   "anterior": 2,
-   "variacao": 450.0
+   "atual": 4,
+   "anterior": 9,
+   "variacao": -55.6
   },
   "inscritos_perdidos": {
-   "atual": 1,
-   "anterior": 3,
-   "variacao": -66.7
+   "atual": 0,
+   "anterior": 4,
+   "variacao": -100.0
   }
  },
  "formatos": [
@@ -54,7 +54,7 @@
    "indice": null,
    "pct_assistido": null,
    "views": 46,
-   "pct_views": 0.3,
+   "pct_views": 0.2,
    "inscritos": 1,
    "minutos": 21
   },
@@ -64,10 +64,10 @@
    "mediana_v7": 192,
    "indice": 1.0,
    "pct_assistido": 2.9,
-   "views": 18182,
+   "views": 18433,
    "pct_views": 99.7,
    "inscritos": 19,
-   "minutos": 12263
+   "minutos": 12681
   }
  ],
  "tipos": [
@@ -241,23 +241,23 @@
  "trafego": [
   {
    "origem": "Página inicial e inscrições",
-   "views": 15384,
-   "pct": 84.3
+   "views": 15579,
+   "pct": 84.2
   },
   {
    "origem": "Vídeos sugeridos",
-   "views": 1654,
+   "views": 1690,
    "pct": 9.1
   },
   {
    "origem": "Sites e apps externos",
-   "views": 396,
+   "views": 409,
    "pct": 2.2
   },
   {
    "origem": "Busca do YouTube",
-   "views": 356,
-   "pct": 2.0
+   "views": 359,
+   "pct": 1.9
   },
   {
    "origem": "Página do canal",
@@ -266,13 +266,13 @@
   },
   {
    "origem": "Notificações",
-   "views": 128,
+   "views": 133,
    "pct": 0.7
   },
   {
    "origem": "Acesso direto ou desconhecido",
    "views": 83,
-   "pct": 0.5
+   "pct": 0.4
   },
   {
    "origem": "Outras páginas do YouTube",
@@ -344,7 +344,7 @@
    "url": "https://www.youtube.com/watch?v=CQisa7_8LAg",
    "formato": "Lives",
    "inscritos": 4,
-   "views": 2854
+   "views": 2855
   },
   {
    "titulo": "SÃO PAULO  X  SANTOS -  RODADA 21",
@@ -428,32 +428,32 @@
   "Jogo e resultado": 1.118
  },
  "alcance": {
-  "impressoes": 93894,
-  "ctr": 7.0,
+  "impressoes": 95827,
+  "ctr": 6.9,
   "por_formato": [
    {
     "nome": "Lives",
-    "impressoes": 92013,
+    "impressoes": 93954,
     "ctr": 7.0,
-    "n_videos": 52
+    "n_videos": 53
    }
   ],
   "por_tipo": [
    {
     "nome": "Transmissão de jogo",
-    "impressoes": 68405,
-    "ctr": 9.0,
-    "n_videos": 28
+    "impressoes": 70791,
+    "ctr": 8.8,
+    "n_videos": 29
    },
    {
     "nome": "Perguntas do público",
-    "impressoes": 3796,
+    "impressoes": 3795,
     "ctr": 2.3,
     "n_videos": 3
    },
    {
     "nome": "Resenha multitemas",
-    "impressoes": 16936,
+    "impressoes": 16314,
     "ctr": 1.3,
     "n_videos": 14
    }
@@ -478,7 +478,7 @@
    {
     "titulo": "PSG  X  BARCELONA  RODADA 3",
     "url": "https://www.youtube.com/watch?v=YPK9uzd2rrA",
-    "impressoes": 10600,
+    "impressoes": 10614,
     "ctr": 15.0,
     "formato": "Lives",
     "pct_assistido": 0.2
@@ -504,10 +504,10 @@
    {
     "titulo": "NDB  BRASIL - MENGO FORA DA FINAL",
     "url": "https://www.youtube.com/watch?v=FDkyFXJtxeY",
-    "impressoes": 2815,
+    "impressoes": 2997,
     "ctr": 0.7,
     "formato": "Lives",
-    "pct_assistido": 9.6
+    "pct_assistido": 9.3
    },
    {
     "titulo": "ANÁLISE DOS DOIS JOGOS DO BRASIL/40 JOGOS INVICTOS. ESPANHA É A DONA DA  BOLA?/SAN-SÃO AGITA O BR/26",
@@ -528,31 +528,31 @@
    {
     "titulo": "PALMEIRAS   X   FLUMINENSE -  VOLTA",
     "url": "https://www.youtube.com/watch?v=7iebemhXgJ4",
-    "impressoes": 3862,
+    "impressoes": 4076,
     "ctr": 1.3,
     "formato": "Lives",
-    "pct_assistido": 4.7
+    "pct_assistido": 4.6
    },
    {
     "titulo": "VERDÃO BALANÇA MAS NÃO CAI/MENGO TEM A CHANCE DE REEDITAR  2025/TIMÃO, TRICOLOR, PEIXE  DE VOLTA",
     "url": "https://www.youtube.com/watch?v=uE3uMsGQ7N8",
-    "impressoes": 2052,
+    "impressoes": 2102,
     "ctr": 1.4,
     "formato": "Lives",
-    "pct_assistido": 11.2
+    "pct_assistido": 10.9
    }
   ],
   "n_videos": 19,
   "ativado_em": "2026-09-30T04:22:41.545419+00:00"
  },
  "monetizacao": {
-  "views_28d": 18283,
-  "media_diaria": 653,
-  "tendencia_pct": 30.0,
+  "views_28d": 18496,
+  "media_diaria": 661,
+  "tendencia_pct": 1.3,
   "previsao_views_30d": {
-   "Vídeos longos": 64,
-   "Lives": 25378,
-   "Shorts": 24
+   "Vídeos longos": 50,
+   "Lives": 20015,
+   "Shorts": 18
   },
   "rpm_referencia": {
    "Vídeos longos": [
@@ -572,26 +572,22 @@
    ]
   },
   "estimativa_rs": {
-   "pessimista": 38.2,
-   "provavel": 76.39,
-   "otimista": 152.79
+   "pessimista": 30.12,
+   "provavel": 60.25,
+   "otimista": 120.5
   },
   "serie_diaria": [
    {
-    "dia": "2026-09-26",
-    "views": 65
-   },
-   {
     "dia": "2026-09-27",
-    "views": 1857
+    "views": 1856
    },
    {
     "dia": "2026-09-28",
-    "views": 1771
+    "views": 1738
    },
    {
     "dia": "2026-09-29",
-    "views": 712
+    "views": 711
    },
    {
     "dia": "2026-09-30",
@@ -671,7 +667,7 @@
    },
    {
     "dia": "2026-10-19",
-    "views": 578
+    "views": 575
    },
    {
     "dia": "2026-10-20",
@@ -683,21 +679,25 @@
    },
    {
     "dia": "2026-10-22",
-    "views": 274
+    "views": 273
    },
    {
     "dia": "2026-10-23",
     "views": 101
+   },
+   {
+    "dia": "2026-10-24",
+    "views": 317
    }
   ],
   "elegibilidade": {
    "inscritos": 5920,
-   "horas_12m": 2292,
+   "horas_12m": 2296,
    "shorts_90d": 71,
    "meta_inscritos": 1000,
    "meta_horas": 4000,
    "meta_shorts": 10000000,
-   "horas_mes_ritmo": 219,
+   "horas_mes_ritmo": 227,
    "horas_mes_necessarias": 333,
    "monetizado": true,
    "cumpre": true
@@ -710,12 +710,12 @@
    {
     "id": "horas_12m",
     "nome": "Horas assistidas públicas (12 meses)",
-    "atual": 2292,
+    "atual": 2296,
     "meta": 4000,
     "nivel": "anúncios",
     "status": "abaixo",
-    "texto": "2.292 h públicas nos últimos 12 meses (vídeos longos e lives; Shorts, privados e apagados não contam). Nos próximos 30 dias saem da conta ~325 h e entram ~218 h no ritmo atual: projeção de 2.185 h.",
-    "acao": "Faltam 1.708 h. Lives longas e vídeos longos contam; seriam uns 142 h a mais por mês durante um ano."
+    "texto": "2.296 h públicas nos últimos 12 meses (vídeos longos e lives; Shorts, privados e apagados não contam). Nos próximos 30 dias saem da conta ~328 h e entram ~225 h no ritmo atual: projeção de 2.193 h.",
+    "acao": "Faltam 1.704 h. Lives longas e vídeos longos contam; seriam uns 142 h a mais por mês durante um ano."
    },
    {
     "id": "inscritos",
@@ -744,17 +744,17 @@
     "meta": null,
     "nivel": "Supers e membros",
     "status": "abaixo",
-    "texto": "5.920 de 500 inscritos, 53 de 3 envios públicos em 90 dias e 2.292 de 3.000 h (ou 3.000.000 views de Shorts em 90 dias).",
+    "texto": "5.920 de 500 inscritos, 54 de 3 envios públicos em 90 dias e 2.296 de 3.000 h (ou 3.000.000 views de Shorts em 90 dias).",
     "acao": null
    },
    {
     "id": "atividade",
     "nome": "Canal ativo (envios públicos)",
-    "atual": 2,
+    "atual": 1,
     "meta": 180,
     "nivel": "manter a monetização",
     "status": "ok",
-    "texto": "Último envio público há 2 dias. Canais sem envios por 6 meses podem ter a monetização revisada.",
+    "texto": "Último envio público há 1 dia. Canais sem envios por 6 meses podem ter a monetização revisada.",
     "acao": null
    },
    {
@@ -798,12 +798,12 @@
     "acao": null
    }
   ],
-  "horas_publicas": 2292,
+  "horas_publicas": 2296,
   "horas": {
    "por_mes": [
     {
      "mes": "2025-10",
-     "horas": 96
+     "horas": 95
     },
     {
      "mes": "2025-11",
@@ -851,12 +851,12 @@
     },
     {
      "mes": "2026-10",
-     "horas": 176
+     "horas": 184
     }
    ],
-   "saem_30d": 325,
-   "entram_30d": 218,
-   "projecao_30d": 2185,
+   "saem_30d": 328,
+   "entram_30d": 225,
+   "projecao_30d": 2193,
    "fora_da_conta": 15
   },
   "pendencias": [
@@ -869,8 +869,8 @@
   "Quem mais traz inscritos: Lives (19 nas últimas 4 semanas).",
   "Tipo de conteúdo que mais rende: Transmissão de jogo (3,7x a mediana, 22 vídeos); o que menos rende: Perguntas do público (0,3x).",
   "Tema que mais rende: Jogo e resultado (1,3x a mediana). O radar já dá peso maior a ele.",
-  "Taxa de cliques das miniaturas: 7,0% em 93,894 impressões nas últimas 4 semanas (a maioria dos canais fica entre 2% e 10%).",
-  "Miniatura que mais atrai cliques: Transmissão de jogo (9,0%); a que menos atrai: Resenha multitemas (1,3%). Copie o estilo da primeira.",
+  "Taxa de cliques das miniaturas: 6,9% em 95,827 impressões nas últimas 4 semanas (a maioria dos canais fica entre 2% e 10%).",
+  "Miniatura que mais atrai cliques: Transmissão de jogo (8,8%); a que menos atrai: Resenha multitemas (1,3%). Copie o estilo da primeira.",
   "\"NDB  BRASIL - MENGO FORA DA FINAL\" foi muito mostrado, mas pouco clicado (0,7%): troque a miniatura e o título (o YouTube Studio permite testar até 3 miniaturas).",
   "Maior origem de público: Página inicial e inscrições (84% das views).",
   "Melhor momento para publicar: terça, noite (18h–24h) (mediana de views nos 7 primeiros dias)."
