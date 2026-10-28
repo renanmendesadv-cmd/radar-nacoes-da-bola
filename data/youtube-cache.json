@@ -1,1264 +1,876 @@
 {
- "flamengo agenda": {
-  "dia": "2026-10-27",
-  "resultado": {
-   "amostra": [],
-   "consulta": "Flamengo agenda",
-   "n_videos": 0,
-   "mais_de": false,
-   "views": 0,
-   "top": []
-  }
- },
- "flamengo classico informacoes": {
-  "dia": "2026-10-27",
-  "resultado": {
-   "amostra": [],
-   "consulta": "Flamengo clássico informações",
-   "n_videos": 0,
-   "mais_de": false,
-   "views": 0,
-   "top": []
-  }
- },
- "corinthians luxemburgo contratacao avalia": {
-  "dia": "2026-10-27",
+ "palmeiras classicos gabigol": {
+  "dia": "2026-10-28",
   "resultado": {
    "amostra": [
     {
-     "id": "I36rXqKSirw",
-     "titulo": "A CONTRATAÇÃO DE SEEDORF FOI UM ERRO  LUXEMBURGO FALA SOBRE O NOVO TREINADOR DO CORINTHIANS",
-     "canal": "TV Alambrado Alvinegro",
-     "views": 143034,
-     "likes": 1537,
-     "comentarios": 106,
-     "publicado": "2026-10-25T17:00:38Z",
-     "duracao_s": 885,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=I36rXqKSirw"
-    },
-    {
-     "id": "5LYsHUWDRVw",
-     "titulo": "🚨 LUXEMBURGO DETONA A CONTRATAÇÃO DE SEEDORF NO CORINTHIANS! 😳🖤🤍 #shorts",
-     "canal": "meortoo",
-     "views": 1025,
-     "likes": 29,
-     "comentarios": 1,
-     "publicado": "2026-10-26T15:00:34Z",
-     "duracao_s": 62,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=5LYsHUWDRVw"
-    },
-    {
-     "id": "YtH-xQ7BiFA",
-     "titulo": "LUXEMBURGO NÃO PERDOA E DETONA SEEDORF! “FOI UM ERRO CONTRATAR”",
-     "canal": "Papo de Timão",
-     "views": 103,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-10-26T10:00:13Z",
-     "duracao_s": 885,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=YtH-xQ7BiFA"
-    },
-    {
-     "id": "GpqczaBrXXc",
-     "titulo": "Corinthians avalia a contratação de Vanderlei Luxemburgo como coordenador de futebol #Shorts",
-     "canal": "Noticias Show de Bola",
-     "views": 70,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-10-27T15:03:17Z",
-     "duracao_s": 56,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=GpqczaBrXXc"
-    },
-    {
-     "id": "y7msUyO6HHk",
-     "titulo": "#CORINTHIANS  TRABALHAR PARA  CONTRATO #LUXEMBURGO  #VAICORINTHIANS",
-     "canal": "Raimundo Lopes Gomes",
-     "views": 48,
-     "likes": 5,
-     "comentarios": 0,
-     "publicado": "2026-10-27T14:57:14Z",
-     "duracao_s": 55,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=y7msUyO6HHk"
-    },
-    {
-     "id": "B2Mpf78lkKs",
-     "titulo": "#Corinthians avalia contratar Luxemburgo p coordenador de #futebol  #VAICORINTHIANS",
-     "canal": "OIDEOTA",
-     "views": 8,
-     "likes": 3,
-     "comentarios": 0,
-     "publicado": "2026-10-27T15:24:43Z",
-     "duracao_s": 159,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=B2Mpf78lkKs"
-    }
-   ],
-   "consulta": "Corinthians Luxemburgo contratação avalia",
-   "n_videos": 6,
-   "mais_de": false,
-   "views": 144288,
-   "top": [
-    {
-     "titulo": "A CONTRATAÇÃO DE SEEDORF FOI UM ERRO  LUXEMBURGO FALA SOBRE O NOVO TREINADOR DO CORINTHIANS",
-     "canal": "TV Alambrado Alvinegro",
-     "views": 143034,
-     "url": "https://www.youtube.com/watch?v=I36rXqKSirw",
-     "publicado": "2026-10-25T17:00:38Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "🚨 LUXEMBURGO DETONA A CONTRATAÇÃO DE SEEDORF NO CORINTHIANS! 😳🖤🤍 #shorts",
-     "canal": "meortoo",
-     "views": 1025,
-     "url": "https://www.youtube.com/watch?v=5LYsHUWDRVw",
-     "publicado": "2026-10-26T15:00:34Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "LUXEMBURGO NÃO PERDOA E DETONA SEEDORF! “FOI UM ERRO CONTRATAR”",
-     "canal": "Papo de Timão",
-     "views": 103,
-     "url": "https://www.youtube.com/watch?v=YtH-xQ7BiFA",
-     "publicado": "2026-10-26T10:00:13Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "flamengo chances titulo": {
-  "dia": "2026-10-27",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "xX7nwty6xtM",
-     "titulo": "🍸MENGÃO COM A MÃO NA TAÇA? #flamengo #palmeiras #brasileirão",
-     "canal": "Flash Rubro Negro",
-     "views": 9947,
-     "likes": 234,
-     "comentarios": 8,
-     "publicado": "2026-10-27T08:57:47Z",
-     "duracao_s": 69,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=xX7nwty6xtM"
-    },
-    {
-     "id": "pUjwC50ng3I",
-     "titulo": "Corinthians tem 62% de chance de cair 😱 As chances de título e queda de cada time (Brasileirão)",
-     "canal": "Tira Teima",
-     "views": 1444,
-     "likes": 34,
-     "comentarios": 1,
-     "publicado": "2026-10-26T15:31:43Z",
-     "duracao_s": 70,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=pUjwC50ng3I"
-    },
-    {
-     "id": "9yPwnuCXkKE",
-     "titulo": "🏆⚽️ BRASILEIRÃO 2026: FLAMENGO x PALMEIRAS — QUEM VAI LEVAR A TAÇA? 🔥🥇 #Shorts",
-     "canal": "Drone Monster FC",
-     "views": 878,
-     "likes": 10,
-     "comentarios": 2,
-     "publicado": "2026-10-27T13:00:05Z",
-     "duracao_s": 19,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=9yPwnuCXkKE"
-    },
-    {
-     "id": "qz47ZziuziE",
-     "titulo": "Chances do Brasileirão: Flamengo abre, e Corinthians vê queda mais próxima #Shorts",
-     "canal": "Noticias Show de Bola",
-     "views": 821,
-     "likes": 12,
-     "comentarios": 0,
-     "publicado": "2026-10-27T11:01:43Z",
-     "duracao_s": 58,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=qz47ZziuziE"
-    },
-    {
-     "id": "N_MX36AYK-I",
-     "titulo": "Flamengo x Atlético-MG: veja as chances de título atualizadas no Brasileirão #Shorts",
-     "canal": "Noticias Show de Bola",
-     "views": 611,
-     "likes": 10,
-     "comentarios": 0,
-     "publicado": "2026-10-26T21:03:31Z",
-     "duracao_s": 58,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=N_MX36AYK-I"
-    },
-    {
-     "id": "8O0rsiNKtRk",
-     "titulo": "Flamengo x Palmeiras disputa do título Brasileirão 2026 quem vence",
-     "canal": "Play no Esporte",
-     "views": 11,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-10-25T23:42:59Z",
-     "duracao_s": 78,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=8O0rsiNKtRk"
-    }
-   ],
-   "consulta": "Flamengo chances título",
-   "n_videos": 6,
-   "mais_de": false,
-   "views": 13712,
-   "top": [
-    {
-     "titulo": "🍸MENGÃO COM A MÃO NA TAÇA? #flamengo #palmeiras #brasileirão",
-     "canal": "Flash Rubro Negro",
-     "views": 9947,
-     "url": "https://www.youtube.com/watch?v=xX7nwty6xtM",
-     "publicado": "2026-10-27T08:57:47Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "Corinthians tem 62% de chance de cair 😱 As chances de título e queda de cada time (Brasileirão)",
-     "canal": "Tira Teima",
-     "views": 1444,
-     "url": "https://www.youtube.com/watch?v=pUjwC50ng3I",
-     "publicado": "2026-10-26T15:31:43Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "🏆⚽️ BRASILEIRÃO 2026: FLAMENGO x PALMEIRAS — QUEM VAI LEVAR A TAÇA? 🔥🥇 #Shorts",
-     "canal": "Drone Monster FC",
-     "views": 878,
-     "url": "https://www.youtube.com/watch?v=9yPwnuCXkKE",
-     "publicado": "2026-10-27T13:00:05Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "flamengo leonardo jardim post-match": {
-  "dia": "2026-10-27",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "jSrD7tPYKsc",
-     "titulo": "LEONARDO JARDIM | COLETIVA PÓS-JOGO | FLAMENGO 3 X 2 ATLÉTICO-MG | BRASILEIRÃO (26/10/2026)",
-     "canal": "Flamengo TV",
-     "views": 23055,
-     "likes": 1293,
-     "comentarios": 40,
-     "publicado": "2026-10-27T02:39:30Z",
-     "duracao_s": 1418,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=jSrD7tPYKsc"
-    },
-    {
-     "id": "W7MhC_dLmtk",
-     "titulo": "🔴 AO VIVO: COLETIVA DE LEONARDO JARDIM! FLAMENGO X ATLÉTICO | BRASILEIRÃO 2026! PÓS-JOGO COM IMAGENS",
-     "canal": "Mauro Sant Anna",
-     "views": 5111,
-     "likes": 499,
+     "id": "s8Y5OgvdyHY",
+     "titulo": "SANTOS  PRONTO PARA O CLÁSSICO / GABIGOL É A GRANDE ESPERANÇA! / ATUALIZAÇÃO SORE REFORMAS",
+     "canal": "Vagner Frederico",
+     "views": 8459,
+     "likes": 514,
      "comentarios": 3,
-     "publicado": "2026-10-27T02:23:58Z",
-     "duracao_s": 2557,
+     "publicado": "2026-10-28T03:07:17Z",
+     "duracao_s": 5053,
      "live": true,
-     "url": "https://www.youtube.com/watch?v=W7MhC_dLmtk"
+     "url": "https://www.youtube.com/watch?v=s8Y5OgvdyHY"
     },
     {
-     "id": "uAwVA6zzDZQ",
-     "titulo": "LEONARDO JARDIM DESABAFOU NA COLETIVA PÓS FLAMENGO 3X2 ATLETICO-MG",
-     "canal": "Pedrão [OFICIAL]",
-     "views": 4722,
-     "likes": 90,
-     "comentarios": 3,
-     "publicado": "2026-10-27T02:18:20Z",
-     "duracao_s": 1420,
+     "id": "THnTkhoVuj8",
+     "titulo": "É CLÁSSICO#palmeiras #futebol #2026 #brasileirão #libertadores #santos #neymarjr #suspenso #gabigol",
+     "canal": "AMANTES DO FUTEBOL PC",
+     "views": 407,
+     "likes": 7,
+     "comentarios": 0,
+     "publicado": "2026-10-28T15:50:02Z",
+     "duracao_s": 28,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=uAwVA6zzDZQ"
+     "url": "https://www.youtube.com/watch?v=THnTkhoVuj8"
     },
     {
-     "id": "gLnR4he2a_Y",
-     "titulo": "🚨 FLAMENGO VENCE e SEGUE LÍDER! 😱 Leonardo Jardim ABRE O JOGO e NOTAS dos jogadores SURPREENDEM! 🔴⚫",
-     "canal": "Devoção Rubro Negra",
-     "views": 642,
-     "likes": 242,
-     "comentarios": 3,
-     "publicado": "2026-10-27T15:00:06Z",
-     "duracao_s": 0,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=gLnR4he2a_Y"
-    },
-    {
-     "id": "tboOjsyrrHc",
-     "titulo": "MENGÃO PLANEJA SER CAMPEÃO ANTES DO CONFRONTO DIRETO! QUINTA DECISIVA CONTRA O VASCO!+",
-     "canal": "NAÇÃO DO ALÊ",
-     "views": 388,
-     "likes": 59,
-     "comentarios": 12,
-     "publicado": "2026-10-27T09:00:31Z",
-     "duracao_s": 651,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=tboOjsyrrHc"
-    },
-    {
-     "id": "UiM4R6pwwp4",
-     "titulo": "🔴⚫ JARDIM FALA TUDO APÓS VIRADA DO FLAMENGO! 3X2 NO ATLÉTICO-MG E LIDERANÇA!",
-     "canal": "FLAGENIAL",
+     "id": "vPZE3kpenY4",
+     "titulo": "INÉDITO! VAZOU TUDO! GABIGOL HUMILHA O PALMEIRAS ANTES DE CLÁSSICO DECISIVO! VEJA ISSO!",
+     "canal": "UNIÃO SÃOPAL NOTICIAS",
      "views": 35,
-     "likes": 12,
+     "likes": 1,
      "comentarios": 0,
-     "publicado": "2026-10-27T10:30:52Z",
-     "duracao_s": 1673,
+     "publicado": "2026-10-28T12:46:30Z",
+     "duracao_s": 1086,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=UiM4R6pwwp4"
+     "url": "https://www.youtube.com/watch?v=vPZE3kpenY4"
     },
     {
-     "id": "vGomjV9zgfc",
-     "titulo": "FLAMENGO VIRA NO FIM, RETOMA A LIDERANÇA E JARDIM FALA TUDO! PEDRO É DEFENDIDO APÓS VAIAS!",
-     "canal": "FLAGENIAL",
-     "views": 1,
+     "id": "W_3YCTuh-fk",
+     "titulo": "Gabigol na roda de bobinho no clássico Palmeiras x Santos! #shorts",
+     "canal": "Acleylton Costa",
+     "views": 4,
      "likes": 0,
      "comentarios": 0,
-     "publicado": "2026-10-27T15:45:23Z",
-     "duracao_s": 1367,
+     "publicado": "2026-10-27T09:57:33Z",
+     "duracao_s": 16,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=vGomjV9zgfc"
-    }
-   ],
-   "consulta": "Flamengo Leonardo JARDIM POST-MATCH",
-   "n_videos": 7,
-   "mais_de": false,
-   "views": 33954,
-   "top": [
-    {
-     "titulo": "LEONARDO JARDIM | COLETIVA PÓS-JOGO | FLAMENGO 3 X 2 ATLÉTICO-MG | BRASILEIRÃO (26/10/2026)",
-     "canal": "Flamengo TV",
-     "views": 23055,
-     "url": "https://www.youtube.com/watch?v=jSrD7tPYKsc",
-     "publicado": "2026-10-27T02:39:30Z",
-     "do_canal": false
+     "url": "https://www.youtube.com/watch?v=W_3YCTuh-fk"
     },
     {
-     "titulo": "🔴 AO VIVO: COLETIVA DE LEONARDO JARDIM! FLAMENGO X ATLÉTICO | BRASILEIRÃO 2026! PÓS-JOGO COM IMAGENS",
-     "canal": "Mauro Sant Anna",
-     "views": 5111,
-     "url": "https://www.youtube.com/watch?v=W7MhC_dLmtk",
-     "publicado": "2026-10-27T02:23:58Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "LEONARDO JARDIM DESABAFOU NA COLETIVA PÓS FLAMENGO 3X2 ATLETICO-MG",
-     "canal": "Pedrão [OFICIAL]",
-     "views": 4722,
-     "url": "https://www.youtube.com/watch?v=uAwVA6zzDZQ",
-     "publicado": "2026-10-27T02:18:20Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "flamengo jardim acredita possivel": {
-  "dia": "2026-10-27",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "DwtBNkFpuAE",
-     "titulo": "LEONARDO JARDIM ACREDITA NA CHANCE DO FLAMENGO JOGAR A FINAL DA LIBERTADORES! #shorts",
-     "canal": "ESPN Brasil",
-     "views": 23987,
-     "likes": 464,
-     "comentarios": 83,
-     "publicado": "2026-10-27T02:29:14Z",
-     "duracao_s": 13,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=DwtBNkFpuAE"
-    },
-    {
-     "id": "59oCn_QsfW8",
-     "titulo": "🚨 Leonardo Jardim mantém esperança de levar o Flamengo à final da Libertadores",
-     "canal": "B15 FUTEBOL",
-     "views": 1409,
-     "likes": 6,
-     "comentarios": 1,
-     "publicado": "2026-10-27T06:20:25Z",
-     "duracao_s": 6,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=59oCn_QsfW8"
-    },
-    {
-     "id": "a7ZSgfm3x1Q",
-     "titulo": "TREINADOR DO FLAMENGO ACREDITA NA FINAL?! PALMEIRENSE, OLHA ESSA! #palmeiras",
-     "canal": "ALERTA VERDÃO ",
-     "views": 1144,
-     "likes": 16,
-     "comentarios": 0,
-     "publicado": "2026-10-27T10:00:37Z",
-     "duracao_s": 23,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=a7ZSgfm3x1Q"
-    },
-    {
-     "id": "ca0jBrdv_Y8",
-     "titulo": "LEONARDO JARDIM ACREDITA QUE O FLAMENGO VAI JOGAR A LIBERTADORES! #futebol",
-     "canal": "Futebol Invicto ",
-     "views": 1012,
-     "likes": 14,
-     "comentarios": 1,
-     "publicado": "2026-10-27T02:03:39Z",
-     "duracao_s": 13,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ca0jBrdv_Y8"
-    },
-    {
-     "id": "_QZ5gqTguG0",
-     "titulo": "LEONARDO JARDIM ACREDITA QUE O FLAMENGO PODE DISPUTAR A FINAL DA COPA LIBERTADORES!!!",
-     "canal": "CANAL PAPARAZZI RUBRO NEGRO ",
-     "views": 7,
+     "id": "NmIWRa6zbZI",
+     "titulo": "Santos x Palmeiras AO VIVO 🔥 Clássico na JaguarTV 🐆",
+     "canal": "jargtv",
+     "views": 3,
      "likes": 0,
      "comentarios": 0,
-     "publicado": "2026-10-27T04:30:22Z",
-     "duracao_s": 14,
+     "publicado": "2026-10-28T12:46:57Z",
+     "duracao_s": 16,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=_QZ5gqTguG0"
+     "url": "https://www.youtube.com/watch?v=NmIWRa6zbZI"
     },
     {
-     "id": "hqfGtcVCDL4",
-     "titulo": "Jardim acredita em reviravolta e que Flamengo jogará final da Libertadores",
-     "canal": "Coca que Cola",
+     "id": "hBs1MZDBoFE",
+     "titulo": "SANTOS X PALMEIRAS: Peixão pode acabar com o sonho do título do Verdão! PRÉ JOGO",
+     "canal": "Numerada Fc - Futebol & Debate",
      "views": 0,
      "likes": 0,
      "comentarios": 0,
-     "publicado": "2026-10-27T13:31:16Z",
-     "duracao_s": 78,
+     "publicado": "2026-10-28T14:27:23Z",
+     "duracao_s": 488,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=hqfGtcVCDL4"
+     "url": "https://www.youtube.com/watch?v=hBs1MZDBoFE"
     }
    ],
-   "consulta": "Flamengo Jardim acredita possível",
+   "consulta": "Palmeiras clássicos Gabigol",
    "n_videos": 6,
    "mais_de": false,
-   "views": 27559,
+   "views": 8908,
    "top": [
     {
-     "titulo": "LEONARDO JARDIM ACREDITA NA CHANCE DO FLAMENGO JOGAR A FINAL DA LIBERTADORES! #shorts",
-     "canal": "ESPN Brasil",
-     "views": 23987,
-     "url": "https://www.youtube.com/watch?v=DwtBNkFpuAE",
-     "publicado": "2026-10-27T02:29:14Z",
+     "titulo": "SANTOS  PRONTO PARA O CLÁSSICO / GABIGOL É A GRANDE ESPERANÇA! / ATUALIZAÇÃO SORE REFORMAS",
+     "canal": "Vagner Frederico",
+     "views": 8459,
+     "url": "https://www.youtube.com/watch?v=s8Y5OgvdyHY",
+     "publicado": "2026-10-28T03:07:17Z",
      "do_canal": false
     },
     {
-     "titulo": "🚨 Leonardo Jardim mantém esperança de levar o Flamengo à final da Libertadores",
-     "canal": "B15 FUTEBOL",
-     "views": 1409,
-     "url": "https://www.youtube.com/watch?v=59oCn_QsfW8",
-     "publicado": "2026-10-27T06:20:25Z",
+     "titulo": "É CLÁSSICO#palmeiras #futebol #2026 #brasileirão #libertadores #santos #neymarjr #suspenso #gabigol",
+     "canal": "AMANTES DO FUTEBOL PC",
+     "views": 407,
+     "url": "https://www.youtube.com/watch?v=THnTkhoVuj8",
+     "publicado": "2026-10-28T15:50:02Z",
      "do_canal": false
     },
     {
-     "titulo": "TREINADOR DO FLAMENGO ACREDITA NA FINAL?! PALMEIRENSE, OLHA ESSA! #palmeiras",
-     "canal": "ALERTA VERDÃO ",
-     "views": 1144,
-     "url": "https://www.youtube.com/watch?v=a7ZSgfm3x1Q",
-     "publicado": "2026-10-27T10:00:37Z",
+     "titulo": "INÉDITO! VAZOU TUDO! GABIGOL HUMILHA O PALMEIRAS ANTES DE CLÁSSICO DECISIVO! VEJA ISSO!",
+     "canal": "UNIÃO SÃOPAL NOTICIAS",
+     "views": 35,
+     "url": "https://www.youtube.com/watch?v=vPZE3kpenY4",
+     "publicado": "2026-10-28T12:46:30Z",
      "do_canal": false
     }
    ]
   }
  },
- "corinthians pendurados jogadores": {
-  "dia": "2026-10-27",
-  "resultado": {
-   "amostra": [],
-   "consulta": "Corinthians pendurados jogadores",
-   "n_videos": 0,
-   "mais_de": false,
-   "views": 0,
-   "top": []
-  }
- },
- "palmeiras escalacoes provaveis": {
-  "dia": "2026-10-27",
-  "resultado": {
-   "amostra": [],
-   "consulta": "Palmeiras escalações prováveis",
-   "n_videos": 0,
-   "mais_de": false,
-   "views": 0,
-   "top": []
-  }
- },
- "palmeiras arrascaeta briga rival": {
-  "dia": "2026-10-27",
-  "resultado": {
-   "amostra": [],
-   "consulta": "Palmeiras Arrascaeta briga rival",
-   "n_videos": 0,
-   "mais_de": false,
-   "views": 0,
-   "top": []
-  }
- },
- "flamengo carrascal marca gols": {
-  "dia": "2026-10-27",
+ "flamengo danilo renovacao acerta": {
+  "dia": "2026-10-28",
   "resultado": {
    "amostra": [
     {
-     "id": "zOOXtnNDmaE",
-     "titulo": "OS GOLS DE FLAMENGO 3 X 2 ATLÉTICO-MG | #shorts | ge.globo",
-     "canal": "ge tv",
-     "views": 320092,
-     "likes": 7516,
-     "comentarios": 222,
-     "publicado": "2026-10-27T01:50:39Z",
-     "duracao_s": 104,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=zOOXtnNDmaE"
-    },
-    {
-     "id": "rT0HtYiAjz0",
-     "titulo": "Flamengo 3 x 2 Atlético-MG | Melhores Momentos (COMPLETO) | Brasileirão 2026",
-     "canal": "Start Sports",
-     "views": 183367,
-     "likes": 2115,
-     "comentarios": 387,
-     "publicado": "2026-10-27T01:07:03Z",
-     "duracao_s": 532,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=rT0HtYiAjz0"
-    },
-    {
-     "id": "YIfqy_KAGR8",
-     "titulo": "3º GOL DO FLAMENGO | GOL DE CARRASCAL | Flamengo 3 x 2 Atlético-MG | Brasileirão 2026 #Flamengo",
-     "canal": "Jon Sports Brasil 3",
-     "views": 111349,
-     "likes": 997,
-     "comentarios": 316,
-     "publicado": "2026-10-27T00:59:07Z",
+     "id": "jUjDQJunUP4",
+     "titulo": "Danilo renova com o Flamengo até dezembro de 2027; ESPN diz que assina hoje 👀⚽️",
+     "canal": "Arena Da Bola",
+     "views": 425,
+     "likes": 11,
+     "comentarios": 1,
+     "publicado": "2026-10-28T15:32:19Z",
      "duracao_s": 26,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=YIfqy_KAGR8"
+     "url": "https://www.youtube.com/watch?v=jUjDQJunUP4"
     },
     {
-     "id": "y5fcr3t2XT0",
-     "titulo": "no jogo Flamengo x Atlético mineiro, flamengo vence com gol de carrascal. #flamengo",
-     "canal": "MEU MENGÃO",
-     "views": 70467,
-     "likes": 2365,
-     "comentarios": 189,
-     "publicado": "2026-10-27T02:43:45Z",
-     "duracao_s": 82,
+     "id": "R3kQvAIHYis",
+     "titulo": "Flamengo acerta renovação de Danilo. #flamengo #mengão #mengo #shorts #viral #brasileirão #short",
+     "canal": "Futebologia Sports ",
+     "views": 251,
+     "likes": 5,
+     "comentarios": 1,
+     "publicado": "2026-10-28T15:11:56Z",
+     "duracao_s": 40,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=y5fcr3t2XT0"
+     "url": "https://www.youtube.com/watch?v=R3kQvAIHYis"
     },
     {
-     "id": "5OreFifH8yo",
-     "titulo": "CARRASCAL MARCA O GOL DA VITÓRIA DO FLAMENGO NO MARACANÃ | #shorts | ge.globo",
-     "canal": "ge tv",
-     "views": 50505,
-     "likes": 1427,
-     "comentarios": 38,
-     "publicado": "2026-10-27T01:50:03Z",
-     "duracao_s": 65,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=5OreFifH8yo"
-    },
-    {
-     "id": "mmab1tRP2Y4",
-     "titulo": "3º GOL DO FLAMENGO | CARRASCAL | FLAMENGO 3X2 ATLÉTICO-MG | BRASILEIRÃO 2026 | 26/10/2026",
-     "canal": "VarTV",
-     "views": 32436,
-     "likes": 326,
-     "comentarios": 116,
-     "publicado": "2026-10-27T01:02:37Z",
-     "duracao_s": 8,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=mmab1tRP2Y4"
-    },
-    {
-     "id": "XI8ZypSNbFs",
-     "titulo": "Foi pênalti? Assista ao lance que gerou gol da vitória dramática do Fla sobre o Galo",
-     "canal": "UOL Esporte",
-     "views": 30435,
-     "likes": 360,
-     "comentarios": 137,
-     "publicado": "2026-10-27T01:45:11Z",
-     "duracao_s": 47,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=XI8ZypSNbFs"
-    },
-    {
-     "id": "90aTF5bfH88",
-     "titulo": "😱 CARRASCAL FAZ 3x2 NA PRORROGAÇÃO! QUE JOGAÇO! 🔥 Flamengo x Atlético-MG #flamengo",
-     "canal": "FLAUNITH ",
-     "views": 22065,
-     "likes": 195,
-     "comentarios": 5,
-     "publicado": "2026-10-27T01:22:31Z",
-     "duracao_s": 26,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=90aTF5bfH88"
-    },
-    {
-     "id": "tbDWJUhBdsQ",
-     "titulo": "⚽🔴⚫ CARRASCAL VIRA! FLAMENGO 3x2 ATLÉTICO MINEIRO | BRASILEIRÃO #futebol #Flamengo",
-     "canal": "SPORTIX",
-     "views": 18369,
-     "likes": 292,
-     "comentarios": 16,
-     "publicado": "2026-10-27T01:06:24Z",
-     "duracao_s": 14,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=tbDWJUhBdsQ"
-    },
-    {
-     "id": "9eYyrBVc6FU",
-     "titulo": "PÊNALTI DA LIDERANÇA! CARRASCAL FEZ O GOL DA VITÓRIA CONTRA O GALO QUE DEIXOU O FLA NA PONTA #shorts",
-     "canal": "TNT Sports Brasil",
-     "views": 16806,
-     "likes": 464,
-     "comentarios": 39,
-     "publicado": "2026-10-27T01:35:00Z",
-     "duracao_s": 19,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=9eYyrBVc6FU"
-    },
-    {
-     "id": "RQyUM_Ckxt4",
-     "titulo": "GOL SALVADOR DO CARRASCAL ☠️🔥❤️🖤",
-     "canal": "SOUSA-CRF",
-     "views": 16147,
-     "likes": 959,
-     "comentarios": 25,
-     "publicado": "2026-10-27T01:14:53Z",
-     "duracao_s": 18,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=RQyUM_Ckxt4"
-    },
-    {
-     "id": "IX0xTHdJuvo",
-     "titulo": "MENGÃO VENCE COM PÊNALTI NO FINAL | Gols de Flamengo 3 x 2 Atlético-MG | Brasileirão 2026 #Flamengo",
-     "canal": "Jon Sports Brasil 2",
-     "views": 13398,
-     "likes": 150,
-     "comentarios": 5,
-     "publicado": "2026-10-27T01:00:41Z",
-     "duracao_s": 95,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=IX0xTHdJuvo"
-    },
-    {
-     "id": "m9uEbee17pg",
-     "titulo": "GOLS Flamengo 3 x 2 Atlético-MG - Melhores Momentos - Brasileirão 2026 (32ª Rodada)",
-     "canal": "Show Libertadores ",
-     "views": 13036,
-     "likes": 114,
-     "comentarios": 5,
-     "publicado": "2026-10-27T01:07:10Z",
-     "duracao_s": 10,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=m9uEbee17pg"
-    },
-    {
-     "id": "I3g0_Fz-Hrc",
-     "titulo": "✅3º GOL DO FLAMENGO 3x2 ATLÉTICO-MG | Brasileirão 2026 | 26/10/2026",
-     "canal": "Saiu Gol | Gols de Hoje",
-     "views": 12819,
-     "likes": 128,
-     "comentarios": 22,
-     "publicado": "2026-10-27T01:01:48Z",
-     "duracao_s": 14,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=I3g0_Fz-Hrc"
-    },
-    {
-     "id": "LCparvKUB5Y",
-     "titulo": "Flamengo 3 x 2 Atlético-MG: Carrascal decide de pênalti! Os 5 gols | Melhores momentos #Flamengo",
-     "canal": "TvSportsYT",
-     "views": 12424,
-     "likes": 172,
-     "comentarios": 8,
-     "publicado": "2026-10-27T01:07:47Z",
-     "duracao_s": 32,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=LCparvKUB5Y"
-    },
-    {
-     "id": "Fa0tYjWBnI8",
-     "titulo": "Flamengo vira, Carrascal decide no último lance e o Palmeiras perde a ponta",
-     "canal": "Giro Fla ",
-     "views": 12261,
-     "likes": 1389,
-     "comentarios": 37,
-     "publicado": "2026-10-27T08:45:05Z",
-     "duracao_s": 171,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Fa0tYjWBnI8"
-    },
-    {
-     "id": "QneXKmlpUmM",
-     "titulo": "FOI PÊNALTI OU O GALO FOI PREJUDICADO? Flamengo vence com gol de Carrascal no final!  #futebol #galo",
-     "canal": "Footsplaining",
-     "views": 10258,
-     "likes": 226,
-     "comentarios": 86,
-     "publicado": "2026-10-27T01:35:32Z",
-     "duracao_s": 47,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=QneXKmlpUmM"
-    },
-    {
-     "id": "gKdRnCj_mMk",
-     "titulo": "CARRASCAL MARCA NO ÚLTIMO LANCE E GARANTE A VITÓRIA!",
-     "canal": "rarinfutebol",
-     "views": 7548,
-     "likes": 76,
-     "comentarios": 25,
-     "publicado": "2026-10-27T01:05:09Z",
-     "duracao_s": 12,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=gKdRnCj_mMk"
-    },
-    {
-     "id": "fRSmSDyMcJk",
-     "titulo": "GOL DO CARRASCAL PARA O FLAMENGO CONTRA O ATLÉTICO MG #flamengo #futebol #mengão #mengo",
-     "canal": "Fla Total",
-     "views": 7048,
-     "likes": 405,
-     "comentarios": 20,
-     "publicado": "2026-10-27T01:05:16Z",
-     "duracao_s": 45,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=fRSmSDyMcJk"
-    },
-    {
-     "id": "Jvn4gZ2ZtCU",
-     "titulo": "CARRASCAL MARCA NO FIM E DÁ VITÓRIA AO FLAMENGO! VEJA O PÊNALTI",
-     "canal": "UOL Esporte",
-     "views": 5930,
-     "likes": 114,
-     "comentarios": 23,
-     "publicado": "2026-10-27T01:17:30Z",
-     "duracao_s": 64,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Jvn4gZ2ZtCU"
-    },
-    {
-     "id": "IQcYJxVch8Y",
-     "titulo": "Carrascal marca de pênalti o gol da vitória do Flamengo sobre o Atlético-MG no Maracanã",
-     "canal": "Lance!",
-     "views": 5678,
-     "likes": 109,
-     "comentarios": 26,
-     "publicado": "2026-10-27T01:12:00Z",
-     "duracao_s": 30,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=IQcYJxVch8Y"
-    },
-    {
-     "id": "WL4kOPFDAEI",
-     "titulo": "GOL DO FLAMENGO! GOL DE CARRASCAL! FLA 3X2 CAM",
-     "canal": "Rádio Bandeirantes",
-     "views": 4865,
-     "likes": 66,
+     "id": "GaWiPm4MfSk",
+     "titulo": "FLA: DANILO FICA ATÉ 2027, CRAVA O GE! #shorts",
+     "canal": "Sirene Rubro-Negra",
+     "views": 72,
+     "likes": 0,
      "comentarios": 0,
-     "publicado": "2026-10-27T01:06:28Z",
-     "duracao_s": 66,
+     "publicado": "2026-10-28T15:38:57Z",
+     "duracao_s": 43,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=WL4kOPFDAEI"
-    },
-    {
-     "id": "UtT-yr8-yHU",
-     "titulo": "GOL DO FLAMENGO! GOL DE CARRASCAL! FLA 3X2 CAM",
-     "canal": "Rádio Bandeirantes",
-     "views": 4774,
-     "likes": 20,
-     "comentarios": 0,
-     "publicado": "2026-10-27T01:06:27Z",
-     "duracao_s": 66,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=UtT-yr8-yHU"
-    },
-    {
-     "id": "dzUeIT20lqw",
-     "titulo": "A CORAGEM DE CARRASCAL PRA BATER O PÊNALTI DO GOL DO FLAMENGO CONTRA O ATLÉTICO-MG",
-     "canal": "Coluna do Fla",
-     "views": 4578,
-     "likes": 131,
-     "comentarios": 7,
-     "publicado": "2026-10-27T02:23:58Z",
-     "duracao_s": 184,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=dzUeIT20lqw"
-    },
-    {
-     "id": "9vWgmGU_CMY",
-     "titulo": "GOL DO CARRASCAL PARA O FLAMENGO CONTRA O ATLÉTICO MG #flamengo #mengão #mengo #futebol",
-     "canal": "Fla Total",
-     "views": 3716,
-     "likes": 243,
-     "comentarios": 2,
-     "publicado": "2026-10-27T01:52:15Z",
-     "duracao_s": 31,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=9vWgmGU_CMY"
+     "url": "https://www.youtube.com/watch?v=GaWiPm4MfSk"
     }
    ],
-   "consulta": "Flamengo Carrascal marca gols",
-   "n_videos": 25,
-   "mais_de": true,
-   "views": 990371,
+   "consulta": "Flamengo Danilo renovação acerta",
+   "n_videos": 3,
+   "mais_de": false,
+   "views": 748,
    "top": [
     {
-     "titulo": "OS GOLS DE FLAMENGO 3 X 2 ATLÉTICO-MG | #shorts | ge.globo",
-     "canal": "ge tv",
-     "views": 320092,
-     "url": "https://www.youtube.com/watch?v=zOOXtnNDmaE",
-     "publicado": "2026-10-27T01:50:39Z",
+     "titulo": "Danilo renova com o Flamengo até dezembro de 2027; ESPN diz que assina hoje 👀⚽️",
+     "canal": "Arena Da Bola",
+     "views": 425,
+     "url": "https://www.youtube.com/watch?v=jUjDQJunUP4",
+     "publicado": "2026-10-28T15:32:19Z",
      "do_canal": false
     },
     {
-     "titulo": "Flamengo 3 x 2 Atlético-MG | Melhores Momentos (COMPLETO) | Brasileirão 2026",
-     "canal": "Start Sports",
-     "views": 183367,
-     "url": "https://www.youtube.com/watch?v=rT0HtYiAjz0",
-     "publicado": "2026-10-27T01:07:03Z",
+     "titulo": "Flamengo acerta renovação de Danilo. #flamengo #mengão #mengo #shorts #viral #brasileirão #short",
+     "canal": "Futebologia Sports ",
+     "views": 251,
+     "url": "https://www.youtube.com/watch?v=R3kQvAIHYis",
+     "publicado": "2026-10-28T15:11:56Z",
      "do_canal": false
     },
     {
-     "titulo": "3º GOL DO FLAMENGO | GOL DE CARRASCAL | Flamengo 3 x 2 Atlético-MG | Brasileirão 2026 #Flamengo",
-     "canal": "Jon Sports Brasil 3",
-     "views": 111349,
-     "url": "https://www.youtube.com/watch?v=YIfqy_KAGR8",
-     "publicado": "2026-10-27T00:59:07Z",
+     "titulo": "FLA: DANILO FICA ATÉ 2027, CRAVA O GE! #shorts",
+     "canal": "Sirene Rubro-Negra",
+     "views": 72,
+     "url": "https://www.youtube.com/watch?v=GaWiPm4MfSk",
+     "publicado": "2026-10-28T15:38:57Z",
      "do_canal": false
     }
    ]
   }
  },
- "flamengo garantem": {
-  "dia": "2026-10-27",
+ "palmeiras estudiantes uniformes define": {
+  "dia": "2026-10-28",
+  "resultado": {
+   "amostra": [],
+   "consulta": "Palmeiras Estudiantes uniformes define",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "palmeiras vidente vencedor": {
+  "dia": "2026-10-28",
+  "resultado": {
+   "amostra": [],
+   "consulta": "Palmeiras Vidente vencedor",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "flamengo rubro-negro engenhao": {
+  "dia": "2026-10-28",
   "resultado": {
    "amostra": [
     {
-     "id": "EbvxIHZN5H4",
-     "titulo": "Pênalti decisivo  Carrascal garante a vitória #flamengo #futebol",
-     "canal": "MF FLANEWS",
-     "views": 1301,
-     "likes": 25,
-     "comentarios": 3,
-     "publicado": "2026-10-27T05:11:02Z",
-     "duracao_s": 106,
+     "id": "xCIrLAQGyCc",
+     "titulo": "VASCO X FLAMENGO: INGRESSOS 50/50 NO ENGENHÃO! #vasco #futebol",
+     "canal": "Radialista Vascaino",
+     "views": 14529,
+     "likes": 694,
+     "comentarios": 66,
+     "publicado": "2026-10-26T18:18:01Z",
+     "duracao_s": 115,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=EbvxIHZN5H4"
+     "url": "https://www.youtube.com/watch?v=xCIrLAQGyCc"
     },
     {
-     "id": "DaRJ1ksyaZs",
-     "titulo": "CARRASCAL GARANTE A VITÓRIA E LIDERANÇA DO FLAMENGO NOS ACRÉSCIMOS",
-     "canal": "LEOZÃO CRF | “Onde Estiver Estarei”",
-     "views": 1183,
-     "likes": 26,
-     "comentarios": 3,
-     "publicado": "2026-10-27T01:47:44Z",
-     "duracao_s": 24,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=DaRJ1ksyaZs"
-    },
-    {
-     "id": "oklGofP4JiA",
-     "titulo": "Carrascal converte pênalti nos acréscimos e garante vitória do Flamengo.  #flamengo #futebol #libert",
-     "canal": "Ultimas noticias sobre o FLA",
-     "views": 1175,
-     "likes": 17,
+     "id": "9zLEEsF7KAE",
+     "titulo": "Vasco X Flamengo confirmado no Engenhão mas com torcida dividida! #brasileirao #vasxfla #flamengo",
+     "canal": "FLAVELINO RUBRO NEGRO",
+     "views": 7,
+     "likes": 1,
      "comentarios": 0,
-     "publicado": "2026-10-27T11:40:25Z",
-     "duracao_s": 31,
+     "publicado": "2026-10-26T22:21:20Z",
+     "duracao_s": 73,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=oklGofP4JiA"
+     "url": "https://www.youtube.com/watch?v=9zLEEsF7KAE"
+    }
+   ],
+   "consulta": "Flamengo Rubro-Negro Engenhão",
+   "n_videos": 2,
+   "mais_de": false,
+   "views": 14536,
+   "top": [
+    {
+     "titulo": "VASCO X FLAMENGO: INGRESSOS 50/50 NO ENGENHÃO! #vasco #futebol",
+     "canal": "Radialista Vascaino",
+     "views": 14529,
+     "url": "https://www.youtube.com/watch?v=xCIrLAQGyCc",
+     "publicado": "2026-10-26T18:18:01Z",
+     "do_canal": false
     },
     {
-     "id": "gsdfLec7A4I",
-     "titulo": "Flamengo reage e garante mais uma vitória #flamengo",
-     "canal": "esquilo TV",
-     "views": 1022,
-     "likes": 20,
+     "titulo": "Vasco X Flamengo confirmado no Engenhão mas com torcida dividida! #brasileirao #vasxfla #flamengo",
+     "canal": "FLAVELINO RUBRO NEGRO",
+     "views": 7,
+     "url": "https://www.youtube.com/watch?v=9zLEEsF7KAE",
+     "publicado": "2026-10-26T22:21:20Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "corinthians feminina santa": {
+  "dia": "2026-10-28",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "Pj-kL-GxV7s",
+     "titulo": "CORINTHIANS E CRUZEIRO NA SEMIFINAL DA LIBERTADORES FEMININA | Olho Nelas | sportv",
+     "canal": "ge tv",
+     "views": 72615,
+     "likes": 451,
+     "comentarios": 7,
+     "publicado": "2026-10-26T21:45:09Z",
+     "duracao_s": 272,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Pj-kL-GxV7s"
+    },
+    {
+     "id": "ni7eGYHgXYg",
+     "titulo": "AO VIVO ⚫ CORINTHIANS x Independiente Santa Fé |  Libertadores Feminina 2026 | 28.10.2026",
+     "canal": "Camisa 12 Oficial",
+     "views": 0,
+     "likes": 0,
      "comentarios": 0,
-     "publicado": "2026-10-27T01:50:25Z",
-     "duracao_s": 8,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=gsdfLec7A4I"
+     "publicado": "2026-10-28T15:46:52Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=ni7eGYHgXYg"
     },
     {
-     "id": "Hi2m8_o0Xa0",
-     "titulo": "CARRASCAL GARANTE A VITÓRIA E LIDERANÇA DO FLAMENGO - Confira os gols da partida",
-     "canal": "Lance!",
-     "views": 659,
-     "likes": 44,
-     "comentarios": 1,
-     "publicado": "2026-10-27T13:20:44Z",
-     "duracao_s": 91,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Hi2m8_o0Xa0"
+     "id": "IOx3ZQZsGzs",
+     "titulo": "AO VIVO ⚫ CORINTHIANS x Independiente Santa Fé |  Libertadores Feminina 2026 | 28.10.2026",
+     "canal": "Rádio Coringão",
+     "views": 0,
+     "likes": 1,
+     "comentarios": 0,
+     "publicado": "2026-10-28T15:44:49Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=IOx3ZQZsGzs"
     },
     {
-     "id": "DUdNDAEuUmQ",
-     "titulo": "Flamengo 3 x 2 Atlético-MG: Pênalti no último minuto garante vitória #shorts",
-     "canal": "MEXXE WORLD ",
-     "views": 450,
+     "id": "8Z8OSbLO8fY",
+     "titulo": "Corinthians e Santa Fé Decidem Vaga na Final da Libertadores Feminina em Duelo de Peso",
+     "canal": "Leia Esporte",
+     "views": 0,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-10-28T14:57:22Z",
+     "duracao_s": 36,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=8Z8OSbLO8fY"
+    },
+    {
+     "id": "gCMRpiO5jo0",
+     "titulo": "🔴 AO VIVO: LIBERTADORES FEMININA 2026 ⚽ | CORINTHIANS x SANTA FÉ | CANAL RAPHA LUZ",
+     "canal": "Canal Rapha Luz",
+     "views": 0,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-10-28T16:35:44Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=gCMRpiO5jo0"
+    },
+    {
+     "id": "p17pdAmX9dM",
+     "titulo": "AO VIVO E COM IMAGENS | CORINTHIANS X SANTA FÉ | SEMIFINAL | LIBERTADORES FEMININA 2026",
+     "canal": "N Sports",
+     "views": 0,
+     "likes": 78,
+     "comentarios": 0,
+     "publicado": "2026-10-27T00:15:22Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=p17pdAmX9dM"
+    },
+    {
+     "id": "Nunvwu8hLwI",
+     "titulo": "AO VIVO ⚫ CORINTHIANS x Independiente Santa Fé |  Libertadores Feminina 2026 | 28.10.2026",
+     "canal": "Gaviões TV",
+     "views": 0,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-10-28T15:48:23Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=Nunvwu8hLwI"
+    },
+    {
+     "id": "f_Wq-S0p0lw",
+     "titulo": "É HOJE: BRABAS DECIDEM VAGA NA FINAL DA LIBERTADORES FEMININA #shorts",
+     "canal": "Dossiê da Fiel",
+     "views": 0,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-10-28T14:31:14Z",
+     "duracao_s": 58,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=f_Wq-S0p0lw"
+    }
+   ],
+   "consulta": "Corinthians Feminina Santa",
+   "n_videos": 8,
+   "mais_de": false,
+   "views": 72615,
+   "top": [
+    {
+     "titulo": "CORINTHIANS E CRUZEIRO NA SEMIFINAL DA LIBERTADORES FEMININA | Olho Nelas | sportv",
+     "canal": "ge tv",
+     "views": 72615,
+     "url": "https://www.youtube.com/watch?v=Pj-kL-GxV7s",
+     "publicado": "2026-10-26T21:45:09Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "AO VIVO ⚫ CORINTHIANS x Independiente Santa Fé |  Libertadores Feminina 2026 | 28.10.2026",
+     "canal": "Camisa 12 Oficial",
+     "views": 0,
+     "url": "https://www.youtube.com/watch?v=ni7eGYHgXYg",
+     "publicado": "2026-10-28T15:46:52Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "AO VIVO ⚫ CORINTHIANS x Independiente Santa Fé |  Libertadores Feminina 2026 | 28.10.2026",
+     "canal": "Rádio Coringão",
+     "views": 0,
+     "url": "https://www.youtube.com/watch?v=IOx3ZQZsGzs",
+     "publicado": "2026-10-28T15:44:49Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "sao paulo rogerio ceni retrospecto": {
+  "dia": "2026-10-28",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "tLBT3tVnlGY",
+     "titulo": "Rogério Ceni REVELOU OS BASTIDORES do duelo com Marcos e SURPREENDEU ao falar do Palmeiras!",
+     "canal": "Fala, Tricolor!",
+     "views": 801,
+     "likes": 5,
+     "comentarios": 0,
+     "publicado": "2026-10-26T21:45:24Z",
+     "duracao_s": 751,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=tLBT3tVnlGY"
+    }
+   ],
+   "consulta": "São Paulo Rogério Ceni retrospecto",
+   "n_videos": 1,
+   "mais_de": false,
+   "views": 801,
+   "top": [
+    {
+     "titulo": "Rogério Ceni REVELOU OS BASTIDORES do duelo com Marcos e SURPREENDEU ao falar do Palmeiras!",
+     "canal": "Fala, Tricolor!",
+     "views": 801,
+     "url": "https://www.youtube.com/watch?v=tLBT3tVnlGY",
+     "publicado": "2026-10-26T21:45:24Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "palmeiras comeca horas": {
+  "dia": "2026-10-28",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "n3xobK_7t_g",
+     "titulo": "SANTOS X PALMEIRAS | AO VIVO COM IMAGENS | BRASILEIRÃO SÉRIE A HORÁRIO E TRANSMISSÃO",
+     "canal": "ONDE O JOGO TÁ ",
+     "views": 2,
+     "likes": 1,
+     "comentarios": 0,
+     "publicado": "2026-10-28T15:00:09Z",
+     "duracao_s": 21,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=n3xobK_7t_g"
+    }
+   ],
+   "consulta": "Palmeiras começa horas",
+   "n_videos": 1,
+   "mais_de": false,
+   "views": 2,
+   "top": [
+    {
+     "titulo": "SANTOS X PALMEIRAS | AO VIVO COM IMAGENS | BRASILEIRÃO SÉRIE A HORÁRIO E TRANSMISSÃO",
+     "canal": "ONDE O JOGO TÁ ",
+     "views": 2,
+     "url": "https://www.youtube.com/watch?v=n3xobK_7t_g",
+     "publicado": "2026-10-28T15:00:09Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "palmeiras escalacoes": {
+  "dia": "2026-10-28",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "SRxH8rNkc8U",
+     "titulo": "SANTOS x Palmeiras: escalações, onde assistir, desfalques, arbitragem…",
+     "canal": "Lucas Musetti Perazolli",
+     "views": 9770,
+     "likes": 1535,
+     "comentarios": 52,
+     "publicado": "2026-10-28T13:28:39Z",
+     "duracao_s": 482,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=SRxH8rNkc8U"
+    },
+    {
+     "id": "h66RNLlc3i4",
+     "titulo": "💚SANTOS X PALMEIRAS! VEJA A PROVÁVEL ESCALAÇÃO DO VERDÃO PARA O CLÁSSICO PELO BRASILEIRÃO 2026!",
+     "canal": "FUTEBOL TOTAL OFICIAL",
+     "views": 8695,
+     "likes": 152,
+     "comentarios": 4,
+     "publicado": "2026-10-28T09:00:36Z",
+     "duracao_s": 1030,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=h66RNLlc3i4"
+    },
+    {
+     "id": "EnDKOMD7gQg",
+     "titulo": "ONDE ASSISTIR SANTOS X PALMEIRAS, ESCALAÇÕES E MAIS INFORMAÇÕES ",
+     "canal": "RK Santos",
+     "views": 3106,
+     "likes": 96,
+     "comentarios": 0,
+     "publicado": "2026-10-27T23:29:50Z",
+     "duracao_s": 229,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=EnDKOMD7gQg"
+    },
+    {
+     "id": "b-Qat0kt4E8",
+     "titulo": "SANTOS X PALMEIRAS: ONDE ASSISTIR, ESCALAÇÕES E MAIS INFORMAÇÕES ",
+     "canal": "Roberto Kodama",
+     "views": 2942,
+     "likes": 104,
+     "comentarios": 0,
+     "publicado": "2026-10-27T20:37:06Z",
+     "duracao_s": 233,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=b-Qat0kt4E8"
+    },
+    {
+     "id": "c_p2IpAO1QU",
+     "titulo": "PRÉ JOGO SANTOS x PALMEIRAS: PARADA DURA DE OLHO NA LIBERTA | ESCALAÇÕES E ONDE ASSISTIR",
+     "canal": "Filho de Peixe",
+     "views": 2354,
+     "likes": 105,
+     "comentarios": 5,
+     "publicado": "2026-10-27T21:00:29Z",
+     "duracao_s": 800,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=c_p2IpAO1QU"
+    },
+    {
+     "id": "vGmwRLjdm7I",
+     "titulo": "🖤SANTOS X PALMEIRAS! VEJA A PROVÁVEL ESCALAÇÃO DO PEIXE! CUCA PREPARA MUDANÇAS PARA O CLÁSSICO",
+     "canal": "PEIXE TOTAL",
+     "views": 1064,
+     "likes": 30,
+     "comentarios": 0,
+     "publicado": "2026-10-28T11:00:26Z",
+     "duracao_s": 1196,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=vGmwRLjdm7I"
+    },
+    {
+     "id": "KirwyhTyLmc",
+     "titulo": "🚨AGORA🚨| R$ 300 MILHÕES EM JOGO ATÉ DEZEMBRO!🚨| ABEL E LEILA DETONAM O FLAMENGO!🚨| ÚLTIMAS DO VERDÃO",
+     "canal": "Central do Verdão",
+     "views": 466,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-10-26T22:00:37Z",
+     "duracao_s": 485,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=KirwyhTyLmc"
+    },
+    {
+     "id": "WwIO8IwwI8w",
+     "titulo": "SANTOS X PALMEIRAS: ONDE ASSISTIR AO VIVO, HORÁRIO E ESCALAÇÕES | BRASILEIRÃO",
+     "canal": "Severo Palmeirense ",
+     "views": 314,
      "likes": 8,
      "comentarios": 0,
-     "publicado": "2026-10-27T15:13:39Z",
-     "duracao_s": 34,
+     "publicado": "2026-10-28T12:55:30Z",
+     "duracao_s": 103,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=DUdNDAEuUmQ"
+     "url": "https://www.youtube.com/watch?v=WwIO8IwwI8w"
     },
     {
-     "id": "kb3Nek7UUNU",
-     "titulo": "Flamengo garante liderança no fim e Grêmio vence mas continua na zona da degola #brasileirão2026",
-     "canal": "Edmricartefc",
-     "views": 150,
+     "id": "pciyvBGWbEU",
+     "titulo": "🚨AGORA🚨| VERDÃO CONSEGUE SEQUÊNCIA INÉDITA!🚨| NICOLA TRAZ TODOS OS DETALHES!🚨| ÚLTIMAS DO PALMEIRAS!",
+     "canal": "Central do Verdão",
+     "views": 240,
      "likes": 2,
      "comentarios": 0,
-     "publicado": "2026-10-27T15:27:08Z",
-     "duracao_s": 16,
+     "publicado": "2026-10-27T18:15:00Z",
+     "duracao_s": 585,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=kb3Nek7UUNU"
+     "url": "https://www.youtube.com/watch?v=pciyvBGWbEU"
+    },
+    {
+     "id": "gWroKPUUcww",
+     "titulo": "🚨 AQUECIMENTO SANTOS X PALMEIRAS! ÚLTIMAS NOTÍCIAS DO VERDÃO, ESCALAÇÕES, DESFALQUES|BR26",
+     "canal": "canal sonho alviverde ",
+     "views": 200,
+     "likes": 34,
+     "comentarios": 0,
+     "publicado": "2026-10-28T02:27:12Z",
+     "duracao_s": 3617,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=gWroKPUUcww"
+    },
+    {
+     "id": "wslakIG3y4g",
+     "titulo": "SANTOS X PALMEIRAS:  ARBITRAGEM, PENDURADOS E PROVÁVEIS ESCALAÇÕES",
+     "canal": "Sincero Santos",
+     "views": 113,
+     "likes": 36,
+     "comentarios": 0,
+     "publicado": "2026-10-28T14:27:17Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=wslakIG3y4g"
+    },
+    {
+     "id": "tpk-MKAEKgc",
+     "titulo": "🚨AGORA🚨| MATEMÁTICOS APONTAM CHANCES DE TÍTULO PARA PALMEIRAS E FLAMENGO!🚨| NICOLA TRAZ OS DETALHES!",
+     "canal": "Central do Verdão",
+     "views": 51,
+     "likes": 1,
+     "comentarios": 0,
+     "publicado": "2026-10-27T23:00:36Z",
+     "duracao_s": 597,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=tpk-MKAEKgc"
+    },
+    {
+     "id": "8qIzUSP82ag",
+     "titulo": "TUDO SOBRE SANTOS X SÃO PAULO: ESCALAÇÕES, ONDE ASSISTIR, DESFALQUES, HORÁRIO, ARBITRAGEM ",
+     "canal": "Roberto Kodama",
+     "views": 33,
+     "likes": 7,
+     "comentarios": 0,
+     "publicado": "2026-10-28T16:06:00Z",
+     "duracao_s": 343,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=8qIzUSP82ag"
+    },
+    {
+     "id": "hqW5Glhq_gA",
+     "titulo": "Pré-jogo Santos x Palmeiras, escalações, palpites, Time modificado? Clássico com chuva?",
+     "canal": "O Canal Mil Gols (Rafa Rodrigues & Danilo Reis)",
+     "views": 32,
+     "likes": 4,
+     "comentarios": 0,
+     "publicado": "2026-10-28T04:02:52Z",
+     "duracao_s": 3226,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=hqW5Glhq_gA"
+    },
+    {
+     "id": "qd7JyzHsNmM",
+     "titulo": "🚨 AQUECIMENTO SANTOS X PALMEIRAS! ÚLTIMAS NOTÍCIAS DO VERDÃO, ESCALAÇÕES, DESFALQUES/BR26",
+     "canal": "Canal fechado com verdão",
+     "views": 3,
+     "likes": 4,
+     "comentarios": 0,
+     "publicado": "2026-10-28T02:27:12Z",
+     "duracao_s": 3618,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=qd7JyzHsNmM"
+    },
+    {
+     "id": "6K5GF9uAg3s",
+     "titulo": "Provável escalação do Palmeiras contra o Santos | Clássico do Brasileirão",
+     "canal": "Até o Infinito",
+     "views": 2,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-10-28T11:48:20Z",
+     "duracao_s": 55,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=6K5GF9uAg3s"
+    },
+    {
+     "id": "OYesiZSFMi0",
+     "titulo": "🚨 SANTOS X PALMEIRAS: ONDE ASSISTIR, PROVÁVEIS ESCALAÇÕES E TUDO SOBRE O CLÁSSICO! #palmeiras",
+     "canal": "XEQUE-MATE PALESTRINO",
+     "views": 1,
+     "likes": 1,
+     "comentarios": 2,
+     "publicado": "2026-10-28T15:30:11Z",
+     "duracao_s": 609,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=OYesiZSFMi0"
+    },
+    {
+     "id": "ChVmOONFqrU",
+     "titulo": "🔴#AOVIVO | Pré-Jogo: Santos x Palmeiras: onde assistir ao vivo, horário e escalações.",
+     "canal": "Tutti Palestra",
+     "views": 0,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-10-28T12:19:33Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=ChVmOONFqrU"
+    },
+    {
+     "id": "QIHWA2aQfFE",
+     "titulo": "🟡 PRÉ-JOGO SANTOS X PALMEIRAS AO VIVO | Escalação, horário e onde assistir | BRASILEIRÃO",
+     "canal": "Web Rádio Verdão",
+     "views": 0,
+     "likes": 5,
+     "comentarios": 0,
+     "publicado": "2026-10-27T12:17:01Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=QIHWA2aQfFE"
+    },
+    {
+     "id": "YsIQQMqXnXM",
+     "titulo": "🚨 SANTOS X PALMEIRAS AO VIVO! ÚLTIMAS NOTÍCIAS, ESCALAÇÕES, ARBITRAGEM E PALPITE | BRASILEIRÃO 2026",
+     "canal": "falaporcada1914",
+     "views": 0,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-10-28T14:51:19Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=YsIQQMqXnXM"
     }
    ],
-   "consulta": "Flamengo garantem",
-   "n_videos": 7,
+   "consulta": "Palmeiras escalações",
+   "n_videos": 20,
    "mais_de": false,
-   "views": 5940,
+   "views": 29386,
    "top": [
     {
-     "titulo": "Pênalti decisivo  Carrascal garante a vitória #flamengo #futebol",
-     "canal": "MF FLANEWS",
-     "views": 1301,
-     "url": "https://www.youtube.com/watch?v=EbvxIHZN5H4",
-     "publicado": "2026-10-27T05:11:02Z",
+     "titulo": "SANTOS x Palmeiras: escalações, onde assistir, desfalques, arbitragem…",
+     "canal": "Lucas Musetti Perazolli",
+     "views": 9770,
+     "url": "https://www.youtube.com/watch?v=SRxH8rNkc8U",
+     "publicado": "2026-10-28T13:28:39Z",
      "do_canal": false
     },
     {
-     "titulo": "CARRASCAL GARANTE A VITÓRIA E LIDERANÇA DO FLAMENGO NOS ACRÉSCIMOS",
-     "canal": "LEOZÃO CRF | “Onde Estiver Estarei”",
-     "views": 1183,
-     "url": "https://www.youtube.com/watch?v=DaRJ1ksyaZs",
-     "publicado": "2026-10-27T01:47:44Z",
+     "titulo": "💚SANTOS X PALMEIRAS! VEJA A PROVÁVEL ESCALAÇÃO DO VERDÃO PARA O CLÁSSICO PELO BRASILEIRÃO 2026!",
+     "canal": "FUTEBOL TOTAL OFICIAL",
+     "views": 8695,
+     "url": "https://www.youtube.com/watch?v=h66RNLlc3i4",
+     "publicado": "2026-10-28T09:00:36Z",
      "do_canal": false
     },
     {
-     "titulo": "Carrascal converte pênalti nos acréscimos e garante vitória do Flamengo.  #flamengo #futebol #libert",
-     "canal": "Ultimas noticias sobre o FLA",
-     "views": 1175,
-     "url": "https://www.youtube.com/watch?v=oklGofP4JiA",
-     "publicado": "2026-10-27T11:40:25Z",
+     "titulo": "ONDE ASSISTIR SANTOS X PALMEIRAS, ESCALAÇÕES E MAIS INFORMAÇÕES ",
+     "canal": "RK Santos",
+     "views": 3106,
+     "url": "https://www.youtube.com/watch?v=EnDKOMD7gQg",
+     "publicado": "2026-10-27T23:29:50Z",
      "do_canal": false
     }
    ]
   }
  },
- "corinthians risco rebaixamento": {
-  "dia": "2026-10-27",
+ "sao paulo ferreirinha troca artur": {
+  "dia": "2026-10-28",
   "resultado": {
    "amostra": [
     {
-     "id": "komC-X1TS20",
-     "titulo": "\"NÃO TEM DESCULPA!\": Neto manda a real antes de Corinthians x Mirassol! #corinthians",
-     "canal": "Corinthians Fut Gols",
-     "views": 64821,
-     "likes": 905,
-     "comentarios": 44,
-     "publicado": "2026-10-27T03:00:26Z",
-     "duracao_s": 22,
+     "id": "cXtP3H4cZKk",
+     "titulo": "AGORA NO SPFC! DORIVAL TOMA DECISÃO! | ACERTO COM MEIA | ARTUR X FERREIRINHA E JOIA SURGE EM COTIA",
+     "canal": "Teclas Daniel",
+     "views": 17506,
+     "likes": 1666,
+     "comentarios": 99,
+     "publicado": "2026-10-28T01:34:41Z",
+     "duracao_s": 984,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=komC-X1TS20"
+     "url": "https://www.youtube.com/watch?v=cXtP3H4cZKk"
     },
     {
-     "id": "ENicCsB5y40",
-     "titulo": "Benja DESOLADO com a situação do Corinthians: \"SÓ UM MILAGRE SALVA DO REBAIXAMENTO\"",
-     "canal": "TMC Esporte",
-     "views": 48471,
-     "likes": 811,
-     "comentarios": 66,
-     "publicado": "2026-10-26T22:11:07Z",
-     "duracao_s": 2984,
+     "id": "Y5yh0o5IQOY",
+     "titulo": "FALEI COM STABILE| ARTUR POR FERREIRA? DOPING DO JORGINHO| CARLOS VINÍCIUS: GALO OU VASCO? SEP, NEY+",
+     "canal": "Canal do Nicola",
+     "views": 17279,
+     "likes": 2368,
+     "comentarios": 207,
+     "publicado": "2026-10-28T12:54:43Z",
+     "duracao_s": 1080,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=ENicCsB5y40"
+     "url": "https://www.youtube.com/watch?v=Y5yh0o5IQOY"
     },
     {
-     "id": "4J_vxt6BmY0",
-     "titulo": "BRASILEIRÃO 2026: GRÊMIO TEM 80,6% DE RISCO DE QUEDA! Corinthians e Inter também ameaçados",
-     "canal": "Bastidores da Bola",
-     "views": 40060,
-     "likes": 149,
-     "comentarios": 6,
-     "publicado": "2026-10-25T16:30:39Z",
-     "duracao_s": 10,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=4J_vxt6BmY0"
+     "id": "SmlyQoKCuuU",
+     "titulo": "TROCA FERREIRINHA X ARTUR? SÃO PAULO X BAHIA AO VIVO ONDE ASSISTIR E INFORMAÇÕES",
+     "canal": "SPFC - São Paulo Blog - Notícias e Informações ",
+     "views": 2122,
+     "likes": 272,
+     "comentarios": 37,
+     "publicado": "2026-10-28T12:24:24Z",
+     "duracao_s": 2656,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=SmlyQoKCuuU"
     },
     {
-     "id": "TRGJSMOAwGY",
-     "titulo": "🚨 INFORMAÇÃO VAZADA NO CORINTHIANS!!SEERDORF VAI CAIR??CHICO GARCIA TRAZ AGORA A NOTÍCIA QUENTE",
-     "canal": "CORINTHIANS 1910 INFORMATIVO ",
-     "views": 14109,
-     "likes": 217,
-     "comentarios": 22,
-     "publicado": "2026-10-25T23:15:33Z",
-     "duracao_s": 1479,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=TRGJSMOAwGY"
-    },
-    {
-     "id": "_8jfc251O3Y",
-     "titulo": "🚨 INFORMAÇÃO VAZADA NO CORINTHIANS!! SEEDORF PODE FICAR FORA?? SALAZAR TRAZ INFORMAÇÃO DE DENTRO!",
-     "canal": "BANDO DE LOUCOS INFORMATIVO ",
-     "views": 14101,
-     "likes": 135,
-     "comentarios": 7,
-     "publicado": "2026-10-25T23:48:23Z",
-     "duracao_s": 1264,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=_8jfc251O3Y"
-    },
-    {
-     "id": "iHoDK0D0Kgk",
-     "titulo": "😱 NETO DETONA SEEDORF APÓS CRISE NO CORINTHIANS",
-     "canal": "BOLA NARRADA",
-     "views": 12098,
-     "likes": 113,
+     "id": "BsmFaf6CP3w",
+     "titulo": "TROCA GIGANTESCA!!! SÃO PAULO E BOTAFOGO FAZEM TROCA DE SUCESSO E AGORA É SOBRE FERREIRINHA E ARTUR!",
+     "canal": "Coletiva do Juba - Futebol",
+     "views": 483,
+     "likes": 80,
      "comentarios": 8,
-     "publicado": "2026-10-27T02:07:50Z",
-     "duracao_s": 1478,
+     "publicado": "2026-10-28T15:41:05Z",
+     "duracao_s": 1153,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=iHoDK0D0Kgk"
+     "url": "https://www.youtube.com/watch?v=BsmFaf6CP3w"
     },
     {
-     "id": "pEykWmVe_DA",
-     "titulo": "VERGONHA!!! CORINTHIANS NO Z4! O QUE AINDA PODE SALVAR O TIMÃO?",
-     "canal": "PodcasTIMÃO",
-     "views": 11169,
-     "likes": 606,
-     "comentarios": 20,
-     "publicado": "2026-10-26T12:46:53Z",
-     "duracao_s": 3294,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=pEykWmVe_DA"
-    },
-    {
-     "id": "A7uoouxLKXk",
-     "titulo": "RIZECK E DENÍLSON MANDAM A REAL SOBRE A CRISE DO CORINTHIANS APÓS DERROTA PARA O VASCO!",
-     "canal": "Futebol é Comigo mesmo",
-     "views": 8757,
-     "likes": 47,
-     "comentarios": 12,
-     "publicado": "2026-10-26T13:46:05Z",
-     "duracao_s": 791,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=A7uoouxLKXk"
-    },
-    {
-     "id": "PRzvRNymM4E",
-     "titulo": "QG CORINGÃO AO VIVO: MAIS UMA DERROTA! CORINTHIANS ENTRA NO Z-4 E O REBAIXAMENTO VIRA PESADELO!",
-     "canal": "Coy o Corintiano",
-     "views": 8477,
-     "likes": 479,
-     "comentarios": 19,
-     "publicado": "2026-10-27T01:21:34Z",
-     "duracao_s": 5713,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=PRzvRNymM4E"
-    },
-    {
-     "id": "SOiTZ-Z2YIs",
-     "titulo": "QG CORINGÃO AO VIVO: MAIS UMA DERROTA! CORINTHIANS ENTRA NO Z-4 E O REBAIXAMENTO VIRA PESADELO! 📱",
-     "canal": "Coy o Corintiano",
-     "views": 8335,
-     "likes": 179,
+     "id": "jGOcWOqJuQg",
+     "titulo": "FERREIRINHA NO BOTAFOGO? SÃO PAULO PODE PROPOR TROCA POR ARTHUR COM O BOTAFOGO! ACEITA, TORCEDOR? 😱🔥",
+     "canal": "Papo de Botafoguense ★彡",
+     "views": 192,
+     "likes": 2,
      "comentarios": 0,
-     "publicado": "2026-10-27T13:14:36Z",
-     "duracao_s": 5713,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=SOiTZ-Z2YIs"
-    },
-    {
-     "id": "4PgYoYBHp5M",
-     "titulo": "🚨 PREVISÃO CORINTHIANS VAI CAIR? TAROT REVELOU O FUTURO DO TIMÃO NO BRASILEIRÃO ",
-     "canal": "Milena Vitoreli Astróloga & Tarologa ",
-     "views": 7270,
-     "likes": 213,
-     "comentarios": 48,
-     "publicado": "2026-10-26T21:31:40Z",
-     "duracao_s": 837,
+     "publicado": "2026-10-28T15:53:18Z",
+     "duracao_s": 32,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=4PgYoYBHp5M"
-    },
-    {
-     "id": "EO0aGp_hX5Q",
-     "titulo": "QUEM PODERÁ? E COMO SALVAR O CORINTHIANS? DIVIDAS, DO RISCO DE REBAIXAMENTO E GESTÕES TEMERÁRIAS",
-     "canal": "TV E RADIO MARCÃO DA FIEL",
-     "views": 6464,
-     "likes": 245,
-     "comentarios": 4,
-     "publicado": "2026-10-26T03:30:20Z",
-     "duracao_s": 5019,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=EO0aGp_hX5Q"
-    },
-    {
-     "id": "uZLZ8Wez3VA",
-     "titulo": "CORINTHIANS, GRÊMIO E INTERNACIONAL NA LUTA CONTRA O REBAIXAMENTO! QUEM VAI ESCAPAR DA SÉRIE B?",
-     "canal": "RB FOOTBALL",
-     "views": 5947,
-     "likes": 198,
-     "comentarios": 19,
-     "publicado": "2026-10-27T11:00:34Z",
-     "duracao_s": 1152,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=uZLZ8Wez3VA"
-    },
-    {
-     "id": "75_237E9biU",
-     "titulo": "TIMÃO: O RISCO DE REBAIXAMENTO É REAL! #corinthians #campeonatobrasileiro #rebaixamento",
-     "canal": "Trivela Prime",
-     "views": 4821,
-     "likes": 99,
-     "comentarios": 4,
-     "publicado": "2026-10-25T18:47:22Z",
-     "duracao_s": 34,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=75_237E9biU"
-    },
-    {
-     "id": "1CsAW77riAo",
-     "titulo": "Pascoal faz alerta dramático sobre queda do Corinthians! #corinthians",
-     "canal": "Corinthians Fut Gols",
-     "views": 4104,
-     "likes": 117,
-     "comentarios": 4,
-     "publicado": "2026-10-27T12:00:03Z",
-     "duracao_s": 33,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=1CsAW77riAo"
-    },
-    {
-     "id": "XGXEfM7G7bQ",
-     "titulo": "CORINTHIANS SAIU DIRETAMENTE DO CT JOAQUIM GRAVA VEJA O QUE ELE DISSE",
-     "canal": "Café do Timão",
-     "views": 4023,
-     "likes": 88,
-     "comentarios": 16,
-     "publicado": "2026-10-26T09:15:06Z",
-     "duracao_s": 859,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=XGXEfM7G7bQ"
-    },
-    {
-     "id": "_WMesbcdGOg",
-     "titulo": "PALMEIRAS NA LIDERANÇA E CORINTHIANS NA ZONA! | AFACI SPORTS 📱",
-     "canal": "AFACI",
-     "views": 3685,
-     "likes": 8,
-     "comentarios": 0,
-     "publicado": "2026-10-27T06:17:56Z",
-     "duracao_s": 4134,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=_WMesbcdGOg"
-    },
-    {
-     "id": "3SluHkWfJEw",
-     "titulo": "BOMBA🚨RISCO REAL DE REBAIXAMENTO NO CORINTHIANS | LULA ELEITO O QUE ESPERAR DO TIMÃO EM 2027v",
-     "canal": "CORINTHIANS FANATICS",
-     "views": 2389,
-     "likes": 33,
-     "comentarios": 2,
-     "publicado": "2026-10-26T21:00:31Z",
-     "duracao_s": 644,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=3SluHkWfJEw"
-    },
-    {
-     "id": "aUfedQMnWwc",
-     "titulo": "🚨 RISCO DE REBAIXAMENTO! Quem cai e quem fica? 😱",
-     "canal": "Will Sport Oficial ",
-     "views": 1891,
-     "likes": 7,
-     "comentarios": 0,
-     "publicado": "2026-10-25T18:51:50Z",
-     "duracao_s": 15,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=aUfedQMnWwc"
-    },
-    {
-     "id": "GaPBiY20d2k",
-     "titulo": "CORINTHIANS NO Z-4: 62% DE RISCO DE QUEDA E SALÁRIOS ATRASADOS!",
-     "canal": "Bando Digital SCCP",
-     "views": 1228,
-     "likes": 15,
-     "comentarios": 0,
-     "publicado": "2026-10-25T16:29:33Z",
-     "duracao_s": 29,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=GaPBiY20d2k"
-    },
-    {
-     "id": "ME_tYxTMJkU",
-     "titulo": "Timão no Z4: 62% de risco de queda e 6 jogos para fugir #shorts",
-     "canal": "ShortsTimão",
-     "views": 1113,
-     "likes": 8,
-     "comentarios": 4,
-     "publicado": "2026-10-26T02:14:18Z",
-     "duracao_s": 52,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ME_tYxTMJkU"
-    },
-    {
-     "id": "v5xEdshfN1U",
-     "titulo": "O risco de desmanche em caso de rebaixamento #futebol #loucosporfutebol #corinthians",
-     "canal": "Corinthians Minhasvida",
-     "views": 975,
-     "likes": 35,
-     "comentarios": 3,
-     "publicado": "2026-10-27T10:13:02Z",
-     "duracao_s": 92,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=v5xEdshfN1U"
+     "url": "https://www.youtube.com/watch?v=jGOcWOqJuQg"
     }
    ],
-   "consulta": "Corinthians Risco rebaixamento",
-   "n_videos": 22,
-   "mais_de": true,
-   "views": 274308,
+   "consulta": "São Paulo Ferreirinha Troca Artur",
+   "n_videos": 5,
+   "mais_de": false,
+   "views": 37582,
    "top": [
     {
-     "titulo": "\"NÃO TEM DESCULPA!\": Neto manda a real antes de Corinthians x Mirassol! #corinthians",
-     "canal": "Corinthians Fut Gols",
-     "views": 64821,
-     "url": "https://www.youtube.com/watch?v=komC-X1TS20",
-     "publicado": "2026-10-27T03:00:26Z",
+     "titulo": "AGORA NO SPFC! DORIVAL TOMA DECISÃO! | ACERTO COM MEIA | ARTUR X FERREIRINHA E JOIA SURGE EM COTIA",
+     "canal": "Teclas Daniel",
+     "views": 17506,
+     "url": "https://www.youtube.com/watch?v=cXtP3H4cZKk",
+     "publicado": "2026-10-28T01:34:41Z",
      "do_canal": false
     },
     {
-     "titulo": "Benja DESOLADO com a situação do Corinthians: \"SÓ UM MILAGRE SALVA DO REBAIXAMENTO\"",
-     "canal": "TMC Esporte",
-     "views": 48471,
-     "url": "https://www.youtube.com/watch?v=ENicCsB5y40",
-     "publicado": "2026-10-26T22:11:07Z",
+     "titulo": "FALEI COM STABILE| ARTUR POR FERREIRA? DOPING DO JORGINHO| CARLOS VINÍCIUS: GALO OU VASCO? SEP, NEY+",
+     "canal": "Canal do Nicola",
+     "views": 17279,
+     "url": "https://www.youtube.com/watch?v=Y5yh0o5IQOY",
+     "publicado": "2026-10-28T12:54:43Z",
      "do_canal": false
     },
     {
-     "titulo": "BRASILEIRÃO 2026: GRÊMIO TEM 80,6% DE RISCO DE QUEDA! Corinthians e Inter também ameaçados",
-     "canal": "Bastidores da Bola",
-     "views": 40060,
-     "url": "https://www.youtube.com/watch?v=4J_vxt6BmY0",
-     "publicado": "2026-10-25T16:30:39Z",
+     "titulo": "TROCA FERREIRINHA X ARTUR? SÃO PAULO X BAHIA AO VIVO ONDE ASSISTIR E INFORMAÇÕES",
+     "canal": "SPFC - São Paulo Blog - Notícias e Informações ",
+     "views": 2122,
+     "url": "https://www.youtube.com/watch?v=SmlyQoKCuuU",
+     "publicado": "2026-10-28T12:24:24Z",
      "do_canal": false
     }
    ]
+  }
+ },
+ "flamengo lider disputar": {
+  "dia": "2026-10-28",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "anjSjpQjLzk",
+     "titulo": "BRASILEIRÃO PEGANDO FOGO! FLAMENGO LÍDER, PALMEIRAS NA COLA! #tvfutresenha #futebol #shorts",
+     "canal": "📺TvFutResenha",
+     "views": 1511,
+     "likes": 3,
+     "comentarios": 0,
+     "publicado": "2026-10-27T11:06:02Z",
+     "duracao_s": 4,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=anjSjpQjLzk"
+    }
+   ],
+   "consulta": "Flamengo líder disputar",
+   "n_videos": 1,
+   "mais_de": false,
+   "views": 1511,
+   "top": [
+    {
+     "titulo": "BRASILEIRÃO PEGANDO FOGO! FLAMENGO LÍDER, PALMEIRAS NA COLA! #tvfutresenha #futebol #shorts",
+     "canal": "📺TvFutResenha",
+     "views": 1511,
+     "url": "https://www.youtube.com/watch?v=anjSjpQjLzk",
+     "publicado": "2026-10-27T11:06:02Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "palmeiras tabu pressionar": {
+  "dia": "2026-10-28",
+  "resultado": {
+   "amostra": [],
+   "consulta": "Palmeiras tabu pressionar",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
   }
  }
 }
