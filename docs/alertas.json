@@ -1,6 +1,99 @@
 {
- "atualizado_em": "2026-10-28T17:13:05.386379+00:00",
+ "atualizado_em": "2026-10-28T21:45:24.035098+00:00",
  "alertas": [
+  {
+   "id": "SRxH8rNkc8U",
+   "tema": "Santos x Palmeiras: onde assistir ao vivo, horário e escalações pelo Brasileirão",
+   "clubes": [
+    "Palmeiras",
+    "Santos"
+   ],
+   "origem": "Pauta do radar",
+   "formato_em_alta": "Vídeos longos",
+   "sugestao": "Vídeo de 8 a 12 min com análise e opinião forte logo no início",
+   "dica_do_canal": "No seu canal, Transmissão de jogo rende 3,3x a média: puxe o assunto também na próxima live.",
+   "n_videos": 20,
+   "views": 53310,
+   "velocidade": 9.2,
+   "engajamento": 2.7,
+   "engajamento_pct": 6.4,
+   "ganho_hora": null,
+   "exemplos": [
+    {
+     "titulo": "SANTOS x Palmeiras: escalações, onde assistir, desfalques, arbitragem…",
+     "canal": "Lucas Musetti Perazolli",
+     "views": 26227,
+     "url": "https://www.youtube.com/watch?v=SRxH8rNkc8U",
+     "formato": "Vídeos longos",
+     "views_hora": 3168
+    },
+    {
+     "titulo": "💚SANTOS X PALMEIRAS! VEJA A PROVÁVEL ESCALAÇÃO DO VERDÃO PARA O CLÁSSICO PELO BRASILEIRÃO 2026!",
+     "canal": "FUTEBOL TOTAL OFICIAL",
+     "views": 10162,
+     "url": "https://www.youtube.com/watch?v=h66RNLlc3i4",
+     "formato": "Vídeos longos",
+     "views_hora": 797
+    },
+    {
+     "titulo": "SANTOS X PALMEIRAS:  ARBITRAGEM, PENDURADOS E PROVÁVEIS ESCALAÇÕES",
+     "canal": "Sincero Santos",
+     "views": 1521,
+     "url": "https://www.youtube.com/watch?v=wslakIG3y4g",
+     "formato": "Lives",
+     "views_hora": 208
+    }
+   ],
+   "gancho": "Onde assistir ao vivo, horário e escalações pelo Brasileirão. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
+   "avisado_em": "2026-10-28T21:45:24.035098+00:00",
+   "pelo_vigia": true
+  },
+  {
+   "id": "Pj-kL-GxV7s",
+   "tema": "Corinthians x Santa Fe: horário e onde assistir à Libertadores Feminina",
+   "clubes": [
+    "Corinthians"
+   ],
+   "origem": "Pauta do radar",
+   "formato_em_alta": "Vídeos longos",
+   "sugestao": "Vídeo de 8 a 12 min com análise e opinião forte logo no início",
+   "dica_do_canal": "No seu canal, Transmissão de jogo rende 3,3x a média: puxe o assunto também na próxima live.",
+   "n_videos": 8,
+   "views": 87940,
+   "velocidade": 4.5,
+   "engajamento": 1.2,
+   "engajamento_pct": 2.9,
+   "ganho_hora": null,
+   "exemplos": [
+    {
+     "titulo": "CORINTHIANS E CRUZEIRO NA SEMIFINAL DA LIBERTADORES FEMININA | Olho Nelas | sportv",
+     "canal": "ge tv",
+     "views": 75124,
+     "url": "https://www.youtube.com/watch?v=Pj-kL-GxV7s",
+     "formato": "Vídeos longos",
+     "views_hora": 1565
+    },
+    {
+     "titulo": "AO VIVO ⚫ CORINTHIANS x Independiente Santa Fé |  Libertadores Feminina 2026 | 28.10.2026",
+     "canal": "Rádio Coringão",
+     "views": 3946,
+     "url": "https://www.youtube.com/watch?v=IOx3ZQZsGzs",
+     "formato": "Lives",
+     "views_hora": 657
+    },
+    {
+     "titulo": "AO VIVO ⚫ CORINTHIANS x Independiente Santa Fé |  Libertadores Feminina 2026 | 28.10.2026",
+     "canal": "Gaviões TV",
+     "views": 2081,
+     "url": "https://www.youtube.com/watch?v=Nunvwu8hLwI",
+     "formato": "Lives",
+     "views_hora": 350
+    }
+   ],
+   "gancho": "Corinthians x Santa Fé parece um jogo com dono. É exatamente aí que mora o perigo.",
+   "avisado_em": "2026-10-28T21:45:24.035098+00:00",
+   "pelo_vigia": true
+  },
   {
    "id": "Y5yh0o5IQOY",
    "tema": "Troca de atacantes entre São Paulo e Botafogo envolvendo Ferreirinha e Artur vira especulação nas redes",
