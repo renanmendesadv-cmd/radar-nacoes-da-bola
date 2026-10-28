@@ -1,106 +1,51 @@
 {
- "atualizado_em": "2026-10-17T19:35:53.949122+00:00",
+ "atualizado_em": "2026-10-28T17:13:05.386379+00:00",
  "alertas": [
   {
-   "id": "FCSO1cUEb44",
-   "tema": "QUEM VAI CAIR PARA A SÉRIE B!!??🅱️",
-   "clubes": [],
-   "origem": "Em alta no YouTube (Esportes)",
-   "formato_em_alta": "Shorts",
-   "sugestao": "Short de 30 a 60 s com a sua opinião ou reação (poste o mesmo vídeo como Reels no Instagram)",
-   "dica_do_canal": "Seu canal quase não tem Shorts: é uma chance de testar o formato com um assunto que já está bombando.",
-   "n_videos": 1,
-   "views": 530849,
-   "velocidade": 101.8,
-   "engajamento": 1.1,
-   "engajamento_pct": 2.5,
-   "ganho_hora": null,
-   "exemplos": [
-    {
-     "titulo": "QUEM VAI CAIR PARA A SÉRIE B!!??🅱️",
-     "canal": "Jaum Brow",
-     "views": 530849,
-     "url": "https://www.youtube.com/watch?v=FCSO1cUEb44",
-     "formato": "Shorts",
-     "views_hora": 22741
-    }
-   ],
-   "avisado_em": "2026-10-17T19:35:53.949122+00:00",
-   "pelo_vigia": true
-  },
-  {
-   "id": "uctU3ny65yQ",
-   "tema": "São Paulo x Vasco: onde assistir ao vivo, horário e prováveis escalações do jogo do Brasileirão",
+   "id": "Y5yh0o5IQOY",
+   "tema": "Troca de atacantes entre São Paulo e Botafogo envolvendo Ferreirinha e Artur vira especulação nas redes",
    "clubes": [
     "São Paulo",
-    "Vasco"
+    "Botafogo"
    ],
    "origem": "Pauta do radar",
    "formato_em_alta": "Vídeos longos",
    "sugestao": "Vídeo de 8 a 12 min com análise e opinião forte logo no início",
-   "dica_do_canal": "No seu canal, Transmissão de jogo rende 1,9x a média: puxe o assunto também na próxima live.",
+   "dica_do_canal": "No seu canal, Transmissão de jogo rende 3,3x a média: puxe o assunto também na próxima live.",
    "n_videos": 5,
-   "views": 27072,
-   "velocidade": 14.6,
-   "engajamento": 2.9,
-   "engajamento_pct": 6.6,
+   "views": 42223,
+   "velocidade": 14.2,
+   "engajamento": 5.0,
+   "engajamento_pct": 11.6,
    "ganho_hora": null,
    "exemplos": [
     {
-     "titulo": "VASCO PRONTO! PEDRO EMANUEL MEXEU NO TIME E SURPREENDEU NA ESCALAÇÃO CONTRA O SÃO PAULO… \"PRA CIMA!\"",
-     "canal": "Nico Vasco",
-     "views": 23958,
-     "url": "https://www.youtube.com/watch?v=uctU3ny65yQ",
+     "titulo": "FALEI COM STABILE| ARTUR POR FERREIRA? DOPING DO JORGINHO| CARLOS VINÍCIUS: GALO OU VASCO? SEP, NEY+",
+     "canal": "Canal do Nicola",
+     "views": 21123,
+     "url": "https://www.youtube.com/watch?v=Y5yh0o5IQOY",
      "formato": "Vídeos longos",
-     "views_hora": 3263
+     "views_hora": 4905
     },
     {
-     "titulo": "🔴 SÃO PAULO X VASCO AO VIVO | PRÉ-JOGO | BRASILEIRÃO",
-     "canal": "Tricolor_FAT",
-     "views": 630,
-     "url": "https://www.youtube.com/watch?v=8oVlidcdmMQ",
+     "titulo": "AGORA NO SPFC! DORIVAL TOMA DECISÃO! | ACERTO COM MEIA | ARTUR X FERREIRINHA E JOIA SURGE EM COTIA",
+     "canal": "Teclas Daniel",
+     "views": 17901,
+     "url": "https://www.youtube.com/watch?v=cXtP3H4cZKk",
+     "formato": "Vídeos longos",
+     "views_hora": 1145
+    },
+    {
+     "titulo": "TROCA FERREIRINHA X ARTUR? SÃO PAULO X BAHIA AO VIVO ONDE ASSISTIR E INFORMAÇÕES",
+     "canal": "SPFC - São Paulo Blog - Notícias e Informações ",
+     "views": 2394,
+     "url": "https://www.youtube.com/watch?v=SmlyQoKCuuU",
      "formato": "Lives",
-     "views_hora": 159
-    },
-    {
-     "titulo": "🚨🔥 SÃO PAULO X VASCO! JOGÃO NO MORUMBIS! ⚽ PALPITES, ESCALAÇÕES E QUEM VENCE? 🇾🇪🏆",
-     "canal": "AtmosferaSPFC",
-     "views": 2267,
-     "url": "https://www.youtube.com/watch?v=3YtSzxDUBXw",
-     "formato": "Shorts",
-     "views_hora": 94
+     "views_hora": 498
     }
    ],
-   "gancho": "São Paulo x Vasco: onde assistir ao vivo, horário e prováveis escalações do jogo do Brasileirão. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-   "avisado_em": "2026-10-17T17:21:06.854307+00:00",
-   "pelo_vigia": true
-  },
-  {
-   "id": "6qy5d4J_hoM",
-   "tema": "FIZEMOS A MENOR LIBERTADORES DO MUNDO! 🏆🔥",
-   "clubes": [],
-   "origem": "Em alta no YouTube (Esportes)",
-   "formato_em_alta": "Shorts",
-   "sugestao": "Short de 30 a 60 s com a sua opinião ou reação (poste o mesmo vídeo como Reels no Instagram)",
-   "dica_do_canal": "Seu canal quase não tem Shorts: é uma chance de testar o formato com um assunto que já está bombando.",
-   "n_videos": 1,
-   "views": 1244429,
-   "velocidade": 213.5,
-   "engajamento": 1.5,
-   "engajamento_pct": 3.4,
-   "ganho_hora": null,
-   "exemplos": [
-    {
-     "titulo": "FIZEMOS A MENOR LIBERTADORES DO MUNDO! 🏆🔥",
-     "canal": "Michael bnk",
-     "views": 1244429,
-     "url": "https://www.youtube.com/watch?v=6qy5d4J_hoM",
-     "formato": "Shorts",
-     "views_hora": 49121
-    }
-   ],
-   "gancho": "Fizemos a menor libertadores do mundo. Isso é bom ou ruim para o seu time? Responde antes de ver a minha análise.",
-   "avisado_em": "2026-10-16T22:54:26.580235+00:00",
+   "gancho": "Troca de atacantes entre São Paulo e Botafogo envolvendo Ferreirinha e Artur vira especulação nas redes. Por trás disso, tem dois lados que não querem a mesma coisa.",
+   "avisado_em": "2026-10-28T17:13:05.386379+00:00",
    "pelo_vigia": true
   }
  ]
