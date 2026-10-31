@@ -1,1469 +1,356 @@
 {
- "palmeiras nubank define data": {
-  "dia": "2026-10-30",
+ "corinthians vence expulsao": {
+  "dia": "2026-10-31",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "QUglqB73hWI",
+     "titulo": "Corinthians aproveita expulsão e vence o Mirassol #Corinthians #Mirassol #Brasileirão",
+     "canal": "Fut Live",
+     "views": 12436,
+     "likes": 101,
+     "comentarios": 16,
+     "publicado": "2026-10-31T03:51:38Z",
+     "duracao_s": 63,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=QUglqB73hWI"
+    },
+    {
+     "id": "Weho3H7jM2Q",
+     "titulo": "CORINTHIANS VENCE COM POLÊMICA! EXPULSÃO GERA REVOLTA E TREINADOR DETONA",
+     "canal": "FutNews Shorts",
+     "views": 1237,
+     "likes": 14,
+     "comentarios": 3,
+     "publicado": "2026-10-31T09:49:42Z",
+     "duracao_s": 60,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Weho3H7jM2Q"
+    },
+    {
+     "id": "OmKMkGvyMQs",
+     "titulo": "🔥CORINTHIANS VENCE O MIRASSOL! A ANÁLISE SEM FILTRO SOBRE A VITÓRIA E A POLÊMICA DA EXPULSÃO!",
+     "canal": "Trincheira Corinthians",
+     "views": 159,
+     "likes": 4,
+     "comentarios": 2,
+     "publicado": "2026-10-31T02:01:11Z",
+     "duracao_s": 1115,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=OmKMkGvyMQs"
+    }
+   ],
+   "consulta": "Corinthians vence expulsão",
+   "n_videos": 3,
+   "mais_de": false,
+   "views": 13832,
+   "top": [
+    {
+     "titulo": "Corinthians aproveita expulsão e vence o Mirassol #Corinthians #Mirassol #Brasileirão",
+     "canal": "Fut Live",
+     "views": 12436,
+     "url": "https://www.youtube.com/watch?v=QUglqB73hWI",
+     "publicado": "2026-10-31T03:51:38Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "CORINTHIANS VENCE COM POLÊMICA! EXPULSÃO GERA REVOLTA E TREINADOR DETONA",
+     "canal": "FutNews Shorts",
+     "views": 1237,
+     "url": "https://www.youtube.com/watch?v=Weho3H7jM2Q",
+     "publicado": "2026-10-31T09:49:42Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "🔥CORINTHIANS VENCE O MIRASSOL! A ANÁLISE SEM FILTRO SOBRE A VITÓRIA E A POLÊMICA DA EXPULSÃO!",
+     "canal": "Trincheira Corinthians",
+     "views": 159,
+     "url": "https://www.youtube.com/watch?v=OmKMkGvyMQs",
+     "publicado": "2026-10-31T02:01:11Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "corinthians feminina informacoes": {
+  "dia": "2026-10-31",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "kNTLKrgPIcQ",
+     "titulo": "CORINTHIANS X CRUZEIRO: onde assistir AO VIVO, horário e informações da FINAL LIBERTADORES Feminina",
+     "canal": "João Vitor Alvim",
+     "views": 16638,
+     "likes": 271,
+     "comentarios": 5,
+     "publicado": "2026-10-30T14:18:17Z",
+     "duracao_s": 511,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=kNTLKrgPIcQ"
+    },
+    {
+     "id": "pPFcRREFkE8",
+     "titulo": "CORINTHIANS E CRUZEIRO ESTÃO NA FINAL DA LIBERTADORES FEMININA! ⚽ | Joga com Elas #09",
+     "canal": "N Sports",
+     "views": 13257,
+     "likes": 206,
+     "comentarios": 3,
+     "publicado": "2026-10-29T23:00:20Z",
+     "duracao_s": 2109,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=pPFcRREFkE8"
+    }
+   ],
+   "consulta": "Corinthians Feminina informações",
+   "n_videos": 2,
+   "mais_de": false,
+   "views": 29895,
+   "top": [
+    {
+     "titulo": "CORINTHIANS X CRUZEIRO: onde assistir AO VIVO, horário e informações da FINAL LIBERTADORES Feminina",
+     "canal": "João Vitor Alvim",
+     "views": 16638,
+     "url": "https://www.youtube.com/watch?v=kNTLKrgPIcQ",
+     "publicado": "2026-10-30T14:18:17Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "CORINTHIANS E CRUZEIRO ESTÃO NA FINAL DA LIBERTADORES FEMININA! ⚽ | Joga com Elas #09",
+     "canal": "N Sports",
+     "views": 13257,
+     "url": "https://www.youtube.com/watch?v=pPFcRREFkE8",
+     "publicado": "2026-10-29T23:00:20Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "flamengo escalacoes 01-11-2026": {
+  "dia": "2026-10-31",
   "resultado": {
    "amostra": [],
-   "consulta": "Palmeiras Nubank define data",
+   "consulta": "Flamengo escalações 01-11-2026",
    "n_videos": 0,
    "mais_de": false,
    "views": 0,
    "top": []
   }
  },
- "palmeiras semifinal": {
-  "dia": "2026-10-30",
+ "palmeiras estudiantes confirma": {
+  "dia": "2026-10-31",
   "resultado": {
    "amostra": [
     {
-     "id": "T-BF1ctkIec",
-     "titulo": "MAIS UMA VEZ? PAULINHO SENTE DORES NA PANTURRILHA  ⚠️ #paulinho #palmeiras",
-     "canal": "Kgm Chuteiras",
-     "views": 348226,
-     "likes": 6315,
-     "comentarios": 42,
-     "publicado": "2026-10-29T17:00:15Z",
-     "duracao_s": 11,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=T-BF1ctkIec"
-    },
-    {
-     "id": "tuH5akp8UmA",
-     "titulo": "VERDÃO SE REAPRESENTA E INICIA PREPARAÇÃO PARA SEMIFINAL DA COPA DO BRASIL",
-     "canal": "TV Palmeiras",
-     "views": 27215,
-     "likes": 753,
-     "comentarios": 36,
-     "publicado": "2026-10-29T19:40:58Z",
-     "duracao_s": 140,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=tuH5akp8UmA"
-    },
-    {
-     "id": "CGuhd2RWPUY",
-     "titulo": "PALMEIRAS X VASCO COPA DO BRASIL - ONDE ASSISTIR E HORÁRIO DO JOGO - SEMIFINAL DE IDA",
-     "canal": "JOGOS DO PALMEIRAS",
-     "views": 14425,
-     "likes": 312,
-     "comentarios": 13,
-     "publicado": "2026-10-29T19:00:25Z",
-     "duracao_s": 75,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=CGuhd2RWPUY"
-    },
-    {
-     "id": "Ra3ui-tSrl4",
-     "titulo": "Previsão do Futebol - COPA DO BRASIL SEMIFINAL - Jogo de ida entre Palmeiras x Vasco",
-     "canal": "Previsão do Futebol",
-     "views": 7932,
-     "likes": 193,
-     "comentarios": 15,
-     "publicado": "2026-10-28T19:30:09Z",
-     "duracao_s": 369,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=Ra3ui-tSrl4"
-    },
-    {
-     "id": "ejRw0wrMr6I",
-     "titulo": "COBRANÇA PESADA! VASCO LIGOU O ALERTA E PEDRO EMANUEL JÁ PREPARA MUDANÇA URGENTE PRA COPA DO BRASIL!",
-     "canal": "Nico Vasco",
-     "views": 7870,
-     "likes": 441,
-     "comentarios": 78,
-     "publicado": "2026-10-30T10:00:12Z",
-     "duracao_s": 803,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ejRw0wrMr6I"
-    },
-    {
-     "id": "2IqwINCTjj0",
-     "titulo": "🚨 PALMEIRAS X VASCO: PAULINHO FORA! QUAL SERÁ A ESCALAÇÃO DE ABEL NA SEMIFINAL?",
-     "canal": "AMICI 1914",
-     "views": 7090,
-     "likes": 521,
+     "id": "vz-mInulshE",
+     "titulo": "Conmebol rejeita apelo do Fla e confirma Estudiantes na final da Liberta!",
+     "canal": "Pega Essa Tijolada",
+     "views": 1552,
+     "likes": 44,
      "comentarios": 7,
-     "publicado": "2026-10-30T01:27:44Z",
-     "duracao_s": 3792,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=2IqwINCTjj0"
-    },
-    {
-     "id": "rj8gkjk6wfk",
-     "titulo": "PREVISÃO: O que o Tarô revela para PALMEIRAS x VASCO pela SEMIFINAL da COPA DO BRASIL 2026?",
-     "canal": "TARÔ DO FUTEBOL",
-     "views": 5991,
-     "likes": 69,
-     "comentarios": 7,
-     "publicado": "2026-10-29T00:30:38Z",
-     "duracao_s": 214,
+     "publicado": "2026-10-29T16:05:18Z",
+     "duracao_s": 128,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=rj8gkjk6wfk"
+     "url": "https://www.youtube.com/watch?v=vz-mInulshE"
     },
     {
-     "id": "AxS4NHssv_4",
-     "titulo": "🚨 VIDENTE FAZ PREVISÃO POLÊMICA PARA PALMEIRAS X VASCO SEMIFINAL COPA DO BRASIL!",
-     "canal": "Milena Vitoreli Astróloga & Tarologa ",
-     "views": 5802,
-     "likes": 178,
-     "comentarios": 15,
-     "publicado": "2026-10-29T21:36:53Z",
-     "duracao_s": 647,
+     "id": "OUaJVkG1Hjs",
+     "titulo": "Commebol sendo commebol e…#flamengo #futebol #estudiantes #libertadores",
+     "canal": "Azilado Esportes",
+     "views": 1196,
+     "likes": 24,
+     "comentarios": 6,
+     "publicado": "2026-10-29T18:22:10Z",
+     "duracao_s": 127,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=AxS4NHssv_4"
+     "url": "https://www.youtube.com/watch?v=OUaJVkG1Hjs"
     },
     {
-     "id": "yCclLQM9Csw",
-     "titulo": "PALMEIRAS x VASCO DA GAMA | COPA DO BRASIL, SEMI FINAL - TAROT REVELOU 🔮",
-     "canal": "Universo Tarot",
-     "views": 5236,
-     "likes": 191,
-     "comentarios": 20,
-     "publicado": "2026-10-29T23:16:06Z",
-     "duracao_s": 402,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=yCclLQM9Csw"
-    },
-    {
-     "id": "ZJ1IZhmOPbU",
-     "titulo": "Pedro Emanuel poupou o Vasco no clássico. A conta chega domingo",
-     "canal": "Impérios FC",
-     "views": 3301,
-     "likes": 85,
-     "comentarios": 5,
-     "publicado": "2026-10-30T02:34:03Z",
+     "id": "gR8cVibJ_4Q",
+     "titulo": "Resumão da manhã: Palmeiras enfrenta Estudiantes na final da Libertadores",
+     "canal": "Verdão em Pauta",
+     "views": 21,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-10-31T15:28:27Z",
      "duracao_s": 77,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=ZJ1IZhmOPbU"
+     "url": "https://www.youtube.com/watch?v=gR8cVibJ_4Q"
+    }
+   ],
+   "consulta": "Palmeiras Estudiantes confirma",
+   "n_videos": 3,
+   "mais_de": false,
+   "views": 2769,
+   "top": [
+    {
+     "titulo": "Conmebol rejeita apelo do Fla e confirma Estudiantes na final da Liberta!",
+     "canal": "Pega Essa Tijolada",
+     "views": 1552,
+     "url": "https://www.youtube.com/watch?v=vz-mInulshE",
+     "publicado": "2026-10-29T16:05:18Z",
+     "do_canal": false
     },
     {
-     "id": "lTOAtvGmKyc",
-     "titulo": "🚨🐺 QUE VENHA O VERDÃO! PAYSANDU VAI COM FORÇA MÁXIMA EM BUSCA DA SEMIFINAL DA COPA DO BRASIL SUB-20!",
-     "canal": "Nação Bicolor | PAYSANDU",
-     "views": 3288,
-     "likes": 38,
-     "comentarios": 2,
-     "publicado": "2026-10-29T15:00:21Z",
-     "duracao_s": 383,
+     "titulo": "Commebol sendo commebol e…#flamengo #futebol #estudiantes #libertadores",
+     "canal": "Azilado Esportes",
+     "views": 1196,
+     "url": "https://www.youtube.com/watch?v=OUaJVkG1Hjs",
+     "publicado": "2026-10-29T18:22:10Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "Resumão da manhã: Palmeiras enfrenta Estudiantes na final da Libertadores",
+     "canal": "Verdão em Pauta",
+     "views": 21,
+     "url": "https://www.youtube.com/watch?v=gR8cVibJ_4Q",
+     "publicado": "2026-10-31T15:28:27Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "corinthians rebaixamento chances": {
+  "dia": "2026-10-31",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "agw7zhaxw64",
+     "titulo": "ATENÇÃO! CONTAS CONTRA O REBAIXAMENTO MUDARAM! TIME GRANDE AFUNDAR NA TABELA DA SÉRIE A!",
+     "canal": "Torcedorismo",
+     "views": 26112,
+     "likes": 603,
+     "comentarios": 64,
+     "publicado": "2026-10-30T09:00:21Z",
+     "duracao_s": 1107,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=lTOAtvGmKyc"
+     "url": "https://www.youtube.com/watch?v=agw7zhaxw64"
     },
     {
-     "id": "PpAF-vlwujs",
-     "titulo": "Conmebol rejeita ação do Flamengo sobre Rojo e confirma Estudiantes x Palmeiras na final",
-     "canal": "Rádio Bandeirantes",
-     "views": 3138,
+     "id": "58zRRiQ2eR0",
+     "titulo": "Corinthians: A conta para não cair 🧮 #Shorts",
+     "canal": "Palpite Cast",
+     "views": 1307,
+     "likes": 20,
+     "comentarios": 0,
+     "publicado": "2026-10-31T10:00:23Z",
+     "duracao_s": 62,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=58zRRiQ2eR0"
+    },
+    {
+     "id": "tZASPppqZ1E",
+     "titulo": "CORINTHIANS VENCE MIRASSOL E AS CHANCES DE REBAIXAMENTO DIMINUEM",
+     "canal": "NOTICIANDO ESPORTES ",
+     "views": 1233,
      "likes": 35,
      "comentarios": 0,
-     "publicado": "2026-10-29T15:30:39Z",
+     "publicado": "2026-10-31T01:07:05Z",
      "duracao_s": 38,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=PpAF-vlwujs"
+     "url": "https://www.youtube.com/watch?v=tZASPppqZ1E"
     },
     {
-     "id": "I0FTIYJPt_c",
-     "titulo": "Mauricio REVOLTADO com tentativa do Flamengo de anular semifinal!",
-     "canal": "Papo de Palmeirense",
-     "views": 2418,
-     "likes": 41,
-     "comentarios": 0,
-     "publicado": "2026-10-28T17:00:10Z",
-     "duracao_s": 1260,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=I0FTIYJPt_c"
-    },
-    {
-     "id": "yp-8PcX5jvY",
-     "titulo": "PALMEIRAS X VASCO AO VIVO COM IMAGEM - COPA DO BRASIL 2026 - SEMIFINAL - ASSISTA AGORA!",
-     "canal": "Rodrigo Gamer 18",
-     "views": 2047,
-     "likes": 13,
-     "comentarios": 0,
-     "publicado": "2026-10-29T20:30:07Z",
-     "duracao_s": 543,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=yp-8PcX5jvY"
-    },
-    {
-     "id": "N60jXIcIcj0",
-     "titulo": "PALMEIRAS X VASCO AO VIVO (COM IMAGENS !!!) COPA DO BRASIL 2026 - SEMIFINAL - ASSISTA AGORA!",
-     "canal": "Rodrigo Gamer 18",
-     "views": 1977,
-     "likes": 22,
-     "comentarios": 2,
-     "publicado": "2026-10-28T19:30:11Z",
-     "duracao_s": 481,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=N60jXIcIcj0"
-    },
-    {
-     "id": "MUs_9t8z5DA",
-     "titulo": "🔥 PALMEIRAS A TODO VAPOR! Abel Prepara o Verdão para a SEMIFINAL contra o Vasco! 🏆",
-     "canal": "AMICI 1914",
-     "views": 1261,
-     "likes": 466,
+     "id": "fvpVhvXOZMg",
+     "titulo": "O corinthians tem  58% de chances de rebaixamento segundo a IA #corinthians #rebaixados  #palmeiras",
+     "canal": "futiFC",
+     "views": 1200,
+     "likes": 26,
      "comentarios": 1,
-     "publicado": "2026-10-30T14:57:44Z",
-     "duracao_s": 3839,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=MUs_9t8z5DA"
-    },
-    {
-     "id": "TDajWROexJ8",
-     "titulo": "Prévia do Palmeiras x Vasco, pela semifinal da Copa do Brasil",
-     "canal": "Jogo Aberto",
-     "views": 1249,
-     "likes": 57,
-     "comentarios": 1,
-     "publicado": "2026-10-30T16:16:02Z",
-     "duracao_s": 108,
+     "publicado": "2026-10-30T23:17:44Z",
+     "duracao_s": 60,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=TDajWROexJ8"
+     "url": "https://www.youtube.com/watch?v=fvpVhvXOZMg"
     },
     {
-     "id": "3fTwaNKCc54",
-     "titulo": "🚨 Vasco x Palmeiras: cadê os ingressos da semifinal? R$ 360 e nenhuma resposta! 😡 #vasco",
-     "canal": "Vasco Na Real",
-     "views": 1212,
-     "likes": 33,
-     "comentarios": 1,
-     "publicado": "2026-10-28T18:05:53Z",
-     "duracao_s": 59,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=3fTwaNKCc54"
-    },
-    {
-     "id": "ilKeccXFg8A",
-     "titulo": "COPA DO BRASIL SEMIFINAL PALMEIRAS X VASCO #copadobrasil",
-     "canal": "DR MÍDIAS",
-     "views": 1100,
-     "likes": 18,
-     "comentarios": 1,
-     "publicado": "2026-10-29T16:57:38Z",
-     "duracao_s": 57,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ilKeccXFg8A"
-    },
-    {
-     "id": "6av0IaSYbHE",
-     "titulo": "PALMEIRAS: 3 TÍTULOS EM JOGO! A DATA FIFA VAI ATRAPALHAR?",
-     "canal": "Porco Bello",
-     "views": 976,
-     "likes": 27,
-     "comentarios": 1,
-     "publicado": "2026-10-29T18:38:17Z",
-     "duracao_s": 119,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=6av0IaSYbHE"
-    },
-    {
-     "id": "zrMY5aMNUv8",
-     "titulo": "COMO DOIS EMPATES ELIMINARAM O SANTOS EM 1998",
-     "canal": "Por Trás da Camisa ",
-     "views": 967,
-     "likes": 28,
-     "comentarios": 1,
-     "publicado": "2026-10-28T21:15:01Z",
-     "duracao_s": 48,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=zrMY5aMNUv8"
-    },
-    {
-     "id": "7POMOABglOw",
-     "titulo": "semifinal categoria master BETO BAR  X PALMEIRAS",
-     "canal": "Ts divulgação ",
-     "views": 906,
+     "id": "_MsvefyY8lw",
+     "titulo": "A crise que une Grêmio, Inter e Corinthians na Série A",
+     "canal": "Auto Tube",
+     "views": 927,
      "likes": 9,
      "comentarios": 0,
-     "publicado": "2026-10-30T11:36:12Z",
-     "duracao_s": 5278,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=7POMOABglOw"
-    },
-    {
-     "id": "ZX7fMVsut5o",
-     "titulo": "\"VASCO NÃO ELIMINA O PALMEIRAS\", AFIRMA CAPPELLANES",
-     "canal": "Jogo Aberto",
-     "views": 398,
-     "likes": 32,
-     "comentarios": 1,
-     "publicado": "2026-10-30T15:49:00Z",
-     "duracao_s": 126,
+     "publicado": "2026-10-30T18:00:25Z",
+     "duracao_s": 31,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=ZX7fMVsut5o"
-    }
-   ],
-   "consulta": "Palmeiras Semifinal",
-   "n_videos": 23,
-   "mais_de": true,
-   "views": 454025,
-   "top": [
-    {
-     "titulo": "MAIS UMA VEZ? PAULINHO SENTE DORES NA PANTURRILHA  ⚠️ #paulinho #palmeiras",
-     "canal": "Kgm Chuteiras",
-     "views": 348226,
-     "url": "https://www.youtube.com/watch?v=T-BF1ctkIec",
-     "publicado": "2026-10-29T17:00:15Z",
-     "do_canal": false
+     "url": "https://www.youtube.com/watch?v=_MsvefyY8lw"
     },
     {
-     "titulo": "VERDÃO SE REAPRESENTA E INICIA PREPARAÇÃO PARA SEMIFINAL DA COPA DO BRASIL",
-     "canal": "TV Palmeiras",
-     "views": 27215,
-     "url": "https://www.youtube.com/watch?v=tuH5akp8UmA",
-     "publicado": "2026-10-29T19:40:58Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "PALMEIRAS X VASCO COPA DO BRASIL - ONDE ASSISTIR E HORÁRIO DO JOGO - SEMIFINAL DE IDA",
-     "canal": "JOGOS DO PALMEIRAS",
-     "views": 14425,
-     "url": "https://www.youtube.com/watch?v=CGuhd2RWPUY",
-     "publicado": "2026-10-29T19:00:25Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "corinthians": {
-  "dia": "2026-10-30",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "XK3UOBxPzqE",
-     "titulo": "JOGO COMPLETO: CORINTHIANS X INDEPENDIENTE SANTA FE | LIBERTADORES FEMININA 2026 | SEMIFINAL",
-     "canal": "CazéTV",
-     "views": 897686,
-     "likes": 12977,
-     "comentarios": 12,
-     "publicado": "2026-10-28T22:11:04Z",
-     "duracao_s": 9979,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=XK3UOBxPzqE"
-    },
-    {
-     "id": "Pu58ZrTFuF8",
-     "titulo": "Eu no dia MENOS Corinthiano 🦅🤣 #corinthians #editsccp #futebol #sccp #timao #fyp",
-     "canal": "Central SCCP",
-     "views": 720622,
-     "likes": 11644,
-     "comentarios": 172,
-     "publicado": "2026-10-29T15:08:48Z",
-     "duracao_s": 35,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Pu58ZrTFuF8"
-    },
-    {
-     "id": "C-7gORcix6M",
-     "titulo": "GIGANTES NA LUTA CONTRA O REBAIXAMENTO! 🅱️🚨#shorts",
-     "canal": "ESPN Brasil",
-     "views": 314114,
-     "likes": 3052,
-     "comentarios": 210,
-     "publicado": "2026-10-28T20:35:57Z",
-     "duracao_s": 68,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=C-7gORcix6M"
-    },
-    {
-     "id": "J5F1n86rJhQ",
-     "titulo": "CORINTHIANS X GUARANI | QUARTAS DE FINAL DO PAULISTÃO SUB-20 | AO VIVO E COM IMAGENS",
-     "canal": "Xsports",
-     "views": 243722,
-     "likes": 3100,
-     "comentarios": 4,
-     "publicado": "2026-10-30T01:39:12Z",
-     "duracao_s": 7224,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=J5F1n86rJhQ"
-    },
-    {
-     "id": "ScyJ1tsQ0YE",
-     "titulo": "Disputa contra o rebaixamento no brasileirão #brasileirão #corinthians #vasco #botafogo #grêmio",
-     "canal": "Klistube",
-     "views": 225180,
-     "likes": 6319,
-     "comentarios": 202,
-     "publicado": "2026-10-29T03:03:16Z",
-     "duracao_s": 76,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ScyJ1tsQ0YE"
-    },
-    {
-     "id": "THbINNV7-bM",
-     "titulo": "Isso aqui tá bom demais #palmeiras #futebol #corinthians #flamengo",
-     "canal": "Rafa Morais",
-     "views": 213153,
-     "likes": 5420,
-     "comentarios": 211,
-     "publicado": "2026-10-28T19:34:22Z",
-     "duracao_s": 23,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=THbINNV7-bM"
-    },
-    {
-     "id": "hkCGutdBSfY",
-     "titulo": "\"É IMPRESSIONANTE! Agora fica CADA VEZ MAIS INEXPLICÁVEL como...\" CORINTHIANS EM CRISE GERA DEBATE!",
-     "canal": "Jovem Pan Esportes",
-     "views": 208509,
-     "likes": 3418,
-     "comentarios": 296,
-     "publicado": "2026-10-28T17:58:54Z",
-     "duracao_s": 1094,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=hkCGutdBSfY"
-    },
-    {
-     "id": "dqykg03CIf0",
-     "titulo": "CORINTHIANS VAI CAIR PARA SÉRIE B!",
-     "canal": "Raio X Futebol ",
-     "views": 192130,
-     "likes": null,
-     "comentarios": 31,
-     "publicado": "2026-10-29T16:17:12Z",
-     "duracao_s": 14,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=dqykg03CIf0"
-    },
-    {
-     "id": "QdUUWxLrvws",
-     "titulo": "\"VAMOS FALAR DE JOGO!\" Seedorf dá bronca em jornalista para proteger Garro!",
-     "canal": "Corinthians Fut Gols",
-     "views": 173281,
-     "likes": 3269,
-     "comentarios": 163,
-     "publicado": "2026-10-29T17:49:45Z",
-     "duracao_s": 46,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=QdUUWxLrvws"
-    },
-    {
-     "id": "VZn_AY9pt50",
-     "titulo": "COLETIVA DE IMPRENSA | GUSTAVO HENRIQUE, CLARENCE SEEDORF E RODRIGO GARRO",
-     "canal": "Corinthians TV",
-     "views": 146304,
-     "likes": 5414,
-     "comentarios": 185,
-     "publicado": "2026-10-29T21:36:38Z",
-     "duracao_s": 2481,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=VZn_AY9pt50"
-    },
-    {
-     "id": "8I1hmqNB0vI",
-     "titulo": "Já começou a implementação do Milan no Corinthians?? | Emboscada TV |",
-     "canal": "Emboscada TV ",
-     "views": 141957,
-     "likes": 5172,
-     "comentarios": 284,
-     "publicado": "2026-10-29T15:04:32Z",
-     "duracao_s": 97,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=8I1hmqNB0vI"
-    },
-    {
-     "id": "OK6c2U17VMk",
-     "titulo": "MELHORES MOMENTOS: CORINTHIANS 2 X 1 INDEPENDIENTE SANTA FE | LIBERTADORES FEMININA 2026 | SEMIFINAL",
-     "canal": "CazéTV",
-     "views": 136090,
-     "likes": 2406,
-     "comentarios": 50,
-     "publicado": "2026-10-28T22:00:55Z",
-     "duracao_s": 435,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=OK6c2U17VMk"
-    },
-    {
-     "id": "ejv7BrmDBgY",
-     "titulo": "Todos os gols do Memphis Depay em 2026 🦅🇳🇱 #corinthians #editsccp #futebol #sccp #timao #fyp",
-     "canal": "Central SCCP",
-     "views": 123834,
-     "likes": 3760,
-     "comentarios": 122,
-     "publicado": "2026-10-29T23:02:05Z",
-     "duracao_s": 20,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ejv7BrmDBgY"
-    },
-    {
-     "id": "y_kX_H_UOjs",
-     "titulo": "CORINTHIANS: RODADA SE OFERECE. ENTREVISTA E RECADO AO TORCEDOR. ",
-     "canal": "Chico Garcia",
-     "views": 123353,
-     "likes": 5635,
-     "comentarios": 208,
-     "publicado": "2026-10-29T08:00:02Z",
-     "duracao_s": 1145,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=y_kX_H_UOjs"
-    },
-    {
-     "id": "hbdgAsGG8sQ",
-     "titulo": "BAHIA 3X2 SÃO PAULO - ESSE TIMECO VAI RESSUSCITAR O CORINTHIANS! ANÁLISE E NOTAS DO BAROLO",
-     "canal": "BAROLO VÍDEOS",
-     "views": 119859,
-     "likes": 6889,
-     "comentarios": 544,
-     "publicado": "2026-10-29T03:02:01Z",
-     "duracao_s": 1828,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=hbdgAsGG8sQ"
-    },
-    {
-     "id": "8vd_wuYD-J8",
-     "titulo": "O HUGO SOUZA VAI SAIR DO CORINTHIANS? 😳",
-     "canal": "Couto Rimas",
-     "views": 110319,
-     "likes": 2224,
-     "comentarios": 73,
-     "publicado": "2026-10-29T15:37:02Z",
-     "duracao_s": 107,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=8vd_wuYD-J8"
-    },
-    {
-     "id": "H5QIuZcVHJg",
-     "titulo": "COLETIVA DE IMPRENSA | ANDRÉ RAMALHO, JULIO CESAR E HUGO SOUZA",
-     "canal": "Corinthians TV",
-     "views": 108649,
-     "likes": 4200,
-     "comentarios": 150,
-     "publicado": "2026-10-28T23:10:08Z",
-     "duracao_s": 3760,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=H5QIuZcVHJg"
-    },
-    {
-     "id": "vzBYOBtP5ck",
-     "titulo": "AO VIVO 🔴 TREINO ABERTO DO CORINTHIANS NA NEO QUÍMICA ARENA",
-     "canal": "Meu Timão",
-     "views": 106809,
-     "likes": 2523,
+     "id": "oYlH-ZeF3jA",
+     "titulo": "Corinthians tem chances de ser rebaixado mesmo após vitória?",
+     "canal": "BandNews FM Esportes",
+     "views": 892,
+     "likes": 33,
      "comentarios": 0,
-     "publicado": "2026-10-29T19:52:18Z",
-     "duracao_s": 16916,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=vzBYOBtP5ck"
-    },
-    {
-     "id": "5sXrheyVtmw",
-     "titulo": "🚨Maravilha tira Sarro e Humilha elenco do Corinthians😂😂..#craqueneto",
-     "canal": "BolaemCampo",
-     "views": 98039,
-     "likes": 2787,
-     "comentarios": 37,
-     "publicado": "2026-10-29T01:55:07Z",
-     "duracao_s": 80,
+     "publicado": "2026-10-31T02:10:31Z",
+     "duracao_s": 120,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=5sXrheyVtmw"
+     "url": "https://www.youtube.com/watch?v=oYlH-ZeF3jA"
     },
     {
-     "id": "0ribQ55m5BE",
-     "titulo": "COLETIVA DO CORINTHIANS AO VIVO; TUDO DE SANTOS X PALMEIRAS; NEYMAR É SUSPENSO - Quebrada FC",
-     "canal": "Podpah TV",
-     "views": 93195,
-     "likes": 2836,
-     "comentarios": 6,
-     "publicado": "2026-10-28T22:04:21Z",
-     "duracao_s": 5322,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=0ribQ55m5BE"
-    },
-    {
-     "id": "-Q3nlNHUwps",
-     "titulo": "SEEDORF INTERROMPE PERGUNTA SOBRE SITUAÇÃO DE GARRO NO CORINTHIANS 👀 #shorts",
-     "canal": "ESPN Brasil",
-     "views": 91497,
-     "likes": 2749,
-     "comentarios": 135,
-     "publicado": "2026-10-29T17:33:35Z",
-     "duracao_s": 69,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=-Q3nlNHUwps"
-    },
-    {
-     "id": "MoI2eO5Y5mk",
-     "titulo": "Olha o que o Hugo Souza falou sobre Memphis. #hugosouza #memphis",
-     "canal": "Fiel News",
-     "views": 89473,
-     "likes": 2649,
-     "comentarios": 64,
-     "publicado": "2026-10-29T00:56:04Z",
-     "duracao_s": 61,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=MoI2eO5Y5mk"
-    },
-    {
-     "id": "YGTtxmYSg_c",
-     "titulo": "CORINTHIANS: SEEDORF CHAMA A RESPONSA, GARRO DESMENTE BOATOS, PROJEÇÃO DE TIME CONTRA O MIRASSOL",
-     "canal": "Chico Garcia",
-     "views": 70286,
-     "likes": 4068,
-     "comentarios": 234,
-     "publicado": "2026-10-30T08:00:38Z",
-     "duracao_s": 848,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=YGTtxmYSg_c"
-    },
-    {
-     "id": "e6AQYZssOtg",
-     "titulo": "CORINTHIANS FECHADO para EVITAR a SÉRIE B? JOGADORES CONVOCAM COLETIVA SURPRESA!",
-     "canal": "Cortes Podpah [OFICIAL]",
-     "views": 69598,
-     "likes": 1215,
-     "comentarios": 42,
-     "publicado": "2026-10-28T22:57:50Z",
-     "duracao_s": 2224,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=e6AQYZssOtg"
-    },
-    {
-     "id": "XEKe_-oucRI",
-     "titulo": "O CORINTHIANS ESCAPA DO REBAIXAMENTO? DONOS ANALISAM",
-     "canal": "Os Donos da Bola",
-     "views": 64710,
-     "likes": 1089,
-     "comentarios": 66,
-     "publicado": "2026-10-28T17:10:49Z",
-     "duracao_s": 752,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=XEKe_-oucRI"
-    }
-   ],
-   "consulta": "Corinthians",
-   "n_videos": 25,
-   "mais_de": true,
-   "views": 4882369,
-   "top": [
-    {
-     "titulo": "JOGO COMPLETO: CORINTHIANS X INDEPENDIENTE SANTA FE | LIBERTADORES FEMININA 2026 | SEMIFINAL",
-     "canal": "CazéTV",
-     "views": 897686,
-     "url": "https://www.youtube.com/watch?v=XK3UOBxPzqE",
-     "publicado": "2026-10-28T22:11:04Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "Eu no dia MENOS Corinthiano 🦅🤣 #corinthians #editsccp #futebol #sccp #timao #fyp",
-     "canal": "Central SCCP",
-     "views": 720622,
-     "url": "https://www.youtube.com/watch?v=Pu58ZrTFuF8",
-     "publicado": "2026-10-29T15:08:48Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "GIGANTES NA LUTA CONTRA O REBAIXAMENTO! 🅱️🚨#shorts",
-     "canal": "ESPN Brasil",
-     "views": 314114,
-     "url": "https://www.youtube.com/watch?v=C-7gORcix6M",
-     "publicado": "2026-10-28T20:35:57Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "flamengo lideranca goleia": {
-  "dia": "2026-10-30",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "eH9UvkR__ak",
-     "titulo": "FLAMENGO GOLEIA O MISTÃO DO VASCO E AUMENTA VANTAGEM NA LIDERANÇA DO BRASILEIRÃO | PRORROGAÇÃO",
-     "canal": "TNT Sports Brasil",
-     "views": 2311811,
-     "likes": 14678,
-     "comentarios": 8,
-     "publicado": "2026-10-30T02:29:52Z",
-     "duracao_s": 12999,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=eH9UvkR__ak"
-    },
-    {
-     "id": "N-dsqQ_LMrw",
-     "titulo": "Flamengo goleia o Vasco e dispara na liderança do Brasileirão! #FLAMENGO #vasco #brasileirao2026",
-     "canal": "LEONN0 FLA NEWS",
-     "views": 156135,
-     "likes": 3735,
-     "comentarios": 277,
-     "publicado": "2026-10-30T01:51:52Z",
-     "duracao_s": 72,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=N-dsqQ_LMrw"
-    },
-    {
-     "id": "jYy9EJpwBaE",
-     "titulo": "Ainda mais líder, Flamengo goleia o Vasco, abre 3 pontos e 2 vitórias sobre o Palmeiras: 4 a 1. LIVE",
-     "canal": "Mauro Cezar",
-     "views": 144733,
-     "likes": 7936,
-     "comentarios": 28,
-     "publicado": "2026-10-30T03:21:13Z",
-     "duracao_s": 5009,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=jYy9EJpwBaE"
-    },
-    {
-     "id": "Odt6aO0r9mI",
-     "titulo": "REACT - VASCO 1 X 4 FLAMENGO | FLAMENGO GOLEIA O VASCO E ABRE NA LIDERANÇA! #flamengo #react #vasco ",
-     "canal": "RIVALIFLASCO",
-     "views": 27818,
-     "likes": 2463,
-     "comentarios": 79,
-     "publicado": "2026-10-30T04:57:32Z",
-     "duracao_s": 1335,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Odt6aO0r9mI"
-    },
-    {
-     "id": "Ll745bDMN4g",
-     "titulo": "FLAMENGO GOLEIA VASCO E ABRE VANTAGEM NA LIDERANÇA DO BRASILEIRÃO! PLATA É DESFALQUE CONTRA O GRÊMIO",
-     "canal": "DECO SRN",
-     "views": 7851,
-     "likes": 795,
-     "comentarios": 4,
-     "publicado": "2026-10-30T09:10:06Z",
-     "duracao_s": 7244,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=Ll745bDMN4g"
-    },
-    {
-     "id": "9XI36LDgQWQ",
-     "titulo": "FLAMENGO GOLEIA VASCO E SEGUE LÍDER; JOGO ABERTO COMENTA",
-     "canal": "Jogo Aberto",
-     "views": 5702,
-     "likes": 410,
-     "comentarios": 16,
-     "publicado": "2026-10-30T15:09:35Z",
-     "duracao_s": 218,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=9XI36LDgQWQ"
-    },
-    {
-     "id": "z46BTV6_nnE",
-     "titulo": "Flamengo goleia o Vasco e abre vantagem na liderança #FlamengoxVasco #Flamengo #brasileirão",
-     "canal": "Fut Live",
-     "views": 4211,
-     "likes": 266,
-     "comentarios": 5,
-     "publicado": "2026-10-30T02:07:35Z",
-     "duracao_s": 61,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=z46BTV6_nnE"
-    },
-    {
-     "id": "YnjN8HrGkYA",
-     "titulo": "FLAMENGO VENCE E ABRE VANTAGEM NA LIDERANÇA DO BRASILEIRÃO | REAPRESENTAÇÃO",
-     "canal": "Esporte na Band",
-     "views": 3661,
-     "likes": 30,
+     "id": "ebwlvqibgVc",
+     "titulo": "Quem vai cair no Brasileirão 2026? A chance de cada time 🎲",
+     "canal": "Na calculadora | Estatísticas",
+     "views": 765,
+     "likes": 6,
      "comentarios": 0,
-     "publicado": "2026-10-30T12:00:08Z",
-     "duracao_s": 3721,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=YnjN8HrGkYA"
+     "publicado": "2026-10-30T02:00:45Z",
+     "duracao_s": 77,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=ebwlvqibgVc"
     },
     {
-     "id": "C25tywMNVZY",
-     "titulo": "💪💣VASCO 1 X FLAMENGO 4  MENGÃO GOLEIA. SEGUE O LÍDER!  PELO BRASILEIRÃO/ 26  #brasileirão #flamengo",
-     "canal": "  CASAL POWER REALITYS 💪⚡",
-     "views": 2351,
-     "likes": 35,
-     "comentarios": 0,
-     "publicado": "2026-10-30T14:36:41Z",
-     "duracao_s": 7500,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=C25tywMNVZY"
-    },
-    {
-     "id": "3Ph1GU2LgjI",
-     "titulo": "FLAMENGO GOLEIA O VASCO E ABRE 3 NA LIDERANÇA 😳",
-     "canal": "Tretas do Futebol",
-     "views": 2029,
-     "likes": 39,
+     "id": "XDvKRfHucoE",
+     "titulo": "🚨 CORINTHIANS VENCE, Z-4 MUDA E CORITIBA X VITÓRIA VIRA DECISÃO!",
+     "canal": "Paulo Analista",
+     "views": 312,
+     "likes": 40,
      "comentarios": 3,
-     "publicado": "2026-10-30T01:21:22Z",
-     "duracao_s": 22,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=3Ph1GU2LgjI"
-    },
-    {
-     "id": "7sifQTwc-RE",
-     "titulo": "🟥⬛️Flamengo goleia o Vasco e abre 3 pontos do Palmeiras na liderança do Brasileirão",
-     "canal": "Pega Essa Tijolada",
-     "views": 1979,
-     "likes": 49,
-     "comentarios": 1,
-     "publicado": "2026-10-30T02:17:27Z",
-     "duracao_s": 118,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=7sifQTwc-RE"
-    },
-    {
-     "id": "8rW_WwA_EoQ",
-     "titulo": "Flamengo vence e dispara na liderança",
-     "canal": "Aveirando Fut",
-     "views": 1615,
-     "likes": 57,
-     "comentarios": 2,
-     "publicado": "2026-10-30T03:19:06Z",
-     "duracao_s": 61,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=8rW_WwA_EoQ"
-    },
-    {
-     "id": "GCkHdbiZqkc",
-     "titulo": "Flamengo goleia Vasco por 4 a 1 e aumenta vantagem na liderança",
-     "canal": "Rádio Bandeirantes",
-     "views": 1478,
-     "likes": 26,
-     "comentarios": 0,
-     "publicado": "2026-10-30T01:40:59Z",
-     "duracao_s": 226,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=GCkHdbiZqkc"
-    },
-    {
-     "id": "l67fSTQ7TYY",
-     "titulo": "Flamengo goleia Vasco e é líder absoluto 🔥",
-     "canal": "Zueira Esportes",
-     "views": 1409,
-     "likes": 17,
-     "comentarios": 0,
-     "publicado": "2026-10-30T02:55:55Z",
-     "duracao_s": 7,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=l67fSTQ7TYY"
-    },
-    {
-     "id": "1P5iYud6UsU",
-     "titulo": "Flamengo goleia o Vasco e segue líder no Brasileirão❤️🖤 #flamengo #vasco #brasileirão #viral",
-     "canal": "Fla Resenha",
-     "views": 1358,
-     "likes": 59,
-     "comentarios": 1,
-     "publicado": "2026-10-30T01:02:54Z",
-     "duracao_s": 14,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=1P5iYud6UsU"
-    },
-    {
-     "id": "ZBr7UPg8Szk",
-     "titulo": "TABELA ATUALIZADA DO BRASILEIRÃO 30/10/2026 | Flamengo ISOLADO na liderança com 73 pontos",
-     "canal": "Smart Cine",
-     "views": 1354,
-     "likes": 8,
-     "comentarios": 0,
-     "publicado": "2026-10-30T05:01:03Z",
-     "duracao_s": 61,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ZBr7UPg8Szk"
-    },
-    {
-     "id": "-M_PknHNZS0",
-     "titulo": "FLAMENGO VENCE O VASCO E ABRE VANTAGEM NA LIDERANÇA! #Flamengo #Palmeiras #brasileirão #futebol",
-     "canal": "HORA DE FUTEBOL ",
-     "views": 1257,
-     "likes": 43,
-     "comentarios": 3,
-     "publicado": "2026-10-30T01:50:20Z",
-     "duracao_s": 89,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=-M_PknHNZS0"
-    },
-    {
-     "id": "JWU3xPW6nTM",
-     "titulo": "flamengo vence o Vasco por 4x1 e mantém a liderança",
-     "canal": "Flamengo News",
-     "views": 1211,
-     "likes": 28,
-     "comentarios": 0,
-     "publicado": "2026-10-30T10:18:38Z",
-     "duracao_s": 19,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=JWU3xPW6nTM"
-    },
-    {
-     "id": "sKw50Yg9IYM",
-     "titulo": "ANÁLISE - Fla joga o suficiente e goleia o Vasco! SEGUE O LÍDER! 🔴⚫️👑 #flamengo #vasco #lider",
-     "canal": "Fla Tático",
-     "views": 1091,
-     "likes": 83,
-     "comentarios": 1,
-     "publicado": "2026-10-30T01:46:28Z",
-     "duracao_s": 85,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=sKw50Yg9IYM"
-    },
-    {
-     "id": "xCd_axQLAZ8",
-     "titulo": "🔴⚫ FLAMENGO GOLEIA O VASCO E ABRE VANTAGEM NA LIDERANÇA! 🔥",
-     "canal": "FutResenha",
-     "views": 1074,
-     "likes": 8,
-     "comentarios": 0,
-     "publicado": "2026-10-30T01:57:23Z",
-     "duracao_s": 129,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=xCd_axQLAZ8"
-    },
-    {
-     "id": "pnFnfHt-6KA",
-     "titulo": "FLAMENGO VENCE O CLÁSSICO CONTRA O VASCO E SE ISOLA NA LIDERANÇA",
-     "canal": "MDMC | Mengão Do Meu Coração",
-     "views": 1055,
-     "likes": 47,
-     "comentarios": 0,
-     "publicado": "2026-10-30T01:08:14Z",
-     "duracao_s": 16,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=pnFnfHt-6KA"
-    },
-    {
-     "id": "WAEdXGn8cnY",
-     "titulo": "Flamengo goleia e dispara na liderança#Flamengo #Brasileirão2026 #FlaNotícias",
-     "canal": "FLA.NOTÍCIAS ",
-     "views": 910,
-     "likes": 38,
-     "comentarios": 0,
-     "publicado": "2026-10-30T01:46:28Z",
-     "duracao_s": 90,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=WAEdXGn8cnY"
-    },
-    {
-     "id": "-WiFs_ebjDw",
-     "titulo": "🔴⚫ FLAMENGO GOLEIA O VASCO E ABRE VANTAGEM NA LIDERANÇA! | Resenha com Baesso",
-     "canal": "Bruno Baesso",
-     "views": 805,
-     "likes": 30,
-     "comentarios": 0,
-     "publicado": "2026-10-30T02:00:28Z",
-     "duracao_s": 2896,
+     "publicado": "2026-10-31T10:00:08Z",
+     "duracao_s": 993,
      "live": true,
-     "url": "https://www.youtube.com/watch?v=-WiFs_ebjDw"
-    },
-    {
-     "id": "6uOI1y0TFxM",
-     "titulo": "FLAMENGO 4 X 1 VASCO! MENGÃO GOLEIA O RIVAL E ABRE 3 PONTOS NA LIDERANÇA",
-     "canal": "Fla Na Rede Oficial Shorts",
-     "views": 327,
-     "likes": 14,
-     "comentarios": 0,
-     "publicado": "2026-10-30T01:59:56Z",
-     "duracao_s": 7783,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=6uOI1y0TFxM"
-    },
-    {
-     "id": "Ar_M5NmTfso",
-     "titulo": "O FLAMENGO GOLEIA O VASCO#BRASILEIRAO #FUTEBOL #FLAMENGO #LÍDER",
-     "canal": "Jailson Picuí ",
-     "views": 299,
-     "likes": 10,
-     "comentarios": 0,
-     "publicado": "2026-10-30T01:17:05Z",
-     "duracao_s": 89,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Ar_M5NmTfso"
+     "url": "https://www.youtube.com/watch?v=XDvKRfHucoE"
     }
    ],
-   "consulta": "Flamengo liderança goleia",
-   "n_videos": 25,
-   "mais_de": true,
-   "views": 2683524,
+   "consulta": "Corinthians rebaixamento chances",
+   "n_videos": 8,
+   "mais_de": false,
+   "views": 32748,
    "top": [
     {
-     "titulo": "FLAMENGO GOLEIA O MISTÃO DO VASCO E AUMENTA VANTAGEM NA LIDERANÇA DO BRASILEIRÃO | PRORROGAÇÃO",
-     "canal": "TNT Sports Brasil",
-     "views": 2311811,
-     "url": "https://www.youtube.com/watch?v=eH9UvkR__ak",
-     "publicado": "2026-10-30T02:29:52Z",
+     "titulo": "ATENÇÃO! CONTAS CONTRA O REBAIXAMENTO MUDARAM! TIME GRANDE AFUNDAR NA TABELA DA SÉRIE A!",
+     "canal": "Torcedorismo",
+     "views": 26112,
+     "url": "https://www.youtube.com/watch?v=agw7zhaxw64",
+     "publicado": "2026-10-30T09:00:21Z",
      "do_canal": false
     },
     {
-     "titulo": "Flamengo goleia o Vasco e dispara na liderança do Brasileirão! #FLAMENGO #vasco #brasileirao2026",
-     "canal": "LEONN0 FLA NEWS",
-     "views": 156135,
-     "url": "https://www.youtube.com/watch?v=N-dsqQ_LMrw",
-     "publicado": "2026-10-30T01:51:52Z",
+     "titulo": "Corinthians: A conta para não cair 🧮 #Shorts",
+     "canal": "Palpite Cast",
+     "views": 1307,
+     "url": "https://www.youtube.com/watch?v=58zRRiQ2eR0",
+     "publicado": "2026-10-31T10:00:23Z",
      "do_canal": false
     },
     {
-     "titulo": "Ainda mais líder, Flamengo goleia o Vasco, abre 3 pontos e 2 vitórias sobre o Palmeiras: 4 a 1. LIVE",
-     "canal": "Mauro Cezar",
-     "views": 144733,
-     "url": "https://www.youtube.com/watch?v=jYy9EJpwBaE",
-     "publicado": "2026-10-30T03:21:13Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "palmeiras abel seis completa": {
-  "dia": "2026-10-30",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "UjOfy-41Ygk",
-     "titulo": "Abel Ferreira completa seis anos no Palmeiras com 11 títulos | transferencia",
-     "canal": "Marte22",
-     "views": 865,
-     "likes": 14,
-     "comentarios": 0,
-     "publicado": "2026-10-30T11:01:54Z",
-     "duracao_s": 26,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=UjOfy-41Ygk"
-    },
-    {
-     "id": "gxS8mHjeGoM",
-     "titulo": "ABEL FERREIRA COMPLETA 6 ANOS DE PALMEIRAS E MANDA A REAL PATRIMÔNIO DO VERDÃO #notíciasdopalmeiras",
-     "canal": "Quiz Misterioso",
-     "views": 341,
-     "likes": 20,
-     "comentarios": 1,
-     "publicado": "2026-10-30T15:54:24Z",
-     "duracao_s": 69,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=gxS8mHjeGoM"
-    },
-    {
-     "id": "sXBrITK6_V0",
-     "titulo": "Palmeiras: Em apenas seis anos, Abel conquistou 11 títulos e se transformou no treinador #Shorts",
-     "canal": "Verde em Foco",
-     "views": 69,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-10-30T14:14:24Z",
-     "duracao_s": 46,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=sXBrITK6_V0"
-    },
-    {
-     "id": "utuksAKdCO0",
-     "titulo": "ABEL FERREIRA completa 6 ANOS DE PALMEIRAS: O MAIOR TÉCNICO DA HISTÓRIA do clube?",
-     "canal": "Metrópoles",
-     "views": 60,
-     "likes": 2,
-     "comentarios": 0,
-     "publicado": "2026-10-30T14:32:47Z",
-     "duracao_s": 568,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=utuksAKdCO0"
-    },
-    {
-     "id": "_jkf_a9UUmY",
-     "titulo": "🚨 6 ANOS DE ABEL FERREIRA NO PALMEIRAS! A HISTÓRIA É SENSACIONAL! 🐷💚",
-     "canal": "Rafa Morais",
-     "views": 5,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-10-30T16:09:17Z",
-     "duracao_s": 589,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=_jkf_a9UUmY"
-    }
-   ],
-   "consulta": "Palmeiras Abel seis completa",
-   "n_videos": 5,
-   "mais_de": false,
-   "views": 1340,
-   "top": [
-    {
-     "titulo": "Abel Ferreira completa seis anos no Palmeiras com 11 títulos | transferencia",
-     "canal": "Marte22",
-     "views": 865,
-     "url": "https://www.youtube.com/watch?v=UjOfy-41Ygk",
-     "publicado": "2026-10-30T11:01:54Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "ABEL FERREIRA COMPLETA 6 ANOS DE PALMEIRAS E MANDA A REAL PATRIMÔNIO DO VERDÃO #notíciasdopalmeiras",
-     "canal": "Quiz Misterioso",
-     "views": 341,
-     "url": "https://www.youtube.com/watch?v=gxS8mHjeGoM",
-     "publicado": "2026-10-30T15:54:24Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "Palmeiras: Em apenas seis anos, Abel conquistou 11 títulos e se transformou no treinador #Shorts",
-     "canal": "Verde em Foco",
-     "views": 69,
-     "url": "https://www.youtube.com/watch?v=sXBrITK6_V0",
-     "publicado": "2026-10-30T14:14:24Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "flamengo titulo goleada": {
-  "dia": "2026-10-30",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "WpRmdqRLw0M",
-     "titulo": "REACT VASCO 1X4 FLAMENGO - GOLEADA E FLAMENGO PERTO DO TITULO DO BRASILEIRÃO",
-     "canal": "VICTOR HUGO REACT",
-     "views": 29638,
-     "likes": 3398,
-     "comentarios": 69,
-     "publicado": "2026-10-30T02:23:21Z",
-     "duracao_s": 775,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=WpRmdqRLw0M"
-    },
-    {
-     "id": "x1RIZo2FwCs",
-     "titulo": "FLAMENGO BEM PRÓXIMO DO TÍTULO APÓS GOLEADA NO VASCO! LEONARDO JARDIM DE SAÍDA? FLAMENGO FOCA GRÊMIO",
-     "canal": "Wesley FLA 12",
-     "views": 7384,
-     "likes": 603,
-     "comentarios": 45,
-     "publicado": "2026-10-30T11:10:43Z",
-     "duracao_s": 1203,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=x1RIZo2FwCs"
-    },
-    {
-     "id": "4iuw66LL-wo",
-     "titulo": "FLAMENGO DISPAROU RUMO AO TÍTULO? DEBATEMOS GOLEADA CONTRA O VASCO!",
-     "canal": "Cortes da TNT Sports",
-     "views": 5091,
-     "likes": 407,
-     "comentarios": 19,
-     "publicado": "2026-10-30T14:10:21Z",
-     "duracao_s": 1079,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=4iuw66LL-wo"
-    },
-    {
-     "id": "bUFQszCRQXk",
-     "titulo": "VASCO 1x4 FLAMENGO: GOLEADA DE CAMPEÃO! FLAMENGO MUITO PERTO DO TÍTULO BRASILEIRO!",
-     "canal": "Falso Nove",
-     "views": 1840,
-     "likes": 515,
-     "comentarios": 16,
-     "publicado": "2026-10-30T15:40:10Z",
-     "duracao_s": 1814,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=bUFQszCRQXk"
-    },
-    {
-     "id": "V7bKaVmhVqA",
-     "titulo": "FLAMENGO AMASSA O VASCO! 😱🔥 CRAQUE NETO REAGE À GOLEADA DO MENGÃO!",
-     "canal": "Radar da Bola",
-     "views": 1632,
-     "likes": 23,
-     "comentarios": 4,
-     "publicado": "2026-10-30T01:30:27Z",
-     "duracao_s": 56,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=V7bKaVmhVqA"
-    },
-    {
-     "id": "N6BVHup6zTQ",
-     "titulo": "VASCO 1X4 FLAMENGO! GOLEADA NO NILTON SANTOS E FLAMENGO DISPARA NO BRASILEIRÃO",
-     "canal": "FutNews Shorts",
-     "views": 717,
-     "likes": 28,
-     "comentarios": 0,
-     "publicado": "2026-10-30T09:45:14Z",
-     "duracao_s": 49,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=N6BVHup6zTQ"
-    },
-    {
-     "id": "CE_djWPRLVM",
-     "titulo": "Flamengo chega a 85% de chances de título; veja o que mudou!",
-     "canal": "Pós Jogo BR",
-     "views": 445,
-     "likes": 14,
-     "comentarios": 1,
-     "publicado": "2026-10-30T11:29:03Z",
-     "duracao_s": 53,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=CE_djWPRLVM"
-    },
-    {
-     "id": "nH_mlV9CAn0",
-     "titulo": "PILHADO AVISA: FLAMENGO DEU PASSO GIGANTE PELO TÍTULO!  #FLAMENGO #BRASILEIRÃO #SHORTS",
-     "canal": "Craque da Gávea",
-     "views": 429,
-     "likes": 29,
-     "comentarios": 1,
-     "publicado": "2026-10-30T12:37:36Z",
-     "duracao_s": 65,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=nH_mlV9CAn0"
-    },
-    {
-     "id": "yaXsaPsMHcI",
-     "titulo": "🚨FLAMENGO JÁ É CAMPEÃO BRASILEIRO? GOLEADA SOBRE O VASCO AGITA O LINHA DE PASSE! | Radar Rubro-Negro",
-     "canal": "Radar Rubro-Negro",
-     "views": 164,
-     "likes": 8,
-     "comentarios": 0,
-     "publicado": "2026-10-30T13:22:23Z",
-     "duracao_s": 1955,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=yaXsaPsMHcI"
-    },
-    {
-     "id": "xRXBTErbwWw",
-     "titulo": "85% de Chance de Titulo do Flamengo",
-     "canal": "Fut Mil Grau",
-     "views": 57,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-10-30T15:30:32Z",
-     "duracao_s": 78,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=xRXBTErbwWw"
-    },
-    {
-     "id": "N7AYZY_qiRE",
-     "titulo": "Excelente RESULTADO😲- Jornalista EXALTOU goleada do FLAMENGO sobre o VASCO - Projetou próximos jogos",
-     "canal": "Mengão News",
-     "views": 54,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-10-30T11:25:26Z",
-     "duracao_s": 1775,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=N7AYZY_qiRE"
-    },
-    {
-     "id": "6YwLSNrm8fA",
-     "titulo": "É GOLEADA! Flamengo faz 4 no Vasco e dispara rumo ao título!",
-     "canal": "Futebol na veia",
-     "views": 4,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-10-30T01:49:43Z",
-     "duracao_s": 227,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=6YwLSNrm8fA"
-    },
-    {
-     "id": "T3Mm9ov3lUo",
-     "titulo": "FLAMENGO ATROPELA O VASCO! 🔥 Goleada, liderança isolada e Mengão rumo ao título?",
-     "canal": "Fla Pulse TV",
-     "views": 2,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-10-30T14:40:00Z",
-     "duracao_s": 1271,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=T3Mm9ov3lUo"
-    },
-    {
-     "id": "Ox6gx53e6SI",
-     "titulo": "🔴⚫ FLAMENGO A UM PASSO DO TÍTULO! GOLEADA SOBRE O VASCO IMPRESSIONA!",
-     "canal": "Só Fut",
-     "views": 0,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-10-30T16:39:35Z",
-     "duracao_s": 293,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Ox6gx53e6SI"
-    }
-   ],
-   "consulta": "Flamengo título goleada",
-   "n_videos": 14,
-   "mais_de": false,
-   "views": 47457,
-   "top": [
-    {
-     "titulo": "REACT VASCO 1X4 FLAMENGO - GOLEADA E FLAMENGO PERTO DO TITULO DO BRASILEIRÃO",
-     "canal": "VICTOR HUGO REACT",
-     "views": 29638,
-     "url": "https://www.youtube.com/watch?v=WpRmdqRLw0M",
-     "publicado": "2026-10-30T02:23:21Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "FLAMENGO BEM PRÓXIMO DO TÍTULO APÓS GOLEADA NO VASCO! LEONARDO JARDIM DE SAÍDA? FLAMENGO FOCA GRÊMIO",
-     "canal": "Wesley FLA 12",
-     "views": 7384,
-     "url": "https://www.youtube.com/watch?v=x1RIZo2FwCs",
-     "publicado": "2026-10-30T11:10:43Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "FLAMENGO DISPAROU RUMO AO TÍTULO? DEBATEMOS GOLEADA CONTRA O VASCO!",
-     "canal": "Cortes da TNT Sports",
-     "views": 5091,
-     "url": "https://www.youtube.com/watch?v=4iuw66LL-wo",
-     "publicado": "2026-10-30T14:10:21Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "flamengo paqueta exame classico": {
-  "dia": "2026-10-30",
-  "resultado": {
-   "amostra": [],
-   "consulta": "Flamengo Paquetá Exame clássico",
-   "n_videos": 0,
-   "mais_de": false,
-   "views": 0,
-   "top": []
-  }
- },
- "flamengo gabriel jesus revela": {
-  "dia": "2026-10-30",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "j14yGqV1jsw",
-     "titulo": "Gabriel Jesus revela contato do Flamengo e crava: “Se voltar ao Brasil, será Palmeiras”",
-     "canal": "FUTEBOL RENOVO",
-     "views": 52920,
-     "likes": 229,
-     "comentarios": 14,
-     "publicado": "2026-10-29T19:00:23Z",
-     "duracao_s": 6,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=j14yGqV1jsw"
-    },
-    {
-     "id": "SWByzMqGx3o",
-     "titulo": "JESUS NO FLA? GAVIÕES AMEAÇA| VASCO CONTRA TABUS| BRIGA PELO VERDÃO| DORIVAL QUEIMADO| BOTA, BRASIL+",
-     "canal": "Canal do Nicola",
-     "views": 31622,
-     "likes": 2199,
-     "comentarios": 62,
-     "publicado": "2026-10-29T20:53:59Z",
-     "duracao_s": 705,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=SWByzMqGx3o"
-    },
-    {
-     "id": "BgmbEjqNNIE",
-     "titulo": "SAIU AGORA! VEIGA TEM FUTURO DEFINIDO, GABRIEL JESUS SURPREENDE O FLAMENGO E PALMEIRAS FOCA NA SEMI",
-     "canal": "Mil Grau",
-     "views": 23088,
-     "likes": 1321,
-     "comentarios": 45,
-     "publicado": "2026-10-29T21:29:32Z",
-     "duracao_s": 941,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=BgmbEjqNNIE"
-    },
-    {
-     "id": "WpbiP6pqk_Y",
-     "titulo": "Gabriel Jesus deixa claro que vai voltar para o Palmeiras! e fala sobre a procura do flamengo",
-     "canal": "RADAR DE JOGOS ",
-     "views": 20111,
-     "likes": 70,
-     "comentarios": 6,
-     "publicado": "2026-10-29T22:37:02Z",
-     "duracao_s": 10,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=WpbiP6pqk_Y"
-    },
-    {
-     "id": "9otYnp4XVUU",
-     "titulo": "Gabriel Jesus recusa Flamengo e crava prioridade para voltar ao Palmeiras",
-     "canal": "JOGOS DE HOJE NA TV ",
-     "views": 2835,
-     "likes": 20,
-     "comentarios": 1,
-     "publicado": "2026-10-29T22:10:57Z",
-     "duracao_s": 10,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=9otYnp4XVUU"
-    },
-    {
-     "id": "3hemXWkEc8Y",
-     "titulo": "🚨AGORA🚨| GABRIEL JESUS REVELA OFERTA DO FLAMENGO, MAS...🚨| NICOLA TRAZ AS ÚLTIMAS NOTÍCIAS DO VERDÃO",
-     "canal": "Central do Verdão",
-     "views": 109,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-10-29T23:00:02Z",
-     "duracao_s": 672,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=3hemXWkEc8Y"
-    },
-    {
-     "id": "aMtZ4baHk-A",
-     "titulo": "FLA PROCUROU E GABRIEL JESUS DISSE NÃO! #shorts",
-     "canal": "Sirene Rubro-Negra",
-     "views": 6,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-10-29T21:18:42Z",
-     "duracao_s": 73,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=aMtZ4baHk-A"
-    },
-    {
-     "id": "A6OUHR5giHw",
-     "titulo": "URGENTE! ROMBO DE R$ 220M NO FLAMENGO E CORINTHIANS PROCURA X9 NO VESTIÁRIO!",
-     "canal": "CANAL DO FERRARI ",
-     "views": 0,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-10-29T23:43:27Z",
-     "duracao_s": 277,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=A6OUHR5giHw"
-    },
-    {
-     "id": "IbndwBvB9y4",
-     "titulo": "GABRIEL JESUS RECUSOU O FLAMENGO! 😱💚",
-     "canal": "FRANCIS O CLUBISTA ",
-     "views": 0,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-10-30T15:56:30Z",
-     "duracao_s": 34,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=IbndwBvB9y4"
-    }
-   ],
-   "consulta": "Flamengo Gabriel Jesus revela",
-   "n_videos": 9,
-   "mais_de": false,
-   "views": 130691,
-   "top": [
-    {
-     "titulo": "Gabriel Jesus revela contato do Flamengo e crava: “Se voltar ao Brasil, será Palmeiras”",
-     "canal": "FUTEBOL RENOVO",
-     "views": 52920,
-     "url": "https://www.youtube.com/watch?v=j14yGqV1jsw",
-     "publicado": "2026-10-29T19:00:23Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "JESUS NO FLA? GAVIÕES AMEAÇA| VASCO CONTRA TABUS| BRIGA PELO VERDÃO| DORIVAL QUEIMADO| BOTA, BRASIL+",
-     "canal": "Canal do Nicola",
-     "views": 31622,
-     "url": "https://www.youtube.com/watch?v=SWByzMqGx3o",
-     "publicado": "2026-10-29T20:53:59Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "SAIU AGORA! VEIGA TEM FUTURO DEFINIDO, GABRIEL JESUS SURPREENDE O FLAMENGO E PALMEIRAS FOCA NA SEMI",
-     "canal": "Mil Grau",
-     "views": 23088,
-     "url": "https://www.youtube.com/watch?v=BgmbEjqNNIE",
-     "publicado": "2026-10-29T21:29:32Z",
+     "titulo": "CORINTHIANS VENCE MIRASSOL E AS CHANCES DE REBAIXAMENTO DIMINUEM",
+     "canal": "NOTICIANDO ESPORTES ",
+     "views": 1233,
+     "url": "https://www.youtube.com/watch?v=tZASPppqZ1E",
+     "publicado": "2026-10-31T01:07:05Z",
      "do_canal": false
     }
    ]
   }
  },
  "corinthians escalacoes": {
-  "dia": "2026-10-30",
+  "dia": "2026-10-31",
   "resultado": {
    "amostra": [
     {
      "id": "57sdM7bwGS4",
      "titulo": "STÁBILE SOLTA BOMBA!! DEMISSÃO DE SEEDORF | SUBSTITUTO IMEDIATO | CHEGADA DE LUXEMBURGO...",
      "canal": "Fiel Torcida!",
-     "views": 51454,
+     "views": 51744,
      "likes": 345,
      "comentarios": 2,
      "publicado": "2026-10-29T23:08:28Z",
@@ -1472,83 +359,95 @@
      "url": "https://www.youtube.com/watch?v=57sdM7bwGS4"
     },
     {
-     "id": "K31PRKwJLlo",
-     "titulo": "DEMISSÃO URGENTE!! LUXA ACEITA DESAFIO | SEEDORF FAZ ÚLTIMO JOGO....",
-     "canal": "Fiel Torcida!",
-     "views": 47138,
-     "likes": 281,
-     "comentarios": 1,
-     "publicado": "2026-10-29T01:59:39Z",
-     "duracao_s": 42900,
+     "id": "13a6o7Sp-2Q",
+     "titulo": "CORINTHIANS x MIRASSOL AO VIVO | BRASILEIRÃO 2026 -- Rodada 33 | Narração",
+     "canal": "RADIO SPORTS",
+     "views": 42405,
+     "likes": 68,
+     "comentarios": 0,
+     "publicado": "2026-10-30T23:06:25Z",
+     "duracao_s": 9528,
      "live": true,
-     "url": "https://www.youtube.com/watch?v=K31PRKwJLlo"
+     "url": "https://www.youtube.com/watch?v=13a6o7Sp-2Q"
     },
     {
-     "id": "5bNKCymeN4Q",
-     "titulo": "ZENIT SOLTA BOMBA!! PAGOU Á MULTA | MATEUZINHO SE DESPEDE DO CORINTHIANS....",
-     "canal": "Fiel Torcida!",
-     "views": 30168,
-     "likes": 199,
-     "comentarios": 0,
-     "publicado": "2026-10-30T01:41:09Z",
-     "duracao_s": 0,
+     "id": "9CgFHcwBXWY",
+     "titulo": "ABRAÇO CORINTHIANO! REAÇÃO DE SEEDORF JUNTO AO ELENCO APÓS A VITÓRIA - CORINTHIANS 2X0 MIRASSOL",
+     "canal": "IDENTIDADE CORINTHIANA",
+     "views": 40103,
+     "likes": 720,
+     "comentarios": 40,
+     "publicado": "2026-10-31T01:51:30Z",
+     "duracao_s": 169,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=9CgFHcwBXWY"
+    },
+    {
+     "id": "_wWEISaR58Y",
+     "titulo": "🔴PÓS-JOGO  AO VIVO   |  CORINTHIANS 2X0 MIRASSOL | BRASILEIRÃO  | 33ª RODADA",
+     "canal": "IDENTIDADE CORINTHIANA",
+     "views": 13747,
+     "likes": 809,
+     "comentarios": 3,
+     "publicado": "2026-10-31T03:25:45Z",
+     "duracao_s": 6273,
      "live": true,
-     "url": "https://www.youtube.com/watch?v=5bNKCymeN4Q"
+     "url": "https://www.youtube.com/watch?v=_wWEISaR58Y"
     },
     {
      "id": "Uo9sEBqqew4",
      "titulo": "O DIA D! CORINTHIANS ENFRENTA MIRASSOL NA ARENA EM JOGO COM CLIMA DE FINAL",
      "canal": "IDENTIDADE CORINTHIANA",
-     "views": 6196,
-     "likes": 544,
-     "comentarios": 2,
-     "publicado": "2026-10-30T12:10:09Z",
-     "duracao_s": 6133,
+     "views": 8884,
+     "likes": 574,
+     "comentarios": 3,
+     "publicado": "2026-10-30T18:37:18Z",
+     "duracao_s": 6140,
      "live": true,
      "url": "https://www.youtube.com/watch?v=Uo9sEBqqew4"
     },
     {
-     "id": "Gvn0X5mUXaU",
-     "titulo": "HOJE TEM CORINTHIANS X MIRASOL / PROVAVEIS ESCALAÇÕES E ANÁLISES /  BOM DIA FIEL #460",
-     "canal": "Fala Muito, FIEL!",
-     "views": 4468,
-     "likes": 263,
-     "comentarios": 0,
-     "publicado": "2026-10-30T14:50:02Z",
-     "duracao_s": 6761,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=Gvn0X5mUXaU"
-    },
-    {
-     "id": "6TfvK5BWCU4",
-     "titulo": "COLETIVA E TREINO DO CORINTHIANS EM ITAQUERA NA VÉSPERA DA DECISÃO CONTRA O MIRASSOL",
+     "id": "ouiCcIoWCRQ",
+     "titulo": "FIEL EM FESTA! ESSE É O CLIMA DA FIEL PÓS-JOGO CORINTHIANS 2X0 MIRASSOL",
      "canal": "IDENTIDADE CORINTHIANA",
-     "views": 4342,
-     "likes": 143,
+     "views": 5202,
+     "likes": 149,
      "comentarios": 3,
-     "publicado": "2026-10-28T23:55:18Z",
-     "duracao_s": 63,
+     "publicado": "2026-10-31T01:40:33Z",
+     "duracao_s": 34,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=6TfvK5BWCU4"
+     "url": "https://www.youtube.com/watch?v=ouiCcIoWCRQ"
     },
     {
      "id": "RYKhue9_OKE",
      "titulo": "CORINTHIANS E ORGANIZADAS CONVOCAM UMA SÓ VOZ PARA A FIEL TORCIDA CONTRA O MIRASSOL",
      "canal": "IDENTIDADE CORINTHIANA",
-     "views": 4039,
-     "likes": 244,
-     "comentarios": 14,
+     "views": 5039,
+     "likes": 338,
+     "comentarios": 15,
      "publicado": "2026-10-29T22:36:36Z",
      "duracao_s": 61,
      "live": false,
      "url": "https://www.youtube.com/watch?v=RYKhue9_OKE"
     },
     {
+     "id": "Gvn0X5mUXaU",
+     "titulo": "HOJE TEM CORINTHIANS X MIRASOL / PROVAVEIS ESCALAÇÕES E ANÁLISES /  BOM DIA FIEL #460",
+     "canal": "Fala Muito, FIEL!",
+     "views": 4760,
+     "likes": 266,
+     "comentarios": 1,
+     "publicado": "2026-10-30T14:50:02Z",
+     "duracao_s": 6761,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=Gvn0X5mUXaU"
+    },
+    {
      "id": "8mxTydtlXzc",
      "titulo": "CONCORDA COM SEEDORF? PROVÁVEL ESCALAÇÃO CORINTHIANS X MIRASSOL",
      "canal": "IDENTIDADE CORINTHIANA",
-     "views": 2687,
-     "likes": 43,
+     "views": 4357,
+     "likes": 51,
      "comentarios": 3,
      "publicado": "2026-10-30T01:12:12Z",
      "duracao_s": 303,
@@ -1556,11 +455,47 @@
      "url": "https://www.youtube.com/watch?v=8mxTydtlXzc"
     },
     {
+     "id": "AhvsveVmCbo",
+     "titulo": "JOGO DE HOJE - CORINTHIANS X MIRASSOL - ESCALAÇÕES - BRASILEIRÃO - FUTEBOL AO VIVO",
+     "canal": "TV ATITUDE",
+     "views": 3614,
+     "likes": 22,
+     "comentarios": 0,
+     "publicado": "2026-10-30T22:29:24Z",
+     "duracao_s": 87,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=AhvsveVmCbo"
+    },
+    {
+     "id": "hKq0DZPQN5c",
+     "titulo": "CORINTHIANS X MIRASSOL AO VIVO! Horário, Onde Assistir, Prováveis Escalações e Arbitragem.",
+     "canal": "MARCELO FLA ",
+     "views": 2541,
+     "likes": 10,
+     "comentarios": 2,
+     "publicado": "2026-10-30T20:41:22Z",
+     "duracao_s": 603,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=hKq0DZPQN5c"
+    },
+    {
+     "id": "ZdvA-sT6bj4",
+     "titulo": "🚨OLHA O QUE OS JOGADORES DO CORINTHIANS FALARAM APÓS VITÓRIA CONTRA O MIRASSOL",
+     "canal": "News Da Fiel",
+     "views": 2150,
+     "likes": 50,
+     "comentarios": 0,
+     "publicado": "2026-10-31T01:18:30Z",
+     "duracao_s": 130,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=ZdvA-sT6bj4"
+    },
+    {
      "id": "Gh5F19AY9js",
      "titulo": "MEMPHIS JOGA O CLÁSSICO CONTRA O SÃO PAULO? SEEDORF RESPONDEU",
      "canal": "IDENTIDADE CORINTHIANA",
-     "views": 1473,
-     "likes": 70,
+     "views": 1767,
+     "likes": 88,
      "comentarios": 2,
      "publicado": "2026-10-29T22:24:50Z",
      "duracao_s": 39,
@@ -1568,47 +503,11 @@
      "url": "https://www.youtube.com/watch?v=Gh5F19AY9js"
     },
     {
-     "id": "Nr4kt7Eg7Fc",
-     "titulo": "TERÁ FIGURINHA CARIMBADA NO CORINTHIANS? CANDIDATO ILMAR SCHIAVENATO RESPONDE",
-     "canal": "IDENTIDADE CORINTHIANA",
-     "views": 1396,
-     "likes": 39,
-     "comentarios": 6,
-     "publicado": "2026-10-29T01:45:45Z",
-     "duracao_s": 143,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Nr4kt7Eg7Fc"
-    },
-    {
-     "id": "4y93EBtrvGQ",
-     "titulo": "“A BASE É O SUCESSO DO CORINTHIANS.” AFIRMA O CANDIDATO ILMAR SCHIAVENATO",
-     "canal": "IDENTIDADE CORINTHIANA",
-     "views": 1275,
-     "likes": 62,
-     "comentarios": 3,
-     "publicado": "2026-10-29T01:48:21Z",
-     "duracao_s": 89,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=4y93EBtrvGQ"
-    },
-    {
-     "id": "gWlP6jtbZV4",
-     "titulo": "POR QUE O CANDIDATO ILMAR SCHIAVENATO QUER SER PRESIDENTE DO CORINTHIANS?",
-     "canal": "IDENTIDADE CORINTHIANA",
-     "views": 882,
-     "likes": 50,
-     "comentarios": 7,
-     "publicado": "2026-10-29T01:43:04Z",
-     "duracao_s": 147,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=gWlP6jtbZV4"
-    },
-    {
      "id": "2OPWP_mHU4s",
      "titulo": "GARRO FALA SOBRE SUA PERSONALIDADE NO CORINTHIANS",
      "canal": "IDENTIDADE CORINTHIANA",
-     "views": 824,
-     "likes": 41,
+     "views": 1135,
+     "likes": 57,
      "comentarios": 5,
      "publicado": "2026-10-29T22:20:57Z",
      "duracao_s": 180,
@@ -1616,158 +515,903 @@
      "url": "https://www.youtube.com/watch?v=2OPWP_mHU4s"
     },
     {
-     "id": "0fhmoZLn9ug",
-     "titulo": "CANDIDATO ILMAR SCHIAVENATO É A FAVOR DA REFORMA DO ESTATUTO?",
-     "canal": "IDENTIDADE CORINTHIANA",
-     "views": 759,
-     "likes": 26,
-     "comentarios": 2,
-     "publicado": "2026-10-29T01:50:04Z",
-     "duracao_s": 147,
+     "id": "hful2b1KfB8",
+     "titulo": "🚨 CORINTHIANS X MIRASSOL ⚽ ESCALAÇÕES CONFIRMADAS! 🔥 BRASILEIRÃO 2026",
+     "canal": "Fut 360 App",
+     "views": 933,
+     "likes": null,
+     "comentarios": 1,
+     "publicado": "2026-10-30T22:48:55Z",
+     "duracao_s": 20,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=0fhmoZLn9ug"
+     "url": "https://www.youtube.com/watch?v=hful2b1KfB8"
     },
     {
      "id": "SX2I9MquLqc",
      "titulo": "CORINTHIANS × MIRASSOL/ANÁLISES ESCALAÇÕES",
      "canal": "Giro do Futebol ⚽️",
-     "views": 95,
+     "views": 494,
      "likes": 2,
      "comentarios": 0,
      "publicado": "2026-10-30T10:48:08Z",
      "duracao_s": 128,
      "live": false,
      "url": "https://www.youtube.com/watch?v=SX2I9MquLqc"
-    },
-    {
-     "id": "T-Y6NEuGtgQ",
-     "titulo": "Corinthians VS Mirassol; Ao Vivo, onde assistir, prováveis escalações ",
-     "canal": "Papo Reto com Rafael Braga",
-     "views": 2,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-10-30T14:33:19Z",
-     "duracao_s": 146,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=T-Y6NEuGtgQ"
-    },
-    {
-     "id": "_wWEISaR58Y",
-     "titulo": "🔴PÓS-JOGO  AO VIVO   |  CORINTHIANS X MIRASSOL | BRASILEIRÃO  | 33ª RODADA",
-     "canal": "IDENTIDADE CORINTHIANA",
-     "views": 0,
-     "likes": 5,
-     "comentarios": 0,
-     "publicado": "2026-10-29T21:19:56Z",
-     "duracao_s": 0,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=_wWEISaR58Y"
     }
    ],
    "consulta": "Corinthians escalações",
-   "n_videos": 17,
+   "n_videos": 16,
    "mais_de": true,
-   "views": 157198,
+   "views": 188875,
    "top": [
     {
      "titulo": "STÁBILE SOLTA BOMBA!! DEMISSÃO DE SEEDORF | SUBSTITUTO IMEDIATO | CHEGADA DE LUXEMBURGO...",
      "canal": "Fiel Torcida!",
-     "views": 51454,
+     "views": 51744,
      "url": "https://www.youtube.com/watch?v=57sdM7bwGS4",
      "publicado": "2026-10-29T23:08:28Z",
      "do_canal": false
     },
     {
-     "titulo": "DEMISSÃO URGENTE!! LUXA ACEITA DESAFIO | SEEDORF FAZ ÚLTIMO JOGO....",
-     "canal": "Fiel Torcida!",
-     "views": 47138,
-     "url": "https://www.youtube.com/watch?v=K31PRKwJLlo",
-     "publicado": "2026-10-29T01:59:39Z",
+     "titulo": "CORINTHIANS x MIRASSOL AO VIVO | BRASILEIRÃO 2026 -- Rodada 33 | Narração",
+     "canal": "RADIO SPORTS",
+     "views": 42405,
+     "url": "https://www.youtube.com/watch?v=13a6o7Sp-2Q",
+     "publicado": "2026-10-30T23:06:25Z",
      "do_canal": false
     },
     {
-     "titulo": "ZENIT SOLTA BOMBA!! PAGOU Á MULTA | MATEUZINHO SE DESPEDE DO CORINTHIANS....",
-     "canal": "Fiel Torcida!",
-     "views": 30168,
-     "url": "https://www.youtube.com/watch?v=5bNKCymeN4Q",
-     "publicado": "2026-10-30T01:41:09Z",
+     "titulo": "ABRAÇO CORINTHIANO! REAÇÃO DE SEEDORF JUNTO AO ELENCO APÓS A VITÓRIA - CORINTHIANS 2X0 MIRASSOL",
+     "canal": "IDENTIDADE CORINTHIANA",
+     "views": 40103,
+     "url": "https://www.youtube.com/watch?v=9CgFHcwBXWY",
+     "publicado": "2026-10-31T01:51:30Z",
      "do_canal": false
     }
    ]
   }
  },
- "flamengo titulo mantem": {
-  "dia": "2026-10-30",
+ "corinthians messi hacker contratacao": {
+  "dia": "2026-10-31",
   "resultado": {
    "amostra": [
     {
-     "id": "_39iivdlNAk",
-     "titulo": "ABEL mantém briga pelo título enquanto PALMEIRAS seca FLAMENGO contra VASCO",
-     "canal": "O Inspetor",
-     "views": 15206,
-     "likes": 47,
-     "comentarios": 1,
-     "publicado": "2026-10-29T19:24:48Z",
-     "duracao_s": 6,
+     "id": "vSmGPGi8e4E",
+     "titulo": "Site do Corinthians é alvo de ataque hacker e ‘anuncia’ a contratação de Lionel Messi #Shorts",
+     "canal": "Noticias Show de Bola",
+     "views": 47,
+     "likes": 1,
+     "comentarios": 0,
+     "publicado": "2026-10-31T15:01:53Z",
+     "duracao_s": 57,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=_39iivdlNAk"
+     "url": "https://www.youtube.com/watch?v=vSmGPGi8e4E"
+    },
+    {
+     "id": "Y-eGR4PiTw0",
+     "titulo": "Corinthians anuncia Messi em site oficial após ataque hacker; entenda o que aconteceu",
+     "canal": "ClickFato Notícias",
+     "views": 0,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-10-31T15:14:03Z",
+     "duracao_s": 17,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Y-eGR4PiTw0"
     }
    ],
-   "consulta": "Flamengo título mantém",
-   "n_videos": 1,
+   "consulta": "Corinthians Messi hacker contratação",
+   "n_videos": 2,
    "mais_de": false,
-   "views": 15206,
+   "views": 47,
    "top": [
     {
-     "titulo": "ABEL mantém briga pelo título enquanto PALMEIRAS seca FLAMENGO contra VASCO",
-     "canal": "O Inspetor",
-     "views": 15206,
-     "url": "https://www.youtube.com/watch?v=_39iivdlNAk",
-     "publicado": "2026-10-29T19:24:48Z",
+     "titulo": "Site do Corinthians é alvo de ataque hacker e ‘anuncia’ a contratação de Lionel Messi #Shorts",
+     "canal": "Noticias Show de Bola",
+     "views": 47,
+     "url": "https://www.youtube.com/watch?v=vSmGPGi8e4E",
+     "publicado": "2026-10-31T15:01:53Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "Corinthians anuncia Messi em site oficial após ataque hacker; entenda o que aconteceu",
+     "canal": "ClickFato Notícias",
+     "views": 0,
+     "url": "https://www.youtube.com/watch?v=Y-eGR4PiTw0",
+     "publicado": "2026-10-31T15:14:03Z",
      "do_canal": false
     }
    ]
   }
  },
- "corinthians civil alerta entra": {
-  "dia": "2026-10-30",
+ "sao paulo djhordney ferreira sub-20": {
+  "dia": "2026-10-31",
   "resultado": {
-   "amostra": [],
-   "consulta": "Corinthians Civil alerta entra",
-   "n_videos": 0,
+   "amostra": [
+    {
+     "id": "gID4v4XjKio",
+     "titulo": "** SÃO PAULO: DZHORDNEY E PEDRO FERREIRA SÃO CONVOCADOS PARA AMISTOSOS DA SELEÇÃO BRASILEIRA SUB-20",
+     "canal": "🥇 Batalha dos Mascotes",
+     "views": 0,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-10-31T03:00:38Z",
+     "duracao_s": 602,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=gID4v4XjKio"
+    }
+   ],
+   "consulta": "São Paulo Djhordney Ferreira Sub-20",
+   "n_videos": 1,
    "mais_de": false,
    "views": 0,
-   "top": []
+   "top": [
+    {
+     "titulo": "** SÃO PAULO: DZHORDNEY E PEDRO FERREIRA SÃO CONVOCADOS PARA AMISTOSOS DA SELEÇÃO BRASILEIRA SUB-20",
+     "canal": "🥇 Batalha dos Mascotes",
+     "views": 0,
+     "url": "https://www.youtube.com/watch?v=gID4v4XjKio",
+     "publicado": "2026-10-31T03:00:38Z",
+     "do_canal": false
+    }
+   ]
   }
  },
- "corinthians antes torcedor": {
-  "dia": "2026-10-30",
+ "corinthians sub-17": {
+  "dia": "2026-10-31",
   "resultado": {
    "amostra": [
     {
-     "id": "vrryTCE8q4M",
-     "titulo": "Líderes, executivo e treinador resolvem aparecer para o torcedor antes do Mirassol",
-     "canal": "Canal do Vessoni",
-     "views": 28535,
-     "likes": 1013,
-     "comentarios": 8,
-     "publicado": "2026-10-29T02:48:04Z",
-     "duracao_s": 4701,
+     "id": "anIKZAJUEaE",
+     "titulo": "AO VIVO: CORINTHIANS X CRUZEIRO NA SAMUCA TV | FINAL DO BRASILEIRÃO SUB-17 | DIA DE JOGO",
+     "canal": "Samuca TV",
+     "views": 8294,
+     "likes": 1746,
+     "comentarios": 0,
+     "publicado": "2026-10-30T20:01:24Z",
+     "duracao_s": 0,
      "live": true,
-     "url": "https://www.youtube.com/watch?v=vrryTCE8q4M"
+     "url": "https://www.youtube.com/watch?v=anIKZAJUEaE"
+    },
+    {
+     "id": "OTIhuohDQro",
+     "titulo": "CORINTHIANS x VILA REAL - COPA ATLÂNTICO SUB-19 2026 - AO VIVO - 31.10.26",
+     "canal": "Metrópoles Esportes",
+     "views": 7148,
+     "likes": 201,
+     "comentarios": 0,
+     "publicado": "2026-10-31T14:55:59Z",
+     "duracao_s": 7061,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=OTIhuohDQro"
+    },
+    {
+     "id": "lcPrKgORlI0",
+     "titulo": "CORINTHIANS X CRUZEIRO AO VIVO COM IMAGENS | FINAL BRASILEIRÃO SUB-17",
+     "canal": "Marivaldo Superação",
+     "views": 4462,
+     "likes": 397,
+     "comentarios": 0,
+     "publicado": "2026-10-31T13:30:48Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=lcPrKgORlI0"
+    },
+    {
+     "id": "IJDTACaY4FQ",
+     "titulo": "CORINTHIANS X CRUZEIRO AO VIVO | FINAL DO BRASILEIRÃO SUB-17 2026 | NARRAÇÃO",
+     "canal": "FutResenha",
+     "views": 4050,
+     "likes": 41,
+     "comentarios": 0,
+     "publicado": "2026-10-31T11:32:12Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=IJDTACaY4FQ"
+    },
+    {
+     "id": "t93qwK1eqtU",
+     "titulo": "CORINTHIANS X CRUZEIRO AO VIVO COM IMAGENS | FINAL BRASILEIRÃO SUB-17",
+     "canal": "SALMISTA COLÓN OFICIAL",
+     "views": 3167,
+     "likes": 55,
+     "comentarios": 0,
+     "publicado": "2026-10-31T14:12:51Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=t93qwK1eqtU"
+    },
+    {
+     "id": "_JdISxn5erY",
+     "titulo": "CRUZEIRO NO BRASILEIRÃO: INGRESSOS À VENDA PARA DUELO DIRETO NO PROFISSIONAL E FINAL DO SUB-17",
+     "canal": "Samuca TV",
+     "views": 2520,
+     "likes": 97,
+     "comentarios": 1,
+     "publicado": "2026-10-31T00:21:14Z",
+     "duracao_s": 259,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=_JdISxn5erY"
+    },
+    {
+     "id": "zFrEazF5Xm8",
+     "titulo": "CORINTHIANS X CRUZEIRO AO VIVO COM IMAGENS | FINAL BRASILEIRÃO SUB-17",
+     "canal": "LCSX ",
+     "views": 2378,
+     "likes": 86,
+     "comentarios": 0,
+     "publicado": "2026-10-31T14:14:22Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=zFrEazF5Xm8"
+    },
+    {
+     "id": "dWIRfNj885I",
+     "titulo": "CORINTHIANS X CRUZEIRO AO VIVO COM IMAGENS | FINAL BRASILEIRÃO SUB-17",
+     "canal": "Marivaldo Superação",
+     "views": 2231,
+     "likes": 11,
+     "comentarios": 0,
+     "publicado": "2026-10-31T14:17:07Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=dWIRfNj885I"
+    },
+    {
+     "id": "hlGpNSGnbZQ",
+     "titulo": "CORINTHIANS X CRUZEIRO AO VIVO | BRASILEIRÃO SUB-17 2026 | TRANSMISSÃO COMPLETA",
+     "canal": "FutResenha",
+     "views": 1552,
+     "likes": 16,
+     "comentarios": 0,
+     "publicado": "2026-10-31T12:43:52Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=hlGpNSGnbZQ"
+    },
+    {
+     "id": "q0QAi7H9rZQ",
+     "titulo": "CORINTHIANS X CRUZEIRO AO VIVO COM IMAGENS | FINAL BRASILEIRÃO SUB-17",
+     "canal": "marcos behr",
+     "views": 1294,
+     "likes": 53,
+     "comentarios": 0,
+     "publicado": "2026-10-31T14:24:16Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=q0QAi7H9rZQ"
+    },
+    {
+     "id": "LRPpOLCErvQ",
+     "titulo": "CORINTHIANS X CRUZEIRO AO VIVO COM IMAGENS | FINAL BRASILEIRÃO SUB-17",
+     "canal": "SALMISTA COLÓN OFICIAL",
+     "views": 712,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-10-31T14:55:18Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=LRPpOLCErvQ"
+    },
+    {
+     "id": "vrHmdt8R888",
+     "titulo": "VIM ACOMPANHAR OS GAROTOS DO SUB-17 DO CORINTHIANS NA FINAL DO BRASILEIRÃO",
+     "canal": "Zé Mendes ",
+     "views": 496,
+     "likes": 18,
+     "comentarios": 0,
+     "publicado": "2026-10-31T14:21:19Z",
+     "duracao_s": 26,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=vrHmdt8R888"
     }
    ],
-   "consulta": "Corinthians antes torcedor",
-   "n_videos": 1,
-   "mais_de": false,
-   "views": 28535,
+   "consulta": "Corinthians Sub-17",
+   "n_videos": 12,
+   "mais_de": true,
+   "views": 38304,
    "top": [
     {
-     "titulo": "Líderes, executivo e treinador resolvem aparecer para o torcedor antes do Mirassol",
-     "canal": "Canal do Vessoni",
-     "views": 28535,
-     "url": "https://www.youtube.com/watch?v=vrryTCE8q4M",
-     "publicado": "2026-10-29T02:48:04Z",
+     "titulo": "AO VIVO: CORINTHIANS X CRUZEIRO NA SAMUCA TV | FINAL DO BRASILEIRÃO SUB-17 | DIA DE JOGO",
+     "canal": "Samuca TV",
+     "views": 8294,
+     "url": "https://www.youtube.com/watch?v=anIKZAJUEaE",
+     "publicado": "2026-10-30T20:01:24Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "CORINTHIANS x VILA REAL - COPA ATLÂNTICO SUB-19 2026 - AO VIVO - 31.10.26",
+     "canal": "Metrópoles Esportes",
+     "views": 7148,
+     "url": "https://www.youtube.com/watch?v=OTIhuohDQro",
+     "publicado": "2026-10-31T14:55:59Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "CORINTHIANS X CRUZEIRO AO VIVO COM IMAGENS | FINAL BRASILEIRÃO SUB-17",
+     "canal": "Marivaldo Superação",
+     "views": 4462,
+     "url": "https://www.youtube.com/watch?v=lcPrKgORlI0",
+     "publicado": "2026-10-31T13:30:48Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "corinthians kaio cesar torcem": {
+  "dia": "2026-10-31",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "tc2qdUbE2hk",
+     "titulo": "KAIO CÉSAR DESABAFOU EM ENTREVISTA! \"A MÍDIA E TODO MUNDO TORCE PARA O CORINTHIANS CAIR\".",
+     "canal": "Central Corinthiana",
+     "views": 1284,
+     "likes": 42,
+     "comentarios": 0,
+     "publicado": "2026-10-31T04:17:12Z",
+     "duracao_s": 52,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=tc2qdUbE2hk"
+    },
+    {
+     "id": "sCLzzQC9IYE",
+     "titulo": "\"TODO MUNDO TORCE PRO CORINTHIANS CAIR\", DIZ KAIO CÉSAR",
+     "canal": "Esporte na Band",
+     "views": 869,
+     "likes": 19,
+     "comentarios": 3,
+     "publicado": "2026-10-31T02:30:56Z",
+     "duracao_s": 191,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=sCLzzQC9IYE"
+    },
+    {
+     "id": "vHs-Qnq80GI",
+     "titulo": "CORINTHIANS AGUARDA R$ 50 MILHÕES de GIGANTE ESPANHOLA| SEEDORF MANDA FORTE RECADO| KAIO DESABAFA",
+     "canal": "Capitão Corintiano",
+     "views": 681,
+     "likes": 142,
+     "comentarios": 6,
+     "publicado": "2026-10-31T13:53:36Z",
+     "duracao_s": 892,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=vHs-Qnq80GI"
+    },
+    {
+     "id": "aVe8STTTM6E",
+     "titulo": "KAIO CÉSAR dispara: \"todo mundo torce contra o Corinthians\"! 😳",
+     "canal": "Futebol em 360°",
+     "views": 216,
+     "likes": 4,
+     "comentarios": 0,
+     "publicado": "2026-10-31T15:39:15Z",
+     "duracao_s": 20,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=aVe8STTTM6E"
+    },
+    {
+     "id": "xgNZHlCN4Eg",
+     "titulo": "CORINTHIANS VENCE E TORCE! SEEDORF É ELOGIADO, MAS A ZONA DE PERIGO CONTINUA ⚠️b",
+     "canal": "DOLFUT",
+     "views": 9,
+     "likes": 1,
+     "comentarios": 0,
+     "publicado": "2026-10-31T15:06:32Z",
+     "duracao_s": 296,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=xgNZHlCN4Eg"
+    }
+   ],
+   "consulta": "Corinthians Kaio César torcem",
+   "n_videos": 5,
+   "mais_de": false,
+   "views": 3059,
+   "top": [
+    {
+     "titulo": "KAIO CÉSAR DESABAFOU EM ENTREVISTA! \"A MÍDIA E TODO MUNDO TORCE PARA O CORINTHIANS CAIR\".",
+     "canal": "Central Corinthiana",
+     "views": 1284,
+     "url": "https://www.youtube.com/watch?v=tc2qdUbE2hk",
+     "publicado": "2026-10-31T04:17:12Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "\"TODO MUNDO TORCE PRO CORINTHIANS CAIR\", DIZ KAIO CÉSAR",
+     "canal": "Esporte na Band",
+     "views": 869,
+     "url": "https://www.youtube.com/watch?v=sCLzzQC9IYE",
+     "publicado": "2026-10-31T02:30:56Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "CORINTHIANS AGUARDA R$ 50 MILHÕES de GIGANTE ESPANHOLA| SEEDORF MANDA FORTE RECADO| KAIO DESABAFA",
+     "canal": "Capitão Corintiano",
+     "views": 681,
+     "url": "https://www.youtube.com/watch?v=vHs-Qnq80GI",
+     "publicado": "2026-10-31T13:53:36Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "flamengo ninho urubu": {
+  "dia": "2026-10-31",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "LIdrGMKJavo",
+     "titulo": "FLAMENGO REALIZA TREINO NO NINHO DO URUBU APÓS CLÁSSICO CONTRA O VASCO",
+     "canal": "Flamengo TV",
+     "views": 50193,
+     "likes": 2518,
+     "comentarios": 42,
+     "publicado": "2026-10-30T20:00:03Z",
+     "duracao_s": 234,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=LIdrGMKJavo"
+    },
+    {
+     "id": "_-01UsZ5AgQ",
+     "titulo": "FLAMENGO A CAMINHO DO ESTÁDIO NILTON SANTOS PARA ENFRENTAR O VASCO PELO BRASILEIRÃO #flamengo #mengo",
+     "canal": "Fla Total",
+     "views": 1252,
+     "likes": 53,
+     "comentarios": 5,
+     "publicado": "2026-10-29T21:11:17Z",
+     "duracao_s": 64,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=_-01UsZ5AgQ"
+    },
+    {
+     "id": "CKeoizhNTuo",
+     "titulo": "FREITAS FEZ A ALEGRIA DA TORCIDA DO FLAMENGO NI NINHO DO URUBU #flamengo #mengão #mengo",
+     "canal": "Fla Total",
+     "views": 1054,
+     "likes": 103,
+     "comentarios": 1,
+     "publicado": "2026-10-31T13:21:05Z",
+     "duracao_s": 19,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=CKeoizhNTuo"
+    },
+    {
+     "id": "rc3OqNsJ0qM",
+     "titulo": "CLIMA NO NINHO APÓS A GOLEADA DO FLAMENGO!",
+     "canal": "FRANCISCO REIS | NOTÍCIAS DO MENGÃO",
+     "views": 775,
+     "likes": 31,
+     "comentarios": 0,
+     "publicado": "2026-10-31T00:30:27Z",
+     "duracao_s": 42,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=rc3OqNsJ0qM"
+    },
+    {
+     "id": "JUlTbKqgRbM",
+     "titulo": "A REVOLUÇÃO NO NINHO DO URUBU! O FLAMENGO VAI CHOCAR O BRASIL!!!",
+     "canal": "Arenas Brasileiras",
+     "views": 255,
+     "likes": 4,
+     "comentarios": 0,
+     "publicado": "2026-10-29T16:58:24Z",
+     "duracao_s": 225,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=JUlTbKqgRbM"
+    },
+    {
+     "id": "EP_szPocPsE",
+     "titulo": "CHOQUE! LEONARDO JARDIM DISPARA SOBRE GABIGOL E CAUSA POLÊMICA! | Notícias do Flamengo Hoje",
+     "canal": "Planeta Fla Total",
+     "views": 10,
+     "likes": 1,
+     "comentarios": 0,
+     "publicado": "2026-10-30T21:00:37Z",
+     "duracao_s": 756,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=EP_szPocPsE"
+    },
+    {
+     "id": "g4dPPIPv8bc",
+     "titulo": "ESCÂNDALO URGENTE! ABATTI ABEL CONFESSA ORDEM PROIBIDA CONTRA O FLAMENGO | NOTÍCIAS DO FLAMENGO HOJE",
+     "canal": "Planeta Fla Total",
+     "views": 7,
+     "likes": 1,
+     "comentarios": 0,
+     "publicado": "2026-10-31T15:00:36Z",
+     "duracao_s": 739,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=g4dPPIPv8bc"
+    },
+    {
+     "id": "jDsejUD7uao",
+     "titulo": "Flamengo: Lino detona a CBF e folga no Ninho 🔴⚫ #shorts",
+     "canal": "Mengão Sem Filtro",
+     "views": 0,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-10-31T15:11:28Z",
+     "duracao_s": 85,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=jDsejUD7uao"
+    },
+    {
+     "id": "G0NQ-oVQecE",
+     "titulo": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 01/11/26",
+     "canal": "Flamengo TV",
+     "views": 0,
+     "likes": 84,
+     "comentarios": 0,
+     "publicado": "2026-10-30T23:55:06Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=G0NQ-oVQecE"
+    }
+   ],
+   "consulta": "Flamengo Ninho Urubu",
+   "n_videos": 9,
+   "mais_de": false,
+   "views": 53546,
+   "top": [
+    {
+     "titulo": "FLAMENGO REALIZA TREINO NO NINHO DO URUBU APÓS CLÁSSICO CONTRA O VASCO",
+     "canal": "Flamengo TV",
+     "views": 50193,
+     "url": "https://www.youtube.com/watch?v=LIdrGMKJavo",
+     "publicado": "2026-10-30T20:00:03Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "FLAMENGO A CAMINHO DO ESTÁDIO NILTON SANTOS PARA ENFRENTAR O VASCO PELO BRASILEIRÃO #flamengo #mengo",
+     "canal": "Fla Total",
+     "views": 1252,
+     "url": "https://www.youtube.com/watch?v=_-01UsZ5AgQ",
+     "publicado": "2026-10-29T21:11:17Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "FREITAS FEZ A ALEGRIA DA TORCIDA DO FLAMENGO NI NINHO DO URUBU #flamengo #mengão #mengo",
+     "canal": "Fla Total",
+     "views": 1054,
+     "url": "https://www.youtube.com/watch?v=CKeoizhNTuo",
+     "publicado": "2026-10-31T13:21:05Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "flamengo venda suspender": {
+  "dia": "2026-10-31",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "_eRubuoZLoA",
+     "titulo": "Flamengo pede suspensão da venda dos ingressos #flamengo #palmeiras #estudiantes #crf #libertadores",
+     "canal": "Klistube",
+     "views": 187601,
+     "likes": 6649,
+     "comentarios": 1313,
+     "publicado": "2026-10-30T20:06:17Z",
+     "duracao_s": 69,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=_eRubuoZLoA"
+    },
+    {
+     "id": "gJf8-0_JLis",
+     "titulo": "URGENTE! FLAMENGO PEDIU SUSPENSÃO DA VENDA DE INGRESSOS PARA A FINAL DA LIBERTADORES?",
+     "canal": "Barbacast - Podcast do Barba",
+     "views": 111189,
+     "likes": 2414,
+     "comentarios": 68,
+     "publicado": "2026-10-31T01:40:16Z",
+     "duracao_s": 664,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=gJf8-0_JLis"
+    },
+    {
+     "id": "_Og_rSGFNcw",
+     "titulo": "FLAMENGO com a MÃO NO BRASILEIRÃO vai ao CAS suspender LIBERTADORES! E o PALMEIRAS?",
+     "canal": "Turma do Amendoim",
+     "views": 35935,
+     "likes": 1942,
+     "comentarios": 141,
+     "publicado": "2026-10-31T00:15:29Z",
+     "duracao_s": 493,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=_Og_rSGFNcw"
+    },
+    {
+     "id": "AC4v4ZXlTOs",
+     "titulo": "Flamengo pediu a suspensão na venda dos ingressos para final da libertadores #flamengo   #palmeiras",
+     "canal": "Fanaticosporfutebol ",
+     "views": 18468,
+     "likes": 483,
+     "comentarios": 155,
+     "publicado": "2026-10-30T21:40:34Z",
+     "duracao_s": 69,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=AC4v4ZXlTOs"
+    },
+    {
+     "id": "hboNdP1EDRM",
+     "titulo": "🚨URGENTE🚨 FLAMENGO ENTRA NO CAS E PEDE A SUSPENSÃO DA VENDA DE INGRESSO DA FINAL DA LIBERTADORES",
+     "canal": "FLAMÍLIA DA NAÇÃO",
+     "views": 16689,
+     "likes": 1073,
+     "comentarios": 255,
+     "publicado": "2026-10-30T21:30:10Z",
+     "duracao_s": 946,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=hboNdP1EDRM"
+    },
+    {
+     "id": "xrkU2GniNbE",
+     "titulo": "FLAMENGO PEDE SUSPENSÃO DA VENDA DE INGRESSOS PRA FINAL DA LIBERTADORES",
+     "canal": "LS FUT",
+     "views": 13283,
+     "likes": 368,
+     "comentarios": 14,
+     "publicado": "2026-10-30T20:59:18Z",
+     "duracao_s": 27,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=xrkU2GniNbE"
+    },
+    {
+     "id": "5NiL8UtJsrs",
+     "titulo": "Flamengo vai ao CAS e tenta travar venda de ingressos da final!",
+     "canal": "FLAMENGUISTA ORIGINAL ",
+     "views": 8582,
+     "likes": 108,
+     "comentarios": 88,
+     "publicado": "2026-10-30T22:58:20Z",
+     "duracao_s": 14,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=5NiL8UtJsrs"
+    },
+    {
+     "id": "kRkCsWn3OW8",
+     "titulo": "FLAMENGO PEDE SUSPENSÃO DAS VENDAS DOS INGRESSOS DA FINAL DA LIBERTADORES!",
+     "canal": "KARLUS DANIEU",
+     "views": 5756,
+     "likes": 335,
+     "comentarios": 43,
+     "publicado": "2026-10-31T00:49:20Z",
+     "duracao_s": 61,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=kRkCsWn3OW8"
+    },
+    {
+     "id": "hKd69weEbMA",
+     "titulo": "Flamengo tenta suspender a venda de ingressos da final da Libertadores! #FLAMENGO #Estudiantes",
+     "canal": "LEONN0 FLA NEWS",
+     "views": 3892,
+     "likes": 59,
+     "comentarios": 23,
+     "publicado": "2026-10-30T23:42:43Z",
+     "duracao_s": 99,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=hKd69weEbMA"
+    },
+    {
+     "id": "ZnkBLpbYBDE",
+     "titulo": "💣URGENTE! FLAMENGO VAI RECORRE AO CAS PARA SUSPENDER AS VENDAS DE INGRESSOS P/ A FINAL DA LIBERTA✅",
+     "canal": "Verdão MVVC",
+     "views": 3407,
+     "likes": 191,
+     "comentarios": 41,
+     "publicado": "2026-10-30T19:56:23Z",
+     "duracao_s": 67,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=ZnkBLpbYBDE"
+    },
+    {
+     "id": "JyB_mJiGqFI",
+     "titulo": "FLAMENGO ACIONA CAS E PEDE SUSPENSÃO DA VENDA DOS INGRESSOS DA FINAL ENTRE PALMEIRAS X ESTUDIANTES!",
+     "canal": "Vieira Fla",
+     "views": 3330,
+     "likes": 58,
+     "comentarios": 14,
+     "publicado": "2026-10-30T21:37:32Z",
+     "duracao_s": 35,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=JyB_mJiGqFI"
+    },
+    {
+     "id": "25t4C1kiXCk",
+     "titulo": "Flamengo pede a suspensão da venda dos ingressos  #flamengo #futebol #libertadores #palmeiras",
+     "canal": "Luiz_pepelino150 ",
+     "views": 2746,
+     "likes": 136,
+     "comentarios": 6,
+     "publicado": "2026-10-31T02:51:52Z",
+     "duracao_s": 69,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=25t4C1kiXCk"
+    },
+    {
+     "id": "xZUFdbMkYMg",
+     "titulo": "Flamengo vai à CAS para tentar suspender venda de ingressos para Palmeiras x Estudiantes #flamengo",
+     "canal": "Zuco Mariano no mundo do futebol ",
+     "views": 1983,
+     "likes": 385,
+     "comentarios": 23,
+     "publicado": "2026-10-31T13:48:55Z",
+     "duracao_s": 141,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=xZUFdbMkYMg"
+    },
+    {
+     "id": "Yg11c1gF214",
+     "titulo": "SAIU AGORA! FLA SÓ ENTROU NO CAS PARA SUSPENDER AS VENDAS DE INGRESSOS DA FINAL PARA EVITAR QUE…",
+     "canal": "MOMENTO DO PAPARAZZO",
+     "views": 1739,
+     "likes": 276,
+     "comentarios": 19,
+     "publicado": "2026-10-31T13:10:13Z",
+     "duracao_s": 566,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Yg11c1gF214"
+    },
+    {
+     "id": "oCD2gxWiQa0",
+     "titulo": "Flamengo pede suspensão da venda de ingressos da final da Libertadores",
+     "canal": "O Dia Online",
+     "views": 1394,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-10-30T20:41:25Z",
+     "duracao_s": 10,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=oCD2gxWiQa0"
+    },
+    {
+     "id": "8kVyqkjj0B4",
+     "titulo": "Flamengo solicita suspensão das vendas de ingressos para final palmeiras e estudantes! #futebol",
+     "canal": "Dsanttos",
+     "views": 1299,
+     "likes": 12,
+     "comentarios": 2,
+     "publicado": "2026-10-30T19:36:01Z",
+     "duracao_s": 32,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=8kVyqkjj0B4"
+    },
+    {
+     "id": "7vESdXta1Cs",
+     "titulo": "URGENTE FLAMENGO PEDIU A SUSPENSÃO DA VENDA DE INGRESSOS DA FINAL DA LIBERTADORES #flamengo #futebol",
+     "canal": "FLA ALERTA ",
+     "views": 1290,
+     "likes": 13,
+     "comentarios": 10,
+     "publicado": "2026-10-30T20:37:21Z",
+     "duracao_s": 32,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=7vESdXta1Cs"
+    },
+    {
+     "id": "hOwR9cPK5bE",
+     "titulo": "Flamengo pediu suspensão dos ingressos agora? A explicação",
+     "canal": "Fla81",
+     "views": 1287,
+     "likes": 22,
+     "comentarios": 0,
+     "publicado": "2026-10-31T07:20:59Z",
+     "duracao_s": 33,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=hOwR9cPK5bE"
+    },
+    {
+     "id": "sBihptvqe4k",
+     "titulo": "🚨 Flamengo entra com recurso para tentar suspender a venda de ingressos da final da Libertadores!",
+     "canal": "Esport Total",
+     "views": 1228,
+     "likes": 29,
+     "comentarios": 0,
+     "publicado": "2026-10-31T00:06:01Z",
+     "duracao_s": 43,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=sBihptvqe4k"
+    },
+    {
+     "id": "r3VkF20cOHI",
+     "titulo": "Flamengo tenta suspender venda de ingressos para Palmeiras x Estudiantes",
+     "canal": "Professor Luiz Rosa",
+     "views": 1046,
+     "likes": 25,
+     "comentarios": 0,
+     "publicado": "2026-10-30T21:26:04Z",
+     "duracao_s": 136,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=r3VkF20cOHI"
+    },
+    {
+     "id": "GJRvKFbC7vQ",
+     "titulo": "🚨 Flamengo aciona o CAS e tenta suspender a venda de ingressos para a final da  #libertadores",
+     "canal": "Notícias do esporte com Rodolfo Neves",
+     "views": 961,
+     "likes": 7,
+     "comentarios": 0,
+     "publicado": "2026-10-31T01:33:03Z",
+     "duracao_s": 36,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=GJRvKFbC7vQ"
+    },
+    {
+     "id": "ZNI4XGenzPw",
+     "titulo": "FLAMENGO PEDE SUSPENSÃO DE VENDA DE INGRESSOS PRA FINAL DA LIBERTADORES! #reactfladiego #flamengo",
+     "canal": "React Fla Diego ",
+     "views": 956,
+     "likes": 25,
+     "comentarios": 0,
+     "publicado": "2026-10-30T20:47:45Z",
+     "duracao_s": 70,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=ZNI4XGenzPw"
+    },
+    {
+     "id": "NY4n8Zbv_3g",
+     "titulo": "o Flamengo tenta suspender a venda de ingresso para a final da Libertadores @flamengo",
+     "canal": "flatucal",
+     "views": 861,
+     "likes": 27,
+     "comentarios": 2,
+     "publicado": "2026-10-30T21:46:30Z",
+     "duracao_s": 91,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=NY4n8Zbv_3g"
+    },
+    {
+     "id": "Xfm4DZegbcA",
+     "titulo": "Reviravolta volta#Flamengo pede suspensão da venda de ingressos para a final da libertadores#futebol",
+     "canal": "Fla News2019",
+     "views": 827,
+     "likes": 46,
+     "comentarios": 3,
+     "publicado": "2026-10-31T14:38:34Z",
+     "duracao_s": 133,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Xfm4DZegbcA"
+    },
+    {
+     "id": "Q4N5IPet0N4",
+     "titulo": "🚨 FLAMENGO PEDE SUSPENSÃO DA VENDA DE INGRESSOS DA FINAL DA LIBERTADORES!",
+     "canal": "Jornal dos Sports",
+     "views": 781,
+     "likes": 21,
+     "comentarios": 2,
+     "publicado": "2026-10-30T19:30:40Z",
+     "duracao_s": 80,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Q4N5IPet0N4"
+    }
+   ],
+   "consulta": "Flamengo venda suspender",
+   "n_videos": 25,
+   "mais_de": true,
+   "views": 426530,
+   "top": [
+    {
+     "titulo": "Flamengo pede suspensão da venda dos ingressos #flamengo #palmeiras #estudiantes #crf #libertadores",
+     "canal": "Klistube",
+     "views": 187601,
+     "url": "https://www.youtube.com/watch?v=_eRubuoZLoA",
+     "publicado": "2026-10-30T20:06:17Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "URGENTE! FLAMENGO PEDIU SUSPENSÃO DA VENDA DE INGRESSOS PARA A FINAL DA LIBERTADORES?",
+     "canal": "Barbacast - Podcast do Barba",
+     "views": 111189,
+     "url": "https://www.youtube.com/watch?v=gJf8-0_JLis",
+     "publicado": "2026-10-31T01:40:16Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "FLAMENGO com a MÃO NO BRASILEIRÃO vai ao CAS suspender LIBERTADORES! E o PALMEIRAS?",
+     "canal": "Turma do Amendoim",
+     "views": 35935,
+     "url": "https://www.youtube.com/watch?v=_Og_rSGFNcw",
+     "publicado": "2026-10-31T00:15:29Z",
      "do_canal": false
     }
    ]
