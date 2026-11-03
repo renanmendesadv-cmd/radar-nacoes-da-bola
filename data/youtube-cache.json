@@ -1,302 +1,868 @@
 {
- "flamengo carlo quarta-feira": {
-  "dia": "2026-11-02",
+ "flamengo": {
+  "dia": "2026-11-03",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "MCjRZIVNwP4",
+     "titulo": "QUANDO A LEILA FALOU, O FLAMENGO RESPONDEU EM CAMPO… ☠️🔥",
+     "canal": "SOUSA-CRF",
+     "views": 465219,
+     "likes": 12410,
+     "comentarios": 207,
+     "publicado": "2026-11-01T23:03:27Z",
+     "duracao_s": 61,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=MCjRZIVNwP4"
+    },
+    {
+     "id": "Hs2WmJqAPWc",
+     "titulo": "Bruno Henrique e Carrascal 😅#flamengo #brunoheinrique #carrascal #humor #meme",
+     "canal": "Gol Olimpico",
+     "views": 311152,
+     "likes": 4039,
+     "comentarios": 52,
+     "publicado": "2026-11-02T19:12:59Z",
+     "duracao_s": 15,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Hs2WmJqAPWc"
+    },
+    {
+     "id": "MOKeiBp_64k",
+     "titulo": "TRETA! \"FAÇA AS CONTAS, SEU FROUXO!!! O FLAMENGO tem...\" BRIGA PELO TÍTULO faz DISCUSSÃO PEGAR FOGO!",
+     "canal": "Jovem Pan Esportes",
+     "views": 301317,
+     "likes": 5454,
+     "comentarios": 403,
+     "publicado": "2026-11-02T17:03:42Z",
+     "duracao_s": 933,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=MOKeiBp_64k"
+    },
+    {
+     "id": "5oYnmKtrMdA",
+     "titulo": "Tabela do brasileirão. Flamengo Corinthians Palmeiras Fluminense Vasco Cruzeiro Galo Grêmio Santos",
+     "canal": "Igualnosmesmos",
+     "views": 284514,
+     "likes": 131,
+     "comentarios": 0,
+     "publicado": "2026-11-02T21:08:41Z",
+     "duracao_s": 3830,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=5oYnmKtrMdA"
+    },
+    {
+     "id": "ACBzCqwD870",
+     "titulo": "Daronco apitou os dois jogos #vasco #flamengo #palmeiras #vascodagama #futebol",
+     "canal": "Klistube",
+     "views": 204273,
+     "likes": 7807,
+     "comentarios": 724,
+     "publicado": "2026-11-01T21:12:39Z",
+     "duracao_s": 74,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=ACBzCqwD870"
+    },
+    {
+     "id": "GyBN5d0HPxg",
+     "titulo": "Flamengo retira o pedido de suspensão #libertadores #flamengo #palmeiras #estudiantes #mengão",
+     "canal": "Klistube",
+     "views": 202118,
+     "likes": 7205,
+     "comentarios": 669,
+     "publicado": "2026-11-02T00:42:09Z",
+     "duracao_s": 75,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=GyBN5d0HPxg"
+    },
+    {
+     "id": "aVPLM1wdVvY",
+     "titulo": "FLAMENGO JÁ ACHOU O NOVO DIRETOR PARA O LUGAR DE BOTO! DIRETORIA DESISTIU DE FINAL DA LIBERTADORES! ",
+     "canal": "FLAZOEIRO",
+     "views": 184019,
+     "likes": 14786,
+     "comentarios": 635,
+     "publicado": "2026-11-02T12:54:36Z",
+     "duracao_s": 768,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=aVPLM1wdVvY"
+    },
+    {
+     "id": "7yGM4UFbRkQ",
+     "titulo": "ARBITRAGEM NO FUTEBOL BRASILEIRO SEMPRE AJUDANDO O PALMEIRAS 😡⚽ #flamengo #futebol #mengo #mengão",
+     "canal": "Fla Total",
+     "views": 171888,
+     "likes": 3995,
+     "comentarios": 309,
+     "publicado": "2026-11-02T00:56:24Z",
+     "duracao_s": 15,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=7yGM4UFbRkQ"
+    },
+    {
+     "id": "YhWU24q7cG4",
+     "titulo": "Gabriel Jesus RECUSOU o FLAMENGO",
+     "canal": "Verner",
+     "views": 155917,
+     "likes": null,
+     "comentarios": 22,
+     "publicado": "2026-11-01T22:00:23Z",
+     "duracao_s": 18,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=YhWU24q7cG4"
+    },
+    {
+     "id": "Qah4LZ-8exg",
+     "titulo": "Most Brasileirão Titles Since 1971 🏆🇧🇷 Flamengo 8, Palmeiras 8 – Who Breaks the Tie?",
+     "canal": "Marble Dream League",
+     "views": 146169,
+     "likes": 1033,
+     "comentarios": 86,
+     "publicado": "2026-11-01T23:25:41Z",
+     "duracao_s": 20,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Qah4LZ-8exg"
+    },
+    {
+     "id": "X9haGPnyw7E",
+     "titulo": "Jogo difícil é contra o flamengo #flamengo #vasco #futebol #palmeirasxvasco",
+     "canal": "FUTZUEIRA ",
+     "views": 143973,
+     "likes": 1268,
+     "comentarios": 18,
+     "publicado": "2026-11-01T23:08:12Z",
+     "duracao_s": 11,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=X9haGPnyw7E"
+    },
+    {
+     "id": "668HILCxaCg",
+     "titulo": "PODE COMEMORAR! DECISÃO FINAL SOBRE FLAMENGO NA FINAL DA LIBERTA! SAÍDA DE BOTO!",
+     "canal": "Mengão O MELHOR",
+     "views": 141203,
+     "likes": 6684,
+     "comentarios": 314,
+     "publicado": "2026-11-02T08:00:32Z",
+     "duracao_s": 1194,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=668HILCxaCg"
+    },
+    {
+     "id": "Uo4rXwZeuIc",
+     "titulo": "RENATO GAÚCHO COMEÇOU INVENTAR DESCULPA  #flamengo #shorts",
+     "canal": "Giro do Flamengo",
+     "views": 140054,
+     "likes": 1964,
+     "comentarios": 26,
+     "publicado": "2026-11-02T13:16:40Z",
+     "duracao_s": 64,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Uo4rXwZeuIc"
+    },
+    {
+     "id": "59YZ93uwsKU",
+     "titulo": "1º NOME OFERECIDO AO FLAMENGO PARA 2027! RODRIGO MUNIZ PODE VOLTAR AO BRASIL! DINHEIRO PREOCUPA BAP!",
+     "canal": "FLAZOEIRO",
+     "views": 137550,
+     "likes": 12077,
+     "comentarios": 381,
+     "publicado": "2026-11-02T21:01:37Z",
+     "duracao_s": 730,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=59YZ93uwsKU"
+    },
+    {
+     "id": "xrzTYwfygD4",
+     "titulo": "Contas do Flamengo em 2027 #flamengo #mengão #mengo #vamosflamengo #futebol",
+     "canal": "Klistube",
+     "views": 130027,
+     "likes": 4975,
+     "comentarios": 285,
+     "publicado": "2026-11-02T16:25:28Z",
+     "duracao_s": 100,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=xrzTYwfygD4"
+    },
+    {
+     "id": "UPaIB6iqW4g",
+     "titulo": "ABSURDO! 🤦🏽‍♂️🚨 #flamengo #vasco #mengo #palmeiras #vascodagama #viral #fyp #fy",
+     "canal": "RIVALIFLASCO",
+     "views": 114152,
+     "likes": 6657,
+     "comentarios": 584,
+     "publicado": "2026-11-01T21:48:08Z",
+     "duracao_s": 80,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=UPaIB6iqW4g"
+    },
+    {
+     "id": "sHE3a4zGFSw",
+     "titulo": "Times que MAIS VENCERAM a COPA do BRASIL",
+     "canal": "Vernerzinho",
+     "views": 112223,
+     "likes": 2761,
+     "comentarios": 11,
+     "publicado": "2026-11-01T21:00:01Z",
+     "duracao_s": 24,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=sHE3a4zGFSw"
+    },
+    {
+     "id": "_gsRHO2LM1s",
+     "titulo": "RENATO GAÚCHO JOGOU A TOALHA VAI POUPAR CONTRA O FLAMENGO?",
+     "canal": "Marcos FLA React",
+     "views": 111262,
+     "likes": 3291,
+     "comentarios": 66,
+     "publicado": "2026-11-02T21:13:54Z",
+     "duracao_s": 1106,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=_gsRHO2LM1s"
+    },
+    {
+     "id": "lJAvQU903TM",
+     "titulo": "GLOBO ESPORTE HOJE 02/11/26 FLAMENGO DANDO CHAPÉU NO RIVAL| NOTÍCIAS DO FLAMENGO HOJE ",
+     "canal": "Flamengo Bastidores ",
+     "views": 103817,
+     "likes": 1097,
+     "comentarios": 15,
+     "publicado": "2026-11-02T16:39:08Z",
+     "duracao_s": 893,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=lJAvQU903TM"
+    },
+    {
+     "id": "JKGqobZVwp0",
+     "titulo": "Palmeiras x Vasco, melhores momentos e pênalti não marcado. #flamengo #vasco #palmeiras",
+     "canal": "MEU MENGÃO",
+     "views": 98720,
+     "likes": 2103,
+     "comentarios": 252,
+     "publicado": "2026-11-02T02:26:18Z",
+     "duracao_s": 79,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=JKGqobZVwp0"
+    },
+    {
+     "id": "ann_PeLKNek",
+     "titulo": "APRENDE A FAZER ESTÁDIO FLAMENGO  #FLAMENGO #noticiasdoflamengo #mengão",
+     "canal": "Insider FLA",
+     "views": 95638,
+     "likes": 9241,
+     "comentarios": 220,
+     "publicado": "2026-11-02T16:32:40Z",
+     "duracao_s": 69,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=ann_PeLKNek"
+    },
+    {
+     "id": "oZyhSiqK1F8",
+     "titulo": "NAÇÃO LEGADO | ACOMPANHE O BASTIDORES DO LANCE HISTÓRICO (30/10/26)",
+     "canal": "Flamengo TV",
+     "views": 93748,
+     "likes": 5409,
+     "comentarios": 92,
+     "publicado": "2026-11-02T14:43:31Z",
+     "duracao_s": 488,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=oZyhSiqK1F8"
+    },
+    {
+     "id": "s64aket-Zmc",
+     "titulo": "Previsão Brasileirão 34ª rodada #shorts #brasileirão #flamengo",
+     "canal": "Leozin FC‎  ",
+     "views": 90796,
+     "likes": 5176,
+     "comentarios": 269,
+     "publicado": "2026-11-02T14:00:07Z",
+     "duracao_s": 179,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=s64aket-Zmc"
+    },
+    {
+     "id": "M1pptahUfVQ",
+     "titulo": "Brasileirão das Bolinhas - 34ª rodada #shorts #brasileirão #flamengo",
+     "canal": "Leozin FC‎  ",
+     "views": 89588,
+     "likes": 3506,
+     "comentarios": 90,
+     "publicado": "2026-11-02T14:15:10Z",
+     "duracao_s": 82,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=M1pptahUfVQ"
+    },
+    {
+     "id": "vztgbJ9oRiM",
+     "titulo": "olha o que o flamengo precisa para ser campeão na casa do Palmeiras! #shorts",
+     "canal": "Papo de craque",
+     "views": 82866,
+     "likes": 2839,
+     "comentarios": 87,
+     "publicado": "2026-11-01T22:41:18Z",
+     "duracao_s": 61,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=vztgbJ9oRiM"
+    }
+   ],
+   "consulta": "Flamengo",
+   "n_videos": 25,
+   "mais_de": true,
+   "views": 4112203,
+   "top": [
+    {
+     "titulo": "QUANDO A LEILA FALOU, O FLAMENGO RESPONDEU EM CAMPO… ☠️🔥",
+     "canal": "SOUSA-CRF",
+     "views": 465219,
+     "url": "https://www.youtube.com/watch?v=MCjRZIVNwP4",
+     "publicado": "2026-11-01T23:03:27Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "Bruno Henrique e Carrascal 😅#flamengo #brunoheinrique #carrascal #humor #meme",
+     "canal": "Gol Olimpico",
+     "views": 311152,
+     "url": "https://www.youtube.com/watch?v=Hs2WmJqAPWc",
+     "publicado": "2026-11-02T19:12:59Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "TRETA! \"FAÇA AS CONTAS, SEU FROUXO!!! O FLAMENGO tem...\" BRIGA PELO TÍTULO faz DISCUSSÃO PEGAR FOGO!",
+     "canal": "Jovem Pan Esportes",
+     "views": 301317,
+     "url": "https://www.youtube.com/watch?v=MOKeiBp_64k",
+     "publicado": "2026-11-02T17:03:42Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "palmeiras semifinais largam": {
+  "dia": "2026-11-03",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "S_k8R5fqOR0",
+     "titulo": "PALMEIRAS E GRÊMIO LARGAM EM VANTAGEM NA COPA DO BRASIL | JOGO ABERTO - 02/11/2026",
+     "canal": "Jogo Aberto",
+     "views": 1336858,
+     "likes": 17800,
+     "comentarios": 316,
+     "publicado": "2026-11-02T16:07:22Z",
+     "duracao_s": 6652,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=S_k8R5fqOR0"
+    },
+    {
+     "id": "ErPoiXX5LAQ",
+     "titulo": "Palmeiras e Grêmio largam em vantagem na semifinal da Copa do Brasil | Reapresentação",
+     "canal": "Jogo Aberto",
+     "views": 32290,
+     "likes": 454,
+     "comentarios": 27,
+     "publicado": "2026-11-02T23:52:30Z",
+     "duracao_s": 6382,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=ErPoiXX5LAQ"
+    },
+    {
+     "id": "G2TeOa0r3NM",
+     "titulo": "PALMEIRAS E GRÊMIO LARGAM NA FRENTE! 🔥 | Semifinais da Copa do Brasil#copadobrasil#palmeiras#grêmio",
+     "canal": "JR Portal da bola!",
+     "views": 1565,
+     "likes": 22,
+     "comentarios": 1,
+     "publicado": "2026-11-02T10:25:31Z",
+     "duracao_s": 36,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=G2TeOa0r3NM"
+    },
+    {
+     "id": "v58sOg-rvxY",
+     "titulo": "PALMEIRAS E GRÊMIO LARGAM NA FRENTE! Foi pênalti pro Vasco?",
+     "canal": "BOLÃO SPORTS",
+     "views": 262,
+     "likes": 1,
+     "comentarios": 1,
+     "publicado": "2026-11-02T00:34:38Z",
+     "duracao_s": 94,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=v58sOg-rvxY"
+    },
+    {
+     "id": "rUXsX8uryug",
+     "titulo": "PALMEIRAS E GRÊMIO LARGAM EM VANTAGEM NAS SEMIFINAIS DA  COPA DO BRASIL",
+     "canal": "Canal NaTorcida",
+     "views": 92,
+     "likes": 2,
+     "comentarios": 0,
+     "publicado": "2026-11-03T03:33:27Z",
+     "duracao_s": 2892,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=rUXsX8uryug"
+    }
+   ],
+   "consulta": "Palmeiras semifinais largam",
+   "n_videos": 5,
+   "mais_de": false,
+   "views": 1371067,
+   "top": [
+    {
+     "titulo": "PALMEIRAS E GRÊMIO LARGAM EM VANTAGEM NA COPA DO BRASIL | JOGO ABERTO - 02/11/2026",
+     "canal": "Jogo Aberto",
+     "views": 1336858,
+     "url": "https://www.youtube.com/watch?v=S_k8R5fqOR0",
+     "publicado": "2026-11-02T16:07:22Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "Palmeiras e Grêmio largam em vantagem na semifinal da Copa do Brasil | Reapresentação",
+     "canal": "Jogo Aberto",
+     "views": 32290,
+     "url": "https://www.youtube.com/watch?v=ErPoiXX5LAQ",
+     "publicado": "2026-11-02T23:52:30Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "PALMEIRAS E GRÊMIO LARGAM NA FRENTE! 🔥 | Semifinais da Copa do Brasil#copadobrasil#palmeiras#grêmio",
+     "canal": "JR Portal da bola!",
+     "views": 1565,
+     "url": "https://www.youtube.com/watch?v=G2TeOa0r3NM",
+     "publicado": "2026-11-02T10:25:31Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "palmeiras argentina convocados messi": {
+  "dia": "2026-11-03",
   "resultado": {
    "amostra": [],
-   "consulta": "Flamengo Carlo quarta-feira",
+   "consulta": "Palmeiras Argentina convocados Messi",
    "n_videos": 0,
    "mais_de": false,
    "views": 0,
    "top": []
   }
  },
- "corinthians memphis treina classico": {
-  "dia": "2026-11-02",
+ "corinthians sub-17": {
+  "dia": "2026-11-03",
   "resultado": {
    "amostra": [
     {
-     "id": "Drfp98jOKN8",
-     "titulo": "MEMPHIS JOGA CONTRA O SÃO PAULO! CAMISA 10 JÁ TREINA COM ELENCO E PODE ATUAR NO BRASILEIRÃO",
-     "canal": "ESPN Brasil",
-     "views": 2634,
-     "likes": 165,
+     "id": "qLuOT9fTFGM",
+     "titulo": "CORINTHIANS SE PREPARA PARA MAJESTOSO | BIDU VAI OPERAR | YAGO NO SUB-17",
+     "canal": "Meu Timão",
+     "views": 47389,
+     "likes": 778,
      "comentarios": 2,
-     "publicado": "2026-11-02T16:09:13Z",
-     "duracao_s": 297,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Drfp98jOKN8"
+     "publicado": "2026-11-02T23:16:10Z",
+     "duracao_s": 7346,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=qLuOT9fTFGM"
     },
     {
-     "id": "5YiyJq9KZkI",
-     "titulo": "Memphis Depay voltou a treinar e pode ser a grande novidade para o clássico 🔥 #corinthians",
-     "canal": "Rota do Torcedor",
-     "views": 1255,
+     "id": "12jAZ4Zf0Ks",
+     "titulo": "TEM QUE SUBIR ESSES JOGADORES PRO PROFISSIONAL #corinthians #loucosporfutebol #futebol",
+     "canal": "Corinthians FC ",
+     "views": 1184,
+     "likes": 34,
+     "comentarios": 2,
+     "publicado": "2026-11-01T20:41:26Z",
+     "duracao_s": 13,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=12jAZ4Zf0Ks"
+    },
+    {
+     "id": "y6WmqTSoqXI",
+     "titulo": "TÁ CHEGANDO A HORA DA DECISÃO #corinthians #vaicorinthians #timão #sccp #coringão",
+     "canal": "InfoTimão - Notícias e Vídeos do Corinthians ",
+     "views": 976,
      "likes": 15,
-     "comentarios": 2,
-     "publicado": "2026-11-02T14:30:43Z",
-     "duracao_s": 24,
+     "comentarios": 0,
+     "publicado": "2026-11-03T00:43:35Z",
+     "duracao_s": 20,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=5YiyJq9KZkI"
+     "url": "https://www.youtube.com/watch?v=y6WmqTSoqXI"
     },
     {
-     "id": "xZlQIet7574",
-     "titulo": "VAI JOGAR CONTRA O SÃO PAULO? #shorts",
-     "canal": "ESPN Brasil",
-     "views": 1248,
-     "likes": 60,
-     "comentarios": 2,
-     "publicado": "2026-11-02T16:31:57Z",
-     "duracao_s": 50,
+     "id": "zQABF70_bzw",
+     "titulo": "GOL | CORINTHIANS 2 X 1 SFERA | PAULISTA FEMININO SUB-17",
+     "canal": "Sfera TV",
+     "views": 871,
+     "likes": 22,
+     "comentarios": 0,
+     "publicado": "2026-11-03T16:03:54Z",
+     "duracao_s": 22,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=xZlQIet7574"
+     "url": "https://www.youtube.com/watch?v=zQABF70_bzw"
     },
     {
-     "id": "S2vzvvlxCi4",
-     "titulo": "Memphis volta a treinar com o elenco do Corinthians antes do clássico contra o São Paulo",
-     "canal": "FIEL IA - INTELIGÊNCIA ALVINEGRA",
-     "views": 1033,
-     "likes": 28,
-     "comentarios": 2,
-     "publicado": "2026-11-01T22:56:24Z",
-     "duracao_s": 73,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=S2vzvvlxCi4"
-    },
-    {
-     "id": "nFCqwUKmG6M",
-     "titulo": "Memphis volta a treinar no Timão, e um clube do México já está de olho nele",
-     "canal": "ShortsTimão",
-     "views": 1021,
-     "likes": 25,
-     "comentarios": 3,
-     "publicado": "2026-11-02T01:24:04Z",
-     "duracao_s": 47,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=nFCqwUKmG6M"
-    },
-    {
-     "id": "c4wC0B7eAAI",
-     "titulo": "MEMPHIS TREINA E PODE REFORÇAR O CORINTHIANS CONTRA SÃO PAULO | #SHORTS",
-     "canal": "Esporte na Band",
-     "views": 987,
-     "likes": 104,
-     "comentarios": 5,
-     "publicado": "2026-11-02T17:05:06Z",
-     "duracao_s": 75,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=c4wC0B7eAAI"
-    },
-    {
-     "id": "tgn9I54WHiY",
-     "titulo": "🚨 URGENTE NO TIMÃO! MEMPHIS DEPAY VOLTA A TREINAR ANTES DO MAJESTOSO! #Shorts",
-     "canal": "Campo Alvinegro",
-     "views": 743,
-     "likes": 19,
-     "comentarios": 1,
-     "publicado": "2026-11-02T03:39:57Z",
-     "duracao_s": 103,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=tgn9I54WHiY"
-    },
-    {
-     "id": "nwoiM1qlmfU",
-     "titulo": "Memphis pode reforçar Corinthians no clássico contra São Paulo",
-     "canal": "Ozzy, O Âncora",
-     "views": 493,
-     "likes": 10,
-     "comentarios": 1,
-     "publicado": "2026-11-02T15:42:44Z",
-     "duracao_s": 24,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=nwoiM1qlmfU"
-    },
-    {
-     "id": "sVqUIa1BkHc",
-     "titulo": "MEMPHIS VOLTA A TREINAR E DEVE IR PRO MAJESTOSO!",
-     "canal": "Fiel Informa",
-     "views": 254,
+     "id": "c0VKpJSpyFU",
+     "titulo": "São Paulo x Corinthians é NESTA QUARTA | Timãozinho faz 3 a 0, mas técnico NÃO crava título",
+     "canal": "Diário Timão",
+     "views": 553,
      "likes": 5,
      "comentarios": 0,
-     "publicado": "2026-11-02T19:37:02Z",
-     "duracao_s": 52,
+     "publicado": "2026-11-02T04:18:19Z",
+     "duracao_s": 43,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=sVqUIa1BkHc"
+     "url": "https://www.youtube.com/watch?v=c0VKpJSpyFU"
     },
     {
-     "id": "Z6_HchbUWwk",
-     "titulo": "🚨 MEMPHIS DE RETORNO NO TIMÃO? BASTIDORES DO MAJESTOSO! #Shorts",
-     "canal": "Campo Alvinegro",
-     "views": 220,
+     "id": "xrUJCjF6JAw",
+     "titulo": "É HOJE! 🏆 Raposinha precisa de 3 gols pra levar a final do Sub-17 aos pênaltis #shorts",
+     "canal": "Futebol ao Vivo",
+     "views": 313,
      "likes": 6,
-     "comentarios": 1,
-     "publicado": "2026-11-02T16:22:24Z",
-     "duracao_s": 115,
+     "comentarios": 0,
+     "publicado": "2026-11-03T15:37:44Z",
+     "duracao_s": 50,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=Z6_HchbUWwk"
+     "url": "https://www.youtube.com/watch?v=xrUJCjF6JAw"
     },
     {
-     "id": "7tyqeRzY4CQ",
-     "titulo": "Mauro Cezar e mais 3 notícias do futebol",
-     "canal": "Ozzy, O Âncora",
-     "views": 52,
+     "id": "PDL9lQi3g7E",
+     "titulo": "Artilheiro do Timãozinho CONVOCADO para a Copa do Mundo Sub-17",
+     "canal": "Diário Timão",
+     "views": 176,
      "likes": 1,
      "comentarios": 0,
-     "publicado": "2026-11-02T15:41:41Z",
-     "duracao_s": 249,
+     "publicado": "2026-11-02T09:17:05Z",
+     "duracao_s": 45,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=7tyqeRzY4CQ"
+     "url": "https://www.youtube.com/watch?v=PDL9lQi3g7E"
     },
     {
-     "id": "22hiUZ3MSQE",
-     "titulo": "NOVIDADE no CORINTHIANS - SÃO PAULO na MIRA! - MEMPHIS TREINA COM ELENCO, KAYKE VOLTA A APARECER",
-     "canal": "ID INFORMATIMÃO",
-     "views": 30,
-     "likes": 8,
+     "id": "y8YmLSQUnSk",
+     "titulo": "CORINTHIANS DERROTA O CRUZEIRO POR 3 A 0 E SAI NA FRENTE! | MELHORES MOMENTOS SUB-17",
+     "canal": "Lances & Gols",
+     "views": 136,
+     "likes": 1,
+     "comentarios": 1,
+     "publicado": "2026-11-02T20:01:02Z",
+     "duracao_s": 483,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=y8YmLSQUnSk"
+    },
+    {
+     "id": "Hvq3dMF0AQ8",
+     "titulo": "CHOCANTE! CORINTHIANS LEVA 3 A 0 NA FINAL DO BRASILEIRÃO SUB-17?! #Shorts #Corinthians",
+     "canal": "🥇 Batalha dos Mascotes",
+     "views": 24,
+     "likes": 1,
      "comentarios": 0,
-     "publicado": "2026-11-02T17:18:39Z",
-     "duracao_s": 199,
+     "publicado": "2026-11-02T23:00:38Z",
+     "duracao_s": 61,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=22hiUZ3MSQE"
+     "url": "https://www.youtube.com/watch?v=Hvq3dMF0AQ8"
     },
     {
-     "id": "WJaqm6tOIVE",
-     "titulo": "🚨 CORINTHIANS: MEMPHIS VOLTA A TREINAR E ACORDO PODE CHEGAR A R$ 70 MILHÕES!#corinthians #timão",
-     "canal": "José lab oficial",
-     "views": 10,
-     "likes": 2,
+     "id": "gOugb-TTk6Y",
+     "titulo": "TUDO OU NADA! CRUZEIRO E CORINTHIANS DECIDEM O BRASILEIRÃO SUB-17 #shorts",
+     "canal": "WebTVBR",
+     "views": 7,
+     "likes": 1,
      "comentarios": 0,
-     "publicado": "2026-11-01T21:06:17Z",
-     "duracao_s": 159,
+     "publicado": "2026-11-03T11:02:15Z",
+     "duracao_s": 39,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=WJaqm6tOIVE"
+     "url": "https://www.youtube.com/watch?v=gOugb-TTk6Y"
     },
     {
-     "id": "vTW4yMOuRUg",
-     "titulo": "Conmebol barra Seedorf e Memphis volta ao Corinthians!",
-     "canal": "PipoFutnation",
+     "id": "bCqrpeWeT7c",
+     "titulo": "CORINTHIANS: resposta de Iris sobre reforços chama atenção e Sub-17 terá reencontro decisivo!",
+     "canal": "Notícias do Corinthians  Eternamente",
+     "views": 1,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-11-03T18:00:36Z",
+     "duracao_s": 296,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=bCqrpeWeT7c"
+    },
+    {
+     "id": "BksMmnmlmeA",
+     "titulo": "AO VIVO: CRUZEIRO X CORINTHIANS NA SAMUCA TV | FINAL DO BRASILEIRÃO SUB-17 | DIA DE JOGO",
+     "canal": "Samuca TV",
+     "views": 0,
+     "likes": 17,
+     "comentarios": 0,
+     "publicado": "2026-11-02T20:31:00Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=BksMmnmlmeA"
+    },
+    {
+     "id": "orFSDSZPkDo",
+     "titulo": "CRUZEIRO X CORINTHIANS AO VIVO | FINAL DO BRASILEIRÃO SUB-17 | QUEM SERÁ CAMPEÃO?",
+     "canal": "FutResenha",
      "views": 0,
      "likes": 0,
      "comentarios": 0,
-     "publicado": "2026-11-02T19:07:17Z",
-     "duracao_s": 21,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=vTW4yMOuRUg"
+     "publicado": "2026-11-03T18:01:50Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=orFSDSZPkDo"
     },
     {
-     "id": "3JdY1Q3jsNs",
-     "titulo": "Corinthians: Memphis treina e fica à disposição para clássico",
-     "canal": "Fiel em Dia",
+     "id": "nN0MZHpcRLE",
+     "titulo": "AO VIVO COM IMAGENS: CORINTHIANS X SÃO PAULO | PAULISTÃO SUB-17 2026 | QUARTAS DE FINAL - IDA",
+     "canal": "Corinthians TV",
      "views": 0,
-     "likes": 0,
+     "likes": 29,
      "comentarios": 0,
-     "publicado": "2026-11-02T16:35:27Z",
-     "duracao_s": 34,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=3JdY1Q3jsNs"
+     "publicado": "2026-11-02T23:11:03Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=nN0MZHpcRLE"
     }
    ],
-   "consulta": "Corinthians Memphis treina clássico",
-   "n_videos": 15,
-   "mais_de": false,
-   "views": 9980,
+   "consulta": "Corinthians Sub-17",
+   "n_videos": 14,
+   "mais_de": true,
+   "views": 51630,
    "top": [
     {
-     "titulo": "MEMPHIS JOGA CONTRA O SÃO PAULO! CAMISA 10 JÁ TREINA COM ELENCO E PODE ATUAR NO BRASILEIRÃO",
-     "canal": "ESPN Brasil",
-     "views": 2634,
-     "url": "https://www.youtube.com/watch?v=Drfp98jOKN8",
-     "publicado": "2026-11-02T16:09:13Z",
+     "titulo": "CORINTHIANS SE PREPARA PARA MAJESTOSO | BIDU VAI OPERAR | YAGO NO SUB-17",
+     "canal": "Meu Timão",
+     "views": 47389,
+     "url": "https://www.youtube.com/watch?v=qLuOT9fTFGM",
+     "publicado": "2026-11-02T23:16:10Z",
      "do_canal": false
     },
     {
-     "titulo": "Memphis Depay voltou a treinar e pode ser a grande novidade para o clássico 🔥 #corinthians",
-     "canal": "Rota do Torcedor",
-     "views": 1255,
-     "url": "https://www.youtube.com/watch?v=5YiyJq9KZkI",
-     "publicado": "2026-11-02T14:30:43Z",
+     "titulo": "TEM QUE SUBIR ESSES JOGADORES PRO PROFISSIONAL #corinthians #loucosporfutebol #futebol",
+     "canal": "Corinthians FC ",
+     "views": 1184,
+     "url": "https://www.youtube.com/watch?v=12jAZ4Zf0Ks",
+     "publicado": "2026-11-01T20:41:26Z",
      "do_canal": false
     },
     {
-     "titulo": "VAI JOGAR CONTRA O SÃO PAULO? #shorts",
-     "canal": "ESPN Brasil",
-     "views": 1248,
-     "url": "https://www.youtube.com/watch?v=xZlQIet7574",
-     "publicado": "2026-11-02T16:31:57Z",
+     "titulo": "TÁ CHEGANDO A HORA DA DECISÃO #corinthians #vaicorinthians #timão #sccp #coringão",
+     "canal": "InfoTimão - Notícias e Vídeos do Corinthians ",
+     "views": 976,
+     "url": "https://www.youtube.com/watch?v=y6WmqTSoqXI",
+     "publicado": "2026-11-03T00:43:35Z",
      "do_canal": false
     }
    ]
   }
  },
- "corinthians seedorf licenca nega": {
-  "dia": "2026-11-02",
+ "corinthians seedorf licenca validacao": {
+  "dia": "2026-11-03",
   "resultado": {
    "amostra": [
-    {
-     "id": "FLPKNzRexUk",
-     "titulo": "VASCO RECLAMA DE PÊNALTI CONTRA O PALMEIRAS! CORINTHIANS: CONMEBOL NEGA LICENÇA DE SEEDORF; E MAIS",
-     "canal": "UOL Esporte",
-     "views": 36506,
-     "likes": 760,
-     "comentarios": 13,
-     "publicado": "2026-11-02T17:34:31Z",
-     "duracao_s": 3830,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=FLPKNzRexUk"
-    },
     {
      "id": "ScDQ1onq_eQ",
      "titulo": "CONMEBOL NEGA LICENÇA DE SEEDORF E TÉCNICO PODE SER BAIXA NO CORINTHIANS | JOANNA DE ASSIS",
      "canal": "UOL Esporte",
-     "views": 19206,
-     "likes": 392,
-     "comentarios": 68,
+     "views": 84294,
+     "likes": 573,
+     "comentarios": 104,
      "publicado": "2026-11-02T17:15:18Z",
      "duracao_s": 991,
      "live": false,
      "url": "https://www.youtube.com/watch?v=ScDQ1onq_eQ"
     },
     {
+     "id": "XtX7JKFWFiw",
+     "titulo": "PVC: PROBLEMA NA LICENÇA DE SEEDORF DERRUBA MITOS SOBRE TÉCNICOS BRASILEIROS NA EUROPA",
+     "canal": "UOL Esporte",
+     "views": 60371,
+     "likes": 557,
+     "comentarios": 46,
+     "publicado": "2026-11-02T17:34:41Z",
+     "duracao_s": 1186,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=XtX7JKFWFiw"
+    },
+    {
      "id": "wD9qkTukaFU",
      "titulo": "SEEDORF BARRADO NO CORINTHIANS: CONMEBOL NEGA LICENÇA E TÉCNICO VIRA DESFALQUE IMEDIATO",
      "canal": "UOL Esporte",
-     "views": 3022,
-     "likes": 142,
-     "comentarios": 22,
+     "views": 13332,
+     "likes": 254,
+     "comentarios": 40,
      "publicado": "2026-11-02T18:07:42Z",
      "duracao_s": 174,
      "live": false,
      "url": "https://www.youtube.com/watch?v=wD9qkTukaFU"
     },
     {
-     "id": "lv4s8GzI8jY",
-     "titulo": "🚨AGORA🚨| R$ 50 MILHÕES PRA ZERAR A DÍVIDA NO TIMÃO?🚨| CONMEBOL NEGA LICENÇA DE SEEDORF!",
-     "canal": "Meu Corinthians News",
-     "views": 266,
-     "likes": null,
-     "comentarios": 1,
-     "publicado": "2026-11-02T19:00:37Z",
-     "duracao_s": 1149,
+     "id": "0g9YWrjVums",
+     "titulo": "QUE VÁRZEA! \"Cara, é ÓBVIO que A FALHA É DO CORINTHIANS! O SEEDORF...\" LICENÇA NEGADA pela CONMEBOL!",
+     "canal": "Jovem Pan Esportes",
+     "views": 13166,
+     "likes": 877,
+     "comentarios": 45,
+     "publicado": "2026-11-03T17:00:01Z",
+     "duracao_s": 1515,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=lv4s8GzI8jY"
+     "url": "https://www.youtube.com/watch?v=0g9YWrjVums"
     },
     {
      "id": "ru53cFYz3fw",
      "titulo": "GARRO HUMILHA MEMPHIS| CONMEBOL RECUSA LICENÇA de SEEDORF| BIDU REVELA CIRURGIA",
      "canal": "Capitão Corintiano",
-     "views": 260,
-     "likes": 62,
-     "comentarios": 4,
+     "views": 5048,
+     "likes": 201,
+     "comentarios": 11,
      "publicado": "2026-11-02T20:03:23Z",
      "duracao_s": 864,
      "live": false,
      "url": "https://www.youtube.com/watch?v=ru53cFYz3fw"
     },
     {
+     "id": "9TshZQazxnc",
+     "titulo": "PVC: PROBLEMA NA LICENÇA DE SEEDORF DERRUBA MITOS SOBRE TÉCNICOS BRASILEIROS NA EUROPA",
+     "canal": "UOL Esporte",
+     "views": 4111,
+     "likes": 61,
+     "comentarios": 0,
+     "publicado": "2026-11-02T18:42:02Z",
+     "duracao_s": 89,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=9TshZQazxnc"
+    },
+    {
+     "id": "h0xTAajKnvs",
+     "titulo": "🚨 BASTIDORES QUENTES! CONMEBOL NEGA LICENÇA DE SEEDORF, JANIKIAN NA DISPUTA? MEMPHIS PRONTO! 📱",
+     "canal": "Cryba",
+     "views": 2689,
+     "likes": 8,
+     "comentarios": 0,
+     "publicado": "2026-11-03T12:59:03Z",
+     "duracao_s": 4252,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=h0xTAajKnvs"
+    },
+    {
+     "id": "6U88h5gGrKk",
+     "titulo": "A CONMEBOL BARROU SEEDORF! #corinthians #futebol #polemica🚨🔥",
+     "canal": "Momentos do Futebol",
+     "views": 2097,
+     "likes": 38,
+     "comentarios": 0,
+     "publicado": "2026-11-02T22:02:02Z",
+     "duracao_s": 31,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=6U88h5gGrKk"
+    },
+    {
+     "id": "WgNXR_8G9Pw",
+     "titulo": "🚨 CONMEBOL NEGA LICENÇA DE SEEDORF! CORINTHIANS TEM PROBLEMA! #shorts",
+     "canal": "meortoo",
+     "views": 1360,
+     "likes": 21,
+     "comentarios": 0,
+     "publicado": "2026-11-02T21:00:17Z",
+     "duracao_s": 57,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=WgNXR_8G9Pw"
+    },
+    {
+     "id": "ePssG3lnZjQ",
+     "titulo": "Seedorf mal chegou e já pode ter que sair? 😳  #futebol #CORINTHIANS #Shorts",
+     "canal": "Futnow",
+     "views": 1257,
+     "likes": 28,
+     "comentarios": 1,
+     "publicado": "2026-11-02T21:44:07Z",
+     "duracao_s": 59,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=ePssG3lnZjQ"
+    },
+    {
+     "id": "wVafiv8SpSg",
+     "titulo": "BOMBA! SEEDORF CAIU!? #Corinthians #VaiCorinthians #Futebol",
+     "canal": "Sofanáticos FC",
+     "views": 1179,
+     "likes": 24,
+     "comentarios": 0,
+     "publicado": "2026-11-03T00:01:46Z",
+     "duracao_s": 81,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=wVafiv8SpSg"
+    },
+    {
+     "id": "8rrRR9wn6RQ",
+     "titulo": "CORINTHIANS SEM TÉCNICO? CONMEBOL NEGA LICENÇA DE SEEDORF",
+     "canal": "Minuto 90 BR",
+     "views": 1130,
+     "likes": 7,
+     "comentarios": 0,
+     "publicado": "2026-11-02T20:00:22Z",
+     "duracao_s": 23,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=8rrRR9wn6RQ"
+    },
+    {
+     "id": "iDgNOMpMWgE",
+     "titulo": "🚨 SEEDORF FORA DO CLÁSSICO? ",
+     "canal": "TV Alambrado Alvinegro",
+     "views": 1076,
+     "likes": 28,
+     "comentarios": 3,
+     "publicado": "2026-11-02T22:12:31Z",
+     "duracao_s": 235,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=iDgNOMpMWgE"
+    },
+    {
+     "id": "zmiWkvWNHt4",
+     "titulo": "Conmebol nega licença de Seedorf e Corinthians recorre à CBF",
+     "canal": "Rodada do Fut",
+     "views": 1073,
+     "likes": 14,
+     "comentarios": 1,
+     "publicado": "2026-11-02T21:20:41Z",
+     "duracao_s": 42,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=zmiWkvWNHt4"
+    },
+    {
+     "id": "D2G1t_4zc7o",
+     "titulo": "CORINTHIANS PODE FICAR SEM TÉCNICO? Entenda o caso Seedorf! #Shorts",
+     "canal": "Faz Sentido?",
+     "views": 850,
+     "likes": 32,
+     "comentarios": 0,
+     "publicado": "2026-11-03T15:00:02Z",
+     "duracao_s": 64,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=D2G1t_4zc7o"
+    },
+    {
+     "id": "2oWF7utk2hs",
+     "titulo": "🚨 BOMBA NO TIMÃO! CONMEBOL BARRA SEEDORF E CORINTHIANS RECORRE À CBF! #Shorts",
+     "canal": "Campo Alvinegro",
+     "views": 652,
+     "likes": 32,
+     "comentarios": 3,
+     "publicado": "2026-11-03T01:35:34Z",
+     "duracao_s": 124,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=2oWF7utk2hs"
+    },
+    {
+     "id": "7W5b2XvU5Y0",
+     "titulo": "Conmebol nega a licença do Seedorf, técnico do Corinthians #Shorts",
+     "canal": "Futebol Sem Limites",
+     "views": 606,
+     "likes": 13,
+     "comentarios": 0,
+     "publicado": "2026-11-03T00:29:48Z",
+     "duracao_s": 32,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=7W5b2XvU5Y0"
+    },
+    {
      "id": "vTW4yMOuRUg",
      "titulo": "Conmebol barra Seedorf e Memphis volta ao Corinthians!",
      "canal": "PipoFutnation",
-     "views": 1,
-     "likes": 0,
+     "views": 587,
+     "likes": 6,
      "comentarios": 0,
      "publicado": "2026-11-02T19:07:17Z",
      "duracao_s": 21,
@@ -304,43 +870,115 @@
      "url": "https://www.youtube.com/watch?v=vTW4yMOuRUg"
     },
     {
-     "id": "8rrRR9wn6RQ",
-     "titulo": "CORINTHIANS SEM TÉCNICO? CONMEBOL NEGA LICENÇA DE SEEDORF",
-     "canal": "Minuto 90 BR",
-     "views": 1,
-     "likes": 0,
+     "id": "dovbxiwpyCE",
+     "titulo": "🚨😱🔥 um problema inesperado atingiu o timão! 👀💥",
+     "canal": "futebolem5s",
+     "views": 571,
+     "likes": 1,
      "comentarios": 0,
-     "publicado": "2026-11-02T20:00:22Z",
-     "duracao_s": 23,
+     "publicado": "2026-11-03T14:30:20Z",
+     "duracao_s": 6,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=8rrRR9wn6RQ"
+     "url": "https://www.youtube.com/watch?v=dovbxiwpyCE"
+    },
+    {
+     "id": "ggWe8WOI3ww",
+     "titulo": "Corinthians envia novos documentos para validar licença de Seedorf",
+     "canal": "BandNews FM Esportes",
+     "views": 365,
+     "likes": 7,
+     "comentarios": 0,
+     "publicado": "2026-11-03T14:53:54Z",
+     "duracao_s": 56,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=ggWe8WOI3ww"
+    },
+    {
+     "id": "RUPg3oMXRcs",
+     "titulo": "🚨 BASTIDORES QUENTES! CONMEBOL NEGA LICENÇA DE SEEDORF, JANIKIAN NA DISPUTA? MEMPHIS PRONTO!",
+     "canal": "Cryba",
+     "views": 127,
+     "likes": 1,
+     "comentarios": 0,
+     "publicado": "2026-11-03T13:27:49Z",
+     "duracao_s": 4253,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=RUPg3oMXRcs"
+    },
+    {
+     "id": "50xxdQmC0UA",
+     "titulo": "OLHA A VERDADE SOBRE A CONMEBOL NEGAR O REGISTRO DO SEEDORF COMO TREINADOR DO CORINTHIANS",
+     "canal": "FUTFLIX",
+     "views": 49,
+     "likes": 16,
+     "comentarios": 0,
+     "publicado": "2026-11-03T17:45:15Z",
+     "duracao_s": 857,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=50xxdQmC0UA"
+    },
+    {
+     "id": "7FFPcKQ9BME",
+     "titulo": "Conmebol nega licença de Seedorf: e agora, Timão?",
+     "canal": "Rafael Rodrigues",
+     "views": 11,
+     "likes": 1,
+     "comentarios": 0,
+     "publicado": "2026-11-03T00:16:58Z",
+     "duracao_s": 374,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=7FFPcKQ9BME"
+    },
+    {
+     "id": "JMQHbMZWxw8",
+     "titulo": "Conmebol barra licença de Seedorf no Corinthians #Shorts",
+     "canal": "Mid-IA Esportes",
+     "views": 7,
+     "likes": 1,
+     "comentarios": 1,
+     "publicado": "2026-11-02T22:44:36Z",
+     "duracao_s": 81,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=JMQHbMZWxw8"
+    },
+    {
+     "id": "t32YCKVe7wY",
+     "titulo": "Bomba! Conmebol BARRA Seedorf no Corinthians e situação pega fogo!",
+     "canal": "BR e Mundo",
+     "views": 0,
+     "likes": 0,
+     "comentarios": 1,
+     "publicado": "2026-11-03T13:07:49Z",
+     "duracao_s": 61,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=t32YCKVe7wY"
     }
    ],
-   "consulta": "Corinthians Seedorf licença nega",
-   "n_videos": 7,
-   "mais_de": false,
-   "views": 59262,
+   "consulta": "Corinthians Seedorf licença validação",
+   "n_videos": 25,
+   "mais_de": true,
+   "views": 196008,
    "top": [
-    {
-     "titulo": "VASCO RECLAMA DE PÊNALTI CONTRA O PALMEIRAS! CORINTHIANS: CONMEBOL NEGA LICENÇA DE SEEDORF; E MAIS",
-     "canal": "UOL Esporte",
-     "views": 36506,
-     "url": "https://www.youtube.com/watch?v=FLPKNzRexUk",
-     "publicado": "2026-11-02T17:34:31Z",
-     "do_canal": false
-    },
     {
      "titulo": "CONMEBOL NEGA LICENÇA DE SEEDORF E TÉCNICO PODE SER BAIXA NO CORINTHIANS | JOANNA DE ASSIS",
      "canal": "UOL Esporte",
-     "views": 19206,
+     "views": 84294,
      "url": "https://www.youtube.com/watch?v=ScDQ1onq_eQ",
      "publicado": "2026-11-02T17:15:18Z",
      "do_canal": false
     },
     {
+     "titulo": "PVC: PROBLEMA NA LICENÇA DE SEEDORF DERRUBA MITOS SOBRE TÉCNICOS BRASILEIROS NA EUROPA",
+     "canal": "UOL Esporte",
+     "views": 60371,
+     "url": "https://www.youtube.com/watch?v=XtX7JKFWFiw",
+     "publicado": "2026-11-02T17:34:41Z",
+     "do_canal": false
+    },
+    {
      "titulo": "SEEDORF BARRADO NO CORINTHIANS: CONMEBOL NEGA LICENÇA E TÉCNICO VIRA DESFALQUE IMEDIATO",
      "canal": "UOL Esporte",
-     "views": 3022,
+     "views": 13332,
      "url": "https://www.youtube.com/watch?v=wD9qkTukaFU",
      "publicado": "2026-11-02T18:07:42Z",
      "do_canal": false
@@ -348,941 +986,599 @@
    ]
   }
  },
- "flamengo renato antes enfrentar": {
-  "dia": "2026-11-02",
+ "corinthians vila classico belmiro": {
+  "dia": "2026-11-03",
   "resultado": {
    "amostra": [
     {
-     "id": "LzuU8JnNkAc",
-     "titulo": "RENATO GAÚCHO MANDA RECADO ANTES DE ENFRENTAR O FLAMENGO! “PODEROSO E DESCANSADO!”",
-     "canal": "Bastidores da Bola",
-     "views": 6188,
-     "likes": 227,
-     "comentarios": 13,
-     "publicado": "2026-11-02T08:00:36Z",
-     "duracao_s": 55,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=LzuU8JnNkAc"
-    },
-    {
-     "id": "B3bjFxvN7S0",
-     "titulo": "RENATO GAÚCHO E CAROL COM MEDO DO FLAMENGO! \"AGORA VAMOS ENFRENTAR O PODEROSO FLAMENGO...\"",
-     "canal": "Almeida Fla",
-     "views": 5516,
-     "likes": 224,
-     "comentarios": 6,
-     "publicado": "2026-11-02T15:29:47Z",
-     "duracao_s": 1438,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=B3bjFxvN7S0"
-    },
-    {
-     "id": "_IW-07h1TjU",
-     "titulo": "RENATO GAÚCHO JÁ ESTÁ COM MEDO DE ENFRENTAR O FLAMENGO! #esporte  #flamengo  #futebol",
-     "canal": "Central da Nação",
-     "views": 3569,
-     "likes": 232,
-     "comentarios": 2,
-     "publicado": "2026-11-02T17:40:51Z",
-     "duracao_s": 62,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=_IW-07h1TjU"
-    }
-   ],
-   "consulta": "Flamengo Renato antes enfrentar",
-   "n_videos": 3,
-   "mais_de": false,
-   "views": 15273,
-   "top": [
-    {
-     "titulo": "RENATO GAÚCHO MANDA RECADO ANTES DE ENFRENTAR O FLAMENGO! “PODEROSO E DESCANSADO!”",
-     "canal": "Bastidores da Bola",
-     "views": 6188,
-     "url": "https://www.youtube.com/watch?v=LzuU8JnNkAc",
-     "publicado": "2026-11-02T08:00:36Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "RENATO GAÚCHO E CAROL COM MEDO DO FLAMENGO! \"AGORA VAMOS ENFRENTAR O PODEROSO FLAMENGO...\"",
-     "canal": "Almeida Fla",
-     "views": 5516,
-     "url": "https://www.youtube.com/watch?v=B3bjFxvN7S0",
-     "publicado": "2026-11-02T15:29:47Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "RENATO GAÚCHO JÁ ESTÁ COM MEDO DE ENFRENTAR O FLAMENGO! #esporte  #flamengo  #futebol",
-     "canal": "Central da Nação",
-     "views": 3569,
-     "url": "https://www.youtube.com/watch?v=_IW-07h1TjU",
-     "publicado": "2026-11-02T17:40:51Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "corinthians bidu cirurgia revela": {
-  "dia": "2026-11-02",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "AXwv8IJ7c8Q",
-     "titulo": "MATHEUS BIDU REVELA QUE PRECISARÁ PASSAR POR UMA CIRURGIA APÓS O FIM DA TEMPORADA DO CORINTHIANS",
-     "canal": "Meu Timão",
-     "views": 5496,
-     "likes": 234,
-     "comentarios": 4,
-     "publicado": "2026-11-02T16:00:00Z",
-     "duracao_s": 24,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=AXwv8IJ7c8Q"
-    },
-    {
-     "id": "ru53cFYz3fw",
-     "titulo": "GARRO HUMILHA MEMPHIS| CONMEBOL RECUSA LICENÇA de SEEDORF| BIDU REVELA CIRURGIA",
-     "canal": "Capitão Corintiano",
-     "views": 260,
-     "likes": 62,
-     "comentarios": 4,
-     "publicado": "2026-11-02T20:03:23Z",
-     "duracao_s": 864,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ru53cFYz3fw"
-    },
-    {
-     "id": "s92Ue7ydjBg",
-     "titulo": "Corinthians Tem Novo Problema! Matheus Bidu Revela Hérnia e Adia Cirurgia",
-     "canal": "Timão Atual",
-     "views": 4,
-     "likes": 2,
-     "comentarios": 0,
-     "publicado": "2026-11-02T17:55:32Z",
-     "duracao_s": 275,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=s92Ue7ydjBg"
-    },
-    {
-     "id": "KmTUne1ssFo",
-     "titulo": "Mateus Bidu revela hérnia e adia cirurgia para ajudar o Corinthians",
-     "canal": "Bola em Contexto",
-     "views": 1,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-02T20:08:51Z",
-     "duracao_s": 125,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=KmTUne1ssFo"
-    }
-   ],
-   "consulta": "Corinthians Bidu cirurgia revela",
-   "n_videos": 4,
-   "mais_de": false,
-   "views": 5761,
-   "top": [
-    {
-     "titulo": "MATHEUS BIDU REVELA QUE PRECISARÁ PASSAR POR UMA CIRURGIA APÓS O FIM DA TEMPORADA DO CORINTHIANS",
-     "canal": "Meu Timão",
-     "views": 5496,
-     "url": "https://www.youtube.com/watch?v=AXwv8IJ7c8Q",
-     "publicado": "2026-11-02T16:00:00Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "GARRO HUMILHA MEMPHIS| CONMEBOL RECUSA LICENÇA de SEEDORF| BIDU REVELA CIRURGIA",
-     "canal": "Capitão Corintiano",
-     "views": 260,
-     "url": "https://www.youtube.com/watch?v=ru53cFYz3fw",
-     "publicado": "2026-11-02T20:03:23Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "Corinthians Tem Novo Problema! Matheus Bidu Revela Hérnia e Adia Cirurgia",
-     "canal": "Timão Atual",
-     "views": 4,
-     "url": "https://www.youtube.com/watch?v=s92Ue7ydjBg",
-     "publicado": "2026-11-02T17:55:32Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "palmeiras semifinal polemica": {
-  "dia": "2026-11-02",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "0k7QJL-T82Q",
-     "titulo": "ARBITRAGEM ESCANDALOSA??? \"ISSO É PÊNALTI! O VASCO FOI PREJUDICADO contra o PALMEIRAS! O DARONCO...\"",
-     "canal": "Jovem Pan Esportes",
-     "views": 374116,
-     "likes": 5027,
-     "comentarios": 1598,
-     "publicado": "2026-11-01T21:37:59Z",
-     "duracao_s": 1244,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=0k7QJL-T82Q"
-    },
-    {
-     "id": "Y3sW1vIF_5s",
-     "titulo": "BASTIDORES DE PALMEIRAS X VASCO E POLÊMICAS, BOM MOMENTO DO GRÊMIO E TUDO DE SÃO PAULO X CORINTHIANS",
-     "canal": "ESPN Brasil",
-     "views": 71406,
-     "likes": 779,
-     "comentarios": 3,
-     "publicado": "2026-11-02T16:09:52Z",
-     "duracao_s": 6226,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=Y3sW1vIF_5s"
-    },
-    {
-     "id": "zSzXOQf-IX0",
-     "titulo": "VASCO É PREJUDICADO! DERROTA POLÊMICA PARA O PALMEIRAS! #vasco #futebol #CopaDoBrasil",
-     "canal": "Radialista Vascaino",
-     "views": 35408,
-     "likes": 1752,
-     "comentarios": 141,
-     "publicado": "2026-11-01T22:27:51Z",
-     "duracao_s": 165,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=zSzXOQf-IX0"
-    },
-    {
-     "id": "a0HfCZ7v-xs",
-     "titulo": "FOI PÊNALTI PARA O VASCO? 🚨 DARONCO IGNORA LANCE POLÊMICO CONTRA O PALMEIRAS!",
-     "canal": "Bastidores da Bola",
-     "views": 33594,
-     "likes": 743,
-     "comentarios": 124,
-     "publicado": "2026-11-02T03:59:02Z",
-     "duracao_s": 27,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=a0HfCZ7v-xs"
-    },
-    {
-     "id": "sT3_7hwYIXc",
-     "titulo": "ABEL FERREIRA EXPLODIU! 😱 “SÓ ME PREJUDIQUEI AO DEFENDER O PALMEIRAS” 🔥 #palmeiras #futebol",
-     "canal": "FutFatos 360",
-     "views": 27147,
-     "likes": 260,
-     "comentarios": 6,
-     "publicado": "2026-11-02T00:42:21Z",
-     "duracao_s": 16,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=sT3_7hwYIXc"
-    },
-    {
-     "id": "fMYd5Tiycak",
-     "titulo": "POLÊMICA! Pênalti NÃO MARCADO para o Vasco? Palmeiras 1x0 | Copa do Brasil 2026 #shorts",
-     "canal": "Luiz Aguiar ⚽🎶",
-     "views": 25817,
-     "likes": 723,
-     "comentarios": 44,
-     "publicado": "2026-11-01T21:10:18Z",
-     "duracao_s": 8,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=fMYd5Tiycak"
-    },
-    {
-     "id": "-waQLsCNx_4",
-     "titulo": "ANALISAMOS TODAS AS POLÊMICAS DE ARBITRAGEM DE PALMEIRAS 1X0 VASCO NA SEMI DA COPA DO BRASIL",
-     "canal": "Cortes da TNT Sports",
-     "views": 17656,
-     "likes": 1026,
-     "comentarios": 58,
-     "publicado": "2026-11-02T16:30:04Z",
-     "duracao_s": 1438,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=-waQLsCNx_4"
-    },
-    {
-     "id": "cCJMNn11wrE",
-     "titulo": "🖤POLÊMICA! CICINHO E CHICO GARCIA DEBATEM PÊNALTI NÃO MARCADO PARA O VASCO CONTRA O PALMEIRAS!",
-     "canal": "VASCÃO REACT PLUS",
-     "views": 15701,
-     "likes": 382,
-     "comentarios": 36,
-     "publicado": "2026-11-02T15:00:01Z",
-     "duracao_s": 658,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=cCJMNn11wrE"
-    },
-    {
-     "id": "ySnDTFqXuAc",
-     "titulo": "SURPRESA NO TIME! PEDRO EMANUEL TOMA DECISÃO POLÊMICA E MEXE NO VASCO CONTRA O PALMEIRAS...",
-     "canal": "Nico Vasco",
-     "views": 11882,
-     "likes": 498,
-     "comentarios": 57,
-     "publicado": "2026-11-01T10:00:27Z",
-     "duracao_s": 750,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ySnDTFqXuAc"
-    },
-    {
-     "id": "TGu5H5VTndI",
-     "titulo": "🖤NETO DETONA ARBITRAGEM DE PALMEIRAS 1 X 0 VASCO! \"ASSALTARAM O VASCO!\" POLÊMICA NA COPA DO BRASIL",
-     "canal": "LIGADOS NO VASCÃO",
-     "views": 11541,
-     "likes": 447,
-     "comentarios": 26,
-     "publicado": "2026-11-02T16:41:43Z",
-     "duracao_s": 1153,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=TGu5H5VTndI"
-    },
-    {
-     "id": "ERlfBJ0cmR8",
-     "titulo": "REAÇÃO DO PILHADO COM A POLÊMICA VITÓRIA DO PALMEIRAS CONTRA O VASCO #palmeiras",
-     "canal": "Bola agora",
-     "views": 9221,
-     "likes": 357,
-     "comentarios": 41,
-     "publicado": "2026-11-02T15:14:17Z",
-     "duracao_s": 28,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ERlfBJ0cmR8"
-    },
-    {
-     "id": "F5Xe9hqGV38",
-     "titulo": "​REAÇÃO DA IMPRENSA COM A POLÊMICA VITÓRIA DO PALMEIRAS CONTRA O VASCO #palmeiras ",
-     "canal": "Bola agora",
-     "views": 6640,
-     "likes": 58,
-     "comentarios": 3,
-     "publicado": "2026-11-02T03:56:09Z",
-     "duracao_s": 678,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=F5Xe9hqGV38"
-    },
-    {
-     "id": "86mMCrRZhec",
-     "titulo": "🚨 “ARBITRAGEM VERGONHOSA!” VASCO É ALVO DE POLÊMICA, E LANCE CONTRA O PALMEIRAS GERA REVOLTA! 😱",
-     "canal": "RED FUT",
-     "views": 3592,
-     "likes": 75,
-     "comentarios": 15,
-     "publicado": "2026-11-02T03:29:10Z",
-     "duracao_s": 559,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=86mMCrRZhec"
-    },
-    {
-     "id": "xrrr8xTZjzg",
-     "titulo": "Abel é POLÊMICO sobre o futebol brasileiro! “Quando deixar de ser político, as coisas vão..\" #shorts",
-     "canal": "TMC Esporte",
-     "views": 2743,
-     "likes": 66,
-     "comentarios": 10,
-     "publicado": "2026-11-01T23:22:25Z",
-     "duracao_s": 62,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=xrrr8xTZjzg"
-    },
-    {
-     "id": "kx2p9Ep-fUA",
-     "titulo": "ARIAS DEFENDE DARONCO APÓS POLÊMICA EM PALMEIRAS X VASCO! TORCIDA VAI CONCORDAR?",
-     "canal": "Bastidores da Bola",
-     "views": 1803,
-     "likes": 45,
-     "comentarios": 6,
-     "publicado": "2026-11-02T06:00:13Z",
-     "duracao_s": 56,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=kx2p9Ep-fUA"
-    },
-    {
-     "id": "JjjeDO2-sFM",
-     "titulo": "PALMEIRAS VENCE O VASCO, MAS POLÊMICA COM DARONCO REVOLTA TORCIDA! 😱🟥",
-     "canal": "Além dos 90min",
-     "views": 1510,
-     "likes": 38,
-     "comentarios": 3,
-     "publicado": "2026-11-01T22:53:38Z",
+     "id": "PReCqF0PS0Q",
+     "titulo": "DEFINIDA A ARBITRAGEM PARA O MAJESTOSO NA VILA BELMIRO",
+     "canal": "IDENTIDADE CORINTHIANA",
+     "views": 8531,
+     "likes": 322,
+     "comentarios": 19,
+     "publicado": "2026-11-02T16:54:02Z",
      "duracao_s": 66,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=JjjeDO2-sFM"
+     "url": "https://www.youtube.com/watch?v=PReCqF0PS0Q"
     },
     {
-     "id": "YTmDQmKyojw",
-     "titulo": "Penalti ou não? Polémica na Semifinal da Copa do Brasil Palmeiras x Vasco . #copadobrasil #penalti",
-     "canal": "Fernando Barcellos",
-     "views": 1471,
-     "likes": 21,
+     "id": "1v5XZMTpV1g",
+     "titulo": "MAJESTOSO NA VILA BELMIRO! QUEM JOGA NA LATERAL? 🦅🔥",
+     "canal": "Conexão Corinthians",
+     "views": 1254,
+     "likes": 18,
      "comentarios": 0,
-     "publicado": "2026-11-01T21:20:30Z",
-     "duracao_s": 36,
+     "publicado": "2026-11-02T15:17:38Z",
+     "duracao_s": 22,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=YTmDQmKyojw"
+     "url": "https://www.youtube.com/watch?v=1v5XZMTpV1g"
     },
     {
-     "id": "04EcE-TiiFo",
-     "titulo": "VASCO FOI GARFADO CONTRA O PALMEIRAS? SEMIFINAL Copa do Brasil 2026",
-     "canal": "Seu Estilo Futebol Clube",
-     "views": 1423,
-     "likes": 27,
-     "comentarios": 3,
-     "publicado": "2026-11-01T23:03:21Z",
-     "duracao_s": 64,
+     "id": "gWTry1w9d7Q",
+     "titulo": "EU ACREDITEI QUE ERA NO MORUMBIS! Mas o Majestoso é na Vila Belmiro e o baralho não perdoou! 😱⚓",
+     "canal": "Pombagira Cigana da Estrada | Baralho Cigano",
+     "views": 220,
+     "likes": 7,
+     "comentarios": 0,
+     "publicado": "2026-11-01T20:45:14Z",
+     "duracao_s": 173,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=04EcE-TiiFo"
+     "url": "https://www.youtube.com/watch?v=gWTry1w9d7Q"
     },
     {
-     "id": "HqPul3r2Km8",
-     "titulo": "Palmeiras vence Vasco com polêmica de pênalti",
-     "canal": "Ozzy, O Âncora",
-     "views": 1380,
-     "likes": 23,
+     "id": "CgJNqTQs7Pg",
+     "titulo": "MAJESTOSO QUARTA 21h30 NA VILA! Provável São Paulo com 2 VOLTAS e DESFALQUE PESADO",
+     "canal": "TRICOLOR NA VEIA",
+     "views": 123,
+     "likes": 1,
      "comentarios": 1,
-     "publicado": "2026-11-01T21:56:04Z",
-     "duracao_s": 23,
+     "publicado": "2026-11-03T07:30:34Z",
+     "duracao_s": 55,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=HqPul3r2Km8"
+     "url": "https://www.youtube.com/watch?v=CgJNqTQs7Pg"
     },
     {
-     "id": "8rlYPGl7tRs",
-     "titulo": "🔥 PALMEIRAS VENCE O VASCO! GOL DE MAURÍCIO E POLÊMICA NA SEMIFINAL DA COPA DO BRASIL! ⚽",
-     "canal": "caneta e gol",
-     "views": 1285,
-     "likes": 21,
-     "comentarios": 0,
-     "publicado": "2026-11-01T22:06:05Z",
-     "duracao_s": 19,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=8rlYPGl7tRs"
-    },
-    {
-     "id": "R5Jk_gtITLs",
-     "titulo": "🚨 PÊNALTI CLARO PARA O VASCO NÃO MARCADO?! PALMEIRAS BENEFICIADO?! POLÊMICA NA COPA DO BRASIL!🚨",
-     "canal": "Canal Guol",
-     "views": 1098,
-     "likes": 22,
-     "comentarios": 4,
-     "publicado": "2026-11-01T21:31:58Z",
-     "duracao_s": 25,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=R5Jk_gtITLs"
-    },
-    {
-     "id": "hCACWpSBXus",
-     "titulo": "Copa do Brasil Verdão vence e Vasco protesta por polêmica! #palmeiras #vasco",
-     "canal": "Canal Girofut",
-     "views": 922,
-     "likes": 25,
-     "comentarios": 0,
-     "publicado": "2026-11-01T23:45:31Z",
-     "duracao_s": 32,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=hCACWpSBXus"
-    },
-    {
-     "id": "BaUVI4ysOvg",
-     "titulo": "Palmeiras Vence o Vasco pela Semifinal da CDB #palmeiras #vascodagama #polemica",
-     "canal": "TOQUE RÁPIDO ",
-     "views": 847,
-     "likes": 17,
-     "comentarios": 0,
-     "publicado": "2026-11-02T02:01:40Z",
-     "duracao_s": 51,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=BaUVI4ysOvg"
-    },
-    {
-     "id": "8Q6FhSY-1to",
-     "titulo": "Palmeiras 1–0 Vasco: Arbitragem Polémica e Decisão em São Januário",
-     "canal": "Jornal Vitória Vascão ",
-     "views": 309,
-     "likes": 9,
-     "comentarios": 2,
-     "publicado": "2026-11-01T23:30:36Z",
-     "duracao_s": 647,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=8Q6FhSY-1to"
-    }
-   ],
-   "consulta": "Palmeiras semifinal polêmica",
-   "n_videos": 24,
-   "mais_de": true,
-   "views": 658512,
-   "top": [
-    {
-     "titulo": "ARBITRAGEM ESCANDALOSA??? \"ISSO É PÊNALTI! O VASCO FOI PREJUDICADO contra o PALMEIRAS! O DARONCO...\"",
-     "canal": "Jovem Pan Esportes",
-     "views": 374116,
-     "url": "https://www.youtube.com/watch?v=0k7QJL-T82Q",
-     "publicado": "2026-11-01T21:37:59Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "BASTIDORES DE PALMEIRAS X VASCO E POLÊMICAS, BOM MOMENTO DO GRÊMIO E TUDO DE SÃO PAULO X CORINTHIANS",
-     "canal": "ESPN Brasil",
-     "views": 71406,
-     "url": "https://www.youtube.com/watch?v=Y3sW1vIF_5s",
-     "publicado": "2026-11-02T16:09:52Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "VASCO É PREJUDICADO! DERROTA POLÊMICA PARA O PALMEIRAS! #vasco #futebol #CopaDoBrasil",
-     "canal": "Radialista Vascaino",
-     "views": 35408,
-     "url": "https://www.youtube.com/watch?v=zSzXOQf-IX0",
-     "publicado": "2026-11-01T22:27:51Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "flamengo weverton suspensao forcada": {
-  "dia": "2026-11-02",
-  "resultado": {
-   "amostra": [],
-   "consulta": "Flamengo Weverton suspensão forçada",
-   "n_videos": 0,
-   "mais_de": false,
-   "views": 0,
-   "top": []
-  }
- },
- "flamengo reservas titulares": {
-  "dia": "2026-11-02",
-  "resultado": {
-   "amostra": [],
-   "consulta": "Flamengo reservas Titulares",
-   "n_videos": 0,
-   "mais_de": false,
-   "views": 0,
-   "top": []
-  }
- },
- "corinthians memphis depay atualizacao": {
-  "dia": "2026-11-02",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "IeH9XHNopUU",
-     "titulo": "GARRO PERDEU A CAMISA 10… E GANHOU MAIS DE R$ 1 MILHÃO DE AUMENTO, DIZ SOUZA NO PODPAH!",
-     "canal": "FutCutz",
-     "views": 97697,
-     "likes": 3473,
-     "comentarios": 24,
-     "publicado": "2026-11-01T17:54:55Z",
-     "duracao_s": 38,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=IeH9XHNopUU"
-    },
-    {
-     "id": "JNDID7HsxdM",
-     "titulo": "Yuri Alberto VS Memphis Depay 😱",
-     "canal": "Xaolin Corridas ",
-     "views": 41176,
-     "likes": 484,
-     "comentarios": 6,
-     "publicado": "2026-11-01T16:09:56Z",
-     "duracao_s": 51,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=JNDID7HsxdM"
-    },
-    {
-     "id": "c4Gz2jTqJsQ",
-     "titulo": "Memphis TÁ FERRADO😱 #viral#shorts#corinthians#depay#memphis#polemica#brasileirão",
-     "canal": "FelixFoot",
-     "views": 31577,
-     "likes": 767,
-     "comentarios": 3,
-     "publicado": "2026-10-31T21:35:16Z",
-     "duracao_s": 21,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=c4Gz2jTqJsQ"
-    },
-    {
-     "id": "gHGO64UqxlI",
-     "titulo": "\"VESTIÁRIO RACHADO?!\": A real reação de Memphis com o elenco do Timão! #corinthians",
-     "canal": "Corinthians Fut Gols",
-     "views": 23442,
-     "likes": 981,
-     "comentarios": 21,
-     "publicado": "2026-11-02T14:19:06Z",
-     "duracao_s": 26,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=gHGO64UqxlI"
-    },
-    {
-     "id": "bTr54B7YRLE",
-     "titulo": "MEMPHIS JOGAVA ONDE ANTES DO CORINTHIANS? #tyltycomp #lucastylty #cobra10k #ep4",
-     "canal": "CORTES DO COBRA DA BOLA",
-     "views": 14573,
-     "likes": 117,
-     "comentarios": 9,
-     "publicado": "2026-11-01T20:30:37Z",
-     "duracao_s": 12,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=bTr54B7YRLE"
-    },
-    {
-     "id": "rWHmIpYWF5U",
-     "titulo": "MEMPHIS DEPAY ESTARÁ A DISPOSIÇÃO PARA O CLÁSSICO? | COLETIVA COM BIDU E ANDRÉ",
-     "canal": "IDENTIDADE CORINTHIANA",
-     "views": 12053,
-     "likes": 673,
+     "id": "J6r8d4qhxtc",
+     "titulo": "Vitória na Vila Belmiro pode virar a chave do Timão antes da pausa",
+     "canal": "ShortsTimão",
+     "views": 96,
+     "likes": 4,
      "comentarios": 1,
-     "publicado": "2026-11-02T18:52:17Z",
-     "duracao_s": 10448,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=rWHmIpYWF5U"
-    },
-    {
-     "id": "gd0ZaOXKu_Y",
-     "titulo": "Craque Neto detona diretoria do Corinthians por benefícios a Memphis Depay | Aconteceu na Semana",
-     "canal": "Os Donos da Bola",
-     "views": 10827,
-     "likes": 160,
-     "comentarios": 7,
-     "publicado": "2026-11-01T22:01:21Z",
-     "duracao_s": 1104,
+     "publicado": "2026-11-03T17:51:34Z",
+     "duracao_s": 48,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=gd0ZaOXKu_Y"
+     "url": "https://www.youtube.com/watch?v=J6r8d4qhxtc"
     },
     {
-     "id": "yykTNVvA8RQ",
-     "titulo": "MEMPHIS NO CLÁSSICO: Lilly Nascimento traz a real sobre a volta do atacante! #corinthians",
-     "canal": "Corinthians Fut Gols",
-     "views": 10031,
-     "likes": 425,
-     "comentarios": 19,
-     "publicado": "2026-11-02T14:44:33Z",
-     "duracao_s": 21,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=yykTNVvA8RQ"
-    },
-    {
-     "id": "fJmniz4x5r0",
-     "titulo": "Como Neymar e cozinheira brasileira influenciaram vinda de Depay para o Corinthians | Baú do Neto",
-     "canal": "Os Donos da Bola",
-     "views": 8847,
-     "likes": 264,
-     "comentarios": 3,
-     "publicado": "2026-11-01T20:00:33Z",
-     "duracao_s": 61,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=fJmniz4x5r0"
-    },
-    {
-     "id": "c1wO9B93jtU",
-     "titulo": "Craque Neto: “Memphis foi a pior contratação da história do Corinthians” | Aconteceu na Semana",
-     "canal": "Os Donos da Bola",
-     "views": 8352,
-     "likes": 77,
-     "comentarios": 32,
-     "publicado": "2026-11-01T15:01:07Z",
-     "duracao_s": 463,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=c1wO9B93jtU"
-    },
-    {
-     "id": "rodcHX6xpN8",
-     "titulo": "Craque Neto VS Memphis Depay 😱",
-     "canal": "Xaolin Corridas ",
-     "views": 8251,
-     "likes": 154,
-     "comentarios": 1,
-     "publicado": "2026-11-01T01:34:36Z",
-     "duracao_s": 52,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=rodcHX6xpN8"
-    },
-    {
-     "id": "3Ndb9ItaBZo",
-     "titulo": "Memphis Depay visita quadra de organizada do Corinthians e puxa músicas | Baú do Neto",
-     "canal": "Os Donos da Bola",
-     "views": 8145,
-     "likes": 62,
-     "comentarios": 11,
-     "publicado": "2026-11-01T14:00:05Z",
-     "duracao_s": 144,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=3Ndb9ItaBZo"
-    },
-    {
-     "id": "hka5zcaVVkk",
-     "titulo": "TREINO DO CORINTHIANS COM MEMPHIS DE VOLTA, CLIMA LEVE E DESCONTRAÍDO E SEEDORF PROJETANDO CLÁSSICO",
-     "canal": "ESPN Brasil",
-     "views": 7722,
-     "likes": 219,
-     "comentarios": 7,
-     "publicado": "2026-11-02T16:25:00Z",
-     "duracao_s": 1792,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=hka5zcaVVkk"
-    },
-    {
-     "id": "l2HBMqYpJEY",
-     "titulo": "🔥MEMPHIS NÃO TEM VAGA NO TIME TITULAR!”#memphisdepay #espn #corinthians #matheusbidu",
-     "canal": "Trincheira Corinthians",
-     "views": 6962,
-     "likes": 137,
-     "comentarios": 12,
-     "publicado": "2026-11-01T14:39:59Z",
-     "duracao_s": 27,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=l2HBMqYpJEY"
-    },
-    {
-     "id": "H6rggPq3vL8",
-     "titulo": "Como Neymar e cozinheira brasileira influenciaram vinda de Depay para o Corinthians | Baú do Neto",
-     "canal": "Os Donos da Bola",
-     "views": 4602,
-     "likes": 132,
-     "comentarios": 1,
-     "publicado": "2026-11-01T13:00:10Z",
-     "duracao_s": 106,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=H6rggPq3vL8"
-    },
-    {
-     "id": "MqZM0vm7I1A",
-     "titulo": "🤔ONDE VIRAM TRETA ENTRE ELES!#memphisdepay  #garro #corinthians #bastidorescorinthians",
-     "canal": "Trincheira Corinthians",
-     "views": 3876,
-     "likes": 181,
-     "comentarios": 7,
-     "publicado": "2026-11-02T17:00:23Z",
-     "duracao_s": 13,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=MqZM0vm7I1A"
-    },
-    {
-     "id": "Drfp98jOKN8",
-     "titulo": "MEMPHIS JOGA CONTRA O SÃO PAULO! CAMISA 10 JÁ TREINA COM ELENCO E PODE ATUAR NO BRASILEIRÃO",
-     "canal": "ESPN Brasil",
-     "views": 2634,
-     "likes": 165,
-     "comentarios": 2,
-     "publicado": "2026-11-02T16:09:13Z",
-     "duracao_s": 297,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Drfp98jOKN8"
-    },
-    {
-     "id": "Z5O2KHdi454",
-     "titulo": "HOMEM FAZ O MEMPHIS DEPAY E SOFRE AS CONSEQUÊNCIAS #corinthians #futebol #meme",
-     "canal": "Corinthians FC ",
-     "views": 2042,
-     "likes": 34,
+     "id": "xi_c3yGMS1Q",
+     "titulo": "São Paulo x Corinthians: ONDE ASSISTIR ao clássico na Vila Belmiro",
+     "canal": "Diário Timão",
+     "views": 94,
+     "likes": 1,
      "comentarios": 0,
-     "publicado": "2026-11-01T14:15:23Z",
-     "duracao_s": 6,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Z5O2KHdi454"
-    },
-    {
-     "id": "004MI9M42H8",
-     "titulo": "🚨 BOMBA NO CORINTHIANS!! MEMPHIS VIROU RESERVA?! CHICO GARCIA TRAZ NOTÍCIA QUENTE!",
-     "canal": "BANDO DE LOUCOS INFORMATIVO ",
-     "views": 1750,
-     "likes": 50,
-     "comentarios": 6,
-     "publicado": "2026-11-02T15:00:11Z",
-     "duracao_s": 993,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=004MI9M42H8"
-    },
-    {
-     "id": "dcAXdxzJ3VU",
-     "titulo": "\"NÃO SAÍA DO CT!\" CRAVA NETO SOBRE MEMPHIS DEPAY NO CORINTHIANS!",
-     "canal": "FunFact Futebol BR",
-     "views": 1720,
-     "likes": 39,
-     "comentarios": 0,
-     "publicado": "2026-11-01T15:55:49Z",
-     "duracao_s": 47,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=dcAXdxzJ3VU"
-    },
-    {
-     "id": "FORU5EdhnKo",
-     "titulo": "desenhando memphis depay #memphisdepay #corinthians",
-     "canal": "corinthians arts",
-     "views": 1306,
-     "likes": 23,
-     "comentarios": 1,
-     "publicado": "2026-10-31T23:00:49Z",
-     "duracao_s": 44,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=FORU5EdhnKo"
-    },
-    {
-     "id": "GqmfoWtLWjQ",
-     "titulo": "\"LARANJA PODRE\": O DESABAFO PESADO SOBRE MEMPHIS DEPAY NO CORINTHIANS!",
-     "canal": "Futagora",
-     "views": 1287,
-     "likes": 49,
-     "comentarios": 0,
-     "publicado": "2026-11-01T15:00:07Z",
-     "duracao_s": 179,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=GqmfoWtLWjQ"
-    },
-    {
-     "id": "mOVK5oTpXjs",
-     "titulo": "mephis depay #football #memphis #depay #corinthians #futebol",
-     "canal": "reizinho_edits",
-     "views": 1283,
-     "likes": 31,
-     "comentarios": 3,
-     "publicado": "2026-10-31T22:13:49Z",
-     "duracao_s": 32,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=mOVK5oTpXjs"
-    },
-    {
-     "id": "e3vLWNPDthU",
-     "titulo": "Memphis perdeu espaço? #corinthians #meutimão",
-     "canal": "Vai Corinthians_Tv",
-     "views": 1193,
-     "likes": 30,
-     "comentarios": 2,
-     "publicado": "2026-11-01T16:15:40Z",
+     "publicado": "2026-11-03T11:02:05Z",
      "duracao_s": 39,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=e3vLWNPDthU"
+     "url": "https://www.youtube.com/watch?v=xi_c3yGMS1Q"
     },
     {
-     "id": "W6TCv1kQOX8",
-     "titulo": "Memphis Depay de volta aos treinos do Corinthians!",
-     "canal": "Coração Alvinegro 77",
-     "views": 1182,
-     "likes": 16,
-     "comentarios": 1,
-     "publicado": "2026-11-01T19:52:28Z",
-     "duracao_s": 25,
+     "id": "jCCyjX85VVM",
+     "titulo": "ARNALDO e TIRONI DEBATEM SÃO PAULO X CORINTHIANS na VILA BELMIRO ",
+     "canal": "Soberano Cortes",
+     "views": 80,
+     "likes": 1,
+     "comentarios": 0,
+     "publicado": "2026-11-03T14:00:05Z",
+     "duracao_s": 531,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=W6TCv1kQOX8"
+     "url": "https://www.youtube.com/watch?v=jCCyjX85VVM"
+    },
+    {
+     "id": "Ns3rC1ia9tU",
+     "titulo": "🚨 TUDO SOBRE CORINTHIANS X SÃO PAULO DIRETO DA VILA BELMIRO",
+     "canal": "Canal Fielzão",
+     "views": 51,
+     "likes": 6,
+     "comentarios": 3,
+     "publicado": "2026-11-02T22:59:35Z",
+     "duracao_s": 321,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Ns3rC1ia9tU"
+    },
+    {
+     "id": "2u_6cwXIWg4",
+     "titulo": "Majestoso na Vila Belmiro: Corinthians no Z-4 encara o São Paulo de Dorival",
+     "canal": "Rodada do Fut",
+     "views": 38,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-11-03T15:03:27Z",
+     "duracao_s": 50,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=2u_6cwXIWg4"
+    },
+    {
+     "id": "AuBNuMlaW-A",
+     "titulo": "próximo jogo é clássico São Paulo x corinthians  na Vila Belmiro",
+     "canal": "corinthians do futebol brasileiro 2026",
+     "views": 25,
+     "likes": 1,
+     "comentarios": 0,
+     "publicado": "2026-11-02T12:47:48Z",
+     "duracao_s": 23,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=AuBNuMlaW-A"
+    },
+    {
+     "id": "LTf3LTR50dA",
+     "titulo": "BAMBIS SEM CASA! PERDEU ESTÁDIO PRO BTS! são paulo x corinthians",
+     "canal": "Gavião Mosqueteiro",
+     "views": 7,
+     "likes": 1,
+     "comentarios": 0,
+     "publicado": "2026-11-03T14:00:04Z",
+     "duracao_s": 11,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=LTf3LTR50dA"
     }
    ],
-   "consulta": "Corinthians Memphis Depay Atualização",
-   "n_videos": 25,
-   "mais_de": true,
-   "views": 312530,
+   "consulta": "Corinthians Vila clássico Belmiro",
+   "n_videos": 11,
+   "mais_de": false,
+   "views": 10519,
    "top": [
     {
-     "titulo": "GARRO PERDEU A CAMISA 10… E GANHOU MAIS DE R$ 1 MILHÃO DE AUMENTO, DIZ SOUZA NO PODPAH!",
-     "canal": "FutCutz",
-     "views": 97697,
-     "url": "https://www.youtube.com/watch?v=IeH9XHNopUU",
-     "publicado": "2026-11-01T17:54:55Z",
+     "titulo": "DEFINIDA A ARBITRAGEM PARA O MAJESTOSO NA VILA BELMIRO",
+     "canal": "IDENTIDADE CORINTHIANA",
+     "views": 8531,
+     "url": "https://www.youtube.com/watch?v=PReCqF0PS0Q",
+     "publicado": "2026-11-02T16:54:02Z",
      "do_canal": false
     },
     {
-     "titulo": "Yuri Alberto VS Memphis Depay 😱",
-     "canal": "Xaolin Corridas ",
-     "views": 41176,
-     "url": "https://www.youtube.com/watch?v=JNDID7HsxdM",
-     "publicado": "2026-11-01T16:09:56Z",
+     "titulo": "MAJESTOSO NA VILA BELMIRO! QUEM JOGA NA LATERAL? 🦅🔥",
+     "canal": "Conexão Corinthians",
+     "views": 1254,
+     "url": "https://www.youtube.com/watch?v=1v5XZMTpV1g",
+     "publicado": "2026-11-02T15:17:38Z",
      "do_canal": false
     },
     {
-     "titulo": "Memphis TÁ FERRADO😱 #viral#shorts#corinthians#depay#memphis#polemica#brasileirão",
-     "canal": "FelixFoot",
-     "views": 31577,
-     "url": "https://www.youtube.com/watch?v=c4Gz2jTqJsQ",
-     "publicado": "2026-10-31T21:35:16Z",
+     "titulo": "EU ACREDITEI QUE ERA NO MORUMBIS! Mas o Majestoso é na Vila Belmiro e o baralho não perdoou! 😱⚓",
+     "canal": "Pombagira Cigana da Estrada | Baralho Cigano",
+     "views": 220,
+     "url": "https://www.youtube.com/watch?v=gWTry1w9d7Q",
+     "publicado": "2026-11-01T20:45:14Z",
      "do_canal": false
     }
    ]
   }
  },
- "flamengo saul reforcar treina": {
-  "dia": "2026-11-02",
-  "resultado": {
-   "amostra": [],
-   "consulta": "Flamengo Saúl reforçar treina",
-   "n_videos": 0,
-   "mais_de": false,
-   "views": 0,
-   "top": []
-  }
- },
- "flamengo marlon pancada duvida": {
-  "dia": "2026-11-02",
-  "resultado": {
-   "amostra": [],
-   "consulta": "Flamengo Marlon pancada dúvida",
-   "n_videos": 0,
-   "mais_de": false,
-   "views": 0,
-   "top": []
-  }
- },
- "flamengo mauro cezar polemica": {
-  "dia": "2026-11-02",
+ "palmeiras argentina flaco lopez": {
+  "dia": "2026-11-03",
   "resultado": {
    "amostra": [
     {
-     "id": "6pbsxhzDru8",
-     "titulo": "\"JÁ ERA? ELE TENTOU IR, MAS O QUE O VAMPETA E O MAURO CÉZAR DISSERAM É GRAVE!\"",
-     "canal": "VERDADE DE BASTIDOR",
-     "views": 2353,
-     "likes": 16,
-     "comentarios": 0,
-     "publicado": "2026-11-01T17:14:57Z",
-     "duracao_s": 336,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=6pbsxhzDru8"
-    },
-    {
-     "id": "LzzOBWZyYSk",
-     "titulo": "🚨 MAURO CEZAR DESABAFA AO VIVO E ESCLARECE POLÊMICA SOBRE O FLAMENGO! | Radar Rubro-Negro",
-     "canal": "Radar Rubro-Negro",
-     "views": 628,
-     "likes": 17,
-     "comentarios": 0,
-     "publicado": "2026-11-02T13:24:38Z",
-     "duracao_s": 1526,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=LzzOBWZyYSk"
-    },
-    {
-     "id": "f3FhD9PnYxU",
-     "titulo": "🚨\"ISSO É CANALHICE! MAURO CÉZAR PERDE A CABEÇA AO VIVO E DESMASCARA BASTIDORES DO FLAMENGO!\"",
-     "canal": "VERDADE DE BASTIDOR",
-     "views": 375,
-     "likes": 8,
+     "id": "BZUuihoYDKg",
+     "titulo": "A Incrível História de Flaco López (Do Lanús à Glória no Palmeiras ",
+     "canal": "FUT.EDTZXBR",
+     "views": 137,
+     "likes": 11,
      "comentarios": 1,
-     "publicado": "2026-11-02T16:00:26Z",
-     "duracao_s": 368,
+     "publicado": "2026-11-02T18:16:32Z",
+     "duracao_s": 301,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=f3FhD9PnYxU"
+     "url": "https://www.youtube.com/watch?v=BZUuihoYDKg"
+    },
+    {
+     "id": "n1WQYD3TFMg",
+     "titulo": "Palmeiras perde Giay e Flaco López para a Seleção Argentina",
+     "canal": "Rádio Bandeirantes",
+     "views": 44,
+     "likes": 3,
+     "comentarios": 0,
+     "publicado": "2026-11-03T16:56:11Z",
+     "duracao_s": 444,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=n1WQYD3TFMg"
+    },
+    {
+     "id": "OvuJ12dLNRQ",
+     "titulo": "Palmeiras tem desfalques por convocação da Argentina",
+     "canal": "Choque Curioso",
+     "views": 0,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-11-03T18:05:14Z",
+     "duracao_s": 39,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=OvuJ12dLNRQ"
     }
    ],
-   "consulta": "Flamengo Mauro Cezar polêmica",
+   "consulta": "Palmeiras Argentina Flaco López",
    "n_videos": 3,
    "mais_de": false,
-   "views": 3356,
+   "views": 181,
    "top": [
     {
-     "titulo": "\"JÁ ERA? ELE TENTOU IR, MAS O QUE O VAMPETA E O MAURO CÉZAR DISSERAM É GRAVE!\"",
-     "canal": "VERDADE DE BASTIDOR",
-     "views": 2353,
-     "url": "https://www.youtube.com/watch?v=6pbsxhzDru8",
-     "publicado": "2026-11-01T17:14:57Z",
+     "titulo": "A Incrível História de Flaco López (Do Lanús à Glória no Palmeiras ",
+     "canal": "FUT.EDTZXBR",
+     "views": 137,
+     "url": "https://www.youtube.com/watch?v=BZUuihoYDKg",
+     "publicado": "2026-11-02T18:16:32Z",
      "do_canal": false
     },
     {
-     "titulo": "🚨 MAURO CEZAR DESABAFA AO VIVO E ESCLARECE POLÊMICA SOBRE O FLAMENGO! | Radar Rubro-Negro",
-     "canal": "Radar Rubro-Negro",
-     "views": 628,
-     "url": "https://www.youtube.com/watch?v=LzzOBWZyYSk",
-     "publicado": "2026-11-02T13:24:38Z",
+     "titulo": "Palmeiras perde Giay e Flaco López para a Seleção Argentina",
+     "canal": "Rádio Bandeirantes",
+     "views": 44,
+     "url": "https://www.youtube.com/watch?v=n1WQYD3TFMg",
+     "publicado": "2026-11-03T16:56:11Z",
      "do_canal": false
     },
     {
-     "titulo": "🚨\"ISSO É CANALHICE! MAURO CÉZAR PERDE A CABEÇA AO VIVO E DESMASCARA BASTIDORES DO FLAMENGO!\"",
-     "canal": "VERDADE DE BASTIDOR",
-     "views": 375,
-     "url": "https://www.youtube.com/watch?v=f3FhD9PnYxU",
-     "publicado": "2026-11-02T16:00:26Z",
+     "titulo": "Palmeiras tem desfalques por convocação da Argentina",
+     "canal": "Choque Curioso",
+     "views": 0,
+     "url": "https://www.youtube.com/watch?v=OvuJ12dLNRQ",
+     "publicado": "2026-11-03T18:05:14Z",
      "do_canal": false
     }
    ]
+  }
+ },
+ "corinthians luxemburgo recusaria seedorf": {
+  "dia": "2026-11-03",
+  "resultado": {
+   "amostra": [],
+   "consulta": "Corinthians Luxemburgo recusaria Seedorf",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "corinthians memphis alberto seedorf": {
+  "dia": "2026-11-03",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "QjyMML_8rsk",
+     "titulo": "AO VIVO DO CT🔴COLETIVA DE SEEDORF, YURI ALBERTO E MEMPHIS DEPAY | TREINO ABERTO DO CORINTHIANS",
+     "canal": "Meu Timão",
+     "views": 13284,
+     "likes": 2271,
+     "comentarios": 0,
+     "publicado": "2026-11-03T13:28:39Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=QjyMML_8rsk"
+    },
+    {
+     "id": "YWBoA2hhzo8",
+     "titulo": "COLETIVA MEMPHIS, YURI ALBERTO E SEEDORF | REACT",
+     "canal": "Salve Drew",
+     "views": 10154,
+     "likes": 1247,
+     "comentarios": 0,
+     "publicado": "2026-11-03T12:18:51Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=YWBoA2hhzo8"
+    },
+    {
+     "id": "RdpBbc_g_hY",
+     "titulo": "[AO VIVO] COLETIVA DO CORINTHIANS COM SEEDORF, MEMPHIS DEPAY E YURI ALBERTO - 03/11/2026",
+     "canal": "Esporte na Band",
+     "views": 4651,
+     "likes": 398,
+     "comentarios": 0,
+     "publicado": "2026-11-02T19:50:58Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=RdpBbc_g_hY"
+    },
+    {
+     "id": "Pg0Q-hJa6ek",
+     "titulo": "COLETIVA DE IMPRENSA | MEMPHIS DEPAY, CLARENCE SEEDORF E YURI ALBERTO",
+     "canal": "Corinthians TV",
+     "views": 3853,
+     "likes": 4208,
+     "comentarios": 0,
+     "publicado": "2026-11-02T23:37:19Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=Pg0Q-hJa6ek"
+    },
+    {
+     "id": "VO5za7WUcbA",
+     "titulo": "COLETIVA CORINTHIANS: YURI ALBERTO, MEMPHIS DEPAY E SEEDORF | ESPN",
+     "canal": "ESPN Brasil",
+     "views": 3585,
+     "likes": 196,
+     "comentarios": 0,
+     "publicado": "2026-11-03T16:32:47Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=VO5za7WUcbA"
+    },
+    {
+     "id": "SymzRCc_mfg",
+     "titulo": "AO VIVO - COLETIVA COM SEEDORF, MEMPHIS DEPAY E YURI ALBERTO | REACT DO CTC | CORINTHIANS TV",
+     "canal": "CTC - Canal do Torcedor Corinthiano ",
+     "views": 2263,
+     "likes": 272,
+     "comentarios": 0,
+     "publicado": "2026-11-03T12:54:29Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=SymzRCc_mfg"
+    },
+    {
+     "id": "Tz8dFLhG8DY",
+     "titulo": "AO VIVO: MEMPHIS, YURI ALBERTO E SEEDORF FALAM AO VIVO | COLETIVA COM IMAGENS",
+     "canal": "ARENA WEB",
+     "views": 1046,
+     "likes": 60,
+     "comentarios": 0,
+     "publicado": "2026-11-03T17:11:18Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=Tz8dFLhG8DY"
+    },
+    {
+     "id": "sAKgOpKCOgc",
+     "titulo": "AO VIVO - ENTREVISTA DE MEMPHIS DEPAY - YURI ALBERTO - SEEDORF",
+     "canal": "Corinthiano Informa",
+     "views": 273,
+     "likes": 52,
+     "comentarios": 0,
+     "publicado": "2026-11-03T16:40:44Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=sAKgOpKCOgc"
+    },
+    {
+     "id": "zAF6Ixljtig",
+     "titulo": "ENTREVISTA  AO VIVO | MEMPHIS, SEEDORF E YURI ALBERTO! TRABALHANDO COM A  FIEL!!!",
+     "canal": "Dingo Corinthians ",
+     "views": 120,
+     "likes": 16,
+     "comentarios": 0,
+     "publicado": "2026-11-03T13:37:18Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=zAF6Ixljtig"
+    },
+    {
+     "id": "8oDA9WbZD2I",
+     "titulo": "MEMPHIS NO CORINTHIANS DE SEEDORF: REFORÇO OU PROBLEMA? A ANÁLISE TÁTICA!",
+     "canal": "Fielcolapso",
+     "views": 0,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-11-03T14:00:07Z",
+     "duracao_s": 424,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=8oDA9WbZD2I"
+    }
+   ],
+   "consulta": "Corinthians Memphis Alberto Seedorf",
+   "n_videos": 10,
+   "mais_de": false,
+   "views": 39229,
+   "top": [
+    {
+     "titulo": "AO VIVO DO CT🔴COLETIVA DE SEEDORF, YURI ALBERTO E MEMPHIS DEPAY | TREINO ABERTO DO CORINTHIANS",
+     "canal": "Meu Timão",
+     "views": 13284,
+     "url": "https://www.youtube.com/watch?v=QjyMML_8rsk",
+     "publicado": "2026-11-03T13:28:39Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "COLETIVA MEMPHIS, YURI ALBERTO E SEEDORF | REACT",
+     "canal": "Salve Drew",
+     "views": 10154,
+     "url": "https://www.youtube.com/watch?v=YWBoA2hhzo8",
+     "publicado": "2026-11-03T12:18:51Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "[AO VIVO] COLETIVA DO CORINTHIANS COM SEEDORF, MEMPHIS DEPAY E YURI ALBERTO - 03/11/2026",
+     "canal": "Esporte na Band",
+     "views": 4651,
+     "url": "https://www.youtube.com/watch?v=RdpBbc_g_hY",
+     "publicado": "2026-11-02T19:50:58Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "corinthians seedorf enquanto libera": {
+  "dia": "2026-11-03",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "c0PJNKMxmP0",
+     "titulo": "CBF LIBERA SEDOORF PARA O CLÁSSICO ##timão #fielfanatics #fieltorcida #bandodeloucos #corinthians",
+     "canal": "fielfanatics",
+     "views": 565,
+     "likes": 20,
+     "comentarios": 0,
+     "publicado": "2026-11-03T17:18:09Z",
+     "duracao_s": 61,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=c0PJNKMxmP0"
+    },
+    {
+     "id": "Js4OL5eB7PM",
+     "titulo": "🚨 SEEDORF PROIBIDO DE TREINAR ? CONMEBOL NÃO LIBERA LICENÇA DO HOLANDÊS, E AGORA, O QUE ACONTECE? 🚨",
+     "canal": "Papo Crítico | SCCP",
+     "views": 4,
+     "likes": 1,
+     "comentarios": 0,
+     "publicado": "2026-11-03T12:45:03Z",
+     "duracao_s": 411,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Js4OL5eB7PM"
+    }
+   ],
+   "consulta": "Corinthians Seedorf enquanto libera",
+   "n_videos": 2,
+   "mais_de": false,
+   "views": 569,
+   "top": [
+    {
+     "titulo": "CBF LIBERA SEDOORF PARA O CLÁSSICO ##timão #fielfanatics #fieltorcida #bandodeloucos #corinthians",
+     "canal": "fielfanatics",
+     "views": 565,
+     "url": "https://www.youtube.com/watch?v=c0PJNKMxmP0",
+     "publicado": "2026-11-03T17:18:09Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "🚨 SEEDORF PROIBIDO DE TREINAR ? CONMEBOL NÃO LIBERA LICENÇA DO HOLANDÊS, E AGORA, O QUE ACONTECE? 🚨",
+     "canal": "Papo Crítico | SCCP",
+     "views": 4,
+     "url": "https://www.youtube.com/watch?v=Js4OL5eB7PM",
+     "publicado": "2026-11-03T12:45:03Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "corinthians seedorf estara banco": {
+  "dia": "2026-11-03",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "RPnksRc3izU",
+     "titulo": "CORINTHIANS COMPLETAMENTE DESGOVERNADO! SEEDORF PODE NEM ESTAR NO BANCO CONTRA O SÃO PAULO; DEBATE",
+     "canal": "UOL Esporte",
+     "views": 16363,
+     "likes": 338,
+     "comentarios": 25,
+     "publicado": "2026-11-03T12:21:37Z",
+     "duracao_s": 1548,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=RPnksRc3izU"
+    },
+    {
+     "id": "xftPjYQEsW0",
+     "titulo": "MEMPHIS TEM QUE SER BANCO CONTRA O SÃO PAULO! FRAQUEZA DO SEEDORF SE COLOCAR; RÔMULO DETONA",
+     "canal": "UOL Esporte",
+     "views": 3779,
+     "likes": 51,
+     "comentarios": 2,
+     "publicado": "2026-11-03T12:40:25Z",
+     "duracao_s": 1481,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=xftPjYQEsW0"
+    },
+    {
+     "id": "8NLuq_u5EkQ",
+     "titulo": "Seedorf fora do banco? Conmebol barra a licença do técnico #Shorts",
+     "canal": "Futibola",
+     "views": 3314,
+     "likes": 106,
+     "comentarios": 0,
+     "publicado": "2026-11-03T00:39:25Z",
+     "duracao_s": 30,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=8NLuq_u5EkQ"
+    },
+    {
+     "id": "8rrRR9wn6RQ",
+     "titulo": "CORINTHIANS SEM TÉCNICO? CONMEBOL NEGA LICENÇA DE SEEDORF",
+     "canal": "Minuto 90 BR",
+     "views": 1135,
+     "likes": 7,
+     "comentarios": 0,
+     "publicado": "2026-11-02T20:00:22Z",
+     "duracao_s": 23,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=8rrRR9wn6RQ"
+    },
+    {
+     "id": "7W5b2XvU5Y0",
+     "titulo": "Conmebol nega a licença do Seedorf, técnico do Corinthians #Shorts",
+     "canal": "Futebol Sem Limites",
+     "views": 606,
+     "likes": 13,
+     "comentarios": 0,
+     "publicado": "2026-11-03T00:29:48Z",
+     "duracao_s": 32,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=7W5b2XvU5Y0"
+    },
+    {
+     "id": "5_f0eUN-Kqg",
+     "titulo": "SEEDORF X CONMEBOL: CORINTHIANS PODE SER PUNIDO? TREINADOR PODE FICAR NA BEIRA DO CAMPO EM CLÁSSICO?",
+     "canal": "ESPN Brasil",
+     "views": 426,
+     "likes": 40,
+     "comentarios": 0,
+     "publicado": "2026-11-03T16:33:34Z",
+     "duracao_s": 1839,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=5_f0eUN-Kqg"
+    },
+    {
+     "id": "DbUjxjKdPnQ",
+     "titulo": "O Banco Mais Quente da Semana #08 | Seedorf vence a primeira no Corinthians: 2x0 no Mirassol",
+     "canal": "Fifa Nerd Sports",
+     "views": 3,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-11-02T17:00:11Z",
+     "duracao_s": 499,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=DbUjxjKdPnQ"
+    }
+   ],
+   "consulta": "Corinthians Seedorf estará banco",
+   "n_videos": 7,
+   "mais_de": false,
+   "views": 25626,
+   "top": [
+    {
+     "titulo": "CORINTHIANS COMPLETAMENTE DESGOVERNADO! SEEDORF PODE NEM ESTAR NO BANCO CONTRA O SÃO PAULO; DEBATE",
+     "canal": "UOL Esporte",
+     "views": 16363,
+     "url": "https://www.youtube.com/watch?v=RPnksRc3izU",
+     "publicado": "2026-11-03T12:21:37Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "MEMPHIS TEM QUE SER BANCO CONTRA O SÃO PAULO! FRAQUEZA DO SEEDORF SE COLOCAR; RÔMULO DETONA",
+     "canal": "UOL Esporte",
+     "views": 3779,
+     "url": "https://www.youtube.com/watch?v=xftPjYQEsW0",
+     "publicado": "2026-11-03T12:40:25Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "Seedorf fora do banco? Conmebol barra a licença do técnico #Shorts",
+     "canal": "Futibola",
+     "views": 3314,
+     "url": "https://www.youtube.com/watch?v=8NLuq_u5EkQ",
+     "publicado": "2026-11-03T00:39:25Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "corinthians escalacoes provaveis": {
+  "dia": "2026-11-03",
+  "resultado": {
+   "amostra": [],
+   "consulta": "Corinthians escalações prováveis",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
   }
  }
 }
