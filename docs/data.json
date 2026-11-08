@@ -1,18 +1,23 @@
 {
- "gerado_em": "2026-11-07T16:38:06.743007+00:00",
- "data_br": "07/11/2026 13:38",
+ "gerado_em": "2026-11-08T16:47:08.639931+00:00",
+ "data_br": "08/11/2026 13:47",
  "status": {
   "Google Trends": 10,
-  "Google News": 904,
+  "Google News": 868,
   "Vídeos do canal": 15,
   "Buscas do torcedor": 18,
   "YouTube (48 h)": 12,
-  "Alertas de tendência": 2,
+  "Alertas de tendência": 1,
   "Agenda (ESPN)": 201,
   "Agenda (buscas Google)": 1
  },
  "canal_id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
  "videos_recentes": [
+  {
+   "titulo": "VASCO DA GAMA   X  PALMEIRAS -   VOLTA",
+   "url": "https://www.youtube.com/watch?v=1r9IOkC791I",
+   "publicado": "2026-11-08T03:14:16+00:00"
+  },
   {
    "titulo": "MAJESTOSO TEVE EMPATE. BOM PRA QUEM?/FLA SÓ PRECISOU DE MEIO TEMPO/NAU VASCAINA ATRAVESSOU O FURACÃO",
    "url": "https://www.youtube.com/watch?v=3RVijTJcuDY",
@@ -57,16 +62,10 @@
    "titulo": "VASCO DA GAMA X CORINTHIANS - RODADA 31",
    "url": "https://www.youtube.com/watch?v=ysaxdpF3XL4",
    "publicado": "2026-10-24T23:52:51+00:00"
-  },
-  {
-   "titulo": "NDB  BRASIL - MENGO FORA DA FINAL",
-   "url": "https://www.youtube.com/watch?v=FDkyFXJtxeY",
-   "publicado": "2026-10-23T14:34:20+00:00"
   }
  ],
  "termos_futebol": [
-  "parma x bologna",
-  "estatísticas de arsenal x hull city"
+  "manchester united"
  ],
  "pesos": {
   "busca": 0.24,
@@ -99,38 +98,38 @@
     "estado": "pre",
     "clube": "Palmeiras",
     "tipo": "pré-jogo",
-    "em_horas": 27,
-    "gancho": "Vasco da Gama x Palmeiras: um precisa vencer, o outro não pode perder.",
-    "titulo_thumb": "VASCO DA GAMA X PALMEIRAS",
-    "tecnica": "Conflito",
+    "em_horas": 3,
+    "gancho": "Se você fosse o técnico em Vasco da Gama x Palmeiras, quem escalaria?",
+    "titulo_thumb": "SUA ESCALAÇÃO",
+    "tecnica": "Pergunta aberta",
     "formato": "Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)"
    }
   ],
   "resultados": [],
   "na_midia": [
    {
-    "jogo": "Palmeiras x Estudiantes",
+    "jogo": "Qual Palmeiras x Vasco Mais Marcante",
     "clube": "Palmeiras",
     "manchetes": 4,
-    "exemplo": "Palmeiras x Estudiantes: Conmebol anuncia nova venda de ingressos para setor misto na Libertadores"
+    "exemplo": "🐷💢Qual Palmeiras x Vasco mais marcante?"
    },
    {
-    "jogo": "Durante Sao Paulo x Corinthians",
-    "clube": "Corinthians",
+    "jogo": "Pato Basquete x Flamengo",
+    "clube": "Flamengo",
     "manchetes": 2,
-    "exemplo": "Por que Pedro Milans bebeu vinagre durante São Paulo x Corinthians?"
+    "exemplo": "🔴 AO VIVO: PATO BASQUETE x FLAMENGO | NBB - 07/11"
    },
    {
-    "jogo": "Classico Sao Paulo x Corinthians",
-    "clube": "Corinthians",
+    "jogo": "Nacional Transmite Vasco x Palmeiras As 17H",
+    "clube": "Palmeiras",
     "manchetes": 2,
-    "exemplo": "Matheus Pereira quebra o silêncio após ser expulso no clássico São Paulo x Corinthians"
+    "exemplo": "Copa do Brasil: Rádio Nacional transmite Vasco x Palmeiras às 17h"
    },
    {
-    "jogo": "Para Sao Paulo x Fluminense",
-    "clube": "São Paulo",
+    "jogo": "Torcida Por Gremio x Palmeiras",
+    "clube": "Palmeiras",
     "manchetes": 2,
-    "exemplo": "Ingressos para São Paulo x Fluminense, pelo Campeonato Brasileiro"
+    "exemplo": "Weverton revela torcida por Grêmio x Palmeiras na final da Copa do Brasil: 'Todo mundo sabe...'"
    }
   ],
   "nas_buscas": [
@@ -138,1403 +137,480 @@
     "tipo": "pré-jogo",
     "fonte": "buscas do Google",
     "clube": "Palmeiras",
-    "jogo": "Palmeiras x Ldu Quito",
+    "jogo": "Palmeiras x Vasco Copa",
     "casa": "Palmeiras",
-    "fora": "Ldu Quito",
+    "fora": "Vasco Copa",
     "confianca": "alta",
     "posicao_busca": 3,
-    "manchetes": 0,
-    "exemplo": null,
+    "manchetes": 56,
+    "exemplo": "Vasco x Palmeiras: decisão na Copa do Brasil abre caminho para alívio financeiro",
     "sugestoes": [
-     "palmeiras x ldu quito",
-     "palmeiras x ldu",
-     "palmeiras x ldu quito"
+     "palmeiras x vasco",
+     "palmeiras x vasco",
+     "palmeiras x vasco copa do brasil"
     ],
-    "gancho": "Palmeiras x Ldu Quito: um precisa vencer, o outro não pode perder.",
-    "titulo_thumb": "PALMEIRAS X LDU QUITO",
-    "tecnica": "Conflito",
+    "gancho": "Meu palpite para Palmeiras x Vasco Copa: [SEU PLACAR]. Deixa o seu nos comentários.",
+    "titulo_thumb": "MEU PALPITE",
+    "tecnica": "Aposta",
     "formato": "Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)"
    }
   ]
  },
  "buscas_torcedor": {
   "flamengo": [
-   "flamengo x cruzeiro",
-   "flamengo x grêmio",
-   "flamengo joga quando"
+   "flamengo x cruzeiro"
   ],
   "corinthians": [
-   "corinthians x estudiantes",
-   "corinthians x rosario central",
-   "corinthians x são paulo"
+   "corinthians x estudiantes"
   ],
   "são paulo fc": [
    "são paulo fc contratação"
   ],
   "palmeiras": [
    "palmeiras x santos",
+   "palmeiras x vasco",
    "palmeiras x cerro porteño",
    "palmeiras x ldu quito",
-   "palmeiras x ldu"
+   "palmeiras e vasco"
   ],
   "seleção brasileira": [
+   "seleção brasileira de futebol feminino sub-17",
    "seleção brasileira feminina",
    "seleção brasileira de futebol feminino",
    "seleção brasileira de futebol",
-   "seleção brasileira x seleção argentina de futebol",
-   "seleção brasileira de futebol feminino sub-17"
+   "seleção brasileira x seleção norueguesa de futebol minuto a minuto"
   ],
   "brasileirão": [
    "brasileirão série b",
+   "brasileirão série a",
    "brasileirão série c",
    "brasileirão 2026",
-   "brasileirão série a classificação",
-   "brasileirão série d",
-   "brasileirão série a 2026"
+   "brasileirão série b 2026",
+   "brasileirão série a classificação"
   ]
  },
  "alertas": [
   {
-   "id": "zcEs14dDeKk",
-   "tema": "CADÊ O MEMPHIS? O CORINTHIANS ESTÁ À PROCURA DO SEU CAMISA 10! 😂",
+   "id": "8Bbxm25R-Zc",
+   "tema": "Neymar, do Santos, manda recado para Lucas Paquetá, do Flamengo, pelas redes sociais",
    "clubes": [
-    "Corinthians"
-   ],
-   "origem": "Em alta no YouTube (Esportes)",
-   "formato_em_alta": "Shorts",
-   "sugestao": "Short de 30 a 60 s com a sua opinião ou reação (poste o mesmo vídeo como Reels no Instagram)",
-   "dica_do_canal": "Seu canal quase não tem Shorts: é uma chance de testar o formato com um assunto que já está bombando.",
-   "n_videos": 1,
-   "views": 716002,
-   "velocidade": 99.8,
-   "engajamento": 1.2,
-   "engajamento_pct": 3.1,
-   "ganho_hora": null,
-   "exemplos": [
-    {
-     "titulo": "CADÊ O MEMPHIS? O CORINTHIANS ESTÁ À PROCURA DO SEU CAMISA 10! 😂",
-     "canal": "Resenha IA Futebol ",
-     "views": 716002,
-     "url": "https://www.youtube.com/watch?v=zcEs14dDeKk",
-     "formato": "Shorts",
-     "views_hora": 17625
-    }
-   ],
-   "gancho": "Cadê o memphis? o corinthians está à procura do seu camisa 10. A pergunta que ninguém está fazendo: quem sai ganhando com isso?"
-  },
-  {
-   "id": "chsaPm1JS5Q",
-   "tema": "Corinthians treina forte e faz jogo-treino contra a Portuguesa; veja os gols",
-   "clubes": [
-    "Corinthians"
+    "Flamengo",
+    "Santos"
    ],
    "origem": "Pauta do radar",
-   "formato_em_alta": "Shorts",
-   "sugestao": "Short de 30 a 60 s com a sua opinião ou reação (poste o mesmo vídeo como Reels no Instagram)",
-   "dica_do_canal": "Seu canal quase não tem Shorts: é uma chance de testar o formato com um assunto que já está bombando.",
-   "n_videos": 1,
-   "views": 22939,
-   "velocidade": 5.8,
-   "engajamento": 1.7,
-   "engajamento_pct": 4.1,
+   "formato_em_alta": "Vídeos longos",
+   "sugestao": "Vídeo de 8 a 12 min com análise e opinião forte logo no início",
+   "dica_do_canal": "No seu canal, Transmissão de jogo rende 4,1x a média: puxe o assunto também na próxima live.",
+   "n_videos": 5,
+   "views": 23340,
+   "velocidade": 6.6,
+   "engajamento": 4.6,
+   "engajamento_pct": 11.4,
    "ganho_hora": null,
    "exemplos": [
     {
-     "titulo": "TREINO DO TIMÃO: SEXTA-FEIRA DE JOGO-TREINO E MUITA PREPARAÇÃO NO CT DR. JOAQUIM GRAVA",
-     "canal": "Corinthians TV",
-     "views": 22939,
-     "url": "https://www.youtube.com/watch?v=chsaPm1JS5Q",
+     "titulo": "🚨 ATENÇÃO, NAÇÃO! Neymar no Flamengo? 👀 MENGÃO TENTA CONTRATAÇÃO DE ATACANTE 🔴⚫🔥",
+     "canal": "Resenha Rubro-Negra",
+     "views": 20852,
+     "url": "https://www.youtube.com/watch?v=8Bbxm25R-Zc",
+     "formato": "Vídeos longos",
+     "views_hora": 1136
+    },
+    {
+     "titulo": "Neymar manda recado a Paquetá após revelação sobre briga e caneta em jogo entre Flamengo e Santos",
+     "canal": "Notícias do Fla",
+     "views": 736,
+     "url": "https://www.youtube.com/watch?v=rRQq0BctlDA",
      "formato": "Shorts",
-     "views_hora": 1032
+     "views_hora": 339
+    },
+    {
+     "titulo": "NEYMAR NO FLAMENGO PAQUETÁ FAZ DECLARAÇÃO SURPREENDENTE!",
+     "canal": "Flarádio ",
+     "views": 846,
+     "url": "https://www.youtube.com/watch?v=VynH3wWJ0Gg",
+     "formato": "Shorts",
+     "views_hora": 221
     }
    ],
-   "gancho": "Corinthians treina forte e faz jogo-treino contra a Portuguesa. O placar diz uma coisa. O jogo, visto de perto, diz outra."
+   "gancho": "O Flamengo contra a arbitragem: alguém está errado nesse lance, e eu vou mostrar quem."
   }
  ],
  "aviso_requisitos": null,
  "temas": [
   {
-   "tema": "Corinthians treina forte e faz jogo-treino contra a Portuguesa; veja os gols",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 75.6,
-   "sinais": {
-    "busca": 65,
-    "aceleracao": 46,
-    "midia": 75,
-    "aderencia": 100,
-    "youtube": 60
-   },
-   "fator_categoria": 1.134,
-   "trafego_google": 0,
-   "busca_torcedor": "portuguesa x corinthians",
-   "termos_trends": [],
-   "n_fontes": 5,
-   "n_manchetes": 9,
-   "assinatura": "corin|portu|jogo-|faz",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Corinthians treina forte e faz jogo-treino contra a Portuguesa. O placar diz uma coisa. O jogo, visto de perto, diz outra.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Corinthians treina forte e faz jogo-treino contra a Portuguesa; veja os gols?",
-    "tecnica": "Contradição",
-    "ganchos": [
-     {
-      "tecnica": "Contradição",
-      "texto": "Corinthians treina forte e faz jogo-treino contra a Portuguesa. O placar diz uma coisa. O jogo, visto de perto, diz outra.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Corinthians treina forte e faz jogo-treino contra a Portuguesa. Foi mérito de quem venceu ou erro de quem perdeu?",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Corinthians treina forte e faz jogo-treino contra a Portuguesa. Minha aposta: depois desse jogo, [SEU PALPITE]. Me cobra depois.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "“portuguesa x corinthians”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Corinthians treina forte e faz jogo-treino contra a Portuguesa. Quem venceu comemora; quem perdeu tem uma conta para acertar.",
-      "thumb": "QUEM TEM RAZÃO?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Corinthians treina forte e faz jogo-treino contra a Portuguesa; veja os gols",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWXRDTktjRUx3eTZFVXBscWEtNmdxNHhCWmZhM2RFZ2kxQ3BrcXp1Skd3ZUs4cnJocTVhNFN0Vk94a1VnekhHVzlqbjVoclN1UFVXajczbnA4VS16YzNTTkY5STBxdEFZSm8wRWNxNnRLNFNPYmN5Zy0zTWR3UnlRRk9ha3hUaWpxYmp2SVJ5R2FNRmZtUmduM0YxMlNPaC1FTDJ6MVV6ekU3Sm1MQjV2dWVIZVU2UDhiRXhFN09nZ1FsSy1D0gHKAUFVX3lxTE1jcVZQUER3X2pMRWplLXlzYkR6blhmRGQyaUNZOGc4eE5nZlpVMlYwZ05IMmpuVHF4TGVEUWhacWhHb2ROQ0xHSDY5c2owcXFVZFdPZmNUTWZHc2RYQ21Ic21rY3JEMlhKUHdRM1VQUncwRXNMUkZVV3ZIY3F4UVRXRkt1MWRJeGloZjBKVDc3bGtZQzlmdkh0LWM1T0JGYUF0ak5oSVR2OVdoX1Iyd0ZXZHhaSHFpN1J6SUI1WDc0MzNYQ0lfRkRpS3c?oc=5"
-    },
-    {
-     "titulo": "VÍDEO: Corinthians faz atividade e disputa jogo-treino contra a Portuguesa",
-     "fonte": "Imirante.com",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnpjNnFlaERUZlVLZVVoT2VwNm9MWHd0Zmh5SXdhVTE5V2JvUU5fMzE1eDAxcFhxelpBM1A3MkcxYUtCcUZXbk1VVmYtVmU5TUVRVkoyeWp3OGZrT2xsQzlhTVM1S0VxRXh3eEY3Zk9zMy1ub19XQUJlWlBTMmRLNGVFa2pLQmxETjE4Y2lxdlhNbUFjOXBOalJTTW02THprTmZBbtIBqgFBVV95cUxQR1dSeDk0M0l0QnQwWGJSa2ZiS09OLVp1TjJGS245X3RNWjg3REI3U2FhdTY2UHdpY3BWSGZleVRINmVMZHBpTlg0ajF0cVdoSUd1dzNCTzJKWEI5UVNzRGRoN1lsUWV1dFJTTkN0YmxpOUxaTmR0eV9tX0hqVkctMDZMY1hPaGpzVGI1M2xSUXM1NGpXZ1kzazJUd0JrUUpHbzFtWUFudW1Kdw?oc=5"
-    },
-    {
-     "titulo": "Corinthians empata com a Portuguesa em jogo-treino no CT Joaquim Grava",
-     "fonte": "Diário de Goiás",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT3gzXzVkSmZvMEhlTkJ3bTVpSV81T1doOWdWQ3dNdGFaOTZJNVctd2xpLU92VVJxVTEwcTZaR25XRzhpTjJncFg0VWhFdEs5MmtoSzNuVjVTdE9PUVVGblJsbmUtcHNhR2lIUVNrYWUxRDdmcFdGSGI5MVJWc0NDSkE4aVFzZDUxcFRFRk41QlJFeXRSVkRqTnVzZEIwMnJwTk9ndW9qZkVMcTg?oc=5"
-    },
-    {
-     "titulo": "Corinthians treina forte e faz jogo-treino contra a Portuguesa",
-     "fonte": "GZH",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaUNiR0VTYmV6WjV3WlZoeDhIMWR4X290N2tGMy1pOE1CamxKNGVKYUxkQS1RV01JVGh5a0Rsd2ZzQlA3M2Z6bFFvTUFaV1FwcGFPdGIyUF9PSFZLQTFRbV9sOU1uWmVkRVdMaHZkcHFHbmdLR2U1ZkJvUExYWUQ0RWJONmpTakhmTW9ueTZvdkVpc01RWlVWalFZemVEOHR5SlY4Z1paQUliRlJIOVBIdlZKRUM5bGlPVENUVXpKUXNUU2dXb0ZFQTFGNEY1UDBMdng3R0RXcmFHMGtXelctVnlVSHI?oc=5"
-    },
-    {
-     "titulo": "Com gols de reservas, Corinthians empata com a Portuguesa em jogo-treino no CT",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZTI0QUppMDNoQkY4aFgzdDJQaG5oMjg5Z01Jc2VUN1JuQUg0cUpjX2pfVXNqenpqd0g0bHpyR0FfWUdDUFNKVWdBQjlZa25TbE43LS1zSGV4ckxTQ2xkd1JsUVFmQm9jaTF6THhLdVJySThpUnZRLVFKQWhJX19PamR6UWdYdnJ2cWJEQ3ZBSmJoODE5Z1BmTFRvY09WTlFxNHJoT0xsLVNNUF9XRHlBNHpZQjBnNy1lUVhv0gHKAUFVX3lxTE1UYmZQQXVnbWx5WWx5LVVjT0w0Sjc5MC1SNS1jRl8ySWg2YmdONGhzLXc3NkVtb19wY1N6N3dKNnFLUUlKY3JrN0RwblVYMWpDemVwWXNUQU5LcThsbmh1d1ZVNEczZVhZWmpVY1lkRlVqUnNHQTZ5NkQ0c3BaMnNCaWxHVDZYX19Bd2Y4bDEwazNuMlBIQjBmUXlKQ1BmdzBCWWZRcUZZNEtOa2FybWlyc1BwTWRTMkRsZG1tQ1ZHVlFqSVVyLWtSOVE?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "chsaPm1JS5Q",
-      "titulo": "TREINO DO TIMÃO: SEXTA-FEIRA DE JOGO-TREINO E MUITA PREPARAÇÃO NO CT DR. JOAQUIM GRAVA",
-      "canal": "Corinthians TV",
-      "views": 22939,
-      "likes": 897,
-      "comentarios": 47,
-      "publicado": "2026-11-06T18:23:49Z",
-      "duracao_s": 97,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=chsaPm1JS5Q"
-     }
-    ],
-    "consulta": "Corinthians Portuguesa jogo-treino treina",
-    "n_videos": 1,
-    "mais_de": false,
-    "views": 22939,
-    "top": [
-     {
-      "titulo": "TREINO DO TIMÃO: SEXTA-FEIRA DE JOGO-TREINO E MUITA PREPARAÇÃO NO CT DR. JOAQUIM GRAVA",
-      "canal": "Corinthians TV",
-      "views": 22939,
-      "url": "https://www.youtube.com/watch?v=chsaPm1JS5Q",
-      "publicado": "2026-11-06T18:23:49Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Carlos Miguel brilha no Palmeiras e busca nova decisão",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 74.3,
-   "sinais": {
-    "busca": 60,
-    "aceleracao": 78,
-    "midia": 75,
-    "aderencia": 100,
-    "youtube": 66
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "carlos miguel",
-   "termos_trends": [],
-   "n_fontes": 5,
-   "n_manchetes": 5,
-   "assinatura": "palme|carlo|migue|decis",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Carlos Miguel brilha no Palmeiras e busca nova decisão. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-    "titulo_thumb": "E AGORA, PALMEIRAS?",
-    "pergunta_enquete": "Qual sua opinião: Carlos Miguel brilha no Palmeiras e busca nova decisão?",
-    "tecnica": "Pergunta aberta",
-    "ganchos": [
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Carlos Miguel brilha no Palmeiras e busca nova decisão. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-      "thumb": "E AGORA, PALMEIRAS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Carlos Miguel brilha no Palmeiras e busca nova decisão. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "12 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
-      "thumb": "TODO MUNDO VIU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Carlos Miguel brilha no Palmeiras e busca nova decisão. Nem todo mundo no Palmeiras vai gostar disso, e eu vou explicar por quê.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Carlos Miguel brilha no Palmeiras e busca nova decisão. Parece notícia pequena. Não é.",
-      "thumb": "NÃO É BEM ASSIM"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Carlos Miguel brilha no Palmeiras e busca nova decisão",
-     "fonte": "Araraquara News",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUklQTEpET3JTX1RTd1puYTY4b0pJM2lieWRMeU9DbV9UY3gwZEV1aEJXaDRSeExWWEdEdk1mV09pOGVrVG5raTJOeHRQOGx5VzhNa043QzYtT2lieHFYa2FwemNNRzhVZDJFbGltNUdYWlM5SHpaYkZ2THRIaVhSbGF5MnZrY3FhS0oxcDJGZzhreUhrZ253WENHZWw?oc=5"
-    },
-    {
-     "titulo": "Carlos Miguel e Marlon Freitas na Data FIFA? Palmeiras se manifesta sobre convocação",
-     "fonte": "Bolavip Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSjgwampmWXpDNVVYRjN1Smptd3pkWU5zQWlocW5YT0RYTGpRZEFMTUxsZHVPTDh1REkwbGZYVXVjeF9LYVoxMVFQNXlwVVNLMEVBZXJ0bGtEN0VNRVc2R3dEZWlzUFRLWEphdlNHWmd2a0JlNHFVOTFURVJURVBfUmVibGpOX1cyM2VHLWlDVFlOd0Fxa2FFWG1JS3ZUWHpyUUZONm5lcDFhWGNsaTlnd0xwS0N0UnJNc1hYV1dkUVRFQ1E?oc=5"
-    },
-    {
-     "titulo": "Palmeiras desmente jornalista sobre caso de Carlos Miguel; entenda",
-     "fonte": "Band",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUnE1NkRXcVhUMmRyNzAzV29VYlk2dlhlMWFhZzRVUllNZFJOU25mXzh3YTgta0RVOGRsT0R6c2c1OEV3STAyM0FLdnk3ZV9ORkg3WkpsNDQ1em81akV2aGltREE4UWR1U09JbXNPUjJMeGxYQVlJMENuWjhsbmJaVVN0X0xNc2VDZFBFMlZlVVR6aUVUbGxUUmp1MnA5a3hEUlUxSTFUNmM5QVpmWEtqSnJNNWRLVkRIbWhTTmczRQ?oc=5"
-    },
-    {
-     "titulo": "Herói em mata-matas, Carlos Miguel mira nova decisão no Palmeiras",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcDAxSVN3OFpTR05DS2Q3RDdtcDBvQ01ZTWE4b3NwUmFNclUyc3pjc1BObnFmTnRZQjlNNlEwMmpoZVhyUkRLaE00d3Y5YjI1Nlk2Sk56R1VtQXpBNnBOZmozcmxEd054QXR1Ri02azVuVi1mc3VYLXBqSzVrM0JfcmVmRmVDMUlYbjJnWVJ1TVY1NkUyVjQ2bnZOYXBEOVhuNlBEX1pNbDRza0lBckplTEhmQ1RWWlRzUWlRNk0yV0w2WktEanJVdEJXZlZoVWpBaGdHX3AydDZwYnAxb0hzS3NtRWlOQU1GT3c?oc=5"
-    },
-    {
-     "titulo": "Rodrigo Mattos: CBF retirou Carlos Miguel da lista de seleção e informou ao Palmeiras",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPa2Q5VHQ5NHctNlBnYzNMdks1MVJYUTdqbXU2cDNiX2NzZnJ3ZFRKZy1KSTl0bWJIUWpYSDZzQ241SkZhakVJUldDeHZ4VkN5eGJGaEFnTDgyY0JvTkZnVVRJTXpBT19tdlI4MmFOOEEwWjc2TzkxRHJFTHd3enFyRm44U1N0WC12UXRFRmMxalBUeG1FYlp5SVJaQUdHTTFvTnlpdDB6eWJZanUyQ0dITGN3cHN3Wmp3eURxcDk0RDJuaWZ3Y0NFc2JwYW5neEMyVXF3NFpkR0pkMy0yQ0FXUkF3?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "2Vys8IYiE6I",
-      "titulo": "REVIEW DA NOVA CAMISA I ATÉ 5 MUDANÇAS HOJE I CARLOS MIGUEL PROMETE LUTAR ATÉ O FIM | EP 38",
-      "canal": "Porco House TV",
-      "views": 6922,
-      "likes": 618,
-      "comentarios": 16,
-      "publicado": "2026-11-06T04:14:12Z",
-      "duracao_s": 4001,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=2Vys8IYiE6I"
-     },
-     {
-      "id": "fdo0jU7G8LQ",
-      "titulo": "🚨 PALMEIRAS DESMENTE A CBF SOBRE CARLOS MIGUEL! QUEM ESTÁ FALANDO A VERDADE?",
-      "canal": "PlacaralhoFC",
-      "views": 1557,
-      "likes": 27,
-      "comentarios": 0,
-      "publicado": "2026-11-07T04:20:17Z",
-      "duracao_s": 60,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=fdo0jU7G8LQ"
-     },
-     {
-      "id": "sXq9ovPvVbQ",
-      "titulo": "Carlos Miguel diz que sentiu que ia bater o pênalti #futebol #palmeiras",
-      "canal": "Novelinha do Palmeiras",
-      "views": 1524,
-      "likes": 64,
-      "comentarios": 0,
-      "publicado": "2026-11-06T14:45:28Z",
-      "duracao_s": 28,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=sXq9ovPvVbQ"
-     },
-     {
-      "id": "WEX2QV3LyAw",
-      "titulo": "Carlos Miguel e Marlon Freitas na Data FIFA? Palmeiras nega, mas desabafo de Abel incomoda CBF",
-      "canal": "JOGOS DE HOJE NA TV ",
-      "views": 1007,
-      "likes": 5,
-      "comentarios": 0,
-      "publicado": "2026-11-07T16:14:59Z",
-      "duracao_s": 10,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=WEX2QV3LyAw"
-     },
-     {
-      "id": "VSQVPqtZPYU",
-      "titulo": "PALMEIRAS DESMENTE O UOL AO VIVO! A IMPRENSA SABE MAIS DA CBF QUE O PRÓPRIO CLUBE?! ☕🚨 #palmeiras",
-      "canal": "ANALISE PALESTRINA",
-      "views": 693,
-      "likes": 45,
-      "comentarios": 7,
-      "publicado": "2026-11-07T11:22:37Z",
-      "duracao_s": 78,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=VSQVPqtZPYU"
-     },
-     {
-      "id": "gcnesa3qyjs",
-      "titulo": "CARLOS MIGUEL FOI HUMILHADO E HOJE DEU A VOLTA POR CIMA BOTANDO O PALMEIRAS NA FINAL DA LIBERTADORES",
-      "canal": "NeizãoBR",
-      "views": 1,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-11-06T12:51:55Z",
-      "duracao_s": 82,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=gcnesa3qyjs"
-     }
-    ],
-    "consulta": "Palmeiras Carlos Miguel decisão",
-    "n_videos": 6,
-    "mais_de": false,
-    "views": 11704,
-    "top": [
-     {
-      "titulo": "REVIEW DA NOVA CAMISA I ATÉ 5 MUDANÇAS HOJE I CARLOS MIGUEL PROMETE LUTAR ATÉ O FIM | EP 38",
-      "canal": "Porco House TV",
-      "views": 6922,
-      "url": "https://www.youtube.com/watch?v=2Vys8IYiE6I",
-      "publicado": "2026-11-06T04:14:12Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "🚨 PALMEIRAS DESMENTE A CBF SOBRE CARLOS MIGUEL! QUEM ESTÁ FALANDO A VERDADE?",
-      "canal": "PlacaralhoFC",
-      "views": 1557,
-      "url": "https://www.youtube.com/watch?v=fdo0jU7G8LQ",
-      "publicado": "2026-11-07T04:20:17Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "Carlos Miguel diz que sentiu que ia bater o pênalti #futebol #palmeiras",
-      "canal": "Novelinha do Palmeiras",
-      "views": 1524,
-      "url": "https://www.youtube.com/watch?v=sXq9ovPvVbQ",
-      "publicado": "2026-11-06T14:45:28Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "CONFIRA DATAS, HORÁRIOS E TRANSMISSÃO DOS JOGOS DO FLAMENGO NAS DUAS ÚLTIMAS RODADAS DO CAMPEONATO BRASILEIRO",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Flamengo"
-   ],
-   "foco": true,
-   "nota": 69.9,
-   "sinais": {
-    "busca": 45,
-    "aceleracao": 41,
-    "midia": 81,
-    "aderencia": 100,
-    "youtube": 60
-   },
-   "fator_categoria": 1.134,
-   "trafego_google": 0,
-   "busca_torcedor": "flamengo x grêmio",
-   "termos_trends": [],
-   "n_fontes": 6,
-   "n_manchetes": 8,
-   "assinatura": "brasi|horar|jogos|datas",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Meu palpite para Flamengo x Grêmio: [SEU PLACAR]. Deixa o seu nos comentários.",
-    "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: CONFIRA DATAS, HORÁRIOS E TRANSMISSÃO DOS JOGOS DO FLAMENGO NAS DUAS ÚLTIMAS RODADAS DO CA?",
-    "tecnica": "Aposta",
-    "ganchos": [
-     {
-      "tecnica": "Aposta",
-      "texto": "Meu palpite para Flamengo x Grêmio: [SEU PLACAR]. Deixa o seu nos comentários.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Flamengo x Grêmio: um precisa vencer, o outro não pode perder.",
-      "thumb": "FLAMENGO x GRÊMIO"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Confira datas, horários e transmissão dos jogos do flamengo nas duas últimas rodadas do campeonato brasileiro. Parece que está tudo resolvido. No futebol, quase nunca está.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "O que o Flamengo precisa fazer para vencer esse jogo?",
-      "thumb": "E AGORA, FLAMENGO?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Veja datas e horários dos quatro jogos que restam para o Flamengo no Brasileirão",
-     "fonte": "O Tempo",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSDA3QUZ3ZVE2TlRWZmtYamdJeHhxT2psUmVveEt0aEFEWHJGMU9JVExSUW91cXNrYmZIeXVjS1hVZG1LRmFKLXV0VmtZQ3NySjRCRkdjMWJ2ZmgxdHozVGphMnQ0RU5CaWFLWG5FeC1Vd0E4YlhQYXZuRDNiUUl4SW1BcExPZ2FlSEVLVDJiQ0ZtVGg5dFo0Z2tjeUhFbFVrT3dFRnBXaTZUQV9oNEtUTEZfVnkxa0RiQVl3U0VaNzkyTkg1QXJveWRNS3BEaEs4cFVEQlZsX0RGOGxHbVZZN3RVRQ?oc=5"
-    },
-    {
-     "titulo": "Flamengo conhece datas e horários dos últimos jogos do Brasileirão",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSWtXTVVsR0VTM3J2a3F3eFphekdCcmZmck5CS195eGRaMDdSRDFPUW9ocjlMcW5lWGs4MDFWZWtDNFdWZ1BZcHNPbDcxeVE2RjlMSEFfMDFvVGtjS3BkaXBwVkFBVkh3RDRGTU5YOERmU3U0YllaWURlYTNhMk9qT1ZlYWRsMFVvSHV5SDVXa3lPX3M2MV90Uy1CRlc0aGpqQnFXdWZ4eGZRWXRfM0pkSDVYdkFuMmgybVdJ?oc=5"
-    },
-    {
-     "titulo": "CONFIRA DATAS, HORÁRIOS E TRANSMISSÃO DOS JOGOS DO FLAMENGO NAS DUAS ÚLTIMAS RODADAS DO CAMPEONATO BRASILEIRO",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92YjhSaXVwQ2hrMEZuQUlTdldtcmp2RXNzQlhWQjR6amgzZ0VTSS1SQmRKV2Z5eUdndUdNMnhxQXU3VUI0czhuakFKcDM1RFhmQjRoQkRn?oc=5"
-    },
-    {
-     "titulo": "Flamengo x Grêmio pelo Brasileirão: onde assistir ao vivo, horário e escalação",
-     "fonte": "Estadão",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdU5fXzQwbDZrMmJlUTVKR2k1Y1g0VHZ0QWEtRW1xR2RTRm1HX010Mm5ac0FpZzdIYXZGaUtieTI0VmRxSUNiR19DdkIzZDJnMEJUS3dmS2xjc2d1Y1kxMUxLcGh2anNmWGUzMzB6M3A5d0FwZVl0dzVtclNHUV84Nkg3R2ExOFQ3NWViSnIwR0FiaGtpZm12RllJM1gxcFdBVVVVNmIxck5id1pYM19wWmVYRjlNTTR2b1BkQVpkSzk1OWp4Q0JkQnNtVQ?oc=5"
-    },
-    {
-     "titulo": "São Paulo conhece datas e horários dos dois últimos jogos do Brasileirão 2026",
-     "fonte": "Arquibancada Tricolor",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeV93WHJiR1lGbnYwQTdfeGM3cnVOWWV5dlFuN0wxM3NNNTRTT2lfUlhhWk5TMmtqa0VSMGtyVTNDak45eDdxbnIyNnJRWnFkTWlEYTlFWFZQVjlmMkpZTXE3NzREWFExaHBlWjMyc2JoTktoVk9KLVJDMDY5eHNwT1NLTWRWT0tIZXdPMlktVQ?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "V0efT8c5JnE",
-      "titulo": "DATAS, HORÁRIOS E TRANSMISSÃO DOS JOGOS DO FLA NAS DUAS ÚLTIMAS RODADAS DO BRASILEIRO!",
-      "canal": "Paparazzo Rubro-Negro",
-      "views": 3003,
-      "likes": 150,
-      "comentarios": 3,
-      "publicado": "2026-11-07T01:16:25Z",
-      "duracao_s": 166,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=V0efT8c5JnE"
-     },
-     {
-      "id": "w8jSSXcfURE",
-      "titulo": "FLAMENGO X ATHLETICO - ASSISTIR AO VIVO PREPARAÇÃO DATA HORÁRIO LOCAL - 35 ª RODADA BRASILEIRÃO 2026",
-      "canal": "EB FLA",
-      "views": 2338,
-      "likes": 39,
-      "comentarios": 2,
-      "publicado": "2026-11-06T08:00:38Z",
-      "duracao_s": 348,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=w8jSSXcfURE"
-     },
-     {
-      "id": "N-P7A6HhtF8",
-      "titulo": "CBF define datas e horários das duas últimas rodadas do Brasileirão #Shorts",
-      "canal": "Canal 10",
-      "views": 543,
-      "likes": 6,
-      "comentarios": 0,
-      "publicado": "2026-11-07T03:22:15Z",
-      "duracao_s": 62,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=N-P7A6HhtF8"
-     },
-     {
-      "id": "fkxOL-i4Xao",
-      "titulo": "CBF DIVULGA DATAS E HORÁRIOS DAS DUAS ÚLTIMAS RODADAS DO BRASILEIRÃO DO FLAMENGO. VEJA",
-      "canal": "DENIS FLA",
-      "views": 266,
-      "likes": 4,
-      "comentarios": 0,
-      "publicado": "2026-11-06T23:28:26Z",
-      "duracao_s": 108,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=fkxOL-i4Xao"
-     }
-    ],
-    "consulta": "Flamengo HORÁRIOS DATAS",
-    "n_videos": 4,
-    "mais_de": false,
-    "views": 6150,
-    "top": [
-     {
-      "titulo": "DATAS, HORÁRIOS E TRANSMISSÃO DOS JOGOS DO FLA NAS DUAS ÚLTIMAS RODADAS DO BRASILEIRO!",
-      "canal": "Paparazzo Rubro-Negro",
-      "views": 3003,
-      "url": "https://www.youtube.com/watch?v=V0efT8c5JnE",
-      "publicado": "2026-11-07T01:16:25Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "FLAMENGO X ATHLETICO - ASSISTIR AO VIVO PREPARAÇÃO DATA HORÁRIO LOCAL - 35 ª RODADA BRASILEIRÃO 2026",
-      "canal": "EB FLA",
-      "views": 2338,
-      "url": "https://www.youtube.com/watch?v=w8jSSXcfURE",
-      "publicado": "2026-11-06T08:00:38Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "CBF define datas e horários das duas últimas rodadas do Brasileirão #Shorts",
-      "canal": "Canal 10",
-      "views": 543,
-      "url": "https://www.youtube.com/watch?v=N-P7A6HhtF8",
-      "publicado": "2026-11-07T03:22:15Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Torcidas de Palmeiras e Estudiantes esgotam ingressos exclusivos para final da Libertadores",
-   "categoria": "Polêmica e bastidor",
-   "clubes": [
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 69.0,
-   "sinais": {
-    "busca": 45,
-    "aceleracao": 70,
-    "midia": 100,
-    "aderencia": 100,
-    "youtube": 47
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "estudiantes tem quantas libertadores",
-   "termos_trends": [],
-   "n_fontes": 14,
-   "n_manchetes": 16,
-   "assinatura": "liber|palme|ingre|final",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "O torcedor está digitando “estudiantes tem quantas libertadores” no Google agora. A resposta não é tão simples.",
-    "titulo_thumb": "VOCÊ PESQUISOU",
-    "pergunta_enquete": "Qual sua opinião: Torcidas de Palmeiras e Estudiantes esgotam ingressos exclusivos para final da Libertadore?",
-    "tecnica": "Dado",
-    "ganchos": [
-     {
-      "tecnica": "Dado",
-      "texto": "O torcedor está digitando “estudiantes tem quantas libertadores” no Google agora. A resposta não é tão simples.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Torcidas de Palmeiras e Estudiantes esgotam ingressos exclusivos para final da Libertadores. Diretoria de um lado, torcida do outro, e quem perde é sempre o time.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Dizem que está tudo em paz no Palmeiras. O que acontece nos bastidores mostra o contrário.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Até onde essa história do Palmeiras vai chegar?",
-      "thumb": "E AGORA, PALMEIRAS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Torcidas de Palmeiras e Estudiantes esgotam ingressos exclusivos para final da Libertadores. Eu aposto que [SEU PALPITE]. Se eu acertar, você me deve um like.",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Torcida do Palmeiras reclama da venda de ingressos para final da Libertadores; veja o que diz o clube",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNXgwYUtKMkZRQzZYb25iNmlXWGZfdjh5V3F0OExyYVlrdVBCendpOUZqVkVBUExUVGdtaWtUU2hCd2toUVNqVjQwcDVUQkpfUE04OUJmV043c2hPang4SmNMa0gzWkRZTUdCQXNGajRDOUd5QW1jdkExYTA5NFpHSUNGa2R0VjdFOWlsNTVkMkM4N0Q4eHZ1cmlaeUJFM3dYUExndlBldDBmeTJtd3lTbDl5aEhoeVMtMnJqOUlpUWFpc3B0cjNBLXlkYTRqQnl6b0R5MTVjM2o1R2RZYldicFdXZVZidW5pemtuUF9wZkRLWndzSVRXVWoxaEtiVWPSAY4CQVVfeXFMUGprZ3B1SVh3MkFvMHk4c1ZzUlhnZHh4YWVZSER3cmVCZVJKdm8tZ0xMZWpBQ1g3T3Q4dkxtU1RzLW1rcUdzMl8tQ1F5R2s2V2pYRnBmUWZHQjZUWU5kRXRlalJ5azBhcldZRjUzQjRRYXdHZm1DQXpIWXN0akl5WXVFbE4zZXFtUlFiWThJRTJnQ0djSndHa1k3bjI5TWVSMHNjSkJHeDRNbXRjckNrb3NsRld5RU5BMldkdFAwVzdRaTNQNFVmWUw1XzVzVHZDRkV3T0RacFVaZGo2RHB0VURySUNSZFJXTGZrd1dqcUN5THVmWkVlTndwQjNiM1RwXzVhTC1ZellIcXA1S1RB?oc=5"
-    },
-    {
-     "titulo": "Palmeiras se pronuncia após polêmicas de ingressos da final da Libertadores",
-     "fonte": "Esporte",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT2xCNUttZ2FQdWZIRHVPaW80MUhSdG9fYkZCMVJ3eVdCLUN4Zlhja3k0V1ktcXB2Rm91SkphUHpoMWR5ckZEWWF1M1V0THhmdlRETUhaanpEZDF5cWY2OGZnNm5reDV3XzRMSnZ6SVlRMWoyWFdmQkhOUmoyV1JQMzY5b1pOaGJNaWJ3bzhTOENDbGdLRkR3NVdLNUptV0dyUl9tRHJpY21YeV9HaDNMSmZ4aHZZWUFseEp6dFdhM2JSVzZpYXNRVTJCVkE?oc=5"
-    },
-    {
-     "titulo": "Conmebol anuncia nova venda de ingressos para final da Libertadores",
-     "fonte": "Gazeta do Paraná",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdkVwZUVnZGUyelhjVlZ3NERfVFlGNjJmV19lRVMxdnd0elBGNUhuM1VFM0hwRnQ2MnJ3U28zbGYyLVRMR1pFNXpUeFhfYVlKWVdLcVJPOEpHUnI0VjNOdTRFV0tHUTdmZWR1azdDZE1TQ2ltUmg2LUE2amlfdUtnSG04b2pjZV9jOURYeUNyTlJEY1cwNDdiREVXcjNUM3NubFcxSWpoYUJEZw?oc=5"
-    },
-    {
-     "titulo": "Fãs do Palmeiras e Estudiantes têm nova chance de comprar ingressos para a final da Libertadores",
-     "fonte": "bra1.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPankza3V6MGZtdktMZTlwWmdZLVRyaDNaeXpUVGRIWF9IUFlBQm85M3hDMENwTlZHZkswWThfT1c4V1lpTnpwMnJqSkpobDBIWWRtd2xiUEYwMWptUS1EcTFIeDM2RktseVVxRGhyTEw1dXBRTTR6RDJvdnR1dEVkcV9za2FGc1k2elVBYzZXSDI4X090a244aHFqamNoU1lwS0wzOW5BQ3pvNkpFM2M0RVFjRUZLU0dEbGVRekJmTENObWw0NWE1VnpGTUp1XzVzT0hmanlB?oc=5"
-    },
-    {
-     "titulo": "Palmeiras e Estudiantes esgotam ingressos destinados às torcidas para final da Libertadores",
-     "fonte": "Tribuna de Jundiaí",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd3BYa0F4bm5ubVJTQmx3QzNFblJpWG5wd0psYXF3dXNsbjB5aF9obDRwQjFVdl9pcEJDTUEzNE9BSTI0bVg1QnBCX2lNeC15dHFPY3RPMnhaU01ZclE5TENQLURvd2lPamNLUjlhZjVOZWFHZ3FVRk9fcnJ3V1B1bW5xQjhGNjE1NWd5VWNZd0N6R0w3RGpFU0FlUVdEajIzR1FTa3pUUlFrTXFvamh1bF82N1ZZQ0I0QWxJMkhod2pneUhhQUZWWlI4T1VKZXBCMEpjXw?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "Njwas02PGEE",
-      "titulo": "PARTIU, FINAL! Torcida do Palmeiras esgota ingressos para a decisão contra o Estudiantes #Shorts",
-      "canal": "TMC Esporte",
-      "views": 2206,
-      "likes": 66,
-      "comentarios": 0,
-      "publicado": "2026-11-06T18:32:45Z",
-      "duracao_s": 69,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Njwas02PGEE"
-     }
-    ],
-    "consulta": "Palmeiras Estudiantes Torcidas esgotam",
-    "n_videos": 1,
-    "mais_de": false,
-    "views": 2206,
-    "top": [
-     {
-      "titulo": "PARTIU, FINAL! Torcida do Palmeiras esgota ingressos para a decisão contra o Estudiantes #Shorts",
-      "canal": "TMC Esporte",
-      "views": 2206,
-      "url": "https://www.youtube.com/watch?v=Njwas02PGEE",
-      "publicado": "2026-11-06T18:32:45Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Palmeiras e São Paulo avançam à semifinal da Copa do Brasil Sub-20",
+   "tema": "Vasco x Palmeiras: escalações, horário e onde assistir à Copa do Brasil",
    "categoria": "Notícia do dia",
    "clubes": [
     "Palmeiras",
-    "São Paulo",
     "Vasco"
    ],
    "foco": true,
-   "nota": 65.5,
+   "nota": 70.8,
    "sinais": {
-    "busca": 65,
-    "aceleracao": 57,
-    "midia": 96,
+    "busca": 50,
+    "aceleracao": 51,
+    "midia": 92,
     "aderencia": 100,
-    "youtube": 82
+    "youtube": 79
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "palmeiras x santos",
+   "busca_torcedor": "palmeiras x vasco",
    "termos_trends": [],
-   "n_fontes": 9,
-   "n_manchetes": 10,
-   "assinatura": "brasi|copa|palme|semif",
-   "ja_coberto": {
-    "titulo": "PALMEIRAS  X   VASCO DA GAMA - SEMIFINAL",
-    "url": "https://www.youtube.com/watch?v=F5utATxqLF0"
-   },
+   "n_fontes": 8,
+   "n_manchetes": 11,
+   "assinatura": "assis|escal|horar|brasi",
+   "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
-    "gancho": "Palmeiras e São Paulo avançam à semifinal da Copa do Brasil Sub-20. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
-    "titulo_thumb": "QUEM TEM RAZÃO?",
-    "pergunta_enquete": "Qual sua opinião: Palmeiras e São Paulo avançam à semifinal da Copa do Brasil Sub-20?",
-    "tecnica": "Conflito",
-    "ganchos": [
-     {
-      "tecnica": "Conflito",
-      "texto": "Palmeiras e São Paulo avançam à semifinal da Copa do Brasil Sub-20. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Palmeiras e São Paulo avançam à semifinal da Copa do Brasil Sub-20. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Palmeiras e São Paulo avançam à semifinal da Copa do Brasil Sub-20. Isso é bom ou ruim para o Palmeiras? Responde antes de ver a minha análise.",
-      "thumb": "E AGORA, PALMEIRAS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Palmeiras e São Paulo avançam à semifinal da Copa do Brasil Sub-20. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "133 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
-      "thumb": "TODO MUNDO VIU"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Ao vivo: Vasco x Palmeiras | Semifinal | Copa do Brasil",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWGwxbFk3TmlTUV9rVEkwUTBwTnhnSDFCdGhUMjNsT1owRUpsYVRydDJnQURrMEplNjlWNERickhYcDRyS1htbW45bVRSYkd6NU4wT2pOdHlHQ19Bc0E0QjZWWHRHTW4wQ2pONWRLLXRZWGhoLXJQNk1Ba1N2aXVBQTNJN2R3T2RIVTdKcA?oc=5"
-    },
-    {
-     "titulo": "São Paulo x Atlético-MG na Copa do Brasil Sub-20: datas e onde assistir",
-     "fonte": "Arquibancada Tricolor",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbC1nUDdmRTdSajNWSl9YZmkzZ3I2dDNWNlo5eHpKdS1QdDF3NHdWYUtGZldyTkdwLWxjaDZWb3VDYW0zU1U1ZnNlOUp0ZVpzODltcm1uUTQxeWNuaXQ4SEZpX0p5R1dCR1RCN2hZNlZCOHFPX3FkVVREcEwtOWhxZkZVVVdZdw?oc=5"
-    },
-    {
-     "titulo": "Repórter da VascoTV, Matheus Mad mostra os detalhes de Palmeiras x Vasco no jogo de ida da semifinal da Copa do Brasil; veja vídeo",
-     "fonte": "NETVASCO",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYTRFYktvY3dmXzFCX2RQUEVwWm8wRXpId1FhMG5pQU5NbFIyRW9LQmJ0aEdjSzlacGtIWEp1NWwyUFN4bHRKd0lqV3ZkZVZuOHFxQmZPNXRxUHhSY0lQSFhEdGt4RmlXRHRzVFFYOWtzRlV3dkJDTG15N2V2bkMzVmVpY3hENFlPREQwU3ZhWGw5SlRTUHpkLU5DU2wtbWtQT3FBTmU3UHNMM1QtV0ZfNnRiN005XzFWTThPbEo2TnpMMTlWajJwcTZZR0pvcU1meDlCMjJIZEh0VUwydlF1aVkyNlAxMjc2ckR1dkhQS0RhSndpM0ViOQ?oc=5"
-    },
-    {
-     "titulo": "Vasco x Palmeiras: onde assistir! Verdão desafia o Vasco em São Januário na semifinal da Copa do Brasil",
-     "fonte": "thefootball.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcnZabnFLYnNRTkVRMXRacHhnVm5LU0dLb0xLRnBxNlFmUFpxM29helJvUVQ0VEhERUlsTGVMMEpvQkgteTRjVzNZaGlkSFNTWE5xcGhSUmktNzRYVGxqVmsybW5GZnlXcmR3ckVwS3lRTWNrenhLekQzV0JxRlo3REJwOU1FUlRLRGJjRGQ5Z0V1V0ZGeGJpUDlpS3pVUG1KbEhPeEVObkowRVZxN0QwV1d4TDB3RmZEWTVqNWNQeWlpTjFraUNDWHZ2M0NPaG9LZHd1ajl3bFF2b3lUUHZ5ZGdFNA?oc=5"
-    },
-    {
-     "titulo": "Copa do Brasil pode ampliar vagas na Libertadores e alimentar esperança de São Paulo e Santos",
-     "fonte": "Tribuna de Jundiaí",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQjNOb18yMmVXQm15SS1od1docWpWUHIxU0dTSEZfUERiUnY4NGVHcHNPZldEbFFzTE13c2tGb0c4WTJKSWR5Rl9YVk9JLUJWT09fUEVadm9LekRSRFNCNTQwa1FoSExWMDVscDZCOXl3VnFpaldNT2VocmRkSlBxM1JfdzRydHFrazUteW13bnNCLTlzdDcxdXc4TjdRdDhtWHE0cWhUUjFveEFUeXZ5WVVwVVJ3LVkzRWwyck81WTFsV1NBdHljSXNReU9FQWFoX1BPNTVTOA?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "mCSLxLZ0uak",
-      "titulo": "PAYSANDU 1 X 3 PALMEIRAS | MELHORES MOMENTOS | COPA DO BRASIL SUB-20 2026 | sportv",
-      "canal": "ge tv",
-      "views": 58477,
-      "likes": 437,
-      "comentarios": 21,
-      "publicado": "2026-11-05T22:53:22Z",
-      "duracao_s": 212,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=mCSLxLZ0uak"
-     },
-     {
-      "id": "rL-apSZQEHA",
-      "titulo": "PAYSANDU 1x3 PALMEIRAS | JOGO DE VOLTA DAS QUARTAS DE FINAL DA COPA DO BRASIL SUB-20 2026",
-      "canal": "O Tikitaka Sports",
-      "views": 26932,
-      "likes": 129,
-      "comentarios": 0,
-      "publicado": "2026-11-05T23:21:18Z",
-      "duracao_s": 8686,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=rL-apSZQEHA"
-     },
-     {
-      "id": "DCWMki4NOhk",
-      "titulo": "PAYSANDU 1 X 3 PALMEIRAS AO VIVO | COPA DO BRASIL SUB-20 2026 | QUARTAS DE FINAL",
-      "canal": "Dimensão Esportiva",
-      "views": 22361,
-      "likes": 104,
-      "comentarios": 0,
-      "publicado": "2026-11-05T23:19:34Z",
-      "duracao_s": 12467,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=DCWMki4NOhk"
-     },
-     {
-      "id": "H2EC6BY4HFA",
-      "titulo": "PAYSANDU ASSUSTA, MAS PALMEIRAS GOLEIA E AVANÇA À SEMIFINAL SUB-20 | MELHORES MOMENTOS",
-      "canal": "Conexão Fla",
-      "views": 20233,
-      "likes": 99,
-      "comentarios": 9,
-      "publicado": "2026-11-05T22:45:50Z",
-      "duracao_s": 536,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=H2EC6BY4HFA"
-     },
-     {
-      "id": "-jsqGFr0OOY",
-      "titulo": "VERDÃO ESTA NA SEMIFINAL! PAYSANDU X PALMEIRAS - MELHORES MOMENTOS - COPA DO BRASIL SUB-20 2026",
-      "canal": "FUTEBOL EM DESTAQUE",
-      "views": 3921,
-      "likes": 33,
-      "comentarios": 1,
-      "publicado": "2026-11-05T23:10:47Z",
-      "duracao_s": 639,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=-jsqGFr0OOY"
-     },
-     {
-      "id": "ngzQJPppepY",
-      "titulo": "TRICOLOR HUMILHOU O VERDÃO E ESTÁ NA SEMIFINAL | Palmeiras x São Paulo | Melhores Momentos | Sub 15",
-      "canal": "Yara Fantoni Esportes",
-      "views": 773,
-      "likes": 24,
-      "comentarios": 2,
-      "publicado": "2026-11-07T13:55:27Z",
-      "duracao_s": 1075,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=ngzQJPppepY"
-     },
-     {
-      "id": "jMZyBWl7x4Y",
-      "titulo": "Fabiano e Kidani marcam, Palmeiras vence São Paulo novamente e avança à semifinal do Paulista Sub-20",
-      "canal": "Canal Verdão Info",
-      "views": 532,
-      "likes": 41,
-      "comentarios": 4,
-      "publicado": "2026-11-05T19:04:52Z",
-      "duracao_s": 506,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=jMZyBWl7x4Y"
-     },
-     {
-      "id": "ORJwgldygnc",
-      "titulo": "EM ALTA: Palmeiras vence o Paysandu por 3 a 1 e vai à semifinal da Copa do Brasil Sub-20 #Shorts",
-      "canal": "katavNews",
-      "views": 70,
-      "likes": 0,
-      "comentarios": 1,
-      "publicado": "2026-11-06T10:12:34Z",
-      "duracao_s": 33,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=ORJwgldygnc"
-     },
-     {
-      "id": "Y7KNTkxgJfQ",
-      "titulo": "CLASSIFICAÇÃO DO VERDÃO! PALMEIRAS ELIMINA O PAYSANDU | MELHORES MOMENTOS | SUB-20",
-      "canal": "Lances & Gols",
-      "views": 49,
-      "likes": 1,
-      "comentarios": 0,
-      "publicado": "2026-11-06T15:50:18Z",
-      "duracao_s": 536,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Y7KNTkxgJfQ"
-     }
-    ],
-    "consulta": "Palmeiras semifinal Sub-20",
-    "n_videos": 9,
-    "mais_de": false,
-    "views": 133348,
-    "top": [
-     {
-      "titulo": "PAYSANDU 1 X 3 PALMEIRAS | MELHORES MOMENTOS | COPA DO BRASIL SUB-20 2026 | sportv",
-      "canal": "ge tv",
-      "views": 58477,
-      "url": "https://www.youtube.com/watch?v=mCSLxLZ0uak",
-      "publicado": "2026-11-05T22:53:22Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "PAYSANDU 1x3 PALMEIRAS | JOGO DE VOLTA DAS QUARTAS DE FINAL DA COPA DO BRASIL SUB-20 2026",
-      "canal": "O Tikitaka Sports",
-      "views": 26932,
-      "url": "https://www.youtube.com/watch?v=rL-apSZQEHA",
-      "publicado": "2026-11-05T23:21:18Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "PAYSANDU 1 X 3 PALMEIRAS AO VIVO | COPA DO BRASIL SUB-20 2026 | QUARTAS DE FINAL",
-      "canal": "Dimensão Esportiva",
-      "views": 22361,
-      "url": "https://www.youtube.com/watch?v=DCWMki4NOhk",
-      "publicado": "2026-11-05T23:19:34Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Corinthians pode ter até nove desfalques contra o Botafogo após Data Fifa",
-   "categoria": "Lesão e desfalque",
-   "clubes": [
-    "Corinthians",
-    "Botafogo"
-   ],
-   "foco": true,
-   "nota": 65.0,
-   "sinais": {
-    "busca": 70,
-    "aceleracao": 49,
-    "midia": 75,
-    "aderencia": 100,
-    "youtube": 42
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "estudiantes x corinthians",
-   "termos_trends": [],
-   "n_fontes": 5,
-   "n_manchetes": 5,
-   "assinatura": "corin|data|desfa|fifa",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 2 min)",
-    "gancho": "Corinthians pode ter até nove desfalques contra o Botafogo após Data Fifa. A leitura óbvia é uma. A que importa é outra.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Corinthians pode ter até nove desfalques contra o Botafogo após Data Fifa?",
-    "tecnica": "Contradição",
-    "ganchos": [
-     {
-      "tecnica": "Contradição",
-      "texto": "Corinthians pode ter até nove desfalques contra o Botafogo após Data Fifa. A leitura óbvia é uma. A que importa é outra.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Corinthians pode ter até nove desfalques contra o Botafogo após Data Fifa. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Corinthians pode ter até nove desfalques contra o Botafogo após Data Fifa. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Corinthians pode ter até nove desfalques contra o Botafogo após Data Fifa. Por trás disso, tem dois lados que não querem a mesma coisa.",
-      "thumb": "CORINTHIANS x BOTAFOGO"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Corinthians pode ter até nove desfalques contra o Botafogo após Data Fifa",
-     "fonte": "JM Online",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeVVNSjBnd0ROWVhZeEw1VVZMeUV2V2owdHBJVGRwcW9pR1lkYTMzQTNhSGQ4MHdRQ1hkUW85eXJDbElPOGF4SUNoM2luLUNGSTRCMHdSUUZDN0l3WW4zOWNfWWVBX19uSmViNlpFakNPaXZnMXF5eXBtSHVUN3N1b3FxN05QVFBfd3M2dVM4SzhSanBod1kzc01idVp6RmlibVp6a28zUWtBM0VSdjd1bDlSdk_SAbwBQVVfeXFMUDExei1GY2d4WWZDNDZNN0o0S2gwV3Btc2lIRkhnUnFNcFNEbGJaMWp0NmJ4eHN2VmY5MDM0aUNiU1pmNW80MU50UUJrZ3lqNGFRdXBUbWsyaDl0Rk9pVUJzQUhPYy04alNHWHNjdzVZdmRjN1NzbTNpb2FpMmpaVVQ5bG55TkRBNURGS2FabTdlOGczZ2JZVWFoSVl2bGdDWnBqVmhaa1JYRDAyaV9qcEl5SGRObFFOMXBheWY?oc=5"
-    },
-    {
-     "titulo": "Seedorf acaba com 'modo Diniz' em novo plano para Data Fifa do Corinthians",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU0dwX191d3JTT3I5WVBuSHg2dDVUOU9OZjVqNGZVOFBGbE03cmNGeGtKTFpqWWdlOFpqS05tdG9Mak1SNU9oc3VIQmNxNlpHOENJX2hZUnRqN29xNTB5NHR5dFpOTVhWQ3o1WnlOMThUeGZpbzJ0QklSalJfdUNwbXlkaTl0bnhHVEttdi1SUFI1MTRRTVhRcGZZY3MwU0VkNjhOanJMaEQ0bmo3Mm03UlhsYjZKbTV4dUFnLUZib3pJTy1IVE5DOXBpRWN3cG1PY0JGVm4yeWFPRjc0?oc=5"
-    },
-    {
-     "titulo": "Seedorf estuda opções para suprir desfalques do Corinthians contra o Botafogo",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd21rQkxncUtOM2dFNU5mXzBoYUFROWcwVmJmb180RzZTTEUxZGNfcGIyenFRLWlXVjg4TjRWWXFOSTlCOHJlWmdsNUhtWWxWSHlsbmdDVXItTWx1Wi1wdUhQWFNZTTlxSV84RzVNTEZucVB4cUtqWV9EckVxLVNCcTR4dDFhT29Hb3R1b0V6MnRDVE5EcWFEdU4weDVZa3VSOWVpRTgyX0kwX2dIazFXOE5DdnNkMFh2S2FrNTVCclY0UHc2bUZ30gHMAUFVX3lxTE5pSWpVZ1BQYzFKYzJwdkhnbTBPUGRhbmxuTkFrZE9zcFd6c19ST0tDY1ROWGh3U19MNXZrbFpqWXF5UWVCZG1oTGhaVkRVV2xDOGp2TGdTNC1rVzAzc2lUOGxCR29mZXEtV0NzY01ZWFRMeXc1eGZpVkVGMktXS0VxZ3hkMTNkUDhNZGFkZjFYaDNyWUp5MTBWX1BSLWZDZ3c2QTk2ektmV29Zc0dlOURaeXdCRlpmVnhzSkNKei1MbTZZWXV2d1pJVWRUbQ?oc=5"
-    },
-    {
-     "titulo": "Corinthians pode ter até nove desfalques no retorno da Data Fifa",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORVZJaEZBeGtNUFZCZlBOX0ppUkd2NGthak5BZzBVWE1QVktJcUtQNU5rWWxiVUZ1cllqc3pjc0gydzJOQzlKZ0hxSkJfVUFBaTNHV0Z2YXp1V2E0ZHlDXzZ0TXEycWFOdlpFeGk3dFlCaDJWU0tJLWpHTGVFZGZ0SXB4RS1OUmZlLTdmbHJpbFByTmRFaVZxa2ZEOW5XX092cHpaY0dYMGY3Zw?oc=5"
-    },
-    {
-     "titulo": "Reabilitação de Memphis, opções para os desfalques: os desafios do Corinthians na Data Fifa",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdFlpTk9FR1FpaGZmX1lMTVN2dTNQdnZLVksybU93azBJeF9kTEVua1JZNE9BVWlzQWNvX0JSVkFjdkJVaE00YXNUWk9MdVI3UW9JblotY0lYTGRSX0otNG1LREJYaWlFNkpsUVFsRThVTnJRUy1lVmw2QWVCSWd5ZzNzcTA3MjJ1d2hYTUZzbndMRHpRLW5zeHpxbFMzaVBleGZNR3lib3FCR0F4cWF6UnVCWncwb1RnNVFPTnBGem5RYTNBYnZzWjNXa3ZiVXFzWnFURU43NElPNEpJd2VnWFBNVDJLWFNyZl8wVUdELUcyLU3SAYICQVVfeXFMTVd2ZDl6SWtieG1oYTRfYTUxbkNZeWVYY2Z3cUpQRkNMWU0zelllYlpJZEtpa3haTWVuTDAzdlozRU1mdDltY3g1eng4V0NXaV9kNHphc0t5X2R6YTVQa3BpOXhjMnQtUEltUFVuQlR0UEdGVzdlWHJjSkpFZzh4ZjlCUllScEpITDFKQ0JhTTBCZkR5cmJWSWNZY0laT1NBNFZHaTNpY3BsWk5tNDV2WkdwSHlIY2ZmUW90NjZ6RUtURVZqRVpXOFhTdWpWbHZfdEdDUUswN25ZVmpOVFJNQXU1STE3OHVHNjBaMFRGdjNUYW85SFJCVk5qMXdPeTc3V1ZB?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "aWUMWk3M86k",
-      "titulo": "Corinthians tem 4 desfalques certos contra o Botafogo",
-      "canal": "Dossiê da Fiel",
-      "views": 441,
-      "likes": 7,
-      "comentarios": 0,
-      "publicado": "2026-11-07T12:00:08Z",
-      "duracao_s": 36,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=aWUMWk3M86k"
-     },
-     {
-      "id": "C4Scu-RlMWI",
-      "titulo": "Corinthians com desfalques para jogo contra o Botafogo",
-      "canal": "Choque Curioso",
-      "views": 43,
-      "likes": 1,
-      "comentarios": 0,
-      "publicado": "2026-11-07T08:11:05Z",
-      "duracao_s": 47,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=C4Scu-RlMWI"
-     }
-    ],
-    "consulta": "Corinthians Data Fifa desfalques",
-    "n_videos": 2,
-    "mais_de": false,
-    "views": 484,
-    "top": [
-     {
-      "titulo": "Corinthians tem 4 desfalques certos contra o Botafogo",
-      "canal": "Dossiê da Fiel",
-      "views": 441,
-      "url": "https://www.youtube.com/watch?v=aWUMWk3M86k",
-      "publicado": "2026-11-07T12:00:08Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "Corinthians com desfalques para jogo contra o Botafogo",
-      "canal": "Choque Curioso",
-      "views": 43,
-      "url": "https://www.youtube.com/watch?v=C4Scu-RlMWI",
-      "publicado": "2026-11-07T08:11:05Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Classificação do segundo turno: Flamengo segue líder, Inter passa o Grêmio, e Corinthians fica em 20º",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Corinthians",
-    "Flamengo",
-    "Grêmio"
-   ],
-   "foco": true,
-   "nota": 61.1,
-   "sinais": {
-    "busca": 45,
-    "aceleracao": 36,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": 46
-   },
-   "fator_categoria": 1.134,
-   "trafego_google": 0,
-   "busca_torcedor": "flamengo x grêmio",
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 4,
-   "assinatura": "gremi|corin|inter|segun",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Corinthians x Flamengo: qual é o detalhe que vai decidir?",
-    "titulo_thumb": "E AGORA, CORINTHIANS?",
-    "pergunta_enquete": "Qual sua opinião: Classificação do segundo turno: Flamengo segue líder, Inter passa o Grêmio, e Corinthians ?",
-    "tecnica": "Pergunta aberta",
-    "ganchos": [
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Corinthians x Flamengo: qual é o detalhe que vai decidir?",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Eu aposto que o Corinthians [VENCE / EMPATA / PERDE], e explico por quê. Qual é o seu placar?",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Corinthians contra Flamengo vale mais do que três pontos, e os dois sabem disso.",
-      "thumb": "CORINTHIANS x FLAMENGO"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Corinthians x Flamengo parece um jogo com dono. É exatamente aí que mora o perigo.",
-      "thumb": "NÃO É BEM ASSIM"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Classificação do segundo turno: Flamengo segue líder, Inter passa o Grêmio, e Corinthians fica em 20º",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOR3ZjS3Q0NmxsLUtCLUxDTGViNmRFMTE1MFp4ZkFFLVRfeG5xS3dvSWRYOFNfaHQ5VlZDY05uZGlxV0pFQ3JvSEY5Q1FINkpRYk83WmxkUFdSdDBPblJHdjlWWVV4LUxfMlBDZXFldVFwR1JaZnRFUVFHdkZrblhHWWFDbS1lTnVaaUNWTFRvNjdqZUhVd0paTTdyWWtvOUxOdkZLdmU5eXhzT0VMVFMwa0x0U2NuelUyTTFta2pfQWtBRHZ2c3JyaE5kMXJfbWJYSzQ1NTNza1NoMmVNX2RldldIaEZEbDdmVHRrdNIB-wFBVV95cUxORm5Tb3ppZ3psSkhtWDE5U2EtMnpmb3ZlcXhURDJCNnFoZFFNcTZ6clF2MHVLQjhXNk1XTUpDdFNZOTg1cGo4V1lwZ3RZWjByWWNTS25GdWpkSW1STkVWTm9IQ01JRURURUhsc253UzBYLVI1enNPVjZ0QUV1aTdQa3NJMEcyRnNSTlRtSmtmTy1MTEFRcmZ4V25vR28zVGNlLXg4MEJ2dnRfV0M5bUlJanRkMkZTTlZYc0JjVEZlemNXclRRVloyakdhSTBienl2RE5FUHR6YkVQSFo3VkNUbmt2aWlYRnAtRlcxeVJoUERLMGJMMTZlbGJBNA?oc=5"
-    },
-    {
-     "titulo": "Não vai ter Globo: duelo decisivo entre Corinthians x Grêmio fica sem TV aberta",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUHI0Yjg0NFE2eVozRGFfOWVuaHpteXpOaEVhYUlXakxCSWVyMUg3V09jOURma0pMLXlZOFItNVJRbUVYcVBmVHJEYWlwVElFcTI5bzIxOWxuSmVtdnFBTk9UY0JZaXJSTmUwTWd1RmpDWWxQRGJ4ZTktSHd5eHNDQWVaUjQ2cER1bGxMMnZ2SERYeGEzdnJXcTk1b0hkRElMV1BQQ2NRZmNwajQ5dk4wQUhEQ3MzakN3WDNIc01zZm1jYklQV2d3Vi1HYlZPbFB6MTBja1g1eDVvWWZxQTJBd2tKMVlTdHVNbC1rX0MzMEIwLTlac1BMVXFPV1h1aE94dDIwUzRQeXpOZG5ISFAyYkliMA?oc=5"
-    },
-    {
-     "titulo": "Corinthians, Grêmio e Internacional: veja quem tem a tabela mais difícil na reta final do Brasileirão",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPbkNtdUs0N2piRmdaVVkxVTN0Qm1rRmlVWkRKNlE0cmp0Uko4VmVoUVlYWXlMci1JM3VOUE45ZWhXczYtZEhUN1pucTB5S05mdkRQeWpBZ0JBdGhsQzM5dU43dzZEQmZKU3VCYTdUNU95Q1dqOFhjX3FwdXd5cVU4aTRKRl9oblVXRDB6NU02X3hTTTMxQ05HdGVjRGVmMGFEQzhLVU1ySzlzaUZPMmtXVTk2eFktWEZVMVB1eFg4eW5JOW9nZVNYREdlV09OSWVBSFloQml3SUdocGdIZWZlREM3UkQ2OW5NOFl2NDNsX1VDekMxd2JkZTJobkdmemRqWGlkR1dwZndzbnBSUFhVR19DZFZ4YV9DalN3?oc=5"
-    },
-    {
-     "titulo": "Segundo o GE, o zagueiro do Flamengo, Vitão, entrou na Justiça contra o Internacional para cobrar valores referentes à sua saída do seu ex-clube. O defensor alega que nenhuma das parcelas previstas no acordo firmado entre as partes foi paga. O acordo p",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43WnE5WUdxMnBKTDM4VFIzclZDZkFReWQybHE0dlZtQnIwT09TVlNSZ1pLTklheW5xaDFRYlJoMkZZTE8yRW1IcjVuTF90cXc1UUE?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "9YV_6Isk6Ik",
-      "titulo": "O Dia Que o Timaço de Fábio Carille Amassou o Palmeiras! Brasileirão 2017 [ Globo 1080p ] COR x PAL",
-      "canal": "BRZINHD™",
-      "views": 1809,
-      "likes": 32,
-      "comentarios": 3,
-      "publicado": "2026-11-06T22:31:16Z",
-      "duracao_s": 1255,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=9YV_6Isk6Ik"
-     }
-    ],
-    "consulta": "Corinthians segundo turno",
-    "n_videos": 1,
-    "mais_de": false,
-    "views": 1809,
-    "top": [
-     {
-      "titulo": "O Dia Que o Timaço de Fábio Carille Amassou o Palmeiras! Brasileirão 2017 [ Globo 1080p ] COR x PAL",
-      "canal": "BRZINHD™",
-      "views": 1809,
-      "url": "https://www.youtube.com/watch?v=9YV_6Isk6Ik",
-      "publicado": "2026-11-06T22:31:16Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Parma x Bologna: horário, escalações e onde assistir (Campeonato Italiano 07/11)",
-   "categoria": "Jogo e resultado",
-   "clubes": [],
-   "foco": false,
-   "nota": 59.8,
-   "sinais": {
-    "busca": 70,
-    "aceleracao": 90,
-    "midia": 58,
-    "aderencia": 60,
-    "youtube": 35
-   },
-   "fator_categoria": 1.134,
-   "trafego_google": 200,
-   "busca_torcedor": "bologna italia",
-   "termos_trends": [
-    "parma x bologna"
-   ],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "parma|bolog|assis|passa",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Assista a Parma Calcio 1913 x Bologna ao vivo hoje. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+    "gancho": "Vasco x Palmeiras hoje: horário, onde assistir e escalações. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
     "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Parma x Bologna: horário, escalações e onde assistir (Campeonato Italiano 07/11)?",
+    "pergunta_enquete": "Qual sua opinião: Vasco x Palmeiras: escalações, horário e onde assistir à Copa do Brasil?",
     "tecnica": "Aposta",
     "ganchos": [
      {
       "tecnica": "Aposta",
-      "texto": "Assista a Parma Calcio 1913 x Bologna ao vivo hoje. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+      "texto": "Vasco x Palmeiras hoje: horário, onde assistir e escalações. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Dado",
-      "texto": "O torcedor está digitando “bologna italia” no Google agora. A resposta não é tão simples.",
-      "thumb": "VOCÊ PESQUISOU"
+      "texto": "42 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
+      "thumb": "TODO MUNDO VIU"
      },
      {
       "tecnica": "Conflito",
-      "texto": "Assista a Parma Calcio 1913 x Bologna ao vivo hoje. Por trás disso, tem dois lados que não querem a mesma coisa.",
+      "texto": "Vasco x Palmeiras hoje: horário, onde assistir e escalações. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
       "thumb": "QUEM TEM RAZÃO?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Assista a Parma Calcio 1913 x Bologna ao vivo hoje. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
+      "texto": "Vasco x Palmeiras hoje: horário, onde assistir e escalações. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Assista a Parma Calcio 1913 x Bologna ao vivo hoje. E agora: o que muda para o seu time?",
-      "thumb": "E AGORA?"
+      "texto": "Vasco x Palmeiras hoje: horário, onde assistir e escalações. Isso é bom ou ruim para o Palmeiras? Responde antes de ver a minha análise.",
+      "thumb": "E AGORA, PALMEIRAS?"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Assista a Parma Calcio 1913 x Bologna ao vivo hoje: onde a partida passa na TV e no streaming?",
-     "fonte": "Goal.com",
-     "url": "https://www.goal.com/br/not%C3%ADcias/assista-a-parma-calcio-1913-x-bologna-ao-vivo-hoje-onde-a-partida-passa-na-tv-e-no-streaming/blt897b979e588bfafa"
+     "titulo": "Bragantino x Inter hoje: onde assistir ao vivo, horário e escalações pela Copa do Brasil Feminina",
+     "fonte": "GZH",
+     "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNTk9CTURkSEZVcWlsYWZzT2N6bzRGLV9UNTI4b1hDaFhrY25ub2RWUDhGaVlmNERSRVgxS25weWkxaFB3SVZrYk55VF9WbG83Y05KR3lSMXhDNHo5MFhRZkxRZGdUUDY1dFVsVWNUejgxdFlQakJob0hkdEVyb19WeFRWSFU2RUlXMHpYQmprWVB2dEV4eGhrbjFXOU1kUnFTVXBmYWRlU0dRVEplZGtITm9HLUE5anVPMTN1TlhsSmlldzdLdjFpMURzQ3VKa3ItempvSUZ4LWgwd3F4WjdKTXRVTlBNNy1WRld2RlRUNEs4N0plUHlMcmx6QVE2Z3RaaDJvXzdhdDVrU0FEQ3VuNFVhT2ZDOGg0bzdhUWRFYmhlMEJxVDVZ?oc=5"
     },
     {
-     "titulo": "Parma x Bologna: duelo pega fogo na Série A! Bologna busca quarta vitória seguida, enquanto Parma tenta repetir goleada histórica",
-     "fonte": "Portal de Camaquã",
-     "url": "https://www.portaldecamaqua.com.br/noticias/112987/parma-x-bologna-duelo-pega-fogo-na-serie-a-bologna-busca-quarta-vitoria-seguida-enquanto-parma-tenta-repetir-goleada-historica.html"
+     "titulo": "Vasco x Palmeiras na Copa do Brasil: onde assistir, horário e escalações",
+     "fonte": "VEJA",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcEJ5eHBIdHZQNHFWR0tHRmJpeGhZc2d6Q0hEbVFjazhKbWR4NDQ4WHkwS1VGTzBoZ29hT3hGaHRlMjhWd1pZYlpEYmh0ZnhBX2tURnFUbjdGd1d1TC1qVS1fNTV3NkhtbGRhUk44amxsRV9vUTVFVzItVW9wMUZKanRCTVJWc3Z5TVg4RW1RV3p3OFFYX1dGZlJ2QkNZdlVtVHh4a0Qyb3I?oc=5"
     },
     {
-     "titulo": "Parma x Bologna: horário, escalações e onde assistir (Campeonato Italiano 07/11)",
-     "fonte": "ogol.com.br",
-     "url": "https://www.ogol.com.br/noticias/parma-x-bologna-horario-escalacoes-e-onde-assistir-campeonato-italiano-07-11/1252869"
+     "titulo": "São Paulo x Corinthians no Brasileirão: onde assistir ao vivo, horário e escalação",
+     "fonte": "Estadão",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdFVaRmoyckI0ZkJZMXEtbDFmSzdySi1SOG45eTh1WjJzb3loaU41NmRHVzBxb19keENxdFRqbEYzU2VOMVRNV2YzZjUzY0QyOFI4VzlCVXhVRzl2UE96Y2Y3UDZabTdTYXAyZXU4Q1JYclA3d2IydmFKVEN6YzJRaXVnaFRtaUUyMG1zXzl2RUhjMkR3TXE3SGpZRWc4bllFMk1WWU9ETEFZWmEzNzZldDQzVTBwMGtSdy1fT1owbVVoMHZ0Smw3MzJZSm5RajVN?oc=5"
+    },
+    {
+     "titulo": "Vasco x Palmeiras hoje: horário, onde assistir e escalações",
+     "fonte": "Hoop78",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQalFfRHVxOHdKNVo0QU8xSnVhX2ZaUGJaSUc4NVgwUTl1VEU3TGkwT3FqQVVDS25hUzJOVEtWemp6MVJleFM2MnN1dlF2S2ROWVJQbm5RdlA0LUxtS05rY2J0dE5pODgxVHB1QmlVYUEzdEw2OGhEYmZkcnVTdG5QbGh0UENKbXZxRkNjcUljVXlzZw?oc=5"
+    },
+    {
+     "titulo": "Vasco x Palmeiras: escalações, horário e onde assistir à Copa do Brasil",
+     "fonte": "Band",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQejBqbTF3am4taEZrX3RIMnF5T0dqWDI5NXJQOUp6TkNPUWFNLXJwU0lvMFY2Njg1YjlWeHFTVFRuYmZoYkxsbWh6SS03aXFIVHZPazdDckFWeUF4ZFQxb0xZUURERzQ4UmZFTl9MazFtZVNybGFWel9zMHVJQ1d5U2JFUE1mU3Itb0dZaFNqWWhKeGx2Q0RBRjhuZmdLUWFoWUtCa2ZBakdyNUtaZ3pVbzJfd2JXeVN4b3VsLTFvM2tYaEE?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "ecUTo6eEJSM",
-      "titulo": "PES 2021 | Parma vs Bologna – Serie A 2026/27 | Simulazione Realistica",
-      "canal": "PES Battle Zone",
-      "views": 44,
+      "id": "eadQh1MGdJo",
+      "titulo": "Escalações de Vasco x Palmeiras na semifinal da Copa do Brasil! Quem vai à final?",
+      "canal": "FLAMENGUISTA ORIGINAL ",
+      "views": 15618,
+      "likes": 128,
+      "comentarios": 17,
+      "publicado": "2026-11-08T13:00:36Z",
+      "duracao_s": 17,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=eadQh1MGdJo"
+     },
+     {
+      "id": "qDq_P5OQ9Ok",
+      "titulo": "VEJA A ESCALAÇÃO DO VASCO PRO JOGO CONTRA O PALMEIRAS! analise tática pre jogo",
+      "canal": "Sem Clubismo FC",
+      "views": 12193,
+      "likes": 650,
+      "comentarios": 25,
+      "publicado": "2026-11-07T19:21:43Z",
+      "duracao_s": 492,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=qDq_P5OQ9Ok"
+     },
+     {
+      "id": "d3SBpRu7g78",
+      "titulo": "PALMEIRAS X VASCO: PROVÁVEL ESCALAÇÃO DO PALMEIRAS HOJE COPA DO BRASIL 2026! #shotsvideo",
+      "canal": "Placar alvinegro com danilo",
+      "views": 5786,
+      "likes": 78,
+      "comentarios": 7,
+      "publicado": "2026-11-08T13:55:57Z",
+      "duracao_s": 10,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=d3SBpRu7g78"
+     },
+     {
+      "id": "M69ctO02t9w",
+      "titulo": "🖤VASCO X PALMEIRAS! VEJA A PROVÁVEL ESCALAÇÃO DO VASCÃO PARA A DECISÃO DA COPA DO BRASIL 2026!",
+      "canal": "VASCÃO REACT PLUS",
+      "views": 3855,
+      "likes": 83,
+      "comentarios": 5,
+      "publicado": "2026-11-07T14:00:05Z",
+      "duracao_s": 810,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=M69ctO02t9w"
+     },
+     {
+      "id": "RTqWnhWyBW0",
+      "titulo": "💚VASCO X PALMEIRAS! VEJA A PROVÁVEL ESCALAÇÃO DO VERDÃO PARA A DECISÃO DA COPA DO BRASIL 2026!",
+      "canal": "FUTEBOL TOTAL OFICIAL",
+      "views": 1764,
+      "likes": 40,
+      "comentarios": 1,
+      "publicado": "2026-11-07T09:00:03Z",
+      "duracao_s": 1032,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=RTqWnhWyBW0"
+     },
+     {
+      "id": "2QvhtJTrBHY",
+      "titulo": "🚨AGORA🚨| PALMEIRAS X FLAMENGO: QUEM GASTOU MAIS EM 2026?🚨| NICOLA TRAZ TODOS OS DETALHES E VALORES!",
+      "canal": "Central do Verdão",
+      "views": 1723,
+      "likes": 23,
+      "comentarios": 1,
+      "publicado": "2026-11-07T13:00:12Z",
+      "duracao_s": 594,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=2QvhtJTrBHY"
+     },
+     {
+      "id": "6E0qBXjLjlI",
+      "titulo": "🚨AGORA🚨| ABEL COLOCA O FLAMENGO COMO VIRTUAL CAMPEÃO BRASILEIRO, MAS..🚨| NICOLA TRAZ OS DETALHES!",
+      "canal": "Central do Verdão",
+      "views": 906,
+      "likes": 11,
+      "comentarios": 0,
+      "publicado": "2026-11-06T19:00:13Z",
+      "duracao_s": 520,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=6E0qBXjLjlI"
+     },
+     {
+      "id": "tGcFK2eKOmg",
+      "titulo": "Vasco x Palmeiras: onde assistir, horário e escalações – Copa do Brasil #Shorts",
+      "canal": "Olympic Esportes",
+      "views": 228,
+      "likes": 6,
+      "comentarios": 0,
+      "publicado": "2026-11-08T14:59:46Z",
+      "duracao_s": 58,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=tGcFK2eKOmg"
+     },
+     {
+      "id": "gUvTjAYzHWA",
+      "titulo": "🚨EXCLUSIVO🚨| PAULINHO AINDA NÃO TREINOU COM BOLA E PODE PERDER FINAL DA LIBERTADORES!🚨| CONFIRA!",
+      "canal": "Central do Verdão",
+      "views": 49,
       "likes": 0,
       "comentarios": 0,
-      "publicado": "2026-11-07T11:30:06Z",
-      "duracao_s": 778,
+      "publicado": "2026-11-07T17:00:04Z",
+      "duracao_s": 600,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=gUvTjAYzHWA"
+     },
+     {
+      "id": "h9ihJ__A-Bw",
+      "titulo": "🚨EXCLUSIVO🚨| BASE FORTE!🚨| VERDÃO TEM ATLETAS EM 16 CLUBES DOS 20 DA SÉRIE A!🚨| CONFIRA OS DETALHES!",
+      "canal": "Central do Verdão",
+      "views": 18,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-11-08T13:00:33Z",
+      "duracao_s": 664,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=h9ihJ__A-Bw"
+     },
+     {
+      "id": "UqLEfblwqWE",
+      "titulo": "VASCO x PALMEIRAS AO VIVO: ONDE ASSISTIR, HORÁRIO E ESCALAÇÕES | COPA DO BRASIL 2026  #ondeassistir",
+      "canal": "DE OLHO NA TABELA FC",
+      "views": 14,
+      "likes": 2,
+      "comentarios": 1,
+      "publicado": "2026-11-08T03:00:01Z",
+      "duracao_s": 42,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=UqLEfblwqWE"
+     },
+     {
+      "id": "FVQ0wtupKBQ",
+      "titulo": "PALMEIRAS X VASCO HOJE! Prováveis ESCALAÇÕES e tudo sobre a decisão na Copa do Brasil",
+      "canal": "Alerta Verdão",
+      "views": 4,
+      "likes": 4,
+      "comentarios": 2,
+      "publicado": "2026-11-08T14:57:30Z",
+      "duracao_s": 1064,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=FVQ0wtupKBQ"
+     },
+     {
+      "id": "eatxXJE7Jok",
+      "titulo": "🚨VASCO X PALMEIRAS AO VIVO! ÚLTIMAS NOTÍCIAS, ESCALAÇÕES, ARBITRAGEM E PALPITE!| COPA DO BRASIL 2026",
+      "canal": "falaporcada1914",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-11-08T14:58:37Z",
+      "duracao_s": 0,
       "live": true,
-      "url": "https://www.youtube.com/watch?v=ecUTo6eEJSM"
+      "url": "https://www.youtube.com/watch?v=eatxXJE7Jok"
      },
      {
-      "id": "pDHyJkt1Okg",
-      "titulo": "PARMA vs BOLOGNA! 😱 BOLOGNA ARE ON FIRE – Can Parma Stop Them? | Serie A Preview",
-      "canal": "Arena 360",
-      "views": 12,
-      "likes": 0,
+      "id": "EYLhYfqtOvE",
+      "titulo": "AO VIVO | VASCO X PALMEIRAS | COPA DO BRASIL 2026 🔴 Pré-Jogo, Escalações e Ultímas do Vasco!",
+      "canal": "PODCAST CRUZMALTINO",
+      "views": 0,
+      "likes": 4,
       "comentarios": 0,
-      "publicado": "2026-11-06T22:00:08Z",
-      "duracao_s": 398,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=pDHyJkt1Okg"
+      "publicado": "2026-11-08T11:32:12Z",
+      "duracao_s": 0,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=EYLhYfqtOvE"
      },
      {
-      "id": "yx6JRfvQw0Q",
-      "titulo": "⚽ PARME 🆚 BOLOGNE : Présentation du match et pronostic ! 🔥 Un duel italien qui promet du spectacle !",
-      "canal": "Magic Gaming",
-      "views": 9,
+      "id": "Ap4a59hXg1o",
+      "titulo": "🔴#AOVIVO | Pré-Jogo: Vasco x Palmeiras: onde assistir ao vivo, horário e escalações.",
+      "canal": "Tutti Palestra",
+      "views": 0,
       "likes": 0,
       "comentarios": 0,
-      "publicado": "2026-11-07T09:45:38Z",
-      "duracao_s": 182,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=yx6JRfvQw0Q"
-     },
-     {
-      "id": "smHNDQBQg6c",
-      "titulo": "Parma vs Bologna: Match Preview, Kick-off Time and Italian Serie A Details",
-      "canal": "Candil Pro Studio",
-      "views": 2,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-11-07T16:07:22Z",
-      "duracao_s": 18,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=smHNDQBQg6c"
+      "publicado": "2026-11-08T12:23:07Z",
+      "duracao_s": 0,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=Ap4a59hXg1o"
      }
     ],
-    "consulta": "Bologna Parma Italiano",
-    "n_videos": 4,
+    "consulta": "Palmeiras escalações",
+    "n_videos": 15,
     "mais_de": false,
-    "views": 67,
+    "views": 42158,
     "top": [
      {
-      "titulo": "PES 2021 | Parma vs Bologna – Serie A 2026/27 | Simulazione Realistica",
-      "canal": "PES Battle Zone",
-      "views": 44,
-      "url": "https://www.youtube.com/watch?v=ecUTo6eEJSM",
-      "publicado": "2026-11-07T11:30:06Z",
+      "titulo": "Escalações de Vasco x Palmeiras na semifinal da Copa do Brasil! Quem vai à final?",
+      "canal": "FLAMENGUISTA ORIGINAL ",
+      "views": 15618,
+      "url": "https://www.youtube.com/watch?v=eadQh1MGdJo",
+      "publicado": "2026-11-08T13:00:36Z",
       "do_canal": false
      },
      {
-      "titulo": "PARMA vs BOLOGNA! 😱 BOLOGNA ARE ON FIRE – Can Parma Stop Them? | Serie A Preview",
-      "canal": "Arena 360",
-      "views": 12,
-      "url": "https://www.youtube.com/watch?v=pDHyJkt1Okg",
-      "publicado": "2026-11-06T22:00:08Z",
+      "titulo": "VEJA A ESCALAÇÃO DO VASCO PRO JOGO CONTRA O PALMEIRAS! analise tática pre jogo",
+      "canal": "Sem Clubismo FC",
+      "views": 12193,
+      "url": "https://www.youtube.com/watch?v=qDq_P5OQ9Ok",
+      "publicado": "2026-11-07T19:21:43Z",
       "do_canal": false
      },
      {
-      "titulo": "⚽ PARME 🆚 BOLOGNE : Présentation du match et pronostic ! 🔥 Un duel italien qui promet du spectacle !",
-      "canal": "Magic Gaming",
-      "views": 9,
-      "url": "https://www.youtube.com/watch?v=yx6JRfvQw0Q",
-      "publicado": "2026-11-07T09:45:38Z",
+      "titulo": "PALMEIRAS X VASCO: PROVÁVEL ESCALAÇÃO DO PALMEIRAS HOJE COPA DO BRASIL 2026! #shotsvideo",
+      "canal": "Placar alvinegro com danilo",
+      "views": 5786,
+      "url": "https://www.youtube.com/watch?v=d3SBpRu7g78",
+      "publicado": "2026-11-08T13:55:57Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "Arrascaeta admite 'um pouco de risco' em volta de lesão no Flamengo",
-   "categoria": "Lesão e desfalque",
+   "tema": "Ex-Corinthians, Talles Magno decide no fim após contra-ataque e garante vitória do NYCFC em D.C.",
+   "categoria": "Jogo e resultado",
    "clubes": [
-    "Flamengo"
+    "Corinthians",
+    "Vasco"
    ],
    "foco": true,
-   "nota": 59.4,
+   "nota": 70.0,
    "sinais": {
-    "busca": 65,
+    "busca": 75,
     "aceleracao": 85,
     "midia": 46,
     "aderencia": 100,
     "youtube": 0
    },
-   "fator_categoria": 1.0,
+   "fator_categoria": 1.134,
    "trafego_google": 0,
-   "busca_torcedor": "arrascaeta flamengo",
+   "busca_torcedor": "talles magno",
    "termos_trends": [],
    "n_fontes": 2,
    "n_manchetes": 2,
-   "assinatura": "admit|arras|pouco|volta",
+   "assinatura": "magno|garan|vitor|talle",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "React rápido (1 a 2 min)",
-    "gancho": "“arrascaeta flamengo”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "“talles magno”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
     "titulo_thumb": "VOCÊ PESQUISOU",
-    "pergunta_enquete": "Qual sua opinião: Arrascaeta admite 'um pouco de risco' em volta de lesão no Flamengo?",
+    "pergunta_enquete": "Qual sua opinião: Ex-Corinthians, Talles Magno decide no fim após contra-ataque e garante vitória do NYCFC e?",
     "tecnica": "Dado",
     "ganchos": [
      {
       "tecnica": "Dado",
-      "texto": "“arrascaeta flamengo”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+      "texto": "“talles magno”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
       "thumb": "VOCÊ PESQUISOU"
      },
      {
       "tecnica": "Conflito",
-      "texto": "O Flamengo sem Arrascaeta: o técnico vai ter que escolher entre improvisar ou mudar o time.",
-      "thumb": "SEM ARRASCAETA?"
+      "texto": "Corinthians contra Vasco vale mais do que três pontos, e os dois sabem disso.",
+      "thumb": "CORINTHIANS x VASCO"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Arrascaeta admite 'um pouco de risco' em volta de lesão no Flamengo. Parece só mais um desfalque. Não é: muda o jeito do time jogar.",
+      "texto": "Ex-Corinthians, Talles Magno decide no fim após contra-ataque e garante vitória do NYCFC em D.C. Parece que está tudo resolvido. No futebol, quase nunca está.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Arrascaeta admite 'um pouco de risco' em volta de lesão no Flamengo. O elenco do Flamengo tem reposição à altura?",
-      "thumb": "E AGORA, FLAMENGO?"
+      "texto": "O que o Corinthians precisa fazer para vencer esse jogo?",
+      "thumb": "E AGORA, CORINTHIANS?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Arrascaeta admite 'um pouco de risco' em volta de lesão no Flamengo. Meu palpite de quanto tempo esse desfalque vai durar: [SEU PALPITE]. Qual é o seu?",
+      "texto": "Meu palpite para Corinthians x Vasco: [SEU PLACAR]. Deixa o seu nos comentários.",
       "thumb": "MEU PALPITE"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Arrascaeta admite 'um pouco de risco' em volta de lesão no Flamengo",
-     "fonte": "O Dia",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaTNfN2lBS1B5ZjdZRVRDRzAtLUNqYXhJRVMxeEN5UTlTZzkwVzJ6OEZQSVp6bHNxMjRidkg4VExYamVGZUZNVGJvOHVWRXZkb19sNVBYWTdIakpOQWwxM0xoMlJXcy01MGtXdC14Rk01NXRsb0JtTjR5cUIwc3pRbkNHNFI3Z1lkX25iY2lWVFExd21qUlJWc3FHZ2N1OTFvMFNUQzdSNENmVnBmTXg3VkZLM3d4V3A4ZTZKQTFBakN2Y3E3ZEsw0gHMAUFVX3lxTE9nZlFEeXF4aVVJQWx1c3p5eWx4RHVUcE9JM0tTdnhsLVkxbXJ6VHU1MkdxYUtEQUNYeTFmakIxRlV4dXh6QkVoVXdfMXYxWkhrMm5hOGFvRTVEOTRKbXBnejgtN29xOGhLeDlTOXY3aHRsaV9rcnk5WklkMFpXSnVBSk44ZzliZVdNWEFFWEgybkYzeWpWdXZHRHJCWmQ4Q1AyREdMdlB6cjhuQ2JNTVlBZVBUai0zaXhlM21BcnI4djJQVXJKd09mdENHMg?oc=5"
+     "titulo": "Ex-Corinthians, Talles Magno decide no fim após contra-ataque e garante vitória do NYCFC em D.C.",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdEItaUpmUVY1bVpiblV1UjdpUFN2RUNrMWFzZzFQMjEyMzZidzhSNFZjSFk5RjNwX2hPLVFJN3hKQjdqT0ViSEtXalZnbW1CbnE2cDZwWWVzeC1rQ1llWHFZTnZQUU9BU2VBdWJvbjZLWEpJbXI3cjNnSExwME9ZNU1CRk9sQ2dFN0syQV84T0w1MkFadHBVN2w0cFZkTGhISlNMTFpicmNDaVJ3VzBtRzRqQ1lqaEgyMjNxZ1F2dVhQNFBSTVg4LXliNi1oOUUtMF9fRXBTSFdhMW9nYlHSAeMBQVVfeXFMTnI1NjZLa2MxVHM0OXlka3R0N0NPNnVvUDNRZFdRQjFyQUozMktSa3VEa0g3RXh5OVlEVFRjNnAyQ1E3emFGWTBmdzBlU1FOTkYyLVVfX2hqcWRoUXFxbnRDaTk4YUtUdHJ4NUROdGRTVXd5a3lRR2Y5dlRqUkVNbUdhVldla0pUWnItb0FDWWRKUzU0bGF1VVRZNnBwMVViVHQtc3pRcDFOWHZ6aVVCb045NzBlWTRSSEd6dHNmZGlkTXhZZHIxTEFDRF9ETmF1UzVmOGo4WThtQkp3VzgwN3lwbDg?oc=5"
     },
     {
-     "titulo": "Arrascaeta admite ainda ter \"um pouco de risco\" em volta ao Flamengo após lesão",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRHJ1RVF6Qm5zOUEyVUd1RGVFSkxRZVluNjRtMVctN0NILVBWcldEdFM3ZkdQSW5kNmQ0M3hhSHlCN19Cb0xhalZPVFlEMXNKUG91MFdLTEI1bHFNckctMW5SNl9rUExZNEkyS2kxcHoyYldwSU9FOFhLVTF2YUI1MlVCeVJQbWYxaU5hRTdGcWE3QVNlVUpFZ2g0Z3BOU0d3OU1udnlKR1BkcnRSdFFSbkJhd1ZZR1VmQVhCZjNubHRreGpjazMyQ3hxU0llOHlqanhJZnZTWnpHWnQxdjFZ0gHuAUFVX3lxTE9HZHJRWTN2LTRSZ1MyUTU3bU9NVko5bjZ5YWtuNXdtRzExU3VSeGJRRzdMZktPamE0NUFjdHg1NVBtdXZKSWctQzhsdlhrN1pjTGFkZ1BGQ2R1aWdOVHRPb1NVdWhlV0ZlTFpidllKMmUtNGZyRWgzMU0td0dIc3pJNUR0RWhHU21KR0RZenhmMUhwcnI0M2FXR2FNUEVPUVVJX3VUZUlpZ0VMUEJQOWxqQkEyaFFmYUVIUWZxVDhiZ3Ezc1JuZTFXM0pqQkJBXzRMQW96TnJKUzlLYVFxNDM3dUJlak5hWkRwYV9HWHc?oc=5"
+     "titulo": "Saudades, torcedor? Ex-Vasco e Corinthians, Talles Magno brilha e garante vitória do New York City na MLS; VEJA",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0c0w3S0M0ZFNRMU5hSWZiV05Mb2JreG9oYWt5Q2lEVnc0aGk2UUt0X1NZaUQ1ZkRzaFRhYkJYVU5kZVJrTGc0QWRQUWdXNWN3WVVDODZrNDNhUkl6aWc?oc=5"
     }
    ],
    "youtube": {
     "amostra": [],
-    "consulta": "Flamengo Arrascaeta admite pouco",
+    "consulta": "Corinthians Talles Magno garante",
     "n_videos": 0,
     "mais_de": false,
     "views": 0,
@@ -1542,34 +618,34 @@
    }
   },
   {
-   "tema": "Confira as fotos do primeiro tempo de Flamengo x Vasco pela semifinal do Campeonato Carioca sub-20. O Mengão vai vencendo por 1x0. VAMOS MENGÃO! 📸 @adrianofontesfoto",
+   "tema": "Neymar, do Santos, manda recado para Lucas Paquetá, do Flamengo, pelas redes sociais",
    "categoria": "Arbitragem e VAR",
    "clubes": [
     "Flamengo",
-    "Vasco"
+    "Santos"
    ],
    "foco": true,
-   "nota": 58.6,
+   "nota": 68.4,
    "sinais": {
-    "busca": 0,
-    "aceleracao": 84,
-    "midia": 67,
+    "busca": 50,
+    "aceleracao": 73,
+    "midia": 58,
     "aderencia": 100,
-    "youtube": null
+    "youtube": 68
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": null,
+   "busca_torcedor": "paquetá é do flamengo",
    "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 5,
-   "assinatura": "cario|flame|vasco|sub-2",
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "flame|paque|neyma|lucas",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte de debate (30 a 60 s)",
     "gancho": "O Flamengo contra a arbitragem: alguém está errado nesse lance, e eu vou mostrar quem.",
     "titulo_thumb": "QUEM TEM RAZÃO?",
-    "pergunta_enquete": "Qual sua opinião: Confira as fotos do primeiro tempo de Flamengo x Vasco pela semifinal do Campeonato Carioc?",
+    "pergunta_enquete": "Qual sua opinião: Neymar, do Santos, manda recado para Lucas Paquetá, do Flamengo, pelas redes sociais?",
     "tecnica": "Conflito",
     "ganchos": [
      {
@@ -1584,8 +660,174 @@
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Acompanhe Flamengo x Vasco pelo Campeonato Carioca Sub-20. Foi ou não foi? Responde nos comentários antes de ver a minha análise.",
+      "texto": "Se fosse a favor do seu time, você estaria reclamando desse lance?",
       "thumb": "E AGORA, FLAMENGO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Minha aposta: esse lance ainda vai ser assunto a semana inteira. Comenta o seu palpite.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "23 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
+      "thumb": "TODO MUNDO VIU"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "O atacante Neymar comentou no vídeo em que Lucas Paquetá relembra a entrada dura e o desentendimento no duelo entre Santos e Flamengo, na Vila Belmiro. No início do vídeo, o meia do Mengão conta como tudo aconteceu. Confira! “Dei uma pancada",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90M0JmOElsQTdRbHRlWEU3LXFlYnFGWkRjZmNVX25pX0c2cVJjYVRVYktMSWs5Y3lpRlBiUnh5enZJY25pOU5fTUdQN0JmN3NuSFE?oc=5"
+    },
+    {
+     "titulo": "Neymar, do Santos, manda recado para Lucas Paquetá, do Flamengo, pelas redes sociais",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZlloeFROaDI3X2FxNlZkUzllaVpJakk4QndMVGpJcEhubDU4R1Nfek9kTDk1UmhBT1RDU2NKWU5pVHVVZ2NmZFN5ZG1zN2tEcmNQdTJvTnVtM1VwMWN4OS1QaHVVVUhuUlF3ckpRbUJBTlhnUlNUUzFoY2YxOUdzeDdac0xfdUhKRTBjVkl5Y2dJYUxlbTdrM2Y1OVh1ZnB3dU5jenJFT2d6TWp0R1pJdzZHZVRqaF83dnFrYkozLXRocHB2S1prVHhycVlxNm0tM2pIeWg3dnlRLTR2R2VoRThJTXRkdlNFdDZ0NWZDaHdOU0JGNXVKbnFPMEVOdw?oc=5"
+    },
+    {
+     "titulo": "Paquetá explica pênalti perdido contra Estudiantes e brinca sobre Neymar: \"Mais fácil vir para o Flamengo\"",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZzBfci1CVHlEQVZGQ005Qk9hRWhjdWFPVEpSWmltUXhyT0tDbXhsRnlwV3hsR1BITXVWNFdjVjB0UDN6TjZEWl9ZTEFsVTFiU050WWVUUmhIVEpiaTdVWHFvZS1adXVyRUV2ZEZQNS1vb2VIWHVuR2xRcnZqR2MyeF9aQnZYZU1BaVhBal95cXVvQmRwbm9rdktxMmFIeTdoVXgtek5ROEo2Wld6SV9Ga3I5MlZtRGJVQ3RBLVJtRkNIb09naWVvYUU5ZmRGRU53YkNqaTBIbWhVWnVKNi1fY0ZPTVotajFvbC1FQ1BReDJGeFBHRHREejJ0NGxZTkR2WHfSAZACQVVfeXFMT1EtTndSOFB5Tjl4WmNDeTN0S3A3Q0NtZXphVHF1V2luQ2dDTXZZOEpqWlpoanFxNnpfd0pWWnphejZlYVFTMEJUeFFqRklOUF9LNTJFa0VUd2xhcjNhUEgxdU90am5oNUc4cHFRZW4tSnc5UkFBcXJ4MVhqS0c1SWVsZ3hobkdzMmxWX1l1WllkTExpY0tldHQ5cnRDSTVaMHpWQmQ2Ry1CSksweE5tVExIRDIzY2Q2MnpaZVRzRWdPNE1DaG5Xa0N1YVRnSDUtQ3d2VjBOcTd4b0NxTlJOMTZ2NWZ2Tk95c1VXV29zYmpwdkF0WVNJU1lTYzdDLVlsUHE4ZFJrUFlIc1VCS2xLbUU?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "8Bbxm25R-Zc",
+      "titulo": "🚨 ATENÇÃO, NAÇÃO! Neymar no Flamengo? 👀 MENGÃO TENTA CONTRATAÇÃO DE ATACANTE 🔴⚫🔥",
+      "canal": "Resenha Rubro-Negra",
+      "views": 20852,
+      "likes": 2551,
+      "comentarios": 54,
+      "publicado": "2026-11-07T22:25:45Z",
+      "duracao_s": 879,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=8Bbxm25R-Zc"
+     },
+     {
+      "id": "Fmg2ZC2vXf0",
+      "titulo": "Lucas Paquetá explica pênalti perdido na Libertadores e relembra atrito com Neymar #Shorts",
+      "canal": "Canal 10",
+      "views": 906,
+      "likes": 11,
+      "comentarios": 0,
+      "publicado": "2026-11-07T18:07:00Z",
+      "duracao_s": 67,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Fmg2ZC2vXf0"
+     },
+     {
+      "id": "VynH3wWJ0Gg",
+      "titulo": "NEYMAR NO FLAMENGO PAQUETÁ FAZ DECLARAÇÃO SURPREENDENTE!",
+      "canal": "Flarádio ",
+      "views": 846,
+      "likes": 40,
+      "comentarios": 0,
+      "publicado": "2026-11-08T12:57:39Z",
+      "duracao_s": 121,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=VynH3wWJ0Gg"
+     },
+     {
+      "id": "rRQq0BctlDA",
+      "titulo": "Neymar manda recado a Paquetá após revelação sobre briga e caneta em jogo entre Flamengo e Santos",
+      "canal": "Notícias do Fla",
+      "views": 736,
+      "likes": 16,
+      "comentarios": 0,
+      "publicado": "2026-11-08T14:36:45Z",
+      "duracao_s": 79,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=rRQq0BctlDA"
+     },
+     {
+      "id": "WUBqadDNcu4",
+      "titulo": "URGENTE! PAQUETÁ QUEBRA O SILÊNCIO SOBRE PÊNALTI E MANDA A REAL SOBRE NEYMAR NO FLAMENGO! CONFIRA JÁ",
+      "canal": "Radar Rubro Negro",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-11-08T14:55:39Z",
+      "duracao_s": 84,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=WUBqadDNcu4"
+     }
+    ],
+    "consulta": "Flamengo Paquetá Neymar Lucas",
+    "n_videos": 5,
+    "mais_de": false,
+    "views": 23340,
+    "top": [
+     {
+      "titulo": "🚨 ATENÇÃO, NAÇÃO! Neymar no Flamengo? 👀 MENGÃO TENTA CONTRATAÇÃO DE ATACANTE 🔴⚫🔥",
+      "canal": "Resenha Rubro-Negra",
+      "views": 20852,
+      "url": "https://www.youtube.com/watch?v=8Bbxm25R-Zc",
+      "publicado": "2026-11-07T22:25:45Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Lucas Paquetá explica pênalti perdido na Libertadores e relembra atrito com Neymar #Shorts",
+      "canal": "Canal 10",
+      "views": 906,
+      "url": "https://www.youtube.com/watch?v=Fmg2ZC2vXf0",
+      "publicado": "2026-11-07T18:07:00Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "NEYMAR NO FLAMENGO PAQUETÁ FAZ DECLARAÇÃO SURPREENDENTE!",
+      "canal": "Flarádio ",
+      "views": 846,
+      "url": "https://www.youtube.com/watch?v=VynH3wWJ0Gg",
+      "publicado": "2026-11-08T12:57:39Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Vasco x Palmeiras: onde assistir pela TV, escalações e mais",
+   "categoria": "Arbitragem e VAR",
+   "clubes": [
+    "Palmeiras",
+    "Santos",
+    "Vasco"
+   ],
+   "foco": true,
+   "nota": 67.2,
+   "sinais": {
+    "busca": 60,
+    "aceleracao": 57,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": 79
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "palmeiras x santos",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "assis|palme|escal|sub-2",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte de debate (30 a 60 s)",
+    "gancho": "Palmeiras x Santos (sub-20): onde assistir, escalações e arbitragem. Muita gente está reclamando da arbitragem, mas a regra pode estar do outro lado.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
+    "pergunta_enquete": "Qual sua opinião: Vasco x Palmeiras: onde assistir pela TV, escalações e mais?",
+    "tecnica": "Contradição",
+    "ganchos": [
+     {
+      "tecnica": "Contradição",
+      "texto": "Palmeiras x Santos (sub-20): onde assistir, escalações e arbitragem. Muita gente está reclamando da arbitragem, mas a regra pode estar do outro lado.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Palmeiras x Santos (sub-20): onde assistir, escalações e arbitragem. Foi ou não foi? Responde nos comentários antes de ver a minha análise.",
+      "thumb": "E AGORA, PALMEIRAS?"
      },
      {
       "tecnica": "Aposta",
@@ -1594,139 +836,1318 @@
      },
      {
       "tecnica": "Dado",
-      "texto": "1x0. Grava esse número: ele explica boa parte do que está acontecendo no Flamengo.",
-      "thumb": "1X0"
+      "texto": "42 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
+      "thumb": "TODO MUNDO VIU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Palmeiras x Santos (sub-20): onde assistir, escalações e arbitragem. Juiz de um lado, o Palmeiras do outro: a imagem vai mostrar quem tem razão.",
+      "thumb": "PALMEIRAS x SANTOS"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Com pênalti perdido, Flamengo e Vasco empatam na semi do Cariocão Sub-20",
+     "titulo": "Palmeiras x Santos (sub-20): onde assistir, escalações e arbitragem",
      "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQlM1MnQ5a0VLOTdzYjQtd0VfWTB0RllVTXo2LWJldlNlR2FUcFpFeV91NXIzUVlJRXF0cTNDZ0dlVTUyQ3ZLc0F4LWVad0FYendiTVEtTG1MV2l3V3JIdHJoVGJ0MnZjNmJ3MUJRNHRjMlVqOW02Wi11VEc4VFNXRmVlTUFTQWZXTGU0Um81T2szTjhjUWRNZk1sM0FSSlZiLUVoTnNOa201d2FkVW50c3RwTHYwRENRTjM2RmVKUGZJZDRWRUZsS3pxbEQwa2VqamxGRnIwZk5KdnBBRS1TVFZPTVZONFIzX0Y1OTQ2S0hUZw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdWJZcWVOLU16VVRIOVRTRm9HUG1iVFNJUGwxTk8xbHV6R0I2Zm1YSGl0dU9OUDBXQ01feTB2bjE2WU9xVzV6WWZ6djNab0RvS2d1UllSX0JTSmI4al9tTVRYYVJxRVdueTZQMkxEQnlpT1dRdm1xakxoTTRCS0dSUmd2c2x2RDNMRkVla1I5VWItWlJCS0NQWm5DZmhWR0xHQlVsUGptZk5ueVhHdDhDdGpIeEZ6NFZrcmU3X185Z2RYV0hPRHYyT0FYbHJ2VEJxQTdLLVQ4UnJUR1JCMTVQeW90QldfRFFI?oc=5"
     },
     {
-     "titulo": "Confira as fotos do primeiro tempo de Flamengo x Vasco pela semifinal do Campeonato Carioca sub-20. O Mengão vai vencendo por 1x0. VAMOS MENGÃO! 📸 @adrianofontesfoto",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXLUtpeUlrWG91NE5WOGFHcDdaYUNQM29iVk4xcUVnUXNhNVVXN2JxbFlyMF9HZlB4U1ZnZy0wdm5YRFRZVXl4VUl3QUN1WEhDNHc?oc=5"
-    },
-    {
-     "titulo": "AO VIVO: acompanhe Flamengo x Vasco pelo Campeonato Carioca Sub-20",
-     "fonte": "O Tempo",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbHdOSDEyem8xdml2cXhvS0NKTzlmNFBwRHJDaXBZNkxGWE0xTGZOamZMM3Vua0ptN25VeWpIQmMxbEFCM0d2VDh3R2NMMG5WLWtEV2d4YWYyMXBNNWp3V3gtY3BJNUZpclM0LWpIcmg3YUxjRW10V1V0NFU3azVROUhFeXkxWTdUUDJEbFUxN1o3dFNzemMtNWI2TEcya2ZsSE42bnpUSDFLc2ZhWFA4MnB1Qm92MDVCZEJ3WEFUU0pmbm8?oc=5"
-    },
-    {
-     "titulo": "Com Léo Nanneti, Johnny e Josmar entre os titulares, o Flamengo está escalado para enfrentar o Vasco pelo jogo de ida da semifinal do Campeonato Carioca Sub-20. VAMOS MENGÃO! 📸 @flamengo",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZcEJBekF6OGtWbWM5b1AzU0NfRE9uTnJzZEQ4YnFrQnNYeFRDSGI2WTVVMEtVanNvUDRyWlNDNHhZRGx4TjA4WEx0VHVYZmZOWGc?oc=5"
-    },
-    {
-     "titulo": "Flamengo desperdiça pênalti e empata com Vasco na semifinal do Carioca Sub-20",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVXFLcUtIX0NjMEFQdk5HYkZGZzNhclVhTmxiZ0pOblNHTUk3ajk3VTZxRk9oeUlOT0dxdEU1SlJrTHRObW84a0JudnFoODdfV21ZaVFvN08yVUt0Rk5DejU5NG5kMTFYT3BLcDJ6S2kzWDlhb0lfUzE2ZUlNdWMwcEx6cGxtRkp3aVpjYTdQaExQYnEyX3F5cmlkVDItVXBxSnVIeklR?oc=5"
+     "titulo": "Vasco x Palmeiras: onde assistir pela TV, escalações e mais",
+     "fonte": "O Dia",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPODltQzJGbF81R3l3amotRXlFdXJWeGJVZUp2b19aZUU5ZTRBb09SMm5xcVZxa0lVVVh0VUFJVDNoVjlyVjh6RGxvc29OMWZfWU9hMTVLWFg3eTZtUEphU2JSTktxTUVtWFJZakhJY1p2aWVha3FRWXpZR1dmNkNPcnlFbVZrRjF6WHFHNVpOZ25zQUpuSVZuXzNDWDF4U3UyYnd3QTVGQTlEdUVwS0VMWEp0QkV1UdIBuwFBVV95cUxPUEMyU2M4eUJRT2E3a256RG9NaTdJdEwtT0VqckNXbVdYbFNzSFk3VzhTOWd1VG9Vb2xBWTJ3RU1mU0tNeWVUWkF4V2NUUmttYm1WeEJJWXdTODJEZi04cEZnZUJzWEVjUkFSOEJrRjBSNENIUGJMeTloMTBkM1NBOU5uSFZKOVlmbVZvQlZoNDM2SnZkeEF2MGdDOUgzdlM3SXhJUTg3QlRaOTdWTDZOeXdDMHMzeVRKUUEw?oc=5"
     }
-   ]
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "eadQh1MGdJo",
+      "titulo": "Escalações de Vasco x Palmeiras na semifinal da Copa do Brasil! Quem vai à final?",
+      "canal": "FLAMENGUISTA ORIGINAL ",
+      "views": 15618,
+      "likes": 128,
+      "comentarios": 17,
+      "publicado": "2026-11-08T13:00:36Z",
+      "duracao_s": 17,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=eadQh1MGdJo"
+     },
+     {
+      "id": "qDq_P5OQ9Ok",
+      "titulo": "VEJA A ESCALAÇÃO DO VASCO PRO JOGO CONTRA O PALMEIRAS! analise tática pre jogo",
+      "canal": "Sem Clubismo FC",
+      "views": 12193,
+      "likes": 650,
+      "comentarios": 25,
+      "publicado": "2026-11-07T19:21:43Z",
+      "duracao_s": 492,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=qDq_P5OQ9Ok"
+     },
+     {
+      "id": "d3SBpRu7g78",
+      "titulo": "PALMEIRAS X VASCO: PROVÁVEL ESCALAÇÃO DO PALMEIRAS HOJE COPA DO BRASIL 2026! #shotsvideo",
+      "canal": "Placar alvinegro com danilo",
+      "views": 5786,
+      "likes": 78,
+      "comentarios": 7,
+      "publicado": "2026-11-08T13:55:57Z",
+      "duracao_s": 10,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=d3SBpRu7g78"
+     },
+     {
+      "id": "M69ctO02t9w",
+      "titulo": "🖤VASCO X PALMEIRAS! VEJA A PROVÁVEL ESCALAÇÃO DO VASCÃO PARA A DECISÃO DA COPA DO BRASIL 2026!",
+      "canal": "VASCÃO REACT PLUS",
+      "views": 3855,
+      "likes": 83,
+      "comentarios": 5,
+      "publicado": "2026-11-07T14:00:05Z",
+      "duracao_s": 810,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=M69ctO02t9w"
+     },
+     {
+      "id": "RTqWnhWyBW0",
+      "titulo": "💚VASCO X PALMEIRAS! VEJA A PROVÁVEL ESCALAÇÃO DO VERDÃO PARA A DECISÃO DA COPA DO BRASIL 2026!",
+      "canal": "FUTEBOL TOTAL OFICIAL",
+      "views": 1764,
+      "likes": 40,
+      "comentarios": 1,
+      "publicado": "2026-11-07T09:00:03Z",
+      "duracao_s": 1032,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=RTqWnhWyBW0"
+     },
+     {
+      "id": "2QvhtJTrBHY",
+      "titulo": "🚨AGORA🚨| PALMEIRAS X FLAMENGO: QUEM GASTOU MAIS EM 2026?🚨| NICOLA TRAZ TODOS OS DETALHES E VALORES!",
+      "canal": "Central do Verdão",
+      "views": 1723,
+      "likes": 23,
+      "comentarios": 1,
+      "publicado": "2026-11-07T13:00:12Z",
+      "duracao_s": 594,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=2QvhtJTrBHY"
+     },
+     {
+      "id": "6E0qBXjLjlI",
+      "titulo": "🚨AGORA🚨| ABEL COLOCA O FLAMENGO COMO VIRTUAL CAMPEÃO BRASILEIRO, MAS..🚨| NICOLA TRAZ OS DETALHES!",
+      "canal": "Central do Verdão",
+      "views": 906,
+      "likes": 11,
+      "comentarios": 0,
+      "publicado": "2026-11-06T19:00:13Z",
+      "duracao_s": 520,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=6E0qBXjLjlI"
+     },
+     {
+      "id": "tGcFK2eKOmg",
+      "titulo": "Vasco x Palmeiras: onde assistir, horário e escalações – Copa do Brasil #Shorts",
+      "canal": "Olympic Esportes",
+      "views": 228,
+      "likes": 6,
+      "comentarios": 0,
+      "publicado": "2026-11-08T14:59:46Z",
+      "duracao_s": 58,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=tGcFK2eKOmg"
+     },
+     {
+      "id": "gUvTjAYzHWA",
+      "titulo": "🚨EXCLUSIVO🚨| PAULINHO AINDA NÃO TREINOU COM BOLA E PODE PERDER FINAL DA LIBERTADORES!🚨| CONFIRA!",
+      "canal": "Central do Verdão",
+      "views": 49,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-11-07T17:00:04Z",
+      "duracao_s": 600,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=gUvTjAYzHWA"
+     },
+     {
+      "id": "h9ihJ__A-Bw",
+      "titulo": "🚨EXCLUSIVO🚨| BASE FORTE!🚨| VERDÃO TEM ATLETAS EM 16 CLUBES DOS 20 DA SÉRIE A!🚨| CONFIRA OS DETALHES!",
+      "canal": "Central do Verdão",
+      "views": 18,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-11-08T13:00:33Z",
+      "duracao_s": 664,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=h9ihJ__A-Bw"
+     },
+     {
+      "id": "UqLEfblwqWE",
+      "titulo": "VASCO x PALMEIRAS AO VIVO: ONDE ASSISTIR, HORÁRIO E ESCALAÇÕES | COPA DO BRASIL 2026  #ondeassistir",
+      "canal": "DE OLHO NA TABELA FC",
+      "views": 14,
+      "likes": 2,
+      "comentarios": 1,
+      "publicado": "2026-11-08T03:00:01Z",
+      "duracao_s": 42,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=UqLEfblwqWE"
+     },
+     {
+      "id": "FVQ0wtupKBQ",
+      "titulo": "PALMEIRAS X VASCO HOJE! Prováveis ESCALAÇÕES e tudo sobre a decisão na Copa do Brasil",
+      "canal": "Alerta Verdão",
+      "views": 4,
+      "likes": 4,
+      "comentarios": 2,
+      "publicado": "2026-11-08T14:57:30Z",
+      "duracao_s": 1064,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=FVQ0wtupKBQ"
+     },
+     {
+      "id": "eatxXJE7Jok",
+      "titulo": "🚨VASCO X PALMEIRAS AO VIVO! ÚLTIMAS NOTÍCIAS, ESCALAÇÕES, ARBITRAGEM E PALPITE!| COPA DO BRASIL 2026",
+      "canal": "falaporcada1914",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-11-08T14:58:37Z",
+      "duracao_s": 0,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=eatxXJE7Jok"
+     },
+     {
+      "id": "EYLhYfqtOvE",
+      "titulo": "AO VIVO | VASCO X PALMEIRAS | COPA DO BRASIL 2026 🔴 Pré-Jogo, Escalações e Ultímas do Vasco!",
+      "canal": "PODCAST CRUZMALTINO",
+      "views": 0,
+      "likes": 4,
+      "comentarios": 0,
+      "publicado": "2026-11-08T11:32:12Z",
+      "duracao_s": 0,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=EYLhYfqtOvE"
+     },
+     {
+      "id": "Ap4a59hXg1o",
+      "titulo": "🔴#AOVIVO | Pré-Jogo: Vasco x Palmeiras: onde assistir ao vivo, horário e escalações.",
+      "canal": "Tutti Palestra",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-11-08T12:23:07Z",
+      "duracao_s": 0,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=Ap4a59hXg1o"
+     }
+    ],
+    "consulta": "Palmeiras escalações",
+    "n_videos": 15,
+    "mais_de": false,
+    "views": 42158,
+    "top": [
+     {
+      "titulo": "Escalações de Vasco x Palmeiras na semifinal da Copa do Brasil! Quem vai à final?",
+      "canal": "FLAMENGUISTA ORIGINAL ",
+      "views": 15618,
+      "url": "https://www.youtube.com/watch?v=eadQh1MGdJo",
+      "publicado": "2026-11-08T13:00:36Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "VEJA A ESCALAÇÃO DO VASCO PRO JOGO CONTRA O PALMEIRAS! analise tática pre jogo",
+      "canal": "Sem Clubismo FC",
+      "views": 12193,
+      "url": "https://www.youtube.com/watch?v=qDq_P5OQ9Ok",
+      "publicado": "2026-11-07T19:21:43Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "PALMEIRAS X VASCO: PROVÁVEL ESCALAÇÃO DO PALMEIRAS HOJE COPA DO BRASIL 2026! #shotsvideo",
+      "canal": "Placar alvinegro com danilo",
+      "views": 5786,
+      "url": "https://www.youtube.com/watch?v=d3SBpRu7g78",
+      "publicado": "2026-11-08T13:55:57Z",
+      "do_canal": false
+     }
+    ]
+   }
   },
   {
-   "tema": "Flamengo perde na Justiça para ex-segurança e terá que pagar R$ 580 mil e pensão vitalícia",
+   "tema": "Flamengo Maricá vence o Bahia por 3 a 2 e garante vaga na final da Copa do Brasil Feminina",
    "categoria": "Jogo e resultado",
    "clubes": [
-    "Flamengo"
+    "Flamengo",
+    "Bahia"
    ],
    "foco": true,
-   "nota": 58.3,
+   "nota": 65.4,
    "sinais": {
     "busca": 0,
-    "aceleracao": 47,
-    "midia": 87,
+    "aceleracao": 62,
+    "midia": 100,
     "aderencia": 100,
-    "youtube": null
+    "youtube": 54
    },
    "fator_categoria": 1.134,
    "trafego_google": 0,
    "busca_torcedor": null,
    "termos_trends": [],
-   "n_fontes": 7,
-   "n_manchetes": 8,
-   "assinatura": "ex-se|flame|pensa|mil",
+   "n_fontes": 21,
+   "n_manchetes": 29,
+   "assinatura": "copa|brasi|flame|final",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Flamengo perde na Justiça para ex-segurança e terá que pagar R$ 580 mil e pensão vitalícia. Todo mundo vai olhar o resultado; eu vou mostrar o que ele esconde.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Flamengo perde na Justiça para ex-segurança e terá que pagar R$ 580 mil e pensão vitalícia?",
-    "tecnica": "Contradição",
+    "gancho": "Flamengo se classifica para a final da Copa do Brasil Feminina. Foi mérito de quem venceu ou erro de quem perdeu?",
+    "titulo_thumb": "E AGORA, FLAMENGO?",
+    "pergunta_enquete": "Qual sua opinião: Flamengo Maricá vence o Bahia por 3 a 2 e garante vaga na final da Copa do Brasil Feminina?",
+    "tecnica": "Pergunta aberta",
     "ganchos": [
      {
-      "tecnica": "Contradição",
-      "texto": "Flamengo perde na Justiça para ex-segurança e terá que pagar R$ 580 mil e pensão vitalícia. Todo mundo vai olhar o resultado; eu vou mostrar o que ele esconde.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
       "tecnica": "Pergunta aberta",
-      "texto": "Flamengo perde na Justiça para ex-segurança e terá que pagar R$ 580 mil e pensão vitalícia. O que esse resultado muda daqui para frente?",
+      "texto": "Flamengo se classifica para a final da Copa do Brasil Feminina. Foi mérito de quem venceu ou erro de quem perdeu?",
       "thumb": "E AGORA, FLAMENGO?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Flamengo perde na Justiça para ex-segurança e terá que pagar R$ 580 mil e pensão vitalícia. Eu aposto que esse resultado vai pesar lá na frente. Você concorda?",
+      "texto": "Flamengo se classifica para a final da Copa do Brasil Feminina. Eu aposto que esse resultado vai pesar lá na frente. Você concorda?",
       "thumb": "MEU PALPITE"
      },
      {
-      "tecnica": "Dado",
-      "texto": "Flamengo é condenado a pagar R$ 580 mil e pensão a ex-segurança do Ninho. Quase ninguém fez a conta do que isso significa para o Flamengo.",
-      "thumb": "R$ 580 MIL"
+      "tecnica": "Conflito",
+      "texto": "Flamengo se classifica para a final da Copa do Brasil Feminina. Dentro de campo acabou. Fora dele, a discussão está só começando.",
+      "thumb": "FLAMENGO x BRAGANTINO"
      },
      {
-      "tecnica": "Conflito",
-      "texto": "Flamengo perde na Justiça para ex-segurança e terá que pagar R$ 580 mil e pensão vitalícia. Dentro de campo acabou. Fora dele, a discussão está só começando.",
-      "thumb": "QUEM TEM RAZÃO?"
+      "tecnica": "Contradição",
+      "texto": "Flamengo se classifica para a final da Copa do Brasil Feminina. Todo mundo vai olhar o resultado; eu vou mostrar o que ele esconde.",
+      "thumb": "NÃO É BEM ASSIM"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Justiça condena Flamengo a pagar pensão vitalícia a ex-segurança",
-     "fonte": "Revista PLACAR",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQmJlNEtSSEZka0JWWlB0YnNSSGRiVHVSQTZCRlJfRmlDM1NPSDFtazYzdV9ldlY4WW1wNlFOZmM2MExNYVR4WWs4bnVWUXJIRmt4d2MxdDNUMG1kRDlyeVBwcDRJeWRYTllvdG9BQU5vbmNJY1hVanEwcjBaMGRaWUhZUEJubHRtQm1ZV1E2Ny1BM0htQ2M5T2pKQ2s2RmpFTEE?oc=5"
+     "titulo": "Inter ou Bragantino? Flamengo conhece adversário da final da Copa do Brasil",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOE5TdTRwYXhkdFZPTWt0LTRrbEdGRVZTYzRla0I0YnZnSFVHRHNBOEp4LUMycjBVbDNGdWhBSnFUT2NxdXFma2dvbjhjamlHdDVEVFRVenZMX2w2UjdJY0xONXFmeFhmZWpFRXc5dHQ5RmllN21IZmpyc0swWXR0MWdONFdDOFY0MDF6dDMySDJLaVctcnlxRC1BVUIyb0FZYm14aVlHMkJmTlJuYmI5QlBQajZIVFBCNzNBWFpzT3IzcEhmRjZxOXBtVUFWUQ?oc=5"
     },
     {
-     "titulo": "Flamengo é condenado a pagar R$ 580 mil e pensão a ex-segurança do Ninho",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTjZZNlU4bzRDa3FWRXYyOVhjZ2xVdTRnRVpIU0pBc2MtRlBOeGNuY3VDcFZoSkJwakZIRVZHUHVYVVViYzQ3cVdhZWlmS1c4dFpuckhnVkFLZE1CN0JvNnNJdTJFSzhxSVdRY04zRGZMTUVfcDlBRkFVa2E4TVJ0NmQ3VFY1elF3X1VnWS1oZ3p1TGptTDE1ZkI5TkxibU1wbV9Kbm1Vem02TVVqdTU5dnVPWHBxT1Nrd19RT0tyb3lweUpvbHRvTjRLYlk0MUROUlpZMUZB?oc=5"
+     "titulo": "Qual será a final da Copa do Brasil? | torcida ge | ge",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ05qZGJ1aDY2Rl85dk5XMmpIYU01bUw0TV9GcTIzSUZsYS1KQ3UwX1RsZVNNak9PUjVsODE0Snk3Y0R1MEw1OU13c3ZqQlFzanNwaFc4d29mdHJLWWJiUThWX3paNFRnZGNZRm5MTWxTazlVWjdyY3NtR1l2dGk1WDlHWVY2Ql9YWl9ueVhPb1B2Q2hGMkFR?oc=5"
     },
     {
-     "titulo": "Flamengo perde na Justiça para ex-segurança e terá que pagar R$ 580 mil e pensão vitalícia",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPd0kzSEtHaTkyRGpIS0lQdnRZNmo1SzdhazlXVHdTdFJwaExwNkJ6b3FGZTVuWnhVQVNmeEJvWTByZmU2Wk1rbUJ6dWNuaS1rUnNDYW5xY2FGTnJUWC1BYWR3LUkyMnMwQUl0cmJTX2tJQm5QT3g3dEhuTHp1ZnFvbEwyUnFqM3JIbU5kQmpSTWdzLTB3cXktNXgtNGd0QXloRW9VelZELThSWWp0UjRxdDhsOUcxcF9oenc5UGtXTTBzRFdzaE1oRkdfS2JTVmd4TmxGY01zSUlxM2c1NVlla1M2MEdManBPTlBoRlI5MXh6RDcySEMteUpwLWpMR0U5WUdvWjljX0xldw?oc=5"
+     "titulo": "Grêmio iguala Flamengo como o clube com mais finais de Copa do Brasil",
+     "fonte": "CBF",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZVktTlpUYjM4cVRxamZUUzdGaFdEaEtDTTdkSHB4ODhLQmFoVWZ4REE5a3U3WGhFNzdIbUdKdjJ1N3JYaG9LRDB1QmVQNVB2LWdxY0dtY0RYdktLQjAyVmg4RDFHT2lsUFVTdHRNMmdCTVAxT2kwdHFNRy0wenhYV2pxRW5rLWR6QmxYdXdjUlhRR3lpaGdPdmhJa3hEandzdGVxUlNDR2QwckNnUXJOak10RzRxYUxUUXRMT0JyQzVHX2NINWh1dTBHV19uQUFhWDVHZktVOUpsSVN3?oc=5"
     },
     {
-     "titulo": "Ex-segurança vence Flamengo na Justiça e vai receber R$ 580 mil por danos em tragédia do Ninho do Urubu",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPajJpanlueXVZbnladTR1TGl1c1ZYdWFHVC01d1BQX2g2THZkMFcwZlFudUtIckY4MmNsZVB1NVVNd1VQQ3Mwam1kYkV3eXBsSERwSEp0Q2llNlpzN0pWdWJSYmY3UW9DTVhJSnBYQ2pKODhabU0tcEtNaGlWTGtXa05WQnA5QnZVMjJ0R2V6bWRJYXFkbWlTY2VvRnBiVHVMRXdCeUZpVjF6dEE5ZTN4VDFaa25xQVllbERwZnpETmlFc3VLMDRYX1FtUUxXYWNGSTBGVzRTdE1xQkFyTC1j?oc=5"
+     "titulo": "QUE NOTÍCIA MARAVILHOSA! O FLAMENGO É FINALISTA DA COPA DO BRASIL FEMININA! COISA LINDA, NAÇÃO!",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZeDVKOFk5SHBDOGlMdWFUeFllNHNEb0Z2YS00Z3didWk3YzNGSkxzQlFNQnNBQzJ2bVN1Qm1yT1hOTm05RjFBMEhVRnN5ZnJWVnBZbXR3?oc=5"
     },
     {
-     "titulo": "Ex-segurança do Ninho ganha ação e terá pensão vitalícia do Flamengo",
-     "fonte": "O Dia",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX0dieFFTNWUwdmpkeDg4TmpwS2hIX3JXcS1ock1tMWlyMEUyVWEzZE1DR3RfVlBhajNTZW9DbldkRXhCamtVTlR2X0ZhekZqSG83U0Y5YTZsNTN3U3FvVlJZMzFQOVM0X3pGZUZLdGdmbjBOZzQtTkJiRzl1dUtscUVKbGhzVy13bjRDeHZrclpjVENBak91TU9uYVlIdzFGTUdlLVNaYXBHTmxuQ2VFdDE4SFg1SmZuTDdSWVktTkV5RDJxaUM4YtIBzgFBVV95cUxNY2psM0x1ODY5alVfbWEzVzh1clQ3UE9OSXJla3REX0s5amU0TzB5M0tJWXpqMF8xSWt3SlFaWmVCTFhDcjhlWjNEMXVIQUZzNTlPeFJtbndjbTVlbnNzcUFwY29SZ0dhQmItMXF3SmdpS0hjS0lMZ3ZBZDQyUmtfMTRId2RvXzVsb3VQaEZmaW1CMkhOYXplVnZKbVphRFVncFl3QTZIUjBvYnRXcjVGMFlCQVNrQ2NrbWprQ3RuNFMwQ3JLT0hfYnZPa3V6QQ?oc=5"
+     "titulo": "Flamengo se classifica para a final da Copa do Brasil Feminina",
+     "fonte": "CBF",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMFprSE9MVlF1bGUxUExNSUx2RnNnVVBZVXI3MVNpek1PQ2hNWGZ3b3VUSExqXzBQdmNkNkhGeWFPYVR2QXNmbE5xR3ltaTdHVl9tZURqREowZWRtSTV1Qzl6V2RhZFVwcllZek1ablBCSWFxRTc4dlJWR0RPTU43ZGJTUXBNWnk1LTdnVVJyWkRKWHhHNC1CM25IM2w5ekxTWmd5MjhyQWZQanE2M0tRemlMYnFDSkR6RUlJdUdvTHQyYzk4NEJ1ZlpuMUpNSFBta1E?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "Z4j-LrF9jXE",
+      "titulo": "HOJE TEM FLAMENGO MARICÁ!🟥⬛",
+      "canal": "Rodrigo Souza",
+      "views": 1223,
+      "likes": 16,
+      "comentarios": 0,
+      "publicado": "2026-11-07T11:54:18Z",
+      "duracao_s": 11,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Z4j-LrF9jXE"
+     },
+     {
+      "id": "DGxIY6zWRnA",
+      "titulo": "Flamengo Maricá 3 x 2 Bahia | Resultado #Shorts",
+      "canal": "Noticias Show de Bola",
+      "views": 286,
+      "likes": 0,
+      "comentarios": 1,
+      "publicado": "2026-11-08T10:31:17Z",
+      "duracao_s": 31,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=DGxIY6zWRnA"
+     },
+     {
+      "id": "Jv20nNP2fT4",
+      "titulo": "FLAMENGO MARICÁ CLASSIFICADAS!🟥⬛",
+      "canal": "Rodrigo Souza",
+      "views": 106,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-11-08T15:36:13Z",
+      "duracao_s": 11,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Jv20nNP2fT4"
+     },
+     {
+      "id": "dLIJFBAHj1c",
+      "titulo": "OS GOLS QUE LEVARAM O FLAMENGO MARICÁ PARA A FINAL DA COPA DO BRASIL - FLAMENGO 3 X 1 BAHIA",
+      "canal": "Fla Dez News",
+      "views": 4,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-11-08T03:34:34Z",
+      "duracao_s": 187,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=dLIJFBAHj1c"
+     },
+     {
+      "id": "FimC_IMlbNU",
+      "titulo": "FLAMENGO MARICÁ!🟥⬛",
+      "canal": "Rodrigo Souza",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-11-08T16:44:17Z",
+      "duracao_s": 11,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=FimC_IMlbNU"
+     }
+    ],
+    "consulta": "Flamengo Feminina Maricá",
+    "n_videos": 5,
+    "mais_de": false,
+    "views": 1619,
+    "top": [
+     {
+      "titulo": "HOJE TEM FLAMENGO MARICÁ!🟥⬛",
+      "canal": "Rodrigo Souza",
+      "views": 1223,
+      "url": "https://www.youtube.com/watch?v=Z4j-LrF9jXE",
+      "publicado": "2026-11-07T11:54:18Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Flamengo Maricá 3 x 2 Bahia | Resultado #Shorts",
+      "canal": "Noticias Show de Bola",
+      "views": 286,
+      "url": "https://www.youtube.com/watch?v=DGxIY6zWRnA",
+      "publicado": "2026-11-08T10:31:17Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "FLAMENGO MARICÁ CLASSIFICADAS!🟥⬛",
+      "canal": "Rodrigo Souza",
+      "views": 106,
+      "url": "https://www.youtube.com/watch?v=Jv20nNP2fT4",
+      "publicado": "2026-11-08T15:36:13Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Palmeiras se prepara para grande número de desfalques após Data Fifa",
+   "categoria": "Lesão e desfalque",
+   "clubes": [
+    "Palmeiras",
+    "Cruzeiro"
+   ],
+   "foco": true,
+   "nota": 64.5,
+   "sinais": {
+    "busca": 50,
+    "aceleracao": 63,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": 70
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "data fifa",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "data|palme|fifa|desfa",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "Eu aposto que [SEU PALPITE: QUEM ENTRA] vai ganhar a vaga de Data. Você concorda?",
+    "titulo_thumb": "MEU PALPITE",
+    "pergunta_enquete": "Qual sua opinião: Palmeiras se prepara para grande número de desfalques após Data Fifa?",
+    "tecnica": "Aposta",
+    "ganchos": [
+     {
+      "tecnica": "Aposta",
+      "texto": "Eu aposto que [SEU PALPITE: QUEM ENTRA] vai ganhar a vaga de Data. Você concorda?",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "60 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
+      "thumb": "TODO MUNDO VIU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "O Palmeiras sem Data: o técnico vai ter que escolher entre improvisar ou mudar o time.",
+      "thumb": "SEM DATA?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Todo mundo diz que sem Data o Palmeiras afunda. Eu não tenho tanta certeza, e vou te mostrar por quê.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Palmeiras se prepara para grande número de desfalques após Data Fifa. O elenco do Palmeiras tem reposição à altura?",
+      "thumb": "E AGORA, PALMEIRAS?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Sexteto pode desfalcar Palmeiras contra o Cruzeiro por convocações na Data FIFA; confira",
+     "fonte": "Diário Celeste",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFJheVdzQWVrYkc1VTNTeEppVFhGZkpJV0dSUTlCck5KZnJFb2QxdXA2TGhBU3BWM2hScS1PTXRNdzBNRk0waC1XZVFPM2YwcnNFNjZXamxIX3JrMGxSNHBwRzdiel9MYTFXdm05SnRxbVpxS0FYUmVNWDVmR0lDVE80VEVUc0tNZmlzbDhCMk16YXRSM1huUGpvZWxfWFJUSmt2bW42X0RURmhzOTQ4S0ItNA?oc=5"
+    },
+    {
+     "titulo": "Palmeiras se prepara para grande número de desfalques após Data Fifa",
+     "fonte": "ABCD Jornal",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmNRaG55d1hwUEt2b0tKazhIM21uYXRYVklxbUxmenZhbVo2dmtPVEdLT2pyR0Rsd2tQRGRkTjNxZmJMc2hYWWg0TjdtcTFsOE9DaWp2ekVtSVEwRTFhM2tIQkMtR0VpLXhnWU9sQkc3ZThxajJjeXlPVDV6N1E1M25iQk5YY2dWUy05d1NRbnc4RDhuTFNFbjhZenpzTWl1WGhEelFsUGxsQQ?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "xb3xtGeW_LQ",
+      "titulo": "ABEL MUDA PALMEIRAS CONTRA VASCO? ALERTA FLAMENGO! SEEDORF BARRADO NO CORINTHIANS; MANSÃO NEYMAR +",
+      "canal": "UOL Esporte",
+      "views": 39148,
+      "likes": 1238,
+      "comentarios": 10,
+      "publicado": "2026-11-06T18:36:00Z",
+      "duracao_s": 7291,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=xb3xtGeW_LQ"
+     },
+     {
+      "id": "yc5bN_rwuow",
+      "titulo": "CRUZEIRO TEM NOVOS DESFALQUES NA DEFESA E ACENDE ALERTA PARA DUELO COM O PALMEIRAS",
+      "canal": "Itatiaia Esporte",
+      "views": 18899,
+      "likes": 81,
+      "comentarios": 0,
+      "publicado": "2026-11-07T10:00:05Z",
+      "duracao_s": 63,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=yc5bN_rwuow"
+     },
+     {
+      "id": "R8plmFgC9XM",
+      "titulo": "CRUZEIRO TEM NOVOS DESFALQUES NA DEFESA E ACENDE ALERTA PARA DUELO COM O PALMEIRAS",
+      "canal": "Itatiaia Esporte",
+      "views": 1950,
+      "likes": 21,
+      "comentarios": 0,
+      "publicado": "2026-11-07T10:00:04Z",
+      "duracao_s": 139,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=R8plmFgC9XM"
+     }
+    ],
+    "consulta": "Palmeiras Data Fifa desfalques",
+    "n_videos": 3,
+    "mais_de": false,
+    "views": 59997,
+    "top": [
+     {
+      "titulo": "ABEL MUDA PALMEIRAS CONTRA VASCO? ALERTA FLAMENGO! SEEDORF BARRADO NO CORINTHIANS; MANSÃO NEYMAR +",
+      "canal": "UOL Esporte",
+      "views": 39148,
+      "url": "https://www.youtube.com/watch?v=xb3xtGeW_LQ",
+      "publicado": "2026-11-06T18:36:00Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "CRUZEIRO TEM NOVOS DESFALQUES NA DEFESA E ACENDE ALERTA PARA DUELO COM O PALMEIRAS",
+      "canal": "Itatiaia Esporte",
+      "views": 18899,
+      "url": "https://www.youtube.com/watch?v=yc5bN_rwuow",
+      "publicado": "2026-11-07T10:00:05Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "CRUZEIRO TEM NOVOS DESFALQUES NA DEFESA E ACENDE ALERTA PARA DUELO COM O PALMEIRAS",
+      "canal": "Itatiaia Esporte",
+      "views": 1950,
+      "url": "https://www.youtube.com/watch?v=R8plmFgC9XM",
+      "publicado": "2026-11-07T10:00:04Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "PRÓXIMOS JOGOS DO SÃO PAULO 🔴⚪⚫ O Tricolor faz um amistoso durante a Data FIFA antes de retomar a reta final do Brasileirão. ⚽ Noroeste x São Paulo | Amistoso 🗓️ Sexta-feira, 13/11, às 20h 🏟️ Estádio Alfredo de Castilho, em Bauru (SP). ⚽ São Pa",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "São Paulo"
+   ],
+   "foco": true,
+   "nota": 63.8,
+   "sinais": {
+    "busca": 70,
+    "aceleracao": 48,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": 51
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "data final copa do brasil 2026",
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 6,
+   "assinatura": "paulo|amist|noroe|sexta",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Amistoso entre Noroeste e São Paulo tem ingressos acima de R$ 400. Quase ninguém fez a conta do que isso significa para o São Paulo.",
+    "titulo_thumb": "R$ 400",
+    "pergunta_enquete": "Qual sua opinião: PRÓXIMOS JOGOS DO SÃO PAULO 🔴⚪⚫ O Tricolor faz um amistoso durante a Data FIFA antes de re?",
+    "tecnica": "Dado",
+    "ganchos": [
+     {
+      "tecnica": "Dado",
+      "texto": "Amistoso entre Noroeste e São Paulo tem ingressos acima de R$ 400. Quase ninguém fez a conta do que isso significa para o São Paulo.",
+      "thumb": "R$ 400"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "São Paulo ‘inova’ e confirma amistoso contra o Noroeste em Bauru durante a data-Fifa. Nem todo mundo no São Paulo vai gostar disso, e eu vou explicar por quê.",
+      "thumb": "SÃO PAULO x NOROESTE"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "São Paulo ‘inova’ e confirma amistoso contra o Noroeste em Bauru durante a data-Fifa. Parece notícia pequena. Não é.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "São Paulo ‘inova’ e confirma amistoso contra o Noroeste em Bauru durante a data-Fifa. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
+      "thumb": "E AGORA, SÃO PAULO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "São Paulo ‘inova’ e confirma amistoso contra o Noroeste em Bauru durante a data-Fifa. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "QUANTO CUSTA VER NOROESTE X SÃO PAULO EM BAURU? 🔴⚪⚫ Noroeste e São Paulo voltam a se enfrentar após 15 anos. Segundo a programação oficial do Tricolor, o amistoso será na sexta-feira (13), às 20h, no Estádio Alfredo de Castilho, em Baur",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1USUpRbGFNRU9rLWJrZGNKcUVVTmFWdjhFSWNOcDVmZlAyalR0R0NDN25aMTFtOUxCUFlSODczaEJqb29zWjJoVG1QNG9ZcWo3Q3c?oc=5"
+    },
+    {
+     "titulo": "Amistoso entre Noroeste e São Paulo tem ingressos acima de R$ 400; veja preços",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLWVfbTZjcUZTeE9POGFmQlJjNE9IeDlzeUNWWE9DckJ0NV9XNkh5LWF6Z1VxSXBSeG5JMzBvTHZlLXdzWlUtUndDVkVwdHYwQkdsTmh6NFBCTFAxN2w1RGk1eWNpQmFKUlJXbTgzTjlmUWs1VU9CWDNSUUlWWlFuS0J2eVh0ZDAxc21nWGF0bGRBbGtYT2xSb1NPdUxZT2JoVWtmcHJyT0Q1MzVTRUJCMzZBdmRUREZzUlNLYXpES19rd3pkV2ZvQTdLbmNCVnVMQnl4c0ZFLXJWZUF2ZnfSAewBQVVfeXFMTUR4WE50b1M0eTFXZHRNaWptako3YnRqblV0UlEzb3dSdTdPZGNnUWZDOVhGWlRDZVB3a0N3MVNHLXJZb1FvUW9hd0gwd0JvaFZPb21GNHk2MVExMEduZVdzakpOYjhNSk55bEVtMzJybFpUUHVHa1I0dTdIamNfdWRJcDF1WlBCOVVKMkxjRTdzdmtrTUFzeFNwT2tBMnhMRGlhUV95dkF1NTdGOUh4ZEk0bndiZHdvWWJhNXVTa1paRlpmQk9oNmhpVDZlYl9BaTRueXI4Rm9FNHNhX3dFa3RUVVhkdkl2b3NQTEw?oc=5"
+    },
+    {
+     "titulo": "PRÓXIMOS JOGOS DO SÃO PAULO 🔴⚪⚫ O Tricolor faz um amistoso durante a Data FIFA antes de retomar a reta final do Brasileirão. ⚽ Noroeste x São Paulo | Amistoso 🗓️ Sexta-feira, 13/11, às 20h 🏟️ Estádio Alfredo de Castilho, em Bauru (SP). ⚽ São Pa",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rRkJyS1B6dUlrcVJPdGJGaUZkejFyb2hmS2IxdFBMSXhqcUE4THJ3ay0tWkpXVVl6R3ltSV9paTAyS19fN1Y3N3dJU0dIVFROMHc?oc=5"
+    },
+    {
+     "titulo": "São Paulo ‘inova’ e confirma amistoso contra o Noroeste em Bauru durante a data-Fifa",
+     "fonte": "thefootball.com.br",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOemo0cDN2WnVwR09UeDZESjBXYmxlSTVPX05ZZVNGSGJlN2JrcUF6aEw0cXJDRzVsbjhvdGt0NnUyc3BER2NTXzgzX090SmtPc3pPa0hTbUpzN1ZWZXZBdGhucnlXbENqZFVpcmVjS3dJZ000X3hMVGpmc3B6RzZzeHpHMVFOU1JYVTNxRjZNV1BwUjhHVHJkVmViZ29NRkFWOE8zUA?oc=5"
+    },
+    {
+     "titulo": "SÃO PAULO VAI REGISTRAR BO APÓS NOVA INVASÃO AO SITE 🔴⚪⚫ O site oficial do São Paulo foi invadido na sexta-feira (6), um dia depois do primeiro ataque. O mesmo invasor voltou a publicar uma mensagem na página. O clube tirou o site do ar para",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iVDVKZ1BrTVlBc2xIZTFqUFl1d3E1YWppUG8xYm8yQWd4N0NDaHdsMG1RMDZrR0pvbl9UVU5qckZMN0FrcTlZbGdvdWxhczZCVnc?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "HWPhpwimdhE",
+      "titulo": "OLHA QUANTO O SÃO PAULO VAI RECEBER! 😱",
+      "canal": "Sou TRICOLOR",
+      "views": 1676,
+      "likes": 45,
+      "comentarios": 1,
+      "publicado": "2026-11-07T22:02:43Z",
+      "duracao_s": 159,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=HWPhpwimdhE"
+     },
+     {
+      "id": "8Qxem8vsk4g",
+      "titulo": "AMISTOSO MARCADO",
+      "canal": " Luizlopes L18 ",
+      "views": 841,
+      "likes": 10,
+      "comentarios": 0,
+      "publicado": "2026-11-07T13:23:29Z",
+      "duracao_s": 31,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=8Qxem8vsk4g"
+     }
+    ],
+    "consulta": "São Paulo Noroeste Amistoso Sexta-feira",
+    "n_videos": 2,
+    "mais_de": false,
+    "views": 2517,
+    "top": [
+     {
+      "titulo": "OLHA QUANTO O SÃO PAULO VAI RECEBER! 😱",
+      "canal": "Sou TRICOLOR",
+      "views": 1676,
+      "url": "https://www.youtube.com/watch?v=HWPhpwimdhE",
+      "publicado": "2026-11-07T22:02:43Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "AMISTOSO MARCADO",
+      "canal": " Luizlopes L18 ",
+      "views": 841,
+      "url": "https://www.youtube.com/watch?v=8Qxem8vsk4g",
+      "publicado": "2026-11-07T13:23:29Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Cruzeiro: Jonathan Jesus chega a Singapura para primeira experiência com a seleção brasileira",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Flamengo",
+    "Cruzeiro",
+    "Bahia"
+   ],
+   "foco": true,
+   "nota": 62.7,
+   "sinais": {
+    "busca": 55,
+    "aceleracao": 32,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.134,
+   "trafego_google": 0,
+   "busca_torcedor": "flamengo x cruzeiro",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "chega|cruze|brasi|flame",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Jonathan Jesus chega a Singapura para primeira experiência com a seleção brasileira. Quem venceu comemora; quem perdeu tem uma conta para acertar.",
+    "titulo_thumb": "FLAMENGO x CRUZEIRO",
+    "pergunta_enquete": "Qual sua opinião: Cruzeiro: Jonathan Jesus chega a Singapura para primeira experiência com a seleção brasile?",
+    "tecnica": "Conflito",
+    "ganchos": [
+     {
+      "tecnica": "Conflito",
+      "texto": "Jonathan Jesus chega a Singapura para primeira experiência com a seleção brasileira. Quem venceu comemora; quem perdeu tem uma conta para acertar.",
+      "thumb": "FLAMENGO x CRUZEIRO"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Jonathan Jesus chega a Singapura para primeira experiência com a seleção brasileira. O placar diz uma coisa. O jogo, visto de perto, diz outra.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Jonathan Jesus chega a Singapura para primeira experiência com a seleção brasileira. O que esse resultado muda daqui para frente?",
+      "thumb": "E AGORA, FLAMENGO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Jonathan Jesus chega a Singapura para primeira experiência com a seleção brasileira. Minha aposta: depois desse jogo, [SEU PALPITE]. Me cobra depois.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "Com 79 pontos. Parece só um número, mas ele vai pesar nos próximos meses do Flamengo.",
+      "thumb": "79 PONTOS"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Cruzeiro: Jonathan Jesus chega a Singapura para primeira experiência com a seleção brasileira",
+     "fonte": "O Tempo",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcm5KeDYyaFVRYktiT3M0enBDSGZNbkw2MmZRNWdIamdBYWp6TERDbzQwdV9xLU5HeXdOaE1zQ3RVSEkzQzBpWWhtdW1USzRSajIyOG54X3cxUVc3S01oTEF0cVJNQzJYTE52a2pTdHZmQnpKdVF1d2F4RVhacjRCOGNVcGZpM3VmbGJQLUlPZ0Y3ODNyMjdoUDE3RnJyZW1hYTRjNm1mUmJKQ0pweVVhRTVMTjRFS05XQzRFQjZ4MUZYRWF2NGgtTVJxRnNjdS1SRXN6V3lEWTZpSGJq?oc=5"
+    },
+    {
+     "titulo": "De acordo com levantamento do perfil @tabelamoral, o Flamengo já seria campeão do Brasileirão de 2026 após a derrota do Bahia para o Cruzeiro. Com 79 pontos, o Rubro-Negro não poderia mais ser alcançado pela equipe baiana, que poderia chegar a,",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0Nk1PaC1ZV3ZGemNCcWlIZ1VfRzZrcEtkX3JuRm53RHlmVi1TUXpqYUNYekFRQTY0N2RBOTNMY1FGRW5zVlVUTTR4WFF3am5QQ1E?oc=5"
     }
    ]
   },
   {
-   "tema": "Paraguai convoca jogadores de Palmeiras e São Paulo",
-   "categoria": "Seleção",
+   "tema": "Vasco chega modificado para reencontro com Palmeiras em São Januário",
+   "categoria": "Jogo e resultado",
    "clubes": [
     "Palmeiras",
+    "Vasco"
+   ],
+   "foco": true,
+   "nota": 62.5,
+   "sinais": {
+    "busca": 50,
+    "aceleracao": 55,
+    "midia": 67,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.134,
+   "trafego_google": 0,
+   "busca_torcedor": "palmeiras x vasco",
+   "termos_trends": [],
+   "n_fontes": 4,
+   "n_manchetes": 4,
+   "assinatura": "vasco|palme|janua|reenc",
+   "ja_coberto": {
+    "titulo": "VASCO DA GAMA   X  PALMEIRAS -   VOLTA",
+    "url": "https://www.youtube.com/watch?v=1r9IOkC791I"
+   },
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Vasco chega modificado para reencontro com Palmeiras em São Januário. A leitura óbvia é uma. A que importa é outra.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
+    "pergunta_enquete": "Qual sua opinião: Vasco chega modificado para reencontro com Palmeiras em São Januário?",
+    "tecnica": "Contradição",
+    "ganchos": [
+     {
+      "tecnica": "Contradição",
+      "texto": "Vasco chega modificado para reencontro com Palmeiras em São Januário. A leitura óbvia é uma. A que importa é outra.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Vasco chega modificado para reencontro com Palmeiras em São Januário. E agora: o que muda para o Palmeiras?",
+      "thumb": "E AGORA, PALMEIRAS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Vasco chega modificado para reencontro com Palmeiras em São Januário. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Vasco chega modificado para reencontro com Palmeiras em São Januário. Por trás disso, tem dois lados que não querem a mesma coisa.",
+      "thumb": "PALMEIRAS x VASCO"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Vasco venceu o Palmeiras de virada no último confronto entre as equipes em São Januário pelo Brasileiro",
+     "fonte": "NETVASCO",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdVlVRXQydWRfOVFnNTY3T1dVSXBCcU9heGt3aEc0ZE01Z01ackNncVRMelJ4bVVjdlg4QXVObGR4Smdaa3R3MlIyRWlHY2c1eG10WXVpVWV0UFUtb0FEd2tJRlVfT1FEbDJuOVJjU1huQklZczVVQkptZG16TWpaM3hKVFkxMXlTNWFmNWwxcEhEaGlfakU4TVJYTFdZOW9WSjlzMEdJdXVvd0g0Tk1LRTdMWGRUbGRaaXUzUFFvQWY3QXlCUHZVWVhGNWtDTVZlOVE?oc=5"
+    },
+    {
+     "titulo": "Palmeiras pega Vasco em São Januário para tentar carimbar vaga na final",
+     "fonte": "Diário do Grande ABC",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbGRRXy03b0pUN1Fwb1N0VUhPWUtrVDJuOURGdU1yNVN6NTFnU2hpNy1mN1c1US13QjliR3VUOXJ2QVdxRzFwUW9nOEV0VzctQW4tOEQ3S0hUX1E2NE10RlVydTUzR1pRY3FwbkQ5QmRoNFA0ZllMTkx6NGg0c05xOE1GVmtfelA2U0RrOXNRUXlObEgyMmMzODJjSVRFRlE2MHBZeVhFdUZFamM4bXBKLXh3?oc=5"
+    },
+    {
+     "titulo": "Vasco aposta em série invicta em São Januário para derrubar o Palmeiras",
+     "fonte": "ABCD Jornal",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFJKZkxaWEZKMDlkSkY2bDQtdWlKcW9wTEw4VW9iVjFPV04wTzd5ckFfdEZlTFBtX2l4X3lSZkREZEVWWC10QlVNMlQ0VmVZM3RxNm55YzFZQUU5WFJFUzJXSTJndTI5OVE2UEx3aXpzWVBEZ3BEZlZ3bmNNdDc2U0tFbE5tVW9QZGppS1pvdGgwVGtWcHVrNlYwMVlhOXpib08tMzQwazROQ1hCMTFfNkFGRnFmbnBVYWdqTGlsbmpSN2PSAcgBQVVfeXFMTndwUXpLQXN3YjR1UFdSeXlITXRpTXJRRXB2V01qd2lJdGVlZWVvNlpvTGVfYWk0bXVzTEpDbjNnQXI2b0FwWG5WMVhxV3Vic1BaelFRYTdQREpib043NmNKZWs4NnlqSlZxajI1ZUxCOFhDanI5NTBHMmVjdTZBLVI4TW01cTNZT3Bfai1XSnNvRjBFcmRGNmxxYUZtYTVOU1pTWGZMRjZCWXNobTNwbU1GUzFZa1EzS3ZudkVoMkZ6TVpDbS1qdEo?oc=5"
+    },
+    {
+     "titulo": "Vasco chega modificado para reencontro com Palmeiras em São Januário",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQV3FaX1NxZ051U0kyb1JRdEZ5Rlp3eUJHMFYwdldLTUQ0ank1bTFBT05LcWFBWXV5N1lCZjdTY3BJS3BnUkRCMVdXSFIteFBlXzVXNlVuQzc4cmdXa1Rma1hTUE85ckkzLWNJckZsOGFKc1Y4MVNFMHJUZ2xSdldidjVaS1FFM3hPV0ZwNG4zR0J6TDlqVTVtZks4eU52WC1KbW5xZHpOdnUzX3RNUzZ3LUFMczRham5JV19MX1BEck43UFkzVDQzbWh2YmxNNWJzdXpESmw0OHZ6V24yQ0dOQTJZMXRremxaUS1OQVg3ZGc2WEJfNHBXUVNlajZ0ZDVW?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Matheus Gonçalves revela bastidores da saída do Flamengo: 'Não gostava'",
+   "categoria": "Polêmica e bastidor",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 61.6,
+   "sinais": {
+    "busca": 50,
+    "aceleracao": 58,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "paquetá é do flamengo",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 3,
+   "assinatura": "basti|flame|gonca|revel",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Explicador de bastidor (2 a 4 min)",
+    "gancho": "Até onde essa história do Flamengo vai chegar?",
+    "titulo_thumb": "E AGORA, FLAMENGO?",
+    "pergunta_enquete": "Qual sua opinião: Matheus Gonçalves revela bastidores da saída do Flamengo: 'Não gostava'?",
+    "tecnica": "Pergunta aberta",
+    "ganchos": [
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Até onde essa história do Flamengo vai chegar?",
+      "thumb": "E AGORA, FLAMENGO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Matheus Gonçalves revela bastidores da saída do Flamengo. Eu aposto que [SEU PALPITE]. Se eu acertar, você me deve um like.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "O torcedor está digitando “paquetá é do flamengo” no Google agora. A resposta não é tão simples.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Matheus Gonçalves revela bastidores da saída do Flamengo. Tem gente no Flamengo puxando para lados opostos, e essa conta chega no campo.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Dizem que está tudo em paz no Flamengo. O que acontece nos bastidores mostra o contrário.",
+      "thumb": "NÃO É BEM ASSIM"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Matheus Gonçalves expõe bastidores do Flamengo e critica Sampaoli",
+     "fonte": "NossoFla",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rYnQtdGhYNW5zMnpDeWZ1VmZac3gtU1VoSWkxUGFpaURZWlYyTWVXS1dvaVdoOTJkNm9vd0hYNHJBcjhiMjRZWF80U1lQMElIcUNDZW1zYWYtLUt1SkVPQjdTbEsxUkt5UU5LYXNOMlNsd3ltcUw3b1ZScw?oc=5"
+    },
+    {
+     "titulo": "Matheus Gonçalves revela bastidores da saída do Flamengo: 'Não gostava'",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFd5THREWkV5ZlZFbXkyY29oZ0tJc2dmcktGUG12cy1US2ExTFpKcG9LalJ0NzFNVjZLeENSWThTSHRKLW5IbTZmRnNJOHBHb2cwRTQ1V2F1Zzk0UVRVUHoybm0yMzZDenRYY3ZlU3V5WTAwQS13RjFJTXU1N19Gd3NZOVZnaGhZT2wyY01tSUIyMG5qUktoR2RUNmhxTkNwYUV6LUU2VG5JUS1meE43bDJB?oc=5"
+    },
+    {
+     "titulo": "Paquetá convida Neymar para jogar no Flamengo e revela bastidor",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObWdyeW5UZ3M2LXFGSFVjR1pSMFpBdWlSbmE2Y3lCcVIyU05CRlNJeUNHbnp6OEpCQkFJc0lpMGRxVXhrZkc3YUwzXzRXazBubjJRcmp6blRPNUlyc1lyYkVVSW00aUcwWlRDY0JVOTZRNkpGcV9iRllBUW1LdmV0aHpDaVNreFhTOW5nZFJhclM1eHo1bHBmVWhIZWF2T2c1SWszYXBtdjN0TmRfNDhtdXJkS044UQ?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Corinthians recebe o Red Bull Bragantino pela semifinal do Paulista Sub-20; saiba tudo",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Corinthians",
+    "Bragantino"
+   ],
+   "foco": true,
+   "nota": 61.4,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 76,
+    "midia": 67,
+    "aderencia": 100,
+    "youtube": 46
+   },
+   "fator_categoria": 1.134,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 4,
+   "n_manchetes": 5,
+   "assinatura": "braga|corin|red|bull",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Eu aposto que o Corinthians [VENCE / EMPATA / PERDE], e explico por quê. Qual é o seu placar?",
+    "titulo_thumb": "MEU PALPITE",
+    "pergunta_enquete": "Qual sua opinião: Corinthians recebe o Red Bull Bragantino pela semifinal do Paulista Sub-20; saiba tudo?",
+    "tecnica": "Aposta",
+    "ganchos": [
+     {
+      "tecnica": "Aposta",
+      "texto": "Eu aposto que o Corinthians [VENCE / EMPATA / PERDE], e explico por quê. Qual é o seu placar?",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Corinthians x Red Bull: um precisa vencer, o outro não pode perder.",
+      "thumb": "CORINTHIANS x RED BULL"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Corinthians x Red Bull parece um jogo com dono. É exatamente aí que mora o perigo.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Corinthians x Red Bull: qual é o detalhe que vai decidir?",
+      "thumb": "E AGORA, CORINTHIANS?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Ficha técnica de Corinthians x Red Bull Bragantino - Copinha Feminina 2026",
+     "fonte": "www.meutimao.com.br",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUd5dHhMcW91RW5iRU9ueVhvNXdCR2tsNnE0WEpWU2EyVmJGTEpCZURNVms0cXUzRzdFN2xXWjV2MmdlRFMzeHlZVGZaX0FOUG1aUHVhdGwzWHU2NU5oNjgxY0xkWklJOExmby1ubk1IYnNsQjR5RVZ1ZTRRNk5aOWEyMHBTbHlxeHpud3FSTWxOcVJqLTJ6anBTb1FlOWJqVllfSQ?oc=5"
+    },
+    {
+     "titulo": "Corinthians busca quebrar tabu contra o Red Bull Bragantino no Sub-20; saiba qual",
+     "fonte": "Meu Timão",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPREQtNkkxX0lmWXNRTHBIeHVORkhJX0MwZzF2dV9RemVKN3RQVnh5akRtNWkwUndmLWNrY1VheVUyNWtvejFGZXF4WVdSckdQMUtoRm9oQU94YjkwQVZlbHdSU0dFZzVrOVJUOG1JWlBrRkk3ZHBzQ04wVm1paHE2VldhMUp5bzVLNG1PV0ZIOWdUd0g2RXM3MXVOd2w0ZGRlLWhVMjdMRU9XLVA2bDhiUUE1WjNXN3p3dXZ2QTJ4ZVB4TWhOeHJqYnZJWHp3Vm9UbUhUUFVB0gHGAUFVX3lxTE9PMHhvRzdRVXBJSmJvQXRKcUU1NnNoZDRkT25jUFpGVUdmaURqT1A0SlNRcGs2ZFJIb2JvUXIxOXBsYUYtM215amh1VWtjaUc2WUNveFNEelJNSzdzS3k1N0RUaTZoRFczOEN1TS1XTkNKZTRvRk55SmQ0aWx3RTZiZDlIeXZHSUE1cTk1T3Y5blpqNy1rME1Rb2FYSEV4UGJjTGFmS0xsMThuMnNkRFFaSm0yZlh6a1luVUVxM0k2bndPeW5aQQ?oc=5"
+    },
+    {
+     "titulo": "Corinthians recebe o Red Bull Bragantino pela semifinal do Paulista Sub-20; saiba tudo",
+     "fonte": "Meu Timão",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNGNSNlYwX0lRMDN3bHpDZ3JiRC10d2R0amVOaTkwVmN6M2VuVXNPSkt5bFg1X2VkX0piNUZGX0JVTlFvMUZadWkwMDhHTlc0ZmV3MWpmbkJOelpDLXVRSXJlWTc1cTl6NzMyWFNOT3pxblF2M1hFRUcwbkF0akFEWENLc01GQjhZTXM0NjdMSE8zM1lPbTEwdXQ2Ukl2UmFZRVEyQlVHQmVGVmRHcjN0U2JubTNSYmdGMEZvb1BMWWIzOGdCekdBajJNNzBCZEVEZEQzRUltTFVTSkQ00gHMAUFVX3lxTE1nM1BEdWpDOXpjVVRfRFM2VDNjWDBOLXlqZkwzUHpHY1laTWszOFlNa2dZNWViZjRpQmVuaDhubkJLSmVPbE0xQ2tmZjF4NUhDd1lKUElQd2FlcGZrZmFGbHZ4OXB0UEIxNnpMZWlwTDlRNEJlS21udjA3YnVsNUhuOWJLZDI5UC1xRDNoMXlUS25HMnh3cW1ZSVJ3YXVWclNBWUtWUFRlTjdCM3pzRVQzRHduaWF6Zmp5eVpvOVZNWUhIUnhBdFFIbVVYZg?oc=5"
+    },
+    {
+     "titulo": "Paulista Sub-15: Santos, São Paulo, Red Bull Bragantino e Mirassol se classificam",
+     "fonte": "PortalR3",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaXpCMW1maVF2aEFtX0kzQVhfTTlSN3pHNHF3Y3lJWHhrMkJXeURrMjZYOUY1d05OcW15bTZzREVzdGh0NjlmZDNkNjFMU1M4Tmx6b0ZEMXdnRTdFc21YUlBKQ3lGM2FTX18wSTdzT1dBeVFSWEZfWmFSV0JnajAyTTNVQms0VFhQRHI5anhaR245Z19uLVNVNGQ5ZzZkSzk4dVljSmRhMHphZjRrYmdSWlVwOXVDTU0y?oc=5"
+    },
+    {
+     "titulo": "Corinthians x Bragantino (Sub-20): onde assistir e escalações",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWkdxbFlza3JPTjVWRVZtZ0ZvbzcyRkREQ2dzT3RCdFFqQ29LdW1xbjVtWFJZSFhST0lqQzhLWlkxY2R1ODBYUDFscUtDa0RjRWlkQkd1MWM3LTYyUk1DUDhUM3Q5YU0tZWFrMGJ1Qm1fX1RNbExkZDI4TThFMjU1RjlXYnZxSVZXblQxRkhaaE5QQXVhM3I3d3k1UHJsODlHaXBZYUpneWxmeVExbDJPc08xVmdLdHNZVTBjQ1RYXzlVel9PNGFXOVZwX0NRXzc3RHBnQUJjUzFrQWIxS054TnN3QzY?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "NDcqlzAs6Z8",
+      "titulo": "Preparação finalizada! 🔛\n\nOs #FilhosDoTerrão Sub-20 realizaram o último treino antes do duelo com o",
+      "canal": "Voz da Fiel",
+      "views": 741,
+      "likes": 18,
+      "comentarios": 0,
+      "publicado": "2026-11-08T00:05:05Z",
+      "duracao_s": 60,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=NDcqlzAs6Z8"
+     },
+     {
+      "id": "EhdvXWjL6vQ",
+      "titulo": "⚽ FUTEBOL DE GRAÇA! TIMÃOZINHO ENFRENTA O BRAGANTINO AO VIVO NA XSPORTS!",
+      "canal": "CONSENTINI",
+      "views": 207,
+      "likes": 2,
+      "comentarios": 0,
+      "publicado": "2026-11-08T12:13:20Z",
+      "duracao_s": 70,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=EhdvXWjL6vQ"
+     }
+    ],
+    "consulta": "Corinthians Bull Sub-20 Paulista",
+    "n_videos": 2,
+    "mais_de": false,
+    "views": 948,
+    "top": [
+     {
+      "titulo": "Preparação finalizada! 🔛\n\nOs #FilhosDoTerrão Sub-20 realizaram o último treino antes do duelo com o",
+      "canal": "Voz da Fiel",
+      "views": 741,
+      "url": "https://www.youtube.com/watch?v=NDcqlzAs6Z8",
+      "publicado": "2026-11-08T00:05:05Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "⚽ FUTEBOL DE GRAÇA! TIMÃOZINHO ENFRENTA O BRAGANTINO AO VIVO NA XSPORTS!",
+      "canal": "CONSENTINI",
+      "views": 207,
+      "url": "https://www.youtube.com/watch?v=EhdvXWjL6vQ",
+      "publicado": "2026-11-08T12:13:20Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Corinthians volta a atrasar parcelas de acordo com a PGFN e acumula dívida de R$ 26,1 milhões",
+   "categoria": "Finanças e gestão",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 60.9,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 82,
+    "midia": 81,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 6,
+   "n_manchetes": 6,
+   "assinatura": "acord|corin|atras|milho",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Explicador de bastidor (2 a 4 min)",
+    "gancho": "Corinthians atrasa pagamentos à Fazenda e pode perder acordo que economizou R$ 500 milhões. Guarda esse número, porque ele muda a conversa sobre o Corinthians.",
+    "titulo_thumb": "R$ 500 MILHÕES",
+    "pergunta_enquete": "Qual sua opinião: Corinthians volta a atrasar parcelas de acordo com a PGFN e acumula dívida de R$ 26,1 milh?",
+    "tecnica": "Dado",
+    "ganchos": [
+     {
+      "tecnica": "Dado",
+      "texto": "Corinthians atrasa pagamentos à Fazenda e pode perder acordo que economizou R$ 500 milhões. Guarda esse número, porque ele muda a conversa sobre o Corinthians.",
+      "thumb": "R$ 500 MILHÕES"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Corinthians volta a atrasar parcelas de acordo tributário com a União. Dinheiro de um lado, time do outro: alguma coisa vai ter que ceder.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Todo clube fala em equilíbrio. Corinthians atrasa pagamentos à Fazenda e pode perder acordo que economizou R$ 500 milhões. Esse número conta outra história.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Corinthians volta a atrasar parcelas de acordo tributário com a União. Quem paga essa conta no fim: a diretoria ou o torcedor?",
+      "thumb": "E AGORA, CORINTHIANS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Eu aposto que essa conta chega no elenco do Corinthians ainda nesta temporada. Você aposta em quê?",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Corinthians volta a atrasar parcelas de acordo tributário com a União",
+     "fonte": "Araraquara News",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVV8xVThINDRnNG16bV9UakkzalluNXFYUm5oOFJJYlBvM2d0bzI4R1dIWHc3S0tJWXFXZG8xWWVNUG9nZ3Y1WE5oTVZNN3FDTm9ubFVmSHFjc2hzQ1hUbzNqbnU1SGRjTmZscmdCd09MS0NzbWREeEVGWWxzb3lIcWRTcHotWHU0T2hoWnRqamhFQ1NVZXBBVWtxcVBGNmFRdEFKSHMwM1FNRlo5ZFozOA?oc=5"
+    },
+    {
+     "titulo": "Corinthians atrasa pagamentos à Fazenda e pode perder acordo que economizou R$ 500 milhões",
+     "fonte": "Portal ABC do ABC",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfdEdiTFpROW5nam5yU29uTTlNWWQ2YjFSU0dYVWlGNmNyNXJQRjQzcXpDUDBjQkR0UVdaVS1JM2staWtveGdIMUh3bUljaktEbDlXTGhveDdmcmhHY2I1Y1p3MjRBV2JRWE44X3BJbzlMVmtjcHBr?oc=5"
+    },
+    {
+     "titulo": "Corinthians volta a atrasar parcelas de acordo com a PGFN e acumula dívida de R$ 26,1 milhões",
+     "fonte": "Meu Timão",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORldIOHFMdXJjLWlQbklMZklXZU55ajVySGRwNXdkZThzX1ZkNEk2bDN6bk82VUxXMkFCeko0RllHNVlwajh6UFBVYlE2MlVMQjJ3bWhRR0hianlnZXIzOFNIOUZaRW1vNFRsUTVQOFdGSVVhUWlqcGI4VEZNcFY0MUhlUHFaRVhpajJEVWN2alVodjRLMHNDSjcwOW1CbkE1b1Q3N3puZjVNSmt0SnUtdEpzODVkVjlRUTBEUDVWVlhWeU9GWTFTUEVvZGNIaGcyX1VyVHdVSzZtWnRod1JIUkNGODA?oc=5"
+    },
+    {
+     "titulo": "Corinthians atrasa acordo que reduziu dívida bruta em R$ 217,4 milhões",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNX2NpVWpBSFlLeHhoSjA1LUtBejgyWFZuaXhpdk4zMEpnRVMtNzZUOEo3YUQ3MDJ3VzFrQ040b2JfQlF6NXNLLXI3YndHamhGT0hXdkNZOGlaMUNoemE1QzR4VzhQSlBreVFGallTWkxUUlJlSGxiS25DYjZvYjk2cDJMSUlEcGc1eW9YVmhiNmhCa19kbGJ4anNLYjRqSDh0OWVqSlZYZ1QyU1ZqVlZFaUpLRTc0dm8zWW1mSDJrZTRIVkdtVFdBRE1ScXBXb04wYm9JRnhTbVZsdHhwLVJ5VzR3VVg3Zi1pWkYyZVNaVVdaUQ?oc=5"
+    },
+    {
+     "titulo": "Corinthians teria R$ 26,15 milhões em parcelas atrasadas em acordo tributário",
+     "fonte": "Antenados no Futebol",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUWFRSnIwOUFBQXZRbWQ4a1F1bm1fRmVhdXFyOHVDVXhzWEhHZ3Q1clV3WFdxck1sUi1Bck5KQ1FRZ2V1SlBWNkM4Sk8tZEpuMEdvS19sVWxLS2hnUXBJY3lualVuRWU3ZlpsVnVmd0hPU2lRSlB2UnI1VTdENnhrcFJaUTFWNmh3SVA4Y3pfcF9mazEtd3ZlNDQ3dmNGZlR0REMwTHRwZ3RjVUVjdDE3Z3pRUWJuWkNDZWtIcE94VTVtQ3o2OW13eUkzOU1aQzdqeXlyNktGaVlZT2ctOENYRERiZUJrS3BaVVdFbHRR?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Vasco x Palmeiras: horário, onde assistir e retrospecto da semifinal da Copa do Brasil 2026",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Palmeiras",
+    "Vasco"
+   ],
+   "foco": true,
+   "nota": 60.5,
+   "sinais": {
+    "busca": 50,
+    "aceleracao": 63,
+    "midia": 87,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "palmeiras x vasco",
+   "termos_trends": [],
+   "n_fontes": 7,
+   "n_manchetes": 7,
+   "assinatura": "vasco|palme|assis|semif",
+   "ja_coberto": {
+    "titulo": "VASCO DA GAMA   X  PALMEIRAS -   VOLTA",
+    "url": "https://www.youtube.com/watch?v=1r9IOkC791I"
+   },
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Vasco e Palmeiras decidem vaga à final da Copa do Brasil neste domingo. Nem todo mundo no Palmeiras vai gostar disso, e eu vou explicar por quê.",
+    "titulo_thumb": "PALMEIRAS x VASCO",
+    "pergunta_enquete": "Qual sua opinião: Vasco x Palmeiras: horário, onde assistir e retrospecto da semifinal da Copa do Brasil 202?",
+    "tecnica": "Conflito",
+    "ganchos": [
+     {
+      "tecnica": "Conflito",
+      "texto": "Vasco e Palmeiras decidem vaga à final da Copa do Brasil neste domingo. Nem todo mundo no Palmeiras vai gostar disso, e eu vou explicar por quê.",
+      "thumb": "PALMEIRAS x VASCO"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Vasco e Palmeiras decidem vaga à final da Copa do Brasil neste domingo. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Vasco e Palmeiras decidem vaga à final da Copa do Brasil neste domingo. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
+      "thumb": "E AGORA, PALMEIRAS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Vasco e Palmeiras decidem vaga à final da Copa do Brasil neste domingo. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Assista ao pré-jogo de Vasco x Palmeiras na VascoTV",
+     "fonte": "NETVASCO",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORUdXUkczQ0oxNUZUcVVUSXp0Yk5pam1ZUldsNTZxaDRUWkJvbS0zR3NGUUV6Z1pRa09jYm5aalNWX0daWXQ0TEN0MGdnYWViT1FqTFJsSnZEbURkaWlHeXE5Vml2U042NWMwSGVqNi1tdmctVmFFaUR3bVY0U0xKcTR3d2lrOG05WFdzOHI3R2l5Zw?oc=5"
+    },
+    {
+     "titulo": "Vasco e Palmeiras: onde assistir à semifinal neste domingo",
+     "fonte": "Agora RN",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wRzMxTU9oZWVaeF84UXJEQXo3QzItYUQwWFJBbHM3SjVKZ0RiQ2lPWTZYbWRJWFZQYkstTEY2LXRjUTFHREdxb05LREw2NkpjRDVjOUt2R2VXdTZaSEs5ZHBZUHctVUtGRTlVM2Q3UW5TQ0psRHVVYm1oSQ?oc=5"
+    },
+    {
+     "titulo": "Vasco e Palmeiras decidem vaga à final da Copa do Brasil neste domingo",
+     "fonte": "Jornal de Brasília",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMzc1LTl4SjloMzNGdlI2c0ZIcndrNm1UUG1WYkZZZjFlQWhldTNmdUxIdU1ETVhMdHRLV1JTSURTLTRDWVhha0oxUVdaeVNDRGZ5M0t3Z1RWUEVnd0dPNXBPNUlXMGpYUzNVa29GblR0bG5hZklDZHhTRkdUbzkxSDd1MnpxODA3MEFHbnR0VnJVa29rNW0wUm9tNlZzNkpaVlJEUmhaTFhsUlB1bzhvag?oc=5"
+    },
+    {
+     "titulo": "Vasco x Palmeiras: onde assistir, prováveis escalações e mais sobre a semifinal da Copa do Brasil",
+     "fonte": "O Tempo",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNlQteXBQdzFjZEtGNFRzSWpOVjVXeEFKWHBvbEhQQThpMkZpd00xWTgtR1l4LURxM0NvTlNtWmxfTUJyYjhLN29CUXVTSkZRNV95YWoyMElZVFpkaUhzdmdxSktEeXZVZTdLQ1g0LXQ3RkF0S01KT0g3OU1aZlJIMkd3LWphUGJZSUxOUUJCS3pTemJ2enVpQWxmakVxV1VwaTJ0RmFHVDRwR3lhNVFwZWUzNnpHN1RyU0ZUSnREM0lGWUFhM0FuNHI3LXRTZkRaaVJJYnRsejM3NW1EOWdITm9HQ1BlU0RtOHl1cDA1TmRHeXh5N0Q2Mw?oc=5"
+    },
+    {
+     "titulo": "Em dia de semifinal, veja fotos do tricampeonato do Vasco sobre o Palmeiras pelo Brasileirão 1997",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUWsyOF9qc0pNb1I2OEY0NHpMR0oxZ0dpWHlxOXlWdUVtTTdOOEE5MWZTQ0dzZ2hzcUl0YURCLUh0WGJNRG1nUF9PUjJKRElZeGU0V2VaRFU5aWkySGhvYUpMWXpRWi1wUFNBZlpKLThNdUJjRWxQY2tvZk9Mb19ZSU4tRHJmRWlGS3VfOHNtWVd3ejhpQVVKYWV6MU5NS0ZCV1doQnpibmFPdzFBSnJVcmZYVE1KRkxMSHhzWVZBUGRaWVBINlhjb2FWZDRfMVQ1T0JkWC1LemtzS1hnak5YdtIB5gFBVV95cUxQWkV6ZWFWYzJrRktIbmxuYl9KZGMwM3VLcnJ0bVJLSE0zcnJOLXFsVV9Ib3ViT0k5YWlSV1lMcVBCTkdBV2FBMWtFWjNmUmZGbzhtYjdHRC00WDVPeTlaUk1WTmowc1VOTXBNVlZyZTJaSEhjMFRpSnBfVjJCVVdGTFZPbXlrZm1JMFV5dS1udEYwTU9HMDFXQzZSRGg2WDBCSnFjWE5zaG14QkVKMlMyRnRxQTh3cnpRX0dLN3VwMjE0V2lZc3ZaMTJTdHg1Y3dLSWF2YnJrVlJWdzRsUlk4LUxnaV8ydw?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Grêmio segura o Atlético-MG, vai à final da Copa do Brasil e espera Vasco ou Palmeiras",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Grêmio",
+    "Atlético-MG"
+   ],
+   "foco": false,
+   "nota": 60.3,
+   "sinais": {
+    "busca": 50,
+    "aceleracao": 60,
+    "midia": 100,
+    "aderencia": 60,
+    "youtube": null
+   },
+   "fator_categoria": 1.134,
+   "trafego_google": 0,
+   "busca_torcedor": "palmeiras x vasco",
+   "termos_trends": [],
+   "n_fontes": 16,
+   "n_manchetes": 25,
+   "assinatura": "copa|brasi|gremi|final",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Grêmio segura o Atlético-MG, vai à final da Copa do Brasil e espera Vasco ou Palmeiras. A leitura óbvia é uma. A que importa é outra.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
+    "pergunta_enquete": "Qual sua opinião: Grêmio segura o Atlético-MG, vai à final da Copa do Brasil e espera Vasco ou Palmeiras?",
+    "tecnica": "Contradição",
+    "ganchos": [
+     {
+      "tecnica": "Contradição",
+      "texto": "Grêmio segura o Atlético-MG, vai à final da Copa do Brasil e espera Vasco ou Palmeiras. A leitura óbvia é uma. A que importa é outra.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Grêmio segura o Atlético-MG, vai à final da Copa do Brasil e espera Vasco ou Palmeiras. Foi mérito de quem venceu ou erro de quem perdeu?",
+      "thumb": "E AGORA, GRÊMIO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Grêmio segura o Atlético-MG, vai à final da Copa do Brasil e espera Vasco ou Palmeiras. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Grêmio segura o Atlético-MG, vai à final da Copa do Brasil e espera Vasco ou Palmeiras. Nem todo mundo no Grêmio vai gostar disso, e eu vou explicar por quê.",
+      "thumb": "GRÊMIO x PALMEIRAS"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Como é o acordo do Grêmio com o grupo de jogadores sobre a premiação na Copa do Brasil",
+     "fonte": "GZH",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQbUxxX0JQUjgySm1ac2tYRThNTGVVN1laQ2szajlsckZJWDQ2QzRWT0RqaHhBUTJkNWdoMldvZUdmOXN5MkI2UzFjQ29WTmpkMW5ndzNHOS1ZTENZLVd3YmZxOWp3WEdPbEpQOG13RFIxbWI1QzBweUlkbFdtaHJvZW1pem1zNnktVnBvdllmMFJjc29PbldteFhiNnpWdDBpc3VBZXFBWi1acmNPQlZWZUx2UDdzOUNrdEF4R2t6UHVaZ1oxWnlFMmUtb3dBRm1EdEdMTFZ2ZUlaV3E1bFFjQkZPd1lMVVloblRHaFBHNE9xTUlRS3FxRWtoZ3VWLXRMWWJUV3F1eTlOclBONkE?oc=5"
+    },
+    {
+     "titulo": "Weverton revela torcida por Grêmio x Palmeiras na final da Copa do Brasil: 'Todo mundo sabe...'",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWVhFbmZJMWxQVV8zaFd0VzBkOUF3RUN2UEdVczF1ZElGNFh2WTlFMU1RMUdyWmdsME1VNmlod1MzQU9Gb3RyVThjV3dUMEdkNUxQNHF2MEx4NjB4Q2xSWEFHdHRRdEptVzZUT01abjJNeXdSYmphSEROY2htTVp5dnB2VHBlMm13NXgteEJFS0l0WGQ1ckZIODFiLUZmdDliT1NvaWhiMmMtVUlUMXdibTNRM2ZaeGZ4b3duZ1RoMDhXMU9WVGFNUzZFd0pFWUw5aDl2dDFRaXBBb1g5YVU1Nw?oc=5"
+    },
+    {
+     "titulo": "Grêmio pode perder titular para a final da Copa do Brasil",
+     "fonte": "GZH",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaXEtRE5uMHJpU2lVbDJUWEp6dE01ZVVKTTByb2hZVEZ1NkRSQV9USThac1N0Yk0xSlhKd0NLLUlZVDZOMGlyMGpkY3Q0OW5Oa2JzMHd4TWJGRURnWDlGUW5UdzhfTnBKRUdWcnNxN2xObnc5Qm00NEd4VHhDVDUwa3YzaEtzWWN6ZVU4Y0JLc09xSm9aemwtNmhRaEhaQWI3VGRnSmJwcU40VmRUMzNVeGlEbjhpcnVnWTJYY1FlZG1OSEswUkRRSTZvYzhXRWF5b0V2QkNKWHJsb290NWZ4VGZJcG1TWHM?oc=5"
+    },
+    {
+     "titulo": "Grêmio Avança à Final Da Copa Do Brasil Após Empate Com Atlético-MG",
+     "fonte": "folhadoms.com.br",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEZSV3I3c2F0WVEyOVp3a0xfalpNdGczWU5xNUg3OEhtUGpaLTljZUtYaDdCeW93YkJ0ZHdRTGt6bnVsMWk4M013Y01OWUZreHItZVpmRGxTTkR6RFJNTjhmNmJIRkVQNTE5cHpKdGhkZW9WVjZ3TTZTU0szaFcxcldQdF84dThqamlaeUVKejN6czVRczJqVA?oc=5"
+    },
+    {
+     "titulo": "Palmeiras joga por um empate contra o Vasco para chegar à final da Copa do Brasil",
+     "fonte": "Terceiro Tempo",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcFRqUWtxOUk5M2R6NE5SMWQ5MVVIUGtDSUQ3U0NPY1YtckJ6MzhmdXRXT1gwcTVfeU1ZOE5kMVUwUGNIV01aN0dXMHpiVWhrR0VqN1dPX3RDdS1GdjgybzhVNG1mOEtYNEZNYkZGbVVZNWo4SHo5QUZXMzBsamFUeHQzREo2QmZEbTBKZzJWSFY4Y19vMG8tTk5KQTBEMlFXZFd2ZHNyalROYkhfNTh3X01vYWxyUUQ4V3VreE4zMFg?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Palmeiras, São Paulo e Santos tem jogadores convocados para amistosos do Paraguai",
+   "categoria": "Seleção",
+   "clubes": [
+    "São Paulo",
+    "Palmeiras",
+    "Santos",
     "Grêmio"
    ],
    "foco": true,
-   "nota": 57.0,
+   "nota": 60.2,
    "sinais": {
-    "busca": 65,
-    "aceleracao": 67,
+    "busca": 60,
+    "aceleracao": 35,
     "midia": 58,
     "aderencia": 100,
-    "youtube": 0
+    "youtube": null
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
@@ -1734,19 +2155,19 @@
    "termos_trends": [],
    "n_fontes": 3,
    "n_manchetes": 3,
-   "assinatura": "paulo|palme|convo|parag",
+   "assinatura": "parag|convo|paulo|amist",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Lista ou ranking (3 a 5 min)",
     "gancho": "Se você fosse o técnico da Seleção, quem chamaria agora?",
-    "titulo_thumb": "E AGORA, PALMEIRAS?",
-    "pergunta_enquete": "Qual sua opinião: Paraguai convoca jogadores de Palmeiras e São Paulo?",
+    "titulo_thumb": "E AGORA, SÃO PAULO?",
+    "pergunta_enquete": "Qual sua opinião: Palmeiras, São Paulo e Santos tem jogadores convocados para amistosos do Paraguai?",
     "tecnica": "Pergunta aberta",
     "ganchos": [
      {
       "tecnica": "Pergunta aberta",
       "texto": "Se você fosse o técnico da Seleção, quem chamaria agora?",
-      "thumb": "E AGORA, PALMEIRAS?"
+      "thumb": "E AGORA, SÃO PAULO?"
      },
      {
       "tecnica": "Aposta",
@@ -1755,260 +2176,31 @@
      },
      {
       "tecnica": "Conflito",
-      "texto": "Paraguai convoca jogadores de Palmeiras e São Paulo. Clube e Seleção puxando para lados diferentes: quem tem razão?",
-      "thumb": "QUEM TEM RAZÃO?"
+      "texto": "Palmeiras, São Paulo e Santos tem jogadores convocados para amistosos do Paraguai. Clube e Seleção puxando para lados diferentes: quem tem razão?",
+      "thumb": "SÃO PAULO x PALMEIRAS"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Paraguai convoca jogadores de Palmeiras e São Paulo. Todo mundo está olhando para um lado; o que importa para a Seleção está do outro.",
+      "texto": "Palmeiras, São Paulo e Santos tem jogadores convocados para amistosos do Paraguai. Era para ser só mais um compromisso da Seleção. Virou dor de cabeça.",
       "thumb": "NÃO É BEM ASSIM"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Palmeiras e São Paulo têm jogadores convocados pelo Paraguai na última data FIFA de 2026",
-     "fonte": "Portal ABC do ABC",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MNU5YRElNbk9FZ29WbVF4ZEFDZmsybHV4Um1PaEcwdlJVbGZiY29NWFhRNFFIRFQwWEdGNXIxS21ySVV0V2hnVFZaci1xSGsxNWttYXVacnB6OXVsUVhCcFNVMFF0NzNqSjdEVzVZSkwwZVdVc1E?oc=5"
+     "titulo": "Palmeiras, São Paulo e Santos tem jogadores convocados para amistosos do Paraguai",
+     "fonte": "ABCD Jornal",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX3liUk5NUTBhMDVRWW9TeENES2x4ZXBnYnBRUFFKUDczTnRCTGthd1VzcWJOajJBMTdPa1RPLUNyYS04Ty1XWFFVbTVhZ2VVc2R5QjBZN2RrenJLaDJGcDFTXzJYNWFTa09rTURDZXdpZER5eVI2SmZENHRBTVpXX3ctRGsyU2Z4WWgxaFM5T1NlYkItS0ZXajNVZmxKNHkyRDNyM1JnMGFIeDNleTdwZWxKZ3B1UGUzQ0E?oc=5"
     },
     {
-     "titulo": "Paraguai convoca dupla do Palmeiras e atletas de São Paulo, Santos e Grêmio",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRnVKUjExanlIVGZOekVXTEpZTEU2VkZ5ZVVyUVNYdXd5V0hFOGZKMFRnVkxDempOdGFPY2FaMEctdThlRFJiaWZhWTFaT1c3MFdIdWFubXoxU3FYN19RaGx2M0YtVG40WnVsRGZ0Y29RQjV0d1N5ZHRSeEJNeWFEMGIzbjNoVW9qNzZOUmFuWlZRM0NuX2M2TDVQeVVPTy0wbkwwQ0M2bFdEbWNqZzVwTmVfYUZZbUNnS2NRYzlxOUszUDE0eGpZNkRZQ2htMFRHdEd3QXh3?oc=5"
-    },
-    {
-     "titulo": "Paraguai convoca jogadores de Palmeiras e São Paulo",
-     "fonte": "Tribuna de Jundiaí",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLVlBd3JGSkZnUUtTQ2tNRjVwd2JGV01JeUxPVWR5SGYwUWpCLThWRHhYWUZveldxSHl2czFJYlQ3Um9EWWkxTW1GVnZnQzN5NVhWTkhTSjlwUEdBT3RYbDJfNFVINlJ1bjlsQTBHN1B3LVkyZGxuUk03d2taQzl1ODJmZUNGRWNRU2RKM0dsd3lsR3dQY0JNT2VLOWg4V2M?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [],
-    "consulta": "Palmeiras Paraguai convoca jogadores",
-    "n_videos": 0,
-    "mais_de": false,
-    "views": 0,
-    "top": []
-   }
-  },
-  {
-   "tema": "Ex-Flamengo e Lyon, Ederson revela reaparecimento de câncer",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Flamengo"
-   ],
-   "foco": true,
-   "nota": 54.6,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 85,
-    "midia": 46,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "cance|eders|revel|ex-fl",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Ex-Flamengo e Lyon, Ederson revela reaparecimento de câncer. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
-    "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Ex-Flamengo e Lyon, Ederson revela reaparecimento de câncer?",
-    "tecnica": "Aposta",
-    "ganchos": [
-     {
-      "tecnica": "Aposta",
-      "texto": "Ex-Flamengo e Lyon, Ederson revela reaparecimento de câncer. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Ex-Flamengo e Lyon, Ederson revela reaparecimento de câncer. Por trás disso, tem dois lados que não querem a mesma coisa.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Ex-Flamengo e Lyon, Ederson revela reaparecimento de câncer. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Ex-Flamengo e Lyon, Ederson revela reaparecimento de câncer. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-      "thumb": "E AGORA, FLAMENGO?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Ex-Flamengo e Lyon, Ederson revela reaparecimento de câncer",
-     "fonte": "Metrópoles",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOenFmYi1TWFZ6U25ubUFvNFFLaEZFem1qZFA3RUJBcGU3bm5QZGlOSkN4SzJJWjhMeDRHXzBSZE1hYnZFdWp5OGU0SHVCaXNQUXJpUE12V3Q5b1VkaFdlZkZQWERuanhfNDUzY1pEZmduMlRkOXNDVXE5eEp0SGVWRTUyS0RMMmw3TzFXb3RxMmNzSkxROU8wMXpR?oc=5"
-    },
-    {
-     "titulo": "Ederson, ex-Flamengo, revela recidiva de câncer diagnosticado em 2017; entenda",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdUxOMXo5T2ZXN25PNDBjbmpiX2pwZlhIcHdQZnRrTFRkZU9xdm96eFBMSURWeFhYcWc5ak5XR1FMWG9VQ00xejgyWTZ6YWpJRUdPYUw2NWFUSnZ6enRxT1NSWFpsUTl5UzNMc2NnaXNRWUtacjE0NTd0Mk45dkNFbEJxMXc3VXhsdGhGR1FCNUZFLVpaV3NteWJfWF9waF9WSDdXQ3pjV3V0b3NzUkhzc3JWWWFQc04tQWpv?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "São Paulo enfrenta o Noroeste em amistoso durante Data Fifa",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "São Paulo"
-   ],
-   "foco": true,
-   "nota": 54.1,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 64,
-    "midia": 75,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 5,
-   "n_manchetes": 5,
-   "assinatura": "paulo|noroe|amist|duran",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "São Paulo enfrenta o Noroeste em amistoso durante Data Fifa. Por trás disso, tem dois lados que não querem a mesma coisa.",
-    "titulo_thumb": "QUEM TEM RAZÃO?",
-    "pergunta_enquete": "Qual sua opinião: São Paulo enfrenta o Noroeste em amistoso durante Data Fifa?",
-    "tecnica": "Conflito",
-    "ganchos": [
-     {
-      "tecnica": "Conflito",
-      "texto": "São Paulo enfrenta o Noroeste em amistoso durante Data Fifa. Por trás disso, tem dois lados que não querem a mesma coisa.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "São Paulo enfrenta o Noroeste em amistoso durante Data Fifa. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "São Paulo enfrenta o Noroeste em amistoso durante Data Fifa. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-      "thumb": "E AGORA, SÃO PAULO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "São Paulo enfrenta o Noroeste em amistoso durante Data Fifa. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "São Paulo e Noroeste se enfrentam em amistoso em Bauru",
-     "fonte": "Portal Hortolândia",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNlp4bWZWa1BLcDVfaTdPU25kX2JReVcyejQ0Yy02TDROOFB2LWxYT2NfNUYwd2dpZW1FUFlJUTlndnQ4a2ZmWVhSZWgwb2RWS2VOd1hMemg1cmhzRmViWHdtcnlxYTZEWWZqN2xILTZrRWJNb29sNU5wLW5QNzZIVnk1N0ZuMmI4RDN0NENpRG9OdzVZTm5UWWYxVGRQenV2cW9PaWhHSk1KQkQwLVJHdHFB?oc=5"
-    },
-    {
-     "titulo": "São Paulo marca amistoso contra o Noroeste durante a Data Fifa; saiba mais",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeUlOTzlHZHBDSFdseGpJWHYtLXNZMjBTR1AtOWc1cmJadGJVb2ZidkpmV0hqNXY1RzdRUUJ3NE5XRGQ5bDEzN1dfWmd2VnlrNEdsWGVhY2dJNUgtSko3aXlSU200aHQtYk90R0ZpUHdxV21UTGdmTlZzZk40Y2ZwUURGc2JwN1RFTVphT2hhQkh3dndGcFFlMjFJS3F6Vjd3cjJxRHNGRkZvSHRidlRTTk1sNA?oc=5"
-    },
-    {
-     "titulo": "São Paulo enfrenta o Noroeste em amistoso durante Data Fifa",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTjEzd0FLbEFOc29Ha3FEOGtvN1RuR3JXajRkMEJOQldWNTdCNFIxMmZ2akV5a3VTNzRlX0ZvZkt4NXNjRS1GMllDSTI5SnBwOVlWZmsyNWF3czJXaUpQUWFtbEhxOG5zUjc4LTNoVkZjV3kzT1pmSHJ4Nm1GSWJ5YTdQeFc0MWx0OHpzX1NKZnFKMHhTWm8yTE9BMzVjbm1ldkRSM0dGdEZQRmoyanJLRWRR0gGyAUFVX3lxTE5OMTN3QUtsQU5zb0drcUQ4a283VG5HcldqNGQwQk5CV1Y1N0I0UjEyZnZqRXlrdVM3NGVfRm9mS3g1c2NFLUYyWUNJMjlKcHA5WVZmazI1YXdzMldpSlBRYW1sSHE4bnNSNzgtM2hWRmNXeTNPWmZIcng2bUZJYnlhN1B4VzQxbHQ4enNfU0pmcUoweFNabzJMT0EzNWNubWV2RFIzR0Z0RlBGajJqcktFZFE?oc=5"
-    },
-    {
-     "titulo": "São Paulo disputará amistoso contra o Noroeste durante pausa para a Data Fifa",
-     "fonte": "Arquibancada Tricolor",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sWG5BbGhKRDRPRXZhRE1jbWtfYk9Mbi15NVdIS21nRThTY3I5U0tUdlZCeEJGWXhuQW4xRjdOUk53d2tjS2dieXlrdmZRRjh4aFBBZTVHTmxzNHVWZVFlSnQ4Mk1PcEl0a3JxV01nc0piMXhjR0ZJQUNjQzU3XzQ?oc=5"
-    },
-    {
-     "titulo": "São Paulo vai disputar amistoso contra o Noroeste",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYWZWbEZ5LXFDSDNVd1VQVnpQMjlFaUZKaEcxUmZXX3Q5X2VUUng5Ml91b1hrVi1nNW5EMFh2ak9yRUs3Ulpjb2NwRVpQaEd0cjhTdUhSNHFNdWNhSVlJZXpoTkgxU2d0a3VrcTZOTVhudUhNcUprWnhJNWNMYVJOV3ZlcFRKSFVYZ3JZX1l0bGp1ejhWNm5jWm9YZGFLTGEyTFhQT19hSXZOalZRNjVPYkhrQThsV3lTZ0k40gHKAUFVX3lxTE5GNUMzNUk1a2lKcDY0MlpJbkVPYkxVYWN3QjNacC1paE9MSGtRZ213R0FKUUVMd096STN1MlZtUk5VUDJjaHJXRk9maFg0MzlKZ2xZR0NMRXU4MXpQYURaVmtEME1HbGExc0pUYkdQNm4zOG5SZWpmbUhWeWMxdEU1QjhtcWNpLU5wMTZmLUtxRHJ4cjF6Q08wNEgtSGZkTWtKR1pjbm5ZdlRNLWFNLUJRcEZ5eUVaRlh2dk9faUlvaDFHU1lwc3ppS2c?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "São Paulo acerta com lateral titular do Cruzeiro para 2027 e aguarda assinatura do contrato",
-   "categoria": "Mercado da bola",
-   "clubes": [
-    "São Paulo",
-    "Cruzeiro"
-   ],
-   "foco": true,
-   "nota": 53.2,
-   "sinais": {
-    "busca": 30,
-    "aceleracao": 42,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "são paulo fc contratação",
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "paulo|cruze|contr|acert",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 3 min)",
-    "gancho": "“são paulo fc contratação”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-    "titulo_thumb": "VOCÊ PESQUISOU",
-    "pergunta_enquete": "Qual sua opinião: São Paulo acerta com lateral titular do Cruzeiro para 2027 e aguarda assinatura do contrat?",
-    "tecnica": "Dado",
-    "ganchos": [
-     {
-      "tecnica": "Dado",
-      "texto": "“são paulo fc contratação”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "São Paulo acerta com lateral titular do Cruzeiro para 2027 e aguarda assinatura do contrato. Torcida empolgada de um lado, diretoria fazendo conta do outro.",
-      "thumb": "SÃO PAULO x CRUZEIRO"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Todo mundo está comemorando essa negociação do São Paulo. Eu vejo um risco que ninguém está comentando.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Esse negócio vale a pena para o São Paulo? Pensa bem antes de responder.",
-      "thumb": "E AGORA, SÃO PAULO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Minha aposta é que essa novela do São Paulo termina [SEU PALPITE]. Guarda esse vídeo.",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "São Paulo acerta com lateral titular do Cruzeiro para 2027 e aguarda assinatura do contrato",
-     "fonte": "NSC Total",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSVVad24yMDdBWkJfZ2Q1Q2Fuc1dYVF9uX1FjbDJkWjlvVVNXaTJhLTZmaW9GZUpnT1hlVUY0dHpFTTM5MkRacDZTWTl3YVNPVW5MMjk1TklmOE9ueTNldU1wVndXT2tKVWFqRTJXdjhGNXRoZDRyZ0FWLXZYdzNSRDl4V2FiMmlrOVQ3a3pFdGkza01BLXBMT0VBWHlCd0ZqMHRHR1lKQmJpTEtiQ3RTWjF4VVNUcUlPci1WZHdjT1BUYU1ERUMw?oc=5"
-    },
-    {
-     "titulo": "São Paulo negocia contratação de Letícia Ferreira e Gisseli, do Cruzeiro",
-     "fonte": "Arquibancada Tricolor",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnpfX25LSFc0VVppOWRnT0kzZlQzRDFhVVctT3d5ZnUyaUUwN0M2RjNvSExHN0VmZnpZd0Z3YXhHa3lZLTZUTHpZMWQ2dS14dEdHVVl4T0tDaXJ3QlgzM2pHY3c2UTljdi1kamctRXlmeTV3U0xobk1FWDRTVmxhbkpocUdZOE00LU05d01zNVUzQ3M?oc=5"
-    },
-    {
-     "titulo": "Protagonista do Cruzeiro na Libertadores encaminha acerto com o São Paulo",
+     "titulo": "Paraguai convoca cinco do Brasileirão e pode desfalcar Palmeiras, São Paulo, Santos e Grêmio",
      "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWZ0YWZ2emp5b3dwdHRMV192bnR5LVRSQmtQdHRYaHJ0UTdGTEZYam9Qd180d2o1bnBVdGxWSlRuZ0s0RFlGcnJDdHY2c1ltMnViMVRJN1E4MS1pMGhDQTJmZ0lTUkFqZGtVdklLWGJ3eEdickxIZ192V0p2VGJjTTBVU0o0QldKeVhuc25mVmk1TzNIYTlIU0NpaGhaQmp5VnpheHBkTHM0amtSN09Xc0xkOXFJQ2U0S25QQmUyT0E?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRk1PUDBWd2xlYXowNEZjY0ZUay04M2lSSy1neVVZeEtyNTFzZUplQ3FPckJ1R2pWYTdURlFTMGNLUl9MUWNPVnYwdmRMaF9ibmUyUVR0QlFHYmJyVEpKd19Sa0R5NXk1aW5JVGd6azhBcENoSkNGc0NNQTNDQzExVUNCb2hCbGdBOVZBSm5teHNtZ1ZWeVliVUlhdElqdS05cTBKdGtISGlQanNiN0dYS0Nhcll3QVoxbzRiZE1UT004RUtxOXgxOHhicm9RdDU5bkdQak9zTExOQUU?oc=5"
+    },
+    {
+     "titulo": "Bobadilla é convocado pelo Paraguai e desfalca São Paulo em amistoso",
+     "fonte": "Arquibancada Tricolor",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVHpiM2g2LWtpZFo2TmpOLU1iUXhJTnNOMUlRRGZKN2Fva0VwOFY3Rk0zejNZa0RYMERTNl9HRk9QcmtHUmZOaEVTLXhrckttNVNEeC1vNzdOTHFaOExmWnd4RGdfMEdyZ3dxVWNITE1ubGpXTDgtVzlFT2RkYkRfWkhKTmh0aXp4SGhLcQ?oc=5"
     }
    ]
   }
