@@ -1,50 +1,52 @@
 {
- "atualizado_em": "2026-11-03T18:29:24.704251+00:00",
+ "atualizado_em": "2026-11-09T01:01:38.620881+00:00",
  "alertas": [
   {
-   "id": "QjyMML_8rsk",
-   "tema": "AO VIVO: Memphis, Yuri Alberto e Seedorf concedem coletiva no Corinthians",
+   "id": "EYLhYfqtOvE",
+   "tema": "Vasco x Palmeiras: onde assistir pela TV, escalações e mais",
    "clubes": [
-    "Corinthians"
+    "Palmeiras",
+    "Santos",
+    "Vasco"
    ],
    "origem": "Pauta do radar",
-   "formato_em_alta": "Lives",
-   "sugestao": "Live de debate ou react ao vivo, com o assunto no título",
-   "dica_do_canal": "No seu canal, Transmissão de jogo rende 3,2x a média: puxe o assunto também na próxima live.",
-   "n_videos": 10,
-   "views": 56104,
-   "velocidade": 18.6,
-   "engajamento": 7.0,
-   "engajamento_pct": 18.1,
+   "formato_em_alta": "Shorts",
+   "sugestao": "Short de 30 a 60 s com a sua opinião ou reação (poste o mesmo vídeo como Reels no Instagram)",
+   "dica_do_canal": "Seu canal quase não tem Shorts: é uma chance de testar o formato com um assunto que já está bombando.",
+   "n_videos": 15,
+   "views": 89917,
+   "velocidade": 14.3,
+   "engajamento": 1.1,
+   "engajamento_pct": 2.7,
    "ganho_hora": null,
    "exemplos": [
     {
-     "titulo": "AO VIVO DO CT🔴COLETIVA DE SEEDORF, YURI ALBERTO E MEMPHIS DEPAY | TREINO ABERTO DO CORINTHIANS",
-     "canal": "Meu Timão",
-     "views": 21768,
-     "url": "https://www.youtube.com/watch?v=QjyMML_8rsk",
+     "titulo": "AO VIVO | VASCO X PALMEIRAS | COPA DO BRASIL 2026 🔴 Pré-Jogo, Escalações e Ultímas do Vasco!",
+     "canal": "PODCAST CRUZMALTINO",
+     "views": 33241,
+     "url": "https://www.youtube.com/watch?v=EYLhYfqtOvE",
      "formato": "Lives",
-     "views_hora": 4343
+     "views_hora": 2464
     },
     {
-     "titulo": "COLETIVA CORINTHIANS: YURI ALBERTO, MEMPHIS DEPAY E SEEDORF | ESPN",
-     "canal": "ESPN Brasil",
-     "views": 4729,
-     "url": "https://www.youtube.com/watch?v=VO5za7WUcbA",
-     "formato": "Lives",
-     "views_hora": 2433
+     "titulo": "Escalações de Vasco x Palmeiras na semifinal da Copa do Brasil! Quem vai à final?",
+     "canal": "FLAMENGUISTA ORIGINAL ",
+     "views": 18655,
+     "url": "https://www.youtube.com/watch?v=eadQh1MGdJo",
+     "formato": "Shorts",
+     "views_hora": 1552
     },
     {
-     "titulo": "COLETIVA MEMPHIS, YURI ALBERTO E SEEDORF | REACT",
-     "canal": "Salve Drew",
-     "views": 12799,
-     "url": "https://www.youtube.com/watch?v=YWBoA2hhzo8",
-     "formato": "Lives",
-     "views_hora": 2072
+     "titulo": "PALMEIRAS X VASCO: PROVÁVEL ESCALAÇÃO DO PALMEIRAS HOJE COPA DO BRASIL 2026! #shotsvideo",
+     "canal": "Placar alvinegro com danilo",
+     "views": 14583,
+     "url": "https://www.youtube.com/watch?v=d3SBpRu7g78",
+     "formato": "Shorts",
+     "views_hora": 1314
     }
    ],
-   "gancho": "Memphis, Yuri Alberto e Seedorf concedem coletiva no Corinthians. Nem todo mundo no Corinthians vai gostar disso, e eu vou explicar por quê.",
-   "avisado_em": "2026-11-03T18:29:24.704251+00:00",
+   "gancho": "Palmeiras x Santos (sub-20): onde assistir, escalações e arbitragem. Muita gente está reclamando da arbitragem, mas a regra pode estar do outro lado.",
+   "avisado_em": "2026-11-09T01:01:38.620881+00:00",
    "pelo_vigia": true
   }
  ]
