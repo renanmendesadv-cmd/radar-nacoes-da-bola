@@ -1,28 +1,28 @@
 {
- "gerado_em": "2026-11-12T18:36:29.979681+00:00",
+ "gerado_em": "2026-11-13T18:06:43.596366+00:00",
  "canal": {
   "id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
   "nome": "NAÇÕES DA BOLA o canal de todas as torcidas",
   "inscritos": 5920
  },
  "periodo": {
-  "inicio": "2026-10-13",
-  "fim": "2026-11-09",
-  "janela_inicio": "2026-08-12"
+  "inicio": "2026-10-14",
+  "fim": "2026-11-10",
+  "janela_inicio": "2026-08-13"
  },
- "n_videos": 56,
+ "n_videos": 54,
  "n_videos_v7": 40,
  "mediana_v7": 172,
  "resumo_semana": {
   "views": {
-   "atual": 1192,
-   "anterior": 2713,
-   "variacao": -56.1
+   "atual": 1266,
+   "anterior": 2628,
+   "variacao": -51.8
   },
   "minutos": {
-   "atual": 2575,
-   "anterior": 2055,
-   "variacao": 25.3
+   "atual": 3352,
+   "anterior": 1933,
+   "variacao": 73.4
   },
   "inscritos_ganhos": {
    "atual": 1,
@@ -53,9 +53,9 @@
    "mediana_v7": 0,
    "indice": null,
    "pct_assistido": null,
-   "views": 34,
-   "pct_views": 0.2,
-   "inscritos": 1,
+   "views": 38,
+   "pct_views": 0.3,
+   "inscritos": 0,
    "minutos": 9
   },
   {
@@ -64,10 +64,10 @@
    "mediana_v7": 172,
    "indice": 1.0,
    "pct_assistido": 3.5,
-   "views": 14194,
+   "views": 14078,
    "pct_views": 99.6,
    "inscritos": 13,
-   "minutos": 11547
+   "minutos": 12116
   }
  ],
  "tipos": [
@@ -101,7 +101,7 @@
    "mediana_v7": 92,
    "indice": 0.53,
    "inscritos7": 3,
-   "exemplo": "BAHIA FORTE NO SEU  TERREIRO/PEIXE PARA O VERDÃO, MENGO AGRADECE/ FLU  COMPLICA INTER/TEM CONVOCAÇÃO"
+   "exemplo": "VERDÃO SAI NA FRENTE NA CB/IMORTAL DERRUBA O GALO/O BRAGA DÁ TRABALHO EM CASA/RAPOSA  CAMPEÃ/SÉRIE B"
   },
   {
    "nome": "Outros",
@@ -115,15 +115,15 @@
  "temas": [
   {
    "nome": "Jogo e resultado",
-   "n_videos": 31,
-   "mediana_v7": 295,
-   "indice": 1.72
+   "n_videos": 30,
+   "mediana_v7": 394,
+   "indice": 2.29
   },
   {
    "nome": "Notícia do dia",
-   "n_videos": 9,
-   "mediana_v7": 85,
-   "indice": 0.49
+   "n_videos": 10,
+   "mediana_v7": 82,
+   "indice": 0.47
   }
  ],
  "clubes": [
@@ -141,9 +141,9 @@
   },
   {
    "nome": "Vasco",
-   "n_videos": 4,
-   "mediana_v7": 196,
-   "indice": 1.14
+   "n_videos": 3,
+   "mediana_v7": 295,
+   "indice": 1.72
   },
   {
    "nome": "Sem clube",
@@ -171,6 +171,22 @@
   }
  ],
  "retencao": [
+  {
+   "titulo": "PSG  X  BARCELONA  RODADA 3",
+   "url": "https://www.youtube.com/watch?v=YPK9uzd2rrA",
+   "formato": "Lives",
+   "duracao": "2:34:14",
+   "pct_assistido": 0.2,
+   "fica_30s": null,
+   "metade_sai_em": "3:05",
+   "metade_sai_pct": 2,
+   "maior_queda": {
+    "de": "1:33",
+    "ate": "3:05",
+    "pontos": 84
+   },
+   "chega_ao_fim": 1
+  },
   {
    "titulo": "BOCA JUNIORS   X   SÃO PAULO - JOGO DE IDA",
    "url": "https://www.youtube.com/watch?v=4ylvD1coqJg",
@@ -239,18 +255,18 @@
  "trafego": [
   {
    "origem": "Página inicial e inscrições",
-   "views": 11981,
-   "pct": 84.1
+   "views": 11827,
+   "pct": 83.6
   },
   {
    "origem": "Vídeos sugeridos",
-   "views": 1245,
-   "pct": 8.7
+   "views": 1248,
+   "pct": 8.8
   },
   {
    "origem": "Sites e apps externos",
-   "views": 422,
-   "pct": 3.0
+   "views": 457,
+   "pct": 3.2
   },
   {
    "origem": "Busca do YouTube",
@@ -259,12 +275,12 @@
   },
   {
    "origem": "Página do canal",
-   "views": 142,
+   "views": 148,
    "pct": 1.0
   },
   {
    "origem": "Notificações",
-   "views": 120,
+   "views": 118,
    "pct": 0.8
   },
   {
@@ -274,7 +290,7 @@
   },
   {
    "origem": "Outras páginas do YouTube",
-   "views": 54,
+   "views": 55,
    "pct": 0.4
   }
  ],
@@ -305,15 +321,15 @@
   },
   {
    "quando": "quarta",
-   "n_videos": 7,
-   "mediana_v7": 139,
-   "indice": 0.81
+   "n_videos": 8,
+   "mediana_v7": 116,
+   "indice": 0.67
   },
   {
    "quando": "sexta",
-   "n_videos": 7,
-   "mediana_v7": 78,
-   "indice": 0.45
+   "n_videos": 6,
+   "mediana_v7": 82,
+   "indice": 0.47
   }
  ],
  "melhores_horarios": [
@@ -426,34 +442,34 @@
   "Jogo e resultado": 1.142
  },
  "alcance": {
-  "impressoes": 80574,
-  "ctr": 5.6,
+  "impressoes": 81312,
+  "ctr": 5.5,
   "por_formato": [
    {
     "nome": "Lives",
-    "impressoes": 79162,
-    "ctr": 5.6,
-    "n_videos": 50
+    "impressoes": 79907,
+    "ctr": 5.5,
+    "n_videos": 51
    }
   ],
   "por_tipo": [
    {
     "nome": "Transmissão de jogo",
-    "impressoes": 50728,
-    "ctr": 7.9,
+    "impressoes": 51848,
+    "ctr": 7.8,
     "n_videos": 28
    },
    {
     "nome": "Resenha multitemas",
-    "impressoes": 19882,
-    "ctr": 1.4,
+    "impressoes": 18599,
+    "ctr": 1.3,
     "n_videos": 14
    },
    {
     "nome": "Sai pro Jogo (programa)",
-    "impressoes": 1662,
-    "ctr": 1.0,
-    "n_videos": 5
+    "impressoes": 2570,
+    "ctr": 1.3,
+    "n_videos": 6
    }
   ],
   "melhores": [
@@ -468,7 +484,7 @@
    {
     "titulo": "PALMEIRAS  X   VASCO DA GAMA - SEMIFINAL",
     "url": "https://www.youtube.com/watch?v=F5utATxqLF0",
-    "impressoes": 4154,
+    "impressoes": 4155,
     "ctr": 11.0,
     "formato": "Lives",
     "pct_assistido": 0.7
@@ -490,12 +506,12 @@
     "pct_assistido": 2.2
    },
    {
-    "titulo": "VASCO DA GAMA   X  PALMEIRAS -   VOLTA",
-    "url": "https://www.youtube.com/watch?v=1r9IOkC791I",
-    "impressoes": 2678,
-    "ctr": 7.0,
+    "titulo": "BAHIA  X  SÃO PAULO  - RODADA 33",
+    "url": "https://www.youtube.com/watch?v=NaxkQEd5tWw",
+    "impressoes": 5905,
+    "ctr": 6.5,
     "formato": "Lives",
-    "pct_assistido": 3.6
+    "pct_assistido": 1.0
    }
   ],
   "piores": [
@@ -510,18 +526,26 @@
    {
     "titulo": "VERDÃO SAI NA FRENTE NA CB/IMORTAL DERRUBA O GALO/O BRAGA DÁ TRABALHO EM CASA/RAPOSA  CAMPEÃ/SÉRIE B",
     "url": "https://www.youtube.com/watch?v=wYbEKOkn5wE",
-    "impressoes": 3387,
+    "impressoes": 3388,
     "ctr": 0.8,
     "formato": "Lives",
-    "pct_assistido": 9.7
+    "pct_assistido": 9.6
+   },
+   {
+    "titulo": "TRICOLOR FOGE DO Z-4/PEIXE LEVA VIRADA NO FIM/VERDÃO AMASSOU TIMAO/FLA MAIS LIDER/EMPATE RUIM NO SUL",
+    "url": "https://www.youtube.com/watch?v=mEDJM-AUZbI",
+    "impressoes": 2545,
+    "ctr": 1.0,
+    "formato": "Lives",
+    "pct_assistido": 7.9
    },
    {
     "titulo": "MAJESTOSO TEVE EMPATE. BOM PRA QUEM?/FLA SÓ PRECISOU DE MEIO TEMPO/NAU VASCAINA ATRAVESSOU O FURACÃO",
     "url": "https://www.youtube.com/watch?v=3RVijTJcuDY",
-    "impressoes": 2707,
+    "impressoes": 2788,
     "ctr": 1.1,
     "formato": "Lives",
-    "pct_assistido": 6.7
+    "pct_assistido": 6.3
    },
    {
     "titulo": "PALMEIRAS   X   FLUMINENSE -  VOLTA",
@@ -530,26 +554,18 @@
     "ctr": 1.3,
     "formato": "Lives",
     "pct_assistido": 4.5
-   },
-   {
-    "titulo": "TIMÃO ALERTA/VERDÃO DORME LIDER/MIRASSOL FEZ TRICOLOR SUAR/SANTOS EMPATA SEM NEYMAR /MENGO  NO TOPO",
-    "url": "https://www.youtube.com/watch?v=HdsAvcQROg8",
-    "impressoes": 4833,
-    "ctr": 1.6,
-    "formato": "Lives",
-    "pct_assistido": 5.8
    }
   ],
-  "n_videos": 19,
+  "n_videos": 20,
   "ativado_em": "2026-09-30T04:22:41.545419+00:00"
  },
  "monetizacao": {
-  "views_28d": 14246,
-  "media_diaria": 509,
+  "views_28d": 14134,
+  "media_diaria": 505,
   "tendencia_pct": -30.0,
   "previsao_views_30d": {
-   "Vídeos longos": 25,
-   "Lives": 10645,
+   "Vídeos longos": 28,
+   "Lives": 10558,
    "Shorts": 13
   },
   "rpm_referencia": {
@@ -570,15 +586,11 @@
    ]
   },
   "estimativa_rs": {
-   "pessimista": 16.02,
-   "provavel": 32.04,
-   "otimista": 64.07
+   "pessimista": 15.89,
+   "provavel": 31.79,
+   "otimista": 63.58
   },
   "serie_diaria": [
-   {
-    "dia": "2026-10-13",
-    "views": 278
-   },
    {
     "dia": "2026-10-14",
     "views": 495
@@ -686,16 +698,20 @@
    {
     "dia": "2026-11-09",
     "views": 116
+   },
+   {
+    "dia": "2026-11-10",
+    "views": 166
    }
   ],
   "elegibilidade": {
    "inscritos": 5920,
-   "horas_12m": 2210,
+   "horas_12m": 2222,
    "shorts_90d": 71,
    "meta_inscritos": 1000,
    "meta_horas": 4000,
    "meta_shorts": 10000000,
-   "horas_mes_ritmo": 206,
+   "horas_mes_ritmo": 217,
    "horas_mes_necessarias": 333,
    "monetizado": true,
    "cumpre": true
@@ -708,12 +724,12 @@
    {
     "id": "horas_12m",
     "nome": "Horas assistidas públicas (12 meses)",
-    "atual": 2210,
+    "atual": 2222,
     "meta": 4000,
     "nivel": "anúncios",
     "status": "abaixo",
-    "texto": "2.210 h públicas nos últimos 12 meses (vídeos longos e lives; Shorts, privados e apagados não contam). Nos próximos 30 dias saem da conta ~294 h e entram ~205 h no ritmo atual: projeção de 2.121 h.",
-    "acao": "Faltam 1.790 h. Lives longas e vídeos longos contam; seriam uns 149 h a mais por mês durante um ano."
+    "texto": "2.222 h públicas nos últimos 12 meses (vídeos longos e lives; Shorts, privados e apagados não contam). Nos próximos 30 dias saem da conta ~287 h e entram ~215 h no ritmo atual: projeção de 2.150 h.",
+    "acao": "Faltam 1.778 h. Lives longas e vídeos longos contam; seriam uns 148 h a mais por mês durante um ano."
    },
    {
     "id": "inscritos",
@@ -742,7 +758,7 @@
     "meta": null,
     "nivel": "Supers e membros",
     "status": "abaixo",
-    "texto": "5.920 de 500 inscritos, 56 de 3 envios públicos em 90 dias e 2.210 de 3.000 h (ou 3.000.000 views de Shorts em 90 dias).",
+    "texto": "5.920 de 500 inscritos, 54 de 3 envios públicos em 90 dias e 2.222 de 3.000 h (ou 3.000.000 views de Shorts em 90 dias).",
     "acao": null
    },
    {
@@ -796,12 +812,12 @@
     "acao": null
    }
   ],
-  "horas_publicas": 2210,
+  "horas_publicas": 2222,
   "horas": {
    "por_mes": [
     {
      "mes": "2025-11",
-     "horas": 202
+     "horas": 195
     },
     {
      "mes": "2025-12",
@@ -849,12 +865,12 @@
     },
     {
      "mes": "2026-11",
-     "horas": 50
+     "horas": 69
     }
    ],
-   "saem_30d": 294,
-   "entram_30d": 205,
-   "projecao_30d": 2121,
+   "saem_30d": 287,
+   "entram_30d": 215,
+   "projecao_30d": 2150,
    "fora_da_conta": 15
   },
   "pendencias": [
@@ -866,9 +882,9 @@
  "recomendacoes": [
   "Quem mais traz inscritos: Lives (13 nas últimas 4 semanas).",
   "Tipo de conteúdo que mais rende: Transmissão de jogo (4,4x a mediana, 22 vídeos); o que menos rende: Resenha multitemas (0,5x).",
-  "Tema que mais rende: Jogo e resultado (1,7x a mediana). O radar já dá peso maior a ele.",
-  "Taxa de cliques das miniaturas: 5,6% em 80,574 impressões nas últimas 4 semanas (a maioria dos canais fica entre 2% e 10%).",
-  "Miniatura que mais atrai cliques: Transmissão de jogo (7,9%); a que menos atrai: Sai pro Jogo (programa) (1,0%). Copie o estilo da primeira.",
+  "Tema que mais rende: Jogo e resultado (2,3x a mediana). O radar já dá peso maior a ele.",
+  "Taxa de cliques das miniaturas: 5,5% em 81,312 impressões nas últimas 4 semanas (a maioria dos canais fica entre 2% e 10%).",
+  "Miniatura que mais atrai cliques: Transmissão de jogo (7,8%); a que menos atrai: Sai pro Jogo (programa) (1,3%). Copie o estilo da primeira.",
   "\"NDB  BRASIL - MENGO FORA DA FINAL\" foi muito mostrado, mas pouco clicado (0,7%): troque a miniatura e o título (o YouTube Studio permite testar até 3 miniaturas).",
   "Maior origem de público: Página inicial e inscrições (84% das views).",
   "Melhor momento para publicar: terça, noite (18h–24h) (mediana de views nos 7 primeiros dias)."

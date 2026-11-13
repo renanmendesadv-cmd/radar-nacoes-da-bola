@@ -1,22 +1,22 @@
 {
- "gerado_em": "2026-11-12T18:36:29.979681+00:00",
- "data_br": "12/11/2026 15:36",
+ "gerado_em": "2026-11-13T18:06:43.596366+00:00",
+ "data_br": "13/11/2026 15:06",
  "status": {
   "Google Trends": 10,
-  "Google News": 929,
+  "Google News": 920,
   "Vídeos do canal": 15,
   "Buscas do torcedor": 18,
   "YouTube (48 h)": 12,
-  "Alertas de tendência": "nenhum hoje",
+  "Alertas de tendência": 1,
   "Agenda (ESPN)": 202,
-  "Agenda (buscas Google)": 1
+  "Agenda (buscas Google)": 0
  },
  "canal_id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
  "videos_recentes": [
   {
    "titulo": "ITÁLIA  X   FRANÇA  - RODADA 5",
    "url": "https://www.youtube.com/watch?v=Fm5nVSULmKE",
-   "publicado": "2026-11-12T14:12:07+00:00"
+   "publicado": "2026-11-13T09:58:16+00:00"
   },
   {
    "titulo": "VASCÃO LUTOU MAS VERDÃO  É O  FINALISTA DA CB/IMORTAL E O CONTRASTE , LIBERTA E Z-4/SELECÃO DE VOLTA",
@@ -65,8 +65,7 @@
   }
  ],
  "termos_futebol": [
-  "barcelona feminino",
-  "palmeiras libertadores"
+  "fifa"
  ],
  "pesos": {
   "busca": 0.24,
@@ -99,10 +98,10 @@
     "estado": "pre",
     "clube": "Flamengo",
     "tipo": "pré-jogo",
-    "em_horas": 149,
-    "gancho": "Flamengo x Athletico Paranaense parece um jogo com dono. É exatamente aí que mora o perigo.",
-    "titulo_thumb": "ZEBRA À VISTA?",
-    "tecnica": "Contradição",
+    "em_horas": 125,
+    "gancho": "Flamengo x Athletico Paranaense: qual é o detalhe que vai decidir esse jogo?",
+    "titulo_thumb": "QUEM LEVA?",
+    "tecnica": "Pergunta aberta",
     "formato": "Enquete: qual o seu palpite? (30 s)"
    },
    {
@@ -116,10 +115,10 @@
     "estado": "pre",
     "clube": "Palmeiras",
     "tipo": "pré-jogo",
-    "em_horas": 149,
-    "gancho": "Cruzeiro x Palmeiras: qual é o detalhe que vai decidir esse jogo?",
-    "titulo_thumb": "QUEM LEVA?",
-    "tecnica": "Pergunta aberta",
+    "em_horas": 125,
+    "gancho": "Cruzeiro x Palmeiras parece um jogo com dono. É exatamente aí que mora o perigo.",
+    "titulo_thumb": "ZEBRA À VISTA?",
+    "tecnica": "Contradição",
     "formato": "Enquete: qual o seu palpite? (30 s)"
    },
    {
@@ -133,47 +132,67 @@
     "estado": "pre",
     "clube": "Corinthians",
     "tipo": "pré-jogo",
+    "em_horas": 126,
+    "gancho": "Meu palpite para Corinthians x Botafogo: [SEU PLACAR]. Deixa o seu nos comentários.",
+    "titulo_thumb": "MEU PALPITE",
+    "tecnica": "Aposta",
+    "formato": "Enquete: qual o seu palpite? (30 s)"
+   },
+   {
+    "id": "401841309",
+    "data": "2026-11-20T00:30Z",
+    "liga": "Brasileirão",
+    "casa": "São Paulo",
+    "fora": "Fluminense",
+    "placar_casa": null,
+    "placar_fora": null,
+    "estado": "pre",
+    "clube": "São Paulo",
+    "tipo": "pré-jogo",
     "em_horas": 150,
-    "gancho": "Se você fosse o técnico em Corinthians x Botafogo, quem escalaria?",
-    "titulo_thumb": "SUA ESCALAÇÃO",
-    "tecnica": "Pergunta aberta",
+    "gancho": "São Paulo x Fluminense: um precisa vencer, o outro não pode perder.",
+    "titulo_thumb": "SÃO PAULO X FLUMINENSE",
+    "tecnica": "Conflito",
     "formato": "Enquete: qual o seu palpite? (30 s)"
    }
   ],
   "resultados": [],
-  "na_midia": [],
-  "nas_buscas": [
+  "na_midia": [
    {
-    "tipo": "pré-jogo",
-    "fonte": "buscas do Google",
+    "jogo": "Palmeiras x Flamengo",
     "clube": "Flamengo",
-    "jogo": "Flamengo x Athletico-PR",
-    "casa": "Flamengo",
-    "fora": "Athletico-PR",
-    "confianca": "alta",
-    "posicao_busca": 4,
-    "manchetes": 1,
-    "exemplo": "O elenco do Flamengo realizou, na manhã desta quinta-feira (12), mais um treinamento no CT Ninho do Urubu, dando sequência à preparação para o duelo contra o Athletico-PR, marcado para a próxima quarta-feira (18), no Maracanã. Leonardo Jardim ve",
-    "sugestoes": [
-     "flamengo x athletico-pr",
-     "flamengo x athletico-pr"
-    ],
-    "gancho": "Flamengo x Athletico-PR: qual é o detalhe que vai decidir esse jogo?",
-    "titulo_thumb": "QUEM LEVA?",
-    "tecnica": "Pergunta aberta",
-    "formato": "Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)"
+    "manchetes": 2,
+    "exemplo": "Palmeiras x Flamengo: veja preços e como comprar ingressos para o jogo do Brasileirão"
+   },
+   {
+    "jogo": "Santos x Palmeiras",
+    "clube": "Palmeiras",
+    "manchetes": 2,
+    "exemplo": "Santos x Palmeiras: Meninos da Vila que atuaram no principal"
+   },
+   {
+    "jogo": "Sao Paulo x Remo",
+    "clube": "São Paulo",
+    "manchetes": 2,
+    "exemplo": "São Paulo x Remo: veja preços e como comprar ingressos para o jogo pelo Brasileirão"
+   },
+   {
+    "jogo": "Palmeiras x Estudiantes",
+    "clube": "Palmeiras",
+    "manchetes": 2,
+    "exemplo": "Palmeiras x Estudiantes: Rival do Verdão na final da Libertadores joga pela última vez antes da decisão"
    }
-  ]
+  ],
+  "nas_buscas": []
  },
  "buscas_torcedor": {
   "flamengo": [
    "flamengo x cruzeiro",
-   "flamengo x internacional",
-   "flamengo x athletico-pr"
+   "flamengo e cruzeiro"
   ],
   "corinthians": [
-   "corinthians x botafogo",
-   "corinthians x estudiantes"
+   "corinthians x estudiantes",
+   "corinthians x são paulo"
   ],
   "são paulo fc": [
    "são paulo fc contratação"
@@ -182,332 +201,1192 @@
    "palmeiras x santos",
    "palmeiras x cerro porteño",
    "palmeiras x ldu quito",
+   "palmeiras libertadores",
    "palmeiras x ldu",
    "palmeiras tem mundial"
   ],
   "seleção brasileira": [
-   "seleção brasileira de futebol feminino",
    "seleção brasileira de futebol",
    "seleção brasileira feminina",
-   "seleção brasileira x seleção norueguesa de futebol minuto a minuto",
-   "seleção brasileira amistosos",
+   "seleção brasileira de futebol feminino",
+   "seleção brasileira joga que dia",
    "seleção brasileira joga quando"
   ],
   "brasileirão": [
    "brasileirão série a",
    "brasileirão série b",
-   "brasileirão série a classificação",
    "brasileirão série c",
    "brasileirão 2026",
+   "brasileirão série a classificação",
    "brasileirão série d"
   ]
  },
- "alertas": [],
+ "alertas": [
+  {
+   "id": "w4NUkhCbUdc",
+   "tema": "Qual time vai cair pra série B?? #futebol #soccer #jogador #futebolarte #futebolbrasileiro",
+   "clubes": [],
+   "origem": "Em alta no YouTube (Esportes)",
+   "formato_em_alta": "Shorts",
+   "sugestao": "Short de 30 a 60 s com a sua opinião ou reação (poste o mesmo vídeo como Reels no Instagram)",
+   "dica_do_canal": "Seu canal quase não tem Shorts: é uma chance de testar o formato com um assunto que já está bombando.",
+   "n_videos": 1,
+   "views": 307030,
+   "velocidade": 79.1,
+   "engajamento": 1.7,
+   "engajamento_pct": 4.4,
+   "ganho_hora": null,
+   "exemplos": [
+    {
+     "titulo": "Qual time vai cair pra série B?? #futebol #soccer #jogador #futebolarte #futebolbrasileiro",
+     "canal": "Mateus Stradioto",
+     "views": 307030,
+     "url": "https://www.youtube.com/watch?v=w4NUkhCbUdc",
+     "formato": "Shorts",
+     "views_hora": 13281
+    }
+   ],
+   "gancho": "Qual time vai cair pra série B?? #futebol #soccer #jogador #futebolarte #futebolbrasileiro. A pergunta que ninguém está fazendo: quem sai ganhando com isso?"
+  }
+ ],
  "aviso_requisitos": null,
  "temas": [
   {
-   "tema": "Inter vence Flamengo de virada por 3 a 1 e abre vantagem na final da Copa do Brasil Feminina",
+   "tema": "Santos x Palmeiras: saiba onde assistir ao jogo de volta da semifinal do Paulista sub-20",
    "categoria": "Jogo e resultado",
    "clubes": [
-    "Flamengo"
+    "Palmeiras",
+    "Santos"
    ],
    "foco": true,
-   "nota": 89.6,
+   "nota": 80.3,
    "sinais": {
-    "busca": 70,
-    "aceleracao": 57,
-    "midia": 100,
+    "busca": 60,
+    "aceleracao": 49,
+    "midia": 67,
     "aderencia": 100,
-    "youtube": 80
+    "youtube": 87
    },
    "fator_categoria": 1.142,
    "trafego_google": 0,
-   "busca_torcedor": "douglas santos",
+   "busca_torcedor": "palmeiras x santos",
    "termos_trends": [],
-   "n_fontes": 15,
-   "n_manchetes": 18,
-   "assinatura": "flame|brasi|inter|copa",
+   "n_fontes": 4,
+   "n_manchetes": 4,
+   "assinatura": "pauli|palme|santo|sub-2",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Internacional vence o Flamengo e abre vantagem na decisão da Copa do Brasil Feminina. O que esse resultado muda daqui para frente?",
-    "titulo_thumb": "E AGORA, FLAMENGO?",
-    "pergunta_enquete": "Qual sua opinião: Inter vence Flamengo de virada por 3 a 1 e abre vantagem na final da Copa do Brasil Femini?",
-    "tecnica": "Pergunta aberta",
+    "gancho": "223 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
+    "titulo_thumb": "TODO MUNDO VIU",
+    "pergunta_enquete": "Qual sua opinião: Santos x Palmeiras: saiba onde assistir ao jogo de volta da semifinal do Paulista sub-20?",
+    "tecnica": "Dado",
     "ganchos": [
      {
-      "tecnica": "Pergunta aberta",
-      "texto": "Internacional vence o Flamengo e abre vantagem na decisão da Copa do Brasil Feminina. O que esse resultado muda daqui para frente?",
-      "thumb": "E AGORA, FLAMENGO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Internacional vence o Flamengo e abre vantagem na decisão da Copa do Brasil Feminina. Eu aposto que esse resultado vai pesar lá na frente. Você concorda?",
-      "thumb": "MEU PALPITE"
-     },
-     {
       "tecnica": "Dado",
-      "texto": "58 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
+      "texto": "223 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
       "thumb": "TODO MUNDO VIU"
      },
      {
       "tecnica": "Conflito",
-      "texto": "Internacional vence o Flamengo e abre vantagem na decisão da Copa do Brasil Feminina. Quem venceu comemora; quem perdeu tem uma conta para acertar.",
-      "thumb": "QUEM TEM RAZÃO?"
+      "texto": "Palmeiras x Santos: um precisa vencer, o outro não pode perder.",
+      "thumb": "PALMEIRAS x SANTOS"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Internacional vence o Flamengo e abre vantagem na decisão da Copa do Brasil Feminina. Todo mundo vai olhar o resultado; eu vou mostrar o que ele esconde.",
+      "texto": "Palmeiras x Santos parece um jogo com dono. É exatamente aí que mora o perigo.",
       "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Palmeiras x Santos: qual é o detalhe que vai decidir?",
+      "thumb": "E AGORA, PALMEIRAS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Meu palpite para Palmeiras x Santos: [SEU PLACAR]. Deixa o seu nos comentários.",
+      "thumb": "MEU PALPITE"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Flamengo tem sete dos oito melhores jogadores do Brasileirão; Neymar fica de fora",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaHZyWVhPNldHUVZfcjN5RUVHUDRxN0QtUlluMlByaEdaRHRuU2NfUXQ2bFdpN3N0eG9nMVh6UHItem1TcDM2MlJPU1l5b0MwVDVlYVVheWtZeFh3dEJhaGR2dndkOWNTNXZKeVFGZHQ1b0c5cFVnWUZwTUNDcG1jVDl1ZUdELWdHX3oxeXdGeHBEbFJfTkdCMGkxanNXTkZuZVJjX2NwVlM3S1JUcjhCS1ljN0ZDaW9FN1JRSTZBRGdrUE1hSktVSVZ3QnpVOWJwdHdNYmJHcjltazNtY01rQWhWb1VuOUplRnRpSlRaY0xwa1Mzc19uOHVTTXIxZw?oc=5"
+     "titulo": "Santos encara o Palmeiras em busca de empate para ir à final do Paulistão Sub-20",
+     "fonte": "A Tribuna",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVThCak5kOVJ5b1dsVDdYdXF3djNiM2lkbUo5bmpXcnU1Y0ptRDNubHg5SHJDNFBYQmplVWF1LUVaTVkzN3VZbGMtSm5rTWk0T2FWTURQci1xeUM5ZXhlTWpfZmd0MFI1VTZpZExSbXN3MFYtaWN3dnRRd002SFNjaVh1eTlPYUVGUGl5bEhjOU9pcklRZDN5MXhrdnRacEd4c3p5TGdWTm5MWFVuZkFDVUVsYkNsSFFrSzkwYV9wZDkwaDdNMzdUVVZ2MjR1UjZlTFE?oc=5"
     },
     {
-     "titulo": "Flamengo sofre virada do Internacional e larga em desvantagem na final da Copa do Brasil Feminina",
-     "fonte": "tmc.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMld5M2UwcGlnMVhqdXc4c0NvQ29uYUJldjhmOTVWVXBuUVVNem1EVjl2U2RIYkExSk5JNm9iSFNjTjN4Y3J2Z2dnY3VwWGRlSU5TelF3a3EzZllKWnN3QTEwQ2tzdHpIYzZFeS1VSkZOMXhRbDdNUHBCSVl1aUdhTm5zVTdVZ3JDVUppVVhMSXhPVWxuVUpxam13dGlQQjFyendMQ0loelgwcmlJODdPZWg4eWJSSjM4eGMtSGVqNldqYjg?oc=5"
+     "titulo": "Santos recebe Palmeiras pelo Campeonato Paulista Sub-20",
+     "fonte": "THMais",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTVlHVGlaR2dRdzZxczVZZlZKVFZyMThmOGtJZS1Bd1Q3eWdIWGdOUnJSYjctRUNKcEZCclFzdGdBR2tfYnhaZFFlWDFyT3B6bnNZdzN4T3pKeElIb3dnMjBZdkJRWHh1bHE2TFVRSUdobWZTbG9qMFg1Ty1kRmpfLTQtMm5YM0hCN0tnQnBqQXloVjM5U3BHWGpYa1l5c1VhYnFGWVZvckNfOU1tMGRsSXB1MzRsUFFONDRTTW1kSXFpdw?oc=5"
     },
     {
-     "titulo": "Internacional vence o Flamengo e abre vantagem na decisão da Copa do Brasil Feminina",
-     "fonte": "G1",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNamI2WGJIUkNaWWUzYnBzbkxhNFVQNm42cDI5ZXJ2aXM0Z3NCQzdmSFUyMF93Q2s3MDhqLTVXUXFoc3djbDNtamptOF9qUUVyNVFORm51anNJTTl2dUduSWZ0VnZGeUE2YUFMRXgwcWNuRFVhQXVFOVFwbjhTZ2NVWTFEMEJHdEs0NG05amNCMHJFWkk4cFRFMDlEOTJHVldJTUg0MTQtOUlIUVFKejFXQmVXVmhLdERYTjFUelIxempoRWlQN1lvQjZNTmY5Z09oMzFXRkllQjVCdXF1eFpkWHRNa2s5VHfSAecBQVVfeXFMTWpiNlhiSFJDWlllM2Jwc25MYTRVUDZuNnAyOWVydmlzNGdzQkM3ZkhVMjBfd0NrNzA4ai01V1FxaHN3Y2wzbWpqbThfalFFcjVRTkZudWpzSU05dnVHbklmdFZ2RnlBNmFBTEV4MHFjbkRVYUF1RTlRcG44U2djVVkxRDBCR3RLNDRtOWpjQjByRVpJOHBURTA5RDkyR1ZXSU1INDE0LTlJSFFRSnoxV0JlV1ZoS3REWE4xVHpSMXpqaEVpUDdZb0I2TU5mOWdPaDMxV0ZJZUI1QnVxdXhaZFh0TWtrOVR3?oc=5"
+     "titulo": "Santos x Palmeiras: saiba onde assistir ao jogo de volta da semifinal do Paulista sub-20",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRy1aZ2FmeFlHMDZJMGVTQ2pxUl9GWjJmbWp0cG9TYzUxelpucFFiblc1TUhFQkViSmZxSzRMV0FmUm5NR1ljZU1hVUJkVmlVd2tZYWs5ZEFMdm5SVUVfUEUwQ3hvQXo2dnFaR1pWYk1TTnhtLTdWWkRULUhKNkFRT1l5alZJaWVHc2VTTXZiZUhRdW40aWhSNUFhTzE4d0R4OEhIeWhYOEFmcnFCOHhHSkFlZmZZQdIBuwFBVV95cUxOZGo4WnNWSERMOE9ObC05QU05VFRqUVg2MjE5UXZFMVBwdGJ3QUg4UE5obnFLR0hLaFFkM1o4cHBuQ0pwMjBGWXZ2ZVJ2dXE1YWFRZEhMZWdYQ25YaGI1UTNnYWRkUUdLc2EzRVlFZkt0Wjlnc245czNpV2JYaUd6T2U0QVFQd09fMkZLaDYwQlpidFJNVm5zdGNfM2VhRTFHWjZ5NU1BLV9PWk80N2VkTlJNTXRHNUI1dEFZ?oc=5"
     },
     {
-     "titulo": "Internacional bate Flamengo e fica perto do título da Copa do Brasil Feminina",
-     "fonte": "Capital News",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdnN0bXc3N2pFTnFUMHZFLWJQSmpVNlZMLUhSc2xiQnNmZEhpc2xIRGxNbmVtRkE5S19HNURRUk9DWk5rU2VYcTRfb3dmQWZvekRSZ0p4QVVaT0xDdlVSTHlJazViME0zTmpYYkpyU0haRTQySkYzNXFpSnpZNk8zR2NJMmhIWXdHNW9hZVVaalBqQnk5U2Z2cGNTR2tiSU00UmY5VDBqZDlnTE1kQTFBQ0hCQ3l6YlBfMGE5em1QaGY?oc=5"
-    },
-    {
-     "titulo": "Titular do Brasil na Copa do Mundo revela sondagem do Flamengo: 'Fico feliz'",
-     "fonte": "Diário do Rio",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzdxMTdEUzlDZnRlYjR5NFBPWHRBY052M0I1MFR2Ulpwa1NzdkxRNUJyMGV0TGpCSkNCSDduTUIxejM0T1pXZnJyYmJtb0k2N0tLVGtUUC1BWlRqdEF1SHVjZWpkQ2pscHQ1SDhnbkFsSHM1dEtIeTBmVWdvalpzaGUwbVlJOWU2MURhaWhVcm50anlWV2JBV29XdDBqdzdKS0dtSGZWQVR0SGhNZ1N1a1lMdTJFcEtJZ1prX3N3?oc=5"
+     "titulo": "Verdão visita São Paulo no jogo de ida da semifinal do Paulista Sub-17",
+     "fonte": "Palmeiras",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUFlfRk11eVE0TTR6ZExDb2lySWNJbGxWYWlyVnJXTnNaRDd1Z1hGUzJHWVlPdE1HNU5ZOHQxMGI4TDhtUkZuV3diVlJ1QllkaklFREQwWmZyWUItVWQ3QnBSZ3gxMmlJR0l4Tk84cDBTeExYcmZNOTR0WFZ3UlBvcDZjblNjV1hwMWlDcjNJVWZvNzJzTEVoTkw2R081RkZyMUpfeGpydUc?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "ufWWNflAHOQ",
-      "titulo": "FLAMENGO PASSA VERGONHA, TOMA VIRADA DO INTERNACIONAL QUE HUMILHOU E TEM A VANTAGEM NA FINAL",
-      "canal": "Conexão Fla",
-      "views": 36585,
-      "likes": 227,
-      "comentarios": 21,
-      "publicado": "2026-11-12T02:39:19Z",
-      "duracao_s": 488,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=ufWWNflAHOQ"
-     },
-     {
-      "id": "ki4o-gGvlCo",
-      "titulo": "INTER VENCE A PRIMEIRA CONTRA O FLAMENGO E LEVA VANTAGEM PARA O BEIRA-RIO | TROCA DE PASSES | sportv",
-      "canal": "ge tv",
-      "views": 13037,
-      "likes": 157,
-      "comentarios": 22,
-      "publicado": "2026-11-12T03:16:35Z",
-      "duracao_s": 977,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=ki4o-gGvlCo"
-     },
-     {
-      "id": "uXTXOsXtFsA",
-      "titulo": "FLAMENGO QUER A VANTAGEM! COLORADAS VEM COM TUDO! • GAMEPLAY PES 2021 • MAH GAMER",
-      "canal": "MAH GAMER",
-      "views": 3648,
-      "likes": 8,
-      "comentarios": 0,
-      "publicado": "2026-11-12T16:42:53Z",
-      "duracao_s": 2205,
+      "id": "UNl9pMEkLx0",
+      "titulo": "RED BULL BRAGANTINO X CORINTHIANS | SEMIFINAL DO PAULISTÃO SUB-20 | AO VIVO E COM IMAGENS",
+      "canal": "Xsports",
+      "views": 209691,
+      "likes": 3091,
+      "comentarios": 10,
+      "publicado": "2026-11-12T20:21:49Z",
+      "duracao_s": 8956,
       "live": true,
-      "url": "https://www.youtube.com/watch?v=uXTXOsXtFsA"
+      "url": "https://www.youtube.com/watch?v=UNl9pMEkLx0"
      },
      {
-      "id": "uZUBtxGddmw",
-      "titulo": "🔴 NANI COMEMORA A VANTAGEM COLORADA | FLAMENGO 1X3 INTER | 11/11/2026",
-      "canal": "Gaúcha Esportes",
-      "views": 2750,
-      "likes": 85,
-      "comentarios": 15,
-      "publicado": "2026-11-12T03:25:11Z",
-      "duracao_s": 605,
+      "id": "hvSCVhgXmww",
+      "titulo": "SANTOS PRECISA ENTRAR FIRME NA LUTA PELO PACAEMBU",
+      "canal": "Canal 10 Santos FC - com Alex Frutuoso",
+      "views": 5518,
+      "likes": 467,
+      "comentarios": 30,
+      "publicado": "2026-11-12T23:56:20Z",
+      "duracao_s": 1374,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=uZUBtxGddmw"
+      "url": "https://www.youtube.com/watch?v=hvSCVhgXmww"
      },
      {
-      "id": "17Tx1OpzIv0",
-      "titulo": "GABI BARBIERI FALA SOBRE VANTAGEM NA FINAL DA COPA DO BRASIL FEMININA",
-      "canal": "Copa do Brasil Feminina",
-      "views": 1282,
-      "likes": 31,
-      "comentarios": 0,
-      "publicado": "2026-11-12T03:14:28Z",
-      "duracao_s": 18,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=17Tx1OpzIv0"
-     },
-     {
-      "id": "50D6z0IsVcw",
-      "titulo": "MENGÃO SEGURA A VANTAGEM NA ALTITUDE? 😱🔴⚫ IDV x Flamengo - Jogo de Volta Oitavas Libertadores 2026",
-      "canal": "Andy Dario",
-      "views": 300,
-      "likes": 9,
+      "id": "pmO8FXpIL-Y",
+      "titulo": "PALMEIRAS SUB-20 ELIMINADO! O QUE DEU ERRADO? AGORA FOCO NA COPINHA FEMININA 2026 | QUINTA DAS CRIAS",
+      "canal": "Palestrinas em Campo",
+      "views": 3486,
+      "likes": 70,
       "comentarios": 1,
-      "publicado": "2026-11-11T21:00:14Z",
-      "duracao_s": 176,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=50D6z0IsVcw"
+      "publicado": "2026-11-13T13:27:45Z",
+      "duracao_s": 5569,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=pmO8FXpIL-Y"
      },
      {
-      "id": "yLdubxmum6U",
-      "titulo": "INTER EM VANTAGEM NA COPA DO BRASIL",
-      "canal": "Olimpíada Todo Dia",
-      "views": 278,
-      "likes": 3,
+      "id": "i6lo7UEnkwo",
+      "titulo": "Palmeiras hoje: DECISÃO das Crias no Pacaembu e ZAGA INÉDITA contra o Cruzeiro!",
+      "canal": "Mundo em Vídeo",
+      "views": 751,
+      "likes": 27,
       "comentarios": 0,
-      "publicado": "2026-11-12T03:09:06Z",
-      "duracao_s": 57,
+      "publicado": "2026-11-13T10:35:54Z",
+      "duracao_s": 61,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=yLdubxmum6U"
+      "url": "https://www.youtube.com/watch?v=i6lo7UEnkwo"
      },
      {
-      "id": "jrmN6Ip7m94",
-      "titulo": "Eric Faria rebate tese de vantagem do Flamengo na Data Fifa e relembra jogo com nove desfalques",
-      "canal": "Notícias do Fla",
-      "views": 240,
-      "likes": 1,
+      "id": "OHnokZkySFQ",
+      "titulo": "Base do São Paulo vence Palmeiras e Corinthians e avança nos Paulistas Sub-15 e Sub-17",
+      "canal": "Arquibancada Tricolor",
+      "views": 665,
+      "likes": 62,
+      "comentarios": 2,
+      "publicado": "2026-11-13T15:15:31Z",
+      "duracao_s": 335,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=OHnokZkySFQ"
+     },
+     {
+      "id": "oKctXzXNo5g",
+      "titulo": "SANTOS FC X PALMEIRAS PAULISTÃO SUB-20 SEMIFINAL NO PACAEMBU",
+      "canal": "Família Santista",
+      "views": 640,
+      "likes": null,
+      "comentarios": 1,
+      "publicado": "2026-11-11T19:00:34Z",
+      "duracao_s": 31,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=oKctXzXNo5g"
+     },
+     {
+      "id": "xM7Uwpvky7g",
+      "titulo": "SANTOS FC X PALMEIRAS PAULISTÃO SUB-20 SEMIFINAL NESTA SEXTA NO PACAEMBU",
+      "canal": "Família Santista",
+      "views": 598,
+      "likes": null,
       "comentarios": 0,
-      "publicado": "2026-11-12T14:16:34Z",
-      "duracao_s": 87,
+      "publicado": "2026-11-12T20:01:07Z",
+      "duracao_s": 31,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=jrmN6Ip7m94"
+      "url": "https://www.youtube.com/watch?v=xM7Uwpvky7g"
      },
      {
-      "id": "YbjRXDrNEBA",
-      "titulo": "🚨VALE VANTAGEM NA FINAL!FLAMENGO🆚INTERNACIONAL! QUEM VAI DOMINAR O PRIMEIRO JOGO?@RioSampaGamer",
-      "canal": "RioSampa Gamer",
-      "views": 235,
-      "likes": 3,
+      "id": "jRnz6kIuaek",
+      "titulo": "SANTOS X PALMEIRAS | AO VIVO | SEMIFINAL CAMPEONATO PAULSITA SUB-20 2026 | VARANDA",
+      "canal": "Varanda Futebol Debate",
+      "views": 575,
+      "likes": 90,
       "comentarios": 0,
-      "publicado": "2026-11-12T00:38:41Z",
-      "duracao_s": 26,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=YbjRXDrNEBA"
+      "publicado": "2026-11-12T20:22:16Z",
+      "duracao_s": 0,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=jRnz6kIuaek"
      },
      {
-      "id": "0fmRhZFCmRY",
-      "titulo": "Inter abre vantagem sobre o Flamengo na final da Copa do Brasil",
-      "canal": "Roberto Dantas Esportes e Notícias ",
-      "views": 17,
-      "likes": 2,
+      "id": "kuII6Fz5WpI",
+      "titulo": "Heittor marca em seu retorno, mas Palmeiras perde para o Santos na ida da semifinal do Paulista U-20",
+      "canal": "Canal Verdão Info",
+      "views": 507,
+      "likes": 35,
+      "comentarios": 5,
+      "publicado": "2026-11-13T01:09:16Z",
+      "duracao_s": 485,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=kuII6Fz5WpI"
+     },
+     {
+      "id": "mXp4ip8cnkg",
+      "titulo": "🚨 SANTOS X PALMEIRAS AO VIVO! É DECISÃO! VERDÃO VAI EM BUSCA DA FINAL DO PAULISTÃO SUB-20!",
+      "canal": "XEQUE-MATE PALESTRINO",
+      "views": 193,
+      "likes": 12,
+      "comentarios": 2,
+      "publicado": "2026-11-13T15:30:10Z",
+      "duracao_s": 317,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=mXp4ip8cnkg"
+     },
+     {
+      "id": "VmjAotCYb6k",
+      "titulo": "🚨 CLÁSSICO PEGANDO FOGO! PALMEIRAS X SANTOS PELO SUB-20!👀😱",
+      "canal": "Palestra Italia de Coração ",
+      "views": 56,
+      "likes": 8,
+      "comentarios": 5,
+      "publicado": "2026-11-13T13:00:29Z",
+      "duracao_s": 395,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=VmjAotCYb6k"
+     },
+     {
+      "id": "VmBJff_P6ZA",
+      "titulo": "JOGOS DE HOJE SEXTA 13/11 | SANTOS X PALMEIRAS PAULISTA SUB-20| ARGENTINA X URUGUAI | ONDE ASSISTIR",
+      "canal": "Agenda da Bola",
+      "views": 45,
+      "likes": 4,
       "comentarios": 0,
-      "publicado": "2026-11-12T11:13:46Z",
-      "duracao_s": 66,
+      "publicado": "2026-11-12T20:34:31Z",
+      "duracao_s": 171,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=0fmRhZFCmRY"
+      "url": "https://www.youtube.com/watch?v=VmBJff_P6ZA"
      },
      {
-      "id": "UOQUDxxJsKU",
-      "titulo": "INTER GOLEIA O FLAMENGO FORA DE CASA E ABRE VANTAGEM NA FINAL DA COPA DO BRASIL FEMININA!",
-      "canal": "Lances & Gols",
-      "views": 7,
-      "likes": 1,
-      "comentarios": 0,
-      "publicado": "2026-11-12T10:40:23Z",
-      "duracao_s": 440,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=UOQUDxxJsKU"
-     },
-     {
-      "id": "gz9ReLik3ME",
-      "titulo": "técnico CELSO avalia substituições feitas após INTER abrir vantagem:  #copadobrasil #flamengo",
-      "canal": "Yasmin Queiroz",
-      "views": 6,
-      "likes": 1,
-      "comentarios": 0,
-      "publicado": "2026-11-12T08:53:30Z",
-      "duracao_s": 67,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=gz9ReLik3ME"
-     },
-     {
-      "id": "HfxEkyhCkPs",
-      "titulo": "Inter larga na vantagem contra o Flamengo.",
-      "canal": "NOVAFM CAMPOBOM",
-      "views": 0,
+      "id": "wIBJYfM94AM",
+      "titulo": "VALE VAGA NA FINAL! SANTOS TEM VANTAGEM, MAS O PALMEIRAS QUER A REVANCHE!",
+      "canal": "CONSENTINI",
+      "views": 16,
       "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-11-12T17:30:52Z",
-      "duracao_s": 145,
+      "comentarios": 1,
+      "publicado": "2026-11-13T15:32:50Z",
+      "duracao_s": 62,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=HfxEkyhCkPs"
+      "url": "https://www.youtube.com/watch?v=wIBJYfM94AM"
      }
     ],
-    "consulta": "Flamengo Feminina vantagem",
+    "consulta": "Palmeiras Paulista sub-20 semifinal",
     "n_videos": 13,
     "mais_de": false,
-    "views": 58385,
+    "views": 222741,
     "top": [
      {
-      "titulo": "FLAMENGO PASSA VERGONHA, TOMA VIRADA DO INTERNACIONAL QUE HUMILHOU E TEM A VANTAGEM NA FINAL",
-      "canal": "Conexão Fla",
-      "views": 36585,
-      "url": "https://www.youtube.com/watch?v=ufWWNflAHOQ",
-      "publicado": "2026-11-12T02:39:19Z",
+      "titulo": "RED BULL BRAGANTINO X CORINTHIANS | SEMIFINAL DO PAULISTÃO SUB-20 | AO VIVO E COM IMAGENS",
+      "canal": "Xsports",
+      "views": 209691,
+      "url": "https://www.youtube.com/watch?v=UNl9pMEkLx0",
+      "publicado": "2026-11-12T20:21:49Z",
       "do_canal": false
      },
      {
-      "titulo": "INTER VENCE A PRIMEIRA CONTRA O FLAMENGO E LEVA VANTAGEM PARA O BEIRA-RIO | TROCA DE PASSES | sportv",
-      "canal": "ge tv",
-      "views": 13037,
-      "url": "https://www.youtube.com/watch?v=ki4o-gGvlCo",
-      "publicado": "2026-11-12T03:16:35Z",
+      "titulo": "SANTOS PRECISA ENTRAR FIRME NA LUTA PELO PACAEMBU",
+      "canal": "Canal 10 Santos FC - com Alex Frutuoso",
+      "views": 5518,
+      "url": "https://www.youtube.com/watch?v=hvSCVhgXmww",
+      "publicado": "2026-11-12T23:56:20Z",
       "do_canal": false
      },
      {
-      "titulo": "FLAMENGO QUER A VANTAGEM! COLORADAS VEM COM TUDO! • GAMEPLAY PES 2021 • MAH GAMER",
-      "canal": "MAH GAMER",
-      "views": 3648,
-      "url": "https://www.youtube.com/watch?v=uXTXOsXtFsA",
-      "publicado": "2026-11-12T16:42:53Z",
+      "titulo": "PALMEIRAS SUB-20 ELIMINADO! O QUE DEU ERRADO? AGORA FOCO NA COPINHA FEMININA 2026 | QUINTA DAS CRIAS",
+      "canal": "Palestrinas em Campo",
+      "views": 3486,
+      "url": "https://www.youtube.com/watch?v=pmO8FXpIL-Y",
+      "publicado": "2026-11-13T13:27:45Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "Douglas Santos admite sondagem do Flamengo em reta final de contrato com Zenit: “Energiza e motiva”",
+   "tema": "Estudiantes conquista Supercopa Argentina antes de final contra Palmeiras",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Palmeiras"
+   ],
+   "foco": true,
+   "nota": 79.1,
+   "sinais": {
+    "busca": 40,
+    "aceleracao": 43,
+    "midia": 96,
+    "aderencia": 100,
+    "youtube": 90
+   },
+   "fator_categoria": 1.142,
+   "trafego_google": 0,
+   "busca_torcedor": "palmeiras libertadores",
+   "termos_trends": [],
+   "n_fontes": 9,
+   "n_manchetes": 9,
+   "assinatura": "palme|argen|estud|super",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Estudiantes conquista Supercopa Argentina antes de final contra Palmeiras. Dentro de campo acabou. Fora dele, a discussão está só começando.",
+    "titulo_thumb": "QUEM TEM RAZÃO?",
+    "pergunta_enquete": "Qual sua opinião: Estudiantes conquista Supercopa Argentina antes de final contra Palmeiras?",
+    "tecnica": "Conflito",
+    "ganchos": [
+     {
+      "tecnica": "Conflito",
+      "texto": "Estudiantes conquista Supercopa Argentina antes de final contra Palmeiras. Dentro de campo acabou. Fora dele, a discussão está só começando.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Estudiantes conquista Supercopa Argentina antes de final contra Palmeiras. O placar diz uma coisa. O jogo, visto de perto, diz outra.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Estudiantes conquista Supercopa Argentina antes de final contra Palmeiras. O que esse resultado muda daqui para frente?",
+      "thumb": "E AGORA, PALMEIRAS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Estudiantes conquista Supercopa Argentina antes de final contra Palmeiras. Minha aposta: depois desse jogo, [SEU PALPITE]. Me cobra depois.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "212 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
+      "thumb": "TODO MUNDO VIU"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Estudiantes vence Supercopa da Argentina e chega embalado para final contra o Palmeiras",
+     "fonte": "Gazeta do Paraná",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeVp0TTdyY1pjQnRVVHo5WHVSRWtRbDBzOTlVMmxZWFJhTmZlVFNGd29ySFUzMzY4bUlBREUzV210T2EzWl9zY2djN0pLRUJndFE4ZFlBVW44OXBaZm41M0NrWlR3aFVraENwUGFDSjhJRzNVTUw2NVZoY3hreVlWMjlGV1lKU1VkbUFKbkR5WVY0V3ZsTEIxS1BSZ0dzVGU1SzNTUXItN3JCRm92Z0lMeVhhTmhKTVNMelNBeFJUbWd6SHdm?oc=5"
+    },
+    {
+     "titulo": "Estudiantes conquista Supercopa Argentina e chega embalado para enfrentar Palmeiras",
+     "fonte": "Diário da Manhã",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUhySFdUT0VnYlA4aEpZU2pMQkVhWWkyTVVfSFFEN2JTYWxBSTdhLWRrVms1VUNKbjlTY2VqTmNxRzB1NjB3Y1NjMS02Tk5DZURYZndoZzA4eWo4ZUxMaTRXVndOUGN3c25uQm50LUplM3B0VzUySGV0RkNrRE00X3kyZDRiSWpqUmc2ZkFob0M3YjBydTMydnRlSmgxM1NoR1M0UUhMYUtJeEVWcUtpZU0wZFNidw?oc=5"
+    },
+    {
+     "titulo": "Estudiantes vence Supercopa da Argentina antes de final contra o Palmeiras",
+     "fonte": "Metrópoles",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWJQXzAzUDdEQWZTU0ppakdQVk9sY2tOeXpxYWhnRGpDbnBtTWFyaDBXR3ZRM2RSVG9HbjRNbU9NcWJtRUYxNHR6TkJkZngxQnJLU1g0NGoza1hrZTBvcFhfZWx2SEhZSXE0MzA2ZDRmSDhKMDFsa0dxVGtBMjI2alBsTndNMTZ0VXl2VzdsUUxpNDBHRGZjYTNZOHZrTFV5NFVKaXdHUTNXNEFwS2hj?oc=5"
+    },
+    {
+     "titulo": "Rival do Palmeiras, Estudiantes é campeão na Argentina",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMGVOOGVpVGNkVU5kTExTVG5sVlNPQ1dkWFBrczhLTjVLN0RXbExROFE2ZkpPemt4SFJ1RUMybGpEZVlCZUFLRHgtS0lIM1ZJMThFM2RzZGF5RVRGTVJXNmthbENZTFN0YzZZR1RMNDNoVHdscFljdEVfbW1qTmhBZEoycGFlOGpiYlR4LUtxZW9MVmI5b2RpS0pFaUp5UnNwdjlSNlMyVEZza3hXVmp3VmhkTGxTbnRRZVc1VTZmeE1nSzhMX01NMTVWT3Z3WGpQZ2pMZTJoa2dPUQ?oc=5"
+    },
+    {
+     "titulo": "Estudiantes é campeão da Supercopa Argentina antes de encarar o Palmeiras na final da Libertadores; VEJA como foi",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vQWVSdE0zSEkxX1dXMHd3Qll4dVJuQnl4a3A2dm8yQ01hcE9hOUx1Y1JqWlBmMTNnTWN5cks3Y3pEWnRIaUZSU19sTTlzbzdjWmVHQXl4LWVSblBhSmc?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "v0Fv3NaVpWc",
+      "titulo": "É CAMPEÃO! ESTUDIANTES VENCE SUPER COPA ARGENTINA ANTES DE ENFRENTAR PALMEIRAS | MELHORES MOMENTOS",
+      "canal": "ESPN Brasil",
+      "views": 167349,
+      "likes": 1613,
+      "comentarios": 175,
+      "publicado": "2026-11-13T02:47:11Z",
+      "duracao_s": 681,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=v0Fv3NaVpWc"
+     },
+     {
+      "id": "Q56qmsIX8Lw",
+      "titulo": "ALÔ, PALMEIRAS! 📞 GOL DO ESTUDIANTES! #shorts",
+      "canal": "ESPN Brasil",
+      "views": 23445,
+      "likes": 531,
+      "comentarios": 51,
+      "publicado": "2026-11-13T00:49:38Z",
+      "duracao_s": 37,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Q56qmsIX8Lw"
+     },
+     {
+      "id": "naHx0O4M5dY",
+      "titulo": "ALÔ, PALMEIRAS 👀 ESTUDIANTES CAMPEÃO DA SUPERCOPA ARGENTINA! AGORA SÓ JOGA NA FINAL DA LIBERTADORES",
+      "canal": "THtv9",
+      "views": 3497,
+      "likes": 167,
+      "comentarios": 20,
+      "publicado": "2026-11-13T09:00:08Z",
+      "duracao_s": 730,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=naHx0O4M5dY"
+     },
+     {
+      "id": "MnQ_Ms4zXYI",
+      "titulo": "Edu Dracena de olho no rival do Palmeiras na decisão da Libertadores",
+      "canal": "Jogo Aberto",
+      "views": 2962,
+      "likes": 147,
+      "comentarios": 0,
+      "publicado": "2026-11-13T15:52:16Z",
+      "duracao_s": 88,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=MnQ_Ms4zXYI"
+     },
+     {
+      "id": "8YMm-jfV3Lk",
+      "titulo": "¡Estudiantes campeón de la Supercopa!",
+      "canal": "DatoDeLaSemana",
+      "views": 2633,
+      "likes": 77,
+      "comentarios": 0,
+      "publicado": "2026-11-13T03:00:13Z",
+      "duracao_s": 32,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=8YMm-jfV3Lk"
+     },
+     {
+      "id": "DO_RTblbO-E",
+      "titulo": "🔥🤯 GOLEIRO MUSLERA SOFRE DOIS GOLS NA SUPERCOPA ARGENTINA #muslera #palmeiras #libertadores #futebol",
+      "canal": "CanalFutDaHora",
+      "views": 1775,
+      "likes": 26,
+      "comentarios": 0,
+      "publicado": "2026-11-13T11:00:25Z",
+      "duracao_s": 23,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=DO_RTblbO-E"
+     },
+     {
+      "id": "2VrLd0SgWNE",
+      "titulo": "POUCOS estão FALANDO DISSO, mas o ESTUDIANTES vai... OLHA o que CHAMA ATENÇÃO pra FINAL! | PALMEIRAS",
+      "canal": "Jovem Pan Esportes",
+      "views": 1728,
+      "likes": 102,
+      "comentarios": 11,
+      "publicado": "2026-11-13T17:42:21Z",
+      "duracao_s": 678,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=2VrLd0SgWNE"
+     },
+     {
+      "id": "Oei6-sUjTWc",
+      "titulo": "La CONMEBOL Tiene Un GRAVE PROBLEMA Con Verón Y ESTUDIANTES DE LA PLATA",
+      "canal": "Molcas FC",
+      "views": 1586,
+      "likes": 107,
+      "comentarios": 15,
+      "publicado": "2026-11-13T13:44:08Z",
+      "duracao_s": 699,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Oei6-sUjTWc"
+     },
+     {
+      "id": "CCq6GxC9Dw8",
+      "titulo": "OLHA O GOL DO ESTUDIANTES NA FINAL DA SUPERCOPA DA ARGENTINA KKKKKKK #estudiantes #palmeiras",
+      "canal": "CORTES THTV9",
+      "views": 1351,
+      "likes": 16,
+      "comentarios": 0,
+      "publicado": "2026-11-13T00:32:57Z",
+      "duracao_s": 29,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=CCq6GxC9Dw8"
+     },
+     {
+      "id": "6RR66-kOsbE",
+      "titulo": "ESTUDIANTES CAMPEÃO! RIVAL DO PALMEIRAS VAI DE FÉRIAS ATÉ A FINAL DA LIBERTADORES?",
+      "canal": "FutNews Shorts",
+      "views": 1213,
+      "likes": 41,
+      "comentarios": 2,
+      "publicado": "2026-11-13T09:04:50Z",
+      "duracao_s": 42,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=6RR66-kOsbE"
+     },
+     {
+      "id": "IeQLYcOnqf4",
+      "titulo": "SE LIGA NO ESTUDIANTES, ÚLTIMO LANCE E GOL DO RIVADAVIA. VALENDO O TITULO DA SUPERCOPA ARGENTINA. TA",
+      "canal": "CORTES THTV9",
+      "views": 1148,
+      "likes": 25,
+      "comentarios": 2,
+      "publicado": "2026-11-13T01:00:50Z",
+      "duracao_s": 70,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=IeQLYcOnqf4"
+     },
+     {
+      "id": "MKO7a6dXK6s",
+      "titulo": "Rival do Palmeiras é campeão e a final da Libertadores está a 15 dias",
+      "canal": "Mapa da Bola",
+      "views": 981,
+      "likes": 30,
+      "comentarios": 3,
+      "publicado": "2026-11-13T13:05:46Z",
+      "duracao_s": 25,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=MKO7a6dXK6s"
+     },
+     {
+      "id": "bts3ceJNNxg",
+      "titulo": "Estudiantes ganó la Supercopa 3-2 en el alargue y va por la Libertadores",
+      "canal": "PULSO · Noticias en vivo",
+      "views": 789,
+      "likes": 16,
+      "comentarios": 0,
+      "publicado": "2026-11-13T12:15:36Z",
+      "duracao_s": 28,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=bts3ceJNNxg"
+     },
+     {
+      "id": "Fw5E1d90pXc",
+      "titulo": "ESTUDIANTES JÁ É CAMPEÃO E AGORA QUER A LIBERTADORES! PALMEIRAS QUE SE CUIDE!",
+      "canal": "Netts Sports",
+      "views": 543,
+      "likes": 12,
+      "comentarios": 1,
+      "publicado": "2026-11-13T02:28:09Z",
+      "duracao_s": 99,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Fw5E1d90pXc"
+     },
+     {
+      "id": "82FODjOYRmw",
+      "titulo": "Rival do Palmeiras, Estudiantes é campeão no seu último jogo antes da final da Libertadores #Shorts",
+      "canal": "Noticias Show de Bola",
+      "views": 343,
+      "likes": 6,
+      "comentarios": 0,
+      "publicado": "2026-11-13T11:03:49Z",
+      "duracao_s": 61,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=82FODjOYRmw"
+     },
+     {
+      "id": "WiCjktUr2sw",
+      "titulo": "💚PALMEIRAS X ESTUDIANTES! RIVAL DO VERDÃO CONQUISTA A SUPERCOPA DA ARGENTINA ANTES DA FINAL",
+      "canal": "Palestra Futebol",
+      "views": 148,
+      "likes": 6,
+      "comentarios": 0,
+      "publicado": "2026-11-13T15:17:36Z",
+      "duracao_s": 698,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=WiCjktUr2sw"
+     },
+     {
+      "id": "0HpPFN2BMls",
+      "titulo": "Estudantes campeão 3 a 2 antes de encarar o Palmeiras #shorts",
+      "canal": "Recorte Esportivo",
+      "views": 23,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-11-13T09:44:34Z",
+      "duracao_s": 52,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=0HpPFN2BMls"
+     },
+     {
+      "id": "ARIR-H6kIS4",
+      "titulo": "Estudiantes y su historial intacto #Shorts #Estudiantes #Palmeiras",
+      "canal": "FlashDeporte_Mecarender",
+      "views": 1,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-11-13T16:08:17Z",
+      "duracao_s": 34,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=ARIR-H6kIS4"
+     },
+     {
+      "id": "9vnuImDNA8U",
+      "titulo": "Palmeiras: O Estudiantes venceu a Supercopa Argentina em uma partida emocionante, cheia de",
+      "canal": "Verde em Foco",
+      "views": 1,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-11-13T17:13:32Z",
+      "duracao_s": 475,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=9vnuImDNA8U"
+     }
+    ],
+    "consulta": "Palmeiras Estudiantes Argentina Supercopa",
+    "n_videos": 19,
+    "mais_de": false,
+    "views": 211516,
+    "top": [
+     {
+      "titulo": "É CAMPEÃO! ESTUDIANTES VENCE SUPER COPA ARGENTINA ANTES DE ENFRENTAR PALMEIRAS | MELHORES MOMENTOS",
+      "canal": "ESPN Brasil",
+      "views": 167349,
+      "url": "https://www.youtube.com/watch?v=v0Fv3NaVpWc",
+      "publicado": "2026-11-13T02:47:11Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "ALÔ, PALMEIRAS! 📞 GOL DO ESTUDIANTES! #shorts",
+      "canal": "ESPN Brasil",
+      "views": 23445,
+      "url": "https://www.youtube.com/watch?v=Q56qmsIX8Lw",
+      "publicado": "2026-11-13T00:49:38Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "ALÔ, PALMEIRAS 👀 ESTUDIANTES CAMPEÃO DA SUPERCOPA ARGENTINA! AGORA SÓ JOGA NA FINAL DA LIBERTADORES",
+      "canal": "THtv9",
+      "views": 3497,
+      "url": "https://www.youtube.com/watch?v=naHx0O4M5dY",
+      "publicado": "2026-11-13T09:00:08Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Estudiantes é campeão na Argentina antes de pegar Palmeiras na final da Libertadores",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Palmeiras"
+   ],
+   "foco": true,
+   "nota": 78.8,
+   "sinais": {
+    "busca": 40,
+    "aceleracao": 56,
+    "midia": 81,
+    "aderencia": 100,
+    "youtube": 85
+   },
+   "fator_categoria": 1.142,
+   "trafego_google": 0,
+   "busca_torcedor": "palmeiras libertadores",
+   "termos_trends": [],
+   "n_fontes": 6,
+   "n_manchetes": 7,
+   "assinatura": "palme|estud|final|antes",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Estudiantes é campeão na Argentina antes de pegar Palmeiras na final da Libertadores. Parece que está tudo resolvido. No futebol, quase nunca está.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
+    "pergunta_enquete": "Qual sua opinião: Estudiantes é campeão na Argentina antes de pegar Palmeiras na final da Libertadores?",
+    "tecnica": "Contradição",
+    "ganchos": [
+     {
+      "tecnica": "Contradição",
+      "texto": "Estudiantes é campeão na Argentina antes de pegar Palmeiras na final da Libertadores. Parece que está tudo resolvido. No futebol, quase nunca está.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "O que o Palmeiras precisa fazer para vencer esse jogo?",
+      "thumb": "E AGORA, PALMEIRAS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Eu aposto que o Palmeiras [VENCE / EMPATA / PERDE], e explico por quê. Qual é o seu placar?",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "178 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
+      "thumb": "TODO MUNDO VIU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Palmeiras contra Estudiantes vale mais do que três pontos, e os dois sabem disso.",
+      "thumb": "PALMEIRAS x ESTUDIANTES"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Palmeiras x Estudiantes: Rival do Verdão na final da Libertadores joga pela última vez antes da decisão",
+     "fonte": "Portal ABC do ABC",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56UXN6ak1idVhTbXkwYmhkWXlRb2txNW9PbjBoUm9fSE1UaExOYURZcG5SeEEwQmlVYnRuenY3QW8xZVNXN3BQUlN5c0JwNVpGMldBcXNsaVVPZ3A3VDRRcEtneWZJN2Mtc0h1QzVwcXB3V3pQeDhn?oc=5"
+    },
+    {
+     "titulo": "Estudiantes vê decisão com Palmeiras como \"jogo da vida\"",
+     "fonte": "365Scores",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU1p3amktN3pNQk90eVprQlZUZHZtckJJZDJEOGY5VnNueG9KNWE4bldaSUUweXF2ZElnQllFeFc0M1VQSTNWTjVQdVNSZHlNOVNzQkNla0Exb29aT3pETjhsMGZfT0RVZnhqbFNINUZtR2lqQTBYbzc5eTBITmVkRU5Mc1pSRGx4NEYwY1IxM1o5RVpfYXFkR1FxcklYQzU2Q2c?oc=5"
+    },
+    {
+     "titulo": "Jogadores do Estudiantes projetam final com Palmeiras: 'Jogo da vida'",
+     "fonte": "UOL",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOampqSGUyMmhjMVRtZHJPN3psSy1icWdvcW00NGNMbEp2T2NJMEdjMlRJa1cyNHdsR0tlYXFrdDhNRjdWNnFlQUhYcWJDeXFfMjVOZkhfNldEZmlJbHZIVkdzZzNGXzdwVmctLXQzUnNId2xIN2RtZUlmOHVMdXYydmdrdTVFd1BzeXNJRU5MRjJha0JLOU9lcGJCa3dfRHczdXdSR2R1dk9oNkVYRkpVcE5HREx5SEhMMlBCTlQ0OUFLMm9YMmE0?oc=5"
+    },
+    {
+     "titulo": "Cinema do litoral de SP transmitirá final da Libertadores entre Palmeiras e Estudiantes",
+     "fonte": "Costa Norte",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSGlRYVlvNjU3Vkt2QXVIY0FDUGZzcnhobDNMOGhKWklUYUIwRExvVmJldlBFbUNpWFRka2o5M3lxVmFpaVVPaExlOFFZQkN3cjY1aktSYlJtN05sZDNaVHNlaWpqcGtyWFE2TktMdFVKYlZnLUhlT2ZaZDBvZ242MnVvR0dtVnV6ekltV2NaVjlYOHFIV1lJMDhuaGh3MWpxWXJTQVBMVUdMT3hTdFlNTUxMblVpU0E1NVcyd05GMmhqaFYzWTBYakNzaXNOQdIB0wFBVV95cUxNYzE1Wm90WE9nNXFIMHVCOERKOG4wTFJCV3F4MTBfaVQ5R3h0MXFMTXNaUUVXYy1kcnVoQnZtTy1SLU9paDlMa1NBX2N4R29VaVhKd1l4WmVoeHg0RlpoUnluQjhUZ05HblhVbXhDemlhSm1yeWhpcDBITW1ZSFRnU3E4Q2FiQUhERTFlcDluZHdLMldpaDR5VzBnckpvMXhEZUFGSEtDbmZOS2htR05oaktFRjctLXM4Ujg2RDZVMzVfT1hHN0hqcHVZQ2RWbjEwWXVn?oc=5"
+    },
+    {
+     "titulo": "Estudiantes é campeão na Argentina antes de pegar Palmeiras na final da Libertadores",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNV0pjYUtYTk5MMVRTekR5RFZmenhMS2FSSndXVDNhSTV2VjdOb2p2YW9jNEVERkhrMW1OMWF5cFI4RGNHWWdMVjJKcnl6cU44T3BOZ1R4OGktWjBicjVod0Z4SjNVejBMcFlWYk1yUG80SW81UTBIWG5rR1hIY29mdWNGNlZUYkxuR2NQdE4wZF9KWVJBWGR0V0hGb2IweWxUMkhLVlVyUGFGVmVlSHY4Q1ljZUp6NVBNdUhyNDV0T3RJTlR5NVFpeS01SHVKSi02ZVo3ZzdJejNRV2JZNkhpblRkOFladFJPRVNSbk5FelN3Wm5ra1VzVzVFMFA2SXFuc1dGRlpUQWw4eGs?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "v0Fv3NaVpWc",
+      "titulo": "É CAMPEÃO! ESTUDIANTES VENCE SUPER COPA ARGENTINA ANTES DE ENFRENTAR PALMEIRAS | MELHORES MOMENTOS",
+      "canal": "ESPN Brasil",
+      "views": 167349,
+      "likes": 1613,
+      "comentarios": 175,
+      "publicado": "2026-11-13T02:47:11Z",
+      "duracao_s": 681,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=v0Fv3NaVpWc"
+     },
+     {
+      "id": "naHx0O4M5dY",
+      "titulo": "ALÔ, PALMEIRAS 👀 ESTUDIANTES CAMPEÃO DA SUPERCOPA ARGENTINA! AGORA SÓ JOGA NA FINAL DA LIBERTADORES",
+      "canal": "THtv9",
+      "views": 3497,
+      "likes": 167,
+      "comentarios": 20,
+      "publicado": "2026-11-13T09:00:08Z",
+      "duracao_s": 730,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=naHx0O4M5dY"
+     },
+     {
+      "id": "2VrLd0SgWNE",
+      "titulo": "POUCOS estão FALANDO DISSO, mas o ESTUDIANTES vai... OLHA o que CHAMA ATENÇÃO pra FINAL! | PALMEIRAS",
+      "canal": "Jovem Pan Esportes",
+      "views": 1728,
+      "likes": 102,
+      "comentarios": 11,
+      "publicado": "2026-11-13T17:42:21Z",
+      "duracao_s": 678,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=2VrLd0SgWNE"
+     },
+     {
+      "id": "Oei6-sUjTWc",
+      "titulo": "La CONMEBOL Tiene Un GRAVE PROBLEMA Con Verón Y ESTUDIANTES DE LA PLATA",
+      "canal": "Molcas FC",
+      "views": 1586,
+      "likes": 107,
+      "comentarios": 15,
+      "publicado": "2026-11-13T13:44:08Z",
+      "duracao_s": 699,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Oei6-sUjTWc"
+     },
+     {
+      "id": "6RR66-kOsbE",
+      "titulo": "ESTUDIANTES CAMPEÃO! RIVAL DO PALMEIRAS VAI DE FÉRIAS ATÉ A FINAL DA LIBERTADORES?",
+      "canal": "FutNews Shorts",
+      "views": 1229,
+      "likes": 40,
+      "comentarios": 2,
+      "publicado": "2026-11-13T09:04:50Z",
+      "duracao_s": 42,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=6RR66-kOsbE"
+     },
+     {
+      "id": "MKO7a6dXK6s",
+      "titulo": "Rival do Palmeiras é campeão e a final da Libertadores está a 15 dias",
+      "canal": "Mapa da Bola",
+      "views": 981,
+      "likes": 30,
+      "comentarios": 3,
+      "publicado": "2026-11-13T13:05:46Z",
+      "duracao_s": 25,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=MKO7a6dXK6s"
+     },
+     {
+      "id": "CgNHCocDNmU",
+      "titulo": "PALMEIRAS: DESFALQUES CONTRA CRUZEIRO! DATA FIFA E ESTUDIANTES CAMPEÃO: BOM OU RUIM? | AO VIVO",
+      "canal": "PVA-PORTAL DA VOZ ALVIVERDE",
+      "views": 724,
+      "likes": 68,
+      "comentarios": 0,
+      "publicado": "2026-11-13T12:21:35Z",
+      "duracao_s": 5482,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=CgNHCocDNmU"
+     },
+     {
+      "id": "Fw5E1d90pXc",
+      "titulo": "ESTUDIANTES JÁ É CAMPEÃO E AGORA QUER A LIBERTADORES! PALMEIRAS QUE SE CUIDE!",
+      "canal": "Netts Sports",
+      "views": 560,
+      "likes": 12,
+      "comentarios": 1,
+      "publicado": "2026-11-13T02:28:09Z",
+      "duracao_s": 99,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Fw5E1d90pXc"
+     },
+     {
+      "id": "82FODjOYRmw",
+      "titulo": "Rival do Palmeiras, Estudiantes é campeão no seu último jogo antes da final da Libertadores #Shorts",
+      "canal": "Noticias Show de Bola",
+      "views": 343,
+      "likes": 6,
+      "comentarios": 0,
+      "publicado": "2026-11-13T11:03:49Z",
+      "duracao_s": 61,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=82FODjOYRmw"
+     },
+     {
+      "id": "0HpPFN2BMls",
+      "titulo": "Estudantes campeão 3 a 2 antes de encarar o Palmeiras #shorts",
+      "canal": "Recorte Esportivo",
+      "views": 23,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-11-13T09:44:34Z",
+      "duracao_s": 52,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=0HpPFN2BMls"
+     },
+     {
+      "id": "9a0jGFYwqBo",
+      "titulo": "🔴JA TEVE GOL DE PALMEIRENSE NA DATA FIFA! ÚLTIMAS SOBRE A CONTUSÃO DE MURÍLO- ESTUDIANTES CAMPEAO E+",
+      "canal": "MÁSCARAS VERDES",
+      "views": 16,
+      "likes": 4,
+      "comentarios": 1,
+      "publicado": "2026-11-13T16:46:25Z",
+      "duracao_s": 230,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=9a0jGFYwqBo"
+     },
+     {
+      "id": "9vnuImDNA8U",
+      "titulo": "Palmeiras: O Estudiantes venceu a Supercopa Argentina em uma partida emocionante, cheia de",
+      "canal": "Verde em Foco",
+      "views": 1,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-11-13T17:13:32Z",
+      "duracao_s": 475,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=9vnuImDNA8U"
+     }
+    ],
+    "consulta": "Palmeiras Estudiantes Argentina campeão",
+    "n_videos": 12,
+    "mais_de": false,
+    "views": 178037,
+    "top": [
+     {
+      "titulo": "É CAMPEÃO! ESTUDIANTES VENCE SUPER COPA ARGENTINA ANTES DE ENFRENTAR PALMEIRAS | MELHORES MOMENTOS",
+      "canal": "ESPN Brasil",
+      "views": 167349,
+      "url": "https://www.youtube.com/watch?v=v0Fv3NaVpWc",
+      "publicado": "2026-11-13T02:47:11Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "ALÔ, PALMEIRAS 👀 ESTUDIANTES CAMPEÃO DA SUPERCOPA ARGENTINA! AGORA SÓ JOGA NA FINAL DA LIBERTADORES",
+      "canal": "THtv9",
+      "views": 3497,
+      "url": "https://www.youtube.com/watch?v=naHx0O4M5dY",
+      "publicado": "2026-11-13T09:00:08Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "POUCOS estão FALANDO DISSO, mas o ESTUDIANTES vai... OLHA o que CHAMA ATENÇÃO pra FINAL! | PALMEIRAS",
+      "canal": "Jovem Pan Esportes",
+      "views": 1728,
+      "url": "https://www.youtube.com/watch?v=2VrLd0SgWNE",
+      "publicado": "2026-11-13T17:42:21Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Notícia importante do portal UOL, confirmada pela equipe Paparazzo Rubro-Negro. O Flamengo e a Betano já negociam o formato da suspensão do contrato de patrocínio entre as partes. O acordo tinha um valor anual de R$ 268 milhões. A movimentação ac",
    "categoria": "Mercado da bola",
    "clubes": [
     "Flamengo"
    ],
    "foco": true,
-   "nota": 81.0,
+   "nota": 77.2,
    "sinais": {
-    "busca": 70,
-    "aceleracao": 84,
-    "midia": 100,
+    "busca": 35,
+    "aceleracao": 97,
+    "midia": 96,
     "aderencia": 100,
-    "youtube": 60
+    "youtube": 71
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "betano flamengo",
+   "termos_trends": [],
+   "n_fontes": 9,
+   "n_manchetes": 10,
+   "assinatura": "flame|suspe|patro|negoc",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 3 min)",
+    "gancho": "Flamengo e Betano discutem suspensão de contrato de patrocínio milionário. Se isso sair, quem perde espaço no elenco?",
+    "titulo_thumb": "E AGORA, FLAMENGO?",
+    "pergunta_enquete": "Qual sua opinião: Notícia importante do portal UOL, confirmada pela equipe Paparazzo Rubro-Negro. O Flamengo?",
+    "tecnica": "Pergunta aberta",
+    "ganchos": [
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Flamengo e Betano discutem suspensão de contrato de patrocínio milionário. Se isso sair, quem perde espaço no elenco?",
+      "thumb": "E AGORA, FLAMENGO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Eu aposto: esse negócio [SAI / NÃO SAI] até o fim do mês. Se eu errar, pode me cobrar nos comentários.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "O acordo tinha um valor anual de R$ 268 milhões. A movimentação ac. Quase ninguém fez a conta do que isso significa para o Flamengo.",
+      "thumb": "R$ 268 MILHÕES"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Flamengo e Betano discutem suspensão de contrato de patrocínio milionário. Torcida empolgada de um lado, diretoria fazendo conta do outro.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Flamengo e Betano discutem suspensão de contrato de patrocínio milionário. Parece um grande negócio. Olhando de perto, não é bem assim.",
+      "thumb": "NÃO É BEM ASSIM"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Flamengo negocia suspensão do contrato de patrocinadora máster",
+     "fonte": "O Dia",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjFPbl9COEhyQlBIdURfZzVKX2tjOFpIb2c2enJNbV9EZnRlTl9iSjFMcUY3d2x3MnNFalJLdmdqc3pGd1BoNUZrTkU1ZmJSTEJ1VVdqakdrckJHYnV3Uy14czFZX05WVmVlT1RfV3BFS296TVdSa0t5aG9tYWRmU0ZCRG9LVkNTbmpZNHVIa3YxNjJHZDE0VDN5NGhUQ3k5QXAwTHRFWmgxZ0IxemVqWUMxZXBPOWJ2Q29PeXJQMU7SAcYBQVVfeXFMTUJJOG9fN2RkNVFnbXVtdFBEQUh1UC1IazF5SzZtYUtGYkR4Q0UteDYzVEd2U1h6bkJFMTN2bVRRalhHUTVPR3BfZUFjX1M3Q2RGRlA3LTZFLTk3bDFWOGFsMUFhbENzdmlVUVhETFVDdXFXY2xkbkhOSXhxZ2ZLMGtmbEx2TktIMW5haGZqaTBxWkhnSTNMYlhFcXBxNVhYWHFrU0xIck1ta3RkTXE0NUJiLTQ0a1ppRUJlWDZZcjdVRzBtSmRR?oc=5"
+    },
+    {
+     "titulo": "Flamengo e Betano discutem suspensão de contrato de patrocínio milionário",
+     "fonte": "tmc.com.br",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JRGlYWlY4TU1zNGVHaEpiREFRRjk3ek5WRDA1U2xyajcxM2d6SUVMazltSXV4ZFk4bFd4QzhPS2RuYThLU29NdEF6NUNWVDFHcnVqNk5ZR2VzUVNZZl9SQ1AzUUlsbllUSFh1aTVycHh3SGI0NnRxZ2ZB?oc=5"
+    },
+    {
+     "titulo": "Flamengo negocia suspensão de patrocínio máster com a Betano; entenda",
+     "fonte": "PLACAR",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZDZCTmhrV1dWUWFKUUVJdHBwOHZrZU9JTW81RHp1OWxuYkNvWlZmTDRfSUQ4SURWYkc3dHh5emtoejNZQ3JRa0hCWjZUOE51MmdLLVhNTDR6OFRiWmxVS183TFpQOFlJY3VGSFFrbDIzZ1lCcEJNWWhGR2xvenFqQmZKS0tTRy1EMlo2dWtfNE5sNGtjWGpOZDdrNEp1WGl3b1d0bWx3?oc=5"
+    },
+    {
+     "titulo": "Flamengo e Betano debatem suspensão de patrocínio",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGkzTkxKbEJVWHczN2hIRGFWSGtGYy1zZ3FJSWVYU2RETDBRbU5zTUNkYk96MjM3bXc4dzNybktuMEIyMnJxTGJJVEhmNE8wYmJENkZZcmYzZXNmSGZzZ1oybG1ncnExSHIwbk9uRUpXeXE3aHFkR2szeTVYRDFjSWpJdUItQlBkVUJ2SDlNUnhkWm8yZUlfa1lsVjd4YVJObVBBWm0tMDRCSU5HSGVaUERXdHhaX09Fa2fSAcgBQVVfeXFMTVZ2UUlJOU5XMW1JdkV6X2dHaGhjQ3hJMXU1d05UeEF1M1NGVDJhQy0yZGhlaW9oZlFOX3ZJX0p6UkF3VkRqUVZYVzdRc0d4aVlRNDliempEUWZHUUxKdFg0dWJ4ZUZRaFE4VlJTWGlhVDBHZHRVWnE1ZEFPbm1vMUU5eFBmTHh3MFNjb3gtd0p6UXNMbzgyeGpsT3UwNm9oVFhQMmxiWHY4ekFTTThYOVdWbzh2YThBaktaLXUwd2VyX0F1MkowQlk?oc=5"
+    },
+    {
+     "titulo": "Flamengo negocia suspensão com patrocinador e pode devolver quantia",
+     "fonte": "iG Esportes",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZlBLOTlsLTAzbGl4TVFkSmVQaDVnWEE3cXNOU0F3S09DYzh1Qlc2OUJVYVg5SXdCbEY3V3ZnZmV2SmltREs3NFJmX3pKZjVqUU11TjU1U2FvbUZhU1Y5N0otZktEamNja1ZxVlo0cjRqcWthVkFCN0NfVWpIb3N4TGVZUnFMakxCYk53cGIyN09jTndkVUxLbEhqSEdKT1dMYVE2dnVVQl95MTltUE1KQnh3UjdGRXhOaF83WUdkVkcxaW9qcGhr0gHMAUFVX3lxTE0waFdXQ1pOa1JLTmZkajU3djJ4V3JGRUhJcEY5TjZReERTVXVfNEJidlhVM0o3bnl1X0lBdGxEYmc1QUpJQmdHejVSdEE3d1BWUlZpZGNUV2xkU3FrNlo1SWhrbnFZcDhxYTYybERDcDcwRnNMRWRVbFowZllIRHRHVUtXMG5jdnZlUm45ekZRTmJGVGRyTUFSenhjbWxQeUItd1oyeHNqRGRrWm5ldExmUEQ5ZzhvWVJtcmlvV2VNek5keUhwcFRLcEl2ZA?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "93L4po8PH00",
+      "titulo": "Flamengo e Betano negociam suspensão do patrocínio após MP prorrogada",
+      "canal": "Rodrigo Mattos",
+      "views": 13441,
+      "likes": 1687,
+      "comentarios": 102,
+      "publicado": "2026-11-13T11:00:09Z",
+      "duracao_s": 897,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=93L4po8PH00"
+     },
+     {
+      "id": "VHrna7InvlE",
+      "titulo": "FLAMENGO PODE PERDER R$ 180 MILHÕES EM 2027! 🚨 #flamengo #futebol",
+      "canal": "fla60segundos",
+      "views": 2062,
+      "likes": 93,
+      "comentarios": 0,
+      "publicado": "2026-11-13T15:10:50Z",
+      "duracao_s": 57,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=VHrna7InvlE"
+     },
+     {
+      "id": "BPSnwDVVKzU",
+      "titulo": "Flamengo negocia suspensão de patrocínio de R$ 268 milhões com a Betano",
+      "canal": "JOGOS DE HOJE NA TV ",
+      "views": 1655,
+      "likes": 7,
+      "comentarios": 0,
+      "publicado": "2026-11-13T16:07:41Z",
+      "duracao_s": 10,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=BPSnwDVVKzU"
+     },
+     {
+      "id": "8gZbx2wEpTQ",
+      "titulo": "Urgente! Flamengo negocia suspensão de contrato ",
+      "canal": "Bernardo Ramos",
+      "views": 708,
+      "likes": 127,
+      "comentarios": 4,
+      "publicado": "2026-11-13T14:50:28Z",
+      "duracao_s": 498,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=8gZbx2wEpTQ"
+     },
+     {
+      "id": "IdKkVA7Py54",
+      "titulo": "🚨 FLAMENGO PODE PERDER R$ 268 MILHÕES! BETANO PODE DEIXAR A CAMISA RUBRO-NEGRA EM 2027?  #flamengo",
+      "canal": "Diego169",
+      "views": 241,
+      "likes": 10,
+      "comentarios": 0,
+      "publicado": "2026-11-13T14:15:33Z",
+      "duracao_s": 89,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=IdKkVA7Py54"
+     },
+     {
+      "id": "3KqLtVf4w6E",
+      "titulo": "😳🚨 AGORA COMPLICOU! Flamengo e Betano negociam decisão que pode MUDAR TUDO no clube!",
+      "canal": "Nação - Outro Patamar ",
+      "views": 67,
+      "likes": 10,
+      "comentarios": 0,
+      "publicado": "2026-11-13T13:39:53Z",
+      "duracao_s": 495,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=3KqLtVf4w6E"
+     },
+     {
+      "id": "MbFUIn1f1d8",
+      "titulo": "FLA E BETANO NEGOCIAM SUSPENSÃO DE R$ 268 MILHÕES",
+      "canal": "Fla Informa",
+      "views": 19,
+      "likes": 0,
+      "comentarios": 1,
+      "publicado": "2026-11-13T17:21:57Z",
+      "duracao_s": 52,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=MbFUIn1f1d8"
+     },
+     {
+      "id": "Y_X1W0R1uyI",
+      "titulo": "FLA E BETANO NEGOCIAM SUSPENSÃO DO CONTRATO DE PATROCÍNIO …SRN ⚫️🔴#flamengo #patrocinio #betano",
+      "canal": "Marcolino Fla - Oficial",
+      "views": 6,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-11-13T17:06:09Z",
+      "duracao_s": 97,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Y_X1W0R1uyI"
+     },
+     {
+      "id": "8bymeakF_TA",
+      "titulo": "Flamengo negocia suspender contrato de R$ 268,5 mi com Betano",
+      "canal": "Mengão Diário",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-11-13T16:16:37Z",
+      "duracao_s": 39,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=8bymeakF_TA"
+     }
+    ],
+    "consulta": "Flamengo Betano patrocínio suspensão",
+    "n_videos": 9,
+    "mais_de": false,
+    "views": 18199,
+    "top": [
+     {
+      "titulo": "Flamengo e Betano negociam suspensão do patrocínio após MP prorrogada",
+      "canal": "Rodrigo Mattos",
+      "views": 13441,
+      "url": "https://www.youtube.com/watch?v=93L4po8PH00",
+      "publicado": "2026-11-13T11:00:09Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "FLAMENGO PODE PERDER R$ 180 MILHÕES EM 2027! 🚨 #flamengo #futebol",
+      "canal": "fla60segundos",
+      "views": 2062,
+      "url": "https://www.youtube.com/watch?v=VHrna7InvlE",
+      "publicado": "2026-11-13T15:10:50Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Flamengo negocia suspensão de patrocínio de R$ 268 milhões com a Betano",
+      "canal": "JOGOS DE HOJE NA TV ",
+      "views": 1655,
+      "url": "https://www.youtube.com/watch?v=BPSnwDVVKzU",
+      "publicado": "2026-11-13T16:07:41Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Maranhense Wesley brinca e crava Douglas Santos no Flamengo: “Ele vai jogar”",
+   "categoria": "Mercado da bola",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 65.3,
+   "sinais": {
+    "busca": 75,
+    "aceleracao": 69,
+    "midia": 92,
+    "aderencia": 100,
+    "youtube": 0
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
    "busca_torcedor": "douglas santos",
    "termos_trends": [],
-   "n_fontes": 15,
-   "n_manchetes": 24,
-   "assinatura": "flame|dougl|santo|sonda",
+   "n_fontes": 8,
+   "n_manchetes": 8,
+   "assinatura": "dougl|flame|santo|wesle",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 3 min)",
     "gancho": "Minha aposta é que essa novela do Flamengo termina [SEU PALPITE]. Guarda esse vídeo.",
     "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Douglas Santos admite sondagem do Flamengo em reta final de contrato com Zenit: “Energiza ?",
+    "pergunta_enquete": "Qual sua opinião: Maranhense Wesley brinca e crava Douglas Santos no Flamengo: “Ele vai jogar”?",
     "tecnica": "Aposta",
     "ganchos": [
      {
@@ -517,17 +1396,17 @@
      },
      {
       "tecnica": "Dado",
-      "texto": "87%. Grava esse número: ele explica boa parte do que está acontecendo no Flamengo.",
-      "thumb": "87%"
+      "texto": "O torcedor está digitando “douglas santos” no Google agora. A resposta não é tão simples.",
+      "thumb": "VOCÊ PESQUISOU"
      },
      {
       "tecnica": "Conflito",
-      "texto": "Douglas Santos admite sondagem do Flamengo em reta final de contrato com Zenit. Torcida empolgada de um lado, diretoria fazendo conta do outro.",
-      "thumb": "FLAMENGO x SANTOS"
+      "texto": "O Flamengo quer, mas do outro lado alguém está segurando. Essa queda de braço vai ter um perdedor.",
+      "thumb": "QUEM TEM RAZÃO?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Douglas Santos admite sondagem do Flamengo em reta final de contrato com Zenit. Parece um grande negócio. Olhando de perto, não é bem assim.",
+      "texto": "Todo mundo está comemorando essa negociação do Flamengo. Eu vejo um risco que ninguém está comentando.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
@@ -539,867 +1418,490 @@
    },
    "manchetes": [
     {
-     "titulo": "Revelado pelo Náutico, Douglas Santos revela sondagem do Flamengo: ‘Fico feliz’",
-     "fonte": "Diario de Pernambuco",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbUtjS0N1aldVUXpUdU1hSlhxYWJJX0ZzR3NMR1JkUVpucThlWWZwdTA4RlA4cTBXak1ITU5KQno4VGtpd0dXUjBldkJLX1NpdFJwcWpEVV9CY0hGdVlTdnRZTXU3VHlRVGg2MTdZWVJEcUIxYUd1Ny1Ocll0bzVDd2x4bDhHMjNVZDFfZDhDZlV5ZXpvb3J3dG1KOG1KdjZXYy03R3BYd0N6NzhMWGk2YllRN3YzcUxHWkJhRkJnSG1TX2pHV3diTnBqbDVzaGVwbjhiVUNnOTZVcVNacVpTdkhfNjRtZ3FoOWxPNg?oc=5"
+     "titulo": "Maranhense Wesley brinca e crava Douglas Santos no Flamengo: “Ele vai jogar”",
+     "fonte": "Imirante.com",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMTNlZG1zYy1YNTMtWF83UTlsMEh1N3FiTHo3ajBWNUh4T3Jid0l1YTBoNkZIRUdZYU5qZTFaSlJ1NDduXzJjcldYdW8tb0drRjNNTDZXeDRKUTFqdk5HSms5SG1Od2JiUzVQWlFjNlBVcV85SDUxX2lsd25RRjcwRF9JLUhUdE0wRi1vYTBTWmw5VGt5bE9WaXNjd3ZPdFdBTGF30gGoAUFVX3lxTFBkN2FBRThJVFM5eXVrTnM0c0RrdlczVTV0WG9iNlZoVzdNelV4YklUa0k2ZGRORkFMdmdPclRmMlFWZHVkTUZqQ2lhUEFTbllGLVN4ejI4OC0wLVhBNTdzd3FNYUhKbTF0Q21ZTHFrQXN5WWdmV3IwMWFRUTg0YnBZTlNSb3puRDU5QjVyeFF1elRWSVNlM1VOTUdZM2tNREhYYndLTWhGSg?oc=5"
     },
     {
-     "titulo": "Estável na Seleção, Douglas Santos fala de sondagens do Flamengo",
-     "fonte": "GE",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTlYQW9fV0VhdEJMNGZCdTZpMjJmX1VMT1ZaR09BRjVVVGItTWFMUEx3WEIzUzRUTXFvaEJwZXl5Yzl2TlFTZVRFb1B0dU5Vdm9jY1BWOXFjdDA3azNQYlNBcVNoTFR2ZC00VG5Ud0xSVEx0S21rN2xxWnNKdXVaS0FpUEQ4UjY0bDd5QkFqSGxNNmlMd3haZGNMRy1nZHpGM2lrWU10RTfSAbcBQVVfeXFMTWJGMXVlVWVlZHBva1ZrWjJRUTJLNkpGZTZQbGVrVkYxeVRmNkFRM0tnbS1ycGtDM2daZThmQ2JwUVRJNjJ0NjZKNlpWODdDQzNQRTh0bmNGNHBSWkhmbDBtRVp5RkFrZkhqOG4zZWVlZUhVa1FkbWl2SFVjbzhJM00yaXFlcVlkREFNYnA1UzBvRWVrZ093eXBkWW9ZaW83LTQ1bkdmTFhYMFJzWXVoRnVYN2RYM3U4?oc=5"
+     "titulo": "Em treino da seleção, Wesley brinca e ‘anuncia’ Douglas Santos no Flamengo",
+     "fonte": "PLACAR",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX0E3aUthMk9zUlE4QUZQRXZNOUI1ZENfSnF4aVYxbTZRRkgtNzRrUzNVVzl2eWwwTWx2ZEFnSG9TNUpqWmZmY0VQN0lYai0yckk0ekYwS3BOTzBxOERkN2ppWTZGMlBCM2hWSEtwWnU1QU4zejM2c2tqNnRaTi1CV0ktNURFMXRhRnpEcDdPWU9QQWpLRTMwRWxJZFB2eW5GY3BsSDlFX09DSGxOVkY4?oc=5"
     },
     {
-     "titulo": "Douglas Santos quebra o silêncio sobre interesse do Flamengo",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRjhOVG1kMV9fRVlPcWh6UHdRc0g1VldIclVmcl9DSUhuZUZ4ZEVjVi1MdGpleEU3LXdHUXlvcUpfVU9taTlCVW9jd1M2Y3RDQTVtTFd0N3BKVnFiQWVKRUFYRzhZNzI4aF9oZ0JQTzEtR0tXTVlwamg1R3MwQ3ZXUUMyVFI5ekZ1WGFZcjQydVJvNW1xLVJLNFJkZ1JGdFROVjRvaU94YWtUdXNGNllUTjlXUGxiNGd0ZlpZdkd1MkpHdkRNVlhFenFNbGhQOGdCUzBsNEkxekNSZ0dzR25qTWpLNA?oc=5"
+     "titulo": "Wesley entrega negociação de Douglas Santos: “Vai para o Flamengo”",
+     "fonte": "tmc.com.br",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUUJzbTNuVXZaemFNTC1CNXYyVG5OeTV3MFFOLWNuQnh4TXllUUNaSlozcUNJNmRFN3FzN3J1bTd3X1Ntd1NHVHlGYUFNR18zb2c1Tl9DRmV1ZGpWbmpRMXU0QktJejhXNmZTakJaSElWRjZRVzFxdnc4UUJ2Qlo3YWhjTERyOVFKb1F4bmk1ZHRWQ05Ba2c?oc=5"
     },
     {
-     "titulo": "Sondado pelo Flamengo, o lateral-esquerdo Douglas Santos vem acumulando bons números pelo Zenit. Confira as estatísticas do jogador na temporada 26/27: 16 jogos (9 como titular) 1 gol 1 assistência 87% de acerto nos passes (!) 39% de acerto nos cruz",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TcXIwUVNvTHVLZkRBNllqVWFSbGJ5Nk9OQ011OHhVc21MNHZTYzJvR2RvLXhFb0F0TE8zS253X3hfUjR1WncxcXdJdjdjM3hmSHc?oc=5"
+     "titulo": "Wesley brinca sobre futuro de Douglas Santos, lateral da Seleção: \"Ele vai para o Flamengo\"",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcms5NVNUMTNydUdTYmR5UnVRZ1ZZN0xlcm5GMzMwcjZETEIta3dPZUdYdm9Ga2tSaTItSWN6Mks5WmRaZkw4TC1oWnF4TkdOeVNyaVA3MURzWnBuVS1Wbi1IYzgxWmZwdk1RSndTX2JEemIyNUNWRU5XNnBCalROdUY2ZXdIRXFLYWpKZS1iRFk3ekJreFdqNDRqU1RIZVFkM3lYQzRPZGJub29rc3JudnNPVzdGWUdScnBSdlBUeVpJUDJhejIxcHdVbVp6cHgzb1pwQjFOaEJhVTFQUEk5YUtwYnZ5Q1U1Zkc3ddIB-wFBVV95cUxNVC1tTERMRGtIM1VYbHg2WDEzeEZ6dUd5eUFCX1dxaldMdHk5anhZQmtrS1dyMkNXaVp6NHFlZWtTc1pnZkQwUGhKdjRod2RYRkF5WGdmWVpEMXZqSzdKTjkzYWpyUXJGZmI4eC1RMlhhUm5DUTdScjFtSDhGSzVrZnVZS2ZwdUxvdmw5bmx2SzlUN2lTT0ZLSnVtOTczS0wzTE16aTBhaUZxQkxFakoySF9QTDVkODRfRmVZbWdWLWYyLWpEd005aTJLS2lFYm1CdHpuUFh1eHoxN0tRMzVDdVRZRVNTMXZtcF83Vi1zWVZUUk0zaG9QQU5xVQ?oc=5"
     },
     {
-     "titulo": "Douglas Santos no Flamengo? Veja números do lateral da Seleção Brasileira no Zenit",
-     "fonte": "Sofascore",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcnRBRWpiMUxKY1JTb0UzYWZoSVMxcmkwcmloQWI1RFgzTmlJcEhxNkRITXhreUVhaUEyeElQLXNobGZBOGlPb1RwbXpLY0diTkt1Vm9yRnVCamlOZW5yZnNxWlR1M2xHcU1BT1otMjd2U1Nwc2tydGNHcnZOZTNyUmlieGUwaElGaWc?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "Xq2jLXnBqIQ",
-      "titulo": "MENGÃO FOI ATRÁS DE LATERAL NA RÚSSIA 🔴⚫ #Shorts",
-      "canal": "GarageMengao",
-      "views": 812,
-      "likes": 28,
-      "comentarios": 0,
-      "publicado": "2026-11-12T12:27:09Z",
-      "duracao_s": 72,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Xq2jLXnBqIQ"
-     },
-     {
-      "id": "8piIk5wtiz0",
-      "titulo": "Douglas Santos admite sondagem do Flamengo em reta final de contrato com Zenit",
-      "canal": "Alex Sá FLA Oficial",
-      "views": 811,
-      "likes": 46,
-      "comentarios": 1,
-      "publicado": "2026-11-12T14:45:41Z",
-      "duracao_s": 74,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=8piIk5wtiz0"
-     },
-     {
-      "id": "tcjEvXQaQIw",
-      "titulo": "DOUGLAS SANTOS CONFIRMA SONDAGENS DO FLAMENGO! 🔴⚫🔥 \"MINHA FAMÍLIA É FLAMENGUISTA!\" #Shorts",
-      "canal": "QsportsBR",
-      "views": 300,
-      "likes": 21,
-      "comentarios": 0,
-      "publicado": "2026-11-12T15:20:51Z",
-      "duracao_s": 78,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=tcjEvXQaQIw"
-     },
-     {
-      "id": "1ZmbvmXIL2U",
-      "titulo": "FLAMENGO TEM INTERESSE EM DOULGAS SANTOS, LATERAL DA SELEÇÃO E DO ZENIT; ENTENDA SONDAGEM",
-      "canal": "UOL Esporte",
-      "views": 247,
-      "likes": 24,
-      "comentarios": 1,
-      "publicado": "2026-11-12T17:32:12Z",
-      "duracao_s": 1345,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=1ZmbvmXIL2U"
-     },
-     {
-      "id": "7uWZmTQScKw",
-      "titulo": "DOUGLAS SANTOS NO  MENGÃO? CRAQUE DA SELEÇÃO CONFIRMA SONDAGEM! #flamengo #noticias #flahub #futebol",
-      "canal": "FLAHUB ",
-      "views": 210,
-      "likes": 11,
-      "comentarios": 0,
-      "publicado": "2026-11-12T12:15:19Z",
-      "duracao_s": 146,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=7uWZmTQScKw"
-     },
-     {
-      "id": "XB7hgVYAKG4",
-      "titulo": "Douglas Santos admite: \"O Flamengo vinha conversando\" | Lateral da Seleção em 2027? #shorts",
-      "canal": "Futebol Arte ⚽ Polêmicas",
-      "views": 170,
-      "likes": 9,
-      "comentarios": 0,
-      "publicado": "2026-11-12T11:42:25Z",
-      "duracao_s": 87,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=XB7hgVYAKG4"
-     },
-     {
-      "id": "vCflO7O4opA",
-      "titulo": "EM ALTA: Douglas Santos confirma sondagem do Flamengo para retorno ao futebol brasileiro #Shorts",
-      "canal": "katavNews",
-      "views": 3,
-      "likes": 0,
-      "comentarios": 1,
-      "publicado": "2026-11-12T12:56:31Z",
-      "duracao_s": 32,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=vCflO7O4opA"
-     },
-     {
-      "id": "XNGoX4jQSgU",
-      "titulo": "FLAMENGO ATENTO NO MERCADO DE TRANSFERÊNCIAS l DOUGLAS SANTOS DO ZENIT ADMITE SONDAGEM DO FLAMENGO",
-      "canal": "Canal do Emershow",
-      "views": 0,
-      "likes": 9,
-      "comentarios": 0,
-      "publicado": "2026-11-12T17:18:31Z",
-      "duracao_s": 0,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=XNGoX4jQSgU"
-     },
-     {
-      "id": "czPyeiOXRUQ",
-      "titulo": "Douglas Santos recibe sondaje del Flamengo mientras está en Zenit #Shorts #Oportunidades #Familia",
-      "canal": "En un Clip Curioso",
-      "views": 0,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-11-12T13:16:07Z",
-      "duracao_s": 67,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=czPyeiOXRUQ"
-     }
-    ],
-    "consulta": "Flamengo Douglas sondagem Zenit",
-    "n_videos": 9,
-    "mais_de": false,
-    "views": 2553,
-    "top": [
-     {
-      "titulo": "MENGÃO FOI ATRÁS DE LATERAL NA RÚSSIA 🔴⚫ #Shorts",
-      "canal": "GarageMengao",
-      "views": 812,
-      "url": "https://www.youtube.com/watch?v=Xq2jLXnBqIQ",
-      "publicado": "2026-11-12T12:27:09Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "Douglas Santos admite sondagem do Flamengo em reta final de contrato com Zenit",
-      "canal": "Alex Sá FLA Oficial",
-      "views": 811,
-      "url": "https://www.youtube.com/watch?v=8piIk5wtiz0",
-      "publicado": "2026-11-12T14:45:41Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "DOUGLAS SANTOS CONFIRMA SONDAGENS DO FLAMENGO! 🔴⚫🔥 \"MINHA FAMÍLIA É FLAMENGUISTA!\" #Shorts",
-      "canal": "QsportsBR",
-      "views": 300,
-      "url": "https://www.youtube.com/watch?v=tcjEvXQaQIw",
-      "publicado": "2026-11-12T15:20:51Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Flamengo vence Serrano em jogo-treino no Ninho do Urubu",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Flamengo"
-   ],
-   "foco": true,
-   "nota": 76.1,
-   "sinais": {
-    "busca": 35,
-    "aceleracao": 94,
-    "midia": 67,
-    "aderencia": 100,
-    "youtube": 45
-   },
-   "fator_categoria": 1.142,
-   "trafego_google": 0,
-   "busca_torcedor": "flamengo x athletico-pr",
-   "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 4,
-   "assinatura": "flame|urubu|ninho|jogo-",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Flamengo passa a vender tour do Ninho do Urubu por R$ 2 mil e. Guarda esse número, porque ele muda a conversa sobre o Flamengo.",
-    "titulo_thumb": "R$ 2 MIL",
-    "pergunta_enquete": "Qual sua opinião: Flamengo vence Serrano em jogo-treino no Ninho do Urubu?",
-    "tecnica": "Dado",
-    "ganchos": [
-     {
-      "tecnica": "Dado",
-      "texto": "Flamengo passa a vender tour do Ninho do Urubu por R$ 2 mil e. Guarda esse número, porque ele muda a conversa sobre o Flamengo.",
-      "thumb": "R$ 2 MIL"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Flamengo vence Serrano em jogo-treino no Ninho do Urubu. Dentro de campo acabou. Fora dele, a discussão está só começando.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Flamengo vence Serrano em jogo-treino no Ninho do Urubu. O placar diz uma coisa. O jogo, visto de perto, diz outra.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Flamengo vence Serrano em jogo-treino no Ninho do Urubu. Foi mérito de quem venceu ou erro de quem perdeu?",
-      "thumb": "E AGORA, FLAMENGO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Flamengo vence Serrano em jogo-treino no Ninho do Urubu. Minha aposta: depois desse jogo, [SEU PALPITE]. Me cobra depois.",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "O elenco do Flamengo realizou, na manhã desta quinta-feira (12), mais um treinamento no CT Ninho do Urubu, dando sequência à preparação para o duelo contra o Athletico-PR, marcado para a próxima quarta-feira (18), no Maracanã. Leonardo Jardim ve",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92SFV1UTdsRWxwRmt0aWZ2OWZBcFRMX0NKU1BMZG1YSndPRjRzYk5uNVA2bXBkUUotc2xNcS1ESGQ0ZElreXBFTGRkY1FXRkRyT2c?oc=5"
-    },
-    {
-     "titulo": "Flamengo passa a vender tour do Ninho do Urubu por R$ 2 mil e encontro com Zico por R$ 2,5 mil",
-     "fonte": "GE",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPU0ZGSm14cUR3X2g2czlfR0FXQmQtbnliYjlZUk1LMFRINE01U3lMdGhLX2t6VDQ0ZmNjWENmOWE1LWRjQkNUZTBQUVp1a01HR1QxOGxfMVQ5RGo5MFdNVElhY3hQTkNZNENCUWV3S1p1NkdlRmxMQjByQUdpZUV2QWRETnF4NUdRVHUweDZxbVZQc1d5eXdPSS1RYjdNZUJFWWczNGZrVUZKQ3BxWE1TQWdHa1U5VlRGaVRGX3lrc0Q4RFV2NHJvMVF5dEVFQ1J6dEkyR2h5VTJOQ3F1aDFMcFgzSWNTc09kdHRPd3NOV0Z5QdIBgAJBVV95cUxNRjMzZlZ2SEVMazB2NldpY0J4YmJ5M1Z4WDJmRE5MeERIYzFtbGF4WjdOcnM3TEl5Zm94c0NiY2w3eVhGWGNxcUFjaHp5MENCeDlXcXZhLTlRWGtLTTZJT2s1RzhEWG1EVV94Mzl2QlZ2UmRjWXVoalZfbUx1M2tNNmJxSGFCUTNBdzFwVm85ZjBGVmszWE9wbjNwajJDelpvdG5Ncy1FSmRDeEV4SXNLeFNaa25UeHJNY3prTTJzRnM2cExOU2l4NjY2cnZ2LXNWRG53Skp6N01wb3hiMFZvbFEwb0JORjRlNXVFdnFKam40Y1Y2dE96cHdldXdEVGkt?oc=5"
-    },
-    {
-     "titulo": "Flamengo vence Serrano em jogo-treino no Ninho do Urubu",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMndVeEtFS2ZwZTk5WUNNNkFsZnF2M3N5bHRkZm1lY3ZsclJ0RFpvZXY3VzRqM203NjBnSzEtWFpKS2phbk1DU1JwLXlrS2lLNHZCM3lQUndFZk9vZHJMdVJXM0pyMEhvelN2cW9WRGZUOV9Wam0tN1pMdHhickRXVjhHS2hQS3lhOHRjTHE3MDgzQ2V6S2tVSTF5a2RFTE5ZUkl3eTRxUUk5dTc2NkhMYjhJZ3JiRFpYU2lxbU9xZUFVVDRG?oc=5"
-    },
-    {
-     "titulo": "Flamengo vence jogo-treino durante Data-Fifa; veja como foi",
+     "titulo": "Wesley diz que Douglas Santos vai jogar no Flamengo",
      "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVFR4WC1oVXJ2QlNsZ3I4cktpTmV0Q3Z3RWRtVDZ0eGpOYjM4bWc1eWNkU2gzdW5NNi1TQnJlZEIySTROZjhuLWJ0QjBZRUMxR3dWVWFibDZvY0RseDRvdTY4d1JvWW93bFRxdXNXUndxemFSdktqYkE5ZGE1cXpGMlJVQkJfckxaRlg3QWZyUy1kYkJHaWNKMkZ3?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzdveXNqZEhuOE14c0hkbkJuLVBNYWwtbVZxdGpfYml4WkViTUZXcWhlZ1g5dDFLZ05laFRMRk5WbnJIVkNDZENvRDNncVhnT2djTjRLMUUycU5jNTBlbFhTZW84alYtOElIZnU3UjE4TEhDcERhd2UtU010N3pMMW5UNFkwaWZoTGI2eGpxbUFZMXBNdG5JLUtQcHcyQUoyT0pfeVhIZ0lzLWhaQjh5S2ZtMnYzMmF1WkN6SVRzdFN2LXR0Tnc?oc=5"
     }
    ],
    "youtube": {
-    "amostra": [
-     {
-      "id": "b62pIYpfwjA",
-      "titulo": "Flamengo encaminha renovação de Léo Pereira até 2029 e goleia em jogo-treino no Ninho do Urubu",
-      "canal": "Notícias do Fla",
-      "views": 910,
-      "likes": 9,
-      "comentarios": 0,
-      "publicado": "2026-11-11T22:19:01Z",
-      "duracao_s": 76,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=b62pIYpfwjA"
-     },
-     {
-      "id": "wrLa2KS5B-o",
-      "titulo": "🚨 FLAMENGO FAZ 5 A 1! Jardim testa o time e DANILO avança",
-      "canal": "Setorista RN",
-      "views": 3,
-      "likes": 1,
-      "comentarios": 0,
-      "publicado": "2026-11-12T11:00:02Z",
-      "duracao_s": 477,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=wrLa2KS5B-o"
-     }
-    ],
-    "consulta": "Flamengo Ninho Urubu jogo-treino",
-    "n_videos": 2,
+    "amostra": [],
+    "consulta": "Flamengo Douglas Wesley brinca",
+    "n_videos": 0,
     "mais_de": false,
-    "views": 913,
-    "top": [
-     {
-      "titulo": "Flamengo encaminha renovação de Léo Pereira até 2029 e goleia em jogo-treino no Ninho do Urubu",
-      "canal": "Notícias do Fla",
-      "views": 910,
-      "url": "https://www.youtube.com/watch?v=b62pIYpfwjA",
-      "publicado": "2026-11-11T22:19:01Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "🚨 FLAMENGO FAZ 5 A 1! Jardim testa o time e DANILO avança",
-      "canal": "Setorista RN",
-      "views": 3,
-      "url": "https://www.youtube.com/watch?v=wrLa2KS5B-o",
-      "publicado": "2026-11-12T11:00:02Z",
-      "do_canal": false
-     }
-    ]
+    "views": 0,
+    "top": []
    }
   },
   {
-   "tema": "CEO da Cimed nega interesse na presidência do Palmeiras e mira patrocínio em 10 times da Série A",
-   "categoria": "Finanças e gestão",
-   "clubes": [
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 69.4,
-   "sinais": {
-    "busca": 70,
-    "aceleracao": 78,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": 43
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "cimed dono",
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "palme|presi|cimed|inter",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "Patrocinador nega interesse em presidir o Palmeiras após Leila e mira novos clubes no Brasil. Nessa conta, tem quem ganha e tem quem paga, e não é a mesma pessoa.",
-    "titulo_thumb": "QUEM TEM RAZÃO?",
-    "pergunta_enquete": "Qual sua opinião: CEO da Cimed nega interesse na presidência do Palmeiras e mira patrocínio em 10 times da S?",
-    "tecnica": "Conflito",
-    "ganchos": [
-     {
-      "tecnica": "Conflito",
-      "texto": "Patrocinador nega interesse em presidir o Palmeiras após Leila e mira novos clubes no Brasil. Nessa conta, tem quem ganha e tem quem paga, e não é a mesma pessoa.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Patrocinador nega interesse em presidir o Palmeiras após Leila e mira novos clubes no Brasil. A manchete conta uma parte. A outra parte está nos números.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Patrocinador nega interesse em presidir o Palmeiras após Leila e mira novos clubes no Brasil. Quem paga essa conta no fim: a diretoria ou o torcedor?",
-      "thumb": "E AGORA, PALMEIRAS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Patrocinador nega interesse em presidir o Palmeiras após Leila e mira novos clubes no Brasil. Minha aposta: [SEU PALPITE]. Volta aqui daqui a um mês e me cobra.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "“cimed dono”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Patrocinador nega interesse em presidir o Palmeiras após Leila e mira novos clubes no Brasil",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT0ZNdmlnTkJqci1mOTYyUzAxUFp2dllyVncxSXJZRHJvaXJ5ZWRYcnFSX18yQWk0MnBvOUFVVVNWZ0xQT2tRYnJWbUc1ekxsTHlHRF9JbzFFWXRmYkN6VlRsZUwxZkd2U3pmWVNOQjBRTDJTZTZVWW1rSlQ0bmxPaTkzTTQzNi1uMFdPb3ZnZGdxa3lOcnN5YVdtS1B6VXVoQTZsU3hmZ21FTnhhdTk3QTU3WENRTXplckdIaW93bFE2MkVJRkp4aklYWXg?oc=5"
-    },
-    {
-     "titulo": "CEO da Cimed nega interesse na presidência do Palmeiras e mira patrocínio em 10 times da Série A",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pekFIMVN1dDY2Z2c3dWZJNFp2TkJaZ3UtZzdfS1lnQmxtRE1TNkNDRUVLUExlYlJsM0ROT3U4WUhYd0VHbzRxNjcwMDNqZllfcGpXMjIwS082YWpPRnVvVXlHUHM5bFE?oc=5"
-    },
-    {
-     "titulo": "João Adibe, dono da Cimed, é direto sobre ser presidente do Palmeiras",
-     "fonte": "Rádio Itatiaia",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOY180YzdLMU1Yb3VWV0p2SzVuOG1WWHVJd0VxYm9qZjVIVmlvQktHeS1neVFNam5UQUp0b1QyMzJTNHJZMm1vWWp2ZVJRWHlrZGozbWJ5VHB3UlFxRzdjN3NSU1ozU0NQVlVwei1ITkE5bVVldGdzYkw5cXJMcjh1WWIxaUpmN1dYbVRDcHVhMXNveVlTdGNCSVBZd2M1bmo1UjM0cU1tRDFVbXI1YVdpVExqZGYzZnd0OVpiUTUyVWhNUlZVV0x6TnFtM056cVdYRDlwd25yd2NDdjl3SkpJdnlubnNUTk13VFJLb2Y2TQ?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "PW2-CmB_b2E",
-      "titulo": "PATROCINADOR DO PALMEIRAS BATEU NA PORTA DO FLAMENGO 😳 #Shorts",
-      "canal": "GarageMengao",
-      "views": 980,
-      "likes": 47,
-      "comentarios": 0,
-      "publicado": "2026-11-11T01:04:18Z",
-      "duracao_s": 56,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=PW2-CmB_b2E"
-     }
-    ],
-    "consulta": "Palmeiras Cimed presidência patrocínio",
-    "n_videos": 1,
-    "mais_de": false,
-    "views": 980,
-    "top": [
-     {
-      "titulo": "PATROCINADOR DO PALMEIRAS BATEU NA PORTA DO FLAMENGO 😳 #Shorts",
-      "canal": "GarageMengao",
-      "views": 980,
-      "url": "https://www.youtube.com/watch?v=PW2-CmB_b2E",
-      "publicado": "2026-11-11T01:04:18Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Corinthians paga salários atrasados do elenco feminino e mantém dívida com masculino",
-   "categoria": "Finanças e gestão",
+   "tema": "Corinthians busca reduzir suspensão de Yuri Alberto em julgamento no STJD",
+   "categoria": "Polêmica e bastidor",
    "clubes": [
     "Corinthians"
    ],
    "foco": true,
-   "nota": 69.2,
+   "nota": 63.9,
    "sinais": {
     "busca": 0,
-    "aceleracao": 75,
+    "aceleracao": 78,
     "midia": 100,
     "aderencia": 100,
-    "youtube": 96
+    "youtube": 66
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
    "busca_torcedor": null,
    "termos_trends": [],
-   "n_fontes": 11,
-   "n_manchetes": 12,
-   "assinatura": "corin|salar|paga|atras",
+   "n_fontes": 10,
+   "n_manchetes": 11,
+   "assinatura": "alber|yuri|corin|suspe",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "Corinthians paga salários atrasados do elenco feminino e mantém dívida com masculino. Parece só uma questão de dinheiro. Não é: isso chega no campo.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Corinthians paga salários atrasados do elenco feminino e mantém dívida com masculino?",
-    "tecnica": "Contradição",
+    "gancho": "Corinthians busca reduzir suspensão de Yuri Alberto em julgamento no STJD. Por trás disso, tem dois lados que não querem a mesma coisa.",
+    "titulo_thumb": "QUEM TEM RAZÃO?",
+    "pergunta_enquete": "Qual sua opinião: Corinthians busca reduzir suspensão de Yuri Alberto em julgamento no STJD?",
+    "tecnica": "Conflito",
     "ganchos": [
      {
+      "tecnica": "Conflito",
+      "texto": "Corinthians busca reduzir suspensão de Yuri Alberto em julgamento no STJD. Por trás disso, tem dois lados que não querem a mesma coisa.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
       "tecnica": "Contradição",
-      "texto": "Corinthians paga salários atrasados do elenco feminino e mantém dívida com masculino. Parece só uma questão de dinheiro. Não é: isso chega no campo.",
+      "texto": "Corinthians busca reduzir suspensão de Yuri Alberto em julgamento no STJD. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Corinthians paga salários atrasados do elenco feminino e mantém dívida com masculino. De onde vai sair esse dinheiro?",
+      "texto": "Até onde essa história do Corinthians vai chegar?",
       "thumb": "E AGORA, CORINTHIANS?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Eu aposto que essa conta chega no elenco do Corinthians ainda nesta temporada. Você aposta em quê?",
+      "texto": "Corinthians busca reduzir suspensão de Yuri Alberto em julgamento no STJD. Eu aposto que [SEU PALPITE]. Se eu acertar, você me deve um like.",
       "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "3 meses. Esse é o número da semana no Corinthians, e eu vou te mostrar por quê.",
-      "thumb": "3 MESES"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Corinthians paga salários atrasados do elenco feminino e mantém dívida com masculino. Dinheiro de um lado, time do outro: alguma coisa vai ter que ceder.",
-      "thumb": "QUEM TEM RAZÃO?"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Corinthians quita parte dos salários, mas mantém atrasos com jogadores",
-     "fonte": "Times Brasil | CNBC",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzByZDhXLTVteXFobGFzOWVCT1pGRWhjQWN3MGFGeDE4bWdnSm1fOFFtTlFRWFkxcUFOZEtNTmp3SVhOM2dJZW1iazFxdnZuSnNjYkdNVmU3YzNBZTZRRW1JSzdFMWdubndVWkJrdzVyWXlRT3U4T1dEWGhqYVFvdlc4MmlINmNhWkFZY0p0eF9JcFRsN2stWFRrUklSY2c?oc=5"
+     "titulo": "Corinthians: STJD define nova data para julgamento de Yuri Alberto",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZEtZTGM3elR1M3JGRWdLaW5iREZGeTlRVm9Cd0tEeS1XREc0Sl9ZVVpHQjNTOTlBTFAtQXljanVYUzRUZnJmMHd4cndoTW54a1FMYS1KS1huMXIxeVpPZGVEbkhQaDJlczZ1YUt2R3JhN2VXRzd0YTlCTXFLOFlaOEZ0UndoMWxxQ3YtZVlRX1JtdHU3RW1kR2ZGeXdmN2N4ZVExWmhwZmZ0dVdyV2pnMjhfUnRFb0FqcVhveUZMYlVRS3pMaUNUZV9VbklGNThVSUlybjFzeVQ4d3BUYU5FUERPanNPRE5mSEhGalNB?oc=5"
     },
     {
-     "titulo": "Corinthians acerta salários da comissão, mas segue em débito com o elenco",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTFZ5cVR2MlYxU1RQX1dHb2loWXJwd2VNN1o5b0lxcVZlREZzS0o5eS0zUGRTMTExcTRUY1RzSVhPMzVDS1hvRzQtbjJZSGJNNWMzX2UxZEIyeTlfV0hJdXpSSXVXSEZ5RjZqVzFxbjFfb3RyVllyRWo4YXlyRDVNdXY2Nl9xS2NaQk1CTXgwcUFpemNCbVgzYV85WTc5SFROZ1hQU1JTcnpfOHpGUmFvYVV1VHhSdTJoSXF4bEowaW1Yb3FhNzVIUThLMA?oc=5"
+     "titulo": "Corinthians recorre para reduzir suspensão de Yuri Alberto; entenda",
+     "fonte": "Esporte",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTXI0blkyb05IbmlTSkpmcWVFWUp1RFZHeDFicTFaTExGWG9GZnljb0RtVWE4XzdkNTVtM1ZHMDd1TkE3dEIzbk1ROUQ5Ym9sdHltaHRKRVdzX3JVOE1IYWFlUUZmUnY4SktKc2F5VHJOeFhwSEJ4Q0dqcEZ4TWR3ZEQ2dTE3STFyV2VRdzNlODk1V25RNFBWTDhvU283Ym5sOGRlTGpiSUZucENVVGNEVXpTQk1XSVFPbkcwUC1HTXBSNGM?oc=5"
     },
     {
-     "titulo": "Corinthians paga comissão técnica e time feminino; jogadores ainda têm salários atrasados",
-     "fonte": "Estadão",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObkFuclZtYUVKa1JqU2NjX0FobHV4WVVsTVBWT0hnWkZKNnpPRENZN2VrRERweEIwS2JobHdxNFVEWlB1Sy1LOTdoYXhndGRhc2tuaVZvSFR6R1ozZzNLdmVZTm1iWTQydGM4enJRcDNiMk03Ymd2SUhycFZnVVpEekJoZ1BldE1TamFCSEUyS3dkOXZ1VFB4N0hBYmxKR2JQVTVGWmZPUE9jMldGRndkbFpCMkNqSm5Gai15QTVFWnR0SkRLZlRDM3ZpUHlHVkZrb3RZM2xpOXFsQU5PUkJZQg?oc=5"
+     "titulo": "STJD marca julgamento de Yuri Alberto, e Corinthians pode perder artilheiro na luta contra a degola",
+     "fonte": "365Scores",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYVl4cDFyOGlDdFBRV08zTGJIeWVwS1RtWGVlM3FFOTVyZ1BCVlA4SmUxekJFcnM0VjByNHBBOUxFNHhqMzRBSUNBdjRZMG5LeGFzSi1HdGJPWE1RbEZBZ21JUXh5TTVhQjlwOEF5SHU4b08ybHY1YzBXclpnU2VKTnJLSGkzM0VG?oc=5"
     },
     {
-     "titulo": "Corinthians quita salários do time feminino, mas mantém pendências com masculino",
-     "fonte": "Revista PLACAR",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVV82U3JOM3JJYTA0N2RtSkEyZXJfSG41WnVGbElGMExKdmp2RHVoczlNMmVFaWV0dS1XZ1Vkb2gwTURtbHpZald5RzB2NW9WUWk0bnNFMkFDZXJOTDJQVndQRi1RZzhBVkU4MW9ZU00yRERlek50TGF3bVl0NDl5N2QtNDRqRFNhNmNkbmVicFdEWnhvdVMxaFRvZHNUZTFSR0Z3MC05RkdHcUZUZ25hZWFfbDBLZlozeHhv?oc=5"
+     "titulo": "Corinthians busca reduzir suspensão de Yuri Alberto; veja detalhes",
+     "fonte": "R7 Esportes",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQemVKSTRiQjBHMnB6WVAzUzFwVzFYQUo3Q01rTUpwS0c2ZFF6TDExeDhpVFE4Y0diS3JDRzdaMU0yMm9ZUk9QdDhndGtlU3NWRnpKUlEzVEJtWnFJRkRsVjZWYzRoeGxLb3pOWUZQM3VLalppYkFQVTBNRDktTlc5S3ZSc09OazdtcUprUU1KdEtLU1E4YVZJMzJDNVE3VUw1YlRFWWJKUE0?oc=5"
     },
     {
-     "titulo": "Corinthians quita salários atrasados do time feminino, mas mantém débito de 3 meses com o masculino",
-     "fonte": "Portal ABC do ABC",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96X20wZXRFaG1VbzFpOWxDakxGYkJzcUctaGRzRzBydkQzbXN3X1l0UUNjVElLTGZtZXZaMks3QjJac3NvVXJWUEdGTno1U1RzY2NrLVJjbk5TVTdLTC0zZ19lVmVLQWR6d2NYTGtRYTcyREU?oc=5"
+     "titulo": "STJD marca julgamento de recurso do Corinthians em caso de Yuri Alberto",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUlVLdUYyMkRxSkI0eDRQSVVMaV82Y3FHMng1UDVvbF9UNlZqUGZjR0Ywd1dtR3dGM1RzTnFVNGYtd2tHdHE2ZnFOMHJYZnNNOFcxckQ1WE02cHBuV042TWVXb0E3Tkh1OGxwX0gzR090aFIxM20xclgyaWFxV0hvWWgzVDBBeUFwZG9ubWk3QnZxX3p0X0dFMHJCZ04tTkxqUDQ5bFViYzlHbVJNLWZXdGN6SQ?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "U-D5xVN4ZWM",
-      "titulo": "BOMBA AGORA A NOITE!! RESCISÃO NA FIFA! POR ATRASO DE SALÁRIOS! GARRO SOLTA BOMBA!",
-      "canal": "VAI CORINTHIANS TV",
-      "views": 142632,
-      "likes": 631,
+      "id": "mxv9vHS7WOw",
+      "titulo": "STJD CONFIRMA JULGAMENTO DE RECURSO DO CORINTHIANS PARA REDUZIR PENA DE YURI ALBERTO | BASE VOANDO!",
+      "canal": "Meu Timão",
+      "views": 3640,
+      "likes": 369,
       "comentarios": 0,
-      "publicado": "2026-11-10T20:16:21Z",
-      "duracao_s": 42900,
+      "publicado": "2026-11-13T18:06:24Z",
+      "duracao_s": 3991,
       "live": true,
-      "url": "https://www.youtube.com/watch?v=U-D5xVN4ZWM"
+      "url": "https://www.youtube.com/watch?v=mxv9vHS7WOw"
      },
      {
-      "id": "3bqP37EoAqM",
-      "titulo": "CORINTHIANS: ELENCO IRRITADO E SUMIÇO DE STABILE; ABEL MUDA PALMEIRAS? NEYMAR PAI NA MIRA DA FIFA?",
-      "canal": "UOL Esporte",
-      "views": 91463,
-      "likes": 4484,
-      "comentarios": 25,
-      "publicado": "2026-11-12T13:07:04Z",
-      "duracao_s": 5791,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=3bqP37EoAqM"
-     },
-     {
-      "id": "slivARJoWxU",
-      "titulo": "SALÁRIOS ATRASADOS são O MOTIVO para ELENCO DESMOTIVADO do CORINTHIANS?",
-      "canal": "Cortes Podpah [OFICIAL]",
-      "views": 88588,
-      "likes": 1353,
-      "comentarios": 52,
-      "publicado": "2026-11-12T00:00:34Z",
-      "duracao_s": 1579,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=slivARJoWxU"
-     },
-     {
-      "id": "62FoZFbfjUY",
-      "titulo": "JOGADORES DO CORINTHIANS, APERTEM O CINTO QUE O PRESIDENTE SUMIU; CASÃO IRONIZA AUSÊNCIA DO STABILE",
-      "canal": "UOL Esporte",
-      "views": 28954,
-      "likes": 616,
-      "comentarios": 87,
-      "publicado": "2026-11-12T12:27:46Z",
-      "duracao_s": 1441,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=62FoZFbfjUY"
-     },
-     {
-      "id": "phBRZjCMIE4",
-      "titulo": "\"SÓ FALTAVA ESSA!\": Galvão se revolta com salários atrasados no Timão! #corinthians",
-      "canal": "Corinthians Fut Gols",
-      "views": 27065,
-      "likes": 576,
-      "comentarios": 3,
-      "publicado": "2026-11-10T22:00:03Z",
-      "duracao_s": 28,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=phBRZjCMIE4"
-     },
-     {
-      "id": "YxDwIbFeeOw",
-      "titulo": "Memphis, reforços, salários atrasados, Garro, Seedorf, Paulistão 2027...",
-      "canal": "Canal do Vessoni",
-      "views": 23603,
-      "likes": 1146,
-      "comentarios": 42,
-      "publicado": "2026-11-11T17:00:27Z",
-      "duracao_s": 1684,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=YxDwIbFeeOw"
-     },
-     {
-      "id": "sviuCJupZf8",
-      "titulo": "DIREÇÃO DO CORINTHIANS PODE TER ACABADO DE DECRETAR O REBAIXAMENTO DO TIME",
-      "canal": "Rica Perrone",
-      "views": 21557,
-      "likes": 991,
-      "comentarios": 62,
-      "publicado": "2026-11-12T14:02:04Z",
-      "duracao_s": 703,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=sviuCJupZf8"
-     },
-     {
-      "id": "A3Efbu9ZN18",
-      "titulo": "JULIO CESAR FALA SOBRE OS SALÁRIOS ATRASADOS DO CORINTHIANS E EVITA DAR PRAZO PARA OS JOGADORES",
-      "canal": "Meu Timão",
-      "views": 17903,
-      "likes": 601,
-      "comentarios": 18,
-      "publicado": "2026-11-11T00:48:09Z",
-      "duracao_s": 44,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=A3Efbu9ZN18"
-     },
-     {
-      "id": "T_GrFw4U5o0",
-      "titulo": "REUNIÃO DO ELENCO DO CORINTHIANS: DONOS COMENTAM OS BASTIDORES",
-      "canal": "Os Donos da Bola",
-      "views": 17713,
-      "likes": 210,
-      "comentarios": 4,
-      "publicado": "2026-11-11T16:29:12Z",
-      "duracao_s": 296,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=T_GrFw4U5o0"
-     },
-     {
-      "id": "1139FGFsCD0",
-      "titulo": "CONVERSA COM CARRILLO E MATHEUS PEREIRA, SALÁRIOS ATRASADOS E MAIS: ZONA MISTA DE JÚLIO CÉSAR",
-      "canal": "Meu Timão",
-      "views": 16443,
-      "likes": 359,
-      "comentarios": 23,
-      "publicado": "2026-11-11T00:52:39Z",
-      "duracao_s": 849,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=1139FGFsCD0"
-     },
-     {
-      "id": "7hMUKJK3h5w",
-      "titulo": "CORINTHIANS TRATOU FALAS DE CARRILLO INTERNAMENTE | JÚLIO CÉSAR FALA DE SALÁRIOS ATRASADOS",
-      "canal": "Meu Timão",
-      "views": 15514,
-      "likes": 419,
+      "id": "MGmUmdrZVrk",
+      "titulo": "QUEM DEVE SER O SUBSTITUTO DE YURI ALBERTO?",
+      "canal": "Golaço Informa",
+      "views": 1295,
+      "likes": 34,
       "comentarios": 1,
-      "publicado": "2026-11-11T18:16:45Z",
-      "duracao_s": 4555,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=7hMUKJK3h5w"
-     },
-     {
-      "id": "QrzZaXuPHMA",
-      "titulo": "Corinthians: Risco de penhora de R$ 10 mi, salários atrasados e luta contra a Série B",
-      "canal": "Rádio Bandeirantes",
-      "views": 13324,
-      "likes": 323,
-      "comentarios": 15,
-      "publicado": "2026-11-12T00:14:09Z",
-      "duracao_s": 126,
+      "publicado": "2026-11-13T01:45:10Z",
+      "duracao_s": 88,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=QrzZaXuPHMA"
+      "url": "https://www.youtube.com/watch?v=MGmUmdrZVrk"
      },
      {
-      "id": "g3w3Czl2cvQ",
-      "titulo": "CORINTHIANS PAGA SALÁRIOS ATRASADOS, MAS…",
-      "canal": "Meu Timão",
-      "views": 11949,
-      "likes": 540,
-      "comentarios": 5,
-      "publicado": "2026-11-12T15:05:20Z",
-      "duracao_s": 3598,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=g3w3Czl2cvQ"
-     },
-     {
-      "id": "XM4XqwIBfs8",
-      "titulo": "JÚLIO CÉSAR COMENTA SOBRE SALÁRIOS ATRASADOS | CORINTHIANS CONHECE ADVERSÁRIOS PARA O PAULISTÃO 2027",
-      "canal": "IDENTIDADE CORINTHIANA",
-      "views": 8667,
-      "likes": 618,
-      "comentarios": 5,
-      "publicado": "2026-11-11T17:16:02Z",
-      "duracao_s": 6413,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=XM4XqwIBfs8"
-     },
-     {
-      "id": "Zr7ICKE4Xgk",
-      "titulo": "Chico Garcia: \"Corinthians é um paciente com infecção generalizada\"",
-      "canal": "Jogo Aberto",
-      "views": 8249,
-      "likes": 243,
-      "comentarios": 7,
-      "publicado": "2026-11-11T15:36:05Z",
-      "duracao_s": 114,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Zr7ICKE4Xgk"
-     },
-     {
-      "id": "DyYnRQ8BZaY",
-      "titulo": "SALÁRIOS ATRASADOS DO ELENCO MASCULINO E FEMININO! DEBATE PRESIDENCIAL! ADVERSÁRIOS NO PAULISTA 2027",
-      "canal": "Vai Timão",
-      "views": 7900,
-      "likes": 414,
-      "comentarios": 40,
-      "publicado": "2026-11-10T23:29:29Z",
-      "duracao_s": 1007,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=DyYnRQ8BZaY"
-     },
-     {
-      "id": "EbWKynNhFLY",
-      "titulo": "🚨NOTÍCIA QUENTE NO CORINTHIANS!!PROPOSTA DOBRADA E RISCO DE DEBANDADA NO TIMÃO!SALAZAR TEM NOVIDADES",
-      "canal": "ESPORTE CORINTHIANS AGORA",
-      "views": 7705,
-      "likes": 107,
-      "comentarios": 5,
-      "publicado": "2026-11-11T17:50:18Z",
-      "duracao_s": 1111,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=EbWKynNhFLY"
-     },
-     {
-      "id": "3VgKNxWDA5c",
-      "titulo": "CORINTHIANS PAGA SALÁRIO ATRASADO DE FUNCIONÁRIOS, MAS MANTÉM DÍVIDA COM JOGADORES!",
-      "canal": "UOL Esporte",
-      "views": 6252,
-      "likes": 108,
+      "id": "k9FzXOIzkHY",
+      "titulo": "Yuri Alberto denunciado. #corinthians #yurialberto #denuncia #stjd",
+      "canal": "Chico Garcia 9808",
+      "views": 1161,
+      "likes": 14,
       "comentarios": 0,
-      "publicado": "2026-11-11T22:13:20Z",
-      "duracao_s": 520,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=3VgKNxWDA5c"
-     },
-     {
-      "id": "N2OoUf7qUuk",
-      "titulo": "Renata Fan sobre o Corinthians: \"Muita coisa foi colocada debaixo do tapete\"",
-      "canal": "Jogo Aberto",
-      "views": 5235,
-      "likes": 210,
-      "comentarios": 8,
-      "publicado": "2026-11-12T15:20:27Z",
+      "publicado": "2026-11-13T03:14:53Z",
       "duracao_s": 93,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=N2OoUf7qUuk"
+      "url": "https://www.youtube.com/watch?v=k9FzXOIzkHY"
      },
      {
-      "id": "9T-BWvBdHao",
-      "titulo": "Dívida no Corinthians: Bancada rebate Júlio César e alerta para penhora",
-      "canal": "Rádio Bandeirantes",
-      "views": 5192,
-      "likes": 66,
-      "comentarios": 0,
-      "publicado": "2026-11-12T01:02:13Z",
-      "duracao_s": 531,
+      "id": "R0Y-v3-MQzA",
+      "titulo": "URGENTE NO TIMÃO! Yuri Alberto Punido no STJD e Reta Final Dramática Contra o Rebaixamento!",
+      "canal": "Rick Fiel",
+      "views": 1159,
+      "likes": 25,
+      "comentarios": 2,
+      "publicado": "2026-11-12T05:24:42Z",
+      "duracao_s": 82,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=9T-BWvBdHao"
+      "url": "https://www.youtube.com/watch?v=R0Y-v3-MQzA"
      },
      {
-      "id": "wfgnAs2R31E",
-      "titulo": "CORINTHIANS INICIA QUITAÇÃO DE SALÁRIOS ATRASADOS | \"ERRO\" PROIBIDO | E O BRASIL?",
-      "canal": "Meu Timão",
-      "views": 3731,
-      "likes": 422,
+      "id": "1PPnkl7aBCU",
+      "titulo": "🚨 JULGAMENTO MARCADO NO STJD! YURI ALBERTO LIVRE NO CORINTHIANS? #Shorts",
+      "canal": "Campo Alvinegro",
+      "views": 290,
+      "likes": 7,
+      "comentarios": 2,
+      "publicado": "2026-11-13T14:57:18Z",
+      "duracao_s": 102,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=1PPnkl7aBCU"
+     },
+     {
+      "id": "LLW07xOTrW8",
+      "titulo": "YURI ALBERTO VAI AO STJD PARA TENTAR CORTAR SUSPENSÃO DO CORINTHIANS",
+      "canal": "16.18 Scores",
+      "views": 206,
+      "likes": 1,
       "comentarios": 0,
-      "publicado": "2026-11-12T18:04:54Z",
-      "duracao_s": 3809,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=wfgnAs2R31E"
+      "publicado": "2026-11-13T15:02:08Z",
+      "duracao_s": 10,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=LLW07xOTrW8"
+     },
+     {
+      "id": "SkKGMup-FaE",
+      "titulo": "⚖️ *STJD CONFIRMA JULGAMENTO DE RECURSO DO CORINTHIANS PARA REDUZIR PENA DE YURI ALBERTO* 🦅",
+      "canal": "Fut-pro Futebol",
+      "views": 204,
+      "likes": 3,
+      "comentarios": 1,
+      "publicado": "2026-11-13T14:30:51Z",
+      "duracao_s": 23,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=SkKGMup-FaE"
+     },
+     {
+      "id": "uls0ylAGL4w",
+      "titulo": "O QUE YURI ALBERTO FEZ CONTRA O SÃO PAULO É INACEITÁVEL! MANO MENEZES TINHA RAZÃO?",
+      "canal": "SEVEN 2K30",
+      "views": 5,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-11-13T12:08:43Z",
+      "duracao_s": 233,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=uls0ylAGL4w"
      }
     ],
-    "consulta": "Corinthians salários atrasados",
-    "n_videos": 21,
-    "mais_de": true,
-    "views": 569639,
+    "consulta": "Corinthians Alberto Yuri STJD",
+    "n_videos": 8,
+    "mais_de": false,
+    "views": 7960,
     "top": [
      {
-      "titulo": "BOMBA AGORA A NOITE!! RESCISÃO NA FIFA! POR ATRASO DE SALÁRIOS! GARRO SOLTA BOMBA!",
-      "canal": "VAI CORINTHIANS TV",
-      "views": 142632,
-      "url": "https://www.youtube.com/watch?v=U-D5xVN4ZWM",
-      "publicado": "2026-11-10T20:16:21Z",
+      "titulo": "STJD CONFIRMA JULGAMENTO DE RECURSO DO CORINTHIANS PARA REDUZIR PENA DE YURI ALBERTO | BASE VOANDO!",
+      "canal": "Meu Timão",
+      "views": 3640,
+      "url": "https://www.youtube.com/watch?v=mxv9vHS7WOw",
+      "publicado": "2026-11-13T18:06:24Z",
       "do_canal": false
      },
      {
-      "titulo": "CORINTHIANS: ELENCO IRRITADO E SUMIÇO DE STABILE; ABEL MUDA PALMEIRAS? NEYMAR PAI NA MIRA DA FIFA?",
-      "canal": "UOL Esporte",
-      "views": 91463,
-      "url": "https://www.youtube.com/watch?v=3bqP37EoAqM",
-      "publicado": "2026-11-12T13:07:04Z",
+      "titulo": "QUEM DEVE SER O SUBSTITUTO DE YURI ALBERTO?",
+      "canal": "Golaço Informa",
+      "views": 1295,
+      "url": "https://www.youtube.com/watch?v=MGmUmdrZVrk",
+      "publicado": "2026-11-13T01:45:10Z",
       "do_canal": false
      },
      {
-      "titulo": "SALÁRIOS ATRASADOS são O MOTIVO para ELENCO DESMOTIVADO do CORINTHIANS?",
-      "canal": "Cortes Podpah [OFICIAL]",
-      "views": 88588,
-      "url": "https://www.youtube.com/watch?v=slivARJoWxU",
-      "publicado": "2026-11-12T00:00:34Z",
+      "titulo": "Yuri Alberto denunciado. #corinthians #yurialberto #denuncia #stjd",
+      "canal": "Chico Garcia 9808",
+      "views": 1161,
+      "url": "https://www.youtube.com/watch?v=k9FzXOIzkHY",
+      "publicado": "2026-11-13T03:14:53Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "PROPOSTA DO JAPÃO POR FERREIRINHA 🇯🇵 O São Paulo recebeu uma oferta do Cerezo Osaka, da primeira divisão japonesa, pelo atacante de 28 anos. De acordo com a ESPN, o clube japonês propôs um empréstimo. Os valores ficaram abaixo do esp",
+   "tema": "Paraguaios de Palmeiras e Santos vencem adversário do Brasil",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Palmeiras",
+    "Santos"
+   ],
+   "foco": true,
+   "nota": 60.1,
+   "sinais": {
+    "busca": 60,
+    "aceleracao": 62,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": 0
+   },
+   "fator_categoria": 1.142,
+   "trafego_google": 0,
+   "busca_torcedor": "palmeiras x santos",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "palme|parag|santo|gols",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Paraguaios de Palmeiras e Santos vencem adversário do Brasil. Todo mundo vai olhar o resultado; eu vou mostrar o que ele esconde.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
+    "pergunta_enquete": "Qual sua opinião: Paraguaios de Palmeiras e Santos vencem adversário do Brasil?",
+    "tecnica": "Contradição",
+    "ganchos": [
+     {
+      "tecnica": "Contradição",
+      "texto": "Paraguaios de Palmeiras e Santos vencem adversário do Brasil. Todo mundo vai olhar o resultado; eu vou mostrar o que ele esconde.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Paraguaios de Palmeiras e Santos vencem adversário do Brasil. Quem venceu comemora; quem perdeu tem uma conta para acertar.",
+      "thumb": "PALMEIRAS x SANTOS"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Paraguaios de Palmeiras e Santos vencem adversário do Brasil. Foi mérito de quem venceu ou erro de quem perdeu?",
+      "thumb": "E AGORA, PALMEIRAS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Paraguaios de Palmeiras e Santos vencem adversário do Brasil. Eu aposto que esse resultado vai pesar lá na frente. Você concorda?",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Com gols de dupla de Palmeiras e Santos, Paraguai goleia Singapura",
+     "fonte": "Band",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcjVDMTZmUGU1Um55ejFldjZVWEdzNDhFcm1qMHB1MWlPal91MUNEeGhhQVQzMDcySERCRnpuYnVxSnFGaVNJZVZSM1VxX2xUUzJEUU5wZmJRckFzV0ROVkJMdXRnTl8wN0RzRnhvdUdjX294QkRBNDNOcS1PWWQzY3dIbkppeTgyd3M3WWEtcTZqdERLanhzcEtVVnd1SjBYTnNGdlBDU3hiSHJ3VGJPZGl6QmhJRjBSY0RWNnRqSGFOUS1NYjZ3?oc=5"
+    },
+    {
+     "titulo": "Paraguaios de Palmeiras e Santos vencem adversário do Brasil",
+     "fonte": "tmc.com.br",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tbDQ1NWZCQzQtWjBrNjEwRkg4cXd4NjM1MXNRYS14ekhOVUZQYlFyNTVISUExd1p6Nk1HU2h5M2JwakhsMDNWS1Nqd0ltaHh4S0FtSzM4Q3plamhzQndDVDhtQkR0SjJXV2MwbkRxN1pWTGRueUgyOVpzLUI?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [],
+    "consulta": "Palmeiras Paraguaios adversário",
+    "n_videos": 0,
+    "mais_de": false,
+    "views": 0,
+    "top": []
+   }
+  },
+  {
+   "tema": "Ex-Corinthians, Élton Arábia revela como perdeu milhões depois de ganhar fortuna",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Corinthians",
+    "São Paulo"
+   ],
+   "foco": true,
+   "nota": 58.2,
+   "sinais": {
+    "busca": 30,
+    "aceleracao": 85,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": 0
+   },
+   "fator_categoria": 1.142,
+   "trafego_google": 0,
+   "busca_torcedor": "corinthians x são paulo",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "revel|milho|perde|ganha",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Ex-Corinthians, Élton Arábia revela como perdeu milhões depois de ganhar fortuna. E agora: o que muda para o Corinthians?",
+    "titulo_thumb": "E AGORA, CORINTHIANS?",
+    "pergunta_enquete": "Qual sua opinião: Ex-Corinthians, Élton Arábia revela como perdeu milhões depois de ganhar fortuna?",
+    "tecnica": "Pergunta aberta",
+    "ganchos": [
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Ex-Corinthians, Élton Arábia revela como perdeu milhões depois de ganhar fortuna. E agora: o que muda para o Corinthians?",
+      "thumb": "E AGORA, CORINTHIANS?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Ex-Corinthians, Élton Arábia revela como perdeu milhões depois de ganhar fortuna. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Ex-Corinthians, Élton Arábia revela como perdeu milhões depois de ganhar fortuna. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "R$ 32 milhões. Grava esse número: ele explica boa parte do que está acontecendo no Corinthians.",
+      "thumb": "R$ 32 MILHÕES"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Ex-Corinthians, Élton Arábia revela como perdeu milhões depois de ganhar fortuna. Nem todo mundo no Corinthians vai gostar disso, e eu vou explicar por quê.",
+      "thumb": "CORINTHIANS x SÃO PAULO"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Ex-Corinthians, Élton Arábia revela como perdeu milhões depois de ganhar fortuna",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGpVeTRPNUstaHRhX2dENVlUaHRFYVJldkFKX2NiWmFra3dZWC1ra21kdXItLVZJbTNxV3p2bTR6YzcyM25nZHREeFlBRFJ6X19hbFZ2N1JVWlg2TjJEeHhPRDdUNHZRSm0yY3VUMWk3emR4ZE9wRjl3clpvQkRwanlXS1lEZGc2Sjh1MXp6R2xVWnpDM1ZFVzhpZS0zTl9KTkZkTmxqamEzcldhMW1JU0oyODYyUUZvd1RHYl9RWmlMOE03OVhj0gHWAUFVX3lxTE0xWnRoeUc1SWEydUhlSHJFLXl4VmdCZU52dldUdlFlWGkxeFJmTTU2V1JKeWtJM2lkRWtzSzRFel95Z0ZQYnNaM2p5RnN1MXduZFByaHc5YWdHd0E1a0Q0Qk1VYW1ieEpZS3ZYUWxUZGZQZXdqeENNLVJEbS1mXzlyejZmNzFGRVlXNS1yRlJySXR4YXRaU09nZUd5b3d5djdEdmFFdlh5LXdDUTRmdDQxcEJ4ZmFqZE1xQ19YR29xOGc0cHpHT18zQ3JGVlB0SG9mQU9RNXc?oc=5"
+    },
+    {
+     "titulo": "Revelado no Paraná, ex-São Paulo e Corinthians Jucilei perde R$ 32 milhões em golpe e se afasta do futebol",
+     "fonte": "Pinga Fogo Notícias",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVzQxcTlBb3UwVkl5VTVjWWNSSlYybzhzY1JNcnBBMHRJSk1aT3Z2bUFUS2VWT0VNV3pyaUxlODE2OHdXM1FXVjRJT20wTVdvOTNpME5LVWExSmNzaUkzeE05allHTTRfUkh6QjYwS0hpYjVnSkV6RkRVUFdXbDVpQUl4c25OcHJ2MGtCQXU0WmgtMWtfMElTQXBYTDN5X1ZWZnlGRmUzRlZhX0JQOWV1ZmtQb2d2WFcxMmJBM2JCYUtCX2ZQSXUwSHlDUFNZdTIwelVxa2FpLU1qQQ?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [],
+    "consulta": "Corinthians revela perdeu",
+    "n_videos": 0,
+    "mais_de": false,
+    "views": 0,
+    "top": []
+   }
+  },
+  {
+   "tema": "São Paulo é acionado na Justiça por dívida de comissões na contratação de Carlos Coronel",
    "categoria": "Mercado da bola",
    "clubes": [
     "São Paulo"
    ],
    "foco": true,
-   "nota": 63.3,
+   "nota": 56.6,
    "sinais": {
-    "busca": 50,
-    "aceleracao": 97,
+    "busca": 30,
+    "aceleracao": 89,
     "midia": 75,
     "aderencia": 100,
     "youtube": 0
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "ferreirinha são paulo",
+   "busca_torcedor": "são paulo fc contratação",
    "termos_trends": [],
    "n_fontes": 5,
    "n_manchetes": 5,
-   "assinatura": "ferre|paulo|japon|propo",
+   "assinatura": "paulo|justi|carlo|coron",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 3 min)",
-    "gancho": "Cerezo Osaka, do Japão, faz proposta por Ferreirinha, do São Paulo. Se isso sair, quem perde espaço no elenco?",
-    "titulo_thumb": "E AGORA, SÃO PAULO?",
-    "pergunta_enquete": "Qual sua opinião: PROPOSTA DO JAPÃO POR FERREIRINHA 🇯🇵 O São Paulo recebeu uma oferta do Cerezo Osaka, da pr?",
-    "tecnica": "Pergunta aberta",
+    "gancho": "São Paulo é acionado na Justiça por dívida de comissões na contratação de Carlos Coronel. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
+    "titulo_thumb": "MEU PALPITE",
+    "pergunta_enquete": "Qual sua opinião: São Paulo é acionado na Justiça por dívida de comissões na contratação de Carlos Coronel?",
+    "tecnica": "Aposta",
     "ganchos": [
      {
-      "tecnica": "Pergunta aberta",
-      "texto": "Cerezo Osaka, do Japão, faz proposta por Ferreirinha, do São Paulo. Se isso sair, quem perde espaço no elenco?",
-      "thumb": "E AGORA, SÃO PAULO?"
-     },
-     {
       "tecnica": "Aposta",
-      "texto": "Eu aposto: esse negócio [SAI / NÃO SAI] até o fim do mês. Se eu errar, pode me cobrar nos comentários.",
+      "texto": "São Paulo é acionado na Justiça por dívida de comissões na contratação de Carlos Coronel. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
       "thumb": "MEU PALPITE"
      },
      {
+      "tecnica": "Pergunta aberta",
+      "texto": "São Paulo é acionado na Justiça por dívida de comissões na contratação de Carlos Coronel. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
+      "thumb": "E AGORA, SÃO PAULO?"
+     },
+     {
       "tecnica": "Dado",
-      "texto": "28 anos. Grava esse número: ele explica boa parte do que está acontecendo no São Paulo.",
-      "thumb": "28 ANOS"
+      "texto": "São Paulo é acionado na Justiça por dívida de R$ 1,5 mi por Carlos. Parece só um número, mas ele vai pesar nos próximos meses do São Paulo.",
+      "thumb": "R$ 1,5 MI"
      },
      {
       "tecnica": "Conflito",
-      "texto": "Cerezo Osaka, do Japão, faz proposta por Ferreirinha, do São Paulo. Nessa negociação, alguém vai sair perdendo.",
+      "texto": "São Paulo é acionado na Justiça por dívida de comissões na contratação de Carlos Coronel. Nessa negociação, alguém vai sair perdendo.",
       "thumb": "QUEM TEM RAZÃO?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Todo mundo está comemorando essa negociação do São Paulo. Eu vejo um risco que ninguém está comentando.",
+      "texto": "R$ 1,5 mi. No discurso, planejamento. Na prática, essa conta não fecha.",
       "thumb": "NÃO É BEM ASSIM"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "PROPOSTA DO JAPÃO POR FERREIRINHA 🇯🇵 O São Paulo recebeu uma oferta do Cerezo Osaka, da primeira divisão japonesa, pelo atacante de 28 anos. De acordo com a ESPN, o clube japonês propôs um empréstimo. Os valores ficaram abaixo do esp",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wbDYzeGR5OUNwMnF0LURLM3IzQzd6TWxnbk1Nc0hBcVNTZFhidFhYekxRSFhJRXZIWmNBX2pPc25sak5yeV83T0ppZHJ1THpyUXc?oc=5"
+     "titulo": "São Paulo é acionado na Justiça por dívida de R$ 1,5 mi por Carlos Coronel",
+     "fonte": "PLACAR",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZGpfcTlTUFNnNE1VaHU2a2lMVWpkOE9IeWVRZDlNOXN0eW10MktkLVJGUzBPMVhyZzg5OUpkTm1YNVc4a1ZZVWpDSmgyTmFERHBzVVpkSUtXNF9WeHNzMzl5aW80eWpYVVlqWGFLbVhiT1B2RjhRbTZPcDdRc0REWml5bFdYVkxFVmVBUHNBOEp6ZDNWZkZ0SFpmUjNBd09ieHpnWDVZRnFhM3M?oc=5"
     },
     {
-     "titulo": "Cerezo Osaka, do Japão, faz proposta por Ferreirinha, do São Paulo; veja detalhes",
-     "fonte": "Bolavip Brasil",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUE15aXE0cjhRZWF5b1JHTThqajY2NlREWngxQ1BmaUhYNWVVdVNkZVFzYTk1YlNaSWJJZ0RkbXZtSjRSVEJ6VlhCckN6WVl3M1FhMzU0UC1tYmx1NGdHR2VCNGNfemhJYkthRlItZy13U1UzYzNkS2t5NlQ5OWlhMGNUYWVOMzBKZFhmVkhkTVQzdGhOV2pHemlrSFZ0THhOZEp1MDlRZERCbldnR1ljbUNlQ1M4UFpuS2xVRQ?oc=5"
+     "titulo": "São Paulo é cobrado na Justiça por dívida de contratação \"gratuita\"",
+     "fonte": "Tribuna de Jundiaí",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHlrdWVFNW5NTHlaejQ0NVdPQUJhUzJjZzNPSlpWa3h5bzEwVzNvV0pGUFVDR25wUHJ6Znl5eHduUXZSQ2N0MC1MYXhhLUZUZHU4SDdCaHQ3cU1RUUtCYTNOT2dDQk9VUTVFMkV3NDF1aG5wWXVJdUdZWWlWYjJTRUJfVV9laVJaMmJCQlNINzRIRHlwemtjTEZoNWt5UzlUYVZ5Y0JuT2pSV0JLeU9kR1dn?oc=5"
     },
     {
-     "titulo": "São Paulo recebe proposta do futebol japonês por Ferreirinha",
-     "fonte": "Arquibancada Tricolor",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zRDVPQXlqd0VVSl9QUUlaUVctaWVKQ0JoX0Q0R3kzd3FMcktEanlkaDNYYlRXVGY3QUk3a0pTV0JaaW15UEdncXVXMDNzeGxqYlhDU0VRcXlmVHp5TnRacG5tTlFOck5ZamRRY2V4bnJBNHBvQ3oyMXlOV2Q0UQ?oc=5"
+     "titulo": "Empresa cobra R$ 1,5 milhão do São Paulo na Justiça por contratação de Carlos Coronel",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQT3RsTWhkUUFKcW5WdUVfMnNNa2ZPcHZPUjBzTGQxSmpENVhlYUJwMUZoRnp6VVpXR0hWV3JQNjF6TGI2R012RXNFRjFvS1RWZUVTeGxncFZvbl8taUN4RGtjZ1VzbGZkcW9wUmloLXl1TndZQzVJT0VydmRtTVh5SllJbHB4VkxMbjk2VnhHYXVyZy1raHZxTW9qcGVXNlFIMWdBeXVma25lQ05mRGxqZm9uVF9IWE9OckdfWUdfQ28teVVMNzRGRkYycE1MRGYzRzVWLWZJZktzNXZnYjRRREJLcTRjdU5Q0gH3AUFVX3lxTE9vSjdKdkRsRWxIU0RLV3dfN0JhWGdtNl9RQTdyaU1xWnRoWlRSQ1NQejBQU3luWE85OVh1OFhXSkhaeTNxVXY2Y3RSN2FVUjBzdHl1RGFmQkRYUTR3VVVFY1BCNEhZMmZtaTM1enZjUTBlUGl3ZWQ1ZlFGWklTYU41X00tSGtoWVV4bG9vbEpvWTN4Qi1zd3hJWmloX2lwQjAxbWdodzdndHlra0xJaTJHMjJtN0hkcmdRREVjcExkTzYxSTNEU3pieDFpaFdtaDliakJFVnI2R2V0VnR1STNwX093dWhKQUlXcGlSWTVkVmtnM1JsWlk?oc=5"
     },
     {
-     "titulo": "Clube japonês procura Ferreirinha, mas primeira oferta não convence o São Paulo",
+     "titulo": "São Paulo enfrenta ação na Justiça por contratação de Carlos Coronel",
      "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUi1jQWJjcWJNbk12aTRzam84UjBOcFYzNnhMWE9MdXc0bXpJMVlfelZVN1JhQk0waGdzOUMwQ1ltWEU3Z19IM1R5MmxIRnpockdOMDlraklfZVBaTU5XZ2RfekRMdzdoWjl4Mm9BN2dReGwxcjJPdTRfUUZTNnZ0RjY0Zk1zelN5XzEydUZRRGx5eVo0OVBzTVl0QmViUHhZcmU4d3M0b3gxTFpHZHZrTmNGdFJRdGpRZnBXN0FWNHNwREhNdE41VmNWODVLMEJHcTdjU1NPOVNQWFh6Z2hmN0p1Q0x5cnNDaW1ELWpfOUpuSDVYTEVnemJiWWg?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPY1Q4U0N3VG1VM1p0dnBRZjNCX0ZOOTFPX2VNeWw3WU92OEVkWmJUSHhONGY5dEx3NWdzTVA5NXhQeGpEVG9hZG00MkYxX012eUNVRGtZMWV3dEc1cV9TWmFJMmhQVEdHTXlIWVd2M0RGU0lWcUU4cVFIdTNIeERMSFhEVTJ6TzBLSTVEbEl5MWhjOWgzcEpxWXBSeEZMZ01HWlJmWjdKNGp3dE12YjNXcDhYcW5YLWRSZnM1eGM0SW5CUGNFUnUyd3VXWVNyUU9xcmVWMmFReFpGRmxuRVB6UTZSU0V0MjVLQWcyNDNVcw?oc=5"
     },
     {
-     "titulo": "Clube japonês faz proposta por Ferreirinha, do São Paulo; veja bastidores",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNE9HV1hOTDFNSk8wQ3lISThuVmt5OXZyLWhVREFJaS1FclliYm1WUWRpQXE1NEhsc1EyTHhiajZfVEdxZWhfNWtXUmNYZXpQc3RQcHp2UGVTaUpZcng1QkVPOHJlVVRnbGxoWGdrd0V5djltTmY2RnlqMEdxSjlLcF9SZC1QZ0xBcHpUVDRkWlRJdFRBbUN0V3lNT1lsazVmcjVrcHBhRTBaeFBob2hwR1BVdzBiZ2tfbVRBYkYwRENGU3oyU2c?oc=5"
+     "titulo": "São Paulo é acionado na Justiça por dívida de comissões na contratação de Carlos Coronel",
+     "fonte": "Arquibancada Tricolor",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSGlCOUYwX3VBWFBHbDhNZURtaWtZRXFlX0xiUXRpY2RLUTZzOGY3STIwdENmTmlJeUItLU01T2VZOVJmVmVpQ2ZIQllLN2NNN3VQbGs4RUZtVmQzR1NsQ1RMZHpUTmJpbWNfTmdfdTRZWlJfTHpFejZFcHlVRjVoMjhkYjYzUQ?oc=5"
     }
    ],
    "youtube": {
     "amostra": [],
-    "consulta": "São Paulo Ferreirinha PROPOSTA japonesa",
+    "consulta": "São Paulo Coronel Carlos contratação",
     "n_videos": 0,
     "mais_de": false,
     "views": 0,
@@ -1407,440 +1909,328 @@
    }
   },
   {
-   "tema": "São Paulo terá clássicos contra Santos e Palmeiras nas semifinais do Paulista de base; confira detalhes",
+   "tema": "Estátua do Escoteiro volta a ser furtada no Aterro do Flamengo; prefeitura já gastou R$ 350 mil com reparos em monumentos",
    "categoria": "Notícia do dia",
    "clubes": [
-    "Palmeiras",
-    "São Paulo",
-    "Santos"
+    "Flamengo"
    ],
    "foco": true,
-   "nota": 62.5,
+   "nota": 54.6,
    "sinais": {
-    "busca": 55,
-    "aceleracao": 54,
-    "midia": 81,
+    "busca": 0,
+    "aceleracao": 85,
+    "midia": 46,
     "aderencia": 100,
-    "youtube": 37
+    "youtube": null
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "palmeiras x santos",
+   "busca_torcedor": null,
    "termos_trends": [],
-   "n_fontes": 6,
-   "n_manchetes": 6,
-   "assinatura": "pauli|palme|paulo|santo",
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "repar|escot|estat|monum",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
-    "gancho": "São Paulo terá clássicos contra Santos e Palmeiras nas semifinais do Paulista de base. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
-    "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: São Paulo terá clássicos contra Santos e Palmeiras nas semifinais do Paulista de base; con?",
-    "tecnica": "Aposta",
+    "gancho": "R$ 350 mil. Esse é o número da semana no Flamengo, e eu vou te mostrar por quê.",
+    "titulo_thumb": "R$ 350 MIL",
+    "pergunta_enquete": "Qual sua opinião: Estátua do Escoteiro volta a ser furtada no Aterro do Flamengo; prefeitura já gastou R$ 35?",
+    "tecnica": "Dado",
     "ganchos": [
      {
+      "tecnica": "Dado",
+      "texto": "R$ 350 mil. Esse é o número da semana no Flamengo, e eu vou te mostrar por quê.",
+      "thumb": "R$ 350 MIL"
+     },
+     {
       "tecnica": "Aposta",
-      "texto": "São Paulo terá clássicos contra Santos e Palmeiras nas semifinais do Paulista de base. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
+      "texto": "Estátua do Escoteiro volta a ser furtada no Aterro do Flamengo. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Conflito",
-      "texto": "São Paulo terá clássicos contra Santos e Palmeiras nas semifinais do Paulista de base. Nem todo mundo no Palmeiras vai gostar disso, e eu vou explicar por quê.",
+      "texto": "Estátua do Escoteiro volta a ser furtada no Aterro do Flamengo. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
       "thumb": "QUEM TEM RAZÃO?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "São Paulo terá clássicos contra Santos e Palmeiras nas semifinais do Paulista de base. Parece notícia pequena. Não é.",
+      "texto": "Estátua do Escoteiro volta a ser furtada no Aterro do Flamengo. Parece notícia pequena. Não é.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "São Paulo terá clássicos contra Santos e Palmeiras nas semifinais do Paulista de base. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
-      "thumb": "E AGORA, PALMEIRAS?"
+      "texto": "Estátua do Escoteiro volta a ser furtada no Aterro do Flamengo. Isso é bom ou ruim para o Flamengo? Responde antes de ver a minha análise.",
+      "thumb": "E AGORA, FLAMENGO?"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Paulistão 2027: confira os adversários de São Paulo, Corinthians, Palmeiras e Santos.",
-     "fonte": "Tv Gru Web",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rWnJqWjI1Z3piWnB3cFRybC1yYUo1RFFSaWdUT0dPaS1UN21YNGpCMS1qOUFjcGxRS2h4WkYtU3luaERfUDFFQmpZcHhiZWhTcjFJNzFRNFVkUnM4R3RLNkxn?oc=5"
+     "titulo": "Estátua do Escoteiro volta a ser furtada no Aterro do Flamengo; prefeitura já gastou R$ 350 mil com reparos em monumentos",
+     "fonte": "Diário do Rio",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVU9CMmF4a3ZyNHpDUVcxMXJuSEphLVFTXzM0eEc3WllrQXE5Qlg4WWFSaUlpVll2Z0hYRFd2Z2RLcjEtS2dkY3hPazM2b1I1RHFBa3hUd0VQcW81UnVENGhoM0YtSzBBOXU4cUxMZFJaeGM2RFJ2QkNBQVhseUxWLTRHX2RQdmI1MktCTy00SThLeDVzcjVqZzF3OS1WUzdsallaTFk0aVFrSDZLUkZ1T0dXYkFkaVlONEhqdFJwXzhUV0dzU0E2aUY5X2ZpSVYtT3pZcHJzaS1hVXE2UUI1VFBWaTFpeTN1bF80aHFaOGQydTJKOW5DdEdaMFkxOF9KNVlpZHhGOW5fQ0k?oc=5"
     },
     {
-     "titulo": "Palmeiras encara Santos no Pacaembu pelo jogo de volta da semifinal do Paulista Sub-20",
-     "fonte": "Palmeiras",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR1pDLUdNcmRlZWU3T1ozaUFjRENsQjdaRk91SDI2Zzg3NGZjU0hrZ0p2ZW1YeEI4WGJGQmRieVZ2QU1wSUNsTzNCNHEwUG1UN3dsT1VxbGJBcldZRUFvXzkxMk5SY2tyZEYtLUdYSWpOMjVIU1FlWmF0MHFnME5vb2RGc3Z0WEJQQ0NROVdsZHhIclJNVWJlUEt6SnVUa1BmS2ZYM2I0MzNrVHRtWHlmVjNEb0FTdHYtckUxU193?oc=5"
+     "titulo": "Estátua do Escoteiro é alvo de novo furto no Aterro do Flamengo; prefeitura já gastou R$ 350 mil com reparos em monumentos neste ano",
+     "fonte": "G1",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkxxeWdicGsxY2t5QXZJUEctWDhuUWlLTGZvUU12UnpEMGg2c1RoaHZFTHJqc1lVOGlLSjNyeDUwUDdMdk16bGF0dkJEaHVNNlRJaThtaDctVGd3YjluSERKVnpxV1ZaVHZJUHBUM3FUUmd2ZlZndzJNbkpTTDA3ZFZ2VDFXdzJLMHRQQUNUTDFDQlJnTU9OZXg1VTVMN3hUWE94QVFQaF82TW5TN3FvdGJSc0PSAcMBQVVfeXFMUDZhQk1Ud2cwQVdkQ2NtLW5Qb0o1SXZ5dkxHVUk0MVoxTmx6UkFSQ2xtNlByTDlwNkswMWdvWlV5MUd1cE92NDhJRWMyakR4UFozT29ta3JHNjZ2bDZNZ1M0M096ZU16ZklIWm44WHkxeUh2MnAyX0hIRVM4ZzU1ck5xcV9kYXJPWTJqUEVQVkZ2Y1JHNjJqcFVKcjBOVDFpNnNNVW10d0JjWWZFbGtFU0RTcTNoWVl2NnJYQWlpX0hkdV9n?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Flamengo decidirá futuro de Boto após fim do Brasileirão e avalia ex-Botafogo para o cargo",
+   "categoria": "Técnico",
+   "clubes": [
+    "Flamengo",
+    "Botafogo"
+   ],
+   "foco": true,
+   "nota": 53.7,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 68,
+    "midia": 67,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 4,
+   "n_manchetes": 4,
+   "assinatura": "flame|ex-bo|brasi|avali",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Opinião forte (60 a 90 s)",
+    "gancho": "Diretoria de um lado, elenco do outro, e no meio um técnico que precisa de resultado já.",
+    "titulo_thumb": "QUEM TEM RAZÃO?",
+    "pergunta_enquete": "Qual sua opinião: Flamengo decidirá futuro de Boto após fim do Brasileirão e avalia ex-Botafogo para o cargo?",
+    "tecnica": "Conflito",
+    "ganchos": [
+     {
+      "tecnica": "Conflito",
+      "texto": "Diretoria de um lado, elenco do outro, e no meio um técnico que precisa de resultado já.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Flamengo decidirá futuro de Boto após fim do Brasileirão e avalia ex-Botafogo para o cargo. O técnico parece garantido no cargo. Os bastidores dizem outra coisa.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Se o técnico do Flamengo cair amanhã, quem você colocaria no lugar?",
+      "thumb": "E AGORA, FLAMENGO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Eu aposto que [SEU PALPITE] até a próxima rodada. Qual é a sua?",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Ex-Botafogo pode substituir José Boto no Flamengo em 2027",
+     "fonte": "O Dia",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmNjOFY3QW5sUlhwTzN4bVBlSmdYQm5PT2FNQ3NCLVFtREl5NC1vMjJabnluWmN3MjRQRHJBbVE0WlZiWHU2aDZoWUVoaDI5dTBqTW05aXAyMDRpMGVkNU9ram5YSy1JME53aUEzS0ZrbVNOZnJKOGhZaTlNNkdseWhWTmRFWGN0UUZkX3lDQ09fN0htRElucEZPRmhXaEM4MVMzWXhYbmMySUNEd2xfLThlMVc5UG44ZFHSAb8BQVVfeXFMTnJONG9GcWNaYnBhNWxKRktMNkhCQWRNdWJSLTNjcTJqdzVaYWd6ZlVidGNneHMxOXlCcE0zcFZVWlg1cUtGSnR0QUYtSWNRc1FMUmpJUEFidTI0ZVpNVHdDYWdvcUdOVmRuX3NTZGs1ZnJ6V0dKWWJ5SmdpanA3UUhHRFUtbVdBaWgyYUVJaExwTHliNzNuNVlMOWlSWVZIUndSTGw2NDM5cTV6UzA1NkZoeUJJNkVJd0tDLUJ5aFU?oc=5"
     },
     {
-     "titulo": "São Paulo terá clássicos contra Santos e Palmeiras nas semifinais do Paulista de base; confira detalhes",
-     "fonte": "Arquibancada Tricolor",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05RTZFMEZvSUlyMTBPS2xsOWRiZVBpc3N3NmJLaVBiZFdWUU5ZWS1ReFZBTjFfc25URkhXUWNrQ1NFSkVlR19CVFpVM0Z3XzQ5dzRZX1BvdzBjblFKNmh2ekRfTVp5RFAtVkdTakxyVEhfckJ6ZFZIU3JSTUhRQQ?oc=5"
+     "titulo": "Flamengo avalia nome de ex-Botafogo para 2027",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTmdKS1FZdV9yellzTnZVRkQ3Mi0yNjJ5QXd0Zmp0am5mbUdDMktrVkJjVDRGVHQzVGRmNWJnNjBjaUlDcGZwcFZGWDhsSTFSeFNhS3FtdFlBSjhYWlZENkN0d3QxWVEzVFlENm9rb25GaEdQRWc0THQxNTlpUWs4cGMtWmdmZWdNa19UQWVldjI0SjdYUnBIOWxXUHZXUG9oSHZWZjFESHN6T3BDdU9KWklaeUszWlpZYW1RVTlqczJQLXNCRG5vNjZ1MXZ6VWs?oc=5"
     },
     {
-     "titulo": "Paulistão 2027: Palmeiras e São Paulo jogam dois clássicos em casa na fase de liga",
-     "fonte": "Portal ABC do ABC",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IYi03eFEySTc0QWhkODFKZm1zR093ZEc3c2NXbXNnSDZmeWxZb1VfcFQxdGxKVFJHd0o3ekZPNG4zaC1IbXB0NG5mODMzSnBlRmJnU2RlUHJmbVdKQ1hDblQyWWxhdTlBUzRWUGc1YV8ycXM?oc=5"
+     "titulo": "Flamengo decidirá futuro de Boto após fim do Brasileirão e avalia ex-Botafogo para o cargo",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUnlVSFZjcWhwZzNRZGc0bUhDdEwyZmE1T29LMTZDdlQyajUxSzZEOEl5TlAzNzlGVjdHd0UyWG9OUS1RTjdZUEZxUi1fN0dvNUlxLVRxVVFtZ2ZTSVlaRjV1MTBlYXB3RVRzcHhEYUtRMS11QUZheGtrZFNYZHBpYjM5U0RvT2E3T1dQVDJpQjkzLUxSem41NmRHd0JxbTRZeVVtWlMxWk1UQUlmN0JmTm8xR2ZIWHZwcHB1VUtUV2luWkkyNjJCaGVZY3NsUk81d25B?oc=5"
     },
     {
-     "titulo": "Herói contra o Palmeiras, joia do Santos mira final no Paulista sub-20: “Nosso objetivo”",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXYzOUtSaFNyLWRhQXdWXzcyV3V0WEg3em5PazhVd2ZkbVNpcGhFeU54WWpJaWhId2o4ZEtxZ0NmNml2SGstd2p2bFlnNFppNENyUUdnMm1xYmdRVF90SVZ5WlBvNENkX01MTTBCYUVPWEZ2WmViNW9hTGFRSHVLQTBpazJCZElEdThJUTI0OThtLUExeVh4U9IBngFBVV95cUxNYVdQbXA5bU9MU2prdXlhVEMzVUM2RFZqamdiRXR0Q2xXNFU3Ykl0cHJiTjVWVVhjVHdvV2R4b3ZxendkSFl0LWp0aXF1SVduOVV5UEhGQ1FrRzhXUUx2TnNqUWVlYXo0ZTVCWDVPRnJiZUZIcFRVQ3Q2TjNIS2hZR1NuZ0Q3TE1UaW56S1ZwV2gtb3ZVd1dXQ25yVkhQdw?oc=5"
+     "titulo": "Flamengo espera fim do Brasileirão para definir permanência de diretor",
+     "fonte": "PLACAR",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNmFoOTJxTGh3cmRGbUFJMjFKQkl5VV9iREVEaDdBOUNKUWRhYy1sUFR6UnJHekE1QzNsQ1Rxb1puek5mTkN5bjNLYmpDNk9LRmppdmZoZ1RJeU1DZFlQN1FFZ1FZa0NpdlVZdlN5VUp3ZlRnTkpwRFpZcmJVeHhvWG1IVXdhdFl5cnN6T18tSWdVTE9JZTVKM3Izd3ozYWQtV3YycWh4WUI?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Alex Sandro se recupera, mas Paquetá é dúvida no Flamengo",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 53.5,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 73,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "duvid|sandr|alex|flame",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Alex Sandro se recupera, mas Paquetá é dúvida no Flamengo. A leitura óbvia é uma. A que importa é outra.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
+    "pergunta_enquete": "Qual sua opinião: Alex Sandro se recupera, mas Paquetá é dúvida no Flamengo?",
+    "tecnica": "Contradição",
+    "ganchos": [
+     {
+      "tecnica": "Contradição",
+      "texto": "Alex Sandro se recupera, mas Paquetá é dúvida no Flamengo. A leitura óbvia é uma. A que importa é outra.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Alex Sandro se recupera, mas Paquetá é dúvida no Flamengo. Por trás disso, tem dois lados que não querem a mesma coisa.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Alex Sandro se recupera, mas Paquetá é dúvida no Flamengo. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
+      "thumb": "E AGORA, FLAMENGO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Alex Sandro se recupera, mas Paquetá é dúvida no Flamengo. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Alex Sandro se recupera, mas Paquetá é dúvida no Flamengo",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRXppWE43Znd0dEdoYy1WM29tQVI2M251OVJPcWVFX09VQmtXa0N0bW13dS1DRFI4YU5OdHBEcTdXQzBXblhQQjNKcnlPUnpLdFR0MVdyOHVDel9HaWFETDhocGg3MWt3MFVkVVVCWXNfMlNpQVR3RHRWeXpQM090UHpwekQyUjJTX2xja014cTkteUZqRlNqUEpGVVh6VWo1UjRJT3dubzJfOEVEdGRFZ19ad0VmVUhFWFJhLUFRNW42eU5ZWTNKZ2ZCbFhqdldVdDZjYndHejB1aHVYOXc?oc=5"
+    },
+    {
+     "titulo": "Alex Sandro é reintegrado, mas Paquetá é dúvida no Flamengo",
+     "fonte": "O Dia",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVFDamNXUFd6RWJfYUxxNmhFWGFiaGZYd2gwUzV1R0J0dWRHSVdMS0F1LTRYT21pTFFweGtpRERxQ213NUVjaXFsREpVazhoRnlaejNLaFBUaDRBR2E2UVVneVY4TkFNYmplS3NzOTlJVm9FVlVuOGVEaWt0RFB2SjN6LVM3VWZ3T3MwVk02NWpwWkR0ZU1DSWg4OWV1WkwybDlocXZUbExRdS1uWThBWVlNUG42Nk1aTG800gHAAUFVX3lxTE8xMWs1TFhQMWp5eFZKdGhrZzdublBDRmtTUHR6WmRPM2pjRG52SW5zLTdicG1obnh6QkstNjhPVmNHdDNfOUJBdXBsTHBtc0d6bjAtaTdDbm5jQXFfRkJQTjAyV2R6ZTQyemVhSjFMNXRycjZ5bEczVEZRTmRXUDZDRGNIWldyS0s0SGJ3cVlzRHVLaDRSaWJJd1Y5OEJ5QVpDa3dBaExZNVJNOHMtc2ZqOEYyOU1GTWFWME5tVUozVA?oc=5"
+    },
+    {
+     "titulo": "Alex Sandro cumpre prazo de Jardim no Flamengo, mas Paquetá ainda é dúvida contra Athletico-PR",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeEtQX3BkRVQ1TGVzMXdqY016NElVazlvR01oMUFYTVBYZjl3NlhjQXdpVlcwR05ybG1zbWR2b1N0RWhrWUFnN3ZJbU8zZ085Z0pvS09scG5majdjRXpqUlY0WVFLT2p4OFgtNll6ZzlWbG56TUlrTW5RN05RZFdwZ0pwRVc3OWtTbUZtSEFQZldvS0RrTGpJYWNHQUNwVTFXVmZkcmZ6a2c3dVZZMWVrdHlVYjRmR3RBSmNpcF9rNm5MNWtaa2JYdXBxOHRFS1IxUVNEVjhGNHFUM08xSER3LU40X0lvR2Y2aDFOdWQ0dnFyeDM30gGDAkFVX3lxTE9JTmZmcXlENGRLalRRcDRXOXhqTFRpd2NvbUd2cUNmQXc5amJpZE5pSkZhTDZjWHJFRFV6c2QzQjI1cWh0Q0pnNl9MU1pYMXk4LUY2MTVvVVB2bWMzVV9NQ3ZNcUkwcUVGTnpKekVuQkVSLUVEZUtEamNTNnI1M2xLeFRyb01nTERsSlBYeHBtbnJyWllrWnZaUk9Pa2tfMzJuc29RM0xIalFPQUk5SmxZN0lSZm4xaVdTNG9mMlZySnRLZzdTUjBrM2ZGUzhQYktXcWZlaGYwYUdwbWdTRy1wdWc1XzdUTGZkbjVzdUx6UVZDcmI3d0VfMEd3eHpmQ3JTaVk?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "José Boto pode deixar o Flamengo? Veja o cenário",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 52.6,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 85,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": 44
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "flame|jose|boto|felip",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "José Boto pode deixar o Flamengo? Veja o cenário. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
+    "titulo_thumb": "E AGORA, FLAMENGO?",
+    "pergunta_enquete": "Qual sua opinião: José Boto pode deixar o Flamengo? Veja o cenário?",
+    "tecnica": "Pergunta aberta",
+    "ganchos": [
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "José Boto pode deixar o Flamengo? Veja o cenário. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
+      "thumb": "E AGORA, FLAMENGO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "José Boto pode deixar o Flamengo? Veja o cenário. A leitura óbvia é uma. A que importa é outra.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "José Boto pode deixar o Flamengo? Veja o cenário. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "José Boto pode deixar o Flamengo? Veja o cenário. Nem todo mundo no Flamengo vai gostar disso, e eu vou explicar por quê.",
+      "thumb": "QUEM TEM RAZÃO?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "José Boto pode deixar o Flamengo? Veja o cenário",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZk53UEdxSEFlYnllajR5bWdXNG5SMURRVXpXcjBUTUZkMnNpc0NxMXJfalExdjhMakJSWUxfQ2NWbElTelFzaUprQjFsQ3BZRGxoZlV0UFAzaWVBY0xjc2UyUUd4S3d1R1lFeDZzRENsblZVbmxqdUNvZ0hyTXpCTEJGTmczVWVLV2pVM0R2YnZsSVMyRnd1NUY5X1Iwci1fRGFUeFkwM3VZbTJPWnl1bVIyNFRFSjA?oc=5"
+    },
+    {
+     "titulo": "Flamengo sonda nomes e se prepara para possível saída de José Boto; Felipe Silva detalha",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52cGc4VXZOSVFkTjBQSnVyTFRkZVA5czFrNVBTTzhiMmE0MDJiNThBc1BNZTRnQWtWaFhXN1lFMkRDSkhpZTItNkwwTzlTT0lua25EbDlobDg2Q0R2N0E?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "oKctXzXNo5g",
-      "titulo": "SANTOS FC X PALMEIRAS PAULISTÃO SUB-20 SEMIFINAL NO PACAEMBU",
-      "canal": "Família Santista",
-      "views": 359,
-      "likes": null,
-      "comentarios": 1,
-      "publicado": "2026-11-11T19:00:34Z",
-      "duracao_s": 31,
+      "id": "WAq-CoC0EkI",
+      "titulo": "FLAMENGO NÃO PODE FICAR PARADO! BOTO E DIRETORIA PRECISAM ENTRAR EM AÇÃO?",
+      "canal": "ASR Fla",
+      "views": 1191,
+      "likes": 18,
+      "comentarios": 2,
+      "publicado": "2026-11-12T02:45:24Z",
+      "duracao_s": 1583,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=oKctXzXNo5g"
+      "url": "https://www.youtube.com/watch?v=WAq-CoC0EkI"
      }
     ],
-    "consulta": "Palmeiras Paulista semifinais clássicos",
+    "consulta": "Flamengo José Boto cenário",
     "n_videos": 1,
     "mais_de": false,
-    "views": 359,
+    "views": 1191,
     "top": [
      {
-      "titulo": "SANTOS FC X PALMEIRAS PAULISTÃO SUB-20 SEMIFINAL NO PACAEMBU",
-      "canal": "Família Santista",
-      "views": 359,
-      "url": "https://www.youtube.com/watch?v=oKctXzXNo5g",
-      "publicado": "2026-11-11T19:00:34Z",
+      "titulo": "FLAMENGO NÃO PODE FICAR PARADO! BOTO E DIRETORIA PRECISAM ENTRAR EM AÇÃO?",
+      "canal": "ASR Fla",
+      "views": 1191,
+      "url": "https://www.youtube.com/watch?v=WAq-CoC0EkI",
+      "publicado": "2026-11-12T02:45:24Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "Fora da Copa de 2026, Andrey Santos mira novo ciclo na Seleção Brasileira com Ancelotti",
-   "categoria": "Seleção",
-   "clubes": [
-    "Santos"
-   ],
-   "foco": false,
-   "nota": 59.3,
-   "sinais": {
-    "busca": 70,
-    "aceleracao": 73,
-    "midia": 87,
-    "aderencia": 60,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "douglas santos",
-   "termos_trends": [],
-   "n_fontes": 7,
-   "n_manchetes": 7,
-   "assinatura": "selec|santo|ciclo|andre",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Lista ou ranking (3 a 5 min)",
-    "gancho": "O torcedor está digitando “douglas santos” no Google agora. A resposta não é tão simples.",
-    "titulo_thumb": "VOCÊ PESQUISOU",
-    "pergunta_enquete": "Qual sua opinião: Fora da Copa de 2026, Andrey Santos mira novo ciclo na Seleção Brasileira com Ancelotti?",
-    "tecnica": "Dado",
-    "ganchos": [
-     {
-      "tecnica": "Dado",
-      "texto": "O torcedor está digitando “douglas santos” no Google agora. A resposta não é tão simples.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Fora da Copa de 2026, Andrey Santos mira novo ciclo na Seleção Brasileira com Ancelotti. Clube e Seleção puxando para lados diferentes: quem tem razão?",
-      "thumb": "SEM ANDREY?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Fora da Copa de 2026, Andrey Santos mira novo ciclo na Seleção Brasileira com Ancelotti. Todo mundo está olhando para um lado; o que importa para a Seleção está do outro.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Quem merece a vaga de Andrey na Seleção?",
-      "thumb": "E AGORA, SANTOS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Minha aposta para a vaga de Andrey: [SEU PALPITE]. Qual é a sua?",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Douglas Santos, lateral da seleção, revela sondagem de time brasileiro",
-     "fonte": "VEJA",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMGwyVTlnRkQ0OWtVM1U5X3c5TDdlVVBGbDF3ZG5nWGRkZ1ExZ0RYcDIzamhRLWNDV3l6X3ZKeHVoN0htZ3JCZ1QyOXp4RW1Sc2J0d0ZHMjFlN0l4QkdTdFZqMVlVTkhqbFh0cWpLWlYwakVMeXVaUEJZSUZ1N1UxRnI4U0RITDBmd1dSQU11cFBBOWNXVGJocHFLLXN2NmVFWmRMOVVB?oc=5"
-    },
-    {
-     "titulo": "Fora da Copa de 2026, Andrey Santos mira novo ciclo na Seleção Brasileira com Ancelotti",
-     "fonte": "A Crítica de Campo Grande",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY1JCMXF4R2h2bTJIcnBQeGYtY1VZdDVmcnR0RGgwTE1IRW5qYmdmMDB5RnduWE5JQi1adWxia3lVSTFWU3RRZTlLQmxnb1FaazBwVFFUaXdMRnlCSm44a29Vd2R0dGNjTl9kQ3p5YWo3YTE1TVdETWFIN19vMGI4QklkSjhxbDhXQ0ZCZmxpSzhKdkpCZXp5Y1E3UTd2Zkc4VHNCSXdQTnhTLVNUWFhIVzQ0Nm1aNjlod0pmU3pGSXJwZ3c?oc=5"
-    },
-    {
-     "titulo": "Após ausência na Copa do Mundo, Andrey Santos mira novo ciclo na Seleção",
-     "fonte": "Band",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFVSMWE1NnhlY0hZbzY0MklfWFZ1VThObjZEa2dLMFNHUUdwNmlfb1FLbUhZSlhpQmpkU1Nsbm1ESXZ1Ym9fUlZvOEZMSWdVS0U2b25HSXZnbzRUTm5RVWFUQmRMQ1U2UXdmTU8wQmNUZFlqTjVnUjJsNjFTNVBUSVk3VGxHcXl4S2NwN0F1RVV1NndiTFd0RWtJZ0pCTzlybHpzcEgwSGMtdHdIVjNkMExTNnJuelF2OFV2dElNNEdVSEh6SUN0aGdURQ?oc=5"
-    },
-    {
-     "titulo": "Andrey Santos diz estar 'muito confiante' no novo ciclo da Seleção",
-     "fonte": "TV Sim Brasil",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeDhIblFpYW9vUGlSbGJnNDUzdDU5SnNHTkpFcDB3M2I0VXJ0SVY4dTBDUVQzaFJTSzNBZlBsZ2FLMDhuaFVQS08tVkFKQzdYSDYxeGt0b3JWNEYza2EwWk5IMlIxY2Z1azVTcUFSWFd4TXJXeTg0bVVudnFuRVhReDFjdmlDSHRVYU5POEVfVFctQUJtSFZkVFp5TTRLRHBXb3VqdXVuX2xRdUtSaHNF?oc=5"
-    },
-    {
-     "titulo": "Andrey Santos fala sobre novo ciclo na Seleção e celebra reencontro com ex-companheiros do Vasco",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU2pJV1FXZEkybk96VDhmYXg1cjRpWXJXOVk5NGhkSTYtSFpQZGVlcHAxSVhtdkNoQ0o4TmJ3dFNzSGhQcm41Nm5VZVAxZGVNZm41MVA2bndfdnZBc2FOU1djdnFyZ25RWGFDZ2hVN1FDQWdrOEVPOExzSDFrbC1QeXB0cnAxU0lMODVlbHRmbUotd2FFTTJSM1dNUEYxVlpBSzA5MmdxQ2dQa3NCaURkMFlmY3lRZEhHbFVLbTBmX2tjRnhm0gHKAUFVX3lxTE9xQzRHemZwT3BPU1ZuQWg3SnJXRnNfRGpEaWQ2d1JtX3JoRmhpeE4yTFRGN29lSTk0RVItZ3E0TEhPVm1lVEdSUFV1cW5qckVNblN3eDZTeHpERHAxaC1BTC1jeHY0Nnh5WlBFMGk1TWowZmdmcnJXRDFRSWNvSndCV0hULUp5LWlwRFQwV0YxZk1UeGxka1RQZ3JsMEhieGNwMzdTUDUtaXhpTkZ2eHVRQzROVVdwc1NqWGRSNjFSTXBUeGNZYlB3aHc?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Futuro de Gabigol depende do fim de ano do Santos",
-   "categoria": "Mercado da bola",
-   "clubes": [
-    "Flamengo",
-    "Cruzeiro"
-   ],
-   "foco": true,
-   "nota": 58.9,
-   "sinais": {
-    "busca": 70,
-    "aceleracao": 70,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": 0
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "douglas santos",
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "futur|santo|flame|gabig",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 3 min)",
-    "gancho": "Futuro de Gabigol depende do fim de ano do Santos. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
-    "titulo_thumb": "QUEM TEM RAZÃO?",
-    "pergunta_enquete": "Qual sua opinião: Futuro de Gabigol depende do fim de ano do Santos?",
-    "tecnica": "Conflito",
-    "ganchos": [
-     {
-      "tecnica": "Conflito",
-      "texto": "Futuro de Gabigol depende do fim de ano do Santos. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Futuro de Gabigol depende do fim de ano do Santos. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Futuro de Gabigol depende do fim de ano do Santos. Isso é bom ou ruim para o Flamengo? Responde antes de ver a minha análise.",
-      "thumb": "E AGORA, FLAMENGO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Futuro de Gabigol depende do fim de ano do Santos. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "“douglas santos”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Futuro de Gabigol depende do fim de ano do Santos",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMDY4a0lTSlNhSVBEaXhJU240T0VmRERqOHFCUXBnS1hLRTRpUzRGVUpzSml4SEM0VFN6eWxFalZtQzV2dThOOGxNYUowTDM3Z1g1VHlWNHJ6ZjZaRDJvQmtXMlpBSFZWUWY1OVYxRERwVEprd0lGRVR2MlloR2UzbG5SY3JFRXNpeWNVeWdtQ2wyRGh0VDR1S0EyNUZvb19mRmlXSG56aFF5ZWJzb3hqSnlFVmFDQ2ZZbmJzeHpRTGljTEoyNEZlZ3RzOFloalhXUTgxZ0VKVUVSd180Ync?oc=5"
-    },
-    {
-     "titulo": "Flamengo, Cruzeiro ou Santos? Entenda o futuro de Gabigol",
-     "fonte": "tmc.com.br",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSTNScGFvdnlDcE1ZbGM1YWx3LTZGZUdhTnRQWWQzYU9CQm9lbHFfd28zNU45ZlVMZjdkZ0NwaU00bldmdnFxeDZpZ1F6YW1DN3ZVa2dTNm56OUtCMDN0ZU1mUVZlVzI1UnVQOTEwN0JxZEZzcmc3eVJMT214YmpnQQ?oc=5"
-    },
-    {
-     "titulo": "Com contrato perto do fim, Douglas Santos comenta interesse do Flamengo e futuro na Rússia",
-     "fonte": "Goal.com",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVHU5QmwwUEZwb0N3NXhDdlI0X3hBSXdBdnBDWFp1dVVfTDF3N1A2dU1uY3o2SzA0cTJkNTQwRTlCZlNqQ2h0TXFkZnQxVllNdDl1WUhfc3BPRnlXU1dFN1c1aTZwVVBhR3ZMM2Z6S0d6YmRaVzJXelZRV3lOUEdNNzctT2hKeV9neFVXd1VDMGplWGE0MktQeFpBZkZpdlZ2VVo1LVdHMUxoTjZnZnRxYmxyMVVKOU9IcWZSRlhRLUl5b012aGdXdEVJOWg?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [],
-    "consulta": "Flamengo Gabigol Futuro depende",
-    "n_videos": 0,
-    "mais_de": false,
-    "views": 0,
-    "top": []
-   }
-  },
-  {
-   "tema": "\"Reforços\", base e desfalques: veja as opções do Cruzeiro para enfrentar o Palmeiras",
-   "categoria": "Mercado da bola",
-   "clubes": [
-    "Palmeiras",
-    "Cruzeiro",
-    "Grêmio"
-   ],
-   "foco": true,
-   "nota": 58.9,
-   "sinais": {
-    "busca": 60,
-    "aceleracao": 31,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "internacional x grêmio",
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "palme|opcoe|enfre|cruze",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 3 min)",
-    "gancho": "Palmeiras pode ter defesa inédita contra o Cruzeiro após lesão. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: \"Reforços\", base e desfalques: veja as opções do Cruzeiro para enfrentar o Palmeiras?",
-    "tecnica": "Contradição",
-    "ganchos": [
-     {
-      "tecnica": "Contradição",
-      "texto": "Palmeiras pode ter defesa inédita contra o Cruzeiro após lesão. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Palmeiras pode ter defesa inédita contra o Cruzeiro após lesão. E agora: o que muda para o Palmeiras?",
-      "thumb": "E AGORA, PALMEIRAS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Palmeiras pode ter defesa inédita contra o Cruzeiro após lesão. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "O Palmeiras quer, mas do outro lado alguém está segurando. Essa queda de braço vai ter um perdedor.",
-      "thumb": "QUEM TEM RAZÃO?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "\"Reforços\", base e desfalques: veja as opções do Cruzeiro para enfrentar o Palmeiras",
-     "fonte": "GE",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeE5aZjhQbWg5TW10TmxlX3IwQTNqR0V5N21CRWRzUm1aUExodTdfcWM1RVFFWUZwbExMYTdZS2pYQkE1eVF3MlFCU3A2d1RFS2lWVlRjNkVsQjBYaW1MaFZkWUdLNzNSWlEwVlZjbk12TG1EVGRONm5iUXpJdkluU1doN0lyVXlJaGdYR3FfRzNGOVNyVzZLMUxJbUVia0RFcS1MSk5UVDJfVUxQOWV2ODJYZEhzSEZVakNvcExwX3BWMlZ5TDRIZVZLUnBUUW1iY1RQRldzblprNFVEdU9INS1EWQ?oc=5"
-    },
-    {
-     "titulo": "Jogador do Inter é alvo de times da Itália e Espanha; Grêmio ganha reforço para enfrentar o Palmeiras pela Copa do Brasil",
-     "fonte": "www.jornalcruzeiro.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYmROWFBvOGp5SXBuNFZuX25wcUVJODROek9sVEx4V1NlS244ak40YmFnc3ExLXExOVVRSDB5akFOUk94SThHcS1nX1k5MVlzcGlGbzY4aV9ZUHFmNTBWY1JrZWpRbU5VdE1MVnNLeURtM0xYZzNGbmpWdlJxa2FDQ1JfcUtUdmJNSGt4Sjd4ZmhlTS16SGo4QjI0UWs5amxsVmcta0ZYNXlub2JWTzZQc0stcWp4bWpBd3UtNzNiZzBHTC03a0hiZDNuXzFhdFY4ZWNGSElaYXJRSTBKR3ZMZm5VSUZ6RTI3cmc0NHQtcGdUUGlrZHJyejRn?oc=5"
-    },
-    {
-     "titulo": "Palmeiras pode ter defesa inédita contra o Cruzeiro após lesão; veja opções",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZm5fenBKeVVFNWhRa3UxT21tSUtnREdQS0I3ZEVET2k1STUtUDc0NFdRTXozemoySEp1Tk5zTnBnR1pOcWdRUTlsSGxhb3NiZU9tc1JFYlF1eEhNWl9nOEVtbTMwclZDVmRTOFg5QzBpbm5tX242XzhvSzA4NF9uV29SYnZGT3FJbDN3OXc0Ukx4TEoyelVvSVNHaHBVc3ZDcHM3UU90Q0VXRnpJUjkyQnN6VHFKbnF3SEg1MWVjdnpIN0JTejI3TnFGVXAyMmctUGN0TThaNmtlYUVGWnVF?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Zagueiro colombiano em pauta mas caso fica para a próxima gestão do São Paulo | Blog São Paulo Sempre",
-   "categoria": "Mercado da bola",
+   "tema": "Noroeste “vai tomar medidas” após cancelamento de amistoso com São Paulo, diz presidente",
+   "categoria": "Polêmica e bastidor",
    "clubes": [
     "São Paulo"
    ],
    "foco": true,
-   "nota": 56.2,
-   "sinais": {
-    "busca": 30,
-    "aceleracao": 60,
-    "midia": 46,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "são paulo fc contratação",
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "paulo|proxi|pauta|gesta",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 3 min)",
-    "gancho": "Zagueiro colombiano em pauta mas caso fica para a próxima gestão do São Paulo. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-    "titulo_thumb": "E AGORA, SÃO PAULO?",
-    "pergunta_enquete": "Qual sua opinião: Zagueiro colombiano em pauta mas caso fica para a próxima gestão do São Paulo | Blog São P?",
-    "tecnica": "Pergunta aberta",
-    "ganchos": [
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Zagueiro colombiano em pauta mas caso fica para a próxima gestão do São Paulo. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-      "thumb": "E AGORA, SÃO PAULO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Zagueiro colombiano em pauta mas caso fica para a próxima gestão do São Paulo. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "O torcedor está digitando “são paulo fc contratação” no Google agora. A resposta não é tão simples.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Zagueiro colombiano em pauta mas caso fica para a próxima gestão do São Paulo. Por trás disso, tem dois lados que não querem a mesma coisa.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Zagueiro colombiano em pauta mas caso fica para a próxima gestão do São Paulo. A leitura óbvia é uma. A que importa é outra.",
-      "thumb": "NÃO É BEM ASSIM"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "CONTRATOS EM PAUTA NO SÃO PAULO 🔴⚪⚫ O Tricolor aguarda a eleição presidencial para avançar no planejamento do futebol. Uma das tarefas da próxima gestão será definir o futuro de 14 jogadores com vínculos que vencem ao longo de 2027. De ac",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zR2p2VHd3ekJ2OWJZdl9HSUNTR19HLW8tQm0tOThEVk0wakMtcFNyY0w4VU5CM3lfc3VjdkJZZEp1M2g2U1YtNDNmQmxzcW5Pb1E?oc=5"
-    },
-    {
-     "titulo": "Zagueiro colombiano em pauta mas caso fica para a próxima gestão do São Paulo | Blog São Paulo Sempre",
-     "fonte": "Blog São Paulo Sempre",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYng2eWhMZmY2eWxtYnB6eTNnTmlVNnl3SGxybEFOZFBVaE5HcGJTeXAtd3pRTGJER0V5TXZueWYxZG9qSm1PWXN5dE9GeUxjUU16UUFjRl9JYmxDRXljaEhPZGRFaDZXUVo3WEUyb0JtTk5nNktENWhSc0lUN2R4WVhlZXI4OGlCRk1obWo4VVJSWi1tWXlGME5mZkw0OFRfVUUtQzZKUGhQWkZRMVVvYmkwODdFeG9hRzRr?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Flamengo lança 13ª edição do Nação Anjo, programa que já arrecadou mais de R$ 60 milhões para o esporte olímpico",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Flamengo"
-   ],
-   "foco": true,
-   "nota": 54.6,
+   "nota": 51.8,
    "sinais": {
     "busca": 0,
-    "aceleracao": 85,
-    "midia": 46,
+    "aceleracao": 61,
+    "midia": 67,
     "aderencia": 100,
     "youtube": null
    },
@@ -1848,277 +2238,146 @@
    "trafego_google": 0,
    "busca_torcedor": null,
    "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "edica|flame|espor|olimp",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "R$ 60 milhões. Esse é o número da semana no Flamengo, e eu vou te mostrar por quê.",
-    "titulo_thumb": "R$ 60 MILHÕES",
-    "pergunta_enquete": "Qual sua opinião: Flamengo lança 13ª edição do Nação Anjo, programa que já arrecadou mais de R$ 60 milhões p?",
-    "tecnica": "Dado",
-    "ganchos": [
-     {
-      "tecnica": "Dado",
-      "texto": "R$ 60 milhões. Esse é o número da semana no Flamengo, e eu vou te mostrar por quê.",
-      "thumb": "R$ 60 MILHÕES"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "O Flamengo lançou a 13ª edição do Nação-Anjo, programa que permite aos contribuintes destinarem parte do Imposto de Renda para apoiar a formação de jovens atletas dos esportes olímpicos do clube. Ao longo de sua história, a iniciativa já beneficiou ma",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqaUhuVkhsNjVyWWY1QlBkTU5XVThSRE1iRzlHSjU1WElUV3hTZUNyd080emtoQUFtNXl3eUZ5dVRUYm4tUWxTTURJeEdvV05Pd3c?oc=5"
-    },
-    {
-     "titulo": "Flamengo lança 13ª edição do Nação Anjo, programa que já arrecadou mais de R$ 60 milhões para o esporte olímpico",
-     "fonte": "Clube de Regatas do Flamengo",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZFBLZzlyRDUxSjZVckRtenJYMHVsNktSZmE5VWJ5VElUWWExci1Dbko5V0J6TzZzdTctbW1BZjY5S01oenEtemNWbEtDcDVWZl9aRW91LURNRFViNWhUdHJfRkVoelJLVEhucVB1WDhMWUotWUJYQXcyUkFxcVZmNHRORFlld0RRRGR6cm81eDlQRDRBZTN3M0dUaEYxLXZZdWo2WjNsdUNSaG5vYTdRUWNqdWpFZVRJQm0tQjJuT3lzUEZGYXp4VWdyVlpUR3lsZEVOVE1aczZCclFILTRndmVXY0Z3ZGlvdUw5ZXZVVTVpdw?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Corinthians vive impasse com bet após adiantamento de receitas de 2027",
-   "categoria": "Finanças e gestão",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 54.6,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 85,
-    "midia": 46,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "corin|adian|bet|vive",
+   "n_fontes": 4,
+   "n_manchetes": 4,
+   "assinatura": "paulo|amist|presi|cance",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "Corinthians vive impasse com bet após adiantamento de receitas de 2027. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
-    "titulo_thumb": "QUEM TEM RAZÃO?",
-    "pergunta_enquete": "Qual sua opinião: Corinthians vive impasse com bet após adiantamento de receitas de 2027?",
-    "tecnica": "Conflito",
-    "ganchos": [
-     {
-      "tecnica": "Conflito",
-      "texto": "Corinthians vive impasse com bet após adiantamento de receitas de 2027. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "Corinthians pode ver adiantamento de R$ 28 mi com bet virar nova dívida. Quase ninguém fez a conta do que isso significa para o Corinthians.",
-      "thumb": "R$ 28 MI"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Todo clube fala em equilíbrio. Corinthians pode ver adiantamento de R$ 28 mi com bet virar nova dívida. Esse número conta outra história.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Corinthians vive impasse com bet após adiantamento de receitas de 2027. E agora: o que muda para o Corinthians?",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Corinthians vive impasse com bet após adiantamento de receitas de 2027. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Corinthians vive impasse com bet após adiantamento de receitas de 2027",
-     "fonte": "Portal ABC do ABC",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc2dRREV3QVhZSDJnV2FOUGJoV3FON0tlX1RXbzl6cnk4VnV5cXRLSjI2VHJRdjF1VWEwNnJUZWNTbll2U3FTdl80ZXFpdXRsTUl5QTJFZmhQNnRxVHlUWGFLcXdnUHdMcjY1OEVRZHRFZ2owQkVWSlA5bFAxclBxRA?oc=5"
-    },
-    {
-     "titulo": "Danilo Lavieri: Corinthians pode ver adiantamento de R$ 28 mi com bet virar nova dívida",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcVpqRFlpMEQ1WHZDUHNqM0xQbnl3amVTUXdLcWFBXzMwNzVfMUVQdjByazZNUWNwREJXVEZ5Zy1paG5pc05iQ05pTHJSaEM4MDBIdF9OR24wVGpfVzIwNk9lTldWQWZZQ0Eta1pZdmcxTDNYQ2NISkVXeTNHT21jSWgxR3lvREJRUnQwS1V3a253dlhQME9OLVRSRU9MYWRuX3NvVFM4eVY5QV83Q2JzcUdVdGJDdFRwWjV4TlFKdW1rTEhkem91OHZzV0dHLXVnZ2lVUTVn?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "O que vai mudar? Como final da Copa do Brasil impacta planos e calendário de jogos do Palmeiras",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 54.2,
-   "sinais": {
-    "busca": 30,
-    "aceleracao": 47,
-    "midia": 81,
-    "aderencia": 100,
-    "youtube": 0
-   },
-   "fator_categoria": 1.142,
-   "trafego_google": 0,
-   "busca_torcedor": "palmeiras tem mundial",
-   "termos_trends": [],
-   "n_fontes": 6,
-   "n_manchetes": 6,
-   "assinatura": "brasi|palme|final|copa",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Palmeiras enfrenta impasse entre Copa do Brasil e Mundial. Parece que está tudo resolvido. No futebol, quase nunca está.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: O que vai mudar? Como final da Copa do Brasil impacta planos e calendário de jogos do Palm?",
-    "tecnica": "Contradição",
-    "ganchos": [
-     {
-      "tecnica": "Contradição",
-      "texto": "Palmeiras enfrenta impasse entre Copa do Brasil e Mundial. Parece que está tudo resolvido. No futebol, quase nunca está.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Palmeiras contra Grêmio vale mais do que três pontos, e os dois sabem disso.",
-      "thumb": "PALMEIRAS x GRÊMIO"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Palmeiras x Grêmio: qual é o detalhe que vai decidir?",
-      "thumb": "E AGORA, PALMEIRAS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Meu palpite para Palmeiras x Grêmio: [SEU PLACAR]. Deixa o seu nos comentários.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "Final da Copa do Brasil entre Palmeiras e Grêmio tem ingressos de R$ 249. Parece só um número, mas ele vai pesar nos próximos meses do Palmeiras.",
-      "thumb": "R$ 249"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Apesar dos rumores de que o Palmeiras poderia levar o confronto para a Arena Barueri, o site da CBF confirma o Nubank Parque como palco do duelo pela 36ª rodada do Brasileirão. A partida é vista como uma verdadeira final, já que as equipes disputam p",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNOFdUNEk1c2lOZUxSQW5RWWJIaUdwU0VxbVd5clBRdDBIOTloVmpMWU5GU3M2QnQtUXVUVHNxeFdHTlhncTdlbV9ZaHp3M29vV3c?oc=5"
-    },
-    {
-     "titulo": "Final da Copa do Brasil entre Palmeiras e Grêmio tem ingressos de R$ 249 a R$ 898",
-     "fonte": "RedeTV!",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYjc3RGFycHEtNVA2N2dyOVN3MlNMVnVSVUh4TWNXY25leDNORlozaTJ1VTdDcHN2YWJHaWpVLURDM1pzVGM5bXRNamF6dmgzMDNIaEVJS2FQTTkzX1VoYWlhUkZnQ2lmcnBOSXNnY1VOcXBhaHRsdEpLQWFFTjhDQlYzVGpFeHE0R183M21hSzlKQm5zWGZUS1ZETGJnWE1FdDh3UklqY1hJVGM4TU5EaENPeTEtTk02Q205ZFdaTjRsOGZsanpr0gHiAUFVX3lxTE9EN2lQbjZvM2lSWHlOak5mMGFtZ2lXMW9HUW5IaUk3cWVNMFVOQ1dhSTJmQVdXWWFXOFFKZVJNaEQ2MDJuQTNic2FWQ0xVcDIzaDRVSVJtcy0xZnNlOGxoSE1rZGxEdTJONWp5SldKcFlyTzZVVUQyWl9xSTVLUjJMcVVZLUVoYlJLMGs1Z1haTEU4TzczTU5LQ2U0Mm1MbFNNQW5lajNJSEF1Y1d2dGgyNURGRDBFQ2EyZXBrMExXOVd4Y2c0emsyenhUSWMtYXdleWZnS3poUllFWDl3WnhXMmc?oc=5"
-    },
-    {
-     "titulo": "Palmeiras enfrenta impasse entre Copa do Brasil e Mundial; entenda o calendário",
-     "fonte": "IstoÉ",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVFFSZnA5UkpVTE1GY3lheXZROE9BakV1SUV2NmItMUprclpsdFptaTVsXzBMZUk1S01hWHZUVFdmaEZkS1NRbHBweGdrckk4M1pzYzc4SUdRTlM4eWhGWEF3aTFoQzA1SXJHUFpPWF9jdFVRSzJsT2FjSXZxV3RBdWJINA?oc=5"
-    },
-    {
-     "titulo": "Palmeiras encara mês de decisões: final da Libertadores em 28/11 e Copa do Brasil em 06/12",
-     "fonte": "boca.com.br",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdXUtNGNYN0lOekpKWUxMTnNvNDljaDk4VXRkZV9ob0lIYXRXOU9sUUdLZTVNaGlDUXhJMUJORXdkWUZ6eWVtREU1aTJtdFd4Z2lzSTRuRmlCY1EyVXpDN3duSjFHSDhSTHd5a3JJYjZqdkFTU21qTmFyZHBianJKcGlTaUFmSVdhR2V1aHItMmk?oc=5"
-    },
-    {
-     "titulo": "O que vai mudar? Como final da Copa do Brasil impacta planos e calendário de jogos do Palmeiras",
-     "fonte": "GE",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOT3hPblF6QzRhRTMtV05ocXlpSE1TR1h0Z2txOUEwU20tWDd4Y0lhd1FuOEgwZDhkWTVMdlhLU3psbF9iOEEzUFpsNWx4dlJuSTVqMFpaYWdRQXBOWEFJdFJiU2xhZXlRMGtzdE11ZVlDZTBqNWxvT0k3ZWMwWjNBajVPRXVIVTlVU3R1aHZwSmJudXpBTWJZZU5QbWpBdm5RcFMtRldsdWVwUzU5dlVCeDlkZXB6cXBYTElhSGRnZDkxc0ZiZHdwRnlCS09LNUxUMUZYeTdnTmpfMXNoZ1ZpOG81ZUlGaVZnbkpIajFtR1hPeTlET0Zv0gGGAkFVX3lxTFBzMWloTEIzZ2xOMldqT0NDQnFvbkhSRFp4R3JVZkE1eV9MSWNHVk5OSmJyYTBFUzlDLTQ0SGdkVkJSTkUyX1lRZ0hDYUFvcDFZZFUyWEVpTEZnRTB6djFwdE5IOVM0TVRnQnFQMUJ5S1ZGWTRkdVN5LUoxWEp0ZzJzOHd6VWRhdmpZVXJSbHlsQmR2SDlVaW9IcEVfVGxxdXVRaDlyMjVncmh4YmxwR1JncVhxQXVsenhZd1FXNnBQQkJnOGp6SE1zZkUyc3p3U0lHaWVUamFVUlphUE5POWNKT1d0WHFQQTQzbVE4U1lscURSNEJqSDRYVFc1MVJ6MS1xV3p6Wnc?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [],
-    "consulta": "Palmeiras calendário impacta",
-    "n_videos": 0,
-    "mais_de": false,
-    "views": 0,
-    "top": []
-   }
-  },
-  {
-   "tema": "Léo Pereira aguarda renovação de contrato, enquanto preserva o protagonismo no Flamengo",
-   "categoria": "Mercado da bola",
-   "clubes": [
-    "Flamengo"
-   ],
-   "foco": true,
-   "nota": 54.2,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 60,
-    "midia": 81,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 6,
-   "n_manchetes": 7,
-   "assinatura": "leo|flame|perei|renov",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 3 min)",
-    "gancho": "Léo Pereira aguarda renovação de contrato, enquanto preserva o protagonismo no Flamengo. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
+    "gancho": "Minha aposta: essa confusão do São Paulo ainda vai ter mais um capítulo esta semana. Guarda esse vídeo.",
     "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Léo Pereira aguarda renovação de contrato, enquanto preserva o protagonismo no Flamengo?",
+    "pergunta_enquete": "Qual sua opinião: Noroeste “vai tomar medidas” após cancelamento de amistoso com São Paulo, diz presidente?",
     "tecnica": "Aposta",
     "ganchos": [
      {
       "tecnica": "Aposta",
-      "texto": "Léo Pereira aguarda renovação de contrato, enquanto preserva o protagonismo no Flamengo. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
+      "texto": "Minha aposta: essa confusão do São Paulo ainda vai ter mais um capítulo esta semana. Guarda esse vídeo.",
       "thumb": "MEU PALPITE"
      },
      {
-      "tecnica": "Contradição",
-      "texto": "Léo Pereira aguarda renovação de contrato, enquanto preserva o protagonismo no Flamengo. Parece notícia pequena. Não é.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
       "tecnica": "Pergunta aberta",
-      "texto": "Léo Pereira aguarda renovação de contrato, enquanto preserva o protagonismo no Flamengo. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
-      "thumb": "E AGORA, FLAMENGO?"
+      "texto": "Noroeste “vai tomar medidas” após cancelamento de amistoso com São Paulo, diz presidente. Quem ganha com essa confusão? Pensa bem antes de responder.",
+      "thumb": "E AGORA, SÃO PAULO?"
      },
      {
       "tecnica": "Conflito",
-      "texto": "O Flamengo quer, mas do outro lado alguém está segurando. Essa queda de braço vai ter um perdedor.",
-      "thumb": "QUEM TEM RAZÃO?"
+      "texto": "Noroeste “vai tomar medidas” após cancelamento de amistoso com São Paulo, diz presidente. Tem gente no São Paulo puxando para lados opostos, e essa conta chega no campo.",
+      "thumb": "SÃO PAULO x NOROESTE"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Dizem que está tudo em paz no São Paulo. O que acontece nos bastidores mostra o contrário.",
+      "thumb": "NÃO É BEM ASSIM"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Por que Léo Pereira ainda não renovou com o Flamengo? Veja",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQzdRYm1XQjVjeGpfNUpjUV9XRTFqQWlSeVY1YUdiNkJ3RUtRdlVRTVh6eUU2Y19MaG9VY1JyMXl0LXJaX2UtdjFtc2pOSXRUVWwwekExNXhWbkhSLVM5azJlMk40NTZ4YngxcnlDX1NiZEY3Z1l0eWVlX0dUdG5iUDFaclpGMlZrLWtwMTJFLWZlamVVZmtQY0IzUjc2UG02dnd5ZC1jWmZoZGRrTy0zalpzUXpwOXQxY0RTMzZueTVNYWFhREx0aWpZSjhVb2JPSVhuS3BsMWs2a0s4QXlj?oc=5"
+     "titulo": "POLÊMICA! Jogo do São Paulo é cancelado e presidente ameaça ir à Justiça",
+     "fonte": "Nação Tricolor",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFZ095UFBkQk1OcE5FbnIwdzhHdHlsbVk4S1VRYjd0QkdRZzNiQlAzY21xY1NRbEwwb3FXbG5NQ2RPVk1RVUx5MUFKa0xSLVdvU090NXpQVjVQSV9fbnh3QXVTVktOVWR5ZlpxaS1ib2lBM0tjbmF1aDl3ZGtQdw?oc=5"
     },
     {
-     "titulo": "Léo Pereira aguarda renovação de contrato, enquanto preserva o protagonismo no Flamengo",
+     "titulo": "Alerta do Inmet com ventos de 40 a 60 km/h derruba amistoso Noroeste x São Paulo",
+     "fonte": "Mix Vale",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkZDQ1Q3bUFCMkdWOTdvOXIxTTg5RHpxdTNZWENhTXE0UlYyOUJCRjZVdTlBcFhPbTNjRzI0VkcwTFlDNnZZbXNXZ2RKYXViU084ZFFjZUQweW1qNVE3eXBUUGdwN1JGTGZ2NGtSOFhYNmVrMTRkXzl3akFEdTJaQVM4am00azNzMVlsd2ZlWnpsc2ZDbVJDNXAxb21VN1JwaVpCVndwTGlOcm1OWFVRbFd6MDFXS3NBUHlJ?oc=5"
+    },
+    {
+     "titulo": "Presidente da SAF do Noroeste critica cancelamento de amistoso com o São Paulo e anuncia medidas judiciais",
+     "fonte": "Arquibancada Tricolor",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLU1OdmcydXlDcmZmXzZael9vMDVxSW9xUWFxZXpiSTF2OFRjX0RqWVBHRkk1TGZTNnJFdVJVdWJEdEZUeDFXdkZ4WHVIVTA4MkRhWjY2bWFJRmZSYkZaMnFBTUhKd1FLV3g5dFQ2N0gzdTl6d3BxVTRfTzRpQkpjYU1RUGpPTW50dUQ2R2FheG1tM2dFV0daUFl2cEQ?oc=5"
+    },
+    {
+     "titulo": "Noroeste “vai tomar medidas” após cancelamento de amistoso com São Paulo, diz presidente",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdHB4WXFpRFlpRzQ4SUdoM29LTlNJVm9JSURCMnFJem1FMm9BRHFIZk00LUhDd001NXJBd1RpZ040Q3dvLW80U1BWVUlwMDU3NGU1bHhMR2JoUVctR1BFd3QyTC10S3hwcHRqclNucGlEVDg5aUFscmNTaEJBYmZTa3pQTmxYMjE5d1JwVk1RSlVLWmV1blhBUU1uRkdpd0J4QWx2ZHpTRnNSdGFzcVlUY3ZKQkFjaUVFNFc2bVZtcmZ3TTJp0gHKAUFVX3lxTE9EMVVhTVYtMHBWY2FXYnpKMzhva25OaHNMc0VVS0kxbGdGUEZCN1pzbGRxeUtEOTRPemU0MUdlYURSODVuSHdaMVd1aTNYZ3h3eXgxOU9MQU5XODU3VXVTNlNNT0RLVVlMRUUtOEI4QlFVQWdYckxHWm1iT240ZEtZUjRVTzdoTUY5VmhONkJFUmpsNFFkMlJhalFqUGpYWnI1RS1VMzNiRF9DeVNaU3ZaMmtHXzJJcXNfSjlyT1luM1ZsNFI2XzZBLWc?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Flamengo é o clube com mais vitórias em competições nacionais e internacionais na década. O Rubro-Negro tem 212 vitórias e aparece à frente de Palmeiras, Fluminense e Atlético-MG. Confira o ranking divulgado pela R10Score: 1. Flamengo (212) 2. ⁠Pal",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Flamengo",
+    "Palmeiras",
+    "Fluminense"
+   ],
+   "foco": true,
+   "nota": 51.7,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 40,
+    "midia": 67,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.142,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 4,
+   "n_manchetes": 6,
+   "assinatura": "clube|flame|palme|divul",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "O Rubro-Negro tem 212 vitórias e aparece à frente de Palmeiras. Guarda esse número, porque ele muda a conversa sobre o Flamengo.",
+    "titulo_thumb": "212 VITÓRIAS",
+    "pergunta_enquete": "Qual sua opinião: Flamengo é o clube com mais vitórias em competições nacionais e internacionais na década. ?",
+    "tecnica": "Dado",
+    "ganchos": [
+     {
+      "tecnica": "Dado",
+      "texto": "O Rubro-Negro tem 212 vitórias e aparece à frente de Palmeiras. Guarda esse número, porque ele muda a conversa sobre o Flamengo.",
+      "thumb": "212 VITÓRIAS"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Palmeiras divulga informações direcionadas ao jogo do Flamengo. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Palmeiras divulga informações direcionadas ao jogo do Flamengo. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+      "thumb": "FLAMENGO x PALMEIRAS"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Palmeiras divulga informações direcionadas ao jogo do Flamengo. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Palmeiras divulga informações direcionadas ao jogo do Flamengo. Isso é bom ou ruim para o Flamengo? Responde antes de ver a minha análise.",
+      "thumb": "E AGORA, FLAMENGO?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Boletim dos emprestados: O que o Palmeiras pensa sobre seus atletas em outros clubes?",
      "fonte": "tmc.com.br",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRFdqUTNGYkJVZU1SeGJnQVdRbWFXaWo5czZxRjcwQXNuSjEzWkVMWDQ1OEdoZnE4ZjVMeVh1UXoxNFI1d1dXaldOV2UzVjc2WThNVlR0RmFWeldteW9pV0o5SE9FSkUwNnBQN3d2Zll4dnhpeTYwUWRIeDdrT2FmVzc3MWpjQkdLQm1TbXNEYzhzajVaSlhncTlBc3BENllkN1VDV3V6SlYwU2J6bEtfa3BFaUg?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0tLZ0ZndVZNMGQ4TzRvcG94NFNUeEtBVFpoenpqSzFpS2NyaGRiUGI1ZlhEMTZvOVFFTl9YQmM5cnJjdzBuT2VVRkZSMTJwR1ZWN3pzWGFaTm03aDBGdjJRNUFXaVNnWndLbTlNRUxFR2llLW9EbHZFbEd3UGJGdy0xaXBYRVdISmlhWVRTN3p6Nm4wckpxa3FuNE5nZDBxeEhnS2hEdFNDMlp6QTFHVg?oc=5"
     },
     {
-     "titulo": "Flamengo abre conversas para ampliar contrato de Léo Pereira após Brasileiro",
-     "fonte": "Rádio Itatiaia",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZ1lacUNlLTdDcEZteEp6QXdZT1FIekE2SmY3anh1MjlNNXE0TC14UjlKMEpVT1AyTnh0ZTJhMXhpVmFPTGJNTk5wZWxXdnNwQUozUnBNb0tEVWtEOFRzZTZnRlNnbG9PdTFSemsxeTVOQ1Zkb2RaRkV3V3RUODVtUG1GRUtFbWptTWVYOUp0aFlZSXZLbEh6UkFEYzRjOXl0ZjRRMllFMGR2bzVUbjhsRXdSN3FiSlhpVWV1c3FLZVpqUkhzR2tRcEpQd1RKXy16OW9ndk51b0szQ2xxcWhPMnlJOV9xYm5MWjZVbXJHT05jd09CMlpz?oc=5"
+     "titulo": "Nacional-URU critica clubes brasileiros, revela dívida por Millán, mas poupa o Fluminense: \"Mais sensato\"",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLXNDRXEyUzRLWXJMMXZfazZhaE9xNEZDSmlEdkcyQmZBdUhCNmMzZ1JHQjZSaWF5STBEVU9LcXBqaUJlaFFyMXMwWjVvRE1RS3RSVC04Ty1FaGk1amhrWFdsVWtJLWtNZEhpang2VEFxbHdzNHBIalJmaW5hSXFZMmN1LTlCcHB6QUk0SmV0d3dRSmZVdnIwTVdxV2YwVGhNeFFmUXdURDdNWmhZbnZRZ2ZCWWt6WklVMXpTR3J5N0ozZFRDY3dzZ0cxUEhfUkFnZTJkUDZGcng4enRtdmM1OUU1RHFPSGZRZ1hDTEc1R2Z5cmNQS2Z4MGotN0JsUVA40gGPAkFVX3lxTFBUcUpERDZfSGUtRkwxUXIza3FxRzRWbl9ZTkE4VERGc0FNLTNhYlBjVlRJQnN2ZkJyYlFjUENlbzVQdGJoRmtIRGZ3a0F1MjFUVDVYZUpLSXhTYzAwUi1hUTh5TndvTldnbzMtMFNHdTVicmlCTERXYzlSckx1NjMxRERiWi11R3U5R1ZUMzhHb0R6TmxHWTNtTmZ5NXUwMmdWaVNTUHZKdFFZMlA4Yk9XQnZ4NUtDWkd4MHd1Z291cmRlczFOVkFsckVZSFRtRlNlMVVBTHFlcUg0S3owS2VWV05CVjE5b2Yxb05Cd2hGdXBNdU9SRFN3andnTzU1UV84UUZjR1B0bk5lb19TbHc?oc=5"
     },
     {
-     "titulo": "Flamengo enfrenta impasse na renovação de Léo Pereira até 2029",
-     "fonte": "IstoÉ",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tS0xhRnNJdXAzNG90a3RTbjRuVVRZZmJKVUh0OFBubDY4UUwtYTlPRUEyZDBBTzhGcEdHelZpLU9Cc0FtaE5lLWRGZHpVOUF1RWs5UzZQZ3pjWjE1VFl1c19BRjBubTIyTmlqZmgtM0Q3dw?oc=5"
+     "titulo": "SE LIGA COMO FOI O PONTO FINAL DO FLAMENGO PARA SACRAMENTAR A LINDA VITÓRIA CONTRA O FLUMINENSE! MARACANÃZINHO EXPLODIU!",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKb1JlSVpHYllWbDVjYWVuTlc2cDd3aDY4RFVnZTJMZmdzb0hrMHBRX25iQ1dkVDBqV0w4M3JDVGdVSkd6QnlSaFhnMWVOM3Y2ZkhMZHJ3?oc=5"
     },
     {
-     "titulo": "Terceiro maior vencedor do Flamengo, Léo Pereira aguarda renovação enquanto mantém protagonismo",
-     "fonte": "GE",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVmEtQ3Jla1JzSnRSckQ3Tk1mOXR4dEQtU0JIWng2RnhqTFhFaXJzS211WGZzUFAxMzg3czV6WjlNUV9RLXRGQ1V5WGVtWS14TnhySUlmYU54S3o0SXBwSzZXMnRXRXl2NG5tcXpxMm1nNjFfX2J6ZVBtY29MNGZ5S2dvOVhVZHlac1B3SExxaUVKQjNZeWVMVzhYYjVTWml2VFJJN0hGZ2hpdTdvcFlRZlU2bkxZN2N6UWp6bEZDS2lkU2drSnFVVEp4aXJieUlRNmV0ZS1SR0hpcW9LTy00SVNxb2ZuTnh5M0ktLUJibUg3STZSNGfSAYQCQVVfeXFMTjl0S09VZVhqUzVlY1JDcDJzZ0FmQVBLSU43d3hPSExTV2ZvcHBUbmxtY0RZdjVIN09ubFRLclBnZ1N2OWlEUHZBaWtKekxUN1pFT2Jhdko3YkRjSk5WZVVXMzJWc0ZOYWZ0NVpHTnY3MWg5U1F5WEdLWWFFQU1iZ1pFV0hBZUhTNEptbzNJaVpZVENaaFppVDdsMVp2UHRBcW5QR2c5UEpvazV1MDJQbTM4YjhvalJ6SmR5cWgwQ2U5QUtJS2FIeXQyQWRWNVdzZ3dzWXdSckJXSTUza0lndDhxTFdqN21zb21PdkFicXM1a0Y3NEcxcnpxX0dMQnYwWF9zcGI?oc=5"
+     "titulo": "Palmeiras divulga informações direcionadas ao jogo do Flamengo",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbldPekVQM1VfaXFlUFBUajVtRE80d1F5eGRuakxiRTRwbHpZdFRCejJodHJHWVVHaFVIVjVtWFBuc1RiX3ZJWGp5TUdWanlaelZQdnUzTkJ1N09HcWg2LXVxZHNJUzlrUEF0QTcyR180SVo5clAxY05LMExOOEY2aExISkNOSUhIZVZUeXFlSThpTUF5S1kxUmVfeGQtMWlrTnRXUndRWFd1M012eFlueE1BWk9YWWJNT3dPbmpsQk85aGxwRWRJZHB2NXc2WTUzZG8ybFNqZHFfanNmcU9QRGpaR09oNDQ?oc=5"
+    },
+    {
+     "titulo": "Flamengo é o clube com mais vitórias em competições nacionais e internacionais na década. O Rubro-Negro tem 212 vitórias e aparece à frente de Palmeiras, Fluminense e Atlético-MG. Confira o ranking divulgado pela R10Score: 1. Flamengo (212) 2. ⁠Pal",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1waHpZaUNiYnRFaFhrSjZFTS1NRWRsVkpONjdySGRnUGZGaEE3TXRRQkx2ZnJIN2xRU25XcFp2MXBYb01jeHdRdDlZckNnZkJGbkE?oc=5"
     }
    ]
   }
