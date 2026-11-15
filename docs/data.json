@@ -1,18 +1,23 @@
 {
- "gerado_em": "2026-11-14T16:44:01.042341+00:00",
- "data_br": "14/11/2026 13:44",
+ "gerado_em": "2026-11-15T17:25:45.673626+00:00",
+ "data_br": "15/11/2026 14:25",
  "status": {
   "Google Trends": 10,
-  "Google News": 893,
+  "Google News": 854,
   "Vídeos do canal": 15,
   "Buscas do torcedor": 18,
   "YouTube (48 h)": 12,
-  "Alertas de tendência": 2,
+  "Alertas de tendência": "nenhum hoje",
   "Agenda (ESPN)": 202,
-  "Agenda (buscas Google)": 0
+  "Agenda (buscas Google)": 1
  },
  "canal_id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
  "videos_recentes": [
+  {
+   "titulo": "ESPANHA  X   INGLATERRA - RODADA 6",
+   "url": "https://www.youtube.com/watch?v=g4VaXPhpK1s",
+   "publicado": "2026-11-15T13:38:07+00:00"
+  },
   {
    "titulo": "TOCA E RECEBE",
    "url": "https://www.youtube.com/watch?v=nuSGQmfQbLc",
@@ -57,17 +62,13 @@
    "titulo": "PALMEIRAS  X   VASCO DA GAMA - SEMIFINAL",
    "url": "https://www.youtube.com/watch?v=F5utATxqLF0",
    "publicado": "2026-11-02T09:25:21+00:00"
-  },
-  {
-   "titulo": "BAHIA FORTE NO SEU  TERREIRO/PEIXE PARA O VERDÃO, MENGO AGRADECE/ FLU  COMPLICA INTER/TEM CONVOCAÇÃO",
-   "url": "https://www.youtube.com/watch?v=Jxfar_BA1D0",
-   "publicado": "2026-10-30T12:35:23+00:00"
   }
  ],
  "termos_futebol": [
-  "norway vs wales",
-  "fortaleza x vila nova",
-  "noruega x gales"
+  "joaquín freitas",
+  "deportivo - barcelona",
+  "serie c italia",
+  "bielorrússia x albânia"
  ],
  "pesos": {
   "busca": 0.24,
@@ -100,10 +101,10 @@
     "estado": "pre",
     "clube": "Flamengo",
     "tipo": "pré-jogo",
-    "em_horas": 103,
-    "gancho": "Flamengo x Athletico Paranaense parece um jogo com dono. É exatamente aí que mora o perigo.",
-    "titulo_thumb": "ZEBRA À VISTA?",
-    "tecnica": "Contradição",
+    "em_horas": 78,
+    "gancho": "Meu palpite para Flamengo x Athletico Paranaense: [SEU PLACAR]. Deixa o seu nos comentários.",
+    "titulo_thumb": "MEU PALPITE",
+    "tecnica": "Aposta",
     "formato": "Enquete: qual o seu palpite? (30 s)"
    },
    {
@@ -117,10 +118,10 @@
     "estado": "pre",
     "clube": "Palmeiras",
     "tipo": "pré-jogo",
-    "em_horas": 103,
-    "gancho": "Meu palpite para Cruzeiro x Palmeiras: [SEU PLACAR]. Deixa o seu nos comentários.",
-    "titulo_thumb": "MEU PALPITE",
-    "tecnica": "Aposta",
+    "em_horas": 78,
+    "gancho": "Cruzeiro x Palmeiras: qual é o detalhe que vai decidir esse jogo?",
+    "titulo_thumb": "QUEM LEVA?",
+    "tecnica": "Pergunta aberta",
     "formato": "Enquete: qual o seu palpite? (30 s)"
    },
    {
@@ -134,10 +135,10 @@
     "estado": "pre",
     "clube": "Corinthians",
     "tipo": "pré-jogo",
-    "em_horas": 104,
-    "gancho": "Se você fosse o técnico em Corinthians x Botafogo, quem escalaria?",
-    "titulo_thumb": "SUA ESCALAÇÃO",
-    "tecnica": "Pergunta aberta",
+    "em_horas": 79,
+    "gancho": "Corinthians x Botafogo parece um jogo com dono. É exatamente aí que mora o perigo.",
+    "titulo_thumb": "ZEBRA À VISTA?",
+    "tecnica": "Contradição",
     "formato": "Enquete: qual o seu palpite? (30 s)"
    },
    {
@@ -151,39 +152,69 @@
     "estado": "pre",
     "clube": "São Paulo",
     "tipo": "pré-jogo",
-    "em_horas": 128,
-    "gancho": "São Paulo x Fluminense: qual é o detalhe que vai decidir esse jogo?",
-    "titulo_thumb": "QUEM LEVA?",
+    "em_horas": 103,
+    "gancho": "Se você fosse o técnico em São Paulo x Fluminense, quem escalaria?",
+    "titulo_thumb": "SUA ESCALAÇÃO",
     "tecnica": "Pergunta aberta",
+    "formato": "Enquete: qual o seu palpite? (30 s)"
+   },
+   {
+    "id": "401841322",
+    "data": "2026-11-21T19:30Z",
+    "liga": "Brasileirão",
+    "casa": "Palmeiras",
+    "fora": "Flamengo",
+    "placar_casa": null,
+    "placar_fora": null,
+    "estado": "pre",
+    "clube": "Palmeiras",
+    "tipo": "pré-jogo",
+    "em_horas": 146,
+    "gancho": "Palmeiras x Flamengo: um precisa vencer, o outro não pode perder.",
+    "titulo_thumb": "PALMEIRAS X FLAMENGO",
+    "tecnica": "Conflito",
     "formato": "Enquete: qual o seu palpite? (30 s)"
    }
   ],
   "resultados": [],
   "na_midia": [
    {
-    "jogo": "Palmeiras x Flamengo",
+    "jogo": "Internacional x Flamengo",
     "clube": "Flamengo",
-    "manchetes": 6,
-    "exemplo": "Palmeiras x Flamengo: preços e como comprar ingressos para decisão do Brasileirão"
-   },
-   {
-    "jogo": "Palmeiras x Estudiantes",
-    "clube": "Palmeiras",
-    "manchetes": 3,
-    "exemplo": "Palmeiras x Estudiantes: Rival do Verdão na final da Libertadores joga pela última vez antes da decisão"
+    "manchetes": 2,
+    "exemplo": "Jogos de hoje: Internacional x Flamengo e Espanha x Inglaterra; veja onde assistir"
    }
   ],
-  "nas_buscas": []
+  "nas_buscas": [
+   {
+    "tipo": "pré-jogo",
+    "fonte": "buscas do Google",
+    "clube": "Flamengo",
+    "jogo": "Flamengo x Athletico-PR",
+    "casa": "Flamengo",
+    "fora": "Athletico-PR",
+    "confianca": "alta",
+    "posicao_busca": 5,
+    "manchetes": 2,
+    "exemplo": "O Flamengo divulgou a programação da semana, que será decisiva para o Rubro-Negro. O Mais Querido terá dois compromissos importantes: enfrenta o Athletico-PR, no Maracanã, e, na sequência, encara o Palmeiras, no Nubank Parque. BORA MENGÃO!",
+    "sugestoes": [
+     "flamengo x athletico-pr"
+    ],
+    "gancho": "Se você fosse o técnico em Flamengo x Athletico-PR, quem escalaria?",
+    "titulo_thumb": "SUA ESCALAÇÃO",
+    "tecnica": "Pergunta aberta",
+    "formato": "Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)"
+   }
+  ]
  },
  "buscas_torcedor": {
   "flamengo": [
    "flamengo x cruzeiro",
-   "flamengo e cruzeiro",
-   "flamengo libertadores",
-   "flamengo x corinthians"
+   "flamengo e cruzeiro"
   ],
   "corinthians": [
    "corinthians x estudiantes",
+   "corinthians x botafogo",
    "corinthians x rosario central"
   ],
   "são paulo fc": [
@@ -193,6 +224,7 @@
    "palmeiras x santos",
    "palmeiras x cerro porteño",
    "palmeiras x ldu quito",
+   "palmeiras x flamengo",
    "palmeiras x ldu"
   ],
   "seleção brasileira": [
@@ -203,284 +235,156 @@
   ],
   "brasileirão": [
    "brasileirão série b",
+   "brasileirão série a",
    "brasileirão série c",
-   "brasileirão 2026",
-   "brasileirão série d",
-   "brasileirão série c classificação",
-   "brasileirão série a classificação"
+   "brasileirão série a classificação",
+   "brasileirão série b 2026",
+   "brasileirão 2026"
   ]
  },
- "alertas": [
-  {
-   "id": "EkMr3W9jZF4",
-   "tema": "Flamengo vence Paisas por 104 a 71 e abre quartas da Liga Sul-Americana com autoridade",
-   "clubes": [
-    "Flamengo"
-   ],
-   "origem": "Pauta do radar",
-   "formato_em_alta": "Lives",
-   "sugestao": "Live de debate ou react ao vivo, com o assunto no título",
-   "dica_do_canal": "No seu canal, Transmissão de jogo rende 4,3x a média: puxe o assunto também na próxima live.",
-   "n_videos": 2,
-   "views": 71805,
-   "velocidade": 41.5,
-   "engajamento": 1.8,
-   "engajamento_pct": 4.9,
-   "ganho_hora": null,
-   "exemplos": [
-    {
-     "titulo": "JOGO COMPLETO: PAISAS BASKTEBALL (COL) X FLAMENGO | QUARTAS DE FINAL | LIGA SUL-AMERICANA 2026",
-     "canal": "BasqueteTV",
-     "views": 67020,
-     "url": "https://www.youtube.com/watch?v=EkMr3W9jZF4",
-     "formato": "Lives",
-     "views_hora": 5140
-    },
-    {
-     "titulo": "PAISAS 71 X 104 FLAMENGO | MELHORES MOMENTOS | QUARTAS DE FINAL - LIGA SUL-AMERICANA",
-     "canal": "BasqueteTV",
-     "views": 4785,
-     "url": "https://www.youtube.com/watch?v=aqkuvnehl2E",
-     "formato": "Vídeos longos",
-     "views_hora": 397
-    }
-   ],
-   "gancho": "Flamengo vence Paisas por 104 a 71 e abre quartas da Liga Sul-Americana com autoridade. Dentro de campo acabou. Fora dele, a discussão está só começando."
-  },
-  {
-   "id": "b--TCzqf7AE",
-   "tema": "Arrascaeta brilha no Uruguai antes de voltar ao Flamengo; veja como foram os rubro-negros na Data Fifa",
-   "clubes": [
-    "Flamengo"
-   ],
-   "origem": "Pauta do radar",
-   "formato_em_alta": "Shorts",
-   "sugestao": "Short de 30 a 60 s com a sua opinião ou reação (poste o mesmo vídeo como Reels no Instagram)",
-   "dica_do_canal": "Seu canal quase não tem Shorts: é uma chance de testar o formato com um assunto que já está bombando.",
-   "n_videos": 13,
-   "views": 63105,
-   "velocidade": 29.9,
-   "engajamento": 2.2,
-   "engajamento_pct": 5.9,
-   "ganho_hora": null,
-   "exemplos": [
-    {
-     "titulo": "Uruguai vence a Argentina com show de Arrascaeta do Flamengo #flamengo #arrascaeta #futebol #mengo",
-     "canal": "FALA 7 | Notícias de Futebol",
-     "views": 52345,
-     "url": "https://www.youtube.com/watch?v=b--TCzqf7AE",
-     "formato": "Shorts",
-     "views_hora": 3703
-    },
-    {
-     "titulo": "FLAMENGO: ARRASCAETA DECISIVO PARA O URUGUAI! PALMEIRAS COM PROBLEMAS! BRASIL PERDE COM POLÊMICA! 📱",
-     "canal": "Juliano Braga Fla",
-     "views": 4535,
-     "url": "https://www.youtube.com/watch?v=DSQm2A1uFn8",
-     "formato": "Lives",
-     "views_hora": 2119
-    },
-    {
-     "titulo": "URUGUAI BATEU NA ARGENTINA #flamengo #mengo #mengão #arrascaeta #carlosalberto #caneta #brasileirão",
-     "canal": "NAÇÃO DO ALÊ",
-     "views": 1195,
-     "url": "https://www.youtube.com/watch?v=siCsM4mV8j0",
-     "formato": "Shorts",
-     "views_hora": 253
-    }
-   ],
-   "gancho": "Eu aposto que a próxima lista da Seleção vai ter [SEU PALPITE]. Me cobra depois."
-  }
- ],
+ "alertas": [],
  "aviso_requisitos": null,
  "temas": [
   {
-   "tema": "Com três de Fabiano, Palmeiras vence Santos e avança à final do Paulista Sub-20",
+   "tema": "São Paulo é goleado pelo Palmeiras na ida da semifinal do Paulista sub-17",
    "categoria": "Jogo e resultado",
    "clubes": [
-    "Palmeiras"
+    "Palmeiras",
+    "São Paulo"
    ],
    "foco": true,
-   "nota": 78.7,
+   "nota": 77.2,
    "sinais": {
     "busca": 60,
-    "aceleracao": 33,
-    "midia": 81,
+    "aceleracao": 29,
+    "midia": 75,
     "aderencia": 100,
-    "youtube": 88
+    "youtube": 91
    },
    "fator_categoria": 1.142,
    "trafego_google": 0,
    "busca_torcedor": "palmeiras x santos",
    "termos_trends": [],
-   "n_fontes": 6,
-   "n_manchetes": 6,
-   "assinatura": "palme|pauli|santo|sub-2",
+   "n_fontes": 5,
+   "n_manchetes": 5,
+   "assinatura": "sub-1|paulo|semif|pauli",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Com três de Fabiano, Palmeiras vence Santos e avança à final do Paulista Sub-20. O que esse resultado muda daqui para frente?",
-    "titulo_thumb": "E AGORA, PALMEIRAS?",
-    "pergunta_enquete": "Qual sua opinião: Com três de Fabiano, Palmeiras vence Santos e avança à final do Paulista Sub-20?",
-    "tecnica": "Pergunta aberta",
+    "gancho": "São Paulo é goleado pelo Palmeiras na ida da semifinal do Paulista sub-17. Quem venceu comemora; quem perdeu tem uma conta para acertar.",
+    "titulo_thumb": "PALMEIRAS x SÃO PAULO",
+    "pergunta_enquete": "Qual sua opinião: São Paulo é goleado pelo Palmeiras na ida da semifinal do Paulista sub-17?",
+    "tecnica": "Conflito",
     "ganchos": [
      {
+      "tecnica": "Conflito",
+      "texto": "São Paulo é goleado pelo Palmeiras na ida da semifinal do Paulista sub-17. Quem venceu comemora; quem perdeu tem uma conta para acertar.",
+      "thumb": "PALMEIRAS x SÃO PAULO"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "São Paulo é goleado pelo Palmeiras na ida da semifinal do Paulista sub-17. Todo mundo vai olhar o resultado; eu vou mostrar o que ele esconde.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
       "tecnica": "Pergunta aberta",
-      "texto": "Com três de Fabiano, Palmeiras vence Santos e avança à final do Paulista Sub-20. O que esse resultado muda daqui para frente?",
+      "texto": "São Paulo é goleado pelo Palmeiras na ida da semifinal do Paulista sub-17. O que esse resultado muda daqui para frente?",
       "thumb": "E AGORA, PALMEIRAS?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Com três de Fabiano, Palmeiras vence Santos e avança à final do Paulista Sub-20. Minha aposta: depois desse jogo, [SEU PALPITE]. Me cobra depois.",
+      "texto": "São Paulo é goleado pelo Palmeiras na ida da semifinal do Paulista sub-17. Minha aposta: depois desse jogo, [SEU PALPITE]. Me cobra depois.",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Dado",
-      "texto": "187 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
+      "texto": "963 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
       "thumb": "TODO MUNDO VIU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Com três de Fabiano, Palmeiras vence Santos e avança à final do Paulista Sub-20. Quem venceu comemora; quem perdeu tem uma conta para acertar.",
-      "thumb": "PALMEIRAS x SANTOS"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Com três de Fabiano, Palmeiras vence Santos e avança à final do Paulista Sub-20. Todo mundo vai olhar o resultado; eu vou mostrar o que ele esconde.",
-      "thumb": "NÃO É BEM ASSIM"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Santos perde para o Palmeiras e é eliminado do Paulista sub-20 na semifinal",
-     "fonte": "Costa Norte",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX3JIYzZQQ1huUlhCeVdLSjE2Q1FDbDZYNWFXZmN5RGhyUlFiSVJrd1dJdGZ4R2dVR1ZxbG9RSGlHbUJfb1o1VWpraDdkRWc1MFk1UXFMYUJsUENpbWhLUk95aHRtY3M2bHl5X0lyQVpDc004ZmpjSF9fdl96bWpSb05vUGtISU1kTnBPYk5qRzlLWmxHdVdtMGZjRnJ1ZDVVTkw0ZlN1ankzdDRVYUFLd0VHdlZWNE9iU3VPQkdHWnFxNnk2Q0ZXMTNsMm5OdlFrNS1DTNIB2gFBVV95cUxOWFZIcjkxSEQ5ckZUQlpEWnNBTGZUdmZCR2haOUFWalJBdlpzUlpJLXBmSFVpZWkwSkJ0TDl3S3BpSUNHWlgzLVVtUmJYWFk3eVhrNnRobHB5aFlRcUVfX0NsMnJ4OVRYNkhrZktXS3Y4eTIyWnoyODZIZDZxblNyeTFmVndyelI2YnFqdmFsY21EMGUzZjJBRlE1TjZ6eUVfXzNZZ0RLWWo3aTZvNHh3dHRqdVAxMmZMR2R2Z1dFT09VZzJiSkNGQW5BMHg5dlU1QVN4NDFQNWpKQQ?oc=5"
+     "titulo": "Palmeiras atropela São Paulo fora de casa e abre grande vantagem na semifinal do Paulistão Sub-17; confira",
+     "fonte": "Palmeiras Online",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZTJYaXZXUHFZbnd3eDhscmtqQzhnSTZLRFhZWDhVM0htWEdmSW5GVlJwNnFiX2hpR1RPM3BNUmdaMDlZeG5fUkJqVHlfZEZoRkZaV3pPSXhOazh1TXdDeTZvOFZCMExSMEw3V3JFSHVPYlBmbGQ4SXNobGRKZDV3OWFlNjBSYU1jbTN6bnRzR05saTdYZTlmUld4emUtY2toVG80ZjZlenlkRU96bkxVcS0wUmk4UWljRnJPb095UDgyWlZUVVlYNFk0aVByVUs1dWdpTno4b0R0cVVRTlE?oc=5"
     },
     {
-     "titulo": "Palmeiras faz 3 a 0 no Santos e vai à final do Paulista Sub-20",
-     "fonte": "TV Sim Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLThlRzhYdUo1dU55YmNRVTJ1aW9MWGI1LTQ2b3RDTjhCTk5MUmZWUTdxVWZhQ3BDcUJITG1MYWpoemwxTFhqNE9sbElLNjFoa0RibHB3dHdNWFRwdTI2X1J1UldlMGJWT2hSY29uaFdRUWxxX09SQUFuYmdCSWRCM2h5OWFpaExab0pEZVJxalRJa1Y4NVNLUC12WktCTUwzSFpsbW1zaS1kRVRobVcyWW1tcFZnVUEyTFE?oc=5"
+     "titulo": "Com direito a golaço, São Paulo bate Santos na ida da semifinal do Paulista sub-15",
+     "fonte": "Avante Meu Tricolor",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObjBMWWE5aFJoOE9NLU5kcVdxUUNST3BFMTU1Ql9DNE9ORllXZ1FVbklRTDZHQTNwQTA4THJnVFBDa1NxRFFGYmlMZXhfLS10RFQ3UWdJZkxMOEJKNTg1Uk9CTGVxMzg0cGc3VjJWTzVmaHdYTVhkQnZqVnRJYVc1c1Znb1RTWmxvT1dYVGx3OUxTaTR1a2pCeTVsTF9QQVVVdlVoYU5MMWxDLThCanh0YzAyQzVHYnA4OGtQRDhoaE1SS3BFTmt6Qm5R?oc=5"
     },
     {
-     "titulo": "Santos perde por 3 a 0 para o Palmeiras e é eliminado do Paulista Sub-20",
-     "fonte": "Jornal da Orla",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12MXNGRjJacHYtcy1WdWVMeHdzSzZZSG03Y3JBVFcwX0p4ZEt2eEdtMHJ1cUxJazVfZ3pYU0FKcm9JbHNYQW5udjluR0oyY2RmNmtWSTdLdFdZNjZjWTRKcUhwZlVibHBTMUxGQmg5SjVDRlRZcDEzY2hrbw?oc=5"
+     "titulo": "Clássicos nas semifinais do Paulista: São Paulo vence no Sub-15 e é derrotado no Sub-17",
+     "fonte": "Arquibancada Tricolor",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMUppdVIwUDlZcFZqS3BEalBuaUZtc0pfbV9YTzhBcjFoOThEWWRFZWZnLWE5Q19lMFFJSmtjd19CQ3JiWmxfYi1EWExVUDU2SU9Yak1rcE9oN0VzY2tPQWhuNVVmWWZadVJBdHJhY3Q0RDFJQUx4S1NFYmlXNnlPQ1JNcU11enM?oc=5"
     },
     {
-     "titulo": "Palmeiras vence Santos com hat-trick de Fabiano e avança à final do Paulistão",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWHhkRGJBeWxCX091YWxXVjdOc21pR1p3ZWlHMnpBSHJoMzVxVkppWjBuLXdKQklVOVEyTXNfSmJMeW1MWk1WWGhvRGhURjBPZWozNnFwWk5EbmNnR21DNVN6THdQSC16M1hfS180MlhGRXNyeWFlMmFqWHRIWUdzQ3p1YkMtOWxKNVIzazd0N0JfZGpWb0xjN0JhOUZLaThvLS1UMUUyT1FPUVNGeDYzd1RLdGx4ZXNO?oc=5"
+     "titulo": "São Paulo é goleado pelo Palmeiras na ida da semifinal do Paulista sub-17",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmliNmZxVDBJMVhDSWYxbldaRzhfTEZ5cUppZWNoTTFQdjZUQjVUc282Ukx2V1ROVVFTUERoZmRaV1UwWndIOG93dE1nOGw5Q2Q4VkZJSFlLNkdXN0lBZGpIblgxa0VaYlJ5MGM0dXptM3l3N2lEVzlCSUpHNjhvMEYxQnlPblJwQWJtT2ZlWnlfVDNBWWZaQmN5MUlxR01zTUF1YXlGRdIBpwFBVV95cUxNdmliNmZxVDBJMVhDSWYxbldaRzhfTEZ5cUppZWNoTTFQdjZUQjVUc282Ukx2V1ROVVFTUERoZmRaV1UwWndIOG93dE1nOGw5Q2Q4VkZJSFlLNkdXN0lBZGpIblgxa0VaYlJ5MGM0dXptM3l3N2lEVzlCSUpHNjhvMEYxQnlPblJwQWJtT2ZlWnlfVDNBWWZaQmN5MUlxR01zTUF1YXlGRQ?oc=5"
     },
     {
-     "titulo": "Palmeiras faz 3 a 0 no Santos e se classifica à final do Paulista Sub-20",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWmNJUHdKNDdzZ3N5MHFMZkRKcE9pSEdVQlhySkFZOFVVYXF4UGt1VVVaVTdlNEY5MVVjNHJxeTcyN2xHVWJRckgza0JMWFZJWndWNGQwTTRWRnV3eWdfbGFlVy16RmpMVlNwNC0xSmtfMnZjbnlqNlB1WDg0ZVZMdjVmaHY2bllBNjROdkNtOXJpd3ktclhRcEFaOEhjYWhxbDBFRl90OUdpWE1Ma0NFYjVMOUs2V0FZazNmUjFndEtwdm92eGt1bEFJdzZLeURrNjE1cjJ1anFSd9IB6AFBVV95cUxQWHJnVWthaHc4ZGhneHI0T0xJRVBBYkZRRW15dkJuY2dWQlBHTWhGVnM1NVNvY0ZnNWJkX1BMcUtnQzFmamktYk9MWndWaUVHcGhLckhTcks4RUFfOXhtc2lIa2tuVEVZelhOdF9vRXoxdVpUc3EtZDVyRzhEUTRxSGl4REc2UUFHbjJZdk5YVzQzVmhLeVVlYW11LVYzZC1CTXM1VTBQRnVLRlAza3dOeTdoZHNFMks4U3FSRU9aRTVlVzlLTXcwcUVMa2k4cjNlZTROT3pzdU1nN0JMT3ZlcEY0ZWY0UDJj?oc=5"
+     "titulo": "Santos perde para o São Paulo em Cotia na ida da semifinal do Paulista Sub-15",
+     "fonte": "Diário do Peixe",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObVdmVnExRVBFbkZzSE9teEVoQ0J3R19mS3pKWDN1dE9VbVZEOUpCMjd5QjV6dnhzTUZjamwwWnNVbmthVWgyOTRvUTFmQm1VR1k1Tnh1bEZoTVlid29fOU5ydk1NV2otTkc5ZUhVeG9Oc255UExUVGtjbDNubmFucVRmTDVnaUdDNHRoejAyRElfdEViTDc1OXVLSXlnWmhRUHd6SHUxa3ByeHBpYVVYUGlrcG13VE5EcEtvWQ?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "85R-8ce-BMo",
-      "titulo": "HAT-TRICK DE FABIANO, EXPULSÃO POLÊMICA E VERDÃO NA FINAL! PALMEIRAS 3X0 SANTOS",
+      "id": "gUa9ayiDg6o",
+      "titulo": "AO VIVO: SANTOS X PALMEIRAS | SEMIFINAL - VOLTA | PAULISTÃO S-20 2026",
       "canal": "TNT Sports Brasil",
-      "views": 93048,
-      "likes": 1238,
-      "comentarios": 71,
-      "publicado": "2026-11-13T20:10:39Z",
-      "duracao_s": 287,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=85R-8ce-BMo"
-     },
-     {
-      "id": "dhpg1FW80Yk",
-      "titulo": "Santos 0x3 Palmeiras Paulista Sub-20!",
-      "canal": "Cemazzetto ",
-      "views": 54886,
-      "likes": 1546,
-      "comentarios": 24,
-      "publicado": "2026-11-13T20:18:04Z",
-      "duracao_s": 83,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=dhpg1FW80Yk"
-     },
-     {
-      "id": "1WuBZ66GiWI",
-      "titulo": "OLHA O GOLAÇO DO FABIANO! HAT-TRICK NA SEMIFINAL DO PAULISTÃO S-20! #shorts",
-      "canal": "TNT Sports Brasil",
-      "views": 15240,
-      "likes": 427,
-      "comentarios": 5,
-      "publicado": "2026-11-13T20:10:01Z",
-      "duracao_s": 31,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=1WuBZ66GiWI"
-     },
-     {
-      "id": "UiR9s95dK8k",
-      "titulo": "PALMEIRAS ELIMINA O SANTOS E ESTÁ NA FINAL! MELHORES MOMENTOS - PAULISTÃO SUB-20 2026",
-      "canal": "FUTEBOL EM DESTAQUE",
-      "views": 10009,
-      "likes": 90,
-      "comentarios": 9,
-      "publicado": "2026-11-13T20:23:46Z",
-      "duracao_s": 657,
+      "views": 903181,
+      "likes": 14035,
+      "comentarios": 36,
+      "publicado": "2026-11-13T20:10:04Z",
+      "duracao_s": 8273,
       "live": true,
-      "url": "https://www.youtube.com/watch?v=UiR9s95dK8k"
+      "url": "https://www.youtube.com/watch?v=gUa9ayiDg6o"
      },
      {
-      "id": "rYWy29CzJ6g",
-      "titulo": "CRIA DA ACADEMIA QUE DIZ, NÉ? FABIANO MARCOU TRÊS GOLS NA SEMIFINAL DO PAULISTÃO! #shorts",
-      "canal": "TNT Sports Brasil",
-      "views": 6895,
-      "likes": 157,
-      "comentarios": 3,
-      "publicado": "2026-11-13T20:20:27Z",
-      "duracao_s": 61,
+      "id": "TbOLJ7htGyk",
+      "titulo": "MAIS UMA FINAL! 🏆 PALMEIRAS 3X0 SANTOS | MELHORES MOMENTOS | SEMI PAULISTA SUB-20 2026",
+      "canal": "Bob SEP",
+      "views": 29754,
+      "likes": 271,
+      "comentarios": 17,
+      "publicado": "2026-11-13T20:06:00Z",
+      "duracao_s": 563,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=rYWy29CzJ6g"
+      "url": "https://www.youtube.com/watch?v=TbOLJ7htGyk"
      },
      {
-      "id": "k0yG8A9T6iQ",
-      "titulo": "🚨PALMEIRAS ATROPELA SANTOS! FABIANO FAZ 3 E VEM DÉRBI NA FINAL DO PAULISTA SUB-20! 🔥",
-      "canal": "PVA-PORTAL DA VOZ ALVIVERDE",
-      "views": 2215,
-      "likes": 56,
-      "comentarios": 2,
-      "publicado": "2026-11-13T20:05:11Z",
-      "duracao_s": 11,
+      "id": "4ySyRXZpK3I",
+      "titulo": "BASTIDORES CIMED | SANTOS 0 X 3 PALMEIRAS | VIRADA HISTÓRICA | SEMIFINAL PAULISTA SUB-20 2026",
+      "canal": "TV Palmeiras",
+      "views": 17032,
+      "likes": 987,
+      "comentarios": 42,
+      "publicado": "2026-11-14T22:00:10Z",
+      "duracao_s": 422,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=k0yG8A9T6iQ"
+      "url": "https://www.youtube.com/watch?v=4ySyRXZpK3I"
      },
      {
-      "id": "TicMMiv5cE0",
-      "titulo": "O hat-trick do Fabiano foi absurdo! ⚽️🔥 #Palmeiras #Sub20 #Futebol",
-      "canal": "Zuka Santista",
-      "views": 1278,
-      "likes": 32,
-      "comentarios": 0,
-      "publicado": "2026-11-13T19:41:19Z",
-      "duracao_s": 37,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=TicMMiv5cE0"
-     },
-     {
-      "id": "Y0cKQRbfqPo",
-      "titulo": "CRIAS NA FINAL! Palmeiras 3x0 Santos, hat-trick do Fabiano e Derby na decisão | Notícias do Verdão",
-      "canal": "Mundo em Vídeo",
-      "views": 1030,
-      "likes": 32,
-      "comentarios": 0,
-      "publicado": "2026-11-14T01:25:29Z",
-      "duracao_s": 61,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Y0cKQRbfqPo"
+      "id": "fDY9_u8iXBQ",
+      "titulo": "VERDÃO HUMILHOU O TRICOLOR! SÃO PAULO X PALMEIRAS - MELHORES MOMENTOS - PAULISTÃO SUB-17 2026",
+      "canal": "FUTEBOL EM DESTAQUE",
+      "views": 11924,
+      "likes": 123,
+      "comentarios": 12,
+      "publicado": "2026-11-14T16:16:41Z",
+      "duracao_s": 632,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=fDY9_u8iXBQ"
      },
      {
       "id": "ZrGr1fqVDeE",
       "titulo": "SANTOS 0 X 3 PALMEIRAS – PAULISTA SUB‑20 – 13/11/2026",
       "canal": "BalangaRede",
-      "views": 717,
+      "views": 1115,
       "likes": 18,
       "comentarios": 0,
       "publicado": "2026-11-14T13:59:07Z",
@@ -489,150 +393,1115 @@
       "url": "https://www.youtube.com/watch?v=ZrGr1fqVDeE"
      },
      {
-      "id": "Ux8I65Bv_6w",
-      "titulo": "HAT-TRICK DE FABIANO! PALMEIRAS GOLEIA O SANTOS E VAI À FINAL NO SUB-20! #palmeiras #futebol #verdao",
-      "canal": "Narcr0d",
-      "views": 707,
-      "likes": 20,
-      "comentarios": 0,
-      "publicado": "2026-11-14T14:30:15Z",
-      "duracao_s": 49,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Ux8I65Bv_6w"
-     },
-     {
-      "id": "3iI7M49MHjw",
-      "titulo": "#Hat trick do Fabiano #Palmeiras #CriasDaAcademia #PaulistaSub20 #BaseDoPalmeiras #FutebolBrasileiro",
-      "canal": "Cristiano Francisco Oliveira",
-      "views": 246,
-      "likes": 3,
-      "comentarios": 0,
-      "publicado": "2026-11-14T14:27:56Z",
-      "duracao_s": 20,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=3iI7M49MHjw"
-     },
-     {
-      "id": "TPSf4xbU75E",
-      "titulo": "HAT-TRICK: FABIANO! PALMEIRAS NA FINAL DO PAULISTÃO SUB-20 #santos #palmeiras",
-      "canal": "CORTES THTV9",
-      "views": 198,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-11-13T19:38:58Z",
-      "duracao_s": 58,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=TPSf4xbU75E"
-     },
-     {
-      "id": "zWL2zQ_sCrg",
-      "titulo": "💣 PALMEIRAS AMASSA O SANTOS! VERDÃO ESTÁ NA FINAL! 3X0! 😱",
-      "canal": "Palestra Italia de Coração ",
-      "views": 87,
-      "likes": 11,
-      "comentarios": 7,
-      "publicado": "2026-11-13T21:00:09Z",
-      "duracao_s": 367,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=zWL2zQ_sCrg"
-     },
-     {
-      "id": "NOT-Jkgd_44",
-      "titulo": "COM SHOW DE FABIANO, PALMEIRAS ELIMINA O SANTOS! | Melhores Momentos | Paulista Sub-20",
-      "canal": "Lances & Gols",
-      "views": 55,
+      "id": "jF873lc6_Qs",
+      "titulo": "GOLEADA DAS CRIAS! Sub-17 4x0 no São Paulo e maratona de 3 títulos do Verdão | Notícias do Palmeiras",
+      "canal": "Mundo em Vídeo",
+      "views": 49,
       "likes": 2,
+      "comentarios": 0,
+      "publicado": "2026-11-15T02:54:24Z",
+      "duracao_s": 61,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=jF873lc6_Qs"
+     },
+     {
+      "id": "GD300gghKUs",
+      "titulo": "MAIS UM SHOW DAS CRIAS DA ACADEMIA! Palmeiras goleia o São Paulo | Melhores Momentos",
+      "canal": "Lances & Gols",
+      "views": 13,
+      "likes": 0,
       "comentarios": 1,
-      "publicado": "2026-11-13T20:13:24Z",
-      "duracao_s": 588,
+      "publicado": "2026-11-14T18:07:40Z",
+      "duracao_s": 475,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=NOT-Jkgd_44"
-     },
-     {
-      "id": "jiYIqAM8HIE",
-      "titulo": "PALMEIRAS 3X0 SANTOS I VERDÃO ESTÁ NA FINAL DO PAULISTA SUB-20 I HAT-TRICK DE FABIANO!",
-      "canal": "FOI GOL",
-      "views": 18,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-11-13T23:05:33Z",
-      "duracao_s": 568,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=jiYIqAM8HIE"
-     },
-     {
-      "id": "20KP85C3GT4",
-      "titulo": "FEZ 3 GOLS! QUEM É FABIANO, A NOVA JOIA DA ACADEMIA DO PALMEIRAS?",
-      "canal": "XEQUE-MATE PALESTRINO",
-      "views": 1,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-11-14T15:30:28Z",
-      "duracao_s": 370,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=20KP85C3GT4"
+      "url": "https://www.youtube.com/watch?v=GD300gghKUs"
      }
     ],
-    "consulta": "Palmeiras Paulista Sub-20 Fabiano",
-    "n_videos": 16,
+    "consulta": "Palmeiras Paulista semifinal sub-17",
+    "n_videos": 7,
     "mais_de": false,
-    "views": 186630,
+    "views": 963068,
     "top": [
      {
-      "titulo": "HAT-TRICK DE FABIANO, EXPULSÃO POLÊMICA E VERDÃO NA FINAL! PALMEIRAS 3X0 SANTOS",
+      "titulo": "AO VIVO: SANTOS X PALMEIRAS | SEMIFINAL - VOLTA | PAULISTÃO S-20 2026",
       "canal": "TNT Sports Brasil",
-      "views": 93048,
-      "url": "https://www.youtube.com/watch?v=85R-8ce-BMo",
-      "publicado": "2026-11-13T20:10:39Z",
+      "views": 903181,
+      "url": "https://www.youtube.com/watch?v=gUa9ayiDg6o",
+      "publicado": "2026-11-13T20:10:04Z",
       "do_canal": false
      },
      {
-      "titulo": "Santos 0x3 Palmeiras Paulista Sub-20!",
-      "canal": "Cemazzetto ",
-      "views": 54886,
-      "url": "https://www.youtube.com/watch?v=dhpg1FW80Yk",
-      "publicado": "2026-11-13T20:18:04Z",
+      "titulo": "MAIS UMA FINAL! 🏆 PALMEIRAS 3X0 SANTOS | MELHORES MOMENTOS | SEMI PAULISTA SUB-20 2026",
+      "canal": "Bob SEP",
+      "views": 29754,
+      "url": "https://www.youtube.com/watch?v=TbOLJ7htGyk",
+      "publicado": "2026-11-13T20:06:00Z",
       "do_canal": false
      },
      {
-      "titulo": "OLHA O GOLAÇO DO FABIANO! HAT-TRICK NA SEMIFINAL DO PAULISTÃO S-20! #shorts",
-      "canal": "TNT Sports Brasil",
-      "views": 15240,
-      "url": "https://www.youtube.com/watch?v=1WuBZ66GiWI",
-      "publicado": "2026-11-13T20:10:01Z",
+      "titulo": "BASTIDORES CIMED | SANTOS 0 X 3 PALMEIRAS | VIRADA HISTÓRICA | SEMIFINAL PAULISTA SUB-20 2026",
+      "canal": "TV Palmeiras",
+      "views": 17032,
+      "url": "https://www.youtube.com/watch?v=4ySyRXZpK3I",
+      "publicado": "2026-11-14T22:00:10Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "Arrascaeta brilha no Uruguai antes de voltar ao Flamengo; veja como foram os rubro-negros na Data Fifa",
-   "categoria": "Seleção",
+   "tema": "Piquerez lesiona coxa direita e vira dúvida no Palmeiras para a reta final de 2026",
+   "categoria": "Lesão e desfalque",
+   "clubes": [
+    "Palmeiras"
+   ],
+   "foco": true,
+   "nota": 75.8,
+   "sinais": {
+    "busca": 70,
+    "aceleracao": 76,
+    "midia": 81,
+    "aderencia": 100,
+    "youtube": 59
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "piquerez palmeiras",
+   "termos_trends": [],
+   "n_fontes": 6,
+   "n_manchetes": 6,
+   "assinatura": "palme|pique|vira|lesio",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "Piquerez lesiona coxa direita e vira dúvida no Palmeiras para a reta final de 2026. Todo mundo está olhando para quem sai. O problema está em quem entra.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
+    "pergunta_enquete": "Qual sua opinião: Piquerez lesiona coxa direita e vira dúvida no Palmeiras para a reta final de 2026?",
+    "tecnica": "Contradição",
+    "ganchos": [
+     {
+      "tecnica": "Contradição",
+      "texto": "Piquerez lesiona coxa direita e vira dúvida no Palmeiras para a reta final de 2026. Todo mundo está olhando para quem sai. O problema está em quem entra.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Piquerez lesiona coxa direita e vira dúvida no Palmeiras para a reta final de 2026. O elenco do Palmeiras tem reposição à altura?",
+      "thumb": "E AGORA, PALMEIRAS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Eu aposto que [SEU PALPITE: QUEM ENTRA] vai ganhar a vaga de Piquerez. Você concorda?",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "“piquerez palmeiras”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "De um lado, o Palmeiras precisando de resultado. Do outro, o departamento médico pedindo calma com Piquerez.",
+      "thumb": "SEM PIQUEREZ?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Piquerez lesiona coxa direita e vira dúvida no Palmeiras para a reta final de 2026",
+     "fonte": "Portal ABC do ABC",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93dXhRVUFjNUpueFpGN3puRkZtS2NTT0hlYzl4cGR2RnUxOGNLWTlSVmxyY0hsWWg4MEQ5LVhCNmhVNFRJaTdkQ0JxT25NcUtDZEZOOUhEYnpneDhoX284VUI4QkJjRjR4RGo2YkJTWDdsRzZzckhYejZUcXQ?oc=5"
+    },
+    {
+     "titulo": "Palmeiras confirma lesão de Piquerez e lateral vira dúvida para final da Libertadores",
+     "fonte": "Surgiu",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaU8wcFJTUm11bGhIZWRDcDlrUTQ0ckxrMExFaUEyNUU2X1gxNHdCMGhsSlQ5TGxnTDYtTkh6dVNoNUNKTjZocU1RT2FJT0xWaW5BQTFNWGgtRkRHdVEyRXNGU0pJbDFzNkdvbXR4dlB2U25DUU1aZDNleXdrSXFKRWpZYkZJbmk3SE1JZU5KZUgyeEFKVnl1THM0SFAwUGNobkNITDhEVUJIeURyS0Z1TzRXMXJwcUoyWkNj?oc=5"
+    },
+    {
+     "titulo": "Palmeiras: Piquerez retorna da Data Fifa com lesão e vira dúvida para próximo jogo",
+     "fonte": "365Scores",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQUg0dkRKUjh0bFNFbFktcjBseWtWVEIzQ1dzWlpLbEJjMVB0S0U5eUsta3VUTjU0R2lLWnFDSnU5OUZJd1FNXzJ0ZXpXYWdYSWowVThtang2ZzRLS2ZFNlRPemRmRlRrbmZaaWxPTUFTZ1BlcmZvdlFqRnBTWGZQRlJ1Wk1IaldqcEMyVklXWDZyUVk?oc=5"
+    },
+    {
+     "titulo": "Piquerez retorna lesionado e vira preocupação no Palmeiras",
+     "fonte": "tmc.com.br",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORnhyMVNlc1dqU1ltZ1ZLQTNuSC13TWt4RGEtS1BxQktGSFlCc0dpX2RKempRVXBQSGtBSHZEUnRkUExZRW9DcDR1X0k4cVZhcE93OWlhbHJYd2FCWkdJdzJva2k1bDY3RVhYWExzbWdDY2lYY01UTkFzcUtZeVBzdmMyQkZlYXNrWTdQTlI3TQ?oc=5"
+    },
+    {
+     "titulo": "Palmeiras: Piquerez retorna da Data Fifa lesionado",
+     "fonte": "Nosso Palestra",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYW90RE9tT3ZMZGFwUHhTOGMybzd2WUoyeXQ0dGVvQ1VXTnFoMkdlNlYwRzl0akx3Y2ctcmlSTmNkMWFMVk40a2xRYUJ4WkVFRER4aE9VT3dRUl9YelhlN1pPcjl1d19oeTJCbFpQaklVdlo5dFBWbldKaVdqTXdJNDFlSmtvd2ZTQWNhbW1TUDE5Zw?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "Of784hzEvmc",
+      "titulo": "SAIU AGORA! TITULAR SE LESIONA, FLAMENGUISTAS DISPARAM CONTRA PALMEIRAS E NÚMEROS DE CARLOS MIGUEL",
+      "canal": "Mil Grau",
+      "views": 1512,
+      "likes": 222,
+      "comentarios": 5,
+      "publicado": "2026-11-15T16:57:51Z",
+      "duracao_s": 712,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=Of784hzEvmc"
+     },
+     {
+      "id": "78s09TjcOhw",
+      "titulo": "PIQUEREZ LESIONADO: CALENDÁRIO NÃO É VIÁVEL",
+      "canal": "Canal Diego Iwata - O Marada ",
+      "views": 843,
+      "likes": 62,
+      "comentarios": 8,
+      "publicado": "2026-11-15T16:35:08Z",
+      "duracao_s": 61,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=78s09TjcOhw"
+     },
+     {
+      "id": "ZjniKKXamlk",
+      "titulo": "#palmeiras #canaldomascarenhas #futebol #loucosporfutebol #piquerez #murilo #machucado #duvida",
+      "canal": "Canal do Mascarenhas",
+      "views": 280,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-11-15T17:00:51Z",
+      "duracao_s": 16,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=ZjniKKXamlk"
+     },
+     {
+      "id": "FTUSHtzHzr8",
+      "titulo": "MALDITA DATA FIFA! Piquerez sofre LESÃO em amistoso do Uruguai e PREOCUPA Palmeiras",
+      "canal": "Mídia do Palestra",
+      "views": 48,
+      "likes": 8,
+      "comentarios": 2,
+      "publicado": "2026-11-15T16:54:45Z",
+      "duracao_s": 207,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=FTUSHtzHzr8"
+     },
+     {
+      "id": "NJtoNzx8fLI",
+      "titulo": "PIQUEREZ LESIONADO! / BOTAFOGO QUER RÔMULO POR EMPRÉSTIMO.",
+      "canal": "Pátria Amada Palmeiras ",
+      "views": 5,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-11-15T17:16:24Z",
+      "duracao_s": 61,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=NJtoNzx8fLI"
+     },
+     {
+      "id": "4W_yBODXSJ8",
+      "titulo": "piquerez se lesiona e mais um desfalque pro palmeiras",
+      "canal": "Jeferson Veronezi",
+      "views": 3,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-11-15T16:51:31Z",
+      "duracao_s": 181,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=4W_yBODXSJ8"
+     },
+     {
+      "id": "8PB9m0gDL2Y",
+      "titulo": "🚨 PIQUEREZ LESIONADO! DATA FIFA VIRA PESADELO PARA O PALMEIRAS NA RETA FINAL!",
+      "canal": "AMICI 1914",
+      "views": 0,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-11-15T16:22:00Z",
+      "duracao_s": 0,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=8PB9m0gDL2Y"
+     }
+    ],
+    "consulta": "Palmeiras Piquerez lesiona dúvida",
+    "n_videos": 7,
+    "mais_de": false,
+    "views": 2691,
+    "top": [
+     {
+      "titulo": "SAIU AGORA! TITULAR SE LESIONA, FLAMENGUISTAS DISPARAM CONTRA PALMEIRAS E NÚMEROS DE CARLOS MIGUEL",
+      "canal": "Mil Grau",
+      "views": 1512,
+      "url": "https://www.youtube.com/watch?v=Of784hzEvmc",
+      "publicado": "2026-11-15T16:57:51Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "PIQUEREZ LESIONADO: CALENDÁRIO NÃO É VIÁVEL",
+      "canal": "Canal Diego Iwata - O Marada ",
+      "views": 843,
+      "url": "https://www.youtube.com/watch?v=78s09TjcOhw",
+      "publicado": "2026-11-15T16:35:08Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "#palmeiras #canaldomascarenhas #futebol #loucosporfutebol #piquerez #murilo #machucado #duvida",
+      "canal": "Canal do Mascarenhas",
+      "views": 280,
+      "url": "https://www.youtube.com/watch?v=ZjniKKXamlk",
+      "publicado": "2026-11-15T17:00:51Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Piquerez sofre lesão em amistoso pelo Uruguai e vira preocupação no Palmeiras",
+   "categoria": "Lesão e desfalque",
+   "clubes": [
+    "Palmeiras"
+   ],
+   "foco": true,
+   "nota": 74.6,
+   "sinais": {
+    "busca": 70,
+    "aceleracao": 83,
+    "midia": 92,
+    "aderencia": 100,
+    "youtube": 36
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "piquerez palmeiras",
+   "termos_trends": [],
+   "n_fontes": 8,
+   "n_manchetes": 9,
+   "assinatura": "lesao|palme|pique|muril",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "Piquerez sofre lesão em amistoso pelo Uruguai e vira preocupação no Palmeiras. Quem entra no lugar, e o time aguenta?",
+    "titulo_thumb": "E AGORA, PALMEIRAS?",
+    "pergunta_enquete": "Qual sua opinião: Piquerez sofre lesão em amistoso pelo Uruguai e vira preocupação no Palmeiras?",
+    "tecnica": "Pergunta aberta",
+    "ganchos": [
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Piquerez sofre lesão em amistoso pelo Uruguai e vira preocupação no Palmeiras. Quem entra no lugar, e o time aguenta?",
+      "thumb": "E AGORA, PALMEIRAS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Piquerez sofre lesão em amistoso pelo Uruguai e vira preocupação no Palmeiras. Meu palpite de quanto tempo esse desfalque vai durar: [SEU PALPITE]. Qual é o seu?",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "O torcedor está digitando “piquerez palmeiras” no Google agora. A resposta não é tão simples.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Piquerez sofre lesão em amistoso pelo Uruguai e vira preocupação no Palmeiras. Agora o técnico tem que escolher: improvisar ou mudar o time inteiro.",
+      "thumb": "SEM PIQUEREZ?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Piquerez sofre lesão em amistoso pelo Uruguai e vira preocupação no Palmeiras. Parece só mais um desfalque. Não é: muda o jeito do time jogar.",
+      "thumb": "NÃO É BEM ASSIM"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Palmeiras divulga lesão de Piquerez",
+     "fonte": "Tribuna de Jundiaí",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb0ZydndXSmF6bnNzWWJ5NGxmcVI5SjduMEg2S0tER29PRnNZLXpob0NCSkp0WV84ZGwwdjZ6OU5IWGN5OHkxMEV1c0tpVjFZUzZJSnJERW1mX1JJRHlRRnRPOXd0M0g4dTUtR3QwQWRXT3NXZFI1RmJUS0E0M3pmczgwSmJsY19uVkE?oc=5"
+    },
+    {
+     "titulo": "Piquerez: o que se sabe da lesão que preocupa o Palmeiras",
+     "fonte": "Hoop78",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWkZjalJTLXo0REhtb0xjMzg0Z0dnZFNTQnJoWGJWR0JxX2I5b2UwTVh2eXZTejhwb0tDd2pVektWdzVibjV2OS1MU2xQWk00YWQwOGFGZUQ4ZTh6ZVhXT2k3bWFOalBKSTdwaml1QzdENmtuNmM2MGtQeWR4cUtickkta1RuN3FKYlhUZ3NNZDc?oc=5"
+    },
+    {
+     "titulo": "Piquerez sofre lesão na Seleção uruguaia e vira desfalque preocupante no Palmeiras",
+     "fonte": "Fato Paulista",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjU3dhZlB5U2I4ZmtmQkt0a1M4OFFqYklaTEhFeXdSZHFoaWdYTjE2SGl3dVhkZGFlMkFHRHpwUnk5RjFtTGxJRjJZQjJsVDMxZmdqeGZKcFdNYkM1d1V0c3B6VFFLWTZ2RUZzcHc0cTM?oc=5"
+    },
+    {
+     "titulo": "Com lesão de Piquerez e evolução de Murilo, Palmeiras treina de olho no Cruzeiro",
+     "fonte": "Palmeiras Online",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakJFMUxkdHpwSTd5b3hZcEVDQ01XYy1qWmFOaTdJUmFNeUlSbmNHNkNVTXpjZ19xcXN3ekthbHo3ZUp3UExkNnpuMFRXLVB0dHZxVE02WTJxd0QwTHR3d3hYYU1ISmZIS2FzeWpiRGptUDFlQmU5TFBLeHJvRG54Q3Q5VDZzQXpnREFZbkh4RlF1ckNObWNKM1BMOTNHVFhqRmxoT05meXBMcmh4UVFUR0VheTAxTzlkeGpF?oc=5"
+    },
+    {
+     "titulo": "Piquerez sofre lesão em amistoso pelo Uruguai e vira preocupação no Palmeiras",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb1NfQ1d0cFpvd3ROVFMyeUxtbUJySUR3Tnh3alh3anZ3S196X21ialN0QmY3M09IdEIyQzJ5aGZ4UWo1Zk9nNXJTcVNtSFJLQWlkZk1QTDNoMHVFVU5KS2JoLTJsQnVNVDVZbllKLVBPbXN1S2x6d2I5SGNRbXB1Tkw0b1dud2pBS1JUN0k0LTMtQnpReV9MQmNNVDZlaGk1Ql9ZRnZONEgwdU1yNVVTckgxLWhLR0QxM19HdWRBLTBrdjVL0gHKAUFVX3lxTE1DTXUtUmJNUmZrNjh3eWJvQUNIYnhyYWgwb3ZRZlBHUUdkTHMzNmdYekZkWjhVMlJFd25Ia2pmc2lEQnFmZ0pnazRvbC1zM2wtWnRTXzVnTmg5MkstZVFlTkVULTNzQWVMdkdKUXpVd29ZeTVpVlhrSzlOSkQ0Rm9nUVlqMFpLRjVUcnRYX0E5eks3SVVJU19yYVphXzZxVktyMW1vWWRNUlZzUndZd2ExcEQxRmxQd0Vvb0NDZEhqejF4YjE2VHEyMUE?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "ZjniKKXamlk",
+      "titulo": "#palmeiras #canaldomascarenhas #futebol #loucosporfutebol #piquerez #murilo #machucado #duvida",
+      "canal": "Canal do Mascarenhas",
+      "views": 280,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-11-15T17:00:51Z",
+      "duracao_s": 16,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=ZjniKKXamlk"
+     }
+    ],
+    "consulta": "Palmeiras Piquerez lesão preocupação",
+    "n_videos": 1,
+    "mais_de": false,
+    "views": 280,
+    "top": [
+     {
+      "titulo": "#palmeiras #canaldomascarenhas #futebol #loucosporfutebol #piquerez #murilo #machucado #duvida",
+      "canal": "Canal do Mascarenhas",
+      "views": 280,
+      "url": "https://www.youtube.com/watch?v=ZjniKKXamlk",
+      "publicado": "2026-11-15T17:00:51Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Data Fifa termina com lesão de titular do Palmeiras de Abel",
+   "categoria": "Lesão e desfalque",
+   "clubes": [
+    "Palmeiras"
+   ],
+   "foco": true,
+   "nota": 68.2,
+   "sinais": {
+    "busca": 70,
+    "aceleracao": 61,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": 67
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "piquerez palmeiras",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "fifa|palme|data|termi",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "Minha aposta: o Palmeiras vai sentir a falta de Data já no próximo jogo. Comenta a sua e me cobra depois.",
+    "titulo_thumb": "MEU PALPITE",
+    "pergunta_enquete": "Qual sua opinião: Data Fifa termina com lesão de titular do Palmeiras de Abel?",
+    "tecnica": "Aposta",
+    "ganchos": [
+     {
+      "tecnica": "Aposta",
+      "texto": "Minha aposta: o Palmeiras vai sentir a falta de Data já no próximo jogo. Comenta a sua e me cobra depois.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "O torcedor está digitando “piquerez palmeiras” no Google agora. A resposta não é tão simples.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "O Palmeiras sem Data: o técnico vai ter que escolher entre improvisar ou mudar o time.",
+      "thumb": "SEM DATA?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Todo mundo diz que sem Data o Palmeiras afunda. Eu não tenho tanta certeza, e vou te mostrar por quê.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Sem Data, quem segura o Palmeiras nos próximos jogos?",
+      "thumb": "E AGORA, PALMEIRAS?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Piquerez se machuca pelo Uruguai na Data FIFA e vira preocupação no Palmeiras; veja detalhes",
+     "fonte": "Bolavip Brasil",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMzFTeC0zZ0FyUTRhY3kxcGxtZEJScnZuNm5wZjVENFdvcDNaMzRwbXdrTTdCRi1nMF95MmpDblpUdWFxd0tTNEM5RzNMeXBYVDc2ODc2TnZlcDV2VUlVcS1hZDVWcWxwb0dQUTFSYXVSTjlTcHZBZmJnVUFfNmZ3Si1CZS10eEtRcFBLakpmZWVtSHJvbmtDYURYdnpPd3NHT0hkQUhxSHlsdXFSTEhkWVFKSUhDVU91cVIzdVlZeW53NXRTMnN4dkdTOS0?oc=5"
+    },
+    {
+     "titulo": "Data Fifa termina com lesão de titular do Palmeiras de Abel",
+     "fonte": "NossoPalmeiras",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNeUo4NlAxWTQtbWJwa04wYmJRM29wci1aMUoxOTdlTF9OMU1EdXQ1cHRmbkVoVTV3dFNTbElTOUFlb24taERXRzhESDB1N003cW9QSURFbHE0WHJaNFZVa2Q2Q19ZM21XU3k4NmlGVTVwSU5BcFFF?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "nQj_ggjQOeQ",
+      "titulo": "DATA FIFA DESFALCA O ELENCO DO PALMEIRAS! ABEL FERREIRA PREPARA EQUIPE PARA DECISÃO CONTRA CRUZEIRO!",
+      "canal": "LINK ALVIVERDE",
+      "views": 4039,
+      "likes": 298,
+      "comentarios": 0,
+      "publicado": "2026-11-13T22:43:27Z",
+      "duracao_s": 4487,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=nQj_ggjQOeQ"
+     },
+     {
+      "id": "l67nuwj7Ui0",
+      "titulo": "PALMEIRAS TEM 6 FINAIS! ABEL VAI MUDAR CONTRA O CRUZEIRO: NOVO ESQUEMA? | AO VIVO",
+      "canal": "PVA-PORTAL DA VOZ ALVIVERDE",
+      "views": 1300,
+      "likes": 107,
+      "comentarios": 0,
+      "publicado": "2026-11-14T07:20:45Z",
+      "duracao_s": 3705,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=l67nuwj7Ui0"
+     },
+     {
+      "id": "YnWojVcr5fc",
+      "titulo": "DATA FIFA NA RETA FINAL?! VAMOS PASSAR O TEMPO COM MUITA RESENHA SOBRE O PALMEIRAS AO VIVO! 💣🟢 📱",
+      "canal": "ANALISE PALESTRINA",
+      "views": 1159,
+      "likes": 6,
+      "comentarios": 0,
+      "publicado": "2026-11-13T17:40:31Z",
+      "duracao_s": 3480,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=YnWojVcr5fc"
+     },
+     {
+      "id": "OmTBEHjipqc",
+      "titulo": "FALA MARCELÃO! PROBLEMAS PARA ABEL? XERIFÃO FORA E QUEM VAI JOGAR?   #avantipalestra #palmeiras",
+      "canal": "Portal Palmeiras",
+      "views": 1136,
+      "likes": 53,
+      "comentarios": 3,
+      "publicado": "2026-11-14T13:59:50Z",
+      "duracao_s": 92,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=OmTBEHjipqc"
+     },
+     {
+      "id": "bQCdb82L2zk",
+      "titulo": "Palmeiras Pode Ter Até 7 Desfalques Contra o Cruzeiro #shorts",
+      "canal": "Amigos da Bola & Futebol",
+      "views": 1001,
+      "likes": 8,
+      "comentarios": 0,
+      "publicado": "2026-11-14T02:49:35Z",
+      "duracao_s": 86,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=bQCdb82L2zk"
+     },
+     {
+      "id": "CgNHCocDNmU",
+      "titulo": "PALMEIRAS: DESFALQUES CONTRA CRUZEIRO! DATA FIFA E ESTUDIANTES CAMPEÃO: BOM OU RUIM? | AO VIVO",
+      "canal": "PVA-PORTAL DA VOZ ALVIVERDE",
+      "views": 930,
+      "likes": 72,
+      "comentarios": 0,
+      "publicado": "2026-11-14T03:29:53Z",
+      "duracao_s": 5488,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=CgNHCocDNmU"
+     },
+     {
+      "id": "4vHnynF_nlI",
+      "titulo": "DATA FIFA NA RETA FINAL?! VAMOS PASSAR O TEMPO COM MUITA RESENHA SOBRE O PALMEIRAS AO VIVO! 💣🟢",
+      "canal": "ANALISE PALESTRINA",
+      "views": 116,
+      "likes": 7,
+      "comentarios": 0,
+      "publicado": "2026-11-13T17:29:39Z",
+      "duracao_s": 3481,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=4vHnynF_nlI"
+     },
+     {
+      "id": "8PB9m0gDL2Y",
+      "titulo": "🚨 PIQUEREZ LESIONADO! DATA FIFA VIRA PESADELO PARA O PALMEIRAS NA RETA FINAL!",
+      "canal": "AMICI 1914",
+      "views": 0,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-11-15T16:22:00Z",
+      "duracao_s": 0,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=8PB9m0gDL2Y"
+     }
+    ],
+    "consulta": "Palmeiras Data Fifa Abel",
+    "n_videos": 8,
+    "mais_de": false,
+    "views": 9681,
+    "top": [
+     {
+      "titulo": "DATA FIFA DESFALCA O ELENCO DO PALMEIRAS! ABEL FERREIRA PREPARA EQUIPE PARA DECISÃO CONTRA CRUZEIRO!",
+      "canal": "LINK ALVIVERDE",
+      "views": 4039,
+      "url": "https://www.youtube.com/watch?v=nQj_ggjQOeQ",
+      "publicado": "2026-11-13T22:43:27Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "PALMEIRAS TEM 6 FINAIS! ABEL VAI MUDAR CONTRA O CRUZEIRO: NOVO ESQUEMA? | AO VIVO",
+      "canal": "PVA-PORTAL DA VOZ ALVIVERDE",
+      "views": 1300,
+      "url": "https://www.youtube.com/watch?v=l67nuwj7Ui0",
+      "publicado": "2026-11-14T07:20:45Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "DATA FIFA NA RETA FINAL?! VAMOS PASSAR O TEMPO COM MUITA RESENHA SOBRE O PALMEIRAS AO VIVO! 💣🟢 📱",
+      "canal": "ANALISE PALESTRINA",
+      "views": 1159,
+      "url": "https://www.youtube.com/watch?v=YnWojVcr5fc",
+      "publicado": "2026-11-13T17:40:31Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Palmeiras tem novo desfalque para duelo contra o Cruzeiro pelo Brasileiro",
+   "categoria": "Lesão e desfalque",
+   "clubes": [
+    "Palmeiras",
+    "Cruzeiro"
+   ],
+   "foco": true,
+   "nota": 66.8,
+   "sinais": {
+    "busca": 70,
+    "aceleracao": 63,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": 48
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "piquerez palmeiras",
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "cruze|palme|desfa|brasi",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "“piquerez palmeiras”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+    "titulo_thumb": "VOCÊ PESQUISOU",
+    "pergunta_enquete": "Qual sua opinião: Palmeiras tem novo desfalque para duelo contra o Cruzeiro pelo Brasileiro?",
+    "tecnica": "Dado",
+    "ganchos": [
+     {
+      "tecnica": "Dado",
+      "texto": "“piquerez palmeiras”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Palmeiras tem novo desfalque para duelo contra o Cruzeiro pelo Brasileiro. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+      "thumb": "PALMEIRAS x CRUZEIRO"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Palmeiras tem novo desfalque para duelo contra o Cruzeiro pelo Brasileiro. A leitura óbvia é uma. A que importa é outra.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Palmeiras tem novo desfalque para duelo contra o Cruzeiro pelo Brasileiro. Isso é bom ou ruim para o Palmeiras? Responde antes de ver a minha análise.",
+      "thumb": "E AGORA, PALMEIRAS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Palmeiras tem novo desfalque para duelo contra o Cruzeiro pelo Brasileiro. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Palmeiras deve ter nova baixa de titular para enfrentar o Cruzeiro no Brasileirão",
+     "fonte": "Central da Toca",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObEN2UUpiQlNBUnhGeTJ5clpjQ25rWnpDWGx0bkhScHZEU21ENHVOcHY1UFNOMGQ0UU13R09KVE9vQXdOeVZjSUI1U3J1ZzB5bFppWU8xMGV6Z0gwdXlxT1pMWjJFRG1tTWI4QUU4eVZRYWhkVzh1SzA0cUxmRlJEbDZaaUZNWXIzdXl1NWVZcGdXcDgwUUcxUVpDeG9oWTVTRHd1dEdsSjVqcWpKTE0tQ0lUc1NGLVh3NG96WEZ6by1pX2Jpam5FVUw3QTVmek52NmlUWg?oc=5"
+    },
+    {
+     "titulo": "Palmeiras tem novo desfalque para duelo contra o Cruzeiro pelo Brasileiro",
+     "fonte": "Rádio Itatiaia",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNDJuM29FelpVNzJhTlZoTVlNcklFdnVXaFlpaFA2NzRGVlByLTdhZXN2ZWRkYWZzempPOVM3UmR3LXpTYTVSNlptdUk2eUJNcXZJLU9Pa0p2Tk81cEZvWXFtcE01NlIxa0hYc0VmMU1iWEtkSXNGWG54anBUS3Vsc2JtMGlvc2FNNmVvRzNlVnhNVXpYWjloNXRaaGtTUmdVWnR6OEZ2aUFZZGtScGZzd3ItanZBcEx4WHlSQjY4VFBUVDgwOThJa3JhZTQ5UFQ5MklIZjEtYlJaZDlYWjVNVktQZC1nblU3ZUVMazROeTFBeV9vUlE?oc=5"
+    },
+    {
+     "titulo": "Menos um desfalque: veja possível escalação do Palmeiras para enfrentar o Cruzeiro com Piquerez",
+     "fonte": "Palmeiras Todo Dia",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEZwaEsxUXdQZ1RUTTVNNmo4WUFtUDV6WUNFYkR5STdtSmhRUUFFSzIwUUxYX1NVcEpibkFvZW1ZSVNxdjNLby01cXZnY1dtanQ3SDFTTWVSNmxYNUJKMjlXMF9yX0VEUE1YYy11aDBLMzZYb01ROG1HcUhFaFNaYzJFUWRydHZnb2VVbGtaZnhvMWtDNEhHSzNNUHJmVHlCbUxpaHlZaUl2aEZhRUl6ZkRsa1lMbm11Qnc?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "bQCdb82L2zk",
+      "titulo": "Palmeiras Pode Ter Até 7 Desfalques Contra o Cruzeiro #shorts",
+      "canal": "Amigos da Bola & Futebol",
+      "views": 1003,
+      "likes": 8,
+      "comentarios": 0,
+      "publicado": "2026-11-14T02:49:35Z",
+      "duracao_s": 86,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=bQCdb82L2zk"
+     },
+     {
+      "id": "Fpcrni-D8Rw",
+      "titulo": "🚨 PROBLEMA NO PALMEIRAS! Lesão preocupa antes do duelo contra o Flamengo!",
+      "canal": "Resenha On",
+      "views": 391,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-11-13T20:00:14Z",
+      "duracao_s": 365,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Fpcrni-D8Rw"
+     }
+    ],
+    "consulta": "Palmeiras desfalque duelo",
+    "n_videos": 2,
+    "mais_de": false,
+    "views": 1394,
+    "top": [
+     {
+      "titulo": "Palmeiras Pode Ter Até 7 Desfalques Contra o Cruzeiro #shorts",
+      "canal": "Amigos da Bola & Futebol",
+      "views": 1003,
+      "url": "https://www.youtube.com/watch?v=bQCdb82L2zk",
+      "publicado": "2026-11-14T02:49:35Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "🚨 PROBLEMA NO PALMEIRAS! Lesão preocupa antes do duelo contra o Flamengo!",
+      "canal": "Resenha On",
+      "views": 391,
+      "url": "https://www.youtube.com/watch?v=Fpcrni-D8Rw",
+      "publicado": "2026-11-13T20:00:14Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Piquerez pode ser liberado pelo Uruguai para não desfalcar Palmeiras no Brasileirão",
+   "categoria": "Técnico",
+   "clubes": [
+    "Palmeiras"
+   ],
+   "foco": true,
+   "nota": 66.2,
+   "sinais": {
+    "busca": 70,
+    "aceleracao": 47,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": 64
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "piquerez palmeiras",
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 5,
+   "assinatura": "palme|urugu|pique|selec",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Opinião forte (60 a 90 s)",
+    "gancho": "Piquerez pode ser liberado pelo Uruguai para não desfalcar Palmeiras no Brasileirão. O técnico do Palmeiras está contra o relógio: cada jogo agora é uma prova.",
+    "titulo_thumb": "QUEM TEM RAZÃO?",
+    "pergunta_enquete": "Qual sua opinião: Piquerez pode ser liberado pelo Uruguai para não desfalcar Palmeiras no Brasileirão?",
+    "tecnica": "Conflito",
+    "ganchos": [
+     {
+      "tecnica": "Conflito",
+      "texto": "Piquerez pode ser liberado pelo Uruguai para não desfalcar Palmeiras no Brasileirão. O técnico do Palmeiras está contra o relógio: cada jogo agora é uma prova.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Todo mundo culpa o técnico. Eu acho que o problema do Palmeiras está em outro lugar.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Se o técnico do Palmeiras cair amanhã, quem você colocaria no lugar?",
+      "thumb": "E AGORA, PALMEIRAS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Eu aposto que [SEU PALPITE] até a próxima rodada. Qual é a sua?",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "“piquerez palmeiras”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+      "thumb": "VOCÊ PESQUISOU"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Piquerez se machuca em amistoso do Uruguai e vira preocupação no Palmeiras antes de finais",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeF83ZXEyQkQwQzNBYlRxOUVOcTgwSGtQV0t2S2pyR0NoY1RwUkJIYVNmY0RHZXFqMG1VZXVYQmZmbXRURklOOXpCbkNYdXltUU5HUHY4RW1MRlgwS09OUnRHU2pWX3UzTE1lTlZmUmtRRXZJX0hFeExXT3lRaGhXYWQ3VDB5R0xYLTdPSnhSWEZLcGZqVjg1ZlJVbjNSeE5VSzVuZ1lENTd2eGx1dDVWVWgzNkQ0dHA5ekhwck9zZnZMVC1faWc1ekQ0T0g1ZVpqQnc?oc=5"
+    },
+    {
+     "titulo": "🇺🇾 Liberado! O Uruguai anunciou a liberação do lateral-esquerdo Piquerez, do Palmeiras, para o restante da Data Fifa. Assim, o lateral não estará no confronto da Celeste diante da República Dominicana no dia 17 e já pode se reapresentar ao Verdão para",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1USHIzakZPWmhNTlBGV3g2Z1JGc201eVlXYXBFYTJqZTRUVUNLdVE0bUIyUDBQSmZMVGZyVjJDSk5sbDMwOEVRUUtOQ3ViT1FQWEE?oc=5"
+    },
+    {
+     "titulo": "Vice do Palmeiras diz que Carlos Miguel não estava na convocação da seleção brasileira",
+     "fonte": "Estadão",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZndsc0p3bWZrRm9pY3J0MnhDZVQ0YVFLZkVKeGlfR3VqSXA0MFAtX2ZWXzZURkFyNU5SZkRKOFA3M01EQmRQcVdreEQ2VVRveW9nVV83TlU5bUdPMHpvRVRhSEp5dmFDYTJiNkQ4QUoxRjc5SzREWEhtZ3Q4aXpQZ1ZsMjliMnV2ckNkb1Q0cWpLczFrV01ITWttRVF6OVNLWGNlLVVsOFFxVUU5bG4zdnFndFNIRjBqME9OUE1JdzY1akpMcEthRzNmem9oeE1WbW5lSURn?oc=5"
+    },
+    {
+     "titulo": "Piquerez pode ser liberado pelo Uruguai para não desfalcar Palmeiras no Brasileirão",
+     "fonte": "Estadão",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY19nWmRmaWJsQVJvbXlraWdVZUUzVjcxN1Z5a0k1Zm1Wa2ZMUnBoQnhybGZ3T01Wa3hsWGUwOXNGdG0xS2Jzd1F1cjdLT0lwZGRfNmNYRkNsaHBjemFQcHpob2N6RllVdHY0WTVQTmxVSWNjb2c5S3pqSkF2NXNmLWpWd2FtTDgycUYxYVBSc2kzRC0ySFkyM2s5XzdXaHlBWW9fWDFTajZORUlqMGVGTEVNa2ltZndVLW85bjFBZXVTLVB2OFkzS05CYlF3a1hjRFE?oc=5"
+    },
+    {
+     "titulo": "A federação uruguaia (AUF) divulgou uma nota sobre o retorno antecipado de Arrascaeta, Varela e Piquerez, do Palmeiras. Segundo a nota o retorno antes do esperado já estava nos planos de Diego Forlán, técnico da seleção uruguaia. Confira a nota tradu",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KRUNCYkk0YVFLUXQyaGd5U1huTGY1TEs2QXlGRXRWcHdjZzZvdE9hZ3JfazA5WkgzdjBOeHJmVlJIdk1aYTRsNVZ6NUlxNUpxb3c?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "BR5U1Q44FEc",
+      "titulo": "Piquerez volta antes ao Palmeiras após vitória do Uruguai sobre a Argentina",
+      "canal": "JOGOS DE HOJE NA TV ",
+      "views": 30186,
+      "likes": 97,
+      "comentarios": 0,
+      "publicado": "2026-11-14T15:43:54Z",
+      "duracao_s": 10,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=BR5U1Q44FEc"
+     },
+     {
+      "id": "4yUcoJ_NYds",
+      "titulo": "Giay, Flaco e Piquerez: trio do Palmeiras tem desempenhos distintos em vitória do Uruguai",
+      "canal": "Coca que Cola",
+      "views": 18,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-11-14T14:41:22Z",
+      "duracao_s": 138,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=4yUcoJ_NYds"
+     }
+    ],
+    "consulta": "Palmeiras Piquerez Uruguai liberado",
+    "n_videos": 2,
+    "mais_de": false,
+    "views": 30204,
+    "top": [
+     {
+      "titulo": "Piquerez volta antes ao Palmeiras após vitória do Uruguai sobre a Argentina",
+      "canal": "JOGOS DE HOJE NA TV ",
+      "views": 30186,
+      "url": "https://www.youtube.com/watch?v=BR5U1Q44FEc",
+      "publicado": "2026-11-14T15:43:54Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Giay, Flaco e Piquerez: trio do Palmeiras tem desempenhos distintos em vitória do Uruguai",
+      "canal": "Coca que Cola",
+      "views": 18,
+      "url": "https://www.youtube.com/watch?v=4yUcoJ_NYds",
+      "publicado": "2026-11-14T14:41:22Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Inter x Flamengo hoje: onde assistir ao vivo, horário e escalações pela final da Copa do Brasil Feminina",
+   "categoria": "Mercado da bola",
    "clubes": [
     "Flamengo"
    ],
    "foco": true,
-   "nota": 72.0,
+   "nota": 65.2,
    "sinais": {
-    "busca": 65,
-    "aceleracao": 57,
-    "midia": 67,
+    "busca": 35,
+    "aceleracao": 71,
+    "midia": 100,
     "aderencia": 100,
-    "youtube": 80
+    "youtube": 39
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "arrascaeta flamengo",
+   "busca_torcedor": "palmeiras x flamengo",
    "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 5,
-   "assinatura": "flame|arras|urugu|data",
+   "n_fontes": 23,
+   "n_manchetes": 30,
+   "assinatura": "brasi|flame|femin|copa",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 3 min)",
+    "gancho": "Onde assistir ao vivo, horário e escalações da Final da Copa do Brasil Feminina. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
+    "pergunta_enquete": "Qual sua opinião: Inter x Flamengo hoje: onde assistir ao vivo, horário e escalações pela final da Copa do B?",
+    "tecnica": "Contradição",
+    "ganchos": [
+     {
+      "tecnica": "Contradição",
+      "texto": "Onde assistir ao vivo, horário e escalações da Final da Copa do Brasil Feminina. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Onde assistir ao vivo, horário e escalações da Final da Copa do Brasil Feminina. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
+      "thumb": "E AGORA, FLAMENGO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Onde assistir ao vivo, horário e escalações da Final da Copa do Brasil Feminina. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Onde assistir ao vivo, horário e escalações da Final da Copa do Brasil Feminina. Nem todo mundo no Flamengo vai gostar disso, e eu vou explicar por quê.",
+      "thumb": "QUEM TEM RAZÃO?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Ao vivo: Gurias Coloradas x Flamengo - Copa do Brasil Feminina",
+     "fonte": "Sport Club Internacional",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdmNfRGxwdHdwUGp5SlhWR2hIUVhEa1IzTVcwREZid0dsajBQZVRKdmdXVlFRUlhDUnlmSDRKTVNIUjVyNG93RGhHaEQxZTVrczBxNGJ1Zk9xWnJxY180UElTMWtxaEMtZnhTR1NyVVV0NW1BdTZhaHpvTUpPakZUX015MVJuYVdRQ3gtTzNKbnlPaXVOeEVuVjJLNlJYeDZDRUZvYWtSRlNtdw?oc=5"
+    },
+    {
+     "titulo": "Internacional x Flamengo: onde assistir ao vivo, horário e escalações da Final da Copa do Brasil Feminina",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPb1BhelNJMGVRckN1U2dXcE9seU5KUkVQR3JlRjVGZzIwT2xNSnJkX0ExY1RPVEZfSEUyY2FHeG5iNHR1U3ZRU0ZBSkpuR2Q0clRHQk02MkVoRHNkRGVNd1Bzb1JLMkZlQUpBT2hVeEppMmRDS1VUcHd0MlhaQWZmbG1ZbEg4NU5iVVFVTDczb2NCa2hsYkZpNUJ0eVpOYXJfc200b0JOczJWVGM5T0RJNGJUUF9ZZUVYZjdUZlE4TjVyRG9vTTJsZ3RxQS03R3BtM3N3NWloUGt1eF9oSU5JMVp4RGI0eGMzcjlzSzRuZjlYWnFfc3d2QVpuRm1PNVdnMEFGSS1iNjJ6NzFaM25scnBGZ0gwWnZIYVNZ?oc=5"
+    },
+    {
+     "titulo": "Inter x Flamengo ao vivo pela final da Copa do Brasil Feminina; acompanhe",
+     "fonte": "GZH",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSGxDR3Z4M01qdVdXUlhqMTJGZVZhaVdtZ3BvLWxER0x2ajNGSXNfX2hVUmFoc2pqQ3N3STJRcWpjZ3JYYmF0SFlJcXFhM2ZnVFh4d2hJRzcwQXNPUDJxMGhPcTcwdHdRcG9feEthaV92dy1YdnN0V05FM1BXYm53MENSelprbVgyQW9wdXdRUlhVVzE5SXJiVDVFNi1zdDlmYmZhd1pITmRBWU8tRUE0a05Bbk80aHowQ3NraXhmaXFtaVNMZFdlSnlobmVrTkVZWnlMczB0MldVamt5RnlpbzNmWnJLNFh2TFkxc2xweTFYRjJxRVp2MDBqUXhmVXBrVzlHaWJQWjA?oc=5"
+    },
+    {
+     "titulo": "Capitã do Flamengo, Djeni ofensivo para buscar taça da Copa do Brasil",
+     "fonte": "UOL",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZEpUdDcwYld0MG1MUzVhQkJiNm1lM21CSlBScldyaFFWZjc2X2kzUVBtT3ZaeG1IOTY1bEc2cnN5YzB6RFBIMVJVYWZZb0ItR3IySGxzZ2ZrbGU3R2ExVXFqSjN2Y1BNSkJPNGxiMTI0aG5oWFhPbGFGNlMyQXpQbWw2c1IyTXJYQWdJRnNzbFRuUWMyS3puSTdZQWlxVGFkUExJbXF5TUliQkRNOTNqSzRTbjBpQU5NTHl3R21Nb0trbHVQMGUwclVkVUlEM216UkFXTUktN3k4dkZNaUE?oc=5"
+    },
+    {
+     "titulo": "É DIA DE FINAL! O Flamengo enfrenta o Internacional neste domingo (15), às 16h, no Beira-Rio, em Porto Alegre, pelo jogo de volta da decisão da Copa do Brasil Feminina. No confronto de ida, as Meninas da Gávea foram superadas por 3 a 1, no Luso-Bras",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1UGRqaHdZb05BbHdLWnhFRDRZTWZnNFREMXp2YktkRXRrWkRKclhOUmJNRXRJdGkxUkZScVpuVzhla0R0WkluTWlpUGVxdVRYMlE?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "AeDvxhgLa5k",
+      "titulo": "INTER X FLAMENGO FEMININO AO VIVO COM IMAGENS | ONDE ASSISTIR | GLOBO E GE TV",
+      "canal": "Litoral News",
+      "views": 277,
+      "likes": 8,
+      "comentarios": 3,
+      "publicado": "2026-11-15T16:21:07Z",
+      "duracao_s": 191,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=AeDvxhgLa5k"
+     },
+     {
+      "id": "PJlkvKj1gZ8",
+      "titulo": "JORNADA ESPORTIVA - INTERNACIONAL X FLAMENGO  AO VIVO AGORA  A PARTIR DAS 15:00h  COM IMAGENS",
+      "canal": "ALMA COLORADA",
+      "views": 0,
+      "likes": 2,
+      "comentarios": 0,
+      "publicado": "2026-11-15T17:02:53Z",
+      "duracao_s": 0,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=PJlkvKj1gZ8"
+     }
+    ],
+    "consulta": "Flamengo Feminina escalações",
+    "n_videos": 2,
+    "mais_de": false,
+    "views": 277,
+    "top": [
+     {
+      "titulo": "INTER X FLAMENGO FEMININO AO VIVO COM IMAGENS | ONDE ASSISTIR | GLOBO E GE TV",
+      "canal": "Litoral News",
+      "views": 277,
+      "url": "https://www.youtube.com/watch?v=AeDvxhgLa5k",
+      "publicado": "2026-11-15T16:21:07Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "JORNADA ESPORTIVA - INTERNACIONAL X FLAMENGO  AO VIVO AGORA  A PARTIR DAS 15:00h  COM IMAGENS",
+      "canal": "ALMA COLORADA",
+      "views": 0,
+      "url": "https://www.youtube.com/watch?v=PJlkvKj1gZ8",
+      "publicado": "2026-11-15T17:02:53Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Cruzeiro garante vaga na Libertadores 2027 com ajuda do rival; entenda",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Cruzeiro"
+   ],
+   "foco": false,
+   "nota": 62.8,
+   "sinais": {
+    "busca": 70,
+    "aceleracao": 58,
+    "midia": 92,
+    "aderencia": 60,
+    "youtube": 60
+   },
+   "fator_categoria": 1.142,
+   "trafego_google": 0,
+   "busca_torcedor": "piquerez palmeiras",
+   "termos_trends": [],
+   "n_fontes": 8,
+   "n_manchetes": 8,
+   "assinatura": "cruze|liber|garan|vaga",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Cruzeiro garante vaga na Libertadores 2027 com 'ajuda' do rival. Foi mérito de quem venceu ou erro de quem perdeu?",
+    "titulo_thumb": "E AGORA, CRUZEIRO?",
+    "pergunta_enquete": "Qual sua opinião: Cruzeiro garante vaga na Libertadores 2027 com ajuda do rival; entenda?",
+    "tecnica": "Pergunta aberta",
+    "ganchos": [
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Cruzeiro garante vaga na Libertadores 2027 com 'ajuda' do rival. Foi mérito de quem venceu ou erro de quem perdeu?",
+      "thumb": "E AGORA, CRUZEIRO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Cruzeiro garante vaga na Libertadores 2027 com 'ajuda' do rival. Eu aposto que esse resultado vai pesar lá na frente. Você concorda?",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "“piquerez palmeiras”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Cruzeiro garante vaga na Libertadores 2027 com 'ajuda' do rival. Dentro de campo acabou. Fora dele, a discussão está só começando.",
+      "thumb": "CRUZEIRO x MIRASSOL"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Cruzeiro garante vaga na Libertadores 2027 com 'ajuda' do rival. O placar diz uma coisa. O jogo, visto de perto, diz outra.",
+      "thumb": "NÃO É BEM ASSIM"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Cruzeiro garante presença na Libertadores de 2027 após empate do Atlético com o Mirassol",
+     "fonte": "Impactto News",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd3FKcC04bU5BcV9uZC1jbFc5TXNKYjVyVXhoaGswVkNLY0dVel9MekZSUWRGY3dTTzQ1LWt5Z2ZrR29QSU42NS1sNmUtRUNlbkpMVFF4TVZfSjRvWHhLai1RTDdyT2tqaHBnNjlvUzNHNmVzNFd4SlZ2dFUxeklXZUM5Sng1U3hWTVdSMWItek0taW1xdlV5dDY5ckFwZ1N6WHg2RnFnQVZzWDVhbzgzY0t1cjg4SzdnMUNMWUdhV2RIaEVJbVZIVTdmNGQ?oc=5"
+    },
+    {
+     "titulo": "Cruzeiro garante vaga e Libertadores de 2027 chega a 23 times classificados; veja a lista",
+     "fonte": "365Scores",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTlRYllZN0pJR2ljOU1GSENwSHh3UW44SmhtLThGTWNIZDEyNmpsU1Bkd193X0ZHcGl5QV95dXRQMDJ2UTRwYkJJdU5PWElzclpTcG5hTnBIYzZGaWIzWDVkaGhNWk9TbnBvOXVZT0ZpSjlDT3ItSkIwWkdjSl8wMzNMTnVOcm5pY2JPOWNQckdLbzNH?oc=5"
+    },
+    {
+     "titulo": "Piquerez é liberado pelo Uruguai e reforça o Palmeiras contra o Cruzeiro; entenda",
+     "fonte": "Palmeiras Online",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZmQ2RmkyOXdFbE1LR1A2Y3VoeHZpR0I2Y0FZM3RueTB1SGRGMkF6ZUtnaDRYMHNEeVh5Q3I3cC1oajRRTUdTNWdjN2tVdU5NM001X2RNaXFwRjZTNVR1MXFqY1BEN0pNRjZncUR4ME5Od3hMRlJhOS1TR3NvQl9NYlBUWkRHdHpuNENkcXZwVlpyTWtxdzJLQllRZ3F6QmI4MHRCR01STTdOM3ZmRkVaWWhMVlZ0VUNWTGdDTw?oc=5"
+    },
+    {
+     "titulo": "Cruzeiro garante vaga na Libertadores 2027 com 'ajuda' do rival; entenda",
+     "fonte": "Bolavip Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb1JkYTNUdnd5SXBMaVhfeldoSEh1dTB6Z1otQXpVMENTRnZHQ09EMW53Ukc3ajhTS1VTZHg3akdqWHFfWkxyR0VZR2F4ZzRNbUxBSTRQcHVUQXZpSHJjbEx3Mm5lRXJ2NDlONzdjUXZjUFpRWVNESF9sc195U0o3RUdYQkpSUmdzOEhLcDRwcEVGRU0tYjJoWWlxRTdmSF8tckxoWE1DR0hUcU5IeGtZdTRtbG51bC1WZHJF?oc=5"
+    },
+    {
+     "titulo": "Últimas do Cruzeiro: vaga garantida na Libertadores 2027, cabulosas na final do Campeonato Mineiro e mais",
+     "fonte": "Diário Celeste",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNmdRTWNtajl2VTlWSEZncXVuM2QxMHRlYnZVVllXNXZXZWRSOFhDajg0YWRoWGhiaTNSMC16NTE5U3U5OW82YmttMUswSTlUanZ2VkRNaDJSYnpNVHVmS3JyMzBVYU9KbktVM2dwX1p5azNIMVpoeEVMNHhhMkpIalVFaE1ZaVFFWFRtTldhT0JBSjlrNHdHcHUtZGRMTjFUdlhBZmszM3QzNWdWY3V6ZkNROU9FRk94bEE?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "rXCKBl2pTZA",
+      "titulo": "CRUZEIRO GARANTE VAGA NA LIBERTADORES 2027 APÓS EMPATE DO ATLÉTICO NO BRASILEIRO",
+      "canal": "Itatiaia Esporte",
+      "views": 21940,
+      "likes": 188,
+      "comentarios": 15,
+      "publicado": "2026-11-15T00:19:58Z",
+      "duracao_s": 54,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=rXCKBl2pTZA"
+     }
+    ],
+    "consulta": "Cruzeiro garante vaga",
+    "n_videos": 1,
+    "mais_de": false,
+    "views": 21940,
+    "top": [
+     {
+      "titulo": "CRUZEIRO GARANTE VAGA NA LIBERTADORES 2027 APÓS EMPATE DO ATLÉTICO NO BRASILEIRO",
+      "canal": "Itatiaia Esporte",
+      "views": 21940,
+      "url": "https://www.youtube.com/watch?v=rXCKBl2pTZA",
+      "publicado": "2026-11-15T00:19:58Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Segundo o jornalista Venê Casagrande, o Palmeiras disponibilizou apenas 2 mil ingressos para a torcida do Flamengo no confronto que pode definir o campeão do Brasileirão. Como de costume na gestão Bap, o Flamengo comprará toda a carga disponibili",
+   "categoria": "Seleção",
+   "clubes": [
+    "Flamengo",
+    "Palmeiras"
+   ],
+   "foco": true,
+   "nota": 59.3,
+   "sinais": {
+    "busca": 70,
+    "aceleracao": 49,
+    "midia": 92,
+    "aderencia": 100,
+    "youtube": 0
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "piquerez palmeiras",
+   "termos_trends": [],
+   "n_fontes": 8,
+   "n_manchetes": 11,
+   "assinatura": "flame|palme|pode|brasi",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Lista ou ranking (3 a 5 min)",
     "gancho": "Eu aposto que a próxima lista da Seleção vai ter [SEU PALPITE]. Me cobra depois.",
     "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Arrascaeta brilha no Uruguai antes de voltar ao Flamengo; veja como foram os rubro-negros ?",
+    "pergunta_enquete": "Qual sua opinião: Segundo o jornalista Venê Casagrande, o Palmeiras disponibilizou apenas 2 mil ingressos pa?",
     "tecnica": "Aposta",
     "ganchos": [
      {
@@ -641,912 +1510,279 @@
       "thumb": "MEU PALPITE"
      },
      {
-      "tecnica": "Dado",
-      "texto": "63 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
-      "thumb": "TODO MUNDO VIU"
-     },
-     {
       "tecnica": "Conflito",
-      "texto": "Arrascaeta brilha no Uruguai antes de voltar ao Flamengo. Clube e Seleção puxando para lados diferentes: quem tem razão?",
-      "thumb": "SEM ARRASCAETA?"
+      "texto": "Flamengo pode ser campeão do Brasileirão antes da última rodada. Clube e Seleção puxando para lados diferentes: quem tem razão?",
+      "thumb": "SEM CASAGRANDE?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Arrascaeta brilha no Uruguai antes de voltar ao Flamengo. Todo mundo está olhando para um lado; o que importa para a Seleção está do outro.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Quem merece a vaga de Arrascaeta na Seleção?",
-      "thumb": "E AGORA, FLAMENGO?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Além de Arrascaeta e companhia, Flamengo tem 11 convocados da base nesta Data Fifa; veja quem são",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMWJyRWxFa1NHQml5TlF6NVU0UEJyS2ltb01OeHA5LUZxU1Y4d3hxeWxmSExMUDlfTjB0YnNjSm91cFVQSDdOMWItNWg0RjBBU1d0OW4zNmUtb00tbm5YRHJPTjhPTGJzUlUxZ0luNXBHQW9xNkh0YU1vTy0tbnZXb2xBbHlPNXZtQUQ4NGRWaEsyN0owWURfUE1mWlAtVlhMYnBsMG10OV8xVDF0c3ZCbEN0MERVRmlfU2x1NVUwQzI0OEFWbUxGaHJXbXYzQmpLdk40UXBmYkpVU0syR2ZGa2JqM3Q3MFA4X2FzNmFOaUo5U3l0dVp30gGGAkFVX3lxTE82Zm9wTklNYnlXSTFDdEtFWjNCMVZabWNEUGtkRnhOMFJpdTN6RXIxeDA1WVlualhKMjJucUtPNk1MTk1QRWFoSUg2ellwRW9HMUNEaTlSaHRyYkRvMHYzSFB1SlMwYlA0RGFKcVFBSWJEMGhjVmM1X3BTWFNNT3B2cTVRaTBKZHpMY3VDZmNjakJNTVNQaFNJMk9SdTZQLTVIWFJWQlVLYUQ0YTVaZFpvZmhzRWdkaU1QSGZyaklkM1hMc2I2ekhPbmszSDNQTkJMMzVfS04yMEhWc0g2ZS1CclZhcVIzSm9wSUdKMHVQc2w5N2RRMnA3Zm84amxqRTdBRkk3cEE?oc=5"
-    },
-    {
-     "titulo": "Arrascaeta volta ao Flamengo depois de brilhar pelo Uruguai",
-     "fonte": "O Dia",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVVY0TUJwNGI1T193cWxjcld5Y1BWa2FCZWlVcVV3eV9jMVN2WnIzbnJ6dk9jQ2hCcG81bEVVU3pOY1BSWkk3VjJmSVN1VmxjeWxELUV2QU1nUGxaQ21QTVMzNVJBUGZtaHNINkIyWkhDR245RVZ3OVdJNlRHWGtYWXNYR0Jxd1FZQ09zN2VCU0Y3ajBtZHNRalhxbWh1ZDVTWlNIWHVHRmZVWlVuSFoybzNEekN3WHdVRzdhWNIBwgFBVV95cUxPREhSc1FJVDBHUkQ4cFBHeU84S1cxUXd1SjZ4UkhYQ1piaElCX1J4c05YOVVQaDBjaUV2WnRtRGYwNFhtakpWemgzRDVlemVkM0hPSlNqWjA1by1WbVg3TTl1eHhjeTlxTWpvWmFFTUxCTHR2cUVpNzNaaVZUbl9PMk9zWHRwajY0amZISmk5UEJWT2RkTVVyUEFKcUlZeFo1VDA0NUx4bnJQQVFhcHl1OGNZTjhnV2xva0dYWnhCcl81Zw?oc=5"
-    },
-    {
-     "titulo": "Arrascaeta participou dos dois gols da vitória do Uruguai por 2 a 1 sobre a Argentina, nesta sexta-feira (13), em La Bombonera. O meia deixou o campo sem apresentar uma nova lesão, trazendo alívio ao Flamengo após a fratura no punho sofrida na última D",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kLUtsTEdNYk1xdFFVRUhPUmlJNlItd3hKanFweGpSUE12a3lXX3I3MFlnbEg5OHp1Nll3V3FwSkh1ejBBRl83UTFuWENfR0RfaFE?oc=5"
-    },
-    {
-     "titulo": "Arrascaeta brilha no Uruguai antes de voltar ao Flamengo; veja como foram os rubro-negros na Data Fifa",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQk1Gem5maGJTZ3BrUFdJNVdoQ1NrYXJtRlJJTTZWVTY5ZXVHcmVTWXpuN2Q0UUU0azVwTmNQWUY3REtoTmR0aXgxQ1ZneGFFaGNOR0NmQlJMMEl3RUEybThZRUlmTTlKRlI0bThvbEdrNmdoeENxQmdwRjdJYTV3TzZhVjF4SDF1M3lwdGd0VzM0TnlUSUpURWItN3B1MnplSHR6TkZpX1RsZkxvV2dNTEg4VDMtV0xIekRzN043NnJQck9POW1wWGhEQ1FJMF9tVDVvU202aU5yM0prZlhhb0FpckJtV3RhbzBUS1ktc3lmcENvV1lpRlpBak1BUGfSAY4CQVVfeXFMTWkwdzBZQnEwMnI5ZF8tdElLM3pfejRpOVRRVnNMdXFPVThkREEydGs0aW1VQVFVY0kzbG5VUVpRellxMWNwOXJVc3RYcElxTktTRWUyemFuMkI5cUxTczBSWEF2MjVRanpNVHVocDJQazhLdjJjWHpER3R1WFdmeTNIQU5ZNUNTSno4bXJPZjZFdGNuUDZOWENuYTlKLXUwQ0w5d3RzZlo1SmxWRkwyVlpCalBnYjk1ZWEwU3ZuMWEyREtHM3JrdDRiU2hZb2xPUzFwVTN4dV85Uk0teVRmSnktbDAtWWNMZ0RTLXpvQzZsUS1nYjlLaWE1V3Y3dFBkOTc1cVdMZzloY3hUNm1B?oc=5"
-    },
-    {
-     "titulo": "Flamengo recebe notícia sobre Arrascaeta vinda do Uruguai",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa2JxalV6SEFjYllyYzc5QUlfYnhqQ3ItNHh4cjhCckMtWUoxd1FLTFNBeGlXNmhXVGY1SnhIMWkzZkNWa2NYbXE5bVNFcE4waXhUU2lfemF1NjdVUVFCbmJYRmlCblV3aFpuLWpNVU1RbGVocHloMlg5THRTQXpoeHhmSDI0dlhORHlZa1pUclJxeVVoX2hWLWtjZ0pka3NhSmlpWk9BbHNCcGIyMWJ1NzYzOGxWWUM4NUFkcm5ZdW9yMFFwVkw3eU5oaERTd1VWSnoyWDJobF9KRHZPTllr?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "b--TCzqf7AE",
-      "titulo": "Uruguai vence a Argentina com show de Arrascaeta do Flamengo #flamengo #arrascaeta #futebol #mengo",
-      "canal": "FALA 7 | Notícias de Futebol",
-      "views": 52345,
-      "likes": 3429,
-      "comentarios": 37,
-      "publicado": "2026-11-14T02:35:57Z",
-      "duracao_s": 61,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=b--TCzqf7AE"
-     },
-     {
-      "id": "DSQm2A1uFn8",
-      "titulo": "FLAMENGO: ARRASCAETA DECISIVO PARA O URUGUAI! PALMEIRAS COM PROBLEMAS! BRASIL PERDE COM POLÊMICA! 📱",
-      "canal": "Juliano Braga Fla",
-      "views": 4535,
-      "likes": 40,
-      "comentarios": 0,
-      "publicado": "2026-11-14T14:35:37Z",
-      "duracao_s": 5011,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=DSQm2A1uFn8"
-     },
-     {
-      "id": "LWCl6XAo_sQ",
-      "titulo": "QUE PANCADA, ARRASCAETA! 🚀 Golaço de TRIVELA no treino do Uruguai #flamengo #arrascaeta",
-      "canal": "Bet Blog",
-      "views": 1985,
-      "likes": 49,
-      "comentarios": 0,
-      "publicado": "2026-11-13T21:00:02Z",
-      "duracao_s": 24,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=LWCl6XAo_sQ"
-     },
-     {
-      "id": "siCsM4mV8j0",
-      "titulo": "URUGUAI BATEU NA ARGENTINA #flamengo #mengo #mengão #arrascaeta #carlosalberto #caneta #brasileirão",
-      "canal": "NAÇÃO DO ALÊ",
-      "views": 1195,
-      "likes": 41,
-      "comentarios": 0,
-      "publicado": "2026-11-14T12:00:19Z",
-      "duracao_s": 16,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=siCsM4mV8j0"
-     },
-     {
-      "id": "RC7vbrItXC4",
-      "titulo": "Arrascaeta participa dos dois gols do Uruguai sobre a Argentina e volta ao Flamengo",
-      "canal": "Ruivinha rubro negra",
-      "views": 1114,
-      "likes": 52,
-      "comentarios": 0,
-      "publicado": "2026-11-14T10:13:24Z",
-      "duracao_s": 87,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=RC7vbrItXC4"
-     },
-     {
-      "id": "sdPKz8eZjIQ",
-      "titulo": "ÚLTIMAS NOTÍCIAS! MERCADO DA BOLA, DATA FIFA E GRÊMIO PODE PERDER 6 PONTOS E CAIR?",
-      "canal": "FLA NO PIQUE",
-      "views": 580,
-      "likes": 4,
-      "comentarios": 0,
-      "publicado": "2026-11-14T09:22:45Z",
-      "duracao_s": 4744,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=sdPKz8eZjIQ"
-     },
-     {
-      "id": "l4jfpBuEsj8",
-      "titulo": "ARRASCAETA DECIDE NA BOMBONERA E VOLTA MAIS CEDO",
-      "canal": "Fla Informa",
-      "views": 510,
-      "likes": 26,
-      "comentarios": 1,
-      "publicado": "2026-11-14T11:24:02Z",
-      "duracao_s": 51,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=l4jfpBuEsj8"
-     },
-     {
-      "id": "7QYFXI82HiM",
-      "titulo": "Data FIFA  Arrascaeta Saiu Ileso de Uruguai x Argentina",
-      "canal": "FLAMENGO EM 2 MINUTOS",
-      "views": 227,
-      "likes": 2,
-      "comentarios": 0,
-      "publicado": "2026-11-14T15:30:38Z",
-      "duracao_s": 20,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=7QYFXI82HiM"
-     },
-     {
-      "id": "diOA0qSw_oE",
-      "titulo": "Provável escalação: Arrascaeta deve ser titular, e Uruguai pode ter mais 1 jogador do Flamengo...",
-      "canal": "Sou Mengão 24h",
-      "views": 215,
-      "likes": 1,
-      "comentarios": 0,
-      "publicado": "2026-11-12T18:42:31Z",
-      "duracao_s": 21,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=diOA0qSw_oE"
-     },
-     {
-      "id": "H3JeT4eIW1E",
-      "titulo": "FLAMENGO: ARRASCAETA DECISIVO PARA O URUGUAI! PALMEIRAS COM PROBLEMAS! BRASIL PERDE COM POLÊMICA!",
-      "canal": "Juliano Braga Fla",
-      "views": 158,
-      "likes": 19,
-      "comentarios": 0,
-      "publicado": "2026-11-14T14:35:37Z",
-      "duracao_s": 5013,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=H3JeT4eIW1E"
-     },
-     {
-      "id": "SjVPKzqmshw",
-      "titulo": "Uruguai vence a Argentina na Bombonera! Arrascaeta decide sem Messi ⚽🇺🇾",
-      "canal": "Irineu Jubileu",
-      "views": 141,
-      "likes": 0,
-      "comentarios": 1,
-      "publicado": "2026-11-14T01:29:50Z",
-      "duracao_s": 46,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=SjVPKzqmshw"
-     },
-     {
-      "id": "oFr-rAn3UAc",
-      "titulo": "Urubu Reage | ARRASCAETA, o GARÇOM da Bombonera 🍲",
-      "canal": "Urubu do Malvadão ",
-      "views": 96,
-      "likes": 3,
-      "comentarios": 1,
-      "publicado": "2026-11-14T11:35:57Z",
-      "duracao_s": 18,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=oFr-rAn3UAc"
-     },
-     {
-      "id": "TtFOYf62EUg",
-      "titulo": "Arrascaeta ajudou o Uruguai em vitória de 2x1 contra a Argentina!",
-      "canal": "Ótica Rubro-negra dos fatos ",
-      "views": 4,
-      "likes": 1,
-      "comentarios": 0,
-      "publicado": "2026-11-14T16:42:09Z",
-      "duracao_s": 15,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=TtFOYf62EUg"
-     }
-    ],
-    "consulta": "Flamengo Arrascaeta Uruguai Data",
-    "n_videos": 13,
-    "mais_de": false,
-    "views": 63105,
-    "top": [
-     {
-      "titulo": "Uruguai vence a Argentina com show de Arrascaeta do Flamengo #flamengo #arrascaeta #futebol #mengo",
-      "canal": "FALA 7 | Notícias de Futebol",
-      "views": 52345,
-      "url": "https://www.youtube.com/watch?v=b--TCzqf7AE",
-      "publicado": "2026-11-14T02:35:57Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "FLAMENGO: ARRASCAETA DECISIVO PARA O URUGUAI! PALMEIRAS COM PROBLEMAS! BRASIL PERDE COM POLÊMICA! 📱",
-      "canal": "Juliano Braga Fla",
-      "views": 4535,
-      "url": "https://www.youtube.com/watch?v=DSQm2A1uFn8",
-      "publicado": "2026-11-14T14:35:37Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "QUE PANCADA, ARRASCAETA! 🚀 Golaço de TRIVELA no treino do Uruguai #flamengo #arrascaeta",
-      "canal": "Bet Blog",
-      "views": 1985,
-      "url": "https://www.youtube.com/watch?v=LWCl6XAo_sQ",
-      "publicado": "2026-11-13T21:00:02Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Flamengo vence Paisas por 104 a 71 e abre quartas da Liga Sul-Americana com autoridade",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Flamengo"
-   ],
-   "foco": true,
-   "nota": 62.0,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 48,
-    "midia": 81,
-    "aderencia": 100,
-    "youtube": 69
-   },
-   "fator_categoria": 1.142,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 6,
-   "n_manchetes": 6,
-   "assinatura": "flame|liga|sul-a|paisa",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Flamengo vence Paisas por 104 a 71 e abre quartas da Liga Sul-Americana com autoridade. Dentro de campo acabou. Fora dele, a discussão está só começando.",
-    "titulo_thumb": "QUEM TEM RAZÃO?",
-    "pergunta_enquete": "Qual sua opinião: Flamengo vence Paisas por 104 a 71 e abre quartas da Liga Sul-Americana com autoridade?",
-    "tecnica": "Conflito",
-    "ganchos": [
-     {
-      "tecnica": "Conflito",
-      "texto": "Flamengo vence Paisas por 104 a 71 e abre quartas da Liga Sul-Americana com autoridade. Dentro de campo acabou. Fora dele, a discussão está só começando.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Flamengo vence Paisas por 104 a 71 e abre quartas da Liga Sul-Americana com autoridade. O placar diz uma coisa. O jogo, visto de perto, diz outra.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Flamengo vence Paisas por 104 a 71 e abre quartas da Liga Sul-Americana com autoridade. Foi mérito de quem venceu ou erro de quem perdeu?",
-      "thumb": "E AGORA, FLAMENGO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Flamengo vence Paisas por 104 a 71 e abre quartas da Liga Sul-Americana com autoridade. Eu aposto que esse resultado vai pesar lá na frente. Você concorda?",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Com show de Yago, Flamengo supera Paisas e segue invicto na Liga Sul-Americana",
-     "fonte": "Olimpíada Todo Dia",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTWFidzRHQUw0d0xrT0xkMERGSzRGUEw5UXFFeWZaMHExQ3RVbl9jamlDUFpjRU80Q3BpNUJJWWl0YTdyMGVtWmd1SGNPaU1WbGtwSVhEMnliRGJCWmtyNERFYm9Cb1ZOQnNKVEpYZVVlcG45Zk8ta0o3OVNmR3RCSGhBZkNCa1QyZEFGbXBsakJySmg3MktZVG4zbVh4OUhsZ01jeTB3Ukx4cVNHdTdQS01kUzhvSDZnVjRlZjBfRktubGM1SWxRTy13?oc=5"
-    },
-    {
-     "titulo": "Inter vence Flamengo de virada por 3 a 1 e abre vantagem na final da Copa do Brasil Feminina",
-     "fonte": "Radio Grenal",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRjJKWjBhTS1MM3UtaTRaNk45S1hFR2pJUjUwNlFCOGF3dkRvMnJoWExIOEZJemNPRU5IVHhPWHVlRFhjUkU4UzAzd3J5dUxBOWZITzZIOWVNUWhxWkxXbGp6TERpc3VLYUhKOFBJeTNVMzBOY1FzUkVuX0ZjQ1hSUE5MVmhwcFJldzV3WFJHRkszdFRCeUZNNnF6enFVYVdiSkMtQi1NODFwd3JreXNWN2l3U01EOV80b2dIV3NpRU1zdw?oc=5"
-    },
-    {
-     "titulo": "Flamengo bate o Paisas por 104 a 71 nas quartas da Liga Sul-Americana",
-     "fonte": "TV Sim Brasil",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV2NWMTZvd0Q0SVFwNVV5X3NJTm5MQThCekJKVWlnRVE3MFRfbnZIVDNPZWtHZTJ1T09ONkY0NnN5NVJRRGxxN0pVU2NjLXd2WXZva3Nhc0xJLWVGNnRSY2tEeURxTFZ0WDRtVFUzRHhQZExaQjhHbVVkdG5HR1g2eDFJY1dfOUV6WWNrVmJTbVdGNjYzdjF5djBRS09fZ1psbmZFb0ZrWC1SQ1Z3blBBNXN4UW5Dbjg?oc=5"
-    },
-    {
-     "titulo": "Flamengo vence Paisas por 104 a 71 e abre quartas da Liga Sul-Americana com autoridade",
-     "fonte": "Clube de Regatas do Flamengo",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLTBkZ2s0QlAwdS1BUTlndWU2ZG9fY3hvWW0zZ2Z1UHZFZDJvOXJNa0VLa1k3bFY3SVdVU2Y0RkYzT25QM2o0ZFlVMkdZVHFFVjVZOEpIakluMTQ1TUo0ZGo5ay1mQjJ0MUhXYTVBNDhucGM5S24xbE1qVDdWYlZhemthX0NfeHM0b1dBZGVQUEpWYk9KR2xKWjA2bk1NSlA0NUhSejQ1Y0pqREE1Y3EyOEg1YzlUNTdPREp5LU9XbzNheTcwRzgyamJaVDg?oc=5"
-    },
-    {
-     "titulo": "Flamengo atropela o Paisas em Medellín na Liga Sul-Americana",
-     "fonte": "Surto Olímpico",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPazlzYUN4aXlRU3RHMXBiaEFKN0VlLW9wMWExSjY5RHVZZ1lXaHl1bWdVcEptMFJnN2xkUjQyWjdlU3NtTER0RDNnSFUyNWMwN1BleWNkTklIUFZUQVZHR3MxSTlyNzNKbVVHRm83UU1zOVFLM1RSZEpjXy15eWRzeDlBbG13Y3kzdlBma0dXQnY1WE8xbFo4WTYzQlc?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "EkMr3W9jZF4",
-      "titulo": "JOGO COMPLETO: PAISAS BASKTEBALL (COL) X FLAMENGO | QUARTAS DE FINAL | LIGA SUL-AMERICANA 2026",
-      "canal": "BasqueteTV",
-      "views": 67020,
-      "likes": 3373,
-      "comentarios": 2,
-      "publicado": "2026-11-14T03:41:41Z",
-      "duracao_s": 9135,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=EkMr3W9jZF4"
-     },
-     {
-      "id": "aqkuvnehl2E",
-      "titulo": "PAISAS 71 X 104 FLAMENGO | MELHORES MOMENTOS | QUARTAS DE FINAL - LIGA SUL-AMERICANA",
-      "canal": "BasqueteTV",
-      "views": 4785,
-      "likes": 149,
-      "comentarios": 0,
-      "publicado": "2026-11-14T04:41:43Z",
-      "duracao_s": 372,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=aqkuvnehl2E"
-     }
-    ],
-    "consulta": "Flamengo Paisas Liga quartas",
-    "n_videos": 2,
-    "mais_de": false,
-    "views": 71805,
-    "top": [
-     {
-      "titulo": "JOGO COMPLETO: PAISAS BASKTEBALL (COL) X FLAMENGO | QUARTAS DE FINAL | LIGA SUL-AMERICANA 2026",
-      "canal": "BasqueteTV",
-      "views": 67020,
-      "url": "https://www.youtube.com/watch?v=EkMr3W9jZF4",
-      "publicado": "2026-11-14T03:41:41Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "PAISAS 71 X 104 FLAMENGO | MELHORES MOMENTOS | QUARTAS DE FINAL - LIGA SUL-AMERICANA",
-      "canal": "BasqueteTV",
-      "views": 4785,
-      "url": "https://www.youtube.com/watch?v=aqkuvnehl2E",
-      "publicado": "2026-11-14T04:41:43Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Zagueiro rival na mira, clube perde jogadores para o Palmeiras e atacante ganha destaque no exterior: as últimas notícias do São Paulo",
-   "categoria": "Mercado da bola",
-   "clubes": [
-    "São Paulo",
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 61.8,
-   "sinais": {
-    "busca": 60,
-    "aceleracao": 86,
-    "midia": 67,
-    "aderencia": 100,
-    "youtube": 0
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "palmeiras x santos",
-   "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 7,
-   "assinatura": "paulo|palme|ultim|notic",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 3 min)",
-    "gancho": "Todo mundo está comemorando essa negociação do São Paulo. Eu vejo um risco que ninguém está comentando.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Zagueiro rival na mira, clube perde jogadores para o Palmeiras e atacante ganha destaque n?",
-    "tecnica": "Contradição",
-    "ganchos": [
-     {
-      "tecnica": "Contradição",
-      "texto": "Todo mundo está comemorando essa negociação do São Paulo. Eu vejo um risco que ninguém está comentando.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "O São Paulo quer, mas do outro lado alguém está segurando. Essa queda de braço vai ter um perdedor.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Esse negócio vale a pena para o São Paulo? Pensa bem antes de responder.",
-      "thumb": "E AGORA, SÃO PAULO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Minha aposta é que essa novela do São Paulo termina [SEU PALPITE]. Guarda esse vídeo.",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "O New York City FC, clube da MLS, abriu conversas para tentar contratar o atacante Luighi, do Palmeiras, em definitivo, de acordo com informações da Agência RTI Esporte. Vale destacar que a janela de transferências só inicia em janeiro, mas o clube norte-",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEbGhQcDVLNy1hRkRKNVhOc1ZiRmtuZk1RRGtDbjJkeEFXdUFVQ01Tem9ZMEJGbEJDWjRYMEVtNk9MTEFaeG43YnZDWHZ5SXJxcGc?oc=5"
-    },
-    {
-     "titulo": "Titular na mira da Arábia, revelação vai jogar em rival e futuro de Dorival: as últimas notícias do São Paulo",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQZXNpNm55eEdFRDFCb1dyQVZqUkRwQWdQSmh6c0NNOEVKa3Y0cjlNRnFJa1M2ODl2NkZiR3NQSloxUXVzUFU1TFlqelVEVUwzVWlSUVlOdVBfVHBXTnpYTjVXbWNPS2wyNFhVTXJnZENmNXZfZ1Mtb05FaHNORlp4ZTJ6aDVJMzRWc2k2ek9qVUtIa0UzT1ZuUlFlZGltdkdEQnBvYnhLWmJtZGlPRnZxNmY1ekp5cTNVM2x3NWF0dDVveUkxbmI0UGNSY3QwLUdqTWlGTUtwU3lfU05TbGxDUngwTkRrcjAtdU4xRFNxaGs3WXRrUjlrZ3VWQlBZMmxvWlpuQ1pvRTVPVWVqNjkxUFF2LUVKN2tWMG03eTdwOEwtTVE?oc=5"
-    },
-    {
-     "titulo": "Ídolo do Palmeiras na mira, atualização sobre renovação de Arthur e rival manda recado para Neymar: as últimas notícias do Santos",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNaG1MakhHMEx1YW54d1lyalJCRmxiYWo2YWtaZTcyTFl1VFlGZjhJSWx6b3dreUdBOXB3WlFxWDNkOWZJeFR0TDQ5T0lnSlFLamNvdDdBQnljNWJ2bEhtTWJmSG1jbDVZVGUyakthZ1J1R1hhRjNBNnotd1hHd0Z3bVJUMlc4ZFFCb2liNnp3MG8teVRyWlVXR0RjaElNcVcteDNQRXpNdzdhVHBnSkl3bzduRGdUbnpXa0FYbGlsS19XRGYxNDhPN3FJYmhNekxoZkdnZ2xUWlQyRDNMeVZKUHVwSWtLV1JaWTNoaE0tX1J4akxVMk5OQlAtWHJHcTZxRDZ5MW1vVm1NLWdCbXJhc2NTdi1ESVo5Z0I0QnFHMnEwSWJCdlBKYmlabEY3WWlCdHdDXzh5VHV1QQ?oc=5"
-    },
-    {
-     "titulo": "Zagueiro negocia saída, atacante deve deixar o clube e árbitro polêmico é escalado: as últimas notícias do São Paulo",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPUGxrTmgwVUxRZ29GUENMY1ZDRVF3VmRrV2trRlNHdmFxS19JYUVPb1VSczB6QzZiWlZIc0M0dEc4X1dQeW1CanlYS2kwOFR4c3h6RHVFRElwbFlaZnlUNWVicFBGVC1nUUpWWG5XMWxGTXBJYi1pd3Y2YWUtX2FCWDFhdWswOW9HUUs0cXNlWVNoLXdRdEp1a2Z6MEtjUzZjeW5VM01ULUFOQUNUS1N4eXZQUV9hV2tjVUdzeUlmRnJPZXdEWDlaUjY1RE16UEk2eEwtNG1rVm1SRnRTTmpHbzIxQ3RvZVdUazJrNnRzMm1LMWxGZFdsa3BicGMtVFpHNHJ4U0JPZzBNcEVDX0hiTkhjem1Xc0RhZEt6V3hLeXVQNHhwWFNRc2drTF8?oc=5"
-    },
-    {
-     "titulo": "Zagueiro rival na mira, clube perde jogadores para o Palmeiras e atacante ganha destaque no exterior: as últimas notícias do São Paulo",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNVUZlVGRIZFdkbUJnUC1YY2VrZkFiclY5al9BN2lGT1FTQ2xicmMyR050RHRfTVZqV2V4ek9qbmRsMUtLMWRJTFZaY0c1ZHViNGNoNDhnbU1KQWdRUEVZaHpwVjdFdzYzM01EWWRjdWpGd05fTW1ELU9CSDBpNnpTNHctTnliUm5Ic3pTdTVWb25xRVBneHd4X1ZQbDZQakZ5RTJhXy1JM0R5Wl9ka0czMkZRRHRSSDZfak83ZDktTFdwRnlwQWZYYUlGZHNSUmk3VmtRMDBEQmpDQlhFaVlBQ0NRc3R2V0ZMUVYxUEZFVUpiYWdURVYyLU14RFItb2pQQVAySTUwck1hLWFMMTRTNkpqT2xEVkFKOThYNFI3NGNsRnBCeWtjb2hLOXZiNTZBMTNCTjVvbUpiZ2N2MUdCOHNwMjU?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [],
-    "consulta": "São Paulo Zagueiro atacante rival",
-    "n_videos": 0,
-    "mais_de": false,
-    "views": 0,
-    "top": []
-   }
-  },
-  {
-   "tema": "Fabrício Bruno, Felipe, Pec e mais: DM do Cruzeiro é atualizado de olho no Palmeiras",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Palmeiras",
-    "Cruzeiro"
-   ],
-   "foco": true,
-   "nota": 61.3,
-   "sinais": {
-    "busca": 75,
-    "aceleracao": 75,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": 0
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "fabrício bruno",
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "cruze|fabri|bruno|pec",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "O torcedor está digitando “fabrício bruno” no Google agora. A resposta não é tão simples.",
-    "titulo_thumb": "VOCÊ PESQUISOU",
-    "pergunta_enquete": "Qual sua opinião: Fabrício Bruno, Felipe, Pec e mais: DM do Cruzeiro é atualizado de olho no Palmeiras?",
-    "tecnica": "Dado",
-    "ganchos": [
-     {
-      "tecnica": "Dado",
-      "texto": "O torcedor está digitando “fabrício bruno” no Google agora. A resposta não é tão simples.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Fabrício Bruno, Felipe, Pec e mais. A leitura óbvia é uma. A que importa é outra.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Fabrício Bruno, Felipe, Pec e mais. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-      "thumb": "E AGORA, PALMEIRAS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Fabrício Bruno, Felipe, Pec e mais. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Fabrício Bruno, Felipe, Pec e mais. Nem todo mundo no Palmeiras vai gostar disso, e eu vou explicar por quê.",
-      "thumb": "QUEM TEM RAZÃO?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Cruzeiro tem novidades no treino; Fabrício Bruno volta ao grupo, mas Pec segue à parte",
-     "fonte": "brasileirao.com.br",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNczUyVkdMWFpTLXFDWWc0RmdJMjhmem9vMENHUHBsWUNsNE5zRkVDQ2FHbmtta3JkVUZNTjVRazVYOWNENWJkOGJ4NlFPRE1vS1BpUEdfNzh1Y3VFajIzZGlzMkJxVTZlTjk4UHRqSTlYUnJtejk0elhNREVLRkVoTG5FU2MxVWNaZkszUDBpMFIwd0JncGE4MWZvYXpfMEJ1VXhDeG8zdw?oc=5"
-    },
-    {
-     "titulo": "Fabrício Bruno pode reforçar o Cruzeiro contra o Palmeiras",
-     "fonte": "Diário Celeste",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQajB5XzZRS19vclBiaVdnZDhGY3FCRW8yOWdFbmROcm9ma1pjUUt6TjhLdU1NQWVnUlVEYXlOQUNDR0c2VFA1VEU0WTUxbXoxRkxXOUpwMVhXYjdMTGVpa3AteDhrNVFOYjRHaXl1NUhkeEFQTE96YmxGV1dfRzJhZC1XN29QU1B6WUdtZTc2endDY2VLTlBvUWJET3l1a3Fsd1FXYmRBR3E4VW5zZnF6a1hZbw?oc=5"
-    },
-    {
-     "titulo": "Fabrício Bruno, Felipe, Pec e mais: DM do Cruzeiro é atualizado de olho no Palmeiras",
-     "fonte": "Rádio Itatiaia",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdkQ4OVRkNmFKS0s4dVB5MEdKbmhBdXhRVEU3WmZZcVlRZWV0LU1HWmhDYzlLV29tTEg5aWxjd0tsU0t3RDk5RTZvNXpVTDV1bzZwRUw1OUxwLTV2V2xNSDF3S1EyLTdYUE1GMEl0U1p2alZTZTRQR1FqQ0JzOHFZTThQa1d6NE5wb0pYQmxfWFlJbEVuajlUSU1ETm0wS0FUQXNIbmRJMnRYSG9NV0hEa0xNYmpwb3ZkdFd3OXpzRjlDZlZDYXZuMkhKY0xUUVJlWXVlSlRjbTFRZW5SSDJOcWhTbXBTX3VaQUpxUE8zSkg4bjhvZjh3cl8xN1lkQQ?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [],
-    "consulta": "Palmeiras Fabrício Bruno Felipe",
-    "n_videos": 0,
-    "mais_de": false,
-    "views": 0,
-    "top": []
-   }
-  },
-  {
-   "tema": "Transferência de Endrick pode 'custar' R$ 70 milhões ao Palmeiras; entenda",
-   "categoria": "Mercado da bola",
-   "clubes": [
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 58.4,
-   "sinais": {
-    "busca": 65,
-    "aceleracao": 73,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": 0
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "endrick real madrid",
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "palme|endri|pode|trans",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 3 min)",
-    "gancho": "Transferência de Endrick pode 'custar' R$ 70 milhões ao Palmeiras. Se isso sair, quem perde espaço no elenco?",
-    "titulo_thumb": "E AGORA, PALMEIRAS?",
-    "pergunta_enquete": "Qual sua opinião: Transferência de Endrick pode 'custar' R$ 70 milhões ao Palmeiras; entenda?",
-    "tecnica": "Pergunta aberta",
-    "ganchos": [
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Transferência de Endrick pode 'custar' R$ 70 milhões ao Palmeiras. Se isso sair, quem perde espaço no elenco?",
-      "thumb": "E AGORA, PALMEIRAS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Eu aposto: esse negócio [SAI / NÃO SAI] até o fim do mês. Se eu errar, pode me cobrar nos comentários.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "Por que Palmeiras pode ter “custo” de R$ 72 mi com transferência. Quase ninguém fez a conta do que isso significa para o Palmeiras.",
-      "thumb": "R$ 72 MI"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Transferência de Endrick pode 'custar' R$ 70 milhões ao Palmeiras. Nessa negociação, alguém vai sair perdendo.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Todo clube fala em planejamento. Por que Palmeiras pode ter “custo” de R$ 72 mi com transferência. Esse número conta outra história.",
-      "thumb": "NÃO É BEM ASSIM"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Possível saída de Endrick do Real Madrid pode fazer Palmeiras perder 'bolada'",
-     "fonte": "Somos Fanáticos",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTk02M0dyNnJqRWp1TUxUejBiUmdlVnlUTTRTMjZiWkZ3SUVlRWxZWmNUZjlJd2hUeFZzRHFiQkFfYnA5MHJoTXhWY2VyekRBOHdWeGxSc0hBNW9GLXVmTHlzQkpIdVZkNG83RWoyVjVScGo2cnRHeG4xVWdQWG85Mg?oc=5"
-    },
-    {
-     "titulo": "Endrick gera prejuízo? Por que Palmeiras pode ter “custo” de R$ 72 mi com transferência",
-     "fonte": "InfoMoney",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUFluNzl6ckNXNmU0a0VXV1M2WHYyS0JTVGg5U0gyb3dfeW81UEVXLTJMZk9iaGNDV01CQlYtRWhOclp2VlljcmRydmFlSmRxQ2x2VENHRWFXZHd0Y2dTZV84NUlkby1TTXpaRWdwUVMtM2Y0ckJxMzhXeU5YQkpESW530gGHAUFVX3lxTE9MY1hDRzdhSnhTWmxXT18tdDRzempxSmFBbHEtVHNhR2x6MkY3bG9KUE56V3RfRjItSlpQTm1IQlhtMVlrVDluTW1YcmJIVkNFMEZ2UDJndGZCay1Fa0E0OVlBNUxEZHJjckR5REY2TWUwNXh2S0lBa1VodGRCc05kV05yS0txWQ?oc=5"
-    },
-    {
-     "titulo": "Transferência de Endrick pode 'custar' R$ 70 milhões ao Palmeiras; entenda",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbDktSkRWcjY5ZDM2aHluSGxGLUpWcnFDWVRySTF6R19qVUwtU1RMN1lPaEcyWmhlOWE2ODcyS3VCbmtWdUNPSzJleWdPVURxZ0FkcjVzZjdDTTc3bFBVVGQyNFhqTVM2QklqNlZrNGlxYUN2NEdWRnB1c2xfbVpNSndlZkJLNzJMLVg2MHBLVkYwZGFPa19NaUFYdlJCenZvTlhLOE14dC1hME5ZNi15V2s2bUkzcGh5dHpYWjVQT1hOeW5iczB5ZkFEVDZzMGlpVXdDYndJQVJlUQ?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [],
-    "consulta": "Palmeiras Endrick Transferência custar",
-    "n_videos": 0,
-    "mais_de": false,
-    "views": 0,
-    "top": []
-   }
-  },
-  {
-   "tema": "Vasco segura empate com o Flamengo e vai à final do Carioca Sub-20",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Flamengo",
-    "Vasco"
-   ],
-   "foco": true,
-   "nota": 58.4,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 77,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": 37
-   },
-   "fator_categoria": 1.142,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 4,
-   "assinatura": "cario|flame|sub-2|vasco",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Vasco segura empate com o Flamengo e vai à final do Carioca Sub-20. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
-    "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Vasco segura empate com o Flamengo e vai à final do Carioca Sub-20?",
-    "tecnica": "Aposta",
-    "ganchos": [
-     {
-      "tecnica": "Aposta",
-      "texto": "Vasco segura empate com o Flamengo e vai à final do Carioca Sub-20. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Vasco segura empate com o Flamengo e vai à final do Carioca Sub-20. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
-      "thumb": "FLAMENGO x VASCO"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Vasco segura empate com o Flamengo e vai à final do Carioca Sub-20. Parece notícia pequena. Não é.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Vasco segura empate com o Flamengo e vai à final do Carioca Sub-20. E agora: o que muda para o Flamengo?",
-      "thumb": "E AGORA, FLAMENGO?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Vasco e Botafogo eliminam Flamengo e Fluminense e fazem final do Carioca Sub-20",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUEl3ZHk4Z2xiZy1tZlU0SlMxU2JXQzVIS3phRVdGTHhxTGhDZTRZazBNN251QjVKN3pJamt0eTFnVW91UTNVdWx1bE5fTWctSnpNMmJWTkRPTEFMcW1wYjBHMHNnczFBQTZSY1hYcGtLbkU3VnQwbTlpQUtJcjUtbDh6VjYtTThKWXlDaHdibEdpeldCczVzMXFpekJ4ZG0xWGZtLVdIX1JTLWNZb2VkVmZTYUU2MHN6MEU3NkFfdktYMkMt?oc=5"
-    },
-    {
-     "titulo": "Vasco segura empate com o Flamengo e vai à final do Carioca Sub-20",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaXdORDBreWQ5NTVRZk9aS2JnOGgyMEZ6T1dvQjBYTFN5cEVyMS1INGtvaDVGYnJHRm00VUZXbWt4SzdFTl93Z2xxWkRkSGpMZlNYYUZmNHNHb2lTVy1tY2VlOVBWWjVFRHhTcEFVbzNuenFIdFo3QjYxd2lMTmVsZ202ZmdMNGNHbC0zSjBabldSNGs2SkRSUDNzOGtVUURZYTVEbEJNZ0xndjg3OXhiVXNRUkZJZWI3WDFPNGZWc0JGQmtGX0R3S19PZF9GcFJRRDNwRW93dzVyYlRhTGtieURaRGpWUFBabDBB?oc=5"
-    },
-    {
-     "titulo": "FOMOS OPERADOS NA SEMIFINAL DO CARIOCA SUB20! ABSURDO! FLAMENGO ELIMINADO!",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVTEpTdVZBT0RPd3BCaDVUTEJ1SGNWOFd4ZUJ1N0FYR2E3b2VjLWdkWmN5QWpsMEpvYXAxOTc3T213NTVqbGdsTkRmdGR1R2xFVWxQWU93?oc=5"
-    },
-    {
-     "titulo": "Flamengo e Vasco vão empatando em 1 a 1 neste sábado (14), pelo jogo de volta da semifinal do Campeonato Carioca Sub-20. O time cruzmaltino saiu na frente com um gol irregular, mas Josmar deixou tudo igual com uma cabeçada certeira. Esse garoto v",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jYjVEZGFhbm5EWWpOdy1relpyZXdIY253amVHUDExNTdtb1FmekxfeHdxM0hWMlVMWnVaaUZPRWs2VnN0ZldkUC1aaEFDdVo4aFE?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "pSHf2uihTx4",
-      "titulo": "CLÁSSICO DECISIVO NA BASE! CARIOCA SUB20  #flamengo #football #futebol #sports #mengão #brasil",
-      "canal": "MEIUCA RN",
-      "views": 360,
-      "likes": 5,
-      "comentarios": 0,
-      "publicado": "2026-11-14T13:00:12Z",
-      "duracao_s": 31,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=pSHf2uihTx4"
-     }
-    ],
-    "consulta": "Flamengo Carioca Sub-20 empate",
-    "n_videos": 1,
-    "mais_de": false,
-    "views": 360,
-    "top": [
-     {
-      "titulo": "CLÁSSICO DECISIVO NA BASE! CARIOCA SUB20  #flamengo #football #futebol #sports #mengão #brasil",
-      "canal": "MEIUCA RN",
-      "views": 360,
-      "url": "https://www.youtube.com/watch?v=pSHf2uihTx4",
-      "publicado": "2026-11-14T13:00:12Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "André, do Corinthians, estreia como titular pela Seleção Brasileira",
-   "categoria": "Seleção",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 58.4,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 77,
-    "midia": 87,
-    "aderencia": 100,
-    "youtube": 50
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 7,
-   "n_manchetes": 8,
-   "assinatura": "selec|corin|andre|estre",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Lista ou ranking (3 a 5 min)",
-    "gancho": "Volante de 20 anos do Corinthians faz estreia na Seleção Brasileira contra o Japão. Guarda esse número, porque ele muda a conversa sobre o Corinthians.",
-    "titulo_thumb": "20 ANOS",
-    "pergunta_enquete": "Qual sua opinião: André, do Corinthians, estreia como titular pela Seleção Brasileira?",
-    "tecnica": "Dado",
-    "ganchos": [
-     {
-      "tecnica": "Dado",
-      "texto": "Volante de 20 anos do Corinthians faz estreia na Seleção Brasileira contra o Japão. Guarda esse número, porque ele muda a conversa sobre o Corinthians.",
-      "thumb": "20 ANOS"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Clube de um lado, Seleção do outro: quem paga a conta pela lesão de André?",
-      "thumb": "SEM ANDRÉ?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "André, do Corinthians, estreia como titular pela Seleção Brasileira. Era para ser só mais um compromisso da Seleção. Virou dor de cabeça.",
+      "texto": "Flamengo pode ser campeão do Brasileirão antes da última rodada. Todo mundo está olhando para um lado; o que importa para a Seleção está do outro.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
       "texto": "Se você fosse o técnico da Seleção, quem chamaria agora?",
-      "thumb": "E AGORA, CORINTHIANS?"
+      "thumb": "E AGORA, FLAMENGO?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Campeão da Série B, Rômulo será avaliado e pode sair em definitivo do Palmeiras em 2027",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdXc5aEoxOW56VzJmU0IyYzUxbkRDNWo4WWlfZUtrcktrX0pOU0RCODF2VUF0ZWh0cmlOczZFUkNFaktlQmpMNmNwT3ljelc5aVJWUm9CWlRUVjZSNDVxaHlBYWk3R3lFS1RWdEJ0d2hPMlZfRXBFYk52QVczTE5EWHZib0tMU1JsTGZIZkhrWnlkbVZUb1FGdWprWk9uNWkwVXNFa2dFU2poNEozeXlRRndWT19FMDFzVks1X2t1bUpkbmlLV1M3UGJzd2NpZmw5WWRBckxKTXBFLU5mczFpRUNXSUpkMWdFZGZNRtIB-wFBVV95cUxQVmZkYXVSNDFlQXp3dzZmYnlvZlZCbVRKcVFMRTQ3cVpEcHNEeXE1S3JWSjcwM2gydlpoRlBUOEJRZ0hQMG43S3VkNzdhWktHa255cWNkTXZWYktYdlpDN1g4QWhqSVM4SzRwXzNGeURRYlhTVW92X18zTTl6YlJCeVVGY2V5NU1XSEk1QmJOTW1uUHhnaGdMS3FUbF9DRHFKbWtTeVdaVHZiaHQ3QUNxcEZQRlBySXNHc041WVlleXNGcUJlb0ZYZTFWbmx3SC15d01kdV8wcVNSWkN3d0Fvd3NEOGVwSEJIT25TcEQ0SnJlb3BWaHJKVTg1bw?oc=5"
+    },
+    {
+     "titulo": "O Flamengo divulgou a programação da semana, que será decisiva para o Rubro-Negro. O Mais Querido terá dois compromissos importantes: enfrenta o Athletico-PR, no Maracanã, e, na sequência, encara o Palmeiras, no Nubank Parque. BORA MENGÃO!",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uQ1BqNEZVbkNWOVJpeEpVSnBDaVQ0N3FFd2hDakVPNlYxVWhKX1NtTVBFNEIxUlQ2VURDODRVSG0xdjFZWkdITU5TOE1vN1FsYUE?oc=5"
+    },
+    {
+     "titulo": "Flamengo pode ser campeão do Brasileirão antes da última rodada",
+     "fonte": "TV Sim Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanIzLVltUU8xUHNiZmpMQlhfS0hiM1ktWkgweG11b2VKb3VIR2NkbVRLam5UYjRQRHNxc0p6VHR3bUdoZEJNU3lZcUp0MGEteUJWMF9XVDREYm9aSVl4ZGpfUzNsZzhNcmkzdDVUUEowR0hwdzhmZUVGQ2NEYnpkMlBOQWxUdVB6MmVMcnNmMHllRFYzVkl5RVBSWENWMDVsLXF0QkowNFYxZk1rX3pqT2xTUHZBeDN3MDM4?oc=5"
+    },
+    {
+     "titulo": "Flamengo recebe boa notícia para a volta do Brasileirão; Grêmio pode tirar o Fla de competição",
+     "fonte": "www.jornalcruzeiro.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOEtQeFozQlQwV2dLYmNvc0JfdkxtZjdvc2FLdERxNVFscENJTlFaT0R4V0FQYXR3MlZlRmF5TDZ2TXJCNWNXZWdyRURjNUhvZDZwdEs5ZTk4YndoMXNHV3g5TG1OWm1rTkJRSDFsRWVQczR2UXFLeFhoRDBtcUZRdGFKYkZ5RVZEdVQyVmtRelYxcnc3WFNXYktKZks2NWZqSnlYYjB4QTdSd3NpSTBVM1I1V0pkb3V0Q29ZTVUtVVVXM0d0UDRmLTJ2bVBmTVZoUml1aEZB?oc=5"
+    },
+    {
+     "titulo": "Segundo o jornalista Venê Casagrande, o Palmeiras disponibilizou apenas 2 mil ingressos para a torcida do Flamengo no confronto que pode definir o campeão do Brasileirão. Como de costume na gestão Bap, o Flamengo comprará toda a carga disponibili",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QMzFQc3ljSkZQSTRxNERDUjFZdlpLdGJVVWgzMDhPMzBpd01WOUFHZTdqdkZxVVROczRVX2hlZnRScWZaaWh6WVFIdXN3b2JhSEE?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [],
+    "consulta": "Flamengo campeão comprará",
+    "n_videos": 0,
+    "mais_de": false,
+    "views": 0,
+    "top": []
+   }
+  },
+  {
+   "tema": "Zé Lucas é sincero ao falar sobre proposta recusada do Flamengo",
+   "categoria": "Mercado da bola",
+   "clubes": [
+    "Flamengo",
+    "Cruzeiro"
+   ],
+   "foco": true,
+   "nota": 58.3,
+   "sinais": {
+    "busca": 55,
+    "aceleracao": 42,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "flamengo x cruzeiro",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "propo|flame|lucas|recus",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 3 min)",
+    "gancho": "Zé Lucas é sincero ao falar sobre proposta recusada do Flamengo. Nessa negociação, alguém vai sair perdendo.",
+    "titulo_thumb": "QUEM TEM RAZÃO?",
+    "pergunta_enquete": "Qual sua opinião: Zé Lucas é sincero ao falar sobre proposta recusada do Flamengo?",
+    "tecnica": "Conflito",
+    "ganchos": [
+     {
+      "tecnica": "Conflito",
+      "texto": "Zé Lucas é sincero ao falar sobre proposta recusada do Flamengo. Nessa negociação, alguém vai sair perdendo.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Todo mundo está comemorando essa negociação do Flamengo. Eu vejo um risco que ninguém está comentando.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Zé Lucas é sincero ao falar sobre proposta recusada do Flamengo. Se isso sair, quem perde espaço no elenco?",
+      "thumb": "E AGORA, FLAMENGO?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Minha aposta para a vaga de André: [SEU PALPITE]. Qual é a sua?",
+      "texto": "Eu aposto: esse negócio [SAI / NÃO SAI] até o fim do mês. Se eu errar, pode me cobrar nos comentários.",
       "thumb": "MEU PALPITE"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "André, do Corinthians, estreia pela Seleção Brasileira; veja números",
-     "fonte": "Rádio Itatiaia",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTms5Rmg5WTRfLUNvQUtmYUkxTmUxdnRfUFg1bDlSTUJSLWJhOEdhSGp1RWNoTlJxdTB0UVg1SWdjcGtCNHVuMjh1ZWlyNUNMU1A2MUtWdXNJUXEwRDNKV1Q0cjNGQjIyMFdrcmdfWGlITDl2QW9OYmJJUzB0MnEwZVB6cTdTVjJES1l5SlN5Zk1leUl0Qmw3eGRSV180ZENVUmVUaFZRWnZNdGN1STkySnAxWUFsSV8zZWswTlFzLTVudklkcGt1cEVB?oc=5"
+     "titulo": "Em entrevista à TNT Sports, o volante Zé Lucas, do Cruzeiro, explicou os motivos que o levaram a recusar a proposta do Flamengo e acertar com a equipe mineira. Segundo o jogador, o planejamento esportivo apresentado pelo clube e a possibilidade de int",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5McjZZcUFyMFE3eHREMUlORW91N3huaFFfd0l0a1B0ZjJDWFkwTUpGekIzZ1JIczlidGVVaG1IcHBoQ3ZyUVM3bWdzVFVTN254cFE?oc=5"
     },
     {
-     "titulo": "André, do Corinthians, estreia como titular da Seleção e quase marca contra o Japão; veja lance",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNkxPcUdWb3ZmTHlCdTNRZGZzWXRKekpDbjE2NTkzSDktYVFpUGpKeHE0LUt4NVhCZUNHV2hyc0tXZFdYcUtyRTIzRFo5cFN6ZWFBVFFudm9HVFh6QzFIZGVGYzN1S2lQejRDYm9qeXIyOXRaUEh3cC1HZHcxUnlDemc5Tkl3RTVRMHVDYVlnQmZzbFc0eHF1dkptTHVaRC1sbnRDZF9fZVlsLU5ZZUdkMzk4UUNNbTMwMkVQV1hMcUUtVlViZ21GZnc2WU4wM1A1dHZlbFhQanFPSnVQUEJlNGQxcVUzbnQwRjZmUHhXc0lKZUVoUTQ40gGGAkFVX3lxTFBuMHFxSkpwVl9ZNFc3emhJbWhwSXQtRzBkd0xyd2ZEcEQ2MjFfaUp1ZTFsZEN6cEFpLWMzNTlOallSVEMtTjY3NV9URjRBVTc2WTljY2dfUWhiQUpiZFZFRG82WTVzeldzdVozWEhaYlc2SFhKZVh3T19sY1B2dEJ1aDg0REo0T0gyODBtTDFFTkp5R2xFRzllekNkM2haczhCeEVnWEkxRnp3dm92U3BDUHdxa2NKXzAyTXBDZjFtRDNRcjdjamlrU0lRalBUR3M4d2lud2Y0YldUMndRMmE1ZzR4ZXJXODdKRzQ2Y2dKWlVfU0M1NHRINlZCVk5Cc2Fma2V3UkE?oc=5"
-    },
-    {
-     "titulo": "André, do Corinthians, tem atuação discreta em derrota da Seleção",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZFpzY3F0TXVSLVMzdXhaQUxCdlpyN0JCcmE2QkhIZXFndGxLTWJnQmFmb3k5VW00aEU1ODdpSEtiTWZOaDNjSEFQYVpBeDhaQm5XTkxFci12MEtqQnJiLVB0dWhzTjBydzY5TnFPZW02bC1sOUQxWXBWei1GdDRlZmtDMWxiWUd6Um5KejhQQlpGZ2RYSldSX0dCdEc2ZElSNlo5N2lWUkU?oc=5"
-    },
-    {
-     "titulo": "Volante de 20 anos do Corinthians faz estreia na Seleção Brasileira contra o Japão",
-     "fonte": "bra1.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNmJCZUVLRER6RkRrWHBodzY4YmNEVXpEekxTZkxHM0NhTDFmUGNac3BZX016WTg0cjR6OWt2TWNDWjJoS1pDMldIZjZVNWpsZEdvMzNVZEdYQ0RnZUY2dlRYWURyU3ZjT2JnOVQ3emFLenJQR0VhTXdyeUlCaXVKa0RtbHdibHRqNGoxQW5hTWxEdDB2Q0o5QjkyYlFhZklFRkVXTlpRVUp2aUczM2xhcFhwakZKdkNUQkJWZzhENUZSTzQ?oc=5"
-    },
-    {
-     "titulo": "André chega à Seleção após lesão; altos e baixos explicam temporada no Corinthians",
-     "fonte": "www.brasileirao.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdy0wY0MtWnFDTTVmX2tLN0xQMUhxVGxzNVFTQUxudGpteWxDcjMxUWZpV0Y2UzFFVXdBckNSeC1vdkw2eEQwX1hlUXRRRllMdmxBcDJDVTB5YXM2Z3ZvSjlnd1oxZEVQMTVSS2UyOVp4eFd6NGRQMUs5VzFVUzA4aUZUZFFNOUJVb2dIM25lb2pOU05ETGk3Y2hzQl9DRFpocndF?oc=5"
+     "titulo": "Zé Lucas é sincero ao falar sobre proposta recusada do Flamengo",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTnhhRnV4Q3ppX3ZRbW1HSnBaSzhrelhHMzBCQnRGSE9aMDdxYkFlR2wwY2I1VmFZNEhCTnQwWDAwM1FTWkpGOVRvY0l6bmswX3ItLXdza0xPZ1pxbDJQMmdQYml4VTFjREJFWXRmYlBEUk11NTFFOUI5YzhwQVNkQ1dUVG9jM1VCVDhuUm1TX3I0ZjRrTHRhSk9QYTZreXZULW5tSmZKdFIwTWtiRV9JeGlqRU9ielk2Xy1lbkFZZHJ4Ui1tUFRsZU83U2o4cUhZQy1XbmdGT21zMWdyS2NEcWhXZl82SUk?oc=5"
     }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "D6uTqwNdmeQ",
-      "titulo": "André titular na Seleção quase marca contra o Japão e desfalca o Corinthians",
-      "canal": "FIEL IA - INTELIGÊNCIA ALVINEGRA",
-      "views": 681,
-      "likes": 22,
-      "comentarios": 0,
-      "publicado": "2026-11-14T16:01:07Z",
-      "duracao_s": 73,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=D6uTqwNdmeQ"
-     },
-     {
-      "id": "PRn5K2KelfE",
-      "titulo": "🚨 ANDRÉ DO TIMÃO É TITULAR DO BRASIL! EUROPA DE OLHO E POLÊMICA ENTRE CORINTHIANS E CBF! #Shorts",
-      "canal": "Campo Alvinegro",
-      "views": 277,
-      "likes": 8,
-      "comentarios": 1,
-      "publicado": "2026-11-14T15:02:49Z",
-      "duracao_s": 138,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=PRn5K2KelfE"
-     },
-     {
-      "id": "dk48UQtLY9U",
-      "titulo": "o volante André do Corinthians estreia como titular na seleção",
-      "canal": "corinthians e flamengo do futebol brasileiro 2026",
-      "views": 53,
-      "likes": 2,
-      "comentarios": 0,
-      "publicado": "2026-11-14T12:41:47Z",
-      "duracao_s": 16,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=dk48UQtLY9U"
-     },
-     {
-      "id": "kSn-VumnVPs",
-      "titulo": "André, do Corinthians, vira assunto em jogo do Brasil: 'Aparenta'",
-      "canal": "O Corre",
-      "views": 0,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-11-14T14:26:33Z",
-      "duracao_s": 145,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=kSn-VumnVPs"
-     }
-    ],
-    "consulta": "Corinthians André estreia titular",
-    "n_videos": 4,
-    "mais_de": false,
-    "views": 1011,
-    "top": [
-     {
-      "titulo": "André titular na Seleção quase marca contra o Japão e desfalca o Corinthians",
-      "canal": "FIEL IA - INTELIGÊNCIA ALVINEGRA",
-      "views": 681,
-      "url": "https://www.youtube.com/watch?v=D6uTqwNdmeQ",
-      "publicado": "2026-11-14T16:01:07Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "🚨 ANDRÉ DO TIMÃO É TITULAR DO BRASIL! EUROPA DE OLHO E POLÊMICA ENTRE CORINTHIANS E CBF! #Shorts",
-      "canal": "Campo Alvinegro",
-      "views": 277,
-      "url": "https://www.youtube.com/watch?v=PRn5K2KelfE",
-      "publicado": "2026-11-14T15:02:49Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "o volante André do Corinthians estreia como titular na seleção",
-      "canal": "corinthians e flamengo do futebol brasileiro 2026",
-      "views": 53,
-      "url": "https://www.youtube.com/watch?v=dk48UQtLY9U",
-      "publicado": "2026-11-14T12:41:47Z",
-      "do_canal": false
-     }
-    ]
-   }
+   ]
   },
   {
-   "tema": "Flamengo não cogita volta de Gabigol em 2027; entenda",
-   "categoria": "Notícia do dia",
+   "tema": "Corinthians tem três alternativas para substituir Yuri Alberto",
+   "categoria": "Mercado da bola",
    "clubes": [
-    "Flamengo"
+    "Corinthians"
    ],
    "foco": true,
-   "nota": 49.2,
+   "nota": 57.7,
+   "sinais": {
+    "busca": 40,
+    "aceleracao": 41,
+    "midia": 67,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "corinthians x botafogo",
+   "termos_trends": [],
+   "n_fontes": 4,
+   "n_manchetes": 4,
+   "assinatura": "yuri|alber|corin|recur",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 3 min)",
+    "gancho": "Corinthians tem três alternativas para substituir Yuri Alberto. Parece um grande negócio. Olhando de perto, não é bem assim.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
+    "pergunta_enquete": "Qual sua opinião: Corinthians tem três alternativas para substituir Yuri Alberto?",
+    "tecnica": "Contradição",
+    "ganchos": [
+     {
+      "tecnica": "Contradição",
+      "texto": "Corinthians tem três alternativas para substituir Yuri Alberto. Parece um grande negócio. Olhando de perto, não é bem assim.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Corinthians tem três alternativas para substituir Yuri Alberto. Torcida empolgada de um lado, diretoria fazendo conta do outro.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Esse negócio vale a pena para o Corinthians? Pensa bem antes de responder.",
+      "thumb": "E AGORA, CORINTHIANS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Minha aposta é que essa novela do Corinthians termina [SEU PALPITE]. Guarda esse vídeo.",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Corinthians entra com recurso para reduzir suspensão de Yuri Alberto",
+     "fonte": "Estadão",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNy12X1JiTEtVS0VMMWdsRFNWa0Q1MWRnLVBaUjhLWVhKSC0wSkh0a0Y0WElUa04yX0FucFlRaWJVbkZaeU8wU0hjU1d4ZldzSW1LNER5c0ZMdkYtbnkzMGxBTHJmSE9QRElYWXNRYkJ2ZFhjR2tDYUFFNGpPVmRRT0tzMGdWaTQtZ3RxMnpsMnlyaVNRUW9mazRPMTlGNXM3cGZMWWJTTmdiZC14M052eG5CUGxXTXRaUTNPZ1ROYTdBc1RkMlE?oc=5"
+    },
+    {
+     "titulo": "Corinthians tem três alternativas para substituir Yuri Alberto",
+     "fonte": "Bolavip Brasil",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQXR6aHBJWE9YRHB4ZGZOUzdHSzdKS3pBUl9FMjNuMVV4NXhBTVVZbXBRZFN2Mk5EOUxDNlo4OW9JMHowWUxCTjBIU0xFV2ZBbDRaMjZJUjNCQXpmNzBQSk9XeUE3T1lveDJGa0RRWG1Sc3JQMTZpWlhHSUtXX0ZobG1oTWNZbjBUVXIyZy13MDdvMzRKRTl3QjREaW9ZVGdjLUlGMXNZWFJRS3JRalJVS3lfeWh4TzgyRVhKcw?oc=5"
+    },
+    {
+     "titulo": "Sem Yuri Alberto, veja alternativas do Corinthians para enfrentar o Botafogo",
+     "fonte": "Rádio Itatiaia",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPOC1oZzY3LVVqYmFsTUZLOExBejgxUUtWamR6VUhKUHk1dDRJVUxMejZsRmpnN2FMd01QU28wOUhFZ1A5RnM5Z0RJeU9DS3FZclpBWGFrLXZmdmh6T21NdDBHbVIySjJ2US14bnhDSHBMOUVOUjF1TTZ4S0o1WGtnNzB4bGZHUnljUDlac2tnN2FiajJKakZmd3RFcEtkX1pZWVZaWXljOGV1UUg2cUhmUFR2bEJiaWstSVJKZDc2TU1ULTVPWldnYlV6RXlYM0szNFNDcGEtTGY4TzV1WEtkdi1BRFpyVy1JOTRIV2tIS0xhanNoLVRGWE5lOA?oc=5"
+    },
+    {
+     "titulo": "Notícias do Corinthians hoje (14/11): Garro, recurso por Yuri Alberto e renovações",
+     "fonte": "Revista Oeste",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QWld2M2RjT0puRWZZX0xMM1dmVDlJeEZTUDlDQ0pOcFhSTUhmTzUxV3JfNGN6WHd4aVNrLUpqUUVjX1NvWHktWnFRTXNPYkI3cmk4SmtmVEMyQnI5RzZ0by1tNVVRd08ta0VYaTZtMHF4ZnlERW10Qm93?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "São Paulo mira Carlos Vinícius, artilheiro de 23 gols, para reforçar ataque",
+   "categoria": "Mercado da bola",
+   "clubes": [
+    "São Paulo"
+   ],
+   "foco": true,
+   "nota": 57.2,
+   "sinais": {
+    "busca": 30,
+    "aceleracao": 63,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "são paulo fc contratação",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "carlo|mira|vinic|paulo",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 3 min)",
+    "gancho": "São Paulo mira Carlos Vinícius, artilheiro de 23 gols. Parece só um número, mas ele vai pesar nos próximos meses do São Paulo.",
+    "titulo_thumb": "23 GOLS",
+    "pergunta_enquete": "Qual sua opinião: São Paulo mira Carlos Vinícius, artilheiro de 23 gols, para reforçar ataque?",
+    "tecnica": "Dado",
+    "ganchos": [
+     {
+      "tecnica": "Dado",
+      "texto": "São Paulo mira Carlos Vinícius, artilheiro de 23 gols. Parece só um número, mas ele vai pesar nos próximos meses do São Paulo.",
+      "thumb": "23 GOLS"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "São Paulo mira Carlos Vinícius, artilheiro de 23 gols, para reforçar ataque. Parece notícia pequena. Não é.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "São Paulo mira Carlos Vinícius, artilheiro de 23 gols, para reforçar ataque. E agora: o que muda para o São Paulo?",
+      "thumb": "E AGORA, SÃO PAULO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "São Paulo mira Carlos Vinícius, artilheiro de 23 gols, para reforçar ataque. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "O São Paulo quer, mas do outro lado alguém está segurando. Essa queda de braço vai ter um perdedor.",
+      "thumb": "QUEM TEM RAZÃO?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "São Paulo mira Carlos Vinícius, artilheiro de 23 gols, para reforçar ataque",
+     "fonte": "SPFC.net",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUV6d2Y2RWZBZ1ZxUC02bS1HVmpmNUpUVUJGZkoxYUhhTUhvSXNOVGhWaGgydkJ2UVdwdGZlUV9jLW5XcUE1WUZWeVh5UkxlWTRhN09QelJ0ZEdmN0pjQUlUMm1yckVSVnJIc3gzSVdrZ2Z0V1AzdDk2RjRWQ09nSDJuMENWbzRGNTFBSW8yN0dFTlZRNjItZTNBbTFtcy1uRko2TjVMU3F1TGs?oc=5"
+    },
+    {
+     "titulo": "Exclusivo: São Paulo mira contratação de Carlos Vinícius para 2027; veja detalhes",
+     "fonte": "Bolavip Brasil",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQURoN19hZVE4eGYxQXUwR21ydXpnS0gzYTRWM1RwSkl3dTg5WVVQWXJsQkV6bmF0MG5GNWE4S1VLQzdPMG1vWkd5cEw0QnNXSnZvRzBFNml3S3hYYk5YTkJhQ0RCVmszdU55TEJtMjd1bV9MSTM1U1g4Zzdudk4wMm1seGVfeGJVdlJ4aG5UMHFyLTlqWWVFenBjbEFydzRqNXZENE43MDRZVGw3LTVCamdkbnhKUDVaTVJkMk1B?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Jogador quer voltar ao Vasco; Flamengo pode perder goleiro",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Flamengo",
+    "Vasco",
+    "Athletico-PR"
+   ],
+   "foco": true,
+   "nota": 56.2,
    "sinais": {
     "busca": 0,
     "aceleracao": 67,
@@ -1554,210 +1790,128 @@
     "aderencia": 100,
     "youtube": null
    },
-   "fator_categoria": 1.0,
+   "fator_categoria": 1.142,
    "trafego_google": 0,
    "busca_torcedor": null,
    "termos_trends": [],
    "n_fontes": 2,
    "n_manchetes": 2,
-   "assinatura": "gabig|volta|flame|cogit",
+   "assinatura": "flame|perde|pode|volta",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Flamengo não cogita volta de Gabigol em 2027. Por trás disso, tem dois lados que não querem a mesma coisa.",
-    "titulo_thumb": "QUEM TEM RAZÃO?",
-    "pergunta_enquete": "Qual sua opinião: Flamengo não cogita volta de Gabigol em 2027; entenda?",
-    "tecnica": "Conflito",
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Flamengo x Athletico-PR: qual é o detalhe que vai decidir?",
+    "titulo_thumb": "E AGORA, FLAMENGO?",
+    "pergunta_enquete": "Qual sua opinião: Jogador quer voltar ao Vasco; Flamengo pode perder goleiro?",
+    "tecnica": "Pergunta aberta",
     "ganchos": [
      {
-      "tecnica": "Conflito",
-      "texto": "Flamengo não cogita volta de Gabigol em 2027. Por trás disso, tem dois lados que não querem a mesma coisa.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Flamengo não cogita volta de Gabigol em 2027. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
       "tecnica": "Pergunta aberta",
-      "texto": "Flamengo não cogita volta de Gabigol em 2027. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
+      "texto": "Flamengo x Athletico-PR: qual é o detalhe que vai decidir?",
       "thumb": "E AGORA, FLAMENGO?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Flamengo não cogita volta de Gabigol em 2027. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Gabigol de volta ao Flamengo? Atualização sobre o retorno do atleta ao Rubro-Negro",
-     "fonte": "TV Foco",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdmpYaFBfNWh2cnF0eTBnU0k5c0NzT3FXcWUwbWxvYW05R1BPS1BlQTV6S21VcmU5WTRqNjVJUVZzQVFqVHFYc3pMdUl6RGRJdHI2QlZBVXNTU2M2ZGJ1b205RDRmVW15OWFTa3ktbjBaTXZGZ1pnMWtLYTNEMk1kZHdyQTQxdmgta1I4dUdXb1VhTTZqMV840gGcAUFVX3lxTE5FeVNsMzVCV1hKaDNXLTNRNnV3U1ZWVjVIR0hVZkw3b2JNRDZVY1BGMkRfdmdpcmpET3h6b1lPQ29OaHdfdUtZZ0NENFBScGR0U3dOQkJYbkZRQnh2N2pfM25xb0Y5OE1LMWxrZGRBN2dVdV9iN3AzQTVyX3VTeHNMRFJiUHlWaTdjTVdORTZhNGtwaEtWQ05KVENieA?oc=5"
-    },
-    {
-     "titulo": "Flamengo não cogita volta de Gabigol em 2027; entenda",
-     "fonte": "365Scores",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxUnJxRGh4V0U1RGg1TWRNeGhJcTExdDBISFJMYUFxRkxQcWpna2ZnWkNOMTh2VU8tOE5XQzBicWtXRC00VjVYNXNqbEYxT2w4N0VYeEQ4WmxYM2hQTVh4YTZ1Mk1NRnl0R1lEZTltTlBRTHozTXlKbWtiT1JxRE0?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Danilo intensifica tratamento e pode ficar fora do jogo contra Corinthians",
-   "categoria": "Lesão e desfalque",
-   "clubes": [
-    "Corinthians",
-    "Botafogo"
-   ],
-   "foco": true,
-   "nota": 49.1,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 52,
-    "midia": 67,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 4,
-   "assinatura": "corin|pode|ficar|inten",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 2 min)",
-    "gancho": "Danilo intensifica tratamento e pode ficar fora do jogo contra Corinthians. Parece só mais um desfalque. Não é: muda o jeito do time jogar.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Danilo intensifica tratamento e pode ficar fora do jogo contra Corinthians?",
-    "tecnica": "Contradição",
-    "ganchos": [
-     {
-      "tecnica": "Contradição",
-      "texto": "Danilo intensifica tratamento e pode ficar fora do jogo contra Corinthians. Parece só mais um desfalque. Não é: muda o jeito do time jogar.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Danilo intensifica tratamento e pode ficar fora do jogo contra Corinthians. Quem entra no lugar, e o time aguenta?",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Eu aposto que [SEU PALPITE: QUEM ENTRA] vai ganhar a vaga de Danilo. Você concorda?",
+      "texto": "Meu palpite para Flamengo x Athletico-PR: [SEU PLACAR]. Deixa o seu nos comentários.",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Conflito",
-      "texto": "Danilo intensifica tratamento e pode ficar fora do jogo contra Corinthians. Agora o técnico tem que escolher: improvisar ou mudar o time inteiro.",
-      "thumb": "SEM DANILO?"
+      "texto": "Flamengo contra Athletico-PR vale mais do que três pontos, e os dois sabem disso.",
+      "thumb": "FLAMENGO x ATHLETICO-PR"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Jogador quer voltar ao Vasco. Parece que está tudo resolvido. No futebol, quase nunca está.",
+      "thumb": "NÃO É BEM ASSIM"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Garro corre no Corinthians, mas Botafogo ainda pode ficar sem o meia",
-     "fonte": "www.brasileirao.com.br",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVUpqMXVFd05UZkEzX18yb21PNHFuUklEMUNZcDM4YkNGU3pMV0ZyWXhZSjl1RXVCMnJWc2ljS2ZNNXYtTGV1SFU4YzhGR3Zwa1k2dkloUHRSOHVMYVRYdXlSWjAxTUlLNVBOSUp4UTk0dTItQndZZml2X2I4MlVDSVhqRkE4QkswU2Z0MF9tXzVjM19ua3ZtbVRSMjRkRGpEVVVjVWNqczRxLWJaNVE?oc=5"
+     "titulo": "Flamengo prepara volta ao Brasileirão, mas Paquetá ainda pode perder Athletico",
+     "fonte": "brasileirao.com.br",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbVU2Y1lDUThvT3phVjg0WUFvUGxMZVU2UjJCR25zdko1bGJTa3dMNTBPT0hLcVBQWnhyWkE1YXJmTVV4bEU4eDQ2a2VjZTVVMGhHWkdLQWQzZFJ2T1ZmTFoxbFdqU3MyMmwtMk5RSGtPSmIwNDRzRTFhSlFfNDBqSmdFQ080eEV5U3lINVdJSUhBWHhGNFJRN1N6a2RiSzhpclRyXzJlNE5TZDRJR3FEQTN0djBVMFYwQTQw?oc=5"
     },
     {
-     "titulo": "Danilo intensifica tratamento e pode ficar fora do jogo contra Corinthians",
-     "fonte": "Futebol Sergipano",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR2Zxck42NHcyOWRQcFNLWDVhWmZOOGh3Qjl2TEVoTzdOeTJGVWF3dmFlV3VuOE1kRzExTXREZ05xdDI5NFUwNHhXVXhUbGRfOXpYZFZ3emlOVjdSZ01xVkRnQ3ZOcnQySENsQXZwbG1wQXBZLXpkZ05ZMGxlM3NYV0tJSGFMa3pIeXdSQ04xOS1zU04teDVNR0l4T01qR1Fia3JHNGgydUZOelE?oc=5"
-    },
-    {
-     "titulo": "Danilo faz tratamento intensivo para lesão na coxa, mas não tem presença garantida em Corinthians x Botafogo",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQTS02bHRzWXNtUExOQ1EtdDdOM1JBZVU0b01EWG1rbUhLNm5sYjVxYUFwQ21jZ0tjVUZuMzFZSGhNSlZqZUplU2RkQ2V6OEwyT1U1eS11SVMtLXRLbXdlWEs4R294RF9Fd002bG5Yd2Rqa09QYXhuWHlxRl9kSERBc21OZkl3VVpHOXlSRDVnQXR6LXEtbnNkZTM0ZDZTQXZuMlpNa01MX2xCQnlUeTlwWmJDTzh5LTFGeGFDcWlVd1VHWWRMYTBXN0RUUkNKVDdHWk5sYU41RFZCeHZPdDhTeTVJMFhLV014QmFrS1ZYVmJVWExCNEswMEdWVjhsSlVhVWxxbWtsSdIBlgJBVV95cUxNeG4zcnlOd3VGcDk5azl0Y3hFd1poeHQ2eTRreUZpamt6OGp6Y0xSSXAya0ZvZEFfQlhjYTJ0bDZyQV9nRzYtNDA2dmhKNEZEYmtaLVFoejlyODRpVmZYaUpsYk9NcWEzSHNXcDRIU0JHTEp1VnhLZlJFQVRRNFRiaHdVdEZoUzl5V3JVbmQwYWFpbjU5QkNpYnFzVmF5OWdTY0JNcG5VeDBQQlRXNFZfTXhkd1ExdHd0WXluSUpLRFo5ckJ5WXBReXh5U1B4amFFclVvRmNZNmwtVElKZmZVeHg1MEN5SkNtNTg2eTBFYTlDQS1zeS1OSndmYzFhLWpXZzAxV25iN0JPSWR6NVFFVTlMSkFsQQ?oc=5"
-    },
-    {
-     "titulo": "Corinthians enfrenta três ameaças e pode ficar impedido de contratar",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRHZNbzFseGdyR0lqejNwU3hQbWJtNTBweGd1RlBmcW03ZTdkcG5DTXFiZU1hbWs0WklEbzktOFFaWTFJWXJoZnUtUGY5OUtMc2NHMUlGWmcwNzc4ODMyY0tNMkt0dUhIaTl0Z2hfTEtSUzZDT2J6Q3NmZkZiWVU1QTlWWHpEaXphQnRlU2RUV0NocVpkZTRhZlBoTzNjVDlHVWFteE82eWF4a1lpMGNzaDZKVDJKeVFyaEl5a0dUcDlvTURSMEV4LTFmT3A4TkNnbzJkZm4xVkV5YVJ4Z0NPbnhjb3BvUzZjSWpwalFRZzRhZw?oc=5"
+     "titulo": "Jogador quer voltar ao Vasco; Flamengo pode perder goleiro",
+     "fonte": "www.jornalcruzeiro.com.br",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSEpMWEl3UWx5b0FYRW5RZ1plVlJiTWRpcXBEcVNHZjlLMzNGem5PdzkzcGhEM2hkZGwtYURBQTMtYjlMMU1EdWx0TTNFaWFkaG5ET0FCLVBST0F5UkNWZmVVZmJCeDF0Tkd3bjNNUWZBa3N1aHdtWkNBbVdmR2UzYlc2SVdKZ3ZJc1BJajUxU2dSRUJvc21IaXItMmdZRUdueGVpMjJpRDJ2VjMwUkgwckdsUHpsaEVfcDlRbWVzTzk2aTNr?oc=5"
     }
    ]
   },
   {
-   "tema": "Flamengo fecha acordo, Gerson está arrependido e decisão do Governo prejudica o clube: as últimas notícias do Flamengo",
+   "tema": "Palmeiras: Abel ganha reforço inesperado para o Mineirão",
    "categoria": "Mercado da bola",
    "clubes": [
-    "Flamengo",
-    "Fluminense"
+    "Palmeiras"
    ],
    "foco": true,
-   "nota": 49.0,
+   "nota": 55.8,
    "sinais": {
-    "busca": 60,
-    "aceleracao": 58,
-    "midia": 29,
+    "busca": 70,
+    "aceleracao": 65,
+    "midia": 46,
     "aderencia": 100,
     "youtube": 0
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "zagueiros do flamengo",
+   "busca_torcedor": "piquerez palmeiras",
    "termos_trends": [],
-   "n_fontes": 1,
-   "n_manchetes": 3,
-   "assinatura": "flame|ultim|fecha|notic",
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "ganha|abel|palme|refor",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 3 min)",
-    "gancho": "Flamengo fecha acordo, Gerson está arrependido e decisão do Governo prejudica o clube. Isso é bom ou ruim para o Flamengo? Responde antes de ver a minha análise.",
-    "titulo_thumb": "E AGORA, FLAMENGO?",
-    "pergunta_enquete": "Qual sua opinião: Flamengo fecha acordo, Gerson está arrependido e decisão do Governo prejudica o clube: as ?",
-    "tecnica": "Pergunta aberta",
+    "gancho": "Abel ganha reforço inesperado para o Mineirão. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
+    "titulo_thumb": "MEU PALPITE",
+    "pergunta_enquete": "Qual sua opinião: Palmeiras: Abel ganha reforço inesperado para o Mineirão?",
+    "tecnica": "Aposta",
     "ganchos": [
      {
-      "tecnica": "Pergunta aberta",
-      "texto": "Flamengo fecha acordo, Gerson está arrependido e decisão do Governo prejudica o clube. Isso é bom ou ruim para o Flamengo? Responde antes de ver a minha análise.",
-      "thumb": "E AGORA, FLAMENGO?"
-     },
-     {
       "tecnica": "Aposta",
-      "texto": "Flamengo fecha acordo, Gerson está arrependido e decisão do Governo prejudica o clube. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+      "texto": "Abel ganha reforço inesperado para o Mineirão. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Dado",
-      "texto": "Reforço pode custar R$ 25 milhões. Parece só um número, mas ele vai pesar nos próximos meses do Flamengo.",
-      "thumb": "R$ 25 MILHÕES"
+      "texto": "O torcedor está digitando “piquerez palmeiras” no Google agora. A resposta não é tão simples.",
+      "thumb": "VOCÊ PESQUISOU"
      },
      {
       "tecnica": "Conflito",
-      "texto": "Flamengo fecha acordo, Gerson está arrependido e decisão do Governo prejudica o clube. Torcida empolgada de um lado, diretoria fazendo conta do outro.",
+      "texto": "Abel ganha reforço inesperado para o Mineirão. Por trás disso, tem dois lados que não querem a mesma coisa.",
       "thumb": "QUEM TEM RAZÃO?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "R$ 25 milhões. No discurso, planejamento. Na prática, essa conta não fecha.",
+      "texto": "Abel ganha reforço inesperado para o Mineirão. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
       "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Abel ganha reforço inesperado para o Mineirão. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
+      "thumb": "E AGORA, PALMEIRAS?"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Flamengo fecha acordo, Gerson está arrependido e decisão do Governo prejudica o clube: as últimas notícias do Flamengo",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNeGxvY2dNUTdzcGtIWi04aEJMNnI0UmlIVnZ6dUFUWmxQYkFsemV5SDJQR0VBc1hqU2lZV2pxazc1Y21vNjZEQmVGbXZ2QmROcmdaTEhRQkpfMEZOeUZrUTRaXzRaSG1QU3U2TldOZjUyaGQzYVJoeTItN0g0U3pvYTQwZHpZOFV1WFZxTjFGVldDaHRjYXVfb2d1TG9RbUdBQlVHRE9vdHllS1ZOLU14cmU0S2FlODI2M1B6OGpVRGF5cHlYUUlSUTZoRFczMkg2em5ydy1jUllLZEhrdEllck9BdW9ZWTN5MXVwOU53eG40R2FSSU00Y2tMUnF1Y1F1bWctRVp3dmJzLW1XcDFZM2lWZWxhdGk1TUdRWDZTN192TVFvTFBDOXpLY29iUQ?oc=5"
+     "titulo": "Palmeiras recebe notícia preocupante sobre Piquerez antes da Libertadores e Abel Ferreira ganha problema",
+     "fonte": "1News Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSTFDeWtEOV9MTDUzUklESjJWalhtSDdaU1EzVkxJSC1RYldkUlRwbjZGbjI4eEpINkhfVTFBUkpFUzVtWUpmTG1mdUZtaU12VjR2SDBDYTR3WW1BdXpVejJXNjFPczdXZzFiVzBaSDVid3dvRDR1bzBva1NzQkRJMV9KUkotSnR2ZGxTTnVSQ1Fzdy1MNTNJdDRqRXQtMlZRcFRFbjZwUXFxZHozUVBRWXZtZFVMMFhlUS1XWlA4MFdZX21hOEdtRGNqTC1MaGF2b21DZ25qRll0dFo0dFFGbVM2RHM0eEFqSTVQZlk2TkdvZ3J5Mndmdkd4MnVnSTBtcEt0cXhyWFY?oc=5"
     },
     {
-     "titulo": "Reforço pode custar R$ 25 milhões, zagueiro entra na mira para 2027 e revelação pode acertar com o Flamengo: as últimas notícias do Fluminense",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQS05RODNkUFJoS2h6dnJTampyMDZjbDlYNlJKbElJaFlpd0l3SmFFd2lXRjY2VEJGWVRUcjRSOVJ3a1FGZHN5WEo4YUo2dHhLUFhPSkRMUjRXb2xjajRzWVFoalpRd0tqa3JQSy1XVXNNUzFOX0ljNnlfMFRPMVlJMkZfaWFZeEVEbWJxNjh0S2pVWU12R0s2SV9BeEhjTmM4cmJDXzRJN0FGdkxoYjM1WDJjeGFjOGplVUltUlBfd2xDVXMyd01yTDY3YmJpNWllX0lHaG9wRklXdjQ5NjA3dnNWUzlJRmpmai14SkpGNkUxcWJqNmgyOUVrU1cyRW5UQ3BiYW5RbzBwWU5jbzQ3OXMwTHptNkNiWHJoMkswaEdfcEMyeTFmZnZibDE3WnQwUGRJZHVmRmVPeTNtYXlFYU1FZEZET3dYVkM4WnFzbw?oc=5"
-    },
-    {
-     "titulo": "Flamengo fecha novo acordo, revela jornalista",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZFNHaS1LNnYzU2dYb193eURtTzZWV0IycEx0QTNfX2NCSExsMUJxbmJPblN0RGNOeXN5WmlueVAtMU9QWkxUMXhwS1Rkd2RmYmw2NjVMRnhrc21qSDFjZW9ucUQtWHYzVC15T1pldHNlRFFNUEQtVmF1ei1WUThqcDJocGhMTVdmRmgtZzIwc29zOEtmMEpqckZ6YVVldC1tZTNuREg5OXRKck1weHR6QVlOY0c3QUJPOUpXSldjSWwzSWJrWWNra3hTLXBQZw?oc=5"
+     "titulo": "Palmeiras: Abel ganha reforço inesperado para o Mineirão",
+     "fonte": "NossoPalmeiras",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObk5leWMycnJVR3NDRUhEY2NMMG5HTEo4Q1JRbC1wZWIwUTNvdDZmOTBkaDlWQzJadzlFUnE0ckp4d2ZZRUZVSjc3UHl2RENTMmZ3eXNOc2U3MmNwMUZXZXoxTFhKeUlsNUZIaldxLXo0MkloakhGQUR1VlNudklqNg?oc=5"
     }
    ],
    "youtube": {
     "amostra": [],
-    "consulta": "Flamengo acordo fecha",
+    "consulta": "Palmeiras Abel Mineirão inesperado",
     "n_videos": 0,
     "mais_de": false,
     "views": 0,
@@ -1765,301 +1919,78 @@
    }
   },
   {
-   "tema": "Samuel Lino segue se destacando pelo Flamengo no Campeonato Brasileiro. Segundo dados do Sofascore Brasil, o atacante é o líder da competição em nota média e grandes chances criadas. Em 33 partidas, o camisa 16 soma 21 participações em gols e",
-   "categoria": "Seleção",
-   "clubes": [
-    "Flamengo"
-   ],
-   "foco": true,
-   "nota": 48.0,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 55,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 4,
-   "assinatura": "flame|brasi|desta|lino",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Lista ou ranking (3 a 5 min)",
-    "gancho": "Flamengo aceita proposta de 60 milhões de euros para vender Samuel Lino. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
-    "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Samuel Lino segue se destacando pelo Flamengo no Campeonato Brasileiro. Segundo dados do S?",
-    "tecnica": "Aposta",
-    "ganchos": [
-     {
-      "tecnica": "Aposta",
-      "texto": "Flamengo aceita proposta de 60 milhões de euros para vender Samuel Lino. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "Em 33 partidas. Parece só um número, mas ele vai pesar nos próximos meses do Flamengo.",
-      "thumb": "33 PARTIDAS"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Flamengo aceita proposta de 60 milhões de euros para vender Samuel Lino. Por trás disso, tem dois lados que não querem a mesma coisa.",
-      "thumb": "SEM SEGUNDO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Flamengo aceita proposta de 60 milhões de euros para vender Samuel Lino. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Flamengo aceita proposta de 60 milhões de euros para vender Samuel Lino. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-      "thumb": "E AGORA, FLAMENGO?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Flamengo aceita proposta de 60 milhões de euros para vender Samuel Lino",
-     "fonte": "www.jornalcruzeiro.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMDRycGZ4SlBRNjBVaTVmMks0NzdiNmtBbmV1ekJybDlqVkNfd1huRHBrc1ZoQUh1M2ktODduSzNrVzk0djhtSXhfaWJuekpXNDJZT0p6Qlg3M1FkSnlOZ0x5SGlrUEZPZ1p0b0N1M1NTNDJURTN6Uko1Q0Y2LXVVNkR4VHprQkF3N1ZkeVRkbjJ4SGNjYlFwN2hwcm5MLThrUzRDQUxsWXNTVXhmclJMb1VBem9iS0ZNWTRubWZvV2s2UmQxM2RGNE9CMDJ3UjduazNfM1F2QQ?oc=5"
-    },
-    {
-     "titulo": "Samuel Lino segue se destacando pelo Flamengo no Campeonato Brasileiro. Segundo dados do Sofascore Brasil, o atacante é o líder da competição em nota média e grandes chances criadas. Em 33 partidas, o camisa 16 soma 21 participações em gols e",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iNUo4cUhTZjRWUW9hRzlhRTVSR29ONmVFWGxlQTNtcXMtU1ZfYWRILU5UMmFsVFpCMGhHT2w1NU5URURndlZDVVhGUDBQVDRTVmc?oc=5"
-    },
-    {
-     "titulo": "Flamengo lidera ranking de renda líquida do Brasileirão; veja os outros",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeWFaR0Z4V2w3YzNyeVFxc21Rb2MyV1Bfc0paOHZpdlhNVkl1a1dXN3ZCUXRHQ3pXaFg3VHphbUJVNVhwejFWWE9hV0p4Wk01SFotcDZ0aUdwTnVBb2d5Y2pzdXoxMS1DdG9SUE1ob3I2VVlLSTJtQ3pnaXl4MktjZFJiSVdyaWo2ZFBiajZsbFljTTBpbjZDOEMzVXlvdVNJaFU1d3JiNTJQRWItU3k1THJ2RzBVOFRqdndHT1VLbkpSVlNnbEhtVWpBZ0p3U1JMRUJ0T1MtZ2RyNVd6VVQ4UWtlVzZtQ0lSWVJPZnNmUQ?oc=5"
-    },
-    {
-     "titulo": "NA MIRA DO FLAMENGO! Segundo o portal “GE”, o Flamengo sondou, recentemente, a situação do goleiro Pedro Morisco, do Coritiba. O jogador, de 22 anos, será o titular da seleção brasileira no amistoso com o Japão, e tem sido um dos destaques da sua",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hRVpKOThILUJhWFJqTjVjcUJjT2hJbVZadmpEV0EtWVN6Nm5icHIyOWZ6VmJLdkl1TVMwdGRuZ3BsSVFsTDlGMmdXNTlJX2pLb0E?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Seleção Brasileira perde para o Japão pela segunda vez na história",
-   "categoria": "Jogo e resultado",
-   "clubes": [],
-   "foco": false,
-   "nota": 47.8,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 70,
-    "midia": 67,
-    "aderencia": 70,
-    "youtube": null
-   },
-   "fator_categoria": 1.142,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 4,
-   "assinatura": "vez|japao|brasi|segun",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Seleção Brasileira perde para o Japão pela segunda vez na história. Nem todo mundo na Seleção vai gostar disso, e eu vou explicar por quê.",
-    "titulo_thumb": "QUEM TEM RAZÃO?",
-    "pergunta_enquete": "Qual sua opinião: Seleção Brasileira perde para o Japão pela segunda vez na história?",
-    "tecnica": "Conflito",
-    "ganchos": [
-     {
-      "tecnica": "Conflito",
-      "texto": "Seleção Brasileira perde para o Japão pela segunda vez na história. Nem todo mundo na Seleção vai gostar disso, e eu vou explicar por quê.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Seleção Brasileira perde para o Japão pela segunda vez na história. Parece notícia pequena. Não é.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Seleção Brasileira perde para o Japão pela segunda vez na história. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-      "thumb": "E AGORA, SELEÇÃO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Seleção Brasileira perde para o Japão pela segunda vez na história. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Seleção Brasileira perde para o Japão pela segunda vez na história",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZC1BVjJ0ajEzRU5VdWhDUlZYemxweFRKNGsxMHhzZlJtVEwtcThSMWgxa0NxZGFabWoxUFRrMm9vR2loUTk4ZU9NTktzSGRJTkpyVjI0OGYyV3BLaVV5QnZwSkdTTzROTHVCdlNMdGVpdXlrSVowdjZhV1NmWnpkakZjMFZBOHQ0MDBsQVY2eXIxX05vem5LZlZVMURCbVhEY3did0RsMkd0Q0d0NTB6NWZ3bDRnUzNZNktGWldlQXRtTnJ3cUZsNExMbWliZlZ2R1lFSzRCc0ZkMVFxXzZ3?oc=5"
-    },
-    {
-     "titulo": "Sob a capitania de Raphinha, Brasil perde para o Japão pela segunda vez na história do confronto",
-     "fonte": "Tribuna Popular",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWZMb0xYWjdyTV9jWUcyZXFQVkdrQ0Zlb3dUN3FjaWMwa2NVeXF0c3RsOWhQR1JfZnZSWHJOM0ZHX1FMUGR5VzVXSEJOdV82LXEtd0kzcEVkMDdVSFJ2MUdseUY4THBIS0R0YmI3cDlGQm91RjFJeVNKMnpaUDFYRTFjQmdSd2g3RzRpSVhjQmtialhyLTBoeS1HamJLVFJhaWowQW8yLThxSEdWckV1ekxGT0hPVEtVQ3pMQzlsaGszRW5n?oc=5"
-    },
-    {
-     "titulo": "Seleção Brasileira perde para o Japão pela segunda vez em menos de um ano",
-     "fonte": "Tribuna do Planalto",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWJOWEZGYlQtV29Ia2Z0UWZKQ1JpdTZGdmx0eWd1ejkxdzVDRG5oU3luWGVPUGUtXzQxYUFDT1pCZUxHVFJ3WlZ5YlRxdmhEeVVjS2pmTkUyLTVheEtuTC1WOEc0RmJVa1pZVVdJbG42YTdOYW9SeE1aMmFLR285LWFkNXhZZldoUk1odWZ3?oc=5"
-    },
-    {
-     "titulo": "Com gol no final, Japão vence Brasil pela segunda vez na história",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMXVTdGU5VUlOLXd2Y2NreGZxUUxqY2RZOTJNMy05cmJsWXlnSERMaHY0dU05ZzdBY0FObVl4dVdoa25waHVXZENKaUZWcDJ5NkdrbENJdkFtUjd5enBtaUZUaEVxY1dYREJSUDFyNzJxc3hkVWZEWFhSOFhDMTRkQW9TZTkyUFF5TU5Sd0pENU5nMV9XVG5BdThrMGtlYVBuVkVfWDdydGZLQQ?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Mais de R$ 200 milhões em jogo, problema envolvendo Seedorf e jogadores se irritam: as últimas notícias do Corinthians",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 47.5,
-   "sinais": {
-    "busca": 0,
-    "aceleracao": 53,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": null,
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "corin|jogo|seedo|jogad",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Mais de R$ 200 milhões em jogo, problema envolvendo Seedorf e jogadores se irritam. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Mais de R$ 200 milhões em jogo, problema envolvendo Seedorf e jogadores se irritam: as últ?",
-    "tecnica": "Contradição",
-    "ganchos": [
-     {
-      "tecnica": "Contradição",
-      "texto": "Mais de R$ 200 milhões em jogo, problema envolvendo Seedorf e jogadores se irritam. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Mais de R$ 200 milhões em jogo, problema envolvendo Seedorf e jogadores se irritam. Nem todo mundo no Corinthians vai gostar disso, e eu vou explicar por quê.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Mais de R$ 200 milhões em jogo, problema envolvendo Seedorf e jogadores se irritam. E agora: o que muda para o Corinthians?",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Mais de R$ 200 milhões em jogo, problema envolvendo Seedorf e jogadores se irritam. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "Corinthians assina com jogador de R$ 623 milhões e lateral deve deixar o clube. Guarda esse número, porque ele muda a conversa sobre o Corinthians.",
-      "thumb": "R$ 623 MILHÕES"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Corinthians assina com jogador de R$ 623 milhões e lateral deve deixar o clube",
-     "fonte": "www.jornalcruzeiro.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbm8wcXBJanBnVTNuZUZOZk1ENEdua3lETjVPY2JkbmVsaHk1YmE4MHZrTGFKR24tRGU4dHcxSGRvajlKdURGelJrNU4zT3N2TFpSTGFzNi1BbGdOTG9IamNXM251NHViZzh3SWJwX3hxQ05jQ1B2QjFDd1BfMmJ3T0pJbzk1OHJDUk16NG12QTBWQ2w3d1Y3UFEzYmhLRE93RjVtUHpMX3Mya2x2eXRldHkyV2dXclJfeUNIVWxrUlNQNlREZG94WUoxaXpRSXRkdW9NMmFRd19KT29fMWZj?oc=5"
-    },
-    {
-     "titulo": "Mais de R$ 200 milhões em jogo, problema envolvendo Seedorf e jogadores se irritam: as últimas notícias do Corinthians",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNV1haTUMyR0JJZUJzYU55S0ZjdkhOSjU5QnBBMnp0ZXg2T2U0RHhNa3lUcEdPMUJWVzI5Q0pJYWp3b29nM2ZpclY1Y25MZjNhUTdKQ2RBdVVXT2tjVTk5ek9uaDNjc3VSSnpHdFhrZTZHazZ3Z2VkRWNJM3duZ3RmUTJzMTN4V3JzTHlpcWJqR2pVTFh5RTI1bWI4NUtVSGJ6b0g4MWpmaE50Ny1lQndHOTBzbzR5SmJ6UnRmRDRncmJOUmhpRGF1NmwxS1dudWNIZXktamZ4b29hM3lYQmo1M0xFN0NSWGdlUUVnWjFmR3JydnNWZUFJa1JqMmJOZ3NaZGEyVTNJZDFrbkNwenU3UmE3RDlWcF9peWt0TjViTjVXY3JUeVc2aU9zWVp5ZUcx?oc=5"
-    },
-    {
-     "titulo": "Seedorf abre o jogo sobre Corinthians à ESPN: pacto com elenco, rebaixamento e 'veto' a palavras",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQUgwVGpmajBmTkZMbUExMFhaSmJkMmY2TVJuRkktVnU4eHNaOVl5TkdHaTJYTlhtLWkxT1hxblIxTDJ0R240Ny0yTkpPcFl1Q0F1YlEyV2lHcHhxcFVpTy1DNnZNZHBWUGNmMWItdkVCTzBZU0JtUGphSmM3blppajJUNFBvdUJhc3JWRnpWZzFXYlROOV9VZnNYdG56aXI3X0lfelV0NUExcXotU0xkLWxGTVpjUy1STmNPS3luSjIzN08yUFdHV29jcHRLZFIxYVFORl83N2lLSHlLR0E?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Botafogo ganha reforço para duelo decisivo contra o Corinthians",
+   "tema": "Corinthians pode ter apenas dois zagueiros à disposição de Seedorf contra o Botafogo",
    "categoria": "Mercado da bola",
    "clubes": [
     "Corinthians",
     "Botafogo"
    ],
    "foco": true,
-   "nota": 47.5,
+   "nota": 55.3,
    "sinais": {
-    "busca": 0,
-    "aceleracao": 61,
-    "midia": 46,
+    "busca": 40,
+    "aceleracao": 39,
+    "midia": 58,
     "aderencia": 100,
     "youtube": null
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": null,
+   "busca_torcedor": "corinthians x botafogo",
    "termos_trends": [],
-   "n_fontes": 2,
+   "n_fontes": 3,
    "n_manchetes": 3,
-   "assinatura": "botaf|corin|duelo|ganha",
+   "assinatura": "corin|dispo|dois|apena",
    "ja_coberto": null,
    "sugestao": {
     "formato": "React rápido (1 a 3 min)",
-    "gancho": "Botafogo ganha reforço para duelo decisivo contra o Corinthians. Parece um grande negócio. Olhando de perto, não é bem assim.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Botafogo ganha reforço para duelo decisivo contra o Corinthians?",
-    "tecnica": "Contradição",
+    "gancho": "Seedorf pode ganhar 3 reforços no Corinthians. Quase ninguém fez a conta do que isso significa para o Corinthians.",
+    "titulo_thumb": "3 REFORÇOS",
+    "pergunta_enquete": "Qual sua opinião: Corinthians pode ter apenas dois zagueiros à disposição de Seedorf contra o Botafogo?",
+    "tecnica": "Dado",
     "ganchos": [
      {
-      "tecnica": "Contradição",
-      "texto": "Botafogo ganha reforço para duelo decisivo contra o Corinthians. Parece um grande negócio. Olhando de perto, não é bem assim.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Botafogo ganha reforço para duelo decisivo contra o Corinthians. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Botafogo ganha reforço para duelo decisivo contra o Corinthians. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
-      "thumb": "MEU PALPITE"
+      "tecnica": "Dado",
+      "texto": "Seedorf pode ganhar 3 reforços no Corinthians. Quase ninguém fez a conta do que isso significa para o Corinthians.",
+      "thumb": "3 REFORÇOS"
      },
      {
       "tecnica": "Conflito",
       "texto": "O Corinthians quer, mas do outro lado alguém está segurando. Essa queda de braço vai ter um perdedor.",
       "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Corinthians pode ter apenas dois zagueiros à disposição de Seedorf contra o Botafogo. Parece notícia pequena. Não é.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Corinthians pode ter apenas dois zagueiros à disposição de Seedorf contra o Botafogo. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
+      "thumb": "E AGORA, CORINTHIANS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Corinthians pode ter apenas dois zagueiros à disposição de Seedorf contra o Botafogo. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
+      "thumb": "MEU PALPITE"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Botafogo goleia em jogo-treino e ganha sinais positivos antes do duelo com o Corinthians",
-     "fonte": "boca.com.br",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UTzFqUEN2NUI4Z0NwbFFrUlRyREF4bDhhWW9UTHUwWTRORVA5S2JaWmJHbFZjUUdTU0d6TGM4c2tlS19ocmVla1ZYZktGaE5NbnB2Z1lfUDZiSmptbzJNN3FGQUZDSlA1OTV4OVdB?oc=5"
+     "titulo": "Corinthians fica com apenas dois zagueiros disponíveis para enfrentar o Botafogo",
+     "fonte": "VG Notícias",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObGVxU3hqSmJMUF94QWxsMjBZVkdqR1pYbWZlSXE4S2NZR1pRMDR6SGowUHhlZzlOU19va3pIV0htRDdoaENqQklnNTRVQ0RsVEowMkw5YnBEclZXR2VEMDlvUjMzRHg3VHk1TGVsOGkyU3BUSHJncG5rSC1MMXNXamg4enZTZ1JoSjA5bXl1NzQ1SWwzbmMyaHNUV3p1d0ZoNGtsMl85Y3F5UU9oSUpnNUpLbThZQjRKdVkzajJzMU5McHBR?oc=5"
     },
     {
-     "titulo": "Corinthians vê avanço de Garro na recuperação e ganha possibilidade para duelo com Botafogo",
-     "fonte": "boca.com.br",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSC1LZUFGVkoxTVFNS0lyYkVOV00xY3FnOXhuLVRrOTVnVWgxWm9nT3NXOEE1eHJvOVhLcXFCbmtZX0VobjE1b1Y1SDhNOEg4M3BROG1vamFrbDNIZjd4RWd6SmxxZ0J0aXJDbElibnd0bXZPUy1wNmozLUVrV2d6d05BLXVIdw?oc=5"
+     "titulo": "Corinthians pode ter apenas dois zagueiros à disposição de Seedorf contra o Botafogo",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUjNPRUJIRzctMWRUVXhnb0lWTzlyQm0xYklfbG0xX0wyblVzY21rNTdhOTNxd3NDTVFJc21oWGdiR2d6VE1uNUJhXzJrbjdDc0xNRUJvaUFJR3hzN1YzN0pGdEVVLXgtMFBPVzB4RHZkZTZPUFZMNkVxSFkzeC1rYWhzc1VOcWVaRnF3ME9LTnhtdDRtaXktU1M1VUY1bnpMeUdFa3hwb1dJUk5LdXBBUnU0anJaRGIzcnFhNHBlQUx2X09UMFd6OEVUSjhURnFIZVdlamtLV09jWjBVTWRJS1oxdDZBTjAtTi1DatIB-wFBVV95cUxQOGVGbEtVYnozdzY5QXhrZ2FTbTdkTDdxaEdTdkVXVGM5RkFUTDlRY2lRUGtNNUhjMlhGYWdMejdMbnlESWpMRTJpWU9nbEJ0U3hUa0ZERkZmZG5lTGtaY3JMejU1eEFwcl94eUZfZ2JEWWtaOTBpeTFvYy13cXBaMFMycEJTbzhsd1dNa3NNTTRCTHhYT09EYkFuOExJLXBxbVFKb3EteHRwM1UxLUpROVRyQkwxUXJKNlJEX01ETnRvYUlVX3FkbjMzOU5KZno2b181ejFKTE82cnl6UFBlTzUzOXRpODVrLTJPMWlrb3VId3k4dm9palhvYw?oc=5"
     },
     {
-     "titulo": "Botafogo ganha reforço para duelo decisivo contra o Corinthians",
+     "titulo": "Seedorf pode ganhar 3 reforços no Corinthians",
      "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQU1YN3VUVnRMaThoZFRqWDFxUXdZancxQklqYkhNV0RrdW5qNkdsMHhibmI1eDhReVFZNm9sUWM2WHRraDFLYk5kTF8wVkIza3FVeXJuV1IzdDgyUHNnMUVrTmJocDlWMWFxTldDS1BsbVQxOGhyNWhmTzE4UUFvSWZ3YTNseE5xcTdVVG9MeUFzSVZzc3hmXy1US0hjcTdVRkQ5bGlKVXpxSkV2M1Q2S21hMG5yYzZ5T1VJUnpuSEtJS1B6dG9SWkNhbWh0cnFobjRHemd2Qy1Fc0txVGh2bGxlVGpPdVk?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeE9LZjNlanpHWk9TUXVHY1VzRUwtdjd3U0xjSU1URFpjYUlqekdaRVZNTTJ3NUhJVzN1c0w0clJ6S1l5ckM3M2MtemJTTGh1NUN6Zy1uS1IxX0xhMF9fSEVXUDJIUlI0UWZXY0RCRHVqODhSSUF2VHBEUG90bC16SUx0M2VBcEFZTVJfT2p5dkV5eVZtV0xuM25mMnlsVld4ZkRYeElxOEdxNGdhTkhPdW1lRzFsa2NoY3dscTNSLXpFVjFYTlNUa19uRHRYak1Pd0hF?oc=5"
     }
    ]
   }
