@@ -1,52 +1,50 @@
 {
- "atualizado_em": "2026-11-09T01:01:38.620881+00:00",
+ "atualizado_em": "2026-11-15T22:59:55.235725+00:00",
  "alertas": [
   {
-   "id": "EYLhYfqtOvE",
-   "tema": "Vasco x Palmeiras: onde assistir pela TV, escalações e mais",
+   "id": "Of784hzEvmc",
+   "tema": "Piquerez lesiona coxa direita e vira dúvida no Palmeiras para a reta final de 2026",
    "clubes": [
-    "Palmeiras",
-    "Santos",
-    "Vasco"
+    "Palmeiras"
    ],
    "origem": "Pauta do radar",
-   "formato_em_alta": "Shorts",
-   "sugestao": "Short de 30 a 60 s com a sua opinião ou reação (poste o mesmo vídeo como Reels no Instagram)",
-   "dica_do_canal": "Seu canal quase não tem Shorts: é uma chance de testar o formato com um assunto que já está bombando.",
-   "n_videos": 15,
-   "views": 89917,
-   "velocidade": 14.3,
-   "engajamento": 1.1,
-   "engajamento_pct": 2.7,
+   "formato_em_alta": "Lives",
+   "sugestao": "Live de debate ou react ao vivo, com o assunto no título",
+   "dica_do_canal": "No seu canal, Transmissão de jogo rende 4,3x a média: puxe o assunto também na próxima live.",
+   "n_videos": 7,
+   "views": 43728,
+   "velocidade": 45.8,
+   "engajamento": 1.8,
+   "engajamento_pct": 5.0,
    "ganho_hora": null,
    "exemplos": [
     {
-     "titulo": "AO VIVO | VASCO X PALMEIRAS | COPA DO BRASIL 2026 🔴 Pré-Jogo, Escalações e Ultímas do Vasco!",
-     "canal": "PODCAST CRUZMALTINO",
-     "views": 33241,
-     "url": "https://www.youtube.com/watch?v=EYLhYfqtOvE",
+     "titulo": "SAIU AGORA! TITULAR SE LESIONA, FLAMENGUISTAS DISPARAM CONTRA PALMEIRAS E NÚMEROS DE CARLOS MIGUEL",
+     "canal": "Mil Grau",
+     "views": 32398,
+     "url": "https://www.youtube.com/watch?v=Of784hzEvmc",
      "formato": "Lives",
-     "views_hora": 2464
+     "views_hora": 5369
     },
     {
-     "titulo": "Escalações de Vasco x Palmeiras na semifinal da Copa do Brasil! Quem vai à final?",
-     "canal": "FLAMENGUISTA ORIGINAL ",
-     "views": 18655,
-     "url": "https://www.youtube.com/watch?v=eadQh1MGdJo",
-     "formato": "Shorts",
-     "views_hora": 1552
+     "titulo": "MALDITA DATA FIFA! Piquerez sofre LESÃO em amistoso do Uruguai e PREOCUPA Palmeiras",
+     "canal": "Mídia do Palestra",
+     "views": 5123,
+     "url": "https://www.youtube.com/watch?v=FTUSHtzHzr8",
+     "formato": "Vídeos longos",
+     "views_hora": 842
     },
     {
-     "titulo": "PALMEIRAS X VASCO: PROVÁVEL ESCALAÇÃO DO PALMEIRAS HOJE COPA DO BRASIL 2026! #shotsvideo",
-     "canal": "Placar alvinegro com danilo",
-     "views": 14583,
-     "url": "https://www.youtube.com/watch?v=d3SBpRu7g78",
+     "titulo": "PIQUEREZ LESIONADO: CALENDÁRIO NÃO É VIÁVEL",
+     "canal": "Canal Diego Iwata - O Marada ",
+     "views": 3950,
+     "url": "https://www.youtube.com/watch?v=78s09TjcOhw",
      "formato": "Shorts",
-     "views_hora": 1314
+     "views_hora": 616
     }
    ],
-   "gancho": "Palmeiras x Santos (sub-20): onde assistir, escalações e arbitragem. Muita gente está reclamando da arbitragem, mas a regra pode estar do outro lado.",
-   "avisado_em": "2026-11-09T01:01:38.620881+00:00",
+   "gancho": "Piquerez lesiona coxa direita e vira dúvida no Palmeiras para a reta final de 2026. Todo mundo está olhando para quem sai. O problema está em quem entra.",
+   "avisado_em": "2026-11-15T22:59:55.235725+00:00",
    "pelo_vigia": true
   }
  ]
