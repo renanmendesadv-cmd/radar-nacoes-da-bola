@@ -1,28 +1,28 @@
 {
- "gerado_em": "2026-11-15T17:25:45.673626+00:00",
+ "gerado_em": "2026-11-16T20:41:23.003733+00:00",
  "canal": {
   "id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
   "nome": "NAÇÕES DA BOLA o canal de todas as torcidas",
-  "inscritos": 5920
+  "inscritos": 5940
  },
  "periodo": {
-  "inicio": "2026-10-16",
-  "fim": "2026-11-12",
-  "janela_inicio": "2026-08-15"
+  "inicio": "2026-10-17",
+  "fim": "2026-11-13",
+  "janela_inicio": "2026-08-16"
  },
- "n_videos": 55,
+ "n_videos": 56,
  "n_videos_v7": 40,
  "mediana_v7": 172,
  "resumo_semana": {
   "views": {
-   "atual": 1133,
-   "anterior": 1555,
-   "variacao": -27.1
+   "atual": 1244,
+   "anterior": 1543,
+   "variacao": -19.4
   },
   "minutos": {
-   "atual": 2745,
-   "anterior": 1702,
-   "variacao": 61.3
+   "atual": 3237,
+   "anterior": 1718,
+   "variacao": 88.4
   },
   "inscritos_ganhos": {
    "atual": 0,
@@ -64,10 +64,10 @@
    "mediana_v7": 172,
    "indice": 1.0,
    "pct_assistido": 3.0,
-   "views": 12998,
-   "pct_views": 99.5,
+   "views": 13083,
+   "pct_views": 99.6,
    "inscritos": 13,
-   "minutos": 10823
+   "minutos": 11321
   }
  ],
  "tipos": [
@@ -249,17 +249,17 @@
  "trafego": [
   {
    "origem": "Página inicial e inscrições",
-   "views": 10828,
+   "views": 10896,
    "pct": 82.9
   },
   {
    "origem": "Vídeos sugeridos",
    "views": 1229,
-   "pct": 9.4
+   "pct": 9.3
   },
   {
    "origem": "Sites e apps externos",
-   "views": 405,
+   "views": 413,
    "pct": 3.1
   },
   {
@@ -269,12 +269,12 @@
   },
   {
    "origem": "Página do canal",
-   "views": 133,
+   "views": 135,
    "pct": 1.0
   },
   {
    "origem": "Notificações",
-   "views": 113,
+   "views": 119,
    "pct": 0.9
   },
   {
@@ -284,7 +284,7 @@
   },
   {
    "origem": "Outras páginas do YouTube",
-   "views": 56,
+   "views": 57,
    "pct": 0.4
   }
  ],
@@ -433,35 +433,35 @@
   "Finanças e gestão": 1.0,
   "Lesão e desfalque": 1.0,
   "Seleção": 1.0,
-  "Jogo e resultado": 1.142
+  "Jogo e resultado": 1.146
  },
  "alcance": {
-  "impressoes": 73712,
-  "ctr": 5.8,
+  "impressoes": 75946,
+  "ctr": 5.9,
   "por_formato": [
    {
     "nome": "Lives",
-    "impressoes": 72362,
+    "impressoes": 74544,
     "ctr": 5.9,
-    "n_videos": 52
+    "n_videos": 54
    }
   ],
   "por_tipo": [
    {
     "nome": "Transmissão de jogo",
-    "impressoes": 46839,
-    "ctr": 8.4,
-    "n_videos": 28
+    "impressoes": 49027,
+    "ctr": 8.2,
+    "n_videos": 29
    },
    {
     "nome": "Resenha multitemas",
-    "impressoes": 18615,
+    "impressoes": 18556,
     "ctr": 1.5,
     "n_videos": 15
    },
    {
     "nome": "Sai pro Jogo (programa)",
-    "impressoes": 3092,
+    "impressoes": 3105,
     "ctr": 1.2,
     "n_videos": 6
    }
@@ -478,7 +478,7 @@
    {
     "titulo": "PALMEIRAS  X   VASCO DA GAMA - SEMIFINAL",
     "url": "https://www.youtube.com/watch?v=F5utATxqLF0",
-    "impressoes": 4159,
+    "impressoes": 4160,
     "ctr": 11.0,
     "formato": "Lives",
     "pct_assistido": 0.7
@@ -486,7 +486,7 @@
    {
     "titulo": "SÃO PAULO  X   VASCO DA GAMA",
     "url": "https://www.youtube.com/watch?v=CQisa7_8LAg",
-    "impressoes": 9994,
+    "impressoes": 9995,
     "ctr": 8.7,
     "formato": "Lives",
     "pct_assistido": 0.8
@@ -512,7 +512,7 @@
    {
     "titulo": "NDB  BRASIL - MENGO FORA DA FINAL",
     "url": "https://www.youtube.com/watch?v=FDkyFXJtxeY",
-    "impressoes": 3104,
+    "impressoes": 3105,
     "ctr": 0.7,
     "formato": "Lives",
     "pct_assistido": 8.9
@@ -520,15 +520,15 @@
    {
     "titulo": "VERDÃO SAI NA FRENTE NA CB/IMORTAL DERRUBA O GALO/O BRAGA DÁ TRABALHO EM CASA/RAPOSA  CAMPEÃ/SÉRIE B",
     "url": "https://www.youtube.com/watch?v=wYbEKOkn5wE",
-    "impressoes": 3392,
-    "ctr": 0.8,
+    "impressoes": 3397,
+    "ctr": 0.9,
     "formato": "Lives",
     "pct_assistido": 9.2
    },
    {
     "titulo": "MAJESTOSO TEVE EMPATE. BOM PRA QUEM?/FLA SÓ PRECISOU DE MEIO TEMPO/NAU VASCAINA ATRAVESSOU O FURACÃO",
     "url": "https://www.youtube.com/watch?v=3RVijTJcuDY",
-    "impressoes": 3018,
+    "impressoes": 3019,
     "ctr": 1.1,
     "formato": "Lives",
     "pct_assistido": 6.3
@@ -544,7 +544,7 @@
    {
     "titulo": "TIMÃO ALERTA/VERDÃO DORME LIDER/MIRASSOL FEZ TRICOLOR SUAR/SANTOS EMPATA SEM NEYMAR /MENGO  NO TOPO",
     "url": "https://www.youtube.com/watch?v=HdsAvcQROg8",
-    "impressoes": 4834,
+    "impressoes": 4835,
     "ctr": 1.6,
     "formato": "Lives",
     "pct_assistido": 5.8
@@ -554,12 +554,12 @@
   "ativado_em": "2026-09-30T04:22:41.545419+00:00"
  },
  "monetizacao": {
-  "views_28d": 13061,
-  "media_diaria": 466,
+  "views_28d": 13146,
+  "media_diaria": 470,
   "tendencia_pct": -30.0,
   "previsao_views_30d": {
    "Vídeos longos": 32,
-   "Lives": 9751,
+   "Lives": 9815,
    "Shorts": 13
   },
   "rpm_referencia": {
@@ -580,15 +580,11 @@
    ]
   },
   "estimativa_rs": {
-   "pessimista": 14.69,
-   "provavel": 29.38,
-   "otimista": 58.77
+   "pessimista": 14.79,
+   "provavel": 29.57,
+   "otimista": 59.15
   },
   "serie_diaria": [
-   {
-    "dia": "2026-10-16",
-    "views": 60
-   },
    {
     "dia": "2026-10-17",
     "views": 2894
@@ -696,16 +692,20 @@
    {
     "dia": "2026-11-12",
     "views": 381
+   },
+   {
+    "dia": "2026-11-13",
+    "views": 145
    }
   ],
   "elegibilidade": {
-   "inscritos": 5920,
-   "horas_12m": 2215,
+   "inscritos": 5940,
+   "horas_12m": 2207,
    "shorts_90d": 71,
    "meta_inscritos": 1000,
    "meta_horas": 4000,
    "meta_shorts": 10000000,
-   "horas_mes_ritmo": 194,
+   "horas_mes_ritmo": 202,
    "horas_mes_necessarias": 333,
    "monetizado": true,
    "cumpre": true
@@ -718,21 +718,21 @@
    {
     "id": "horas_12m",
     "nome": "Horas assistidas públicas (12 meses)",
-    "atual": 2215,
+    "atual": 2207,
     "meta": 4000,
     "nivel": "anúncios",
     "status": "abaixo",
-    "texto": "2.215 h públicas nos últimos 12 meses (vídeos longos e lives; Shorts, privados e apagados não contam). Nos próximos 30 dias saem da conta ~279 h e entram ~192 h no ritmo atual: projeção de 2.128 h.",
-    "acao": "Faltam 1.785 h. Lives longas e vídeos longos contam; seriam uns 149 h a mais por mês durante um ano."
+    "texto": "2.207 h públicas nos últimos 12 meses (vídeos longos e lives; Shorts, privados e apagados não contam). Nos próximos 30 dias saem da conta ~269 h e entram ~201 h no ritmo atual: projeção de 2.139 h.",
+    "acao": "Faltam 1.793 h. Lives longas e vídeos longos contam; seriam uns 149 h a mais por mês durante um ano."
    },
    {
     "id": "inscritos",
     "nome": "Inscritos",
-    "atual": 5920,
+    "atual": 5940,
     "meta": 1000,
     "nivel": "anúncios",
     "status": "ok",
-    "texto": "5.920 inscritos.",
+    "texto": "5.940 inscritos.",
     "acao": null
    },
    {
@@ -752,7 +752,7 @@
     "meta": null,
     "nivel": "Supers e membros",
     "status": "abaixo",
-    "texto": "5.920 de 500 inscritos, 55 de 3 envios públicos em 90 dias e 2.215 de 3.000 h (ou 3.000.000 views de Shorts em 90 dias).",
+    "texto": "5.940 de 500 inscritos, 56 de 3 envios públicos em 90 dias e 2.207 de 3.000 h (ou 3.000.000 views de Shorts em 90 dias).",
     "acao": null
    },
    {
@@ -806,12 +806,12 @@
     "acao": null
    }
   ],
-  "horas_publicas": 2215,
+  "horas_publicas": 2207,
   "horas": {
    "por_mes": [
     {
      "mes": "2025-11",
-     "horas": 182
+     "horas": 169
     },
     {
      "mes": "2025-12",
@@ -859,12 +859,12 @@
     },
     {
      "mes": "2026-11",
-     "horas": 73
+     "horas": 82
     }
    ],
-   "saem_30d": 279,
-   "entram_30d": 192,
-   "projecao_30d": 2128,
+   "saem_30d": 269,
+   "entram_30d": 201,
+   "projecao_30d": 2139,
    "fora_da_conta": 15
   },
   "pendencias": [
@@ -877,11 +877,11 @@
   "Quem mais traz inscritos: Lives (13 nas últimas 4 semanas).",
   "Tipo de conteúdo que mais rende: Transmissão de jogo (4,3x a mediana, 23 vídeos); o que menos rende: Resenha multitemas (0,5x).",
   "Tema que mais rende: Jogo e resultado (2,3x a mediana). O radar já dá peso maior a ele.",
-  "Taxa de cliques das miniaturas: 5,8% em 73,712 impressões nas últimas 4 semanas (a maioria dos canais fica entre 2% e 10%).",
-  "Miniatura que mais atrai cliques: Transmissão de jogo (8,4%); a que menos atrai: Sai pro Jogo (programa) (1,2%). Copie o estilo da primeira.",
+  "Taxa de cliques das miniaturas: 5,9% em 75,946 impressões nas últimas 4 semanas (a maioria dos canais fica entre 2% e 10%).",
+  "Miniatura que mais atrai cliques: Transmissão de jogo (8,2%); a que menos atrai: Sai pro Jogo (programa) (1,2%). Copie o estilo da primeira.",
   "\"NDB  BRASIL - MENGO FORA DA FINAL\" foi muito mostrado, mas pouco clicado (0,7%): troque a miniatura e o título (o YouTube Studio permite testar até 3 miniaturas).",
   "Maior origem de público: Página inicial e inscrições (83% das views).",
   "Melhor momento para publicar: terça, noite (18h–24h) (mediana de views nos 7 primeiros dias)."
  ],
- "pesos_ajustados_em": "2026-11-09T21:06:32.195226+00:00"
+ "pesos_ajustados_em": "2026-11-16T20:41:23.003733+00:00"
 }
