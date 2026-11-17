@@ -1,11 +1,11 @@
 {
- "gerado_em": "2026-11-16T20:41:23.003733+00:00",
- "data_br": "16/11/2026 17:41",
+ "gerado_em": "2026-11-17T19:25:18.900774+00:00",
+ "data_br": "17/11/2026 16:25",
  "status": {
   "Google Trends": 10,
-  "Google News": 896,
+  "Google News": 920,
   "Vídeos do canal": 15,
-  "Buscas do torcedor": 18,
+  "Buscas do torcedor": 17,
   "YouTube (48 h)": 12,
   "Alertas de tendência": "nenhum hoje",
   "Agenda (ESPN)": 202,
@@ -14,9 +14,14 @@
  "canal_id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
  "videos_recentes": [
   {
+   "titulo": "GESTÃO, JOGADORES OU COMISSÃO TÉCNICA?QUEM  ERRA MAIS?/JAPÃO E SINGAPURA:ANÁLISE/SULA E LIBERTA  VEM",
+   "url": "https://www.youtube.com/watch?v=uUULh1itj7U",
+   "publicado": "2026-11-17T18:05:48+00:00"
+  },
+  {
    "titulo": "SAI PRO JOGO    #221",
    "url": "https://www.youtube.com/watch?v=OFqD0oeG4Uc",
-   "publicado": "2026-11-16T18:51:13+00:00"
+   "publicado": "2026-11-16T21:20:27+00:00"
   },
   {
    "titulo": "ESPANHA  X   INGLATERRA - RODADA 6",
@@ -57,17 +62,13 @@
    "titulo": "SÃO PAULO   X  CORINTHIANS - 34ª RODADA",
    "url": "https://www.youtube.com/watch?v=rpAu-GfBTkE",
    "publicado": "2026-11-05T03:27:02+00:00"
-  },
-  {
-   "titulo": "VERDÃO SAI NA FRENTE NA CB/IMORTAL DERRUBA O GALO/O BRAGA DÁ TRABALHO EM CASA/RAPOSA  CAMPEÃ/SÉRIE B",
-   "url": "https://www.youtube.com/watch?v=wYbEKOkn5wE",
-   "publicado": "2026-11-04T12:20:16+00:00"
   }
  ],
  "termos_futebol": [
-  "gibraltar x malta",
-  "seleção alemã de futebol",
-  "brajan gruda"
+  "dinamarca x noruega",
+  "gales x portugal",
+  "polônia x suécia",
+  "israel x áustria"
  ],
  "pesos": {
   "busca": 0.24,
@@ -100,11 +101,11 @@
     "estado": "pre",
     "clube": "Flamengo",
     "tipo": "pré-jogo",
-    "em_horas": 51,
+    "em_horas": 28,
     "gancho": "Flamengo x Athletico Paranaense parece um jogo com dono. É exatamente aí que mora o perigo.",
     "titulo_thumb": "ZEBRA À VISTA?",
     "tecnica": "Contradição",
-    "formato": "Enquete: qual o seu palpite? (30 s)"
+    "formato": "Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)"
    },
    {
     "id": "401841314",
@@ -117,11 +118,11 @@
     "estado": "pre",
     "clube": "Palmeiras",
     "tipo": "pré-jogo",
-    "em_horas": 51,
-    "gancho": "Cruzeiro x Palmeiras: um precisa vencer, o outro não pode perder.",
-    "titulo_thumb": "CRUZEIRO X PALMEIRAS",
-    "tecnica": "Conflito",
-    "formato": "Enquete: qual o seu palpite? (30 s)"
+    "em_horas": 28,
+    "gancho": "Cruzeiro x Palmeiras parece um jogo com dono. É exatamente aí que mora o perigo.",
+    "titulo_thumb": "ZEBRA À VISTA?",
+    "tecnica": "Contradição",
+    "formato": "Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)"
    },
    {
     "id": "401841316",
@@ -134,11 +135,11 @@
     "estado": "pre",
     "clube": "Corinthians",
     "tipo": "pré-jogo",
-    "em_horas": 52,
+    "em_horas": 29,
     "gancho": "Corinthians x Botafogo: qual é o detalhe que vai decidir esse jogo?",
     "titulo_thumb": "QUEM LEVA?",
     "tecnica": "Pergunta aberta",
-    "formato": "Enquete: qual o seu palpite? (30 s)"
+    "formato": "Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)"
    },
    {
     "id": "401841309",
@@ -151,7 +152,7 @@
     "estado": "pre",
     "clube": "São Paulo",
     "tipo": "pré-jogo",
-    "em_horas": 76,
+    "em_horas": 53,
     "gancho": "Meu palpite para São Paulo x Fluminense: [SEU PLACAR]. Deixa o seu nos comentários.",
     "titulo_thumb": "MEU PALPITE",
     "tecnica": "Aposta",
@@ -168,15 +169,39 @@
     "estado": "pre",
     "clube": "Palmeiras",
     "tipo": "pré-jogo",
-    "em_horas": 119,
+    "em_horas": 96,
     "gancho": "Se você fosse o técnico em Palmeiras x Flamengo, quem escalaria?",
     "titulo_thumb": "SUA ESCALAÇÃO",
     "tecnica": "Pergunta aberta",
     "formato": "Enquete: qual o seu palpite? (30 s)"
+   },
+   {
+    "id": "401841326",
+    "data": "2026-11-23T23:00Z",
+    "liga": "Brasileirão",
+    "casa": "Botafogo",
+    "fora": "São Paulo",
+    "placar_casa": null,
+    "placar_fora": null,
+    "estado": "pre",
+    "clube": "São Paulo",
+    "tipo": "pré-jogo",
+    "em_horas": 148,
+    "gancho": "Botafogo x São Paulo: um precisa vencer, o outro não pode perder.",
+    "titulo_thumb": "BOTAFOGO X SÃO PAULO",
+    "tecnica": "Conflito",
+    "formato": "Enquete: qual o seu palpite? (30 s)"
    }
   ],
   "resultados": [],
-  "na_midia": [],
+  "na_midia": [
+   {
+    "jogo": "Palmeiras x Estudiantes",
+    "clube": "Palmeiras",
+    "manchetes": 13,
+    "exemplo": "Palmeiras x Estudiantes: Conmebol anuncia árbitro da final da Libertadores"
+   }
+  ],
   "nas_buscas": [
    {
     "tipo": "pré-jogo",
@@ -186,28 +211,29 @@
     "casa": "Flamengo",
     "fora": "Athletico-PR",
     "confianca": "alta",
-    "posicao_busca": 7,
-    "manchetes": 17,
-    "exemplo": "O Flamengo pode perder até cinco titulares para enfrentar o Palmeiras, no sábado (21). Arrascaeta, Pedro, Pulgar, Léo Pereira e Alex Sandro estão pendurados e serão suspensos se receberem cartão contra o Athletico-PR, na quarta-feira (18). Ao todo, oito",
+    "posicao_busca": 3,
+    "manchetes": 8,
+    "exemplo": "Flamengo x Athletico-PR: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão",
     "sugestoes": [
+     "flamengo x athletico-pr",
      "flamengo x athletico-pr"
     ],
-    "gancho": "Flamengo x Athletico-PR: um precisa vencer, o outro não pode perder.",
-    "titulo_thumb": "FLAMENGO X ATHLETICO-PR",
-    "tecnica": "Conflito",
+    "gancho": "Se você fosse o técnico em Flamengo x Athletico-PR, quem escalaria?",
+    "titulo_thumb": "SUA ESCALAÇÃO",
+    "tecnica": "Pergunta aberta",
     "formato": "Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)"
    }
   ]
  },
  "buscas_torcedor": {
   "flamengo": [
-   "flamengo x internacional",
    "flamengo x cruzeiro",
-   "flamengo e internacional feminino"
+   "flamengo x athletico-pr",
+   "flamengo e cruzeiro"
   ],
   "corinthians": [
-   "corinthians x estudiantes",
-   "corinthians x botafogo"
+   "corinthians x botafogo",
+   "corinthians x estudiantes"
   ],
   "são paulo fc": [
    "são paulo fc contratação"
@@ -220,988 +246,980 @@
    "palmeiras x ldu"
   ],
   "seleção brasileira": [
-   "seleção brasileira de futebol sub-20",
+   "seleção brasileira x seleção singapurense de futebol",
    "seleção brasileira de futebol",
+   "seleção brasileira de futebol sub-20",
    "seleção brasileira de futebol feminino",
-   "seleção brasileira feminina",
-   "seleção brasileira x seleção norueguesa de futebol minuto a minuto"
+   "seleção brasileira singapura"
   ],
   "brasileirão": [
-   "brasileirão série a",
    "brasileirão série b",
    "brasileirão série c",
    "brasileirão 2026",
    "brasileirão série a classificação",
-   "brasileirão série d"
+   "brasileirão série d",
+   "brasileirão série a 2026"
   ]
  },
  "alertas": [],
  "aviso_requisitos": null,
  "temas": [
   {
-   "tema": "STJD nega recurso do Corinthians e mantém suspensão de dois jogos a Yuri Alberto",
-   "categoria": "Polêmica e bastidor",
+   "tema": "Corinthians x Botafogo: saiba onde assistir ao jogo pelo Brasileirão",
+   "categoria": "Lesão e desfalque",
    "clubes": [
-    "Corinthians"
+    "Corinthians",
+    "Botafogo"
    ],
    "foco": true,
-   "nota": 86.3,
+   "nota": 82.8,
    "sinais": {
-    "busca": 75,
-    "aceleracao": 82,
-    "midia": 100,
+    "busca": 70,
+    "aceleracao": 73,
+    "midia": 87,
     "aderencia": 100,
-    "youtube": 83
+    "youtube": 93
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "yuri alberto",
+   "busca_torcedor": "seedorf corinthians",
    "termos_trends": [],
-   "n_fontes": 17,
-   "n_manchetes": 30,
-   "assinatura": "yuri|corin|stjd|alber",
+   "n_fontes": 7,
+   "n_manchetes": 7,
+   "assinatura": "botaf|corin|brasi|assis",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "Até onde essa história do Corinthians vai chegar?",
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "Seedorf abre o jogo e responde se Memphis jogará em Corinthians x Botafogo pelo Brasileirão. E agora: o que muda para o Corinthians?",
     "titulo_thumb": "E AGORA, CORINTHIANS?",
-    "pergunta_enquete": "Qual sua opinião: STJD nega recurso do Corinthians e mantém suspensão de dois jogos a Yuri Alberto?",
+    "pergunta_enquete": "Qual sua opinião: Corinthians x Botafogo: saiba onde assistir ao jogo pelo Brasileirão?",
     "tecnica": "Pergunta aberta",
     "ganchos": [
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Até onde essa história do Corinthians vai chegar?",
+      "texto": "Seedorf abre o jogo e responde se Memphis jogará em Corinthians x Botafogo pelo Brasileirão. E agora: o que muda para o Corinthians?",
       "thumb": "E AGORA, CORINTHIANS?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Minha aposta: essa confusão do Corinthians ainda vai ter mais um capítulo esta semana. Guarda esse vídeo.",
+      "texto": "Seedorf abre o jogo e responde se Memphis jogará em Corinthians x Botafogo pelo Brasileirão. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Dado",
-      "texto": "41 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
+      "texto": "365 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
       "thumb": "TODO MUNDO VIU"
      },
      {
       "tecnica": "Conflito",
-      "texto": "STJD nega recurso do Corinthians e mantém suspensão de dois jogos a Yuri Alberto. Diretoria de um lado, torcida do outro, e quem perde é sempre o time.",
-      "thumb": "QUEM TEM RAZÃO?"
+      "texto": "Seedorf abre o jogo e responde se Memphis jogará em Corinthians x Botafogo pelo Brasileirão. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+      "thumb": "CORINTHIANS x BOTAFOGO"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Dizem que está tudo em paz no Corinthians. O que acontece nos bastidores mostra o contrário.",
+      "texto": "Seedorf abre o jogo e responde se Memphis jogará em Corinthians x Botafogo pelo Brasileirão. Parece notícia pequena. Não é.",
       "thumb": "NÃO É BEM ASSIM"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Gerente do Corinthians critica decisão do STJD sobre Yuri Alberto: “Dois pesos e duas medidas”",
-     "fonte": "Portal Gazeta RN",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdFhwMl9ibHhydlhBNC1ZQzJ4Tk1hTFp4aEQ5TFpRQ24wQzdwMnpxUEFoUkdSRkk5SDV2dVl0UnhpR3FDaDJIU3JtVkllaVR2Q0FSQk5EVTNXM0NPajFNREY1UE9NYmttbWdXQmxMbC16a3lSeldHSVV1ODJVTG9FY0ZiMEQ0VjNpOG9YQWdBTkUtelczQkF5ODRtaEV0cUpTM055R1dwUjBJVy13U2dQRy04MkwzQzVXMTZV?oc=5"
+     "titulo": "Corinthians X Botafogo pelo Brasileirão: veja onde assistir e as prováveis escalações",
+     "fonte": "Diário do Grande ABC",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY0hXUFIzMVQ5Z2p0UTBXQ0pYOUdzVWI5eWFmbkMzSTM2ZGxxSThGZmJkaUx5SmNJWDRQUDB5a0dJblE0RFhFUjRNbXZfV051TEZBdnNxS3dfMWpDSFNQSlBSQ1FJVUVpb0hDejhWWndjSWRNWFRHTE9vUmUwcTlQbVlVSEJnU2J5WmcwM0dNVWZkYmVPOEpPZjZoVHliREs4cEdZelBVNk5EcFM1VG16UGl2Z2sydjBTODlOUndBYk1KTGM?oc=5"
     },
     {
-     "titulo": "Diretor reclama do STJD após punição a Yuri Alberto: 'Corinthians está incomodado'",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOM3J6cDAtTF9ZQk1pNG5yS2JRTWpWOHI2M2VsTndjU3Ewbi1oenlNbHlXUXJuUTNKNGVOVWZ5bDRxS0V5X3lfZlRQWV9XbDZaWUF1Uml0aWRBZmJkcFNQVHRmZGFUU1NWYXc1TloweVlLOU9jYXFFV0FpTkh4ZENWVGZ6VmpFam44elVnWThtM0FDYk9DRVZzVVpxMDFCdDlZd2EtWm5fWXdLR3JldmZXaVFfd05YN2hPdGZjYW95ZHdqQzVsLXlEbXVRMlBkUTM3YUtYdGlCRTBBXzAxaE1Kem1GQy0?oc=5"
+     "titulo": "Corinthians x Botafogo: escalações, análise e tudo sobre o jogo do Brasileirão",
+     "fonte": "365Scores",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWngwdjhwc1hTRGZfWTQ0RVRGWEcyV0Q1emJqNUNiWHJyQVZEQzNPV2dKWjJsVWJzVTJORV9SeXIxWDJBM3JCQjRGNmxEVFBvM2hrNEhacWZSc3NBODFFdmxnQmQ4OWNSN2RmaFFDcVNuOXVZcTZ1LXJpNEJWVWFSRWNvcDBFcnB3dUFNdlMtVzhNUQ?oc=5"
     },
     {
-     "titulo": "Corinthians se irrita com punição de Yuri no STJD: \"Dois pesos e duas medidas\"",
-     "fonte": "Portal ABC do ABC",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSHRMQkVrNWJUb0YzVVB2WWpVR2NTQ2ZJd2FiM2NtZFRGaWYxQnhyUktrTDNiWXNubFNkXzNRU1RSSTVUSzJqZE02d1dITWQxbWYwWkViN3JMLTRQY252NjNYNmdqanVfSUtUcHhPYWp4NXFyWWRIWjFUaU01aHp2bw?oc=5"
+     "titulo": "Seedorf abre o jogo e responde se Memphis jogará em Corinthians x Botafogo pelo Brasileirão",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JRWthSWVGdFMzZ0VpNTh6ZjY5NWJnZGo4YXRfUXdqYTZVa21HWG52NGIzZi1pQWtEb1pXR1AtWEQ5bER5d1BLQm9lREhUc3VMS0hiNG5xeXFkOURlQnc?oc=5"
     },
     {
-     "titulo": "Corinthians se diz 'totalmente prejudicado' após pena do STJD a Yuri Alberto",
-     "fonte": "OneFootball",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXdhcC1XbUxOaGhYUVhpcWRSbTQyaHVxLWExV2x2aW11VjFsSkd5YmZ3UERlY1NHTXk3TDE5M1JsdG8tR2wwVElqN3NjQU9qV2dmQ1lBRXNRV0hCMmJmTkw4UGZhUE9IZy1aZW5aQXVZYUZ1UXRGY2dSUXZHd0pwNHh0SU9CSWI5SzBHTjRWN2J5MGc4c2pfVko3U09aQ0txZ3pJdTNNWmVqYXZUdFMzTlRCRWwzMHUzeXVJ?oc=5"
+     "titulo": "Danilo deve seguir como desfalque do Botafogo em 'decisão' contra o Corinthians pelo Brasileirão",
+     "fonte": "O GLOBO",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQT1JUeC1XeDNrVTJ3TVBNRUdzY2c3bF90WEhqS1c4Y280RnBXaGJDaWZCNzRTVGhpMUdPaHBGVVFEU1RrdXlkNWhrTGlySjI0Z3Y3Q2xjd3pPV0xGRnd6eHdVUkpYS040T0Q4dWZ5QnIyRTEtUmRwU0FWbW5ZdUZIT184cEFrRVlpSWJnZzlOc0hQdUgycWtSZ3ZZaDdMZUp5bGd2UjF3bXRpbGEwVERTZmxnLWlNR1Y1dFZNT0hZVHM2TmR3blo5aUcxbGtQZU1wRU1mV1ZkWjR4VTJ0aWZqMlRKMDZxR1h2UnI0c2dGVkE5aVdyMVk3U2dKNmxUTEk?oc=5"
     },
     {
-     "titulo": "Corinthians repudia decisão do STJD em manter punição de Yuri Alberto",
-     "fonte": "Metrópoles",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOE9xU0x1OTJna0x4NGR3RW04ZnJpRlBmaExxLWtJcHBPVkRTSEdxM09tQUFlQ2ExMFFreFNuZjBaZ2FYTjc4d0tUbzFKOXprSy1XUHNzRzduREpoMW56LTFlekhDbVI0UV9qT0h2Nm1PWVY1ZllrMC1qcHFEd2hZa2ZibVlyNEZWeXJWS1JQYkxrVkJ4T2lQSzdsSzJWWklqRlZlekVGY3k?oc=5"
+     "titulo": "Ao vivo: assista à entrevista de Seedorf antes de Corinthians x Botafogo",
+     "fonte": "Band",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVHpIdzVmdmEyQjk2UGlzRFNKRFZGSUZSMW1hcUlhNHZ4ZF9LdGVUaVdNc1NrZWI5aGNJYTM3RS1heTB3OEQzcXBnZXYteWw5UHd1QXB2cmQzNFRZOXN5Q3V2Yk9Pd09ZWkdRX3IxcVZnUERKYklrZ3Z1ZUxKUnUwYmVRTWZSVkNZWlBBeXhOczVUTjhiZVpkcE1RMkJiWHAxd0Y4ank0VjMzaWhrQTAtUHV3?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "qpUNvmuZRHU",
-      "titulo": "YURI ALBERTO TEM SUSPENSÃO MANTIDA PELO STJD APÓS PISÃO EM BANDEIRA DO RIVAL",
-      "canal": "UOL Esporte",
-      "views": 6882,
-      "likes": 20,
-      "comentarios": 3,
-      "publicado": "2026-11-16T14:15:34Z",
-      "duracao_s": 61,
+      "id": "IsVUk58_b30",
+      "titulo": "Escalação do Corinthians para enfrentar o Botafogo. #corinthians #botafogo #brasileirão",
+      "canal": "Fiel News",
+      "views": 75074,
+      "likes": 2193,
+      "comentarios": 92,
+      "publicado": "2026-11-16T23:55:13Z",
+      "duracao_s": 68,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=qpUNvmuZRHU"
+      "url": "https://www.youtube.com/watch?v=IsVUk58_b30"
      },
      {
-      "id": "sLzcD8xvMcw",
-      "titulo": "🔴 DEBATE COM CANDIDATOS DO CORINTHIANS | TIMÃO FAZ TREINO ABERTO | JULGAMENTO DE YURI ALBERTO ⚫⚪",
-      "canal": "TV Central do Timão",
-      "views": 5452,
-      "likes": 82,
-      "comentarios": 0,
-      "publicado": "2026-11-16T13:09:03Z",
-      "duracao_s": 9653,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=sLzcD8xvMcw"
-     },
-     {
-      "id": "gPzaAPsJfAY",
-      "titulo": "CORINTHIANS FOI PEGO DE SURPRESA COM A MANUTENÇÃO DA PENA DE YURI ALBERTO PELO STJD | JOANNA",
-      "canal": "UOL Esporte",
-      "views": 5405,
-      "likes": 179,
-      "comentarios": 17,
-      "publicado": "2026-11-16T17:41:05Z",
-      "duracao_s": 1164,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=gPzaAPsJfAY"
-     },
-     {
-      "id": "FgwjRMeE86c",
-      "titulo": "JULIO CESAR FAZ PRONUNCIAMENTO SOBRE PUNIÇÃO DO STJD A YURI ALBERTO",
+      "id": "XjkkGpIDkMk",
+      "titulo": "AO VIVO DA NQA 🔴 COLETIVA DE SEEDORF E TREINO DO CORINTHIANS",
       "canal": "Meu Timão",
-      "views": 4164,
-      "likes": 305,
-      "comentarios": 25,
-      "publicado": "2026-11-16T16:41:42Z",
-      "duracao_s": 111,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=FgwjRMeE86c"
-     },
-     {
-      "id": "lG1-JKtTCE4",
-      "titulo": "Júlio César repudia a decisão do STJD sobre a suspensão de Yuri Alberto! #corinthians",
-      "canal": "Coringaço",
-      "views": 3999,
-      "likes": 118,
-      "comentarios": 22,
-      "publicado": "2026-11-16T16:42:18Z",
-      "duracao_s": 96,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=lG1-JKtTCE4"
-     },
-     {
-      "id": "yoXz4vco4iE",
-      "titulo": "STJD MANTÉM PENA DE YURI ALBERTO, E GOLEADOR DO BRASILEIRAO LEVA GANCHO MAIOR; ENTENDA DECISÕES",
-      "canal": "UOL Esporte",
-      "views": 1844,
-      "likes": 54,
-      "comentarios": 3,
-      "publicado": "2026-11-16T17:21:44Z",
-      "duracao_s": 898,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=yoXz4vco4iE"
-     },
-     {
-      "id": "x8n4U2hUbsI",
-      "titulo": "JÚLIO CÉSAR FAZ PRONUNCIAMENTO SOBRE A DECISÃO DO STJD EM MANTER A PUNIÇÃO DE YURI ALBERTO",
-      "canal": "IDENTIDADE CORINTHIANA",
-      "views": 1425,
-      "likes": 73,
-      "comentarios": 3,
-      "publicado": "2026-11-16T17:05:18Z",
-      "duracao_s": 113,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=x8n4U2hUbsI"
-     },
-     {
-      "id": "UNIQoTEJrL4",
-      "titulo": "YURI ALBERTO FORA! STJD DÁ PÉSSIMA NOTÍCIA AO CORINTHIANS! #corinthians #viral #brasileirão",
-      "canal": "Resenha @lvinegra",
-      "views": 1249,
-      "likes": 23,
+      "views": 45167,
+      "likes": 1767,
       "comentarios": 0,
-      "publicado": "2026-11-16T16:38:17Z",
-      "duracao_s": 33,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=UNIQoTEJrL4"
-     },
-     {
-      "id": "_oxhtMOAPvY",
-      "titulo": "MAIS UMA VEZ, O CORINTHIANS FICA COM A CONTA ?",
-      "canal": "E aí Corintiano ",
-      "views": 1180,
-      "likes": 7,
-      "comentarios": 10,
-      "publicado": "2026-11-16T16:53:43Z",
-      "duracao_s": 34,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=_oxhtMOAPvY"
-     },
-     {
-      "id": "aOUVBv5C7qY",
-      "titulo": "Yuri Alberto: STJD mantém suspensão de dois jogos e ele desfalca o Corinthians contra o Botafogo",
-      "canal": "FIEL IA - INTELIGÊNCIA ALVINEGRA",
-      "views": 1114,
-      "likes": 33,
-      "comentarios": 1,
-      "publicado": "2026-11-16T16:03:19Z",
-      "duracao_s": 72,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=aOUVBv5C7qY"
-     },
-     {
-      "id": "BOP6elE2uu4",
-      "titulo": "\"Injustiça\": Julio Cesar acusa STJD de ser mais severo contra o Corinthians após gancho de Yuri Albe",
-      "canal": "UOL Esporte",
-      "views": 963,
-      "likes": 7,
-      "comentarios": 1,
-      "publicado": "2026-11-16T16:32:45Z",
-      "duracao_s": 117,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=BOP6elE2uu4"
-     },
-     {
-      "id": "r-eEK9kInN4",
-      "titulo": "DIRETOR DO CORINTHIANS SOBE O TOM APÓS STJD MANTER A PUNIÇÃO DE YURI ALBERTO: 'PREJUDICADOS!'",
-      "canal": "UOL Esporte",
-      "views": 918,
-      "likes": 17,
-      "comentarios": 0,
-      "publicado": "2026-11-16T17:30:30Z",
-      "duracao_s": 494,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=r-eEK9kInN4"
-     },
-     {
-      "id": "IoKnD5d9v-8",
-      "titulo": "CORINTHIANS CONTESTA SUSPENSÃO DE YURI ALBERTO! 🦅 “DOIS PESOS E DUAS MEDIDAS” #Shorts",
-      "canal": "QsportsBR",
-      "views": 871,
-      "likes": 21,
-      "comentarios": 2,
-      "publicado": "2026-11-16T17:00:14Z",
-      "duracao_s": 55,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=IoKnD5d9v-8"
-     },
-     {
-      "id": "-mvcQM9r6sc",
-      "titulo": "🚨 JÚLIO CÉSAR SE PRONUNCIA SOBRE A PUNIÇÃO DE YURI ALBERTO!",
-      "canal": "Martins Nação Fiel News 24h",
-      "views": 848,
-      "likes": 20,
-      "comentarios": 3,
-      "publicado": "2026-11-16T16:21:32Z",
-      "duracao_s": 114,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=-mvcQM9r6sc"
-     },
-     {
-      "id": "moQYCUuLwgc",
-      "titulo": "Júlio César não poupou críticas ao STJD após a suspensão de Yuri Alberto #corinthians #timão #sccp",
-      "canal": "InfoTimão - Notícias e Vídeos do Corinthians ",
-      "views": 793,
-      "likes": 18,
-      "comentarios": 1,
-      "publicado": "2026-11-16T18:32:20Z",
-      "duracao_s": 57,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=moQYCUuLwgc"
-     },
-     {
-      "id": "89p9xx6OplY",
-      "titulo": "Corinthians critica STJD por punição de Yuri Alberto",
-      "canal": "Rádio Coringão",
-      "views": 742,
-      "likes": 27,
-      "comentarios": 7,
-      "publicado": "2026-11-16T16:27:19Z",
-      "duracao_s": 116,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=89p9xx6OplY"
-     },
-     {
-      "id": "Zv8ZOw9NUEA",
-      "titulo": "PUNIÇÃO DE YURI ALBERTO: STJD REJEITA RECURSO E MANTÉM DOIS JOGOS DE SUSPENSÃO",
-      "canal": "UOL Esporte",
-      "views": 683,
-      "likes": 69,
-      "comentarios": 3,
-      "publicado": "2026-11-16T18:28:39Z",
-      "duracao_s": 91,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Zv8ZOw9NUEA"
-     },
-     {
-      "id": "BjSJjHzuHSs",
-      "titulo": "🚨 STJD BATE O MARTELO E MANTÉM YURI ALBERTO SUSPENSO POR 2 JOGOS! #Shorts",
-      "canal": "Campo Alvinegro",
-      "views": 570,
-      "likes": 14,
-      "comentarios": 2,
-      "publicado": "2026-11-16T14:59:45Z",
-      "duracao_s": 139,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=BjSJjHzuHSs"
-     },
-     {
-      "id": "ipvcu_8lJns",
-      "titulo": "🔴💣 BOMBA NO STJD: YURI ALBERTO NÃO JOGA CONTRA O BOTAFOGO . MIRA DO FOGÃO E PERALTA BRILHA NO URUGUA",
-      "canal": "USAGLORIOSO",
-      "views": 342,
-      "likes": 16,
-      "comentarios": 1,
-      "publicado": "2026-11-16T16:22:00Z",
-      "duracao_s": 5116,
+      "publicado": "2026-11-17T13:53:29Z",
+      "duracao_s": 15718,
       "live": true,
-      "url": "https://www.youtube.com/watch?v=ipvcu_8lJns"
+      "url": "https://www.youtube.com/watch?v=XjkkGpIDkMk"
      },
      {
-      "id": "sY2p2igQV04",
-      "titulo": "JÚLIO CÉSAR CRITICA DECISÃO DO STJD SOBRE SUSPENSÃO DE YURI ALBERTO",
-      "canal": "AuriVerde Brasil",
-      "views": 340,
-      "likes": 4,
-      "comentarios": 1,
-      "publicado": "2026-11-16T16:47:22Z",
-      "duracao_s": 115,
+      "id": "eYL6Zfre8aE",
+      "titulo": "Seedorf inicia MUTIRÃO por Memphis l Corinthians aciona agentes por 9 atletas l Banida e B.O na zaga",
+      "canal": "Café do Setorista",
+      "views": 42175,
+      "likes": 2010,
+      "comentarios": 114,
+      "publicado": "2026-11-16T09:00:02Z",
+      "duracao_s": 1006,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=sY2p2igQV04"
+      "url": "https://www.youtube.com/watch?v=eYL6Zfre8aE"
      },
      {
-      "id": "iibV2-cWsro",
-      "titulo": "Corinthians está indignado com a punição do Yuri Alberto",
-      "canal": "Debatendo com fut TV",
-      "views": 293,
-      "likes": 6,
-      "comentarios": 0,
-      "publicado": "2026-11-16T20:10:56Z",
-      "duracao_s": 55,
+      "id": "qgB0HtZdTKM",
+      "titulo": "O CORINTHIANS DE SEEDORF PRA ENCARAR O BOTAFOGO #corinthians #futebol #brasileirão",
+      "canal": "Análise Futebolística 99",
+      "views": 37299,
+      "likes": 631,
+      "comentarios": 13,
+      "publicado": "2026-11-16T17:39:19Z",
+      "duracao_s": 63,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=iibV2-cWsro"
+      "url": "https://www.youtube.com/watch?v=qgB0HtZdTKM"
      },
      {
-      "id": "NeiedwMQzzM",
-      "titulo": "RANIELE DETONA a GESTÃO OSMAR STABILE| STJD RESPONDE o CORINTHIANS| ACORDO FECHADO",
-      "canal": "Capitão Corintiano",
-      "views": 266,
-      "likes": 64,
-      "comentarios": 6,
-      "publicado": "2026-11-16T20:01:56Z",
-      "duracao_s": 916,
+      "id": "nVVqI8ZNMFk",
+      "titulo": "Seedorf falou TUDO! ENTREVISTA REPERCUTE e deixa a fiel em CHOQUE!",
+      "canal": "Caos Corinthiano Oficial",
+      "views": 29066,
+      "likes": 214,
+      "comentarios": 15,
+      "publicado": "2026-11-15T21:55:09Z",
+      "duracao_s": 1102,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=NeiedwMQzzM"
+      "url": "https://www.youtube.com/watch?v=nVVqI8ZNMFk"
      },
      {
-      "id": "QNOuQWKJdvQ",
-      "titulo": "EXECUTIVO DE FUTEBOL DO CORINTHIANS, JULIO CESAR FAZ PRONUNCIAMENTO CONTRA STJD SOBRE YURI ALBERTO",
-      "canal": "O Tikitaka Sports",
-      "views": 207,
-      "likes": 4,
-      "comentarios": 0,
-      "publicado": "2026-11-16T16:08:47Z",
-      "duracao_s": 113,
+      "id": "SQgISktW2NE",
+      "titulo": "STJD não alivia após recurso do Corinthians e mantém suspensão de dois jogos aplicada em Yuri",
+      "canal": "JOGOS DE HOJE NA TV ",
+      "views": 20296,
+      "likes": 63,
+      "comentarios": 4,
+      "publicado": "2026-11-16T15:46:13Z",
+      "duracao_s": 10,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=QNOuQWKJdvQ"
+      "url": "https://www.youtube.com/watch?v=SQgISktW2NE"
      },
      {
-      "id": "0eJiJvDTX4I",
-      "titulo": "“DOIS PESOS E DUAS MEDIDAS” ⚖️🦅",
+      "id": "sHcs2BZ2F4E",
+      "titulo": "COLETIVA DE IMPRENSA | SEEDORF",
+      "canal": "Corinthians TV",
+      "views": 19088,
+      "likes": 1436,
+      "comentarios": 39,
+      "publicado": "2026-11-17T17:39:20Z",
+      "duracao_s": 2065,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=sHcs2BZ2F4E"
+     },
+     {
+      "id": "yTZwvZ6mh3M",
+      "titulo": "[AO VIVO] ENTREVISTA COLETIVA DE CLARENCE SEEDORF, TREINADOR DO CORINTHIANS",
       "canal": "Esporte na Band",
-      "views": 197,
-      "likes": 8,
-      "comentarios": 0,
-      "publicado": "2026-11-16T18:43:09Z",
-      "duracao_s": 115,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=0eJiJvDTX4I"
+      "views": 18071,
+      "likes": 154,
+      "comentarios": 1,
+      "publicado": "2026-11-17T17:39:55Z",
+      "duracao_s": 2035,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=yTZwvZ6mh3M"
      },
      {
-      "id": "wRpPNqi8v88",
-      "titulo": "PRONUNCIAMENTO | Júlio César manifesta indignação do Corinthians com a punição de Yuri Alberto ",
-      "canal": "InfoTimão - Notícias e Vídeos do Corinthians ",
-      "views": 2,
-      "likes": 1,
-      "comentarios": 0,
-      "publicado": "2026-11-16T20:13:50Z",
-      "duracao_s": 129,
+      "id": "93J2dih26M8",
+      "titulo": "SEEDORF CONVOCA MAIS UMA COLETIVA!",
+      "canal": "Meu Timão",
+      "views": 14827,
+      "likes": 485,
+      "comentarios": 1,
+      "publicado": "2026-11-17T15:04:39Z",
+      "duracao_s": 3582,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=93J2dih26M8"
+     },
+     {
+      "id": "DuVae8D34fU",
+      "titulo": "CORINTHIANS AO VIVO: SEEDORF CONCEDE ENTREVISTA COLETIVA | ESPN",
+      "canal": "ESPN Brasil",
+      "views": 12039,
+      "likes": 247,
+      "comentarios": 1,
+      "publicado": "2026-11-17T17:39:41Z",
+      "duracao_s": 2016,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=DuVae8D34fU"
+     },
+     {
+      "id": "z40bLznfGRA",
+      "titulo": "O BICHO PEGOU! NETO CAGUETA PLANO DE CORINTHIANO PRA PEGAR MEMPHIS NO VESTIÁRIO ",
+      "canal": "Nação Clubista",
+      "views": 11886,
+      "likes": 205,
+      "comentarios": 16,
+      "publicado": "2026-11-17T00:08:32Z",
+      "duracao_s": 601,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=wRpPNqi8v88"
+      "url": "https://www.youtube.com/watch?v=z40bLznfGRA"
+     },
+     {
+      "id": "Mb5DGwUylIs",
+      "titulo": "🔥CHICO PRÊVE QUE CORINTHIANS NÃO CAI! \"chicogarcia #corinthians #seedorf #z4",
+      "canal": "Trincheira Corinthians",
+      "views": 9626,
+      "likes": 203,
+      "comentarios": 10,
+      "publicado": "2026-11-15T22:00:53Z",
+      "duracao_s": 67,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Mb5DGwUylIs"
+     },
+     {
+      "id": "1DDLRkHUNek",
+      "titulo": "\"NINGUÉM FARIA ISSO!\": Neto aprova postura de Seedorf no Timão! #corinthians",
+      "canal": "Corinthians Fut Gols",
+      "views": 8153,
+      "likes": 354,
+      "comentarios": 8,
+      "publicado": "2026-11-17T09:45:01Z",
+      "duracao_s": 36,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=1DDLRkHUNek"
+     },
+     {
+      "id": "C1ofDYxEuA4",
+      "titulo": "CORINTHIANS DEVE TER NOVIDADES CONTRA O BOTAFOGO",
+      "canal": "Os Donos da Bola",
+      "views": 7941,
+      "likes": 127,
+      "comentarios": 2,
+      "publicado": "2026-11-16T17:48:27Z",
+      "duracao_s": 266,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=C1ofDYxEuA4"
+     },
+     {
+      "id": "0NmOW1vay-I",
+      "titulo": "ELE TEM APENAS 16 ANOS e VAI ASSINAR CONTRATO de R$ 625 MILHÕES| 2 REFORÇOS| MARCA ANGILERI",
+      "canal": "Capitão Corintiano",
+      "views": 4909,
+      "likes": 195,
+      "comentarios": 6,
+      "publicado": "2026-11-16T14:00:29Z",
+      "duracao_s": 935,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=0NmOW1vay-I"
+     },
+     {
+      "id": "YM4xOnlbGLQ",
+      "titulo": "O SEEDORF CHEGOU PRA RESOLVER OS PROBLEMAS DO CORINTHIANS 🤣😂😂🥵.... #craqueneto",
+      "canal": "BolaemCampo",
+      "views": 2593,
+      "likes": 108,
+      "comentarios": 2,
+      "publicado": "2026-11-15T22:35:10Z",
+      "duracao_s": 80,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=YM4xOnlbGLQ"
+     },
+     {
+      "id": "ar1-iyDzQHo",
+      "titulo": "🚨 O DILEMA DE SEEDORF COM MEMPHIS!",
+      "canal": "TV Alambrado Alvinegro",
+      "views": 1758,
+      "likes": 35,
+      "comentarios": 1,
+      "publicado": "2026-11-15T20:40:42Z",
+      "duracao_s": 38,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=ar1-iyDzQHo"
+     },
+     {
+      "id": "OTcDQd1_uHg",
+      "titulo": "SEEDORF ACABA DE CONFIRMAR AGORA EM COLETIVA JOGADOR DO CORINTHIANS FORA DO JOGO DE AMANHÃ FIEL ",
+      "canal": "Esporte Corinthians Hoje",
+      "views": 1594,
+      "likes": 133,
+      "comentarios": 2,
+      "publicado": "2026-11-17T17:40:31Z",
+      "duracao_s": 1444,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=OTcDQd1_uHg"
+     },
+     {
+      "id": "LzE7MWnucoc",
+      "titulo": "Carrillo não quis jogar e Neto mandou recado pro Seedorf? Craque Neto detona | Corinthians #shorts",
+      "canal": "Corta Pra Resenhaa",
+      "views": 1526,
+      "likes": 24,
+      "comentarios": 0,
+      "publicado": "2026-11-16T14:30:16Z",
+      "duracao_s": 39,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=LzE7MWnucoc"
+     },
+     {
+      "id": "XP_bD8F4c1Q",
+      "titulo": "LILLY NASCIMENTO. O SEEDORF MUDOU O AMBIENTE NO CT DO #CORINTHIANS  #VAICORINTHIANS  #Fieltorcida",
+      "canal": "Raimundo Lopes Gomes",
+      "views": 1233,
+      "likes": 17,
+      "comentarios": 3,
+      "publicado": "2026-11-16T21:36:41Z",
+      "duracao_s": 82,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=XP_bD8F4c1Q"
+     },
+     {
+      "id": "D0SNDHrKAwU",
+      "titulo": "SEEDORF FAZEDOR DE MÉDIA #corinthians #vaicorinthians #timão #sccp #futebol #shorts #fyp #neymar",
+      "canal": "PERESSUTI FUTEBOL & RESENHA ",
+      "views": 1135,
+      "likes": 22,
+      "comentarios": 2,
+      "publicado": "2026-11-16T16:12:47Z",
+      "duracao_s": 69,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=D0SNDHrKAwU"
      }
     ],
-    "consulta": "Corinthians Yuri STJD Alberto",
-    "n_videos": 25,
+    "consulta": "Corinthians Seedorf",
+    "n_videos": 21,
     "mais_de": true,
-    "views": 40749,
+    "views": 365456,
     "top": [
      {
-      "titulo": "YURI ALBERTO TEM SUSPENSÃO MANTIDA PELO STJD APÓS PISÃO EM BANDEIRA DO RIVAL",
-      "canal": "UOL Esporte",
-      "views": 6882,
-      "url": "https://www.youtube.com/watch?v=qpUNvmuZRHU",
-      "publicado": "2026-11-16T14:15:34Z",
+      "titulo": "Escalação do Corinthians para enfrentar o Botafogo. #corinthians #botafogo #brasileirão",
+      "canal": "Fiel News",
+      "views": 75074,
+      "url": "https://www.youtube.com/watch?v=IsVUk58_b30",
+      "publicado": "2026-11-16T23:55:13Z",
       "do_canal": false
      },
      {
-      "titulo": "🔴 DEBATE COM CANDIDATOS DO CORINTHIANS | TIMÃO FAZ TREINO ABERTO | JULGAMENTO DE YURI ALBERTO ⚫⚪",
-      "canal": "TV Central do Timão",
-      "views": 5452,
-      "url": "https://www.youtube.com/watch?v=sLzcD8xvMcw",
-      "publicado": "2026-11-16T13:09:03Z",
+      "titulo": "AO VIVO DA NQA 🔴 COLETIVA DE SEEDORF E TREINO DO CORINTHIANS",
+      "canal": "Meu Timão",
+      "views": 45167,
+      "url": "https://www.youtube.com/watch?v=XjkkGpIDkMk",
+      "publicado": "2026-11-17T13:53:29Z",
       "do_canal": false
      },
      {
-      "titulo": "CORINTHIANS FOI PEGO DE SURPRESA COM A MANUTENÇÃO DA PENA DE YURI ALBERTO PELO STJD | JOANNA",
-      "canal": "UOL Esporte",
-      "views": 5405,
-      "url": "https://www.youtube.com/watch?v=gPzaAPsJfAY",
-      "publicado": "2026-11-16T17:41:05Z",
+      "titulo": "Seedorf inicia MUTIRÃO por Memphis l Corinthians aciona agentes por 9 atletas l Banida e B.O na zaga",
+      "canal": "Café do Setorista",
+      "views": 42175,
+      "url": "https://www.youtube.com/watch?v=eYL6Zfre8aE",
+      "publicado": "2026-11-16T09:00:02Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "Gonzalo Plata, do Flamengo, é desconvocado da seleção do Equador por motivos pessoais",
-   "categoria": "Mercado da bola",
+   "tema": "Seedorf confirma desfalque de Garro para Corinthians x Botafogo",
+   "categoria": "Lesão e desfalque",
    "clubes": [
-    "Flamengo"
+    "Corinthians",
+    "Botafogo"
    ],
    "foco": true,
-   "nota": 81.6,
+   "nota": 77.9,
    "sinais": {
-    "busca": 60,
-    "aceleracao": 100,
-    "midia": 96,
+    "busca": 70,
+    "aceleracao": 89,
+    "midia": 87,
     "aderencia": 100,
-    "youtube": 59
+    "youtube": 49
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "athletico-pr x flamengo",
+   "busca_torcedor": "seedorf corinthians",
    "termos_trends": [],
-   "n_fontes": 9,
-   "n_manchetes": 9,
-   "assinatura": "plata|equad|flame|gonza",
+   "n_fontes": 7,
+   "n_manchetes": 7,
+   "assinatura": "seedo|botaf|corin|garro",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "React rápido (1 a 3 min)",
-    "gancho": "Gonzalo Plata, do Flamengo, é desconvocado da seleção do Equador por motivos pessoais. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "Seedorf confirma desfalque de Garro para Corinthians x Botafogo. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
     "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Gonzalo Plata, do Flamengo, é desconvocado da seleção do Equador por motivos pessoais?",
+    "pergunta_enquete": "Qual sua opinião: Seedorf confirma desfalque de Garro para Corinthians x Botafogo?",
     "tecnica": "Aposta",
     "ganchos": [
      {
       "tecnica": "Aposta",
-      "texto": "Gonzalo Plata, do Flamengo, é desconvocado da seleção do Equador por motivos pessoais. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+      "texto": "Seedorf confirma desfalque de Garro para Corinthians x Botafogo. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
       "thumb": "MEU PALPITE"
      },
      {
+      "tecnica": "Dado",
+      "texto": "“seedorf corinthians”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
       "tecnica": "Conflito",
-      "texto": "Gonzalo Plata, do Flamengo, é desconvocado da seleção do Equador por motivos pessoais. Por trás disso, tem dois lados que não querem a mesma coisa.",
-      "thumb": "QUEM TEM RAZÃO?"
+      "texto": "Seedorf confirma desfalque de Garro para Corinthians x Botafogo. Nem todo mundo no Corinthians vai gostar disso, e eu vou explicar por quê.",
+      "thumb": "CORINTHIANS x BOTAFOGO"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Gonzalo Plata, do Flamengo, é desconvocado da seleção do Equador por motivos pessoais. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
+      "texto": "Seedorf confirma desfalque de Garro para Corinthians x Botafogo. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Gonzalo Plata, do Flamengo, é desconvocado da seleção do Equador por motivos pessoais. Isso é bom ou ruim para o Flamengo? Responde antes de ver a minha análise.",
-      "thumb": "E AGORA, FLAMENGO?"
+      "texto": "Seedorf confirma desfalque de Garro para Corinthians x Botafogo. Isso é bom ou ruim para o Corinthians? Responde antes de ver a minha análise.",
+      "thumb": "E AGORA, CORINTHIANS?"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "GONZALO PLATA DESCONVOCADO POR MOTIVOS PESSOAIS E RETORNA AO RIO DE JANEIRO PARA SE APRESENTAR AO FLAMENGO!",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjcEl6bTVPUENCT1JJZEVuVTh3UGlpZ1hWR3g3YnZjQmExUU1xcVdlbGFPNUhpU0xMdGF6VmV2aUFFYm1zcnYydTYtUjBsRlBGSnlQcEVR?oc=5"
+     "titulo": "Seedorf confirma que Rodrigo Garro será desfalque contra o Botafogo",
+     "fonte": "Revista PLACAR",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeEVLcmU2elJrZHNSWWo0cldUcTN5TEJJZ0VyUEc0Q0Myd0tZMUFrSHNJQndEX2hwSzJqOTFuUFRFdF9ZajNPQ3FrRlNQeFZBYUlha29KNXQ0T0FwcXlHenJKQ042V1JYZmdQQmJVS1M4Si00SUc0WnZhWUZPZFdxZHdwSjloQjJVQ2lrTkJ3SmdNd1habXFMOXBB?oc=5"
     },
     {
-     "titulo": "Gonzalo Plata, do Flamengo, é cortado da seleção do Equador antes de amistoso contra a Bolívia",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZzRWYmhLR2ROaExHRkRSY09wM1ZkSDluN0ZZZlhfVmR1dnNWUlF0U3Q5ajExNm5DNWluak13WGl4VUZmRWkxeHJEUThja3NoeUduRkFMckVhNHAwTkFWY292NDcwbXh5S3Etd0NMRzNHa1dVZzBTUWhrUTFZamFBWXpwSVZLejhOVGUybU1ZU0lyR01uUHJkSEhFb0pOb2ZmM3Roa00tOTgyS1lNRHg0Ym4yUjZnMVVWdWZCeXNwc3ZLUTNYc1V4MEVKOURUZmtkWWh2cjdnSdIB3AFBVV95cUxPRXUxRG9MOFdWT0ZqcllnQThETE13a3FNSGpkbHU3TnhtenZYTC1JTkhaRzlYak11d2xPWU1Oa2dfWkpma3hrWDFpSUE0ellybE1jM3ZIVmRLQzlaWVNVNDQ0eFlkUUZuVlVoSGdpS0ZYWWpFMElNcS0xakMwUUdNRzBfdHFMdDRKS29BUmtWUHJDWGl5R284aUdvMjlZdmZST0VvRjNHbm9mWUp4ekZTeFp4UFlfVUhtRE5DOU8wbDQ2Vy1JMDZTUXRBbm9WaklRSm5BUmZPUzY0VlE0?oc=5"
-    },
-    {
-     "titulo": "Plata é cortado pela seleção do Equador por 'motivos pessoais'",
-     "fonte": "O Dia",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQWo5QWpJTFpBX21zOVd4ZXJ5ZTI5WURNRkIteGhMNTZQT3ZoZXVjVTZEMGFVZlZvek5wLXFERkpHNlRaekVnakQwbk5fTjZvUFNSRl80XzdxMnZPMzZFNl9QNlIzakotZ3lwNWtIb3FwQ2JSd2FGTk5BQjJGRlA2a1VSVFp3OXI4dzdxcXUzc3Q2R0VBdjJtaGJPeEFBaWdSQWEwOGx0NXRMQmtIMXVrWEdOWnczWlJ4VDNjWURn0gHDAUFVX3lxTE1LVHZ4cl9KQkpLWkNYQ2ZpbVZzcGFvVkNLN0ZSOHpYS05OY002MmlramozaUs1WU9fZW5aZ2NzQnktSHBOWnp2OTVzN2xsajYxU3oxSnJrRmkzMW1QQjRrajFKcEI4Q3h6WHBxQkplczVnTU1aYzN5S0RtVWRtbzRWcnJiNV9aQlI0R1VzeGNpLU9PLWlJWUt4dFRET0RxOVZGSFpxMXZLUC13cjN4X1ZfRWJVMkdHMFpZbTdyN1lmSE1EMA?oc=5"
-    },
-    {
-     "titulo": "Gonzalo Plata, do Flamengo, é cortado da seleção do Equador antes de amistoso contra Bolívia",
-     "fonte": "UOL Notícias",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWXpfOWFmRVJhajdQMzFXMmlvZXVnRk1iR2Z3SG5NaE5pcVRrSFdfUjZYREQ3UkhxZ3BNeWMwZ3YyVjJCTk1hbXZReU5WWWxnRzJJcGZSSzFqNFpkcmVYSG1NaG1jcXZiXzE0QnZBU01keU1qZ0hvV3dNZnVuc20tSnVneVdWRmdBMEZXZjBTX3lQZWNfSzlhaEdQUlJrVG9hRWJLLUFjY3JjeVY1MlJqZUFqV0NfWFowa1R0Y3dHRmZoaVB6MlA5U0Z6dWxlRm02dEVhd2dwamxDemItamRPbTNDR0Z4bEJsY1E?oc=5"
-    },
-    {
-     "titulo": "Equador divulga corte de Plata, do Flamengo",
+     "titulo": "Seedorf confirma Garro fora contra o Botafogo e critica suspensão de Yuri Alberto no Corinthians",
      "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMDB0M2VKbENLR2FiTGRGOVd0RzBMbDJyWHJIbU80dUlmVHp6a2lOSnZudnZfNS1QajBRR0thMDJsZXJCcmhCSDlOQzRfNFdFeXZ6c0plaFJJeG45QzRVMFpmcnVQU1FIXzVndlRxam1yWmd0SmVMV3ROMEotSUkxbHY2cmhaSDdNNFlxRGFrbVNFZ29HSHYydXhDOWJGbEJ6amtfX1YweUJyWDFWdzVwWW5DRHl5STN5Mm1PaGpzNTZENU5lbnRIVFI3QQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNFNCejJoY2dGRFM3alAtWGpjZ1pVMXpnRXZsV21YMmtmZFFVeHdvenR0N0lscnhFaFkteURoaUpRVzZxY0F0ekZYYS1WVFZRWXlKQlkzVXYxcUVUZ0NfZUEyS1pEOWVFUGkyRFJOZjJ6bE5vcFlEQ1BNVDI0dnBwWG1JMS1SdDB1bEcwemtfc2pNN250YkNkbVI2cWNibGNZMUYwZjNTeHM2bFhJdDkwVU5HRG9YYmtzelhuaHdYYW1YUDcyVmVwb0R5R0VJLU5IUGpKX3RJUmRDa3dLYldEaEd6OXVyTUNsMlkyNU14YzZfWkM4YlRlTElqcU91T1Vra096UzVVWUQwcWhJNnNjYzl3?oc=5"
+    },
+    {
+     "titulo": "Corinthians: 'Garro fora e o Seedorf não está preocupado? Se tivesse um elenco grande...', comenta Joanna",
+     "fonte": "UOL",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tOU95R0FZb0VFRENRUUgxRlZOMC0xclZGWkJnNmRVYjd1QVV5Wk4temhKUkVOaEVweU55ZDR5aklRamQ1Wl9Oc25ST0RkZTUtWGRFYXoyQjJDdTc4SnVZbmFrN1VFdnc?oc=5"
+    },
+    {
+     "titulo": "Seedorf confirma desfalque de Garro para Corinthians x Botafogo",
+     "fonte": "Gazeta Esportiva",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcF9HeFJQX3JKdXUxZUNNTzAzMnhlYUk4c01RSWhCRDM0Q0d4U2lDWGdEMnBqS3dtQWpkYUJNTGJ6SUVwcUlmXzFxQWs1X2dmVjA2MW54WVRtZHdvNWFjeUpRYlgtRktzOWlELUhqdzAxQkMwSXZsTktqdFR3NXMyVGI2T3RmekVwQlk5QmR2Q1FiX2t1S19KODZESnkyaGppOHF5VjJnMjk0ZzUtZE45M3U0Y0vSAboBQVVfeXFMTXhQWDZ4WkNNZWs4WU1JbWFaQkt6SkVKcEdHTlhka1dqdXZBZDdjblJXRHFEZnpzYkhEem80V2p1dHZFRUx2ZmhhdXM1UUhkV095ckU1UkJBS0FqdXZ3RC1vMXB0ZTNRc19lbUl1T1BUOUNaRk5VblJZOWlfbnlKSnFqaDhMYzM5QWdFV1NVOVRVbDJjNHBQVG1XQjJwUEpTZXRjYzlXUmlGSXk4QTcyTzE5RHB2QTFEakp3?oc=5"
+    },
+    {
+     "titulo": "Seedorf faz mistério sobre Memphis titular no Corinthians e confirma Garro fora contra o Botafogo",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOXUyWjBZaHpVLXduRTZnS2F4UVZJcS1JMFNCT3ZrU05rc056bkpYN3pYUFJNeHFidXVqdU51VkpSdXM4VndWWTFZRk8zdlNWQjdiTG1oc0VqRVpKX3hmR1RZUFFYdEZxRmxvT0luQWFSY2pKWXd2aXhiU0RwQkI1cE5FdnVOTFZLYVFXY1FnQ2tST00zY0dIbXJiNkhIcWZndEM4RS1VXy1qMHZRNmxOVzVURnE0MkNET0ZnWmppQ1NIdzZtMzhMMFhsLS1HVEZWbTBlOXo5cEtxUXlzUXlmMnRoQ0l1bXJ1MC13X1RXWVNtcnNl?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "_CZpvh1bbpw",
-      "titulo": "GONZALO PLATA DESCONVOCADO POR MOTIVOS PESSOAIS E RETORNA AO RIO PARA SE APRESENTAR AO FLAMENGO!",
-      "canal": "Paparazzo Rubro-Negro",
-      "views": 2771,
-      "likes": 278,
-      "comentarios": 6,
-      "publicado": "2026-11-16T18:59:34Z",
-      "duracao_s": 91,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=_CZpvh1bbpw"
-     },
-     {
-      "id": "8AZELUk5qpk",
-      "titulo": "O golpe do Equador contra o Flamengo antes da decisão#flamengo",
-      "canal": "Flarádio ",
-      "views": 853,
-      "likes": 21,
+      "id": "RJk3PR27rCE",
+      "titulo": "DESFALQUE!Seedorf confirma ausência de Rodrigo Garro contra o Botafogo.#corinthians",
+      "canal": "Na Barreira | Futebol",
+      "views": 566,
+      "likes": 10,
       "comentarios": 0,
-      "publicado": "2026-11-15T19:32:09Z",
-      "duracao_s": 139,
+      "publicado": "2026-11-17T17:51:25Z",
+      "duracao_s": 20,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=8AZELUk5qpk"
+      "url": "https://www.youtube.com/watch?v=RJk3PR27rCE"
      },
      {
-      "id": "5xNxKKNRxnE",
-      "titulo": "Migue! Liberado da Seleção Equatoriana por \"motivos pessoais\"",
-      "canal": "Aqui é Flamengo",
-      "views": 361,
-      "likes": 8,
+      "id": "eZ4eNiU9Gd8",
+      "titulo": "Seedorf confirma desfalque de Garro no jogo do Corinthians contra o Botafogo! ##timão #fiel #futebol",
+      "canal": "fielfanatics",
+      "views": 184,
+      "likes": 12,
       "comentarios": 0,
-      "publicado": "2026-11-16T20:06:57Z",
-      "duracao_s": 36,
+      "publicado": "2026-11-17T19:09:08Z",
+      "duracao_s": 61,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=5xNxKKNRxnE"
+      "url": "https://www.youtube.com/watch?v=eZ4eNiU9Gd8"
      },
      {
-      "id": "hLoult8z-7s",
-      "titulo": "🚨 FLAMENGO PREJUDICADO PELA SELEÇÃO DO EQUADOR!",
-      "canal": "Flarádio ",
-      "views": 35,
-      "likes": 4,
-      "comentarios": 1,
-      "publicado": "2026-11-15T14:32:58Z",
-      "duracao_s": 398,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=hLoult8z-7s"
-     },
-     {
-      "id": "sKHB1J4zvg4",
-      "titulo": "💣🔴⚫ AGORA COMPLICOU! Plata tem corte SURPRESA e Cruzeiro prepara investida por Viña!",
-      "canal": "Nação - Outro Patamar ",
-      "views": 7,
+      "id": "s6cT7O-5lGM",
+      "titulo": "🔥SEEDORF CONFIRMA: “GARRO FORA CONTRA BOTAFOGO\" #corinthianshoje",
+      "canal": "Trincheira Corinthians",
+      "views": 143,
       "likes": 2,
       "comentarios": 0,
-      "publicado": "2026-11-16T19:55:27Z",
-      "duracao_s": 488,
+      "publicado": "2026-11-17T18:45:06Z",
+      "duracao_s": 14,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=sKHB1J4zvg4"
+      "url": "https://www.youtube.com/watch?v=s6cT7O-5lGM"
+     },
+     {
+      "id": "3euu6PzAkdM",
+      "titulo": "SEEDORF CONFIRMA AUSÊNCIA DE GARRO NO JOGO CONTRA O BOTAFOGO",
+      "canal": "Esporte na Band",
+      "views": 39,
+      "likes": 3,
+      "comentarios": 0,
+      "publicado": "2026-11-17T17:14:32Z",
+      "duracao_s": 247,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=3euu6PzAkdM"
      }
     ],
-    "consulta": "Flamengo Equador Plata Gonzalo",
-    "n_videos": 5,
+    "consulta": "Corinthians Seedorf Garro confirma",
+    "n_videos": 4,
     "mais_de": false,
-    "views": 4027,
+    "views": 932,
     "top": [
      {
-      "titulo": "GONZALO PLATA DESCONVOCADO POR MOTIVOS PESSOAIS E RETORNA AO RIO PARA SE APRESENTAR AO FLAMENGO!",
-      "canal": "Paparazzo Rubro-Negro",
-      "views": 2771,
-      "url": "https://www.youtube.com/watch?v=_CZpvh1bbpw",
-      "publicado": "2026-11-16T18:59:34Z",
+      "titulo": "DESFALQUE!Seedorf confirma ausência de Rodrigo Garro contra o Botafogo.#corinthians",
+      "canal": "Na Barreira | Futebol",
+      "views": 566,
+      "url": "https://www.youtube.com/watch?v=RJk3PR27rCE",
+      "publicado": "2026-11-17T17:51:25Z",
       "do_canal": false
      },
      {
-      "titulo": "O golpe do Equador contra o Flamengo antes da decisão#flamengo",
-      "canal": "Flarádio ",
-      "views": 853,
-      "url": "https://www.youtube.com/watch?v=8AZELUk5qpk",
-      "publicado": "2026-11-15T19:32:09Z",
+      "titulo": "Seedorf confirma desfalque de Garro no jogo do Corinthians contra o Botafogo! ##timão #fiel #futebol",
+      "canal": "fielfanatics",
+      "views": 184,
+      "url": "https://www.youtube.com/watch?v=eZ4eNiU9Gd8",
+      "publicado": "2026-11-17T19:09:08Z",
       "do_canal": false
      },
      {
-      "titulo": "Migue! Liberado da Seleção Equatoriana por \"motivos pessoais\"",
-      "canal": "Aqui é Flamengo",
-      "views": 361,
-      "url": "https://www.youtube.com/watch?v=5xNxKKNRxnE",
-      "publicado": "2026-11-16T20:06:57Z",
+      "titulo": "🔥SEEDORF CONFIRMA: “GARRO FORA CONTRA BOTAFOGO\" #corinthianshoje",
+      "canal": "Trincheira Corinthians",
+      "views": 143,
+      "url": "https://www.youtube.com/watch?v=s6cT7O-5lGM",
+      "publicado": "2026-11-17T18:45:06Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "Raniele desabafa sobre crise no Corinthians: \"Trabalhar com polêmica é maçante\"",
-   "categoria": "Polêmica e bastidor",
+   "tema": "Empresário de Gabigol abre o jogo sobre possível retorno ao Flamengo",
+   "categoria": "Notícia do dia",
    "clubes": [
-    "Corinthians"
+    "Flamengo"
    ],
    "foco": true,
-   "nota": 80.5,
+   "nota": 76.0,
    "sinais": {
     "busca": 70,
-    "aceleracao": 100,
-    "midia": 67,
+    "aceleracao": 85,
+    "midia": 46,
     "aderencia": 100,
-    "youtube": 65
+    "youtube": 77
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "raniele corinthians",
+   "busca_torcedor": "gabigol vai voltar para o flamengo",
    "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 6,
-   "assinatura": "corin|ranie|desab|traba",
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "abre|gabig|jogo|possi",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "O torcedor está digitando “raniele corinthians” no Google agora. A resposta não é tão simples.",
-    "titulo_thumb": "VOCÊ PESQUISOU",
-    "pergunta_enquete": "Qual sua opinião: Raniele desabafa sobre crise no Corinthians: \"Trabalhar com polêmica é maçante\"?",
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "66 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
+    "titulo_thumb": "TODO MUNDO VIU",
+    "pergunta_enquete": "Qual sua opinião: Empresário de Gabigol abre o jogo sobre possível retorno ao Flamengo?",
     "tecnica": "Dado",
     "ganchos": [
      {
       "tecnica": "Dado",
-      "texto": "O torcedor está digitando “raniele corinthians” no Google agora. A resposta não é tão simples.",
-      "thumb": "VOCÊ PESQUISOU"
+      "texto": "66 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
+      "thumb": "TODO MUNDO VIU"
      },
      {
       "tecnica": "Conflito",
-      "texto": "Raniele desabafa sobre crise no Corinthians. Tem gente no Corinthians puxando para lados opostos, e essa conta chega no campo.",
+      "texto": "Empresário de Gabigol abre o jogo sobre possível retorno ao Flamengo. Por trás disso, tem dois lados que não querem a mesma coisa.",
       "thumb": "QUEM TEM RAZÃO?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Raniele desabafa sobre crise no Corinthians. Era para ser uma decisão simples. Virou a maior confusão da semana.",
+      "texto": "Empresário de Gabigol abre o jogo sobre possível retorno ao Flamengo. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Raniele desabafa sobre crise no Corinthians. Quem ganha com essa confusão? Pensa bem antes de responder.",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Raniele desabafa sobre crise no Corinthians. Eu aposto que [SEU PALPITE]. Se eu acertar, você me deve um like.",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Raniele desabafa sobre crise no Corinthians e salários atrasados",
-     "fonte": "Band",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSGdicF9BVHFkQTFfZjAzeDd6c2pVM24wWDdzYk16QTJ1clR2MGhpVXdyVVJ0MnlQY3EzNktHU3lqVXUxWVFYbUJBTW1ldmhhZlZ3ckRZa0J0cUlaWGdDRTRqMXZjLUZ6elNCSnhVa0ttOGtTMVBha09vUjNCZ2VpVVFURnZJTVFjWGs1VTdieFZUV3VGa0pYZnRhRlVxOGo4MGQxdzVjdmMyUDFscW51NkZPam9od0dsb0VWajRBYnk?oc=5"
-    },
-    {
-     "titulo": "Raniele faz diagnóstico da má fase do Corinthians: \"Trabalhar com polêmica todo dia é maçante\"",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUWU1T21OQVFEVlV5Yy1nb3UyblhyVnhJMHRWSDNja1RqTHFnU2FpM1Vvd0ptN1ZBeG91emtXbFZDYU03SGZaSGdlQ3pmUndmdExWUk5wTGdOR2xYQzdHc1gwU3ZhNmFsZHNxMmpnTVJ5dm1MNGd1WTV6anA5YnczZDhzYUdoWVE0RkhNckdVaktBZ0xjNXdRMlFxRnZ3RW9xQUhDVjZDTXVEcXNvSEp1YkN0cnZ4MGZYcjVVRHJHY0g0Y3dCZzc0NTNqbGpuQdIB3AFBVV95cUxNcHNKejlqQ0puZ2xTMTRqZTVzZ2ItdFEtUXliM2toek4wR0U4R1pEd090UTl2SC1DLU0xTnlmb1RTcTFhM1lqeF9KNW96WDhJLTZQUHozamZKMTlEYXN4Q19zU0JxZ0lsY3REaUpOOFdrdU5PcDVWZUtwUkllSVJDT1VPVTJTY0Q3MGF0NTNpX3hrMWotWHotYTdkNXFQUXZzMHRSSkFjZVBQd0RTZWZRR0tiNks4RGZpdlp0ODI5VG9NdllKc2c1MUI5b2RQSng5SXRVQndtOG0xTUFK?oc=5"
-    },
-    {
-     "titulo": "Raniele desabafa sobre lesão no Corinthians: 'Dói falarem que é corpo mole'",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EVUhWVlltRFgxSWhMQW9kS0NENzU4dk1vMW0xRzBMUTR4Vk9kRFJMUE14NWk1WEwwaGhleDhGQ01kTFhGLXdlYmpVUXFhOHE4bmRpQjBHOEJZWEZVSWc?oc=5"
-    },
-    {
-     "titulo": "“É UMA VERGONHA!” Raniele desabafa sobre momento do Corinthians e salários atrasados",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObzVsR2paWTBBM3ZqaDB6WFY0R0l0cldzYkp0ajA1STNuakFRUW1CSTlXQkU3YWtmOWxGRENjSnVBcjVpd1ZHX2NtX0ZuS2RDeFR2VW1STHE0QW0tWVJLLUlvOGlJVVp3bE9fTnp2Ri1LTkNCbDBKNnpFNUpDdG9BaG1YNGE1aXRweGRJYzRyVEttaHZSNXNCMVlPQmpQQUxSanVtbkFocjM0X2xLNk9QUktfZw?oc=5"
-    },
-    {
-     "titulo": "Raniele desabafa sobre crise no Corinthians: \"Trabalhar com polêmica é maçante\"",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeUhuY2YxU01tdDdZaXNGOGtnS1U2dEdVR1VYYkpyYkc3dk5LZnVLRUV0UzJKR3d3ZWlpMERHeko2VmdXNnhtbnhOZEJsNC04eEU0TE9VUjBzRGh4cTNLZm5QRHRNaXZFZmV6SXhvdWxtc09rem9fQUJHSkxGTDVobzJTV3RTTzZrdVNZOXhIcWRheGFYWWxLRWlXLTRhTnRZV3FBNGNhVE1DcGZWODJCU1dBM1o1WHZMZWF3MXo3ZVE0NFkwWEVxeXdzQ3FZUWZjcnBHSUoxLUc0YTRkaVp5U1l30gHwAUFVX3lxTE5ibmE1NlE5QzRzSF9MNFRQTVA3U1Jhdl95Tkt2VDRaWS16WWdOdU9pSTJuR3NQcXczVWIxWU5COER2MjVSYjRYcUxvWUM4U2pOcVZPSEhqYmlrZ0hZS2ZTZy1uMm9ldTVPYkdRY1lGZE10RXNSN0djb3lTYk9WRmFsWWFSTWR6TmZTa2o4NkJsYzY0RkNiR0VlUXY3aF93RFlsZHc5TExaNFRnMFJvaHl2NEhBU2s0aHA5b2ZhLUhFaGZCS2tfM0pwNXQ2VktJRzVlS1EtOGdkdnB2NVRKZjB5X0pRNmgxTkxRMUtPMmRrSw?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "BVW7JCXbAW8",
-      "titulo": "\"UMA VERGONHA!\": Raniele desabafa sobre risco de queda no Corinthians! #corinthians",
-      "canal": "Corinthians Fut Gols",
-      "views": 4277,
-      "likes": 166,
-      "comentarios": 3,
-      "publicado": "2026-11-16T16:28:37Z",
-      "duracao_s": 34,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=BVW7JCXbAW8"
-     },
-     {
-      "id": "5FvJ4kg50cc",
-      "titulo": "RANIELE DESABAFA SOBRE O POTENCIAL QUE A GRANDEZA DO CORINTHIANS TEM",
-      "canal": "IDENTIDADE CORINTHIANA",
-      "views": 1739,
-      "likes": 129,
-      "comentarios": 5,
-      "publicado": "2026-11-16T17:07:41Z",
-      "duracao_s": 94,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=5FvJ4kg50cc"
-     },
-     {
-      "id": "BS8v0fgHNMM",
-      "titulo": "RANIELE DESABAFA SOBRE FASE DO CORINTHIANS: 'POSIÇÃO NA TABELA INCOMODA MAIS QUE SALÁRIOS ATRASADOS'",
-      "canal": "UOL Esporte",
-      "views": 747,
-      "likes": 10,
-      "comentarios": 0,
-      "publicado": "2026-11-16T18:05:00Z",
-      "duracao_s": 585,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=BS8v0fgHNMM"
-     },
-     {
-      "id": "Y4oh38q4pBg",
-      "titulo": "\"É UMA VERGONHA!\" Raniele desabafa sobre momento do Corinthians e salários atrasados",
-      "canal": "Lance!",
-      "views": 581,
-      "likes": 11,
-      "comentarios": 0,
-      "publicado": "2026-11-16T17:16:46Z",
-      "duracao_s": 35,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Y4oh38q4pBg"
-     },
-     {
-      "id": "TmeBHWcVrRo",
-      "titulo": "Raniele rebate corpo mole no Corinthians: elenco joga com dor",
-      "canal": "Dossiê da Fiel",
-      "views": 408,
-      "likes": 5,
-      "comentarios": 0,
-      "publicado": "2026-11-16T20:00:02Z",
-      "duracao_s": 26,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=TmeBHWcVrRo"
-     },
-     {
-      "id": "zfhHbPPB-WM",
-      "titulo": "RANIELE DESABAFA SOBRE RELAÇÃO COM MEMPHIS NO CORINTHIANS: \"EM QUE MUNDO VOCÊS VIVEM?\"",
-      "canal": "Itatiaia Esporte",
-      "views": 159,
-      "likes": 12,
-      "comentarios": 1,
-      "publicado": "2026-11-16T19:35:25Z",
-      "duracao_s": 105,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=zfhHbPPB-WM"
-     },
-     {
-      "id": "pcrOPUK1paE",
-      "titulo": "RANIELE DESABAFA E DIZ QUE O CORINTHIANS TEM POTENCIAL GIGANTESCO OFUSCADO POR ALGUNS",
-      "canal": "16.18 Scores",
-      "views": 60,
-      "likes": 1,
-      "comentarios": 0,
-      "publicado": "2026-11-16T20:02:33Z",
-      "duracao_s": 10,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=pcrOPUK1paE"
-     }
-    ],
-    "consulta": "Corinthians Raniele desabafa Trabalhar",
-    "n_videos": 7,
-    "mais_de": false,
-    "views": 7971,
-    "top": [
-     {
-      "titulo": "\"UMA VERGONHA!\": Raniele desabafa sobre risco de queda no Corinthians! #corinthians",
-      "canal": "Corinthians Fut Gols",
-      "views": 4277,
-      "url": "https://www.youtube.com/watch?v=BVW7JCXbAW8",
-      "publicado": "2026-11-16T16:28:37Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "RANIELE DESABAFA SOBRE O POTENCIAL QUE A GRANDEZA DO CORINTHIANS TEM",
-      "canal": "IDENTIDADE CORINTHIANA",
-      "views": 1739,
-      "url": "https://www.youtube.com/watch?v=5FvJ4kg50cc",
-      "publicado": "2026-11-16T17:07:41Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "RANIELE DESABAFA SOBRE FASE DO CORINTHIANS: 'POSIÇÃO NA TABELA INCOMODA MAIS QUE SALÁRIOS ATRASADOS'",
-      "canal": "UOL Esporte",
-      "views": 747,
-      "url": "https://www.youtube.com/watch?v=BS8v0fgHNMM",
-      "publicado": "2026-11-16T18:05:00Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Paquetá volta aos treinamentos e deve reforçar o meio-campo do Flamengo contra o Athletico-PR",
-   "categoria": "Mercado da bola",
-   "clubes": [
-    "Flamengo"
-   ],
-   "foco": true,
-   "nota": 74.3,
-   "sinais": {
-    "busca": 60,
-    "aceleracao": 84,
-    "midia": 67,
-    "aderencia": 100,
-    "youtube": 65
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "athletico-pr x flamengo",
-   "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 4,
-   "assinatura": "refor|athle|flame|paque",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 3 min)",
-    "gancho": "Paquetá volta aos treinamentos e deve reforçar o meio-campo do Flamengo contra o Athletico-PR. Torcida empolgada de um lado, diretoria fazendo conta do outro.",
-    "titulo_thumb": "FLAMENGO x ATHLETICO-PR",
-    "pergunta_enquete": "Qual sua opinião: Paquetá volta aos treinamentos e deve reforçar o meio-campo do Flamengo contra o Athletico?",
-    "tecnica": "Conflito",
-    "ganchos": [
-     {
-      "tecnica": "Conflito",
-      "texto": "Paquetá volta aos treinamentos e deve reforçar o meio-campo do Flamengo contra o Athletico-PR. Torcida empolgada de um lado, diretoria fazendo conta do outro.",
-      "thumb": "FLAMENGO x ATHLETICO-PR"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Paquetá volta aos treinamentos e deve reforçar o meio-campo do Flamengo contra o Athletico-PR. Parece um grande negócio. Olhando de perto, não é bem assim.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Paquetá volta aos treinamentos e deve reforçar o meio-campo do Flamengo contra o Athletico-PR. Se isso sair, quem perde espaço no elenco?",
+      "texto": "Empresário de Gabigol abre o jogo sobre possível retorno ao Flamengo. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
       "thumb": "E AGORA, FLAMENGO?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Minha aposta é que essa novela do Flamengo termina [SEU PALPITE]. Guarda esse vídeo.",
+      "texto": "Empresário de Gabigol abre o jogo sobre possível retorno ao Flamengo. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
       "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "“athletico-pr x flamengo”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Flamengo deve ter reforço importante para decisão contra o Athletico-PR",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYkNscXlCTXhvS3lJd2gwdUhyZE9VR21SbnR6cDFRcS1tX2dDckpQYVVqaHJsTkw3aXVGeFVmVjBldXlnQzluQ3BxXzU4b0J6blRkcEJ5cWxYTE1RUW9UUDh3cm1PbkloZDN3WEpQS1B0YWp0RERWTFBvMWtXX2FpMVM2NTg3eG55QngyaXB0MlVJdndvY3VpNmJKcV9nYnBhV1Fncy1HOG9PYXZhS3lxbFd2bXFHSUZVYnIxaUlhNnFGbnpad2c?oc=5"
+     "titulo": "EMPRESÁRIO DE GABIGOL ABRE O JOGO À ESPN SOBRE POSSÍVEL RETORNO DO ATACANTE AO FLAMENGO!",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoUDJsRzJiTEJ5Znc2WDY5alFvSk51RjV4cFFScXRtMU13SWVvbUhNTUxzcnJ6dlJvNk9xalVEUHljX2dBdmZYb0ZmYkMydk5odHI1X2N3?oc=5"
     },
     {
-     "titulo": "Paquetá pode reforçar o Flamengo contra o Athletico? Veja situação",
+     "titulo": "Empresário de Gabigol abre o jogo sobre possível retorno ao Flamengo",
      "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDZBck9KRHhaekJmNkFDdWt0WHVQNzlXNHNiQmkwb2pkX2F3Um0zdmdENmpyZlBZd2xPcGt2S2RDOUZKeEFMbjluYmJRNXlQYldCVENQRkZReTJhTnN6THpIbEc2Y3dHVUlNWEQ1QXNzUjVpTFRzaEhReGVETk9GMW1FaFYwcHBENVZSOC1HUmhpbzV1YXlNNmNBWmdJZjdTSnhnVkxIVU1Ib0xuRld1NElYblg?oc=5"
-    },
-    {
-     "titulo": "Paquetá volta aos treinamentos e deve reforçar o meio-campo do Flamengo contra o Athletico-PR",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONHd5cGt3Y3RPTFZtTW5QaXhNczd5UXd1Y3B3WHU2TnlFLXNJTGxXWDBOdDlNaUkycGxtY1R5bWZZbEVRUE9xNWpYZHU4UEJaM1JmNnExSG15RG9mT093Sk5Cand4bVpqbzI1OGJfenVFbnhVQS16a2NIQzFhZjJZTlEyWTRPMGxsbzR4U29TdGFoSUZCLXV5RkVpVUw0d085OE9TVFF0MWk2VDc2LVpWbHY3YVpudlpjbjUyT3pqejN2TjU1Z01rMGxBMDZEajBlRUxudmtjU3hBMk4yNFJmb0pyY0xMbFJrZXdiT20wREpRRXV3TXpZ?oc=5"
-    },
-    {
-     "titulo": "Paquetá volta aos treinos e tem chance de reforçar o Flamengo contra o Athletico-PR",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUk1BZHlzd2dINDRjT1NDdVowZk1pM2FFU0pwLVpJaWRkTUx6VmV1ZG5vSndVcFM1eWxESmhzOENRa21XSUNWZnpOZVB2M2ZkY2NEaHFWU0QtYUR5dG4wdmtDWUtwVl9UcmthUmNxN3p6T3Y4ak9USnQtN2xxMGd2LXNlOEw2SlpUM0wxQUUwbXhRdW9lMGR6SkR5WWcwYTVQNkpLYnUwYjd5WGJKa3JZd2Q2cmx5VG1qYVVXOE8xS1p4TGNoZUNWVXJsNEpNZWpGS3lBVTU5ODlGZVl5aVJGbGFOdFVrTjjSAfYBQVVfeXFMTzAwWU1Cb2ZycnhQN3AtV2U4RU1qa1lQRnh1Ql9vdk04YmxMaUZxbGRsTWR2VFRORHk1MjNIQmliOWxNNEY4QjB1bmpJTC01Q2RHb3BiaWFxNlRXaU94cXlFb0c2V1lyR05lSjdzRkdWVjA3VjNNOFVDOEtNbUFCODFZcnh1WXVxOVVpT2xmck4xNGNNdEhKUzdSeEZEUGpwb2hJeWt0VXNzQUlGeGlMcmMwWXpzUndaaTJaUzRxN0xyeGRVOTlya0lzdXRzQ2tfTVRidW92STd3Mk9Fb0FxNk84THZ2b3RGd0daeGozMVgtV19reFNR?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc0VHdWpOa0hDbXp1UzBIeklrR0hmZUlKRnFDbEJDSVpOcTdia3BwU0ZrUXBjalBKUU96X1ExY0JyNTNsdS1JZGxRbDBVOEVBRkFia1JJaHVxa0x1TXdrSy1wR0FCZmtZRU5pUUdia3ZSd2x3OVdiTi04aDNRbXpTNVVSSlprUHF2Q042cF9YUm92d3lDcmxkeWlGQU8ySEVWYjdZMGtJMXJNd1k?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "f1HwRKl50vY",
-      "titulo": "ÚLTIMAS NOTÍCIAS! FLAMENGO X ATHLETICO-PR! PAQUETÁ É DÚVIDA! PALMEIRAS E CRUZEIRO COM DESFALQUES! 📱",
-      "canal": "Juliano Braga Fla",
-      "views": 32253,
-      "likes": 45,
+      "id": "trJ6xZd3YLw",
+      "titulo": "ENTREVISTA COM EMPRESÁRIO DE GABIGOL | ORÇAMENTO DO FLAMENGO | SAÍDA NO CORINTHIANS? | FALA A FONTE",
+      "canal": "ESPN Brasil",
+      "views": 58050,
+      "likes": 1001,
       "comentarios": 0,
-      "publicado": "2026-11-16T19:31:41Z",
-      "duracao_s": 7309,
+      "publicado": "2026-11-17T16:06:56Z",
+      "duracao_s": 5971,
       "live": true,
-      "url": "https://www.youtube.com/watch?v=f1HwRKl50vY"
+      "url": "https://www.youtube.com/watch?v=trJ6xZd3YLw"
      },
      {
-      "id": "Ck5mMRJjsK8",
-      "titulo": "ÚLTIMAS NOTÍCIAS! FLAMENGO X ATHLETICO-PR! PAQUETÁ É DÚVIDA! PALMEIRAS E CRUZEIRO COM DESFALQUES!",
-      "canal": "Juliano Braga Fla",
-      "views": 869,
-      "likes": 20,
-      "comentarios": 0,
-      "publicado": "2026-11-16T15:13:04Z",
-      "duracao_s": 7309,
+      "id": "QMw1tOVpZ2c",
+      "titulo": "EMPRESÁRIO DE GABIGOL ABRE O JOGO À ESPN SOBRE POSSÍVEL RETORNO DO ATACANTE AO FLAMENGO!",
+      "canal": "Paparazzo Rubro-Negro",
+      "views": 2688,
+      "likes": 211,
+      "comentarios": 9,
+      "publicado": "2026-11-17T17:56:08Z",
+      "duracao_s": 73,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=QMw1tOVpZ2c"
+     },
+     {
+      "id": "JnnKC2Xi3UA",
+      "titulo": "EXCLUSIVO: GABIGOL DE VOLTA AO FLAMENGO? RENOVA COM O SANTOS? EMPRESÁRIO ABRE O JOGO | FALA A FONTE",
+      "canal": "ESPN Brasil",
+      "views": 2172,
+      "likes": 54,
+      "comentarios": 3,
+      "publicado": "2026-11-17T16:08:24Z",
+      "duracao_s": 869,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=JnnKC2Xi3UA"
+     },
+     {
+      "id": "cAkGPNsrs2g",
+      "titulo": "🚨🚨👀 EMPRESÁRIO DE GABIGOL FALA SOBRE SUA POSSÍVEL VOLTA AO FLA ! #flamengo #gabigol",
+      "canal": "Fla Nação VVP / Flamengo",
+      "views": 1337,
+      "likes": 108,
+      "comentarios": 1,
+      "publicado": "2026-11-17T16:03:39Z",
+      "duracao_s": 61,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=cAkGPNsrs2g"
+     },
+     {
+      "id": "vj1iA20VA4Y",
+      "titulo": "🚨 GABIGOL QUER O FLAMENGO?! EMPRESÁRIO ABRE JOGO! TODA A VERDADE SOBRE DAVID NERES E SAMUEL LINO 🔴⚫",
+      "canal": "Fla Nação VVP / Flamengo",
+      "views": 1237,
+      "likes": 416,
+      "comentarios": 4,
+      "publicado": "2026-11-17T18:35:08Z",
+      "duracao_s": 838,
       "live": true,
-      "url": "https://www.youtube.com/watch?v=Ck5mMRJjsK8"
+      "url": "https://www.youtube.com/watch?v=vj1iA20VA4Y"
+     },
+     {
+      "id": "ti_fKno_Ixc",
+      "titulo": "🚨 GABIGOL NO FLAMENGO?Empresário do atacante, Júnior Pedroso revela pedido de Gabigol #shorts",
+      "canal": "Aloha Fla",
+      "views": 634,
+      "likes": 28,
+      "comentarios": 2,
+      "publicado": "2026-11-17T18:05:13Z",
+      "duracao_s": 67,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=ti_fKno_Ixc"
+     },
+     {
+      "id": "6CzSdRFgSy0",
+      "titulo": "💣🔥 EMPRESÁRIO DE GABIGOL ABRIU A BOCA SOBRE POLÊMICAS! FLAMENGO, SANTOS OU CRUZEIRO? ",
+      "canal": "BRAZUCA TV",
+      "views": 251,
+      "likes": 21,
+      "comentarios": 0,
+      "publicado": "2026-11-17T16:28:19Z",
+      "duracao_s": 528,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=6CzSdRFgSy0"
+     },
+     {
+      "id": "ozhWPikUlhE",
+      "titulo": "EMPRESÁRIO DE GABIGOL FALA SOBRE O FUTURO DO SEU ATLETA E TAMBÉM SOBRE FLAMENGO! VEJA! 👀",
+      "canal": "Flamenguista Realista",
+      "views": 42,
+      "likes": 4,
+      "comentarios": 0,
+      "publicado": "2026-11-17T19:11:30Z",
+      "duracao_s": 167,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=ozhWPikUlhE"
      }
     ],
-    "consulta": "Flamengo reforçar Paquetá",
-    "n_videos": 2,
+    "consulta": "Flamengo Empresário Gabigol",
+    "n_videos": 8,
     "mais_de": false,
-    "views": 33122,
+    "views": 66411,
     "top": [
      {
-      "titulo": "ÚLTIMAS NOTÍCIAS! FLAMENGO X ATHLETICO-PR! PAQUETÁ É DÚVIDA! PALMEIRAS E CRUZEIRO COM DESFALQUES! 📱",
-      "canal": "Juliano Braga Fla",
-      "views": 32253,
-      "url": "https://www.youtube.com/watch?v=f1HwRKl50vY",
-      "publicado": "2026-11-16T19:31:41Z",
+      "titulo": "ENTREVISTA COM EMPRESÁRIO DE GABIGOL | ORÇAMENTO DO FLAMENGO | SAÍDA NO CORINTHIANS? | FALA A FONTE",
+      "canal": "ESPN Brasil",
+      "views": 58050,
+      "url": "https://www.youtube.com/watch?v=trJ6xZd3YLw",
+      "publicado": "2026-11-17T16:06:56Z",
       "do_canal": false
      },
      {
-      "titulo": "ÚLTIMAS NOTÍCIAS! FLAMENGO X ATHLETICO-PR! PAQUETÁ É DÚVIDA! PALMEIRAS E CRUZEIRO COM DESFALQUES!",
-      "canal": "Juliano Braga Fla",
-      "views": 869,
-      "url": "https://www.youtube.com/watch?v=Ck5mMRJjsK8",
-      "publicado": "2026-11-16T15:13:04Z",
+      "titulo": "EMPRESÁRIO DE GABIGOL ABRE O JOGO À ESPN SOBRE POSSÍVEL RETORNO DO ATACANTE AO FLAMENGO!",
+      "canal": "Paparazzo Rubro-Negro",
+      "views": 2688,
+      "url": "https://www.youtube.com/watch?v=QMw1tOVpZ2c",
+      "publicado": "2026-11-17T17:56:08Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "EXCLUSIVO: GABIGOL DE VOLTA AO FLAMENGO? RENOVA COM O SANTOS? EMPRESÁRIO ABRE O JOGO | FALA A FONTE",
+      "canal": "ESPN Brasil",
+      "views": 2172,
+      "url": "https://www.youtube.com/watch?v=JnnKC2Xi3UA",
+      "publicado": "2026-11-17T16:08:24Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "Flamengo mostra novo campo do Ninho do Urubu feito com a nova grama do Maracanã; veja fotos",
+   "tema": "Gustavo Gómez marca, e Paraguai vence Japão em amistoso; Maurício entra no fim",
    "categoria": "Jogo e resultado",
    "clubes": [
-    "Flamengo"
+    "Palmeiras"
    ],
    "foco": true,
-   "nota": 74.2,
+   "nota": 72.5,
    "sinais": {
-    "busca": 60,
-    "aceleracao": 89,
-    "midia": 81,
+    "busca": 0,
+    "aceleracao": 94,
+    "midia": 67,
     "aderencia": 100,
-    "youtube": 0
+    "youtube": 70
    },
    "fator_categoria": 1.146,
    "trafego_google": 0,
-   "busca_torcedor": "athletico-pr x flamengo",
+   "busca_torcedor": null,
    "termos_trends": [],
-   "n_fontes": 6,
-   "n_manchetes": 7,
-   "assinatura": "flame|ninho|urubu|campo",
+   "n_fontes": 4,
+   "n_manchetes": 4,
+   "assinatura": "gomez|marca|gusta|amist",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Flamengo mostra novo campo do Ninho do Urubu feito com a nova grama do Maracanã. Parece que está tudo resolvido. No futebol, quase nunca está.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Flamengo mostra novo campo do Ninho do Urubu feito com a nova grama do Maracanã; veja foto?",
-    "tecnica": "Contradição",
+    "gancho": "Gustavo Gómez marca, e Paraguai vence Japão em amistoso. Dentro de campo acabou. Fora dele, a discussão está só começando.",
+    "titulo_thumb": "QUEM TEM RAZÃO?",
+    "pergunta_enquete": "Qual sua opinião: Gustavo Gómez marca, e Paraguai vence Japão em amistoso; Maurício entra no fim?",
+    "tecnica": "Conflito",
     "ganchos": [
      {
+      "tecnica": "Conflito",
+      "texto": "Gustavo Gómez marca, e Paraguai vence Japão em amistoso. Dentro de campo acabou. Fora dele, a discussão está só começando.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
       "tecnica": "Contradição",
-      "texto": "Flamengo mostra novo campo do Ninho do Urubu feito com a nova grama do Maracanã. Parece que está tudo resolvido. No futebol, quase nunca está.",
+      "texto": "Gustavo Gómez marca, e Paraguai vence Japão em amistoso. Todo mundo vai olhar o resultado; eu vou mostrar o que ele esconde.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "O que o Flamengo precisa fazer para vencer esse jogo?",
+      "texto": "Gustavo Gómez marca, e Paraguai vence Japão em amistoso. Foi mérito de quem venceu ou erro de quem perdeu?",
+      "thumb": "E AGORA, PALMEIRAS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Gustavo Gómez marca, e Paraguai vence Japão em amistoso. Eu aposto que esse resultado vai pesar lá na frente. Você concorda?",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "29 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
+      "thumb": "TODO MUNDO VIU"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Gustavo Gómez, do Palmeiras, marca gol em vitória do Paraguai sobre o Japão em amistoso",
+     "fonte": "VEJA",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWo3bk5SbGhWa01FMEJFcVRYUWlxaVptZmVLZ2hFTXJ1ZjUtcGNwRjVmOG5pb3JXSmd3VUdady1ZeWx3UjFwYXcwVFdpUmRBckRHWUVSTzNON1ZLOFVLVmxjNjM2ZnpkQk5scGN3RFBUTElOUW5aTUVsa3pMdHdmYW5NelNta0FFMEpwekVDOVBldTZWb04xVmV1Yks4YUlVVEVGVEhUQ2FCbHhNcWFCV3JvdkJrU3hzczdLZQ?oc=5"
+    },
+    {
+     "titulo": "Gustavo Gómez marca, e Paraguai vence Japão em amistoso; Maurício entra no fim",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcHJBTTJSbkZXWFcyOEI0RVQ2VS0waDVyaWJ6S1BkOTRUX3dvc1Y0UDducDJ6RGlUV3A1bmhYZnp3c0tmMkdRcktOZmZPMnFfY0Q0dDZNX3RGRjhLM3FXWE5tVDlzLXVpV3UyeEMtWGwzUC1yS1l3eG44SWZGaVQyN3dhOE1WMjlCaE9pUUxYaXRDaGVqLXhYcHRJY1ZiVjYyVXZlUA?oc=5"
+    },
+    {
+     "titulo": "Convocados do Palmeiras: Gómez marca, e Mauricio inicia como reserva",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVlg2ZWxVWWdvRjYxQjJHTDVQbU5jRXpTd3RYanpBWFNuMkIyem9aT0lscVA4MG94dnp5ZGMwQUthVmJtRjJ3TDdieHZPVU9QcDhzY2hMLXdYV2d0SUlXdVk2ZXpGSlJDNktpNktxek1qaHBzTVR0Szh2UzdGaC1DN0VfbkhKSkk0Z0VYNGZmUlJwU05KUE53emd5c3R6LTBrYVRZSXl2elRJZw?oc=5"
+    },
+    {
+     "titulo": "Gustavo Gómez marca, e Paraguai vence o Japão em amistoso",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ3ZRMmdFa193Z2ZJSVltcFd2OW1UaVd1Y0RyRVk3V0c1NHJjMTgxN2gwZFJSVC1WVGhBVGZMN3BVc2x0LUdpX1F0blhDZzZGNXk4UUZvZGJrQ3YxaXk2Q1Qyb2RkbHE1clZmcndheXJDV3VrdkpXTjhpamJsTkY3aDRIMTJYdlRWZ2pTMjVRczFJRUNRVlZIMFBaNWY1UXp1WWZWMF9JalEtRlJUeFF5Y3lzS0hMUEhqQzNsMEk5MkgyUE8zbDZXUXgxWkh1M29WRDV4RFl6SXrSAecBQVVfeXFMTzNrRVB1Qml0RmF3WEJhLTN0aTRORWZVT1NzWW5RMVlCMjBacDFwdjNza2dwNjZtTzNJTmZfZzZTT1hNbk45Q0xneUFmUXAtQ014bWZqYUFKN1hIY1NTMUV5VEtxUXdNSXhpUUFvdldkMlpiVDJkbFF3R2Y1TGphOGQ5dEd4MnhwVm84YS1PTkZTQjJLa1pCSHpQQ2pmdVBTUXFtQm5TMFljcldPQ3l3MzdTZ0dTcTB4N3p4b3BVTUZReGhzSGwtR2VXdVpqVklsSkVqVTJid19hVy12NUd5a0J3UkREVUtB?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "cVq_ydIlRTc",
+      "titulo": "GUSTAVO GÓMEZ MARCA PELO PARAGUAI NA DATA FIFA! #palmeiras #avantipalestra",
+      "canal": "Podporco",
+      "views": 15727,
+      "likes": 1847,
+      "comentarios": 46,
+      "publicado": "2026-11-17T14:20:45Z",
+      "duracao_s": 50,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=cVq_ydIlRTc"
+     },
+     {
+      "id": "LzU9oF-Yd38",
+      "titulo": "Gol de Gustavo Gómez contra o Japão 👏 #palmeiras #datafifa #paraguai",
+      "canal": "Mídia do Palestra",
+      "views": 10059,
+      "likes": 583,
+      "comentarios": 7,
+      "publicado": "2026-11-17T14:57:21Z",
+      "duracao_s": 24,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=LzU9oF-Yd38"
+     },
+     {
+      "id": "Xu_l-pE0PIQ",
+      "titulo": "GUSTAVO GOMEZ BRILHOU NA VITÓRIA DO PARAGUAI CONTRA O JAPÃO #palmeiras #libertadores",
+      "canal": "RAÇA VERDÃO",
+      "views": 2593,
+      "likes": 163,
+      "comentarios": 3,
+      "publicado": "2026-11-17T16:07:51Z",
+      "duracao_s": 15,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Xu_l-pE0PIQ"
+     },
+     {
+      "id": "QWRFcaVMx6Q",
+      "titulo": "Gustavo Gomez marca pro Paraguai contra o Japão",
+      "canal": "Canal Meu Palmeiras",
+      "views": 886,
+      "likes": 32,
+      "comentarios": 1,
+      "publicado": "2026-11-17T16:46:42Z",
+      "duracao_s": 51,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=QWRFcaVMx6Q"
+     },
+     {
+      "id": "YJumrf8XGbY",
+      "titulo": "Japão x Paraguai 1 x 2: Gómez do Palmeiras decide",
+      "canal": "Canchora",
+      "views": 103,
+      "likes": 2,
+      "comentarios": 1,
+      "publicado": "2026-11-17T19:18:59Z",
+      "duracao_s": 31,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=YJumrf8XGbY"
+     }
+    ],
+    "consulta": "Palmeiras Gómez marca Paraguai",
+    "n_videos": 5,
+    "mais_de": false,
+    "views": 29368,
+    "top": [
+     {
+      "titulo": "GUSTAVO GÓMEZ MARCA PELO PARAGUAI NA DATA FIFA! #palmeiras #avantipalestra",
+      "canal": "Podporco",
+      "views": 15727,
+      "url": "https://www.youtube.com/watch?v=cVq_ydIlRTc",
+      "publicado": "2026-11-17T14:20:45Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Gol de Gustavo Gómez contra o Japão 👏 #palmeiras #datafifa #paraguai",
+      "canal": "Mídia do Palestra",
+      "views": 10059,
+      "url": "https://www.youtube.com/watch?v=LzU9oF-Yd38",
+      "publicado": "2026-11-17T14:57:21Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "GUSTAVO GOMEZ BRILHOU NA VITÓRIA DO PARAGUAI CONTRA O JAPÃO #palmeiras #libertadores",
+      "canal": "RAÇA VERDÃO",
+      "views": 2593,
+      "url": "https://www.youtube.com/watch?v=Xu_l-pE0PIQ",
+      "publicado": "2026-11-17T16:07:51Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "MARICÁ RECEBE CLÁSSICO CARIOCA ENTRE FLAMENGO MARICÁ E BOTAFOGO NESTA QUARTA-FEIRA (18/11)",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Flamengo",
+    "Corinthians",
+    "Palmeiras",
+    "Botafogo",
+    "Cruzeiro"
+   ],
+   "foco": true,
+   "nota": 72.4,
+   "sinais": {
+    "busca": 55,
+    "aceleracao": 70,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": 49
+   },
+   "fator_categoria": 1.146,
+   "trafego_google": 0,
+   "busca_torcedor": "flamengo x cruzeiro",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "botaf|flame|receb|maric",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Maricá recebe clássico carioca entre flamengo maricá e botafogo nesta quarta-feira (18/11). Parece que está tudo resolvido. No futebol, quase nunca está.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
+    "pergunta_enquete": "Qual sua opinião: MARICÁ RECEBE CLÁSSICO CARIOCA ENTRE FLAMENGO MARICÁ E BOTAFOGO NESTA QUARTA-FEIRA (18/11)?",
+    "tecnica": "Contradição",
+    "ganchos": [
+     {
+      "tecnica": "Contradição",
+      "texto": "Maricá recebe clássico carioca entre flamengo maricá e botafogo nesta quarta-feira (18/11). Parece que está tudo resolvido. No futebol, quase nunca está.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Flamengo x Botafogo: qual é o detalhe que vai decidir?",
       "thumb": "E AGORA, FLAMENGO?"
      },
      {
@@ -1210,891 +1228,1232 @@
       "thumb": "MEU PALPITE"
      },
      {
-      "tecnica": "Dado",
-      "texto": "O torcedor está digitando “athletico-pr x flamengo” no Google agora. A resposta não é tão simples.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
       "tecnica": "Conflito",
-      "texto": "Flamengo mostra novo campo do Ninho do Urubu feito com a nova grama do Maracanã. Nem todo mundo no Flamengo vai gostar disso, e eu vou explicar por quê.",
-      "thumb": "QUEM TEM RAZÃO?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "De olho no próximo desafio, diante do Athletico-PR, o Flamengo realizou treino na manhã desta segunda-feira (16), no Ninho do Urubu. O Mengão enfrenta a equipe paranaense na quarta-feira (18), às 20:30, no Maracanã, pela 35ª rodada do Campeonato B",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Qd0pmcS1ISWxJa0dFOTdKOHl5Y2xDRjE0dVh6NVpCMUxfQlNqakgtVXFjdXVISFhQSm5Eb1ZORGVLa1pMVTdUd3I1dThGblpVeHc?oc=5"
-    },
-    {
-     "titulo": "CT do Flamengo ganha novo campo que será inaugurado em janeiro de 2027",
-     "fonte": "Metrópoles",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW1WdnVnampMQVlJRzBQVVBjalNiNVNHeTdxTkpJRlJjMFJ1WGlQZGxmaXVHTlB3ZWdSeTZSNGRmdkR5SUFralVGaDM1TFY5VWZiVlk0MDV2Z3B3TDNQSUd2Ri0xZWRQQlI5cENZNHBSd09wT1RSeFJWN25hMUJTYVMzTXAzRkpSQzYzQjV5bU00aXEta0tSdWZmVEpka3NUOFBOck5XWW0?oc=5"
-    },
-    {
-     "titulo": "Flamengo prepara novidade no Ninho do Urubu e terá mudança em 2027",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVkpVMm9vdEhCMkdwLW1IMkVtc3Y0N1dkQmllNy1rbGg0ckRISUdfY3k4cTJGUG1DV2taa2QzZHhoeWxHa2R3em5hUGhXdmYzeTVUSmJXYmI3MDVDYTIxNFB3M294WlVHSzBHZXZPWmE5aXJpNFVGUktmd1NDNEhPMVZvRHRhVmFrSUdoNXdXU1pJa3JXQjhrcDZDbjQtVHlPZEdjOExSZWJhUzV5VXJ1QlNiaw?oc=5"
-    },
-    {
-     "titulo": "Flamengo mostra novo campo do Ninho do Urubu feito com a nova grama do Maracanã; veja fotos",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNT2NuRmo1ck0tNWNjWHNJdHNTbDRhVmtFaVVTZUNPZFFibDFUTjJwc2tUamFwMWlUa3Y0X1QzSGNNS1ZvRzR1MTNpaVFmcHAtRS1EREhUTTNSS1hPRHJNYmFOZ3AtazZhNWJnWTR5YnBNOUlCTFdNNXdRNUxjVS04UWNQQi1Zc2NYdjBEQ3ZEcDRjczJjQlB0NmhkRnBCOHA5WmhVVU9uTHhOTDZqd1NWMlg0djFHUkd2OGFaWG9DazgwT1NtT2VRYXFrS0JXX1A2M1ZGZ2hyWEtmNnRjd3A3YXNncExpRGNvNTNraURkcjDSAf8BQVVfeXFMT2kzN3NRZ1p2SjRRQUI0Tm5YbGc1YjYwVnM2XzlScDNCd1VBUHprTlBGVUVOV3owdTRIajFoNGo5VFhUYU9FTjF2RFZPUk1ESjVDV2x6QmpOcHY3UUxBYTBTeTlnb19uUFlPSTQxQmtkUmRGVHpiWWtWNkw2ZjJxamNydXBRQUJudGMzZ2cweW5mV3RIWVM4dlI3VDNWRk5LcE1zbF82NHZ6enpkbEI5N1dndlJpMU43Q2lDYnR2eHV5ZC04MEZxeTI1eVFoNHAyWDluV2pYY2ROeDVsVThaQUhfMnl6VzFndXhKQlFBeEVNWTZNUWw4ZnIwV2J2ck40?oc=5"
-    },
-    {
-     "titulo": "Lucas Paquetá está de volta aos treinamentos com o elenco do Flamengo. Nesta segunda-feira (16), o meia participou das atividades no CT Ninho do Urubu ao lado dos companheiros, após se recuperar da lesão. O jogador ainda utilizou uma proteção na p",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1adUpIalJjYnJ2RzRCSFFGZlZWNnRWQjlBRnViSW1pRkdZZzRIdEJuZ1pFUVgyNFJNYmt3eHM1ZF82T0UyVkdFN2pET192RV9ENHc?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [],
-    "consulta": "Flamengo Ninho Urubu campo",
-    "n_videos": 0,
-    "mais_de": false,
-    "views": 0,
-    "top": []
-   }
-  },
-  {
-   "tema": "Classificação esperada do Brasileirão: Palmeiras, Flamengo, Vasco e Corinthians são destaques",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Flamengo",
-    "Palmeiras",
-    "Vasco"
-   ],
-   "foco": true,
-   "nota": 72.6,
-   "sinais": {
-    "busca": 45,
-    "aceleracao": 55,
-    "midia": 67,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.146,
-   "trafego_google": 0,
-   "busca_torcedor": "flamengo x cruzeiro",
-   "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 4,
-   "assinatura": "brasi|flame|palme|class",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Flamengo x Palmeiras: qual é o detalhe que vai decidir?",
-    "titulo_thumb": "E AGORA, FLAMENGO?",
-    "pergunta_enquete": "Qual sua opinião: Classificação esperada do Brasileirão: Palmeiras, Flamengo, Vasco e Corinthians são destaq?",
-    "tecnica": "Pergunta aberta",
-    "ganchos": [
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Flamengo x Palmeiras: qual é o detalhe que vai decidir?",
-      "thumb": "E AGORA, FLAMENGO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Meu palpite para Flamengo x Palmeiras: [SEU PLACAR]. Deixa o seu nos comentários.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Flamengo x Palmeiras: um precisa vencer, o outro não pode perder.",
-      "thumb": "FLAMENGO x PALMEIRAS"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Flamengo x Palmeiras parece um jogo com dono. É exatamente aí que mora o perigo.",
-      "thumb": "NÃO É BEM ASSIM"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Flamengo pode ser campeão brasileiro contra o Palmeiras; veja cenários",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjI0ZmVhZFpaUXBQRXpNSXkwNEtlZXVvNzcxU0JYZGdrcmg2NzJtZ1hYaURxSEVISUdyTmtleEZGZ1dGcWw5RXV1MHpGVDJUVURZRDBWUElreVBDemx0WkJaNmdubzI2c2lyNlM2WmpyV0l3NUVuZWE3LUVUMmkwQWVoMHNWb2VxZWUxUTh4ck1wY3Rfel9taFJXSTJ3Z0sxbVhFY3FuUElfd3FvN1RHZF9Cd20yeUFQVUdQQg?oc=5"
-    },
-    {
-     "titulo": "Palmeiras assina com lateral até 2031; Vasco, Cruzeiro e Flamengo disputam ex-Seleção Brasileira",
-     "fonte": "www.jornalcruzeiro.com.br",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcDN6RFRYOGgwQUI3YXFmU19iSmlEbWxudk9pVGhxc1E0UUJtVWVQQVFlZklUZXYzMEhJaGNvMXlUX0lkbW52MjFuZGJGTG1KQkNEVzI0bEZhaXdJRUZfMmtxMmVLeFp3cWRjR2FPUFI4alNQdEZVZkhYdG5Jb2RrMjJ0YzhmVmlTRUtBUXc2anZxcnlvNkZYdHRVMng2WHRjUTRCNGNpNXhjaDRPSkxkcE1kUUFuc0FfQU8yU2k1UjR1SVJta2M3WjVVd0stc3NZV3BsazZkQQ?oc=5"
-    },
-    {
-     "titulo": "Classificação esperada do Brasileirão: Palmeiras, Flamengo, Vasco e Corinthians são destaques",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOWVzRUlmNV9UOVJyNzZlbDBsNDlVZGQyWnpsUnRXNmNBdjRjc3VsLTd2b2hPdkxhbVpZWmY5S1pXelB0TTZVWnk3cjktczM4blctZk5sRUNhZmdQd0p3cWlvaVhOSHpwUEpCaUhwUjdjSWlWbXN3ekIxYlBHVFE5WklncVJnTmxhd0g5QjZCYkUtX1FWc09HV05iaWxEeEFPeHRGc1AyUzB2ZXlFTEh2dWh2ZlVpR28yZ0p4dnpBUV9SMjc0ZUFJLXQ4aG1LMzRnZFROa2JOWW50YWZneHpGRUl30gHwAUFVX3lxTE9hVzZGT2JiRl9qcWw0ZEE1ZnltMUI4MDJ5U2d1Y1FiRG1Pd2Jhbkd2ZFBEN1VXUWdYcHJLU2ZfZEVlYjQ1S29sZmRsWS01YTVZSHloTTcwMERiX0g0SWlKWDNCTEFJR3F0VGdibnZkLThrbmpvUVFja2N6SW96X1pkenlDVF9URmNJWjAxeGMwT0N3MXpLeG5vM09qbVBzZERuY1pBZnVqYzI1bjFOVWltZ1FsbGNFOXZzdHpDNDVWU1c3cWg5dExuREZ1WGxhYVVWWjA3anBUTzdDeF9HWERLamVHa3h3VEFWSjVjM3JEeA?oc=5"
-    },
-    {
-     "titulo": "Flamengo vira sobre o Boca Juniors, se classifica ao Final Four e ajuda CAIXA/Brasília na Sul-Americana",
-     "fonte": "Liga Nacional de Basquete",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbmJ1V2xJamxHazNXNVdSM0xTTFpzWWdCRjZ2T2tVRHRkMUNoSWotLThtZFRKOFlWQ3FhZWdkT3JpVHVDTUllWC1HMlIxU0x6OHYxcmhQU1NnQXl5blpudnI3d1RzT0ZZVHpRa3ZMN2Jld0dHOEhqelJyck13QVphME94VUZ6TElTTExxSWduUGk2djVmN2ZxNzg5NzdRaWxpR0JRV0NtTEUxVTlqajZDczJHUUZWdUVHcG5LLU5rcnRBUVBGaERHOWtmbw?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Raniele detona rumores sobre Memphis e defende elenco do Corinthians",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 72.6,
-   "sinais": {
-    "busca": 70,
-    "aceleracao": 75,
-    "midia": 46,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "raniele corinthians",
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 3,
-   "assinatura": "corin|ranie|elenc|memph",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Raniele detona rumores sobre Memphis e defende elenco do Corinthians. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
-    "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Raniele detona rumores sobre Memphis e defende elenco do Corinthians?",
-    "tecnica": "Aposta",
-    "ganchos": [
-     {
-      "tecnica": "Aposta",
-      "texto": "Raniele detona rumores sobre Memphis e defende elenco do Corinthians. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "“raniele corinthians”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Raniele detona rumores sobre Memphis e defende elenco do Corinthians. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Raniele detona rumores sobre Memphis e defende elenco do Corinthians. A leitura óbvia é uma. A que importa é outra.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Raniele detona rumores sobre Memphis e defende elenco do Corinthians. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-      "thumb": "E AGORA, CORINTHIANS?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Raniele ataca imprensa por notícias sobre relação de Memphis, Garro e elenco do Corinthians",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEJScEs1LTFqOFdIdnd1XzRhOHMzVl8wd1JkR3lwTDJuc2dBSWZtUmc5eGdKMVZGaU91UVhUV05GOFZ4N0lETm0zb0ZjWVhnT1Q4MUx5aTVOM0l2ZjdJcGRGbmdVRUM3NWhnTW9iR0EyWU5EbjdSTVJfc0ZZYmdZY0VDWUxabXVvTGJRck1ZQ1ZqMVNLNzFXLUVTaGRNQ3Jqd2VoekR2d29OVlkwVEFXbVhKc0VxaTZscUV0MVln?oc=5"
-    },
-    {
-     "titulo": "Raniele diz que elenco do Corinthians está jogando estourado por lesões",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV0hLdURkakVXNnRtTXlja1IzVFNjeFpVcklzanYwbkdHYTV6WDgxMF9FdThkaVFucHR5NDkzSXNvRVBrdWYtSjljUmFyZzJGRHR4MDlIakpnbjRPd3EyZ2xfUXVZaXFobnkzMzdEckg1M3hNWWhseVd5cHgzVmdxTkItUENjRUFUWVRZdWZ0cXZlTk9TbEM3blk5UkdKT00xWloydzE4SllSN1FjZlhPZlJkLVpRd3pKOWpJZGVJQ24zRzVqdmVtNEtvWDZnclI0?oc=5"
-    },
-    {
-     "titulo": "Raniele detona rumores sobre Memphis e defende elenco do Corinthians",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1NzWVZUUDcxcnhSVkMzc0NEcWFRbVo5cEhidmlmM1ZfbWpBRUluVkFnV0ZkSjFFRXFWUHZRV0llekE5VnVJU2hXSHFLRUVNaWR5Mk9aRUI2RHZveUI1bjZfY2VWVFhDVHJXSHZTN1RiN3MwdmNIMFU2cFl0T0V3Z1J5eHZoUkxHcmRSQk5sRWdxZDdQajJzdGlzQzRVWkxaczhHWGIyLVlXblVwdjhB?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "O Flamengo pode perder até cinco titulares para enfrentar o Palmeiras, no sábado (21). Arrascaeta, Pedro, Pulgar, Léo Pereira e Alex Sandro estão pendurados e serão suspensos se receberem cartão contra o Athletico-PR, na quarta-feira (18). Ao todo, oito",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Flamengo",
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 72.3,
-   "sinais": {
-    "busca": 60,
-    "aceleracao": 75,
-    "midia": 92,
-    "aderencia": 100,
-    "youtube": 0
-   },
-   "fator_categoria": 1.146,
-   "trafego_google": 0,
-   "busca_torcedor": "athletico-pr x flamengo",
-   "termos_trends": [],
-   "n_fontes": 8,
-   "n_manchetes": 10,
-   "assinatura": "flame|pode|titul|palme",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "O torcedor está digitando “athletico-pr x flamengo” no Google agora. A resposta não é tão simples.",
-    "titulo_thumb": "VOCÊ PESQUISOU",
-    "pergunta_enquete": "Qual sua opinião: O Flamengo pode perder até cinco titulares para enfrentar o Palmeiras, no sábado (21). Arr?",
-    "tecnica": "Dado",
-    "ganchos": [
-     {
-      "tecnica": "Dado",
-      "texto": "O torcedor está digitando “athletico-pr x flamengo” no Google agora. A resposta não é tão simples.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Flamengo contra Botafogo vale mais do que três pontos, e os dois sabem disso.",
+      "texto": "Flamengo x Botafogo: um precisa vencer, o outro não pode perder.",
       "thumb": "FLAMENGO x BOTAFOGO"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Flamengo tem oito pendurados contra o Athletico. Parece notícia pequena. Não é.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Flamengo tem oito pendurados contra o Athletico. E agora: o que muda para o Flamengo?",
-      "thumb": "E AGORA, FLAMENGO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Flamengo tem oito pendurados contra o Athletico. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
-      "thumb": "MEU PALPITE"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Flamengo pode encaminhar o título do Brasileirão contra o Athletico-PR",
-     "fonte": "TV Sim Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNUJueC1nZTVEa2dCSFVFcnRQWWl4SENXNUlpWlVTMnU4MXhGcHhzY3djaXBDaS1uV2pWNHRSMlpDaVdyczlLam9fMnZIdEg2WlhZZk01ZlpvNFk0SnRlVUQyQUJjdHloTy1tWlQxRmxsQUhOd0k0bzVYYm1aU0tHZmNVNXZtaGlZX2VBYVVlWTYzZXZBY09lSklZS2dxbjF2VGpMckVxQnpCU1ZMeVY3Sk1BaFBuc1h6NHJz?oc=5"
+     "titulo": "MARICÁ RECEBE CLÁSSICO CARIOCA ENTRE FLAMENGO MARICÁ E BOTAFOGO NESTA QUARTA-FEIRA (18/11)",
+     "fonte": "O Gonçalense",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOUY1LWhYQnZlRXphb3FqZEcteFUtYi14bWg0Nmo2UkxtOEkxZmFTNVBQeUxDTDZPTlFDelhDbVNrQkxNQm1zWnhld1p2bkYxQlVUU21KdjVBQmk4eHRWeFZJc3FnTC1UZ1U5UjQtX0dkVm1ub2xyaURMbEtBMjVoRkhINk1xelhGelEtREhtT2ZTdUVXaFQ3OEp0OVJuZmJhcF8takFGaFFHc0pkTGtNajFZUVh1SlFvQmxhZWpWWQ?oc=5"
     },
     {
-     "titulo": "Maricá recebe clássico carioca entre Flamengo Maricá e Botafogo nesta quarta-feira (18/11)",
-     "fonte": "Prefeitura de Maricá",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVWxFdXFVY0xTNi1kNXFIODBCRHZiVlhEV3p4M3lia3A1TlpOT3pvRkpvcGF0QXN3MV9NMVNrMjhkenFJWlktQjdRVmI0ZWljUE95ZnFIM2dIaU9BWWFFb2pORDE4QTRWdm5UYXEybnozUXB2eUlBd3Q5SEU1X2ZXRjNmQnozNEpjZFFGQU5KaTh1UWtxd0sycF9Oa2JSWURsejU3SGJTNW15TGtBUE1QdkJNS2ZDak02Nk5NNmQwTWRReFcz?oc=5"
-    },
-    {
-     "titulo": "Flamengo abre a semana a duas vitórias do título — e a segunda é contra o Palmeiras",
-     "fonte": "egnews.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTEhsajdRT0RaUkxTS2ZkOEhBTGVaVHBETng3ZWNwaXFmLTVSQmpzaWVMYlFxYUZwUDcwTk8yT1VtV3VrZU9KU21BLTJsZmcxcW5BLU5aa3NGMmF0YmJBWFhqWjEzb3ZjWnMtbExpQW5mTjhnRHhNRkNKT2w2bTVMNDY5dmEyaGFiMTdkZWJRRVNYYl9vNXFtcUpEaDR3cnhwd2x6TUlKeWNyWE0?oc=5"
-    },
-    {
-     "titulo": "Atenção! Flamengo tem oito pendurados contra o Athletico",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ2FLNnJSN3l6NXlFNGpacUJMLUlpUUtQTHRlS0hZdWp1Uzh0SHVnNEw2SS0yb1I3QlNURXVMX19DV3J4dVEzV1hDNWdidnVHei1WQnd6UGdLWF9OM25CQmZBc29vaHpWTkcyV1ppMmFNYmZjUTVXNWc5Q2QtcW0za0lZZ2hZaDNPRnVVcF9LMTZiTmphalA3RXFJUUg2QnJ6REpQSDJ1MGtQZHBFQlNvaWJwajdZV2J2cVo3cTlReDFhcDVIMDVuTURRR1psUWtaM1JKNVhCUGtFYnh6?oc=5"
-    },
-    {
-     "titulo": "O Flamengo pode perder até cinco titulares para enfrentar o Palmeiras, no sábado (21). Arrascaeta, Pedro, Pulgar, Léo Pereira e Alex Sandro estão pendurados e serão suspensos se receberem cartão contra o Athletico-PR, na quarta-feira (18). Ao todo, oito",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wS3plRnd5WkxIX2lIcWNHb2dKMGE2d1JZeE9zOXZ0MDVZVVVGWWJUQTNPRkVUelM0N0c4Rkw2dVloMG1haldEU0NXNWJYWEJRYXc?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [],
-    "consulta": "Flamengo titulares quarta-feira",
-    "n_videos": 0,
-    "mais_de": false,
-    "views": 0,
-    "top": []
-   }
-  },
-  {
-   "tema": "Cruzeiro abre conversa com Flamengo e discute contratação de Viña em definitivo",
-   "categoria": "Mercado da bola",
-   "clubes": [
-    "Flamengo",
-    "Cruzeiro"
-   ],
-   "foco": true,
-   "nota": 69.8,
-   "sinais": {
-    "busca": 50,
-    "aceleracao": 71,
-    "midia": 67,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "flamengo x internacional",
-   "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 4,
-   "assinatura": "flame|cruze|defin|contr",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "React rápido (1 a 3 min)",
-    "gancho": "Cruzeiro abre conversa com Flamengo e discute contratação de Viña em definitivo. Nessa negociação, alguém vai sair perdendo.",
-    "titulo_thumb": "QUEM TEM RAZÃO?",
-    "pergunta_enquete": "Qual sua opinião: Cruzeiro abre conversa com Flamengo e discute contratação de Viña em definitivo?",
-    "tecnica": "Conflito",
-    "ganchos": [
-     {
-      "tecnica": "Conflito",
-      "texto": "Cruzeiro abre conversa com Flamengo e discute contratação de Viña em definitivo. Nessa negociação, alguém vai sair perdendo.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Todo mundo está comemorando essa negociação do Flamengo. Eu vejo um risco que ninguém está comentando.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Esse negócio vale a pena para o Flamengo? Pensa bem antes de responder.",
-      "thumb": "E AGORA, FLAMENGO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Eu aposto: esse negócio [SAI / NÃO SAI] até o fim do mês. Se eu errar, pode me cobrar nos comentários.",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "O Santos tem interesse na contratação de Saúl Ñíguez, do Flamengo, para a temporada de 2027. As conversas entre as partes estão em andamento, e o jogador já manifestou o desejo de permanecer no Brasil. Apesar do interesse, ainda não há acordo para",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02bC1hTmJ4ZDctUDI4ZEdQNk5oZUhwSW1HRGpucGpTbWNEUmlMXzlLbmNuMlByOEREWDFsbEhWbk5WSlhiT2lOaUFKVEtuY3RYOHc?oc=5"
-    },
-    {
-     "titulo": "Cruzeiro quer contratação em definitivo de Viña, do Flamengo",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeTllOGxsaldiVXU3N21qY25UUWY5d0k4cUppQWc5bWRxY2t3N21jT3VBa05JN3JTWmRnYUVnbThmaVlTMk9xZ3dGbE0xMWpyTmppWFJ3c2dQYW00ZXdmSkU4NGxyQjdRQS1QOFRXMmJzNV8wbGktdFRwMkFWcGVvcWZiaEFhX2VaOXRFbWpjNnNkczBDNGFTekxTY2Z2cEM3WThURlEtckliQnBVMld0Y2s5M0NkMGpkZV9zenItU1RfMFBTaW1yRnlyYnlaTTdpaWd4Tm9IUFd3bTVsenVTaFhHNTh2ai14ZVJMdUlEX1FKSk9yelE?oc=5"
-    },
-    {
-     "titulo": "Cruzeiro abre conversa com Flamengo e discute contratação de Viña em definitivo",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR2U1X3pMOXA2WXc1d1hrTW5VSXJiVjJHNHJielBzTzMtbTdWSFBrYmFvakdHWXdKdFFQV082TmpKbzRKa0JGMTNSaDI4UmJ4eW9wYVlIckpHamFndnVieGJyTUg2ckg4RUp1RHhma05laDAxXy1ZV0ZnbzFtdC0yTmM4RWZnVlJzUGRYczRDTnBaSHpwSHBiQUtRblVHUUN2RG1ZWF84OHpwSDlmUDdGQXRSM1l4Vy1TUk9zUmgyUWZiN0hHTE80dGJVMFFMcVdNMm1lektoZlFfejF0NVJ6UlZB0gHwAUFVX3lxTE9yTUVCc3hjQml4eGlqWHV1U3BjRmZDWWtiTHpTekxrZFFxNkUtQXlpd3M3SmpYanZGVEFTcm0wSG43NkNzS0Rsa2QyS3UzOVhUYzJxV2JJbFBHYzVyYlhLNHo1WTFOdnB0Uzl0emhGZlluVndvNnlleGJOUWh6ZHR3RzM4RE1zUmprTVJMajFjSWhWYXBWbEdIbXJyX2RpbUMwMktUbkFfTlhSdy1Bdmlob3hZOU5MZ3Z0TzBpZ2RLRjJORHh1V0Q3VjAtU3BRX3h2czBLVFVtN01EMmFCTTJTM1BFYUdHcTZwNi1pMnp1Rw?oc=5"
-    },
-    {
-     "titulo": "Sócios do Flamengo pedem homenagem a Gabigol; Cruzeiro ainda não definiu futuro",
-     "fonte": "brasileirao.com.br",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRGVGQmd5d083VVBWR1JnRHpyaDBXYmhvRnA1UVpxV1JEOW1CUUx0cHpkdVJBMUZBekZMNG9vMUJjVlJGWHFqS285LTJfWWFnY1hWQlFyTVYzcmh3X3N1aGZhS2tMb3NaWUpsbW1wU2tUYjQ4QU56LUYwX3NlalN5WklyY0tvTTVyRmo0OXJQN3ZORWpOWnROQUNtOWdrU1ZTOXFVWGhMTnI2YzdKdTNaeWhYak40UXVaUUhvTg?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Inter derrota Flamengo e conquista pela primeira vez a Copa do Brasil Feminina",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Flamengo"
-   ],
-   "foco": true,
-   "nota": 66.6,
-   "sinais": {
-    "busca": 50,
-    "aceleracao": 34,
-    "midia": 92,
-    "aderencia": 100,
-    "youtube": 36
-   },
-   "fator_categoria": 1.146,
-   "trafego_google": 0,
-   "busca_torcedor": "flamengo x internacional",
-   "termos_trends": [],
-   "n_fontes": 8,
-   "n_manchetes": 9,
-   "assinatura": "femin|copa|brasi|inter",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Inter derrota Flamengo e conquista pela primeira vez a Copa do Brasil Feminina. Todo mundo vai olhar o resultado; eu vou mostrar o que ele esconde.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Inter derrota Flamengo e conquista pela primeira vez a Copa do Brasil Feminina?",
-    "tecnica": "Contradição",
-    "ganchos": [
-     {
-      "tecnica": "Contradição",
-      "texto": "Inter derrota Flamengo e conquista pela primeira vez a Copa do Brasil Feminina. Todo mundo vai olhar o resultado; eu vou mostrar o que ele esconde.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Inter derrota Flamengo e conquista pela primeira vez a Copa do Brasil Feminina. O que esse resultado muda daqui para frente?",
-      "thumb": "E AGORA, FLAMENGO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Inter derrota Flamengo e conquista pela primeira vez a Copa do Brasil Feminina. Eu aposto que esse resultado vai pesar lá na frente. Você concorda?",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "1 x 0. Grava esse número: ele explica boa parte do que está acontecendo no Flamengo.",
-      "thumb": "1 X 0"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Inter derrota Flamengo e conquista pela primeira vez a Copa do Brasil Feminina. Dentro de campo acabou. Fora dele, a discussão está só começando.",
-      "thumb": "QUEM TEM RAZÃO?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Inter derrota Flamengo e conquista pela primeira vez a Copa do Brasil Feminina",
-     "fonte": "Grupo Pilau",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFNpN3ExY0puaFVrbG9CeldPVlhQVWRNN1NPSFNKOEtjbDlwbVoyLXZIb1V5em9veWFuYzJvTUpacWtBSUFWMnptTTRJS3gwaFpHQ1poSkRrOGtscXRIVU50N0NXN3BudkZldnladVNxWm5BUlh2blpjalczTlNRQ09PSGZpanU3U0s2dk5sRmRLdG96THVPT2NBd1JoNkVZbzVFbmozR0ZMTEVnOTY5RkpkUHJMZXBvLWFpbTByNXd6Zw?oc=5"
-    },
-    {
-     "titulo": "Inter vence Flamengo e conquista Copa do Brasil Feminina",
-     "fonte": "G1",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeUVhbmhqTWxVX3Z3TFg0bWotdjJTMmUtRFgxajNTMVBmeS1DYVJyemhVaEt2eVV6OTQ1c3pqUFhIMmFyODdCdS13SVlneW50UHU4OVYyLVE0ejlRbHRYVzUzTVpVVWtSMnNQWGJQNTJfbUFqRGh1WnBYd0ZIVXNPa2szRHpHNldEZk9wa0loWVZmNGwyLXJ2MjE2Q0RRQXpSWE9kYlBfOUtETVpLRnNEQlVWY2xVVm9DRjBGQUFfUloyLUx4UzhnSGxKYzRXc2VkSkcxZzhWeUNjcWtYZHfSAewBQVVfeXFMT3VOcHduNUFjS2oxS05TSjFwbWwyOUowbXQtaEtnNnZYTVJOWGI1Q3RKV3dESkkwMzZ5ZGFhTzVQQ3BTeXRUUFFCWEYyanA2YXZOZHhLa1NRRHM0TEktdkQ0ejBnVVhqS2ZZbHFKM2RvUy1HQTloOE5icHVtREpRQ3pwaXVoTk43YXNXLVJRS0ZwNjFXNURycHY3dDdzODNsN1dvaWpmM1JYREotUU9VV0h6R3p0WklKRU5Wb0VMc1IzREt4SjMwcUlSVWpKWlB1TXhlYmwtRk5vLW82RkpXbDFBOXQwTDNoYkhKTVk?oc=5"
-    },
-    {
-     "titulo": "Inter vence Flamengo no Beira-Rio e conquista a Copa do Brasil Feminina",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRTBEcERnckZlTm05N0NLZGt0cklEVzY4T0tiZ2sxc3lSem1IUkI0bkE5aHprdUdPVW9pY1doWi0xa25EOHFyalhTMEJDUnZIN01SOXpvd3dKLUlRRTlGSGVsUHFRRm9BYzZsTzRPcU04XzhmQTRwMzFHVTdsLWhaNXdFdTJWaHkzLUtjOUhWUzI5RDBnMFg5X21Ybmd3NEpfTHBDd1p2bjdrN1NaeGlRMWgxbWxlSzVtNk9INXdWNHA3SGxyN0R2YWpKNTB3SU1J?oc=5"
-    },
-    {
-     "titulo": "Flamengo Maricá encerra campanha na Copa do Brasil Feminina com o vice-campeonato",
-     "fonte": "Clube de Regatas do Flamengo",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeUY0U0huTlJIYTRhZnRTOHV4cllPR3QzcE9HS0tkczc3Qmw0TjhkYWk0X21hODQtT21uSmthZU9xaHNZTWI2dkdMXzU4VENwUHNFRlhhTU93Y2lpQ0hzaHBfTWFvQy13aGUzS3ZfREZQdVBXbUxOU2pRWTJDMmV2U3dvOHJBZWhmMXZFSDFkRnJRZ2hzOC01Y0JxWVZLSTlwOGNLZnZROU5QeDBnZ3dmeVUxR1VIdnVDM0Vnb0hvOTdBUG94bnlNUkZJbHpaZDBJ?oc=5"
-    },
-    {
-     "titulo": "Internacional 1 x 0 Flamengo | Copa do Brasil Feminina: melhores momentos",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWUpxMFF1OFhlUzNRTHVVQ1BCamFIVjFucDRxclBnWnZBOHFHamdFdW5hSlRWbW9pUjhLMTVHaV9HVmRuODI4OHFKcFl5NUo3dkZnVVZPalVVZkZ0VUl2elByQWcxWS1FRWd4NUpCcG5kUDk5NWhxNnZtWmJocHc1TTNGejFNTzVuMU0zcXZIcThwYzR3OGxoTWJhTFptT3RUZzNLN2c3NnplVEt2LVoyWHMtYmJfcXdkd3ZRSldfUlhNMm93?oc=5"
+     "titulo": "Brasileirão 2026: Flamengo defende liderança contra Athletico-PR, Palmeiras enfrenta Cruzeiro e Corinthians recebe Botafogo na 35ª rodada",
+     "fonte": "Jornal Grande Bahia",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObkY3LWVqWkhwVTJOSk53VlJSaHI1dnh5QUdnb3BxR3k4cXk4OGcxbHNHWENSN2IyTUxyRXNtbjlBU3RHdEtVMDJONE55MzJsOEdJN0tDRmk3dml3ZVhaLXBPN2lpVjUzLUNNcDd3cGFZZ0M2RUlFLWl1R1pHczdJUFV4TlZzT3hqelNNR3M2T09JNENQZTFBa1FpMVh5cURqRjE2cFFLaG1IejRXODM4VFI1cm9kb25mcVpTN0lWRnVFZC1hdjByVXdHZE41Y09DZXk4bXBaUmRMMXl4N1pQYVdiY2NrME9rSFRVR2VkbVZzbEE1WVRYZ0hqcGg2TmQwYjE4bjI1MHU?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "4PJ9Zj82A8g",
-      "titulo": "Internacional Conquista Título Inédito da Copa do Brasil Feminina Contra o Flamengo",
-      "canal": "Leia Esporte",
-      "views": 265,
-      "likes": 5,
+      "id": "aZD_tL78ekU",
+      "titulo": "Flamengo x Athletico-PR: quarta (18), às 20h30, no Maracanã, SporTV e Premiere",
+      "canal": "Rodadão",
+      "views": 932,
+      "likes": 21,
       "comentarios": 0,
-      "publicado": "2026-11-15T22:51:07Z",
-      "duracao_s": 24,
+      "publicado": "2026-11-16T20:59:24Z",
+      "duracao_s": 42,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=4PJ9Zj82A8g"
+      "url": "https://www.youtube.com/watch?v=aZD_tL78ekU"
+     },
+     {
+      "id": "1p9ktweL3XE",
+      "titulo": "Véspera de Athletico-PR: Flamengo esvazia o departamento médico, e Paquetá volta a treinar",
+      "canal": "Ruivinha rubro negra",
+      "views": 897,
+      "likes": 44,
+      "comentarios": 0,
+      "publicado": "2026-11-17T11:49:23Z",
+      "duracao_s": 83,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=1p9ktweL3XE"
      }
     ],
-    "consulta": "Flamengo Feminina conquista primeira",
-    "n_videos": 1,
+    "consulta": "Flamengo RECEBE QUARTA-FEIRA",
+    "n_videos": 2,
     "mais_de": false,
-    "views": 265,
+    "views": 1829,
     "top": [
      {
-      "titulo": "Internacional Conquista Título Inédito da Copa do Brasil Feminina Contra o Flamengo",
-      "canal": "Leia Esporte",
-      "views": 265,
-      "url": "https://www.youtube.com/watch?v=4PJ9Zj82A8g",
-      "publicado": "2026-11-15T22:51:07Z",
+      "titulo": "Flamengo x Athletico-PR: quarta (18), às 20h30, no Maracanã, SporTV e Premiere",
+      "canal": "Rodadão",
+      "views": 932,
+      "url": "https://www.youtube.com/watch?v=aZD_tL78ekU",
+      "publicado": "2026-11-16T20:59:24Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Véspera de Athletico-PR: Flamengo esvazia o departamento médico, e Paquetá volta a treinar",
+      "canal": "Ruivinha rubro negra",
+      "views": 897,
+      "url": "https://www.youtube.com/watch?v=1p9ktweL3XE",
+      "publicado": "2026-11-17T11:49:23Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "Ingressos para São Paulo x Fluminense: vendas abertas! Veja preços e informações para o próximo jogo no Brasileirão",
-   "categoria": "Jogo e resultado",
+   "tema": "Gabigol volta para o Flamengo? Fica no Santos? Ou retorna para o Cruzeiro? Agente do atacante revela pedido sobre o mercado",
+   "categoria": "Notícia do dia",
    "clubes": [
-    "São Paulo",
-    "Fluminense"
+    "Flamengo",
+    "Santos",
+    "Cruzeiro"
    ],
    "foco": true,
-   "nota": 65.1,
+   "nota": 72.4,
    "sinais": {
-    "busca": 0,
-    "aceleracao": 69,
-    "midia": 81,
+    "busca": 70,
+    "aceleracao": 72,
+    "midia": 67,
     "aderencia": 100,
-    "youtube": null
+    "youtube": 58
    },
-   "fator_categoria": 1.146,
+   "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": null,
+   "busca_torcedor": "gabigol vai voltar para o flamengo",
    "termos_trends": [],
-   "n_fontes": 6,
-   "n_manchetes": 6,
-   "assinatura": "ingre|paulo|flumi|venda",
+   "n_fontes": 4,
+   "n_manchetes": 7,
+   "assinatura": "flame|gabig|ataca|santo",
    "ja_coberto": null,
    "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Informações de ingressos para São Paulo x Fluminense. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
-    "titulo_thumb": "E AGORA, SÃO PAULO?",
-    "pergunta_enquete": "Qual sua opinião: Ingressos para São Paulo x Fluminense: vendas abertas! Veja preços e informações para o pr?",
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Santos, Cruzeiro ou Flamengo? Agente de Gabigo revela pedido do atacante. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
+    "titulo_thumb": "E AGORA, FLAMENGO?",
+    "pergunta_enquete": "Qual sua opinião: Gabigol volta para o Flamengo? Fica no Santos? Ou retorna para o Cruzeiro? Agente do ataca?",
     "tecnica": "Pergunta aberta",
     "ganchos": [
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Informações de ingressos para São Paulo x Fluminense. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
-      "thumb": "E AGORA, SÃO PAULO?"
+      "texto": "Santos, Cruzeiro ou Flamengo? Agente de Gabigo revela pedido do atacante. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
+      "thumb": "E AGORA, FLAMENGO?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Informações de ingressos para São Paulo x Fluminense. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+      "texto": "Santos, Cruzeiro ou Flamengo? Agente de Gabigo revela pedido do atacante. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
       "thumb": "MEU PALPITE"
      },
      {
+      "tecnica": "Dado",
+      "texto": "O torcedor está digitando “gabigol vai voltar para o flamengo” no Google agora. A resposta não é tão simples.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
       "tecnica": "Conflito",
-      "texto": "Informações de ingressos para São Paulo x Fluminense. Por trás disso, tem dois lados que não querem a mesma coisa.",
-      "thumb": "SÃO PAULO x FLUMINENSE"
+      "texto": "Santos, Cruzeiro ou Flamengo? Agente de Gabigo revela pedido do atacante. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+      "thumb": "FLAMENGO x CRUZEIRO"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Informações de ingressos para São Paulo x Fluminense. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
+      "texto": "Santos, Cruzeiro ou Flamengo? Agente de Gabigo revela pedido do atacante. A leitura óbvia é uma. A que importa é outra.",
       "thumb": "NÃO É BEM ASSIM"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "São Paulo x Fluminense: informações de ingressos para a torcida tricolor",
-     "fonte": "explosão tricolor",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMnd1UnFxQnVxQ3kyelNOYmY0REN0Vlp3OHo5TjIzeHRvclpJNTJlbTNNVWNQODRDTWctZldwLV9laWViOEUtUGk0T1JBWXdabE5IZGU0Y3l3M3lqd2dQVUhfeGV5aFp5eWxXa3E5RGQzQW9UemZKQm03cnNTS3d3T09NdDY0M0ZQUF9XMmNWWkFVZw?oc=5"
-    },
-    {
-     "titulo": "SÃO PAULO X FLUMINENSE TEM INGRESSOS À VENDA PARA O PÚBLICO GERAL 🔴⚪⚫ O duelo da 35ª rodada do Brasileirão acontece nesta quinta-feira (19), às 21h30. Será o penúltimo jogo do São Paulo no MorumBIS em 2026. A compra é feita pelo S",
+     "titulo": "Em entrevista ao SportsCenter, o empresário de Gabigol, Junior Pedroso, comentou sobre um possível retorno do atacante ao Flamengo. “É difícil falar sobre Flamengo. A história do Gabriel com o Flamengo foi uma das mais bonitas. O Flamengo é uma paix",
      "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96WFU1RGdWUWN0T3N5Sy1aek9jRnRhNEdzRjBlRXZUQ3ZnV3kzelZNZWdlRHlzNmxPRWpuWHZUd1FRQnRQUG1VLXIxQ0RROWY1c3c?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LdVllV0MzNi1WUnlndThocnRBMDZBc0pzbFFwRS1seUlzb0EyOWZZNEljVGJoX0xpdjhqQUlVNVVQQlM5MmhLbjF4S0NhMTMwWlE?oc=5"
     },
     {
-     "titulo": "São Paulo abre venda de ingressos para jogo contra o Fluminense; veja preços",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNktDSklJZUpLSFN2bHdCMVJRdmhNNklyb2pjd2w0S1lvdjVDemZHdmFiX3RSc08xaTNGdERuUXU0TUxlVUNoLW80aGJvYWp6UENCalNMcDdaaTAxdG03UW5iRkV5Mk41X3lfcTRoVmJRMWpvYm43TTZvTFBFYURvdjJxb0U5SUZhdjdxNTBkYWYydFNtVS1WMllOczBXQURkdzQtcDNUUWQyNU5zb0ZkT1V3Vk1oZjFrYXA0bV91SVZjZ9IBxwFBVV95cUxQNUkyRm9EMF85b1Fza0FVZjE1b1V5Y2V0NDNCSVZFUi1pRGVxam9aZlBnME9vMHdhTHY2N1hlRm5Oc2NrUFNiR25kZVpPS1NQMVJ5aEc1dDh1VTBFd3ZrODk1b1dSM3VkM1BEYXNvdllYWmJFSS1CUWtwMkNaajU0Q3M2azVNZnhkU01DRmp2bEpaaFAyZ2JndlhValgxelRaYmFkM0dwYjBXS090NjF2QWwzNVpxdElIbkI0RzZwbVliNURibGdV?oc=5"
+     "titulo": "Cruzeiro, Santos ou Flamengo? Empresário fala sobre desejo de Gabigol para 2027",
+     "fonte": "Rede 98",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd1VpY0J2cUZqQVR4UHBfb3NhMHYxajRINmVYUjJKQThNaEI3eXhLNnY5aGVfUHVDZmt3T1lIMFQ3b2IzMDdBczA5UWRwemlER2FiVHdDbmpPRkZZTHdSYlp0Nkk3THRORWlCU1FUbUxuYkxNY1ZGN1k1RjFac3dYMTFOLUt2aU0?oc=5"
     },
     {
-     "titulo": "Brasileirão 2026: Informações de ingressos para São Paulo x Fluminense",
-     "fonte": "Fluminense Football Club",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTVNIQmZ3bEhoWTd3Mkt5VEhfZFQ4RlFsYkNDREQ5VGJiV1pfcmlNaVdWT01FTGF6dTl6WGYydHhaQ1pzbklDRFlKQmMwNndhSnFZWE1iMVdoQy12amFiQUIxUTIwNjFoa1NMb3MyRS1FdEI0MDA1dldSb1YwVlE4QTV5WmY2WmltMGtVS1VxT0dWdVZVTC13NUVWaHdHX3VkY1dTU19Tei1nN2M?oc=5"
+     "titulo": "Santos, Cruzeiro ou Flamengo? Agente de Gabigo revela pedido do atacante",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQTTdsR2NhOF9QWmQzODFZdmh0UGFXcnJMTHAtNmg2dnVnYjVtU2wyVGpzalgxQmR1VHUyLWQ2cUhoLTRpNFptVVd6WjJ0dG9PQUNIX05fcnBiOGlncWppQzNIYWUzZWkyUDByXzRobFFBbU5TcUJ6TXJUREdQNUhaN3gycTMxeU5zNGRqOGVCeG1WamJBOW1rSVNyR0FYTld3YkRPRWhlSlJwcms5aHFMZnJEVnVPcEo5RThvVFFVYlhEa1VyZkkxSlVCVFFlT2JSTlVDTXZEZmxpMmRCeW9mbkZZX3NBUktEWGJDWEFnal9iN2lkNmNzVlBJVmZhdi1vZmJaNWRiUHctckUwcXRF?oc=5"
     },
     {
-     "titulo": "Ingressos para São Paulo x Fluminense: vendas abertas! Veja preços e informações para o próximo jogo no Brasileirão",
-     "fonte": "Avante Meu Tricolor",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcUhmeHdfOWR4ejM3MVpoY0tUS21XdjB4eGZhM3V0T2ZiWHA5ci0tUVdaU2M4SWptcTY2SG4tWktVTEhxR241RGNFLU5Bc2lNMXFZZFFGcDhtMXgwUHlGZmc0NzcycUtjb3BuR1hzT1FMUTlRN3o4Z29KWFo3SzVUMS1TdnduRUVPcGxSMm16UG5aZDJLTUp1Y2h4VF84WEVPQ3VEUjl4VUdqZm54Z1AwdGI1cFhRZXNzcnpITVM4TDVJdms1X3NzSm10Y0RRWUlrRHNEdg?oc=5"
+     "titulo": "No Santos, Gabigol pode superar Zico, do Flamengo",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcHB1SHdGRkNjMUJ0OFB6ZllqSGhYMG41bUlCSEROM0MzTGRxcHZYeXBQZ1hCQWdNTkI3TVdKbkxjVXdUMkgzV3o2SE5YRDNMRDVweGc0dnNJVWNrM1h2dGFIVnlCeEN0MG9md0IxWW9BWlJtdmsxcVAzbS1zNF9KM0FGVjB2bDV3MkJFZmFhSHVXNFdoOG9KOVNzS3dwdVZJRXg2Tk1leXNRejdZa203R251cnZEWUtsRU9uZzc2S3N5cTJpdDVxRjBXMmZVMUpWN3c?oc=5"
+    },
+    {
+     "titulo": "Agente de Gabigol diz que atacante merece busto no Flamengo: 'Fez parte de uma reconstrução'",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTkNaRUFuODVxY0NjVGhrRmtqOFphTDdLbEd5Y0dyNkFVTXhhU3VPcGlKR2hVdGJ1VmJjODJkUzkxTThTRmp2RTl1UjBDM240NFlBZVI3THNNbXpqQk1pU0U0LVlxZ3V1N2YwUHprcDRYQ3dab01SWXYyNEpZOFRfejdTNHV4RDVaN29pZnBmLXJrZjdGd1lheWpjSmFPS1dHa1N2WE9nLURXd1FGeE9teG1oMjd4c25BTkMtcHBCM1VyVVJYbUpET29jUExDeE41NTY5blY3MG0?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "pJgTnVzJAK4",
+      "titulo": "🦊💪 EMPRESÁRIO DO GABIGOL FALA SOBRE FUTURO DO ATACANTE DO CRUZEIRO!",
+      "canal": "CRUZEIRO DA DEPRESSAO",
+      "views": 2752,
+      "likes": 87,
+      "comentarios": 4,
+      "publicado": "2026-11-17T15:30:34Z",
+      "duracao_s": 657,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=pJgTnVzJAK4"
+     },
+     {
+      "id": "QMw1tOVpZ2c",
+      "titulo": "EMPRESÁRIO DE GABIGOL ABRE O JOGO À ESPN SOBRE POSSÍVEL RETORNO DO ATACANTE AO FLAMENGO!",
+      "canal": "Paparazzo Rubro-Negro",
+      "views": 2688,
+      "likes": 211,
+      "comentarios": 9,
+      "publicado": "2026-11-17T17:56:08Z",
+      "duracao_s": 73,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=QMw1tOVpZ2c"
+     },
+     {
+      "id": "ti_fKno_Ixc",
+      "titulo": "🚨 GABIGOL NO FLAMENGO?Empresário do atacante, Júnior Pedroso revela pedido de Gabigol #shorts",
+      "canal": "Aloha Fla",
+      "views": 634,
+      "likes": 28,
+      "comentarios": 2,
+      "publicado": "2026-11-17T18:05:13Z",
+      "duracao_s": 67,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=ti_fKno_Ixc"
+     }
+    ],
+    "consulta": "Flamengo Gabigol atacante Agente",
+    "n_videos": 3,
+    "mais_de": false,
+    "views": 6074,
+    "top": [
+     {
+      "titulo": "🦊💪 EMPRESÁRIO DO GABIGOL FALA SOBRE FUTURO DO ATACANTE DO CRUZEIRO!",
+      "canal": "CRUZEIRO DA DEPRESSAO",
+      "views": 2752,
+      "url": "https://www.youtube.com/watch?v=pJgTnVzJAK4",
+      "publicado": "2026-11-17T15:30:34Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "EMPRESÁRIO DE GABIGOL ABRE O JOGO À ESPN SOBRE POSSÍVEL RETORNO DO ATACANTE AO FLAMENGO!",
+      "canal": "Paparazzo Rubro-Negro",
+      "views": 2688,
+      "url": "https://www.youtube.com/watch?v=QMw1tOVpZ2c",
+      "publicado": "2026-11-17T17:56:08Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "🚨 GABIGOL NO FLAMENGO?Empresário do atacante, Júnior Pedroso revela pedido de Gabigol #shorts",
+      "canal": "Aloha Fla",
+      "views": 634,
+      "url": "https://www.youtube.com/watch?v=ti_fKno_Ixc",
+      "publicado": "2026-11-17T18:05:13Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Flamengo e São Paulo podem acertar troca de jogadores; Fluminense quer jogador argentino",
+   "categoria": "Mercado da bola",
+   "clubes": [
+    "Flamengo",
+    "Fluminense"
+   ],
+   "foco": true,
+   "nota": 71.5,
+   "sinais": {
+    "busca": 55,
+    "aceleracao": 81,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": 68
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "flamengo x cruzeiro",
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 4,
+   "assinatura": "jogad|flame|quer|paulo",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 3 min)",
+    "gancho": "Eu aposto: esse negócio [SAI / NÃO SAI] até o fim do mês. Se eu errar, pode me cobrar nos comentários.",
+    "titulo_thumb": "MEU PALPITE",
+    "pergunta_enquete": "Qual sua opinião: Flamengo e São Paulo podem acertar troca de jogadores; Fluminense quer jogador argentino?",
+    "tecnica": "Aposta",
+    "ganchos": [
+     {
+      "tecnica": "Aposta",
+      "texto": "Eu aposto: esse negócio [SAI / NÃO SAI] até o fim do mês. Se eu errar, pode me cobrar nos comentários.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "42 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
+      "thumb": "TODO MUNDO VIU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Flamengo e São Paulo podem acertar troca de jogadores. Nessa negociação, alguém vai sair perdendo.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Flamengo e São Paulo podem acertar troca de jogadores. Parece um grande negócio. Olhando de perto, não é bem assim.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Flamengo e São Paulo podem acertar troca de jogadores. Se isso sair, quem perde espaço no elenco?",
+      "thumb": "E AGORA, FLAMENGO?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Flamengo deve receber proposta por zagueiro; Bournemouth quer outro jogador do Vasco",
+     "fonte": "www.jornalcruzeiro.com.br",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMmJhQ1lhSjFqRTRSMlpWM3N6OFJQRzUyamFuWXZEdDhUS0lUM01TNkNjZVp4c0sxM2JXQ005UjdiYU5BS1JicDNnZlVKaWJyRFg4RmJqczAtSUlJNXQ4YW92WTV3WkVCYlhQakQ0Umt5ZmdrUXJRQldZVjdPUWpTelA1TTg5WDZSN3BJNFhIVG53Rm5UWHVyWTlDWE9UMmtIa3Uzd3hCenRUVFg3emFoakw1cm12YlNPSnBnWFB0RnlXUHFNZlNNeg?oc=5"
+    },
+    {
+     "titulo": "Fluminense atualiza situação de 4 jogadores ante o São Paulo",
+     "fonte": "explosão tricolor",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPckFkUlVMYm54MXZZd3o1MDYydFZBODQ1eEs3WUo5VVpPUTdEam5IYW50QWM2eENTNGhzY19fUEFERUNUQk1uY0FYRG85QUlwRTNtTmF3dW50UkRVclFBbEs5b0I5Q3RpTkpNRGJJcW5HS1dxTlh1eURSU1VqTmxhSXhYTTBSZ0EtRzRmUkgwSy1ldw?oc=5"
+    },
+    {
+     "titulo": "Cruzeiro quer tirar jogador do Flamengo",
+     "fonte": "Portal TN Sul",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDV2FWOHR2RkxTZDhmcHV1MFdnLVdTLTl3Q2g3TjNpZ0ktOFA5U1JLcGJnZEFTQlpPWlgybmlNMUFaVFFJQ29ZRGE3UkdBMXp0TWJfZTZvbFRPOFVxZW04YW5TZjd0UTVBYnI0ZWNXRWNLRjdqdjlGbQ?oc=5"
+    },
+    {
+     "titulo": "Flamengo e São Paulo podem acertar troca de jogadores; Fluminense quer jogador argentino",
+     "fonte": "www.jornalcruzeiro.com.br",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNEttTHBjZDFTRTIteHpZWk8tSlBRZUY1dmVvMjdIbnpmcnRqMDc4OVJIMkRydkRHZlBJSzVZNklOQndZOHlCVVBoQjV0QnV2clZLQXZrZDhNaUt6MGEwbFFMOU0wa3ItdWlWMkpwR3h2eXVoYnpma1M3Tk1SeFlxNFpmNE55ejM5M0pfekdKdzV1R2RISzdjZUliODNvVGF3bnp0ZkxDei1BMTlWdGVTdVlLV1ozNDRWbGJFa0N0YU8wMEctNk1xUjc1S19KZw?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "xsmzc-I6BKo",
+      "titulo": "ARRASCAETA HUMILHOU A ARGENTINA! SHOW NA BOMBONERA! 😱🔥 #futebol",
+      "canal": "Drible de Bêbado",
+      "views": 39940,
+      "likes": null,
+      "comentarios": 5,
+      "publicado": "2026-11-16T00:00:26Z",
+      "duracao_s": 65,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=xsmzc-I6BKo"
+     },
+     {
+      "id": "UhushIbNvUE",
+      "titulo": "ARRASCAETA VOLTA GRANDÃO PRO FLAMENGO DEPOIS DE VENCER A ARGENTINA | PAC",
+      "canal": "Cartola",
+      "views": 1211,
+      "likes": 94,
+      "comentarios": 1,
+      "publicado": "2026-11-16T22:21:56Z",
+      "duracao_s": 315,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=UhushIbNvUE"
+     },
+     {
+      "id": "6-IMdaRRGjs",
+      "titulo": "Joaquín Freitas SURPREENDE A TODOS Sobre a Grandeza do Flamengo na Argentina!",
+      "canal": "Urubu em Pauta",
+      "views": 513,
+      "likes": 20,
+      "comentarios": 0,
+      "publicado": "2026-11-16T15:00:11Z",
+      "duracao_s": 1647,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=6-IMdaRRGjs"
+     }
+    ],
+    "consulta": "Flamengo jogadores argentino",
+    "n_videos": 3,
+    "mais_de": false,
+    "views": 41664,
+    "top": [
+     {
+      "titulo": "ARRASCAETA HUMILHOU A ARGENTINA! SHOW NA BOMBONERA! 😱🔥 #futebol",
+      "canal": "Drible de Bêbado",
+      "views": 39940,
+      "url": "https://www.youtube.com/watch?v=xsmzc-I6BKo",
+      "publicado": "2026-11-16T00:00:26Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "ARRASCAETA VOLTA GRANDÃO PRO FLAMENGO DEPOIS DE VENCER A ARGENTINA | PAC",
+      "canal": "Cartola",
+      "views": 1211,
+      "url": "https://www.youtube.com/watch?v=UhushIbNvUE",
+      "publicado": "2026-11-16T22:21:56Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Joaquín Freitas SURPREENDE A TODOS Sobre a Grandeza do Flamengo na Argentina!",
+      "canal": "Urubu em Pauta",
+      "views": 513,
+      "url": "https://www.youtube.com/watch?v=6-IMdaRRGjs",
+      "publicado": "2026-11-16T15:00:11Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Quem apita? Escolha de árbitro para Palmeiras x Flamengo gera “quebra-cabeça” na CBF",
+   "categoria": "Arbitragem e VAR",
+   "clubes": [
+    "Palmeiras",
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 68.3,
+   "sinais": {
+    "busca": 35,
+    "aceleracao": 72,
+    "midia": 81,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "palmeiras x flamengo",
+   "termos_trends": [],
+   "n_fontes": 6,
+   "n_manchetes": 6,
+   "assinatura": "palme|flame|arbit|cbf",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte de debate (30 a 60 s)",
+    "gancho": "O Palmeiras contra a arbitragem: alguém está errado nesse lance, e eu vou mostrar quem.",
+    "titulo_thumb": "QUEM TEM RAZÃO?",
+    "pergunta_enquete": "Qual sua opinião: Quem apita? Escolha de árbitro para Palmeiras x Flamengo gera “quebra-cabeça” na CBF?",
+    "tecnica": "Conflito",
+    "ganchos": [
+     {
+      "tecnica": "Conflito",
+      "texto": "O Palmeiras contra a arbitragem: alguém está errado nesse lance, e eu vou mostrar quem.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Quem apita? Escolha de árbitro para Palmeiras x Flamengo gera “quebra-cabeça” na CBF. Muita gente está reclamando da arbitragem, mas a regra pode estar do outro lado.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Quem apita? Escolha de árbitro para Palmeiras x Flamengo gera “quebra-cabeça” na CBF. Foi ou não foi? Responde nos comentários antes de ver a minha análise.",
+      "thumb": "E AGORA, PALMEIRAS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Aposto que ninguém vai ser punido por esse lance. Você aposta em quê?",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Quem apita? Escolha de árbitro para Palmeiras x Flamengo gera “quebra-cabeça” na CBF",
+     "fonte": "365Scores",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWN2QkhmWHFuc0JKb2V0LXNOYU9PNnhfRXN0WjFZYlEwTGhiVzlqLWRXQ0RPb29iRzZQcjVVWE96bVUydFpaVF9qSU4taGZLMUpSYzI0YjN0bGFDS2dscjNOSFF6RkN0aEJRd3E2YlBHeklVN19vT3dxdkZXaWVobktKd01sbTRyRzBSU3l1X2c?oc=5"
+    },
+    {
+     "titulo": "Confiança no elenco faz Jardim descartar gestão de pendurados, e Flamengo terá força máxima antes de enfrentar Palmeiras",
+     "fonte": "O GLOBO",
+     "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNQ2xtVG9hZW80ZGJNd0JKTlNIMlBNbkpQbUdWcmVmWUxQVWlWLUlOWmhHVGg2WUhCNEx2bDJZU3hDTy0zV0JHcXFhaHk1SHgxUDN3bVJMcEpRNVZpbTI1cjFEMXhUdnRWUVJnLTEtMldyczExbnpsZXhCZ0YwMTZzSGNZWGtOTGs3VVVsTTVieVluWTQ0VnYxdWtqSVZmS1Z2WU4tamI0cTlkVFNVNVBMM2tBZXMtU1pNNk9FNTBEeHhxTTktOUxlM08zX1N6dWYwc01aeU9IZVhDZm4tdURlcWNpSXZtQlNsMk9CNEtwV2l3SFpxWEdqWUZUSl9BdVYwTnB3aEN4TjFoRXpPXzVUOEhXbDItYVZiZTFzYTBfWG9qb2Z2SW1sc0hxbU5wLVHSAa8CQVVfeXFMTUNsbVRvYWVvNGRiTXdCSk5TSDJQTW5KUG1HVnJlZllMUFVpVi1JTlpoR1RoNllIQjRMdmwyWVN4Q08tM1dCR3FxYWh5NUh4MVAzd21STHBKUTVWaW0yNXIxRDF4VHZ0VlFSZy0xLTJXcnMxMW56bGV4QmdGMDE2c0hjWVhrTkxrN1VVbE01YnlZblk0NFZ2MXVraklWZktWdllOLWpiNHE5ZFRTVTVQTDNrQWVzLVNaTTZPRTUwRHh4cU05LTlMZTNPM19TenVmMHNNWnlPSGVYQ2ZuLXVEZXFjaUl2bUJTbDJPQjRLcFdpd0hacVhHallGVEpfQXVWME5wd2hDeE4xaEV6T181VDhIV2wyLWFWYmUxc2EwX1hvam9mdkltbHNIcW1OcC1R?oc=5"
+    },
+    {
+     "titulo": "Possível arbitragem de Palmeiras e Flamengo repercute: 'Todo mundo sabe'",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT1RNVFVSZ1VOeHpyVU9qdWRLWGNtTC1uWktVSmJ1X0E2WXhfV2p2T0xFaVI5YS0tRVI5T2tzTEZpejJFcTRPVm01NTRudExnOFBGTjBFRFNIakFnYkJ0REZzb0FnSVYtb3hLSG05VFMyUGVLaVhSUGNudWpCTkJnU3JNa3FKNTBZQ2Q2NzRCQVZDZEdyU1drbHFIcVFaMTMzNEhaeURzZ3RLdVM1Vkx5ZnlIQQ?oc=5"
+    },
+    {
+     "titulo": "Escolha de árbitro de Flamengo e Palmeiras gera tensão na CBF",
+     "fonte": "O Dia",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN0syX05EUjY0YXpxVFYwc2JyOGQwSjZ2VVhGTW9udUdnNzRFTnFuLTJQdkI5a0U4YUxwRjhXX1U2dzFUREJ0dkcwbjJtLWRBY3FoNy1IRlVhSmxKRGhmQ0h5dHl0VUxXMlBvOVlNV1EzMW04Qk1nNVJZZUZCMzNUQjhZLXlvbldDQVNUYmt2T3BQNlhCLWczcnF1ZlVHQ1NWaFdmcXNTOHN0YTNrckNvbjU1ZkEzUDBxZUFIeFY0TdIBxAFBVV95cUxNUE83bjQxeHlhS1cxOWJQbHpBa08wRWUyUWJaZDFVdVFqSWhhb2xkTk1MSFc1OU1NZzRoa0FGTzh2WmxwS0FjUEk2cExDUU1ZdHRRdTdjT01BMnBjaFByQVBPa0xDeUd4THlhb1VuVGxlNVVkYzdKTi1POW5kUU9KYjJ6VkpTVFFfMXowZ0NKZUE3Vklqc2IxNE5IQmlZSmhLeExKWnJFN0Faek1rRjhIc0w1djFJLWxqc1hudkpBT1VyU0VM?oc=5"
+    },
+    {
+     "titulo": "Escolha de árbitro para Palmeiras x Flamengo vira “quebra-cabeça” na CBF! A entidade enfrenta dificuldades para definir o árbitro do duelo entre Palmeiras e Flamengo, neste sábado (21), no Nubank Parque. Rodrigo José Pereira de Lima e Davi Lacerda s",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KUXFwQmNzWlpVcU5fdTZTN0FnNXJvOC1HNDFfc1ZiVmhKeExYanVOS3ZDZmFqaWtDYTk2b0pIUGJSeGktWU5MSXgtSHBrcWN0Qnc?oc=5"
     }
    ]
   },
   {
-   "tema": "Abel comanda treino tático, e Palmeiras terá mudanças para enfrentar o Cruzeiro",
+   "tema": "Seedorf nega ter proibido palavra 'erro' no Corinthians: 'Escravidão já foi'",
+   "categoria": "Técnico",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 68.1,
+   "sinais": {
+    "busca": 70,
+    "aceleracao": 73,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": 52
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "seedorf corinthians",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 3,
+   "assinatura": "proib|palav|erro|seedo",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Opinião forte (60 a 90 s)",
+    "gancho": "Todo mundo culpa o técnico. Eu acho que o problema do Corinthians está em outro lugar.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
+    "pergunta_enquete": "Qual sua opinião: Seedorf nega ter proibido palavra 'erro' no Corinthians: 'Escravidão já foi'?",
+    "tecnica": "Contradição",
+    "ganchos": [
+     {
+      "tecnica": "Contradição",
+      "texto": "Todo mundo culpa o técnico. Eu acho que o problema do Corinthians está em outro lugar.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Diretoria de um lado, elenco do outro, e no meio um técnico que precisa de resultado já.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Quanto tempo o técnico ainda tem no Corinthians?",
+      "thumb": "E AGORA, CORINTHIANS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Minha aposta: essa história do técnico do Corinthians termina [SEU PALPITE]. Volta aqui e me cobra.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "O torcedor está digitando “seedorf corinthians” no Google agora. A resposta não é tão simples.",
+      "thumb": "VOCÊ PESQUISOU"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Seedorf proibiu a palavra 'erro' no Corinthians? Treinador revela situação",
+     "fonte": "Band",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWjN0ZjNvZmQ4RU9PTXVGalp0XzBlOHA5Rmx2YzNvcXdtZW4yOUhqYzhqbzhBTTlxU2R6dEdsYlk2Q2lHb3ptMFFxdXBmRFotaWotbFJXR0VwVk5VUjlwUzg1d0I0VGFBNTNNaVV2em9BTWdCZzBLN0p5cTNWNm1SdzNYUFE0WVl6QUJmdFgyY0w0OEM5aFNUWjkxWHF2MEpsWEJxbTFtYV93UUpsbFZtRmN3?oc=5"
+    },
+    {
+     "titulo": "Seedorf nega ter proibido palavra 'erro' no Corinthians: 'Escravidão já foi'",
+     "fonte": "UOL",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaUJwR0VnR3VQMkk3SV9LMjhBd0ZyMVNPV1pLLVpYQzg1LVc4VUpxbjZ0UFl1ZkN4OFZrZGVrSkt1RnZmQXRicE0yd1VlTnQ3a1FlZlV1UFZTbnA2QmlZQjljMEJ4ZTFJQ0tjRFQzRVYzd2Q4ZGtrWlJhRGdQWEVqTjBsbGtwMndnbzQ2ckFLWDhBNFotOXc1dzJnMkU1Mmp5MWFVbTFKQ2FqMVFFTWNKakNtWmpURjhNQ2VrWnJOVlJpQ0FPM0pmU3MxaEpjM3FVQ05qYUpXSkVQX3M?oc=5"
+    },
+    {
+     "titulo": "Seedorf nega ter proibido a palavra 'erro' no Corinthians: 'Escravidão já acabou'",
+     "fonte": "UOL",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84NU1zcmNoa0FiaHlZWE45WmVvTFRzMVJxUXE1U3JTUWRTS2Y3Y25aU3hVRHc4ajd2S1hNXzdJeXcxNTF4cEx0VXFGeTVlNzVqSnl1NzJGM01xVTBfSmxOVGF6S2UteGM?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "kU4se6E83Wk",
+      "titulo": "Seedorf PROIBIU a palavra 'errar' no Corinthians?! 🤐 #corinthians #shorts",
+      "canal": "DoseDeFutebol",
+      "views": 1832,
+      "likes": 29,
+      "comentarios": 1,
+      "publicado": "2026-11-16T18:18:53Z",
+      "duracao_s": 31,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=kU4se6E83Wk"
+     },
+     {
+      "id": "OQKhGf6_pa0",
+      "titulo": "Seedorf proibiu a palavra \"erro\"? Por que o Corinthians está treinando na Neo Química Arena?",
+      "canal": "Gazeta Esportiva",
+      "views": 130,
+      "likes": 14,
+      "comentarios": 0,
+      "publicado": "2026-11-17T17:59:14Z",
+      "duracao_s": 81,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=OQKhGf6_pa0"
+     },
+     {
+      "id": "y7WCZqRYmqY",
+      "titulo": "Seedorf explica proibição da palavra \"erro\" no Corinthians | Shorts",
+      "canal": "Esporte na Band",
+      "views": 94,
+      "likes": 7,
+      "comentarios": 0,
+      "publicado": "2026-11-17T17:59:40Z",
+      "duracao_s": 83,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=y7WCZqRYmqY"
+     }
+    ],
+    "consulta": "Corinthians Seedorf proibido palavra",
+    "n_videos": 3,
+    "mais_de": false,
+    "views": 2056,
+    "top": [
+     {
+      "titulo": "Seedorf PROIBIU a palavra 'errar' no Corinthians?! 🤐 #corinthians #shorts",
+      "canal": "DoseDeFutebol",
+      "views": 1832,
+      "url": "https://www.youtube.com/watch?v=kU4se6E83Wk",
+      "publicado": "2026-11-16T18:18:53Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Seedorf proibiu a palavra \"erro\"? Por que o Corinthians está treinando na Neo Química Arena?",
+      "canal": "Gazeta Esportiva",
+      "views": 130,
+      "url": "https://www.youtube.com/watch?v=OQKhGf6_pa0",
+      "publicado": "2026-11-17T17:59:14Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Seedorf explica proibição da palavra \"erro\" no Corinthians | Shorts",
+      "canal": "Esporte na Band",
+      "views": 94,
+      "url": "https://www.youtube.com/watch?v=y7WCZqRYmqY",
+      "publicado": "2026-11-17T17:59:40Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Corinthians entra com pedido de tutela cautelar e pensa em Recuperação Judicial",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 67.7,
+   "sinais": {
+    "busca": 75,
+    "aceleracao": 90,
+    "midia": 58,
+    "aderencia": 100,
+    "youtube": 14
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "recuperação judicial",
+   "termos_trends": [],
+   "n_fontes": 3,
+   "n_manchetes": 3,
+   "assinatura": "tutel|corin|caute|entra",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "“recuperação judicial”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+    "titulo_thumb": "VOCÊ PESQUISOU",
+    "pergunta_enquete": "Qual sua opinião: Corinthians entra com pedido de tutela cautelar e pensa em Recuperação Judicial?",
+    "tecnica": "Dado",
+    "ganchos": [
+     {
+      "tecnica": "Dado",
+      "texto": "“recuperação judicial”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Corinthians entra com pedido de tutela cautelar e pensa em Recuperação Judicial. A leitura óbvia é uma. A que importa é outra.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Corinthians entra com pedido de tutela cautelar e pensa em Recuperação Judicial. Isso é bom ou ruim para o Corinthians? Responde antes de ver a minha análise.",
+      "thumb": "E AGORA, CORINTHIANS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Corinthians entra com pedido de tutela cautelar e pensa em Recuperação Judicial. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Corinthians entra com pedido de tutela cautelar e pensa em Recuperação Judicial. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+      "thumb": "QUEM TEM RAZÃO?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Corinthians pede tutela cautelar na Justiça de SP e se aproxima de Recuperação Judicial",
+     "fonte": "BPMoney",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVWFYU1hQa0RFRHNET0EwcnJ2TWZCSHZUcFZxUy0tTFdLeUswUldlUHRKVUk3RkFiSnpsNWM0NGFOTk4yYnY4RDFxOTc1dFlXb1BzRlRZYnZFam0yNldhU3VPRDRfMEQyVFZRLWtHQ1pnaW9aSHZJMGZRLUNQMWZIT2NibUpWQW9HTkRjZktjNA?oc=5"
+    },
+    {
+     "titulo": "Corinthians entra com pedido de tutela cautelar e pensa em Recuperação Judicial",
+     "fonte": "Portal ABC do ABC",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSkhvU0R2TXBVRXZDQ2F2MnRsLVNoV1AtY05BX3lNQzZ1Yi1QNVRoUHJjV3JZRFk2WjJ4aTg5elVUNEE4RFNiRkFDMTIyYWk0NFBobjlOTzA4V2VlcHBOTjVrNWJRNkRWOVBwZjNWU0xOb1Q2VzVUVnhUSGNOTHRKSA?oc=5"
+    },
+    {
+     "titulo": "Corinthians entra com pedido de tutela cautelar na Justiça",
+     "fonte": "Metrópoles",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbktLLXNZNVM3S3NoMHdBVWdqdWdKSzQweFVnXzh2N0dyWnJxdkJqc3hSbU92S2FYRENGU3ZkaHllTFhaUFBZamRvMGk3QUNBc2FhekV4a0tlaTM0djd0MG16Tk1Md3djbUpHMkJmVDFMN2w5M1UzbGF1LTJfenptSDNLOGh2cVg1Ym55NkJBa2hTelNuM2ZCVGN3?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "JK6G9GzGRIo",
+      "titulo": "Corinthians pede tutela cautelar: dívida de R$ 2,8 bilhões. O que muda?",
+      "canal": "Nação Alvinegra 1910",
+      "views": 1,
+      "likes": 0,
+      "comentarios": 1,
+      "publicado": "2026-11-17T17:23:01Z",
+      "duracao_s": 423,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=JK6G9GzGRIo"
+     },
+     {
+      "id": "xUIw3nX6cwQ",
+      "titulo": "Corinthians protocola tutela cautelar antes da recuperação judicial",
+      "canal": "Geral cortes ",
+      "views": 1,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-11-17T16:17:56Z",
+      "duracao_s": 33,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=xUIw3nX6cwQ"
+     }
+    ],
+    "consulta": "Corinthians Recuperação cautelar tutela",
+    "n_videos": 2,
+    "mais_de": false,
+    "views": 2,
+    "top": [
+     {
+      "titulo": "Corinthians pede tutela cautelar: dívida de R$ 2,8 bilhões. O que muda?",
+      "canal": "Nação Alvinegra 1910",
+      "views": 1,
+      "url": "https://www.youtube.com/watch?v=JK6G9GzGRIo",
+      "publicado": "2026-11-17T17:23:01Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Corinthians protocola tutela cautelar antes da recuperação judicial",
+      "canal": "Geral cortes ",
+      "views": 1,
+      "url": "https://www.youtube.com/watch?v=xUIw3nX6cwQ",
+      "publicado": "2026-11-17T16:17:56Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Recuperação judicial do Corinthians: clube pede cautelar",
+   "categoria": "Finanças e gestão",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 67.3,
+   "sinais": {
+    "busca": 75,
+    "aceleracao": 77,
+    "midia": 75,
+    "aderencia": 100,
+    "youtube": 14
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "recuperação judicial",
+   "termos_trends": [],
+   "n_fontes": 5,
+   "n_manchetes": 5,
+   "assinatura": "corin|pede|caute|judic",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Explicador de bastidor (2 a 4 min)",
+    "gancho": "Recuperação judicial do Corinthians: clube pede cautelar. De onde vai sair esse dinheiro?",
+    "titulo_thumb": "E AGORA, CORINTHIANS?",
+    "pergunta_enquete": "Qual sua opinião: Recuperação judicial do Corinthians: clube pede cautelar?",
+    "tecnica": "Pergunta aberta",
+    "ganchos": [
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Recuperação judicial do Corinthians: clube pede cautelar. De onde vai sair esse dinheiro?",
+      "thumb": "E AGORA, CORINTHIANS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Recuperação judicial do Corinthians: clube pede cautelar. Minha aposta: [SEU PALPITE]. Volta aqui daqui a um mês e me cobra.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "Corinthians pede tutela cautelar para renegociar dívida de R$ 2,8 bilhões. Guarda esse número, porque ele muda a conversa sobre o Corinthians.",
+      "thumb": "R$ 2,8 BILHÕES"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Recuperação judicial do Corinthians: clube pede cautelar. Dinheiro de um lado, time do outro: alguma coisa vai ter que ceder.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "R$ 2,8 bilhões. No discurso, equilíbrio. Na prática, essa conta não fecha.",
+      "thumb": "NÃO É BEM ASSIM"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Recuperação judicial do Corinthians: clube pede cautelar",
+     "fonte": "ES Brasil",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96b1d5OFl6SGJ4YlVDQ1kybERFWE1NZm9SSG1fWU1FT2h3SmM5NmNvYkhMcGRWOC1WRG12UTd3UElfTVhwbzFTTlYwVERpeFp6VU1Jd19UQUQ3UkNjT2pUeDVSSERjbDRKcVBfWC1URk9mVnVGRVBYWHJiQnYzZw?oc=5"
+    },
+    {
+     "titulo": "Corinthians pede tutela cautelar para renegociar dívida de R$ 2,8 bilhões",
+     "fonte": "VEJA",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeGpYQmhKR1E2SzNoYmRQU0NjQkE5Z1hEb3BKRkdFSHFoQVhFYTBvOWpVQ3p1dEsxYWtxVElRay10TFgwRnRNM2IxdWlsc2RMQkJSc2psb1NzMVNpa2xsVlhlS2oxS0VmYjNpRmhOWGt3dzBPVVlUR2swNTVobkwzekh2Rk5HbmRxRkpjX3dlTnBxZUwxajExdDdsSUN0RnFHTmRJMFk0N3N1dVBLQXhuZDFoUzA1cEo0VkVIcjRR?oc=5"
+    },
+    {
+     "titulo": "Corinthians pede tutela cautelar para negociar dívidas com credores",
+     "fonte": "UOL",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONHB2WDltM1g2YUF5b1pENlp1akFMY0g4TktzUGtyNzRVdm9QRGpNN1UyemhaWnZXeG44dXNKSmVMZGlfeW9ZY04ydC1jcjlXaFRyaVE1aWl0QndhZGM1S0xtZHlMWWZ5UndWN09WZ290Z3NIU1pQQU11OV9tRnBpY2tnQmZUS1FFQUJ3eFBfV1k3UUdyYmZ2WVVIYUNmTmZ3YUY0VXp6LUh0b25rWE45UnJuZHJHTzNfdDcxOFBLZ0RxT1lTWlI5NHQ3ZkEzUko2YXpuQnhn?oc=5"
+    },
+    {
+     "titulo": "Corinthians entra com pedido de tutela cautelar e caminha para Recuperação Judicial",
+     "fonte": "Estadão",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZlgtZ0RYS01KQjFHWXIzWTUxQ1dVa0JtajNKZGNqZVByS2FKa3AwMUpETkVpN0xPU3NZRnJHdmd6MkZWTGpYS2xJaE0zTnVQWG9Yekp4VnBRZzg2ME9FcU9KbHlEQVR3NDBhMnd3dEZDV0twV2tuRmcwX09IUzM3YXZLdGVvd2RTZjRwNk9jUmVuMm5OSjhncVRIdnhvVmZTYk1qaHdFQnQwQ2xPX1Y5SU1hLUEyYXZYVEh0dmxGRXlKRUl1VmY00gHMAUFVX3lxTE1aYmJaclBYdDhOZC1Sbk9DaktGbl9ZUjZiRHVsRXY1U1ZGQWVBRFhFaEpoMzFCZ0pUdjZJbUZVTTZRYU5ZMDJ2U0tGVEhBbXkyLU9zQW5pTy1JRU92MFdxZ29pZGhoamYzZWZlT0lLOEVnMzZkQjhIY2NjZWc3TnJqMERQc3JIZ0o0NWhGRUxYQUQzbnNyU1FqNFBTSGhaMkplQWpKUnJxVGJPWlNtUnpuUU1tdFhFT0p5TE16M1pGal9GWDZ2S1dVQnNLaA?oc=5"
+    },
+    {
+     "titulo": "Corinthians pede renegociação com credores em ação que antecede recuperação judicial",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTXI4cGlfOEkzb05WQ24wYmZHZk01dktLa0dxaDVDcVhISVdWOV90VUFIR2dHUktjbzJUQWJ0N3ExSTRwVmEtd29UZ015WXFOU2VrTkVIc0prNlpCMEtJUlhCTnpHT3Nsa0xPUGVHZ1pLVGt2NlR5bi1abXRrVlQwYzcybktyNTMtQkJuM2R6Mjg4dkh1bUk3QzlXMnoyQ2tidkwwOVYycWt0djNxSXYydHhDWm1GdE9pNFluMDdkTjJMMTRIVWFxR1hQcGNDWDExWF9uWkpVOXI3a3pyMTJPdVJyYWFvdWRyWGpXb9IB-wFBVV95cUxOanFHNTZtT0pmX2tWT0dGdHN3bkk0Ym1TQTNhc0pBRVlUWVBpUUxDWEl0ZTkyeS12RjBPMXU4TUZwSmlVeC05c0pQSThDZS1OWW9hRHJ0OW9kbFlCUXlHV05WeXJVa3liYjRwVFJnNkdLU0NyMWppWGxjRzNiMDV0eW9XbVQtTnV3U09iNTJGeThSbUhDM09aVXNDeFdVYkdaMTByTWs2R3g5UkZqLVlwOGtpbmNmaDB5RFJjWjVQbW42anlUcTJxOG9XcXVrRUpCcWxKMVczNXY2Ui1qUG5udnBzWmVETVZHYXdIMUxuTmY1YVJWdEluZ2dCWQ?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "JK6G9GzGRIo",
+      "titulo": "Corinthians pede tutela cautelar: dívida de R$ 2,8 bilhões. O que muda?",
+      "canal": "Nação Alvinegra 1910",
+      "views": 1,
+      "likes": 0,
+      "comentarios": 1,
+      "publicado": "2026-11-17T17:23:01Z",
+      "duracao_s": 423,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=JK6G9GzGRIo"
+     },
+     {
+      "id": "xUIw3nX6cwQ",
+      "titulo": "Corinthians protocola tutela cautelar antes da recuperação judicial",
+      "canal": "Geral cortes ",
+      "views": 1,
+      "likes": 0,
+      "comentarios": 0,
+      "publicado": "2026-11-17T16:17:56Z",
+      "duracao_s": 33,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=xUIw3nX6cwQ"
+     }
+    ],
+    "consulta": "Corinthians Recuperação cautelar judicial",
+    "n_videos": 2,
+    "mais_de": false,
+    "views": 2,
+    "top": [
+     {
+      "titulo": "Corinthians pede tutela cautelar: dívida de R$ 2,8 bilhões. O que muda?",
+      "canal": "Nação Alvinegra 1910",
+      "views": 1,
+      "url": "https://www.youtube.com/watch?v=JK6G9GzGRIo",
+      "publicado": "2026-11-17T17:23:01Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "Corinthians protocola tutela cautelar antes da recuperação judicial",
+      "canal": "Geral cortes ",
+      "views": 1,
+      "url": "https://www.youtube.com/watch?v=xUIw3nX6cwQ",
+      "publicado": "2026-11-17T16:17:56Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Flamengo x Athletico-PR: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão",
+   "categoria": "Lesão e desfalque",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 65.2,
+   "sinais": {
+    "busca": 55,
+    "aceleracao": 67,
+    "midia": 67,
+    "aderencia": 100,
+    "youtube": 46
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "flamengo x cruzeiro",
+   "termos_trends": [],
+   "n_fontes": 4,
+   "n_manchetes": 10,
+   "assinatura": "brasi|flame|athle|jogo",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 2 min)",
+    "gancho": "Luiz Gustavo vira o quarto desfalque para jogo contra o Flamengo. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
+    "titulo_thumb": "MEU PALPITE",
+    "pergunta_enquete": "Qual sua opinião: Flamengo x Athletico-PR: onde assistir ao vivo, horário, palpite e prováveis escalações do?",
+    "tecnica": "Aposta",
+    "ganchos": [
+     {
+      "tecnica": "Aposta",
+      "texto": "Luiz Gustavo vira o quarto desfalque para jogo contra o Flamengo. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Luiz Gustavo vira o quarto desfalque para jogo contra o Flamengo. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Luiz Gustavo vira o quarto desfalque para jogo contra o Flamengo. A leitura óbvia é uma. A que importa é outra.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Luiz Gustavo vira o quarto desfalque para jogo contra o Flamengo. E agora: o que muda para o Flamengo?",
+      "thumb": "E AGORA, FLAMENGO?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Flamengo e Palmeiras se preparam para seus compromissos na 35ª rodada do Campeonato Brasileiro. O Rubro-Negro enfrentará o Athletico-PR no Maracanã, enquanto o Alviverde irá até Minas Gerais para enfrentar o Cruzeiro, no Mineirão. Para esses imp",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LMlpFZ1VOU0hBajV6aE84RGRFNEl6eTRNVVlBSjMzdkhxbnNDMF9vYUUxOE9kbFZRS2JkeE05bHVJcFFldkF5N1RYQzAwcGtXc1E?oc=5"
+    },
+    {
+     "titulo": "Escalação do Athletico: Luiz Gustavo vira o quarto desfalque para jogo contra o Flamengo",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPN1FVRmlRNm1XbkNKZzhZTDFGQVZSVDhQOEdkM2xQSVNoVi1oVXY1dzMxYml2ZS1kN21HV3UyVzV3cy1NeUc0REVzTGZQUFFtZ0ZlVGFDOTNBbWhIRFJNdEdZdFM5MVpUYjlEVVhVTzhPVzdMRXBQVEFmME8wYnZkeUhqRTgzbDdBWTRTVWJmSWtrelpBc2w1S2ltVW01Z0FNTG94cnJ1LWg3YmRrOHo0RjBMbGVWREgxSlJvZy1MQk5udlAzRDNoNEUyaGNGMDg5UGFLM2g4NUFOZGtraElrbTRkWE9JcVlNUWVIWV9QeVdMdERZU3fSAYQCQVVfeXFMUGVqRzhUb2pwdTVuM0R5U18yM0NhSjF5bmdva3RyMEtsTHc2S0VhRHhRcVdIREtYckVHamNGcDdKY1JTcEs2VWNDZnRBd1VKb3M4UEZCaWNLTlpwSVJMdElVbmd6ZGZRYXAwMk1RSFI5Z1ZWdHZMS2twdUZIaFNRM241UDdKTXN4eWt3cHVRZEJucmVzVmFpdk5UM0gwVlhweVlxZWRCN1VxRVhqZEtHaVVxNjl2cW9zS3JEdjFzdGRITEtaMDdCcnJJcnNDbm5aTWNUTjNfUmxpR0g4b19IUkRJZnBwMkJPUHA1RFFXdmt0TjFPckhpNmRvNDVIT3JwUDNlblE?oc=5"
+    },
+    {
+     "titulo": "Corinthians x Botafogo: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaFlhWkQyX0tFbmJ4ajVxeVlGMjlZVk4tZXVvOW11cG4zVk1wb19iclpDRVdmQjJHdjVlVExvUmcxNlc5NDA3R3FkTklZU1JRMi0zaUpJdXRJRHJoTm13bGdGNFF0WDRWcF8zWkFyQnpreEI4cmJ0T0xVSjU0ck01bEJxdHZtZnM5NjZJcVVmZFVqRWZtQkYxVEp6VVBtcXREd2g3MWlyR2JEdmdrTTd0dVp6eFpFSUpITTR5d3JlQjRHdE9JSm9wa0xnRHZVN2lDMFdDMklhbllTbG5IOVpycDhmYTEtMlI2eU5pTUh4OFJGVlE?oc=5"
+    },
+    {
+     "titulo": "Flamengo x Athletico-PR: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQT3otWTNzczlKWVBGSEhORTdRa0w1NkI2b3hWSjAxb2tzc3VpMFBfdkVCZS1xRTN4WDNjZWpRRmlDWjRXc25hOXBKYVVVckhEUlNONVFwS295QlItYWlYUmdhSExLQVJQOWlpM25ISlVwMjBFNWljZVEwNjFvN0RXeVl0OURTRXBHY0wtRWxNLUk1V1lIaDJ6ZGZKeV83eUx5M3ZpX3RWWURiQjJmN2Iwa0Q4OHJLZXpfT2VoV3dxUkZXYk45MXIweHQ1bTYyaEpkR0pwTEp1eldvRXU0VTI3ZDRIdlRvN01IcXI3YWxQdjVsWk14?oc=5"
+    },
+    {
+     "titulo": "Cruzeiro x Palmeiras: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMDdYclJZSTg2WmIzOUtONFhVWF9VWC0wZ1dMYkEtdlotN3hkSmFHVDBzbGhSeW03MHZOamJvNkFjcUJPYWJEdVRlQ2JWNlRJMGQwUHBxXzdscjJvay05eXhDNlhMb2kxeklZeldhZWdkdlNiSjNFd19UUFc3UGYtT0NnSi1iZ0JYQzdFMEhfbjVmYzBCQ0J3Nk1WMWpYRU5pRFFqWkJPWDNXakVnSlRySGh2NF9kX2puLVdLazNLSHZTQ1BIcmh5V1pZbllkU2RDZDJWbmtQeXZRYXkxN1JvUFZ2UEFnTGRtbVlpd3Uyc0pzWVk?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "U-Z1IfaBDCI",
+      "titulo": "FLAMENGO X ATHLETICO-PR: ONDE ASSISTIR, PROVÁVEIS ESCALAÇÕES, RETROSPECTO E TUDO SOBRE BRASILEIRÃO!",
+      "canal": "info fut",
+      "views": 1726,
+      "likes": 45,
+      "comentarios": 0,
+      "publicado": "2026-11-16T08:15:08Z",
+      "duracao_s": 72,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=U-Z1IfaBDCI"
+     }
+    ],
+    "consulta": "Flamengo escalações prováveis",
+    "n_videos": 1,
+    "mais_de": false,
+    "views": 1726,
+    "top": [
+     {
+      "titulo": "FLAMENGO X ATHLETICO-PR: ONDE ASSISTIR, PROVÁVEIS ESCALAÇÕES, RETROSPECTO E TUDO SOBRE BRASILEIRÃO!",
+      "canal": "info fut",
+      "views": 1726,
+      "url": "https://www.youtube.com/watch?v=U-Z1IfaBDCI",
+      "publicado": "2026-11-16T08:15:08Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Betano, patrocinadora master do Flamengo, divulgou uma nota oficializando a suspensão do contrato com o rubro-negro após a Medida Provisória que proíbe as bets no Brasil; confira abaixo “A Betano anuncia a suspensão de seu patrocínio ao Flamengo di",
+   "categoria": "Finanças e gestão",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 63.7,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 79,
+    "midia": 100,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 13,
+   "n_manchetes": 13,
+   "assinatura": "betan|suspe|flame|patro",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Explicador de bastidor (2 a 4 min)",
+    "gancho": "Flamengo apresenta orçamento 2027 de R$1,535 bi e confirma suspensão da Betano. Parece só um número, mas ele vai pesar nos próximos meses do Flamengo.",
+    "titulo_thumb": "R$1,535 BI",
+    "pergunta_enquete": "Qual sua opinião: Betano, patrocinadora master do Flamengo, divulgou uma nota oficializando a suspensão do c?",
+    "tecnica": "Dado",
+    "ganchos": [
+     {
+      "tecnica": "Dado",
+      "texto": "Flamengo apresenta orçamento 2027 de R$1,535 bi e confirma suspensão da Betano. Parece só um número, mas ele vai pesar nos próximos meses do Flamengo.",
+      "thumb": "R$1,535 BI"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Betano confirma suspensão do contrato com o Flamengo após proibição das bets. Nessa conta, tem quem ganha e tem quem paga, e não é a mesma pessoa.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Betano confirma suspensão do contrato com o Flamengo após proibição das bets. A manchete conta uma parte. A outra parte está nos números.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Betano confirma suspensão do contrato com o Flamengo após proibição das bets. Quem paga essa conta no fim: a diretoria ou o torcedor?",
+      "thumb": "E AGORA, FLAMENGO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Eu aposto que essa conta chega no elenco do Flamengo ainda nesta temporada. Você aposta em quê?",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Betano suspende patrocínio com Flamengo",
+     "fonte": "Diário do Rio",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLVVjU2hHbDdOa3NMR2NqN1Rlb2FqdG5ESF92eFctblRvbHBDUDI4bjgtbmQ2S0djeE9Heks0bTZYNUFCcXhSUjNvVkVackN0eTkzMEhkRktpUTQyQUgtRFFvQmFIRndUbEFvc0hMYmp4TGppaXJpaV9OZmRDZG95M0tVdmttSnJ6SmFySVpqaEc?oc=5"
+    },
+    {
+     "titulo": "Betano suspende patrocínio ao Flamengo",
+     "fonte": "Meio e Mensagem",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU1VWQ3ppaHZIRG9jSmFBNkdkaGVFMkZGNHlFUXdXWmFKRnA3MXJydGRldWhKQUFUUGhPMEwzLW15amlNT2VXSjJRdkxaTTN4Unc0c3BwV0R4anlUdFlwaE5qZ0VaZTFqSW8zMm1kYWVFc2FseUdSTVEtRDBnbVIyU1hOV3NFTnF3?oc=5"
+    },
+    {
+     "titulo": "Betano confirma suspensão do contrato com o Flamengo após proibição das bets",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTWtLc2xnZnBlUVJKaWlLLXZEbGI2bGJCSmlPWWlVaWtnUUVWSDZWTUdzMktYaGwzZElubGszVkdydkJBdHZkeDNEek9MRzN4RDZGTUdrOGtyMFhTQXEzUlFWdEpzdTNJTEw5VUU4SUEzajZWZDViT3JXMmVkeEhQeDZHVXR3TVJSMEVWWnhPVnk0ZS1lQTltUmtlV19lSFJXTFRsWjZaODNJU0xsN2hnRE45aTBBS3ZYVUZ3Yk5aWUktVUxiSjU4b3pIWHdRTDlHMXBQSjdtc2VCYkJjd3JkS1VmdnRhdXcwWmowaVE3amFHYzBpX1YtVg?oc=5"
+    },
+    {
+     "titulo": "Betano, patrocinadora master do Flamengo, divulgou uma nota oficializando a suspensão do contrato com o rubro-negro após a Medida Provisória que proíbe as bets no Brasil; confira abaixo “A Betano anuncia a suspensão de seu patrocínio ao Flamengo di",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tbmM5dTNxZ1dmZDdpb09nWmJBRklOLWh3TExTSDhQV1lzcG9tRFV5NnREQnItZHdxQ0N6NjJGTjczbGUxbnVsV21Gb016MGYzZ0E?oc=5"
+    },
+    {
+     "titulo": "Flamengo apresenta orçamento 2027 de R$1,535 bi e confirma suspensão da Betano",
+     "fonte": "Futebol Sergipano",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd0hqZTZpNDRLZmNqZmVKdlNESkE0UVFTdkN1Wkd6RzA4VlA2dFUySENtNDQ4WHJvWk15Zk1rZ2pNS2w2bnVqOFR3a09OY2FFaDRfTkxRQVU5YllJUUEtUEVjUHRKRTVqN0JMSDhnNk9DOEdGY1l4c0t0eFdEbEtRTTVtRlJQV1locjhlc1ltN1VYWXFaLU5KUmtaR1NNbWVtMlBwSmRXRld0NDBXcEE?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Corinthians recorre à Justiça para negociar dívida de R$ 2,8 bilhões e conter crise financeira",
+   "categoria": "Mercado da bola",
+   "clubes": [
+    "Corinthians"
+   ],
+   "foco": true,
+   "nota": 63.2,
+   "sinais": {
+    "busca": 0,
+    "aceleracao": 90,
+    "midia": 81,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": null,
+   "termos_trends": [],
+   "n_fontes": 6,
+   "n_manchetes": 6,
+   "assinatura": "corin|divid|negoc|justi",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 3 min)",
+    "gancho": "O Corinthians quer, mas do outro lado alguém está segurando. Essa queda de braço vai ter um perdedor.",
+    "titulo_thumb": "QUEM TEM RAZÃO?",
+    "pergunta_enquete": "Qual sua opinião: Corinthians recorre à Justiça para negociar dívida de R$ 2,8 bilhões e conter crise financ?",
+    "tecnica": "Conflito",
+    "ganchos": [
+     {
+      "tecnica": "Conflito",
+      "texto": "O Corinthians quer, mas do outro lado alguém está segurando. Essa queda de braço vai ter um perdedor.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Todo mundo está comemorando essa negociação do Corinthians. Eu vejo um risco que ninguém está comentando.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Esse negócio vale a pena para o Corinthians? Pensa bem antes de responder.",
+      "thumb": "E AGORA, CORINTHIANS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Minha aposta é que essa novela do Corinthians termina [SEU PALPITE]. Guarda esse vídeo.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "Corinthians recorre à Justiça para negociar dívida de R$ 2,8 bilhões e conter crise. Quase ninguém fez a conta do que isso significa para o Corinthians.",
+      "thumb": "R$ 2,8 BILHÕES"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Corinthians recorre à Justiça para frear cobranças em meio a dívida bilionária",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaGRNaTdnNVlhbGRDWTYzbzFNODhQaGtKRWxoNjFwTHhKc1dhWjRoWm5nYlVBXzNhM0MyRm9wMnZGVnZ3cF82aDl3WjJjU2tUcVd2SVRYOXRWMTNkTTRlWFZGeENtTmtiRU5QMnFscW5SSUhfT1hZaldrTW1kYncyTGlNVlc5Z1AwTWZMYjdTVVpGd2hEWUxSbXZtUXJHVTFlbzg3T3FHNlVSY3ZLRVBxbnMyeG44Rk80VHNSbUQzMUxOZnNlT2Y4eU1MbEZpeTdvaTd1NmJ0NEtMVmVNc00tMlVBSDZfM09oQUN0bXFGbHdWdEZmdUdqb0FBQkQ4czA?oc=5"
+    },
+    {
+     "titulo": "Corinthians recorre à Justiça para negociar dívida de R$ 2,8 bilhões e conter crise financeira",
+     "fonte": "Alô Alô Bahia",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVC1YWXVzVTAwdHhxV0I4MWFOQjBoM3BrX2tYdTk2N3FqNjl0MF8tZElXV2NfdkZpRHBiNVp3ZTBlWDlHMGpmX1AyTC1PQXMxX0VFYWIybU5NdUl4c20xVHFzU2FaaTBlMGFKMmQzZXZmR1d4dGRTVk5iYTVBbzI5VjlYSi1fOC0tZzI1QmV6bVFCMVBiM0kxVGk0TmVFRzJ4QmRvQkdGRGJJa0JnSVU2UW9vdHFCUXpTNmxMU05LTktyT2ZySVBldTJ5RmdwUm9zVzFJ?oc=5"
+    },
+    {
+     "titulo": "Corinthians pede proteção judicial para negociar dívida de R$ 2,8 bilhões",
+     "fonte": "Times Brasil | CNBC",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRW50Z2h2MVZSUWRxbW5MS0JZcVBBOWMwMGl0TWhnSjZneWJEU1RwLUVteW82bzBSQmFuZV83ZXpiVEhtMGNNcnd1Z2pNRkVNbUMtZG4zdkRRTU9paUg4M0ZQdXAyckZ5RTcxTkNyZ1ZQeFdCdkJyMXYydEMzRXQ5Q29PdmhtYmNDVi1ESUhHZkJLVGJleUJn?oc=5"
+    },
+    {
+     "titulo": "Corinthians vai à Justiça para negociar dívida com credores",
+     "fonte": "Poder360",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM3pIaE43eXo0djZSVE45eGc5SXlaNHpPbGg2Z0hjRk1zRTJybzBDcHI3eWF6N0tqQ0RMZ3BpaDhjNXJIVDM2OWk0TXFTS1ktMWpvelZYRlNhSy1EcDczYXRablg5R3MxZTFaQ2lLVWpYQlhkOEk2REI2VDVwVXdlZmRibmlJeXFOd3NsVWNySERmVmpxeTV3alZIY3BGZ2Y3djFSS29QRQ?oc=5"
+    },
+    {
+     "titulo": "Corinthians faz pedido de tutela cautelar para negociar dívidas e preparar transição política",
+     "fonte": "Máquina do Esporte",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMTJ3eHB0OEtSNWN6VFl3aTRGNFNISVVQb3BGLTdTeTJ2WEo0MzZVRTJ4VWdvR2ZUNjlmV1FXYlR6a3c4b1pwX0lsejg1bkFJSklpVm12QUh5NzRRQWh0SG1Vb1hjSUtHY19pX2xWVnFjTEo0UWlGRFAySE5mZzBIRE5nenctS0VUZEdXS0E1bVFXTWNpaDg2OUFMRTdLUHUzSmJBMUhROU5WaWdiY1JYM1cyNExicUZPdkRncTRZb0lEMEJXVWhBMmhGRl9NWDA?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Palmeiras fecha preparação visando Cruzeiro e Barboza valoriza período de treinos",
    "categoria": "Notícia do dia",
    "clubes": [
     "Palmeiras",
     "Cruzeiro"
    ],
    "foco": true,
-   "nota": 64.5,
+   "nota": 61.0,
    "sinais": {
-    "busca": 75,
+    "busca": 70,
     "aceleracao": 73,
-    "midia": 81,
+    "midia": 67,
     "aderencia": 100,
     "youtube": 0
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "abel ferreira",
+   "busca_torcedor": "barboza palmeiras",
    "termos_trends": [],
-   "n_fontes": 6,
-   "n_manchetes": 6,
-   "assinatura": "palme|cruze|trein|abel",
+   "n_fontes": 4,
+   "n_manchetes": 4,
+   "assinatura": "palme|cruze|prepa|barbo",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
-    "gancho": "Abel comanda treino tático, e Palmeiras terá mudanças para enfrentar o Cruzeiro. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
-    "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Abel comanda treino tático, e Palmeiras terá mudanças para enfrentar o Cruzeiro?",
-    "tecnica": "Aposta",
-    "ganchos": [
-     {
-      "tecnica": "Aposta",
-      "texto": "Abel comanda treino tático, e Palmeiras terá mudanças para enfrentar o Cruzeiro. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "O torcedor está digitando “abel ferreira” no Google agora. A resposta não é tão simples.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Abel comanda treino tático, e Palmeiras terá mudanças para enfrentar o Cruzeiro. Por trás disso, tem dois lados que não querem a mesma coisa.",
-      "thumb": "PALMEIRAS x CRUZEIRO"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Abel comanda treino tático, e Palmeiras terá mudanças para enfrentar o Cruzeiro. A leitura óbvia é uma. A que importa é outra.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Abel comanda treino tático, e Palmeiras terá mudanças para enfrentar o Cruzeiro. E agora: o que muda para o Palmeiras?",
-      "thumb": "E AGORA, PALMEIRAS?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Palmeiras faz treino tático antes de duelo decisivo contra o Cruzeiro",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQ1VTMnNrT3hNVFFsbUZlSGwtWkM3blgwclNlTXhpOVJVVGFGNmd5dVExejZ4SmlyWGphN3JYRzFDc0pJeVFWSHc1cHNqa0VNSlFYQVZRRGZjeFpnZjVEbUlqa1hpTFZ4dzZSblRoeHhoc2hrY1hFcXZoRFp4QkRlY3F5c0ZXS19kZTJkVExWRlFSUGZ0ZTlVMmlZNDZlSml5N2J6eGtyTlBWNVNId3lGYmowOUcwaU1mbllTVFdITmhtVm5iZWltR1lkVGl5R09wLWVQVUt6NUVIcVp2Rkd5MkJ3eGgycU1HUFlveWlzLUs?oc=5"
-    },
-    {
-     "titulo": "Abel testa mudanças no Palmeiras contra o Cruzeiro; veja o provável time",
-     "fonte": "365Scores",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPckdYZ01ZRzVETHBNZ3lVSnhaVkNKQkJ2a0lzWjd1Um5Xd1M1MnExWGptcHA2aXZtVHdQOHRNNFVNUFhEVnJMNVpBNkNlVVZadkdlQjhIbUVhREJCTE5fTjRaUzM1VFkzaURlVmlLRUFxSjUyR1UzUklRTnpxNTRHQWtuejRuREROVnRrQg?oc=5"
-    },
-    {
-     "titulo": "Palmeiras realiza treino tático antes de enfrentar o Cruzeiro pelo Brasileirão",
-     "fonte": "Portal ABC do ABC",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yTzhKcWVuS0Z2aXFOUDlaLUhKS1cxdE9oNDEzMkhfSnFxcVNuSE00TEtWS3IyX0xfdURQTFhDYzRUZGktb0RCN3lROU9hS0NHamlJVjMxbXY5Zjh4clEyeHBSaWZnRWlMMmRyNw?oc=5"
-    },
-    {
-     "titulo": "Abel comanda treino tático, e Palmeiras terá mudanças para enfrentar o Cruzeiro",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVmtXZktoYWxhbmdlY3N6RjZGcndHaGd6cF9xR3JJeHVVVEN5ckF3UU1SN2RMSEpaVDczbXZjcVJxNmdDUnYyeDIyYkNNV0RjVnMzUk1zdjJQcm00YjFYUldtMHpUcGV2YVYwWk1PMzZsQWZlQXJsSkFiVFJmdUQ0VWlaU2FxeHVOM2NVTURpcGpjeXli0gGaAUFVX3lxTE5INTVIUk45OWJ3RFFGZlVEZUFHUG1HX3hramxQcEZFQWNWZjVES1c5Q1JrVlhrWDRTalhsUFNvLUVZOWVmb3lhczlhMlMzYWd4Mzc1MHQ2c0F4NmlYMGFLekp2OExaT3pCdzhoYjQ5amtCbGc5ZVpWRzIwVUNlQ1VRb3dCY05uaUZhZGZNTHZUbUdfUEtjSVJhdXc?oc=5"
-    },
-    {
-     "titulo": "Treino do Palmeiras: Abel prepara mudanças contra o Cruzeiro",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQjBQeG9EVm9mRV9yMEw2LTAyVkwwQXY5a012c1A2NTBhWTFBR252MVFKVktFaWtNZTV5NUdXMU92OUtUQ0M1WTBvSTJyMktOYjQ1MS12cWR5YVkyeXVXTXdUemxDQlg4SjI3eGJyajJpd2VSWHNlSzNRUkMxVVF0VFpUY1Rpd3hacTRWOC1TcWNTNjJQaUpvZ0d1eU1RUW5qVGY5VjhVTVk1RDA1U1pSU2JRdDFlRW83elZUX3pWMDdTb1M2ZzhVOdIB1wFBVV95cUxOTWxiYXpaWVBNYXNwRl92c3l6Q1djSjY2blU5ME9WdHFMR1VHd1huS2owbDFoQ2JXazVITTFiRl9OVk52YXQ5THFEYXdmMm56YXFqZVd0SERrZG1wSVFaWnJPaXgyQk1BVUJ6THJXc1ZZeFY2WW1oVGIxUUk5ejFzRWZTSTkycTFxYzc1bzZleTNnRDVQTUFTbE5uSHVoVkRnakxJOUJTWU1TbXZFeVVSdkFod19CSDZrN1lrcnlRelJwUmhTSklmQzhTNVF4cS1KLTlteGN3cw?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [],
-    "consulta": "Palmeiras Abel treino mudanças",
-    "n_videos": 0,
-    "mais_de": false,
-    "views": 0,
-    "top": []
-   }
-  },
-  {
-   "tema": "Garro volta a treinar com o elenco e aumenta chance de volta no Corinthians",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Corinthians",
-    "Botafogo"
-   ],
-   "foco": true,
-   "nota": 63.9,
-   "sinais": {
-    "busca": 35,
-    "aceleracao": 73,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "corinthians x botafogo",
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "corin|trein|elenc|garro",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Garro volta a treinar com o elenco e aumenta chance de volta no Corinthians. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
-    "titulo_thumb": "QUEM TEM RAZÃO?",
-    "pergunta_enquete": "Qual sua opinião: Garro volta a treinar com o elenco e aumenta chance de volta no Corinthians?",
-    "tecnica": "Conflito",
-    "ganchos": [
-     {
-      "tecnica": "Conflito",
-      "texto": "Garro volta a treinar com o elenco e aumenta chance de volta no Corinthians. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Garro volta a treinar com o elenco e aumenta chance de volta no Corinthians. A leitura óbvia é uma. A que importa é outra.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Garro volta a treinar com o elenco e aumenta chance de volta no Corinthians. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Garro volta a treinar com o elenco e aumenta chance de volta no Corinthians. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Garro volta a treinar com o elenco e aumenta chance de volta no Corinthians",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVWdTMVQ0cng0SWQyRG5PallkVzhjdWtyYjJ3VnFpUWtmenFtVW9xU212NFZKUGlqUHZ1Y3VvRTdOdE5hYzNkLUNPU1RqSThWLU9wVUVJampqZnZ4dGJVX09jcTh2Y3lvLXJGUUNMcVlHUzlMR1UwZjRrTE5HVG16V1NCUGxXdWMwOWh3Z0dGb1JsekJXMjJhSVRMaE83Z0l2bFluVnZVallXQm8wUkp0cGZ3ZzRZRG4xMzltd19JUko2YW95dFBTS0lsSWlGdGtJdjdPV2pWa3UzWTZtbWhLUw?oc=5"
-    },
-    {
-     "titulo": "Garro volta a treinar com elenco do Corinthians e pode reforçar equipe contra o Botafogo",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONV9YbTh3ZExITHdnRHV2WnZlVzhiOVFhT2lTMXZFSVNaQ2FNRnNoT0JiTF9aNTVDRVJTUy1QTXJ2OTQzV1VrTm9vNEhWamxMM2ZSUHVuZzBubEJOQ1pIYmZOR0gwNEpRVFUyVGNjUGxuZjBsdzlMdnlnbEZ1cm1ySDhoa0JhOUw5SUlrakV2R1F5UmFfbGfSAZsBQVVfeXFMTi1tcmZwSVN1QWZSQ3lycTFLLXRNV3Q3NlNaMTVGbG1oVkxnM1JSSU5QMWl4eDNSRkhLaWp5SnluNDN1aGRKVk5RVGJHWXd3OVpyTUZmaHpaQWExMWFOSkRmcW8wOGF1S2txS1cydGdNZ3ZaeTRleVR1eFgwSTB0aHo1VGVVYi1OWUVZSWpQaXRnVzhPNmw0bnBueU0?oc=5"
-    },
-    {
-     "titulo": "Elenco do Corinthians faz exercício de passes em treino no CT Joaquim Grava",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeUFjRGpuVk9TakdzT0ZfOVdzSUY1VXVhUWRqTW1KQU5BSXZyUTREdG1Hd0ZXNWZRaHhCS2l2QlpyMUxsS3J4Zm1EUWotMFBNTmxDVEZDOEVod0ZYYVlrZXpWV2lEajdBSTdzeHljMW5OR3B3RlZyRE5NYm9kR0xKYTd3ZWVWWWFhdDhRNHZSUHRzdFVKd2NTM3BxdjlNdDV4UE50T2hyMTVHYjZGYlJLSTFIbW1vb09O0gHHAUFVX3lxTE1uY1JuNXlUZkdkb2R3SkxRSFJsUmhFUkNTaXAxaXhaU0NZOERUbFFtUkx5SHlNVnpSLUhESFBpYWlzV3pTZ01tX2xfNHlNaXNkSllTUS1fZGpPZW5pNjQ4emtlVkZFaEhhV21GQzVRcDVwM2xQcEI3SUFiSzRnY1NjUDVmdG8wTFNjNUM0M3gwc29UU3ZOY2phdU43TXlxV3YyLUhycFVSSk8zX3pYX3Q0bUpNSjJWVnlDQ3FTSlBpU0tWbUw0ZTA?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Time do Flamengo terá mais um campo para treinar em 2027",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Flamengo"
-   ],
-   "foco": true,
-   "nota": 61.3,
-   "sinais": {
-    "busca": 60,
-    "aceleracao": 90,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": 0
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "athletico-pr x flamengo",
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "flame|campo|tera|time",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Time do Flamengo terá mais um campo para treinar em 2027. Parece notícia pequena. Não é.",
+    "gancho": "Palmeiras fecha preparação visando Cruzeiro e Barboza valoriza período de treinos. Parece notícia pequena. Não é.",
     "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Time do Flamengo terá mais um campo para treinar em 2027?",
+    "pergunta_enquete": "Qual sua opinião: Palmeiras fecha preparação visando Cruzeiro e Barboza valoriza período de treinos?",
     "tecnica": "Contradição",
     "ganchos": [
      {
       "tecnica": "Contradição",
-      "texto": "Time do Flamengo terá mais um campo para treinar em 2027. Parece notícia pequena. Não é.",
+      "texto": "Palmeiras fecha preparação visando Cruzeiro e Barboza valoriza período de treinos. Parece notícia pequena. Não é.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
-      "tecnica": "Conflito",
-      "texto": "Time do Flamengo terá mais um campo para treinar em 2027. Nem todo mundo no Flamengo vai gostar disso, e eu vou explicar por quê.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
       "tecnica": "Pergunta aberta",
-      "texto": "Time do Flamengo terá mais um campo para treinar em 2027. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-      "thumb": "E AGORA, FLAMENGO?"
+      "texto": "Palmeiras fecha preparação visando Cruzeiro e Barboza valoriza período de treinos. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
+      "thumb": "E AGORA, PALMEIRAS?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Time do Flamengo terá mais um campo para treinar em 2027. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
+      "texto": "Palmeiras fecha preparação visando Cruzeiro e Barboza valoriza período de treinos. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
       "thumb": "MEU PALPITE"
      },
      {
       "tecnica": "Dado",
-      "texto": "“athletico-pr x flamengo”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+      "texto": "“barboza palmeiras”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
       "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Palmeiras fecha preparação visando Cruzeiro e Barboza valoriza período de treinos. Nem todo mundo no Palmeiras vai gostar disso, e eu vou explicar por quê.",
+      "thumb": "PALMEIRAS x CRUZEIRO"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "CT do Flamengo terá mais um campo para a equipe profissional em 2027",
-     "fonte": "O Dia",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa0dRd0YtVU5tUGczZ0U3WF9tTEVkN0RfODdmcEpIOVFsd2EyOGo4c2xDN2dGWEx3d1VNMTFEeGxiUHpXeTg2T3BIb3lMRHZFdVljeEZScThyOWNOcHN6Qkc1MDNWOEI0dFVwU09VWTRsSzFXbURzeGFZQ1M0SXZDS0oyU094Ql82WFpQMEozV2ZnZnZVX19qZVpmenh2TU5DX1V2LXpUQXZGR2hhMldhdDRkN1ozYTQyNExhTy10SGxFV1NWeFd4ZtIBzgFBVV95cUxOcUk4UjVYekNSU1EzckxhVEZlNnZia2x0TFRlVnk0a29GY3F2Z0NuQmhnVzN5dDk1WXZYbkl3cTVJaWIxcnpPR3o5UlhzbUZiLS1lRFdOTnBWTGU4QUJPZURSbjhnSzFuTTZNVko3S3lqRkUxbWRTRjBKWkVfaUNVYlpuTFR5VEYyRHVvTmk2YzlxMG5IYy1IcFoyY0loRUstNThlWi1hck10TDVnR3RMZXFpQVhyUmZYUjRSY0lCc0c4U3BoTjlNaTJtdkRaUQ?oc=5"
+     "titulo": "Barboza projeta sequência do Palmeiras e valoriza pausa: \"Vai nos ajudar\"",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOb0Fkajk4MUc4UEdnSmY1OWU3dzVtdUZST3gzZWRmLTRWdjM0YlpMNzlDSXJkWGJwNkhFRVJSNEI0V3VZN09vOE5aYVp0Vnd2eWp0WG1hMGZpM2xsQmlqLV9BaThGUUhDY0EyUWJPLW1xWnFZaXk4SjJGTGtLX1NQT2lHNmY0bzBWWlJobEdGdU1IQW9DXzBLM1lqUHhfd0haWlNkYWt5cHRWMkV6Q2k0UXRqNVFJcURwUC1OSDd4TElJVFVvUElQX3FQODVoUXJTalExcjNEN0cxQzVrbl9CQ3BSZVVvdGNWSk0wT0RBZ0pKdw?oc=5"
     },
     {
-     "titulo": "Paquetá volta aos treinos no Flamengo e pode reforçar o time contra o Athletico-PR no Maracanã",
-     "fonte": "A Crítica de Campo Grande",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVVROZjhIaVdhQmlMTF9VOV8zVV9EWVl6eVlYcEZLcFgyRmVUc3pRV2Y3OUgtV0MtbEV0TnEtc1VsU050SEZiNWJ2cllvUVo0MGlRRld3QnVUNjR3MFFVYzFsaWtWbFE2UllncGNLTzRHZUJBeDBuTC1PWXNXTWt2THFmLTdSWjV1WVJWb1huakNtTVU2TU9UYkxrNWgwZTdIQkN2SmRBMzc5bDdBRmk4Qg?oc=5"
+     "titulo": "Palmeiras fecha preparação para encarar o Cruzeiro; saiba o provável time",
+     "fonte": "Portal ABC do ABC",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEliS0daWjVtNThHR0NCMzlLb1FmQ1Nja2pGN243ZHZ1dzZzUi1WNFpMZGtMbzhaUTVySTdoZzJ4VTFzVTZJN2ExRW5nWERaMVpaRnJvNFNSOVFLMjBQbVIzajlUMDFFODNJUk9rWkktZXVEd3hiZ1VUYS11TG9OLUF3?oc=5"
     },
     {
-     "titulo": "Time do Flamengo terá mais um campo para treinar em 2027",
-     "fonte": "Clube de Regatas do Flamengo",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2dvUGlFQzVHNTFOdWJEVFozRjdDakkzQXJOeHBYa1BNUS04LTFCWTUtaEpaOVRRVm1EZ1NRdE12amgwS2ZQN0ctZ0RSUEpKRVRJYjB1OW1ralJpdmZMV1p3WjdINm4yN3l4a1RNQnk3ZHFHVzZEMk5sN0h6bUgySEM3OWFLRnRWeDFHa2tKWmdaZjMteC1wOWEtVmNSTWdJRExN?oc=5"
+     "titulo": "Escalação: joias voltam, e Palmeiras encerra preparação para partida contra o Cruzeiro",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQlVkX2xueVZQX19ydHFTNDNnRFMxMW9yR3hjN3h4dXVESlZkMFFqWmhyOWZhSmVJdEJzdDhLZFpjZDVCOEphUzBJTTVZOC1vdVhhbjBhTjB2dVNMQ1ppUDlxRUxNLTNkeGJxSWM2OGFjME1keVFDZXJPV1R1X1pqTll5NzRyMUdzNVFmM0twYUljaE9UTHA4RVhRd0g3ZFE5S2NjVFVVZzJ1WE0wMEFWY1lJbFVVVFd6RkhZeFZfNXRNWjAybHU1Y2NEdm1rMDB4WG9CcGM4cHBFeEFxTGRoMExFNGk3bUVYNlHSAfgBQVVfeXFMUG5mUk0wRnowc0l2QTR4QWJtTWRNeV9jMmpRclhvVklyMnI1T1hWd19ZaUxOMzZPcHJHRm1CSE94cXJ6ZE1FVjFsVWZ2SXAxbjF2V3dUUjNxSmZOTGM5azdlLWdGeE1raXJwN284WGQxckpFa2lmNlQ0MVNkYmdndVN6QVJDZlFYMll1ZWNhNHlpanpndGhCNVN4OE9KQ0JxR3RrdC1QdXhYWENJNTlWeFk2Tll1VE56V3FHT3hIbkxhUHlHZFhFVW10SkMwM0JFV0ttSGx4UGZMUTB1akdwZldyVTlBZFpEZWxuT2g3TURQS1NkMm1TUzI?oc=5"
+    },
+    {
+     "titulo": "Palmeiras fecha preparação visando Cruzeiro e Barboza valoriza período de treinos",
+     "fonte": "Palmeiras",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTk1LM0NPN3FJVGxBYXpUSmMyWDBzcGU0MTFxUmxXZDFsNkpsQ0RfRXZlRWZmelRxVGdTWVhDUVRWMlltbkRQNmpQaElQN2NkNXRtZzZrVGJzWnk5OGZVcVpQY2ZfUVlWNjFoejR3RGZucHpydjFoMkV4Vl9DSHNUMzdCRjNwT3kteVpGRjQzWlhFVFZPNHFEdXNpa3lqN1RqbmRNS1VDc2tLdVFNVk5WV2ZsczJtNEk?oc=5"
     }
    ],
    "youtube": {
     "amostra": [],
-    "consulta": "Flamengo treinar campo",
-    "n_videos": 0,
-    "mais_de": false,
-    "views": 0,
-    "top": []
-   }
-  },
-  {
-   "tema": "Raniele ironiza acusação de favorecimento para salvar o Corinthians",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 60.6,
-   "sinais": {
-    "busca": 70,
-    "aceleracao": 85,
-    "midia": 46,
-    "aderencia": 100,
-    "youtube": 0
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "raniele corinthians",
-   "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "corin|ranie|favor|imagi",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "O torcedor está digitando “raniele corinthians” no Google agora. A resposta não é tão simples.",
-    "titulo_thumb": "VOCÊ PESQUISOU",
-    "pergunta_enquete": "Qual sua opinião: Raniele ironiza acusação de favorecimento para salvar o Corinthians?",
-    "tecnica": "Dado",
-    "ganchos": [
-     {
-      "tecnica": "Dado",
-      "texto": "O torcedor está digitando “raniele corinthians” no Google agora. A resposta não é tão simples.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Raniele ironiza acusação de favorecimento para salvar o Corinthians. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Raniele ironiza acusação de favorecimento para salvar o Corinthians. E agora: o que muda para o Corinthians?",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Raniele ironiza acusação de favorecimento para salvar o Corinthians. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Raniele ironiza acusação de favorecimento para salvar o Corinthians. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
-      "thumb": "QUEM TEM RAZÃO?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Raniele ironiza acusação de favorecimento para salvar o Corinthians",
-     "fonte": "Esporte",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc2cybV8yLVg4c2x3eDl0cElnclVqd3g3SHEyeTdRalU4S0tNUHp4Q1E5X3doeTdEaTBqdV9QZ3RhN0M2eVdhTnFCOVFRcjBIZDZKUU5lbU1SLVEyY3QtSzBKNEZWN0k1Wi1WVl94N0tIUFhvR3Vab2lYeFZOM0ZYRi05cnVFWjB3eVUzWW1SbEM1d3B4dGdUdS1wcm1BZFRiSzBXLVVocEwyQzJ2Y1plVFd2OUFJdjZiNkVsMG90b3BWWVY3?oc=5"
-    },
-    {
-     "titulo": "'Se Corinthians é favorecido, imagina se fosse prejudicado', diz Raniele",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcHpDaGlwWGdQLVUwZENYVnNMSExFdTRFRWZoWjAzeVplNE81Q1g4M1Uxd3o2RjVUQTRGNE5obS1ndUJEeXQzR0JTcHVPVFFrVUFRSTBzZGM4ZDNyMXd6NGltRHdsLU1WVjZnVVRtWGJsNGFmZEhCVVY3SmVWbm14eWcxVV9lODRjLWNfbXFuMnRqVkZHQ0E2QW1LUnZfdHQtRU1wT1UxRS1KMWJhem9aTG9uRzNCNmw4RktXeExqTERpS1NXOUtFTDdiajVRR05wdU5Hb1NYMA?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [],
-    "consulta": "Corinthians Raniele favorecimento acusação",
+    "consulta": "Palmeiras Barboza preparação valoriza",
     "n_videos": 0,
     "mais_de": false,
     "views": 0,
