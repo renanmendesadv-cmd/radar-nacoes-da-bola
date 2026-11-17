@@ -1,50 +1,97 @@
 {
- "atualizado_em": "2026-11-15T22:59:55.235725+00:00",
+ "atualizado_em": "2026-11-17T19:55:55.939491+00:00",
  "alertas": [
   {
-   "id": "Of784hzEvmc",
-   "tema": "Piquerez lesiona coxa direita e vira dúvida no Palmeiras para a reta final de 2026",
+   "id": "trJ6xZd3YLw",
+   "tema": "Empresário de Gabigol abre o jogo sobre possível retorno ao Flamengo",
    "clubes": [
-    "Palmeiras"
+    "Flamengo"
    ],
    "origem": "Pauta do radar",
    "formato_em_alta": "Lives",
    "sugestao": "Live de debate ou react ao vivo, com o assunto no título",
-   "dica_do_canal": "No seu canal, Transmissão de jogo rende 4,3x a média: puxe o assunto também na próxima live.",
-   "n_videos": 7,
-   "views": 43728,
-   "velocidade": 45.8,
-   "engajamento": 1.8,
-   "engajamento_pct": 5.0,
+   "dica_do_canal": "No seu canal, Transmissão de jogo rende 4,0x a média: puxe o assunto também na próxima live.",
+   "n_videos": 8,
+   "views": 69366,
+   "velocidade": 130.1,
+   "engajamento": 1.2,
+   "engajamento_pct": 3.3,
    "ganho_hora": null,
    "exemplos": [
     {
-     "titulo": "SAIU AGORA! TITULAR SE LESIONA, FLAMENGUISTAS DISPARAM CONTRA PALMEIRAS E NÚMEROS DE CARLOS MIGUEL",
-     "canal": "Mil Grau",
-     "views": 32398,
-     "url": "https://www.youtube.com/watch?v=Of784hzEvmc",
+     "titulo": "ENTREVISTA COM EMPRESÁRIO DE GABIGOL | ORÇAMENTO DO FLAMENGO | SAÍDA NO CORINTHIANS? | FALA A FONTE",
+     "canal": "ESPN Brasil",
+     "views": 58222,
+     "url": "https://www.youtube.com/watch?v=trJ6xZd3YLw",
      "formato": "Lives",
-     "views_hora": 5369
+     "views_hora": 15255
     },
     {
-     "titulo": "MALDITA DATA FIFA! Piquerez sofre LESÃO em amistoso do Uruguai e PREOCUPA Palmeiras",
-     "canal": "Mídia do Palestra",
-     "views": 5123,
-     "url": "https://www.youtube.com/watch?v=FTUSHtzHzr8",
-     "formato": "Vídeos longos",
-     "views_hora": 842
-    },
-    {
-     "titulo": "PIQUEREZ LESIONADO: CALENDÁRIO NÃO É VIÁVEL",
-     "canal": "Canal Diego Iwata - O Marada ",
-     "views": 3950,
-     "url": "https://www.youtube.com/watch?v=78s09TjcOhw",
+     "titulo": "EMPRESÁRIO DE GABIGOL ABRE O JOGO À ESPN SOBRE POSSÍVEL RETORNO DO ATACANTE AO FLAMENGO!",
+     "canal": "Paparazzo Rubro-Negro",
+     "views": 3976,
+     "url": "https://www.youtube.com/watch?v=QMw1tOVpZ2c",
      "formato": "Shorts",
-     "views_hora": 616
+     "views_hora": 1991
+    },
+    {
+     "titulo": "🚨 GABIGOL QUER O FLAMENGO?! EMPRESÁRIO ABRE JOGO! TODA A VERDADE SOBRE DAVID NERES E SAMUEL LINO 🔴⚫",
+     "canal": "Fla Nação VVP / Flamengo",
+     "views": 1943,
+     "url": "https://www.youtube.com/watch?v=vj1iA20VA4Y",
+     "formato": "Lives",
+     "views_hora": 1443
     }
    ],
-   "gancho": "Piquerez lesiona coxa direita e vira dúvida no Palmeiras para a reta final de 2026. Todo mundo está olhando para quem sai. O problema está em quem entra.",
-   "avisado_em": "2026-11-15T22:59:55.235725+00:00",
+   "gancho": "66 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
+   "avisado_em": "2026-11-17T19:55:55.939491+00:00",
+   "pelo_vigia": true
+  },
+  {
+   "id": "yTZwvZ6mh3M",
+   "tema": "Corinthians x Botafogo: saiba onde assistir ao jogo pelo Brasileirão",
+   "clubes": [
+    "Corinthians",
+    "Botafogo"
+   ],
+   "origem": "Pauta do radar",
+   "formato_em_alta": "Lives",
+   "sugestao": "Live de debate ou react ao vivo, com o assunto no título",
+   "dica_do_canal": "No seu canal, Transmissão de jogo rende 4,0x a média: puxe o assunto também na próxima live.",
+   "n_videos": 21,
+   "views": 386522,
+   "velocidade": 93.3,
+   "engajamento": 1.0,
+   "engajamento_pct": 2.9,
+   "ganho_hora": null,
+   "exemplos": [
+    {
+     "titulo": "[AO VIVO] ENTREVISTA COLETIVA DE CLARENCE SEEDORF, TREINADOR DO CORINTHIANS",
+     "canal": "Esporte na Band",
+     "views": 24801,
+     "url": "https://www.youtube.com/watch?v=yTZwvZ6mh3M",
+     "formato": "Lives",
+     "views_hora": 10940
+    },
+    {
+     "titulo": "COLETIVA DE IMPRENSA | SEEDORF",
+     "canal": "Corinthians TV",
+     "views": 23026,
+     "url": "https://www.youtube.com/watch?v=sHcs2BZ2F4E",
+     "formato": "Lives",
+     "views_hora": 10114
+    },
+    {
+     "titulo": "AO VIVO DA NQA 🔴 COLETIVA DE SEEDORF E TREINO DO CORINTHIANS",
+     "canal": "Meu Timão",
+     "views": 49700,
+     "url": "https://www.youtube.com/watch?v=XjkkGpIDkMk",
+     "formato": "Lives",
+     "views_hora": 8227
+    }
+   ],
+   "gancho": "Seedorf abre o jogo e responde se Memphis jogará em Corinthians x Botafogo pelo Brasileirão. E agora: o que muda para o Corinthians?",
+   "avisado_em": "2026-11-17T19:55:55.939491+00:00",
    "pelo_vigia": true
   }
  ]
