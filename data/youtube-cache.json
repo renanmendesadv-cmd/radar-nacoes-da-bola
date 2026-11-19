@@ -1,98 +1,1232 @@
 {
- "flamengo escalacoes": {
-  "dia": "2026-11-18",
+ "corinthians cesar kaio renovacao": {
+  "dia": "2026-11-19",
   "resultado": {
    "amostra": [
     {
-     "id": "_IkrY-KJfdY",
-     "titulo": "🚨 AO VIVO! FLAMENGO X ATHLETICO-PR | PRÉ-JOGO! ESCALAÇÕES, NOTÍCIAS E ÚLTIMAS INFORMAÇÕES DO MENGÃO!",
-     "canal": "MARCELO FLA ",
-     "views": 28512,
+     "id": "XvT65r1Jp9Q",
+     "titulo": "CORINTHIANS: KAIO CÉSAR DE SAÍDA? ANGILERI 'NAS GRAÇAS' DE SEEDORF, CRISE FINANCEIRA E MAIS!",
+     "canal": "ESPN Brasil",
+     "views": 8140,
+     "likes": 75,
+     "comentarios": 2,
+     "publicado": "2026-11-18T16:19:52Z",
+     "duracao_s": 912,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=XvT65r1Jp9Q"
+    },
+    {
+     "id": "fG-DdQUx2IA",
+     "titulo": "Kaio César merece Renovar com o Timão",
+     "canal": "Rod2k20",
+     "views": 1226,
+     "likes": 39,
+     "comentarios": 0,
+     "publicado": "2026-11-19T13:54:08Z",
+     "duracao_s": 85,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=fG-DdQUx2IA"
+    },
+    {
+     "id": "Ec8JS2tjzeI",
+     "titulo": "6 milhões de euros pra renovar com o Kaio Cesar não vai ficar.. triste #vaicorinthians #corinthians",
+     "canal": "Coringão Sem Lacração ",
+     "views": 1176,
+     "likes": 38,
+     "comentarios": 0,
+     "publicado": "2026-11-19T11:22:33Z",
+     "duracao_s": 23,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Ec8JS2tjzeI"
+    },
+    {
+     "id": "XE_5bkm3zLc",
+     "titulo": "KAIO CÉSAR QUE GOLAÇO! 😱🇧🇷 RENOVA AÍ, CARALHO! 🖤🤍",
+     "canal": "S.C.Corinthians",
+     "views": 1147,
+     "likes": 35,
+     "comentarios": 10,
+     "publicado": "2026-11-19T02:33:25Z",
+     "duracao_s": 23,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=XE_5bkm3zLc"
+    },
+    {
+     "id": "gaq0zNgOPpk",
+     "titulo": "🚨 4x0 NO BOTAFOGO! HAT-TRICK DE KAIO CÉSAR, TIMÃO FORA DO Z4 E RENOVAÇÃO! #Shorts",
+     "canal": "Campo Alvinegro",
+     "views": 373,
+     "likes": 27,
+     "comentarios": 1,
+     "publicado": "2026-11-19T15:27:20Z",
+     "duracao_s": 136,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=gaq0zNgOPpk"
+    },
+    {
+     "id": "D8ykwEkw7ew",
+     "titulo": "A torcida do Corinthians deu um novo apelido para Kaio César. #corinthians #torcidadocorinthians",
+     "canal": "Fiel News",
+     "views": 356,
+     "likes": 31,
+     "comentarios": 1,
+     "publicado": "2026-11-19T19:00:10Z",
+     "duracao_s": 63,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=D8ykwEkw7ew"
+    },
+    {
+     "id": "ZwKSOjd_l9Q",
+     "titulo": "Kaio César custa US$ 6 milhões: Corinthians consulta candidatos e tenta acordo",
+     "canal": "Dossiê da Fiel",
+     "views": 303,
+     "likes": 6,
+     "comentarios": 0,
+     "publicado": "2026-11-17T20:00:34Z",
+     "duracao_s": 24,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=ZwKSOjd_l9Q"
+    },
+    {
+     "id": "KnD7ZTqJF5s",
+     "titulo": "🚨 KAIO CÉSAR FEZ 3 GOLS, MAS AL HILAL RECUSOU PROPOSTA DO CORINTHIANS!c191102",
+     "canal": "Fiel Informa",
+     "views": 277,
+     "likes": 14,
+     "comentarios": 1,
+     "publicado": "2026-11-19T12:30:51Z",
+     "duracao_s": 871,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=KnD7ZTqJF5s"
+    },
+    {
+     "id": "VriGyzJmfnY",
+     "titulo": "NETO DETONA O MEMPHIS PELA FOTO DO VINHO, KAIO CÉSAR DE SAÍDA \"! NOTÍCIAS DO CORINTHIANS",
+     "canal": "PLANTÃO ALVINEGRO",
+     "views": 57,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-11-18T19:29:06Z",
+     "duracao_s": 650,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=VriGyzJmfnY"
+    },
+    {
+     "id": "0cXl-L0dw-A",
+     "titulo": "HERÓI DO CORINTHIANS, KAIO CÉSAR PODE NÃO TER O CONTRATO RENOVADO, DIZ SAMIR CARVALHO",
+     "canal": "UOL Esporte",
+     "views": 33,
+     "likes": 2,
+     "comentarios": 0,
+     "publicado": "2026-11-19T19:00:57Z",
+     "duracao_s": 1065,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=0cXl-L0dw-A"
+    },
+    {
+     "id": "DEcA9Foi9Kw",
+     "titulo": "🚨🔥 MERCADO DA BOLA NO CORINTHIANS! KAIO CESAR NA MIRA E RENOVAÇÃO DE FABRIZIO ANGILERI AGITA O TIMÃO",
+     "canal": "Timão Notícias ",
+     "views": 12,
+     "likes": 1,
+     "comentarios": 0,
+     "publicado": "2026-11-18T22:58:40Z",
+     "duracao_s": 67,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=DEcA9Foi9Kw"
+    }
+   ],
+   "consulta": "Corinthians César Kaio renovação",
+   "n_videos": 11,
+   "mais_de": false,
+   "views": 13100,
+   "top": [
+    {
+     "titulo": "CORINTHIANS: KAIO CÉSAR DE SAÍDA? ANGILERI 'NAS GRAÇAS' DE SEEDORF, CRISE FINANCEIRA E MAIS!",
+     "canal": "ESPN Brasil",
+     "views": 8140,
+     "url": "https://www.youtube.com/watch?v=XvT65r1Jp9Q",
+     "publicado": "2026-11-18T16:19:52Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "Kaio César merece Renovar com o Timão",
+     "canal": "Rod2k20",
+     "views": 1226,
+     "url": "https://www.youtube.com/watch?v=fG-DdQUx2IA",
+     "publicado": "2026-11-19T13:54:08Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "6 milhões de euros pra renovar com o Kaio Cesar não vai ficar.. triste #vaicorinthians #corinthians",
+     "canal": "Coringão Sem Lacração ",
+     "views": 1176,
+     "url": "https://www.youtube.com/watch?v=Ec8JS2tjzeI",
+     "publicado": "2026-11-19T11:22:33Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "flamengo campeao nubank": {
+  "dia": "2026-11-19",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "65ycZezaOio",
+     "titulo": "FLAMENGO VIRTUALMENTE CAMPEÃO | ABEL FERREIRA DESISTIU DO TÍTULO | FLA VAI RECEBER A TAÇA NA NUBANK?",
+     "canal": "Venê Casagrande",
+     "views": 38506,
+     "likes": 3918,
+     "comentarios": 138,
+     "publicado": "2026-11-19T09:12:41Z",
+     "duracao_s": 544,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=65ycZezaOio"
+    },
+    {
+     "id": "WqtHqWfByts",
+     "titulo": "ABEL DESISTIU E DEU PARABÉNS AO FLAMENGO! MÍDIA CRAVOU “PALMEIRAS VAI PASSAR VERGONHA EM CASA”",
+     "canal": "Portal do FLA OFC",
+     "views": 18660,
+     "likes": 330,
+     "comentarios": 42,
+     "publicado": "2026-11-19T04:43:27Z",
+     "duracao_s": 500,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=WqtHqWfByts"
+    },
+    {
+     "id": "jIe8t0A9Mmk",
+     "titulo": "Flamengo campeão Brasileiro no Nubank Parque #flamengo #futebol #esporte",
+     "canal": "FLAFUT10",
+     "views": 7335,
+     "likes": 266,
+     "comentarios": 2,
+     "publicado": "2026-11-19T10:23:35Z",
+     "duracao_s": 64,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=jIe8t0A9Mmk"
+    },
+    {
+     "id": "77JRFJYArL0",
+     "titulo": "🚨 PAULISTADA REVOLTADA! FLAMENGO CAMPEÃO NO NUBANK PARQUE É DESESPERADOR",
+     "canal": "Meu Fla React",
+     "views": 6415,
+     "likes": 310,
+     "comentarios": 12,
+     "publicado": "2026-11-19T15:29:19Z",
+     "duracao_s": 1544,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=77JRFJYArL0"
+    },
+    {
+     "id": "ArNWMvm9Nco",
+     "titulo": "🔥 FLAMENGO CAMPEÃO NO NUBANK PARQUE? PALMEIRENSES ENTRAM EM DESESPERO TOTAL!",
+     "canal": "FLA ESPORTIVO FLA",
+     "views": 5712,
+     "likes": 275,
+     "comentarios": 5,
+     "publicado": "2026-11-19T04:00:11Z",
+     "duracao_s": 3195,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=ArNWMvm9Nco"
+    },
+    {
+     "id": "d_mI2DlO4aI",
+     "titulo": "SE O FLAMENGO FOR CAMPEÃO EM CIMA DO PALMEIRAS NO NUBANK PARK! A PROMESSA ESTÁ FEITA!",
+     "canal": "Wesley FLA 12",
+     "views": 4142,
+     "likes": 72,
+     "comentarios": 3,
+     "publicado": "2026-11-18T08:36:36Z",
+     "duracao_s": 27,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=d_mI2DlO4aI"
+    },
+    {
+     "id": "KhX6n6Pt4FI",
+     "titulo": "PALMEIRENSES REVOLTADOS! FLAMENGO SERÁ CAMPEÃO DENTRO DO NUBANK PARQUE! FLAMENGO 2X1 ATHLETICO-PR",
+     "canal": "Fla Reage",
+     "views": 3799,
+     "likes": 76,
+     "comentarios": 10,
+     "publicado": "2026-11-19T02:15:06Z",
+     "duracao_s": 1000,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=KhX6n6Pt4FI"
+    },
+    {
+     "id": "qynP47NnJkA",
+     "titulo": "FLAMENGO CAMPEÃO COM *ASTERISCO* ? PALMEIRAS VICE DE NOVO NO BRASILEIRÃO...",
+     "canal": "THtv9",
+     "views": 3781,
+     "likes": 217,
+     "comentarios": 52,
+     "publicado": "2026-11-19T09:00:08Z",
+     "duracao_s": 728,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=qynP47NnJkA"
+    },
+    {
+     "id": "YgEcNkeuHjY",
+     "titulo": "🔥FLA CAMPEÃO? MÍDIA PALMEIRENSE SURTA AO VIVO! CRUZEIRO AFUNDA PALMEIRAS E RIVAIS ENTRAM EM PÂNICO!😱",
+     "canal": "MENGÃO FLA REACT NOTICIAS 24HORAS",
+     "views": 3312,
+     "likes": 94,
+     "comentarios": 1,
+     "publicado": "2026-11-19T05:05:20Z",
+     "duracao_s": 3876,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=YgEcNkeuHjY"
+    },
+    {
+     "id": "n67FTrqUBp0",
+     "titulo": "🔴⚫FLAMENGO VAI SER CAMPEÃO DENTRO DO NUBANK-PARQUE!!!",
+     "canal": "FILGOL",
+     "views": 2365,
+     "likes": 76,
+     "comentarios": 0,
+     "publicado": "2026-11-17T23:55:53Z",
+     "duracao_s": 716,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=n67FTrqUBp0"
+    },
+    {
+     "id": "_98O0RNazSY",
+     "titulo": "BRASILEIRÃO: SEM TAÇA NO NUBANK PARQUE! 🏆❌ #shorts",
+     "canal": "ESPN Brasil",
+     "views": 2246,
+     "likes": 87,
+     "comentarios": 9,
+     "publicado": "2026-11-19T16:18:43Z",
+     "duracao_s": 102,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=_98O0RNazSY"
+    },
+    {
+     "id": "u-opVn9sG14",
+     "titulo": "FLAMENGO CAMPEÃO NO NUBANK PARQUE? OS PALMEIRENSES ESTÃO COM MEDO!🤣 \"ISSO NÃO PODE ACONTECER\" 🤣",
+     "canal": "Canal SRN",
+     "views": 1997,
+     "likes": 82,
+     "comentarios": 4,
+     "publicado": "2026-11-19T09:15:27Z",
+     "duracao_s": 482,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=u-opVn9sG14"
+    },
+    {
+     "id": "6LULlUdIzGc",
+     "titulo": "BOMBA DA CBF!  PASCOAL CRAVAM ATROPELO DO FLA PR! BAP DE MESTRE! MENGÃO CAMPEÃO NUBANK PARQUE!",
+     "canal": "MENGÃO FLA REACT NOTICIAS 24HORAS",
+     "views": 1824,
+     "likes": 32,
+     "comentarios": 1,
+     "publicado": "2026-11-17T23:01:01Z",
+     "duracao_s": 1419,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=6LULlUdIzGc"
+    },
+    {
+     "id": "TctGgMJ5aWc",
+     "titulo": "SAMU LINO FALA SOBRE POSSIBILIDADE DE TÍTULO DO CAMPEONATO BRASILEIRO NO NUBANK PARK!",
+     "canal": "Paparazzo Rubro-Negro",
+     "views": 1662,
+     "likes": 74,
+     "comentarios": 9,
+     "publicado": "2026-11-19T02:34:40Z",
+     "duracao_s": 115,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=TctGgMJ5aWc"
+    },
+    {
+     "id": "jFFlIr4HOCQ",
+     "titulo": "SE FLAMENGO FOR CAMPEÃO EM CIMA DO PALMEIRAS NO NUBANK PARK PINTO O CABELO DE NEVOU! PROMESSA FEITA",
+     "canal": "WESLEY FLA CORTES E LIVES",
+     "views": 1580,
+     "likes": 24,
+     "comentarios": 0,
+     "publicado": "2026-11-17T23:53:58Z",
+     "duracao_s": 27,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=jFFlIr4HOCQ"
+    },
+    {
+     "id": "suBcScjKBMM",
+     "titulo": "Torcedor do Palmeiras,O Flamengo vai ser campeão no Nubank Parque",
+     "canal": "Th Esportes ",
+     "views": 1484,
+     "likes": 39,
+     "comentarios": 3,
+     "publicado": "2026-11-19T01:47:45Z",
+     "duracao_s": 41,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=suBcScjKBMM"
+    },
+    {
+     "id": "vR5SQGZVrwI",
+     "titulo": "🔥🏆 FLAMENGO VAI SER CAMPEÃO NO NUBANKPARK?! #flamengo #palmeiras #noticiasdoflamengo #brasileirão",
+     "canal": "vini fla react",
+     "views": 1414,
+     "likes": 28,
+     "comentarios": 0,
+     "publicado": "2026-11-19T00:30:43Z",
+     "duracao_s": 30,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=vR5SQGZVrwI"
+    },
+    {
+     "id": "WKnSadwRkgs",
+     "titulo": "MIDIA PALMEIRENSE SURTOU COM POSSIBILIDADE CLARA DO FLAMENGO SER CAMPEÃO NO NUBANK PARQUE KKKK",
+     "canal": "Tradição Flamengo",
+     "views": 1360,
+     "likes": 32,
+     "comentarios": 0,
+     "publicado": "2026-11-19T08:00:35Z",
+     "duracao_s": 1120,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=WKnSadwRkgs"
+    },
+    {
+     "id": "RJTohgXZljk",
+     "titulo": "CAMPEÃO NA CASA DO RIVAL? A conta do título do Flamengo.",
+     "canal": "Além dos 90+",
+     "views": 1279,
+     "likes": 27,
+     "comentarios": 1,
+     "publicado": "2026-11-18T13:45:26Z",
+     "duracao_s": 68,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=RJTohgXZljk"
+    },
+    {
+     "id": "gvQVwC2pPRw",
+     "titulo": "Flamengo campeão na casa do Palmeiras? #brasileirao #flamengo #palmeiras",
+     "canal": "Nação Urubu",
+     "views": 1164,
+     "likes": 31,
+     "comentarios": 6,
+     "publicado": "2026-11-19T12:02:20Z",
+     "duracao_s": 56,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=gvQVwC2pPRw"
+    },
+    {
+     "id": "bMbVZIdsuKQ",
+     "titulo": "🔴FLAMENGO X PALMEIRAS: O QUE CADA UM PRECISA PARA SER CAMPEÃO DO BRASILEIRÃO 2026! #arenairl",
+     "canal": "Arena IRL",
+     "views": 1068,
+     "likes": 12,
+     "comentarios": 0,
+     "publicado": "2026-11-18T09:33:09Z",
+     "duracao_s": 11,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=bMbVZIdsuKQ"
+    },
+    {
+     "id": "XoAwKxUeYmA",
+     "titulo": "O Flamengo pode ser campeão no sábado na casa do Palmeiras. Entenda as contas! É campeão? Comenta!",
+     "canal": "Samuel Rosin",
+     "views": 981,
+     "likes": 18,
+     "comentarios": 0,
+     "publicado": "2026-11-17T23:45:52Z",
+     "duracao_s": 77,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=XoAwKxUeYmA"
+    },
+    {
+     "id": "aeu0Kdf7HBY",
+     "titulo": "😭 CHORA CAPPELLANES & EDU DRACENA! MENGÃO CAMPEÃO NUBANK PARQUE?! JOGO ABERTO FLAMENGO",
+     "canal": "FLA ATUALIZADO",
+     "views": 964,
+     "likes": 39,
+     "comentarios": 3,
+     "publicado": "2026-11-19T15:06:18Z",
+     "duracao_s": 2191,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=aeu0Kdf7HBY"
+    },
+    {
+     "id": "stqz9UBPIOo",
+     "titulo": "FLAMENGO CAMPEÃO BRASILEIRO NO ESTÁDIO DO PALMEIRAS? 👀🏆",
+     "canal": "SPORTMIXTV",
+     "views": 714,
+     "likes": 20,
+     "comentarios": 1,
+     "publicado": "2026-11-18T01:01:19Z",
+     "duracao_s": 83,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=stqz9UBPIOo"
+    },
+    {
+     "id": "u-4e3nLctKs",
+     "titulo": "ABEL CHORA, CULPA O ÁRBITRO E PASSA VERGONHA!! MÍDIA CRAVA: “FLAMENGO JÁ É O CAMPEÃO”",
+     "canal": "Portal do FLA OFC",
+     "views": 582,
+     "likes": 29,
+     "comentarios": 0,
+     "publicado": "2026-11-19T16:13:45Z",
+     "duracao_s": 467,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=u-4e3nLctKs"
+    }
+   ],
+   "consulta": "Flamengo campeão Nubank",
+   "n_videos": 25,
+   "mais_de": true,
+   "views": 114346,
+   "top": [
+    {
+     "titulo": "FLAMENGO VIRTUALMENTE CAMPEÃO | ABEL FERREIRA DESISTIU DO TÍTULO | FLA VAI RECEBER A TAÇA NA NUBANK?",
+     "canal": "Venê Casagrande",
+     "views": 38506,
+     "url": "https://www.youtube.com/watch?v=65ycZezaOio",
+     "publicado": "2026-11-19T09:12:41Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "ABEL DESISTIU E DEU PARABÉNS AO FLAMENGO! MÍDIA CRAVOU “PALMEIRAS VAI PASSAR VERGONHA EM CASA”",
+     "canal": "Portal do FLA OFC",
+     "views": 18660,
+     "url": "https://www.youtube.com/watch?v=WqtHqWfByts",
+     "publicado": "2026-11-19T04:43:27Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "Flamengo campeão Brasileiro no Nubank Parque #flamengo #futebol #esporte",
+     "canal": "FLAFUT10",
+     "views": 7335,
+     "url": "https://www.youtube.com/watch?v=jIe8t0A9Mmk",
+     "publicado": "2026-11-19T10:23:35Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "corinthians seedorf memphis goleada": {
+  "dia": "2026-11-19",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "lDuAlUTOoM0",
+     "titulo": "PÓS-JOGO: GOLEADA INESPERADA EM ÓTIMA HORA | MEMPHIS FOI BEM? NÃO! | SEEDORF: MAIS SORTE QUE JUÍZO",
+     "canal": "Salazar TV",
+     "views": 16060,
+     "likes": 1228,
+     "comentarios": 76,
+     "publicado": "2026-11-19T03:49:44Z",
+     "duracao_s": 1940,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=lDuAlUTOoM0"
+    },
+    {
+     "id": "yJByy5Nqjfk",
+     "titulo": "OS GOLS DA GOLEADA DO CORINTHIANS SOBRE O BOTAFOGO PELO BRASILEIRÃO",
+     "canal": "Lance!",
+     "views": 13067,
+     "likes": 103,
+     "comentarios": 6,
+     "publicado": "2026-11-19T04:09:37Z",
+     "duracao_s": 73,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=yJByy5Nqjfk"
+    },
+    {
+     "id": "B3nk1z4RIpU",
+     "titulo": "SEEDORF VÊ MEMPHIS \"MELHOR QUE ESPERAVA\" E EXALTA MUDANÇA DE ATITUDE DO CORINTHIANS EM GOLEADA",
+     "canal": "UOL Esporte",
+     "views": 12276,
+     "likes": 65,
+     "comentarios": 2,
+     "publicado": "2026-11-19T04:15:15Z",
+     "duracao_s": 924,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=B3nk1z4RIpU"
+    },
+    {
+     "id": "RpJkX9J0eVY",
+     "titulo": "🚨 GOLEADA E BAITA NOTÍCIA!! CAIO CÉSAR FAZ 3 GOLS E CORINTHIANS APRESENTA PROPOSTA!",
+     "canal": "BANDO DE LOUCOS INFORMATIVO ",
+     "views": 3966,
+     "likes": 106,
+     "comentarios": 3,
+     "publicado": "2026-11-19T11:19:36Z",
+     "duracao_s": 1119,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=RpJkX9J0eVY"
+    },
+    {
+     "id": "Eb5COXfv9Mc",
+     "titulo": "ENTREVISTA COLETIVA DE SEEDORF APÓS GOLEADA DO CORINTHIANS CONTRA O BOTAFOGO",
+     "canal": "Meu Timão",
+     "views": 3618,
+     "likes": 98,
+     "comentarios": 8,
+     "publicado": "2026-11-19T13:36:09Z",
+     "duracao_s": 2031,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Eb5COXfv9Mc"
+    },
+    {
+     "id": "lU_a7OOgjdg",
+     "titulo": "SEEDORF FALA SOBRE MEMPHIS",
+     "canal": "Esporte na Band",
+     "views": 2849,
+     "likes": 192,
+     "comentarios": 8,
+     "publicado": "2026-11-19T03:12:02Z",
+     "duracao_s": 103,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=lU_a7OOgjdg"
+    },
+    {
+     "id": "_luNUO9r1Qo",
+     "titulo": "MEMPHIS FALA SOBRE ATUAÇÃO CONTRA O BOTAFOGO, SEEDORF E PRESSÃO NO CORINTHIANS",
+     "canal": "IDENTIDADE CORINTHIANA",
+     "views": 2637,
      "likes": 50,
      "comentarios": 0,
-     "publicado": "2026-11-18T13:50:40Z",
-     "duracao_s": 4368,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=_IkrY-KJfdY"
-    },
-    {
-     "id": "FPijLgGiag4",
-     "titulo": "MAURO CEZAR: VOCÊ SE LEMBRA DAS ESCALAÇÕES DE FLAMENGO E PALMEIRAS EM NOVEMBRO DE 2013?",
-     "canal": "UOL Esporte",
-     "views": 23743,
-     "likes": 502,
-     "comentarios": 28,
-     "publicado": "2026-11-18T14:37:51Z",
-     "duracao_s": 859,
+     "publicado": "2026-11-19T11:56:03Z",
+     "duracao_s": 466,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=FPijLgGiag4"
+     "url": "https://www.youtube.com/watch?v=_luNUO9r1Qo"
     },
     {
-     "id": "hxAGT873Gzs",
-     "titulo": "PRÉ-JOGO FLAMENGO X ATHLETICO PR AO VIVO! PROVÁVEIS ESCALAÇÕES! ANÁLISE TÁTICA  E DEBATE!",
-     "canal": "DECO SRN",
-     "views": 7795,
-     "likes": 698,
+     "id": "asrwtilruGE",
+     "titulo": "SEEDORF E JOGADORES DO CORINTHIANS AGRADECEM A FIEL TORCIDA PELO APOIO DE SEMPRE! #shorts",
+     "canal": "Fala Muito, FIEL!",
+     "views": 1895,
+     "likes": 66,
      "comentarios": 2,
-     "publicado": "2026-11-18T14:24:11Z",
-     "duracao_s": 8184,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=hxAGT873Gzs"
-    },
-    {
-     "id": "K1bPeDJoEp8",
-     "titulo": "SUPER PRÉ-JOGO! FLAMENGO X ATHLETICO! QUEM É MELHOR? ESCALAÇÕES E MANO A MANO!",
-     "canal": "Trétis TV",
-     "views": 5924,
-     "likes": 247,
-     "comentarios": 1,
-     "publicado": "2026-11-17T21:59:52Z",
-     "duracao_s": 6855,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=K1bPeDJoEp8"
-    },
-    {
-     "id": "XJRnzOv88Y0",
-     "titulo": "FLAMENGO X ATHLETICO - PR - TRANSMISSÃO AO VIVO ESCALAÇÕES DESFALQUES -  35ª RODADA BRASILEIRÃO 2026",
-     "canal": "EB FLA",
-     "views": 3131,
-     "likes": 51,
-     "comentarios": 6,
-     "publicado": "2026-11-17T08:00:18Z",
-     "duracao_s": 609,
+     "publicado": "2026-11-19T13:00:32Z",
+     "duracao_s": 15,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=XJRnzOv88Y0"
+     "url": "https://www.youtube.com/watch?v=asrwtilruGE"
     },
     {
-     "id": "iP9_uKZT0hE",
-     "titulo": "🔴 AO VIVO: FLAMENGO X ATHLETICO | BRASILEIRÃO 2026 | 35ª RODADA | PRÉ-JOGO | COM IMAGENS NO SPORTV",
-     "canal": "Fla 1 ",
-     "views": 1142,
+     "id": "isFayoqPlOw",
+     "titulo": "SEEDORF CRAVOU E PROMETEU RECUPERAR O CORINTHIANS APÓS GOLEADA DE 4X0 EM CIMA DO BOTAFOGO",
+     "canal": "Assuntos Do Corinthians",
+     "views": 1404,
+     "likes": 39,
+     "comentarios": 4,
+     "publicado": "2026-11-19T04:07:30Z",
+     "duracao_s": 1352,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=isFayoqPlOw"
+    },
+    {
+     "id": "NgSr77JhBEc",
+     "titulo": "MEMPHIS FICOU P#TO! 💀",
+     "canal": "Futinix",
+     "views": 1075,
+     "likes": 11,
+     "comentarios": 1,
+     "publicado": "2026-11-19T16:10:58Z",
+     "duracao_s": 8,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=NgSr77JhBEc"
+    },
+    {
+     "id": "GzkDY0msFFU",
+     "titulo": "\"NÃO PENSO NISSO AGORA!\" MEMPHIS DEPAY FALA SOBRE FUTURO, GOLEADA E CRITICA IMPRENSA",
+     "canal": "TV Central do Timão",
+     "views": 911,
+     "likes": 18,
+     "comentarios": 0,
+     "publicado": "2026-11-19T14:07:54Z",
+     "duracao_s": 467,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=GzkDY0msFFU"
+    },
+    {
+     "id": "IcacaCr1y2U",
+     "titulo": "Memphis rebate os críticos após o 4 a 0 e explica o que mudou no Timão",
+     "canal": "ShortsTimão",
+     "views": 751,
+     "likes": 23,
+     "comentarios": 1,
+     "publicado": "2026-11-19T16:43:01Z",
+     "duracao_s": 48,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=IcacaCr1y2U"
+    },
+    {
+     "id": "9lbOaQB_pHg",
+     "titulo": "CORINTHIANS GOLEIA O BOTAFOGO! AINDA CORRE RISCO?",
+     "canal": "Futebol é bom e eu gosto! FEBEG  - Jeff Nogueira",
+     "views": 355,
+     "likes": 5,
+     "comentarios": 1,
+     "publicado": "2026-11-19T10:30:31Z",
+     "duracao_s": 71,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=9lbOaQB_pHg"
+    },
+    {
+     "id": "D-OErped--A",
+     "titulo": "🤝 O ABRAÇO de Seedorf em Memphis depois da goleada do Corinthians! Que momento! 🖤🤍",
+     "canal": "Meu coringão",
+     "views": 317,
+     "likes": 9,
+     "comentarios": 0,
+     "publicado": "2026-11-19T03:09:06Z",
+     "duracao_s": 12,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=D-OErped--A"
+    },
+    {
+     "id": "Hp5-S7npTr0",
+     "titulo": "Seedorf exalta atuação do Corinthians, mas mantém o pé no chão: ‘Não podemos relaxar’",
+     "canal": "Terra Esportes",
+     "views": 179,
+     "likes": 8,
+     "comentarios": 0,
+     "publicado": "2026-11-19T12:32:10Z",
+     "duracao_s": 102,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Hp5-S7npTr0"
+    },
+    {
+     "id": "XVSr674Ux-A",
+     "titulo": "Seedorf celebra goleada do Corinthians e pede foco na reta final | tecnico",
+     "canal": "Marte22",
+     "views": 120,
+     "likes": 1,
+     "comentarios": 0,
+     "publicado": "2026-11-19T17:16:11Z",
+     "duracao_s": 28,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=XVSr674Ux-A"
+    },
+    {
+     "id": "TqMLFiLOOyg",
+     "titulo": "🎙️ SEEDORF ELOGIA MEMPHIS DEPAY depois da goleada do Corinthians sobre o Botafogo! 🔥",
+     "canal": "Meu coringão",
+     "views": 90,
+     "likes": 3,
+     "comentarios": 0,
+     "publicado": "2026-11-19T03:44:31Z",
+     "duracao_s": 78,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=TqMLFiLOOyg"
+    },
+    {
+     "id": "UvV8qA12yMg",
+     "titulo": "Memphis Depay elogia atuação de Kaio César: 'Tem qualidade para abrir o jogo'",
+     "canal": "Terra Esportes",
+     "views": 86,
+     "likes": 6,
+     "comentarios": 0,
+     "publicado": "2026-11-19T11:38:45Z",
+     "duracao_s": 108,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=UvV8qA12yMg"
+    },
+    {
+     "id": "dc4dkxHEEaI",
+     "titulo": "Memphis elogia Seedorf e evita falar sobre renovação após goleada contra o Botafogo",
+     "canal": "Terra Esportes",
+     "views": 57,
+     "likes": 3,
+     "comentarios": 0,
+     "publicado": "2026-11-19T11:34:36Z",
+     "duracao_s": 149,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=dc4dkxHEEaI"
+    },
+    {
+     "id": "nNOT-4ubgbM",
+     "titulo": "MORAL COM O PROFESSOR? SEEDORF FALE EM JOGO \"MELHOR DO QUE O ESPERADO\" DE MEMPHIS CONTRA O BOTAFOGO",
+     "canal": "BandNews FM Esportes",
+     "views": 27,
+     "likes": 1,
+     "comentarios": 0,
+     "publicado": "2026-11-19T15:17:46Z",
+     "duracao_s": 73,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=nNOT-4ubgbM"
+    },
+    {
+     "id": "GakHstjxSzk",
+     "titulo": "CORINTHIANS X BOTAFOGO: GOLEADA HISTÓRICA E TIMÃO FORA DO Z4! 🦅⚽",
+     "canal": "corinthiansgeral",
+     "views": 5,
+     "likes": 2,
+     "comentarios": 1,
+     "publicado": "2026-11-19T14:00:06Z",
+     "duracao_s": 315,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=GakHstjxSzk"
+    },
+    {
+     "id": "30UuU3Ca7gs",
+     "titulo": "Corinthians 4×0 Botafogo: a frase de Seedorf sobre Memphis #shorts",
+     "canal": "Recorte Esportivo",
+     "views": 4,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-11-19T09:44:18Z",
+     "duracao_s": 50,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=30UuU3Ca7gs"
+    }
+   ],
+   "consulta": "Corinthians Seedorf Memphis goleada",
+   "n_videos": 22,
+   "mais_de": false,
+   "views": 61749,
+   "top": [
+    {
+     "titulo": "PÓS-JOGO: GOLEADA INESPERADA EM ÓTIMA HORA | MEMPHIS FOI BEM? NÃO! | SEEDORF: MAIS SORTE QUE JUÍZO",
+     "canal": "Salazar TV",
+     "views": 16060,
+     "url": "https://www.youtube.com/watch?v=lDuAlUTOoM0",
+     "publicado": "2026-11-19T03:49:44Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "OS GOLS DA GOLEADA DO CORINTHIANS SOBRE O BOTAFOGO PELO BRASILEIRÃO",
+     "canal": "Lance!",
+     "views": 13067,
+     "url": "https://www.youtube.com/watch?v=yJByy5Nqjfk",
+     "publicado": "2026-11-19T04:09:37Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "SEEDORF VÊ MEMPHIS \"MELHOR QUE ESPERAVA\" E EXALTA MUDANÇA DE ATITUDE DO CORINTHIANS EM GOLEADA",
+     "canal": "UOL Esporte",
+     "views": 12276,
+     "url": "https://www.youtube.com/watch?v=B3nk1z4RIpU",
+     "publicado": "2026-11-19T04:15:15Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "corinthians tite goleada rebaixamento": {
+  "dia": "2026-11-19",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "si0x45JsnAg",
+     "titulo": "PÓS-JOGO: BOTAFOGO DE TITE LEVA GOLEADA E É HUMILHADO OUTRA VEZ | REBAIXAMENTO VOLTA A ASSOMBRAR",
+     "canal": "GIGANTE GLORIOSO - AQUI É BOTAFOGO",
+     "views": 52804,
+     "likes": 2534,
+     "comentarios": 361,
+     "publicado": "2026-11-19T03:21:30Z",
+     "duracao_s": 3388,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=si0x45JsnAg"
+    },
+    {
+     "id": "Pp_SKp5SYwM",
+     "titulo": "🚨 VERGONHA! BOTAFOGO LEVA 4 A 0 DO CORINTHIANS! TITE VAI SALVAR O FOGÃO DO REBAIXAMENTO? #botafogo",
+     "canal": "CORAÇÃO ALVINEGRO ( BOTAFOGO RJ )",
+     "views": 185,
+     "likes": 11,
+     "comentarios": 1,
+     "publicado": "2026-11-19T13:00:10Z",
+     "duracao_s": 146,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Pp_SKp5SYwM"
+    }
+   ],
+   "consulta": "Corinthians Tite goleada rebaixamento",
+   "n_videos": 2,
+   "mais_de": false,
+   "views": 52989,
+   "top": [
+    {
+     "titulo": "PÓS-JOGO: BOTAFOGO DE TITE LEVA GOLEADA E É HUMILHADO OUTRA VEZ | REBAIXAMENTO VOLTA A ASSOMBRAR",
+     "canal": "GIGANTE GLORIOSO - AQUI É BOTAFOGO",
+     "views": 52804,
+     "url": "https://www.youtube.com/watch?v=si0x45JsnAg",
+     "publicado": "2026-11-19T03:21:30Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "🚨 VERGONHA! BOTAFOGO LEVA 4 A 0 DO CORINTHIANS! TITE VAI SALVAR O FOGÃO DO REBAIXAMENTO? #botafogo",
+     "canal": "CORAÇÃO ALVINEGRO ( BOTAFOGO RJ )",
+     "views": 185,
+     "url": "https://www.youtube.com/watch?v=Pp_SKp5SYwM",
+     "publicado": "2026-11-19T13:00:10Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "palmeiras titulo destino": {
+  "dia": "2026-11-19",
+  "resultado": {
+   "amostra": [],
+   "consulta": "Palmeiras título Destino",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "flamengo abel misterio prioriza": {
+  "dia": "2026-11-19",
+  "resultado": {
+   "amostra": [],
+   "consulta": "Flamengo Abel mistério prioriza",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "corinthians seedorf rebaixamento risco": {
+  "dia": "2026-11-19",
+  "resultado": {
+   "amostra": [],
+   "consulta": "Corinthians Seedorf rebaixamento risco",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "corinthians goleia rebaixamento": {
+  "dia": "2026-11-19",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "K-eRfOhymD0",
+     "titulo": "CORINTHIANS GOLEIA BOTAFOGO E SAI DA ZONA DE REBAIXAMENTO - OS DONOS DA BOLA - 19/11/2026",
+     "canal": "Os Donos da Bola",
+     "views": 450644,
+     "likes": 9192,
+     "comentarios": 27,
+     "publicado": "2026-11-19T17:35:28Z",
+     "duracao_s": 5512,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=K-eRfOhymD0"
+    },
+    {
+     "id": "ailIz9bCB4M",
+     "titulo": "Pós-jogo: Hoje tem terno! Corinthians goleia Botafogo por 4 x 0 e deixa zona de rebaixamento do BR",
+     "canal": "Café do Setorista",
+     "views": 57372,
+     "likes": 4095,
+     "comentarios": 38,
+     "publicado": "2026-11-19T04:23:12Z",
+     "duracao_s": 5790,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=ailIz9bCB4M"
+    },
+    {
+     "id": "gK-bMKAaJzE",
+     "titulo": "\"É VERGONHOSO! Esse time SÓ VAI ESCAPAR do REBAIXAMENTO porque...\" VEJA DEBATE | CORINTHIANS GOLEIA",
+     "canal": "Jovem Pan Esportes",
+     "views": 17981,
+     "likes": 925,
+     "comentarios": 144,
+     "publicado": "2026-11-19T17:40:33Z",
+     "duracao_s": 1246,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=gK-bMKAaJzE"
+    },
+    {
+     "id": "8neqMCNBRsg",
+     "titulo": "O CORINTHIANS É GOLEIA O BOTAFOGO E DEIXA A ZONA DO REBAIXAMENTO",
+     "canal": "Paradão do Futebol",
+     "views": 15778,
+     "likes": 76,
+     "comentarios": 5,
+     "publicado": "2026-11-19T02:44:56Z",
+     "duracao_s": 26,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=8neqMCNBRsg"
+    },
+    {
+     "id": "tX_qFVg2-OE",
+     "titulo": "CORINTHIANS GOLEIA E SAI DA ZONA DE REBAIXAMENTO",
+     "canal": "Vestiário 77",
+     "views": 14079,
+     "likes": 1474,
+     "comentarios": 37,
+     "publicado": "2026-11-19T09:54:51Z",
+     "duracao_s": 64,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=tX_qFVg2-OE"
+    },
+    {
+     "id": "cosdQGOGaIY",
+     "titulo": "PALMEIRAS DÁ ADEUS AO TÍTULO? 😱 CORINTHIANS GOLEIA E SAI DO Z4! Brasileirão 2026",
+     "canal": "Foot Analysis - Português",
+     "views": 1949,
+     "likes": 5,
+     "comentarios": 1,
+     "publicado": "2026-11-19T04:49:36Z",
+     "duracao_s": 13,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=cosdQGOGaIY"
+    },
+    {
+     "id": "5etZc1q92cQ",
+     "titulo": "CORINTHIANS goleia BOTAFOGO de TITE e sai da ZONA #corinthians #botafogo #tite #rebaixamento",
+     "canal": "Arquibancada com Pedro Camargo",
+     "views": 1374,
+     "likes": 38,
+     "comentarios": 6,
+     "publicado": "2026-11-19T15:00:39Z",
+     "duracao_s": 47,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=5etZc1q92cQ"
+    },
+    {
+     "id": "7FDaL8OKXRQ",
+     "titulo": "Timão goleia e saí da zona de rebaixamento..",
+     "canal": "Tradições e Glórias ",
+     "views": 1304,
+     "likes": 62,
+     "comentarios": 1,
+     "publicado": "2026-11-19T03:17:51Z",
+     "duracao_s": 62,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=7FDaL8OKXRQ"
+    },
+    {
+     "id": "fQ0GUR4Jn9U",
+     "titulo": "CORINTHIANS GOLEIA EM CASA E SAI DA ZONA DE REBAIXAMENTO! #shorts #futebol #corinthians #brasileiro",
+     "canal": "zPortoo",
+     "views": 1223,
+     "likes": 51,
+     "comentarios": 0,
+     "publicado": "2026-11-19T03:54:57Z",
+     "duracao_s": 134,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=fQ0GUR4Jn9U"
+    },
+    {
+     "id": "nSfU2C69OW0",
+     "titulo": "Corinthians goleia o Botafogo e escapa do Rebaixamento",
+     "canal": "DowgFut ",
+     "views": 1208,
+     "likes": 35,
+     "comentarios": 2,
+     "publicado": "2026-11-19T14:30:34Z",
+     "duracao_s": 34,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=nSfU2C69OW0"
+    },
+    {
+     "id": "ya2ZMgzFUbI",
+     "titulo": "PARA TUDO 🚨 ⚠️ QUE CHOCOLATE, TIMÃO GOLEIA E SAI DA ZONA #1k",
+     "canal": "Fran Prime TV",
+     "views": 515,
+     "likes": 8,
+     "comentarios": 0,
+     "publicado": "2026-11-19T02:28:05Z",
+     "duracao_s": 48,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=ya2ZMgzFUbI"
+    },
+    {
+     "id": "1tY6Uwo4AmI",
+     "titulo": "Corinthians vence e sai da zona de rebaixamento kkk😜#brasileirao #corinthians #futebol #memes #humor",
+     "canal": "Os Antenistas MJU ⚽ Memes de Futebol",
+     "views": 457,
      "likes": 7,
      "comentarios": 0,
-     "publicado": "2026-11-17T11:06:46Z",
-     "duracao_s": 0,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=iP9_uKZT0hE"
+     "publicado": "2026-11-19T18:24:17Z",
+     "duracao_s": 66,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=1tY6Uwo4AmI"
     },
     {
-     "id": "qtHnpi9588o",
-     "titulo": "FoxSports Rádio, debate raiz",
-     "canal": "Bora Falar de Fla",
-     "views": 1085,
-     "likes": 25,
+     "id": "ftCK2AMTacU",
+     "titulo": "CORINTHIANS SAI DO Z4! 🔥 A ZONA DE REBAIXAMENTO PEGOU FOGO! | RAIO-X DA 35ª RODADA",
+     "canal": "Arquibancadas dos números",
+     "views": 403,
+     "likes": 6,
      "comentarios": 0,
-     "publicado": "2026-11-17T12:00:11Z",
-     "duracao_s": 88,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=qtHnpi9588o"
+     "publicado": "2026-11-19T02:56:11Z",
+     "duracao_s": 1447,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=ftCK2AMTacU"
     },
+    {
+     "id": "kJOTSec238M",
+     "titulo": "Kaio César marca três vezes, Corinthians goleia o Botafogo e deixa zona de rebaixamento",
+     "canal": "CANAL DE FUTEBOL",
+     "views": 347,
+     "likes": 15,
+     "comentarios": 0,
+     "publicado": "2026-11-19T15:55:05Z",
+     "duracao_s": 903,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=kJOTSec238M"
+    },
+    {
+     "id": "Q3sVdxZ9Nlk",
+     "titulo": "Timão goleia o Botafogo e sai do Z4, mas o risco ainda não acabou",
+     "canal": "ShortsTimão",
+     "views": 293,
+     "likes": 3,
+     "comentarios": 2,
+     "publicado": "2026-11-19T02:45:57Z",
+     "duracao_s": 52,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Q3sVdxZ9Nlk"
+    },
+    {
+     "id": "5dospBBReL0",
+     "titulo": "Corinthians Vence O Botafogo Por 4x0 E Sair Da Zona Do Rebaixamento. Vai Corinthians 🦅🖤",
+     "canal": "Paulo André",
+     "views": 219,
+     "likes": 4,
+     "comentarios": 0,
+     "publicado": "2026-11-19T10:51:55Z",
+     "duracao_s": 57,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=5dospBBReL0"
+    },
+    {
+     "id": "c3TO7K98e2k",
+     "titulo": "CORINTHIANS 4 X 0 BOTAFOGO: TIMÃO GOLEIA E SAI DO Z4!",
+     "canal": "Futebol Real",
+     "views": 156,
+     "likes": 2,
+     "comentarios": 0,
+     "publicado": "2026-11-19T17:23:00Z",
+     "duracao_s": 15,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=c3TO7K98e2k"
+    },
+    {
+     "id": "aWacFi4MRA0",
+     "titulo": "Kaio César marca três vezes, Corinthians goleia o Botafogo e deixa zona de rebaixamento",
+     "canal": "TV FutGol",
+     "views": 137,
+     "likes": 3,
+     "comentarios": 1,
+     "publicado": "2026-11-19T11:16:25Z",
+     "duracao_s": 1189,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=aWacFi4MRA0"
+    },
+    {
+     "id": "V8F3zFcLr5U",
+     "titulo": "Corinthians 4 x 0 Botafogo. Timão goleia dentro de casa e sai da zona de rebaixamento #corinthians",
+     "canal": "Bola Na Zona",
+     "views": 81,
+     "likes": 3,
+     "comentarios": 0,
+     "publicado": "2026-11-19T02:58:10Z",
+     "duracao_s": 177,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=V8F3zFcLr5U"
+    },
+    {
+     "id": "vYXiPIw3nyo",
+     "titulo": "Corinthians goleia o Botafogo e sai da Zona do Rebaixamento",
+     "canal": "Millennials da Fiel",
+     "views": 48,
+     "likes": 4,
+     "comentarios": 0,
+     "publicado": "2026-11-19T14:50:15Z",
+     "duracao_s": 512,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=vYXiPIw3nyo"
+    },
+    {
+     "id": "yFd6f66mLhs",
+     "titulo": "Corinthians vence o jogo contra o Botafogo e sai da zona do rebaixamento",
+     "canal": "alexsander gomes canal esportivo ",
+     "views": 32,
+     "likes": 2,
+     "comentarios": 1,
+     "publicado": "2026-11-19T18:49:19Z",
+     "duracao_s": 81,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=yFd6f66mLhs"
+    },
+    {
+     "id": "s1F9KfftqsY",
+     "titulo": "CORINTHIANS VENCE O BOTAFOGO POR 4 X 0 e sai da zona de rebaixamento #fiel#Corinthians ",
+     "canal": "Robson Luis",
+     "views": 8,
+     "likes": 4,
+     "comentarios": 2,
+     "publicado": "2026-11-19T02:40:13Z",
+     "duracao_s": 293,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=s1F9KfftqsY"
+    },
+    {
+     "id": "OH0hOTHUt8I",
+     "titulo": "KAIO CÉSAR FAZ 3, CORINTHIANS GOLEIA E TITE AFUNDA NO BOTAFOGO",
+     "canal": "Jeff90",
+     "views": 3,
+     "likes": 1,
+     "comentarios": 0,
+     "publicado": "2026-11-19T10:00:28Z",
+     "duracao_s": 641,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=OH0hOTHUt8I"
+    },
+    {
+     "id": "qC_6dS2-FU4",
+     "titulo": "Não cai mais? Corinthians goleia o Botafogo por 4 a 0 e respira na briga contra o rebaixamento",
+     "canal": "Esportes RedeTV",
+     "views": 0,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-11-19T19:07:06Z",
+     "duracao_s": 80,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=qC_6dS2-FU4"
+    }
+   ],
+   "consulta": "Corinthians goleia rebaixamento",
+   "n_videos": 24,
+   "mais_de": true,
+   "views": 565611,
+   "top": [
+    {
+     "titulo": "CORINTHIANS GOLEIA BOTAFOGO E SAI DA ZONA DE REBAIXAMENTO - OS DONOS DA BOLA - 19/11/2026",
+     "canal": "Os Donos da Bola",
+     "views": 450644,
+     "url": "https://www.youtube.com/watch?v=K-eRfOhymD0",
+     "publicado": "2026-11-19T17:35:28Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "Pós-jogo: Hoje tem terno! Corinthians goleia Botafogo por 4 x 0 e deixa zona de rebaixamento do BR",
+     "canal": "Café do Setorista",
+     "views": 57372,
+     "url": "https://www.youtube.com/watch?v=ailIz9bCB4M",
+     "publicado": "2026-11-19T04:23:12Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "\"É VERGONHOSO! Esse time SÓ VAI ESCAPAR do REBAIXAMENTO porque...\" VEJA DEBATE | CORINTHIANS GOLEIA",
+     "canal": "Jovem Pan Esportes",
+     "views": 17981,
+     "url": "https://www.youtube.com/watch?v=gK-bMKAaJzE",
+     "publicado": "2026-11-19T17:40:33Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "flamengo titulo virada": {
+  "dia": "2026-11-19",
+  "resultado": {
+   "amostra": [
     {
      "id": "FJtjzhsFnJk",
-     "titulo": "🔴flamengo x athletico-pr ao vivo: pré-jogo, escalações e onde assistir (18/11) #brasileirão#futebol",
+     "titulo": "🔴flamengo 2x1 athletico: virada no maracanã e mengão a 1 empate do título #brasileirão#futebol",
      "canal": "Arena IRL",
-     "views": 628,
-     "likes": 7,
+     "views": 27585,
+     "likes": 107,
      "comentarios": 1,
      "publicado": "2026-11-18T13:20:36Z",
      "duracao_s": 12,
@@ -100,1630 +1234,840 @@
      "url": "https://www.youtube.com/watch?v=FJtjzhsFnJk"
     },
     {
-     "id": "jJacDQE26hI",
-     "titulo": "HOJE É DIA DE DECISÃO! FLAMENGO TEM DESFALQUES?",
-     "canal": "ArquivoDaBola",
-     "views": 570,
-     "likes": 11,
-     "comentarios": 1,
-     "publicado": "2026-11-18T14:11:20Z",
-     "duracao_s": 76,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=jJacDQE26hI"
-    },
-    {
-     "id": "rtRDwiduX1k",
-     "titulo": "Rodada decisiva: Flamengo x Athletico e Cruzeiro x Palmeiras | Escalações prováveis",
-     "canal": "Irineu Jubileu",
-     "views": 559,
-     "likes": null,
-     "comentarios": 0,
-     "publicado": "2026-11-18T02:58:17Z",
-     "duracao_s": 105,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=rtRDwiduX1k"
-    },
-    {
-     "id": "_bNBiVHgNjA",
-     "titulo": "Provável Escalação Do Flamengo!🔴⚫🦅 #flamengo #futebol #mengão #shorts",
-     "canal": "CoraçãoFlamenguista",
-     "views": 469,
-     "likes": 9,
-     "comentarios": 1,
-     "publicado": "2026-11-18T18:28:58Z",
-     "duracao_s": 11,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=_bNBiVHgNjA"
-    },
-    {
-     "id": "Gc6rc0pwXfc",
-     "titulo": "É DECISÃO NO MARACA ! | PRÉ JOGO | #FLAMENGO X #ATHLÉTICO PR | PROVÁVEIS ESCALAÇÕES",
-     "canal": "CANELA NA REDE",
-     "views": 447,
-     "likes": 84,
-     "comentarios": 0,
-     "publicado": "2026-11-18T01:14:12Z",
-     "duracao_s": 5782,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=Gc6rc0pwXfc"
-    },
-    {
-     "id": "AUv6dI_lTDI",
-     "titulo": "FORÇA MÁXIMA HOJE! SAIU A ESCALAÇÃO DO MENGÃO PRA AMASSAR O ATHLETICO! 💣🔥",
-     "canal": "Pulso da nação",
-     "views": 388,
-     "likes": 13,
-     "comentarios": 0,
-     "publicado": "2026-11-18T15:45:04Z",
-     "duracao_s": 39,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=AUv6dI_lTDI"
-    },
-    {
-     "id": "LfAVV61-1GU",
-     "titulo": "PRÉ JOGO ESPECIAL: SÓ A VITÓRIA INTERESSA! FLAMENGO X ATHLETICO PR! MARACANÃ VAI PULSAR! HOJE TEM!",
-     "canal": "NAÇÃO DO ALÊ",
-     "views": 92,
-     "likes": 36,
-     "comentarios": 6,
-     "publicado": "2026-11-18T15:00:38Z",
-     "duracao_s": 951,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=LfAVV61-1GU"
-    },
-    {
-     "id": "INocxC2gL5o",
-     "titulo": "🔴⚫ Jogo ao vivo, escalações e desfalques: saiba tudo sobre Flamengo x Athletico-PR, pelo Brasileirão",
-     "canal": "Sou Mengão 24h",
-     "views": 84,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-11-18T12:05:17Z",
-     "duracao_s": 20,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=INocxC2gL5o"
-    },
-    {
-     "id": "kJs02SwGxVc",
-     "titulo": "Flamengo x Atlético-PR: onde assistir ao vivo, horário e escalações",
-     "canal": "Coca que Cola",
-     "views": 59,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-11-18T09:01:57Z",
-     "duracao_s": 129,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=kJs02SwGxVc"
-    },
-    {
-     "id": "GQON5c8mvuw",
-     "titulo": "❤️FLAMENGO X ATHLETICO-PR! VEJA AS PROVÁVEIS ESCALAÇÕES PARA O JOGÃO PELO BRASILEIRÃO 2026!",
-     "canal": "CABINHO TV",
-     "views": 28,
-     "likes": 2,
-     "comentarios": 0,
-     "publicado": "2026-11-18T15:06:36Z",
-     "duracao_s": 587,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=GQON5c8mvuw"
-    },
-    {
-     "id": "Npnp0tf1sjE",
-     "titulo": "PRE JOGO FLAMENGO E ATHLETICO / PROVAVEL ESCALAÇÕES",
-     "canal": "Heyhmer_ Fla",
-     "views": 5,
-     "likes": 2,
-     "comentarios": 0,
-     "publicado": "2026-11-18T15:35:23Z",
-     "duracao_s": 308,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Npnp0tf1sjE"
-    },
-    {
-     "id": "iIrj11YTEA4",
-     "titulo": "🚨 MENGÃO ESCALADO! FLAMENGO É O GRANDE FAVORITO AO TÍTULO? | FLAMENGO X ATHLETICO-PR",
-     "canal": "Jackson Fla Natal",
-     "views": 5,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-18T18:34:51Z",
-     "duracao_s": 893,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=iIrj11YTEA4"
-    },
-    {
-     "id": "yjR3FgvpcK8",
-     "titulo": "FLAMENGO X ATLÉTICO PARANAENSE❗️QUARTA-FEIRA AGITADA NO MENGÃO❗️PROVÁVEL ESCALAÇÃO PARA O JOGO❗️",
-     "canal": "FLA FUTEBOL",
-     "views": 1,
-     "likes": null,
-     "comentarios": 0,
-     "publicado": "2026-11-18T18:00:27Z",
-     "duracao_s": 730,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=yjR3FgvpcK8"
-    },
-    {
-     "id": "xafPOy8-pRI",
-     "titulo": "🏆 SAIU A ESCALAÇÃO DO FLAMENGO! MENGÃO PODE COLOCAR A MÃO NA TAÇA? | FLAMENGO X ATHLETICO-PR",
-     "canal": "𝙅𝙖𝙘𝙠𝙨𝙤𝙣 𝙎𝙞𝙢𝙥𝙡𝙞𝙘𝙞𝙤 ᴮʳ",
-     "views": 1,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-18T18:20:57Z",
-     "duracao_s": 982,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=xafPOy8-pRI"
-    },
-    {
-     "id": "Gv4bHDI5-oQ",
-     "titulo": "FLAMENGO X ATHLETICO: ONDE ASSISTIR, ESCALAÇÃO E MAIS! PEDRO QUER ARTILHARIA E FLA PODE FATURAR MI!",
-     "canal": "Fotógrafo Rubro-Negro",
-     "views": 0,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-18T18:54:57Z",
-     "duracao_s": 0,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=Gv4bHDI5-oQ"
-    }
-   ],
-   "consulta": "Flamengo escalações",
-   "n_videos": 22,
-   "mais_de": true,
-   "views": 74668,
-   "top": [
-    {
-     "titulo": "🚨 AO VIVO! FLAMENGO X ATHLETICO-PR | PRÉ-JOGO! ESCALAÇÕES, NOTÍCIAS E ÚLTIMAS INFORMAÇÕES DO MENGÃO!",
-     "canal": "MARCELO FLA ",
-     "views": 28512,
-     "url": "https://www.youtube.com/watch?v=_IkrY-KJfdY",
-     "publicado": "2026-11-18T13:50:40Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "MAURO CEZAR: VOCÊ SE LEMBRA DAS ESCALAÇÕES DE FLAMENGO E PALMEIRAS EM NOVEMBRO DE 2013?",
-     "canal": "UOL Esporte",
-     "views": 23743,
-     "url": "https://www.youtube.com/watch?v=FPijLgGiag4",
-     "publicado": "2026-11-18T14:37:51Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "PRÉ-JOGO FLAMENGO X ATHLETICO PR AO VIVO! PROVÁVEIS ESCALAÇÕES! ANÁLISE TÁTICA  E DEBATE!",
-     "canal": "DECO SRN",
-     "views": 7795,
-     "url": "https://www.youtube.com/watch?v=hxAGT873Gzs",
-     "publicado": "2026-11-18T14:24:11Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "corinthians": {
-  "dia": "2026-11-18",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "wX1ogsiwZk4",
-     "titulo": "CORINTHIANS SE PREAPRA PARA VOLTA DO BRASILEIRÃO | OS DONOS DA BOLA - 17/11/2026",
-     "canal": "Os Donos da Bola",
-     "views": 503787,
-     "likes": 7675,
-     "comentarios": 92,
-     "publicado": "2026-11-17T17:35:48Z",
-     "duracao_s": 4537,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=wX1ogsiwZk4"
-    },
-    {
-     "id": "cYnvt9ID5Qo",
-     "titulo": "A MAIOR BRIGA DA HISTÓRIA DO FUTEBOL FEMININO?! 😳🥊",
-     "canal": "FUTFAN",
-     "views": 363332,
-     "likes": 4014,
-     "comentarios": 210,
-     "publicado": "2026-11-16T21:47:28Z",
-     "duracao_s": 23,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=cYnvt9ID5Qo"
-    },
-    {
-     "id": "M9lgLrS_XgQ",
-     "titulo": "AS DIFERENTES PUNIÇÕES POR CHUTE NA BANDEIRINHA!",
-     "canal": "Rafael - Fut Status",
-     "views": 194812,
-     "likes": 9769,
-     "comentarios": 760,
-     "publicado": "2026-11-16T21:08:21Z",
-     "duracao_s": 71,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=M9lgLrS_XgQ"
-    },
-    {
-     "id": "lhf6pvNDw2Q",
-     "titulo": "Palpites do Brasileirão #foryou #brasileirão #grêmio #vasco #corinthians",
-     "canal": "DK | Camisa 7",
-     "views": 174280,
-     "likes": 3588,
-     "comentarios": 187,
-     "publicado": "2026-11-17T17:59:49Z",
-     "duracao_s": 148,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=lhf6pvNDw2Q"
-    },
-    {
-     "id": "LWH6QCFUUjY",
-     "titulo": "Mudanças no brasileirão #brasileirão #corinthians #flamengo #palmeiras #vasco",
-     "canal": "Klistube",
-     "views": 165913,
-     "likes": 5861,
-     "comentarios": 431,
-     "publicado": "2026-11-17T23:44:54Z",
-     "duracao_s": 71,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=LWH6QCFUUjY"
-    },
-    {
-     "id": "5vh5rp-q_KY",
-     "titulo": "FLAMENGO X PALMEIRAS: QUEM VAI GANHAR O BRASILEIRÃO?",
-     "canal": "Futebol Real",
-     "views": 140275,
-     "likes": 924,
-     "comentarios": 14,
-     "publicado": "2026-11-16T21:04:41Z",
-     "duracao_s": 13,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=5vh5rp-q_KY"
-    },
-    {
-     "id": "vlDvPV-fvVI",
-     "titulo": "MOMENTOS DE CRAQUES X BAGRES NO FUTEBOL BRASILEIRO #futebol #futebolbrasileiro #gols #corinthians",
-     "canal": "RMN FC",
-     "views": 139277,
-     "likes": 3900,
-     "comentarios": 33,
-     "publicado": "2026-11-16T21:22:02Z",
-     "duracao_s": 60,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=vlDvPV-fvVI"
-    },
-    {
-     "id": "m7UsVT3rajo",
-     "titulo": "Alguém conhece esse garçom? 👀🦅 #editsccp #sccp #corinthians #timao #fyp",
-     "canal": "Central SCCP",
-     "views": 138103,
-     "likes": 2521,
-     "comentarios": 46,
-     "publicado": "2026-11-17T15:26:33Z",
-     "duracao_s": 12,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=m7UsVT3rajo"
-    },
-    {
-     "id": "apKdEi8o4IQ",
-     "titulo": "oloco Memphis #vjogos #memes #corinthians #memphis",
-     "canal": "VJogos",
-     "views": 132181,
-     "likes": 2231,
-     "comentarios": 33,
-     "publicado": "2026-11-17T21:00:30Z",
-     "duracao_s": 4,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=apKdEi8o4IQ"
-    },
-    {
-     "id": "ayGRJfiNJyo",
-     "titulo": "BRASILEIRÃO VOLTA HOJE COM FLAMENGO, PALMEIRAS E CORINTHIANS EM CAMPO! | BATE-PRONTO",
-     "canal": "Jovem Pan Esportes",
-     "views": 127907,
-     "likes": 3746,
-     "comentarios": 17,
-     "publicado": "2026-11-18T17:10:00Z",
-     "duracao_s": 7601,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=ayGRJfiNJyo"
-    },
-    {
-     "id": "DRXq5p9ksUk",
-     "titulo": "BRAGANTINO X CORINTHIANS - AO VIVO - SEMI FINAL DO PAULISTÃO FEMININO",
-     "canal": "DVS TV",
-     "views": 119252,
-     "likes": 767,
-     "comentarios": 0,
-     "publicado": "2026-11-18T02:59:39Z",
-     "duracao_s": 13486,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=DRXq5p9ksUk"
-    },
-    {
-     "id": "ohdDaspujes",
-     "titulo": "AO VIVO 🔴 DEBATE DOS CANDIDATOS À PRESIDÊNCIA DO CORINTHIANS",
-     "canal": "Meu Timão",
-     "views": 118158,
-     "likes": 3108,
-     "comentarios": 21,
-     "publicado": "2026-11-17T02:37:32Z",
-     "duracao_s": 15733,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=ohdDaspujes"
-    },
-    {
-     "id": "IsVUk58_b30",
-     "titulo": "Escalação do Corinthians para enfrentar o Botafogo. #corinthians #botafogo #brasileirão",
-     "canal": "Fiel News",
-     "views": 114651,
-     "likes": 2742,
-     "comentarios": 114,
-     "publicado": "2026-11-16T23:55:13Z",
-     "duracao_s": 68,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=IsVUk58_b30"
-    },
-    {
-     "id": "ysar-zYJOR0",
-     "titulo": "A CBF decidiu: a partir de 2028, clube que atrasar salário perde 3 pontos.",
-     "canal": "APITO FINAL",
-     "views": 92292,
-     "likes": 1187,
-     "comentarios": 65,
-     "publicado": "2026-11-18T00:20:28Z",
-     "duracao_s": 66,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ysar-zYJOR0"
-    },
-    {
-     "id": "RNGvqjDq6tY",
-     "titulo": "CORINTHIANS: RANIELE SINCERÃO, VOLTA DE GARRO, PUNIÇÃO A YURI E RECUPERAÇÃO JUDICIAL NA PAUTA",
-     "canal": "Chico Garcia",
-     "views": 92020,
-     "likes": 4681,
-     "comentarios": 179,
-     "publicado": "2026-11-17T08:00:05Z",
-     "duracao_s": 1078,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=RNGvqjDq6tY"
-    },
-    {
-     "id": "b1z85FMeqEY",
-     "titulo": "viradas históricas do Corinthians #futebol #Corinthians #barcelona #manchestercity #manchesterunited",
-     "canal": "rxz_fut7",
-     "views": 86684,
-     "likes": 1151,
-     "comentarios": 98,
-     "publicado": "2026-11-16T19:47:03Z",
-     "duracao_s": 21,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=b1z85FMeqEY"
-    },
-    {
-     "id": "v7cVeMAc__U",
-     "titulo": "NETO DETONA SELEÇÃO E CRAVA MEMPHIS DEPAY TITULAR DO CORINTHIANS CONTRA O BOTAFOGO | REAPRESENTAÇÃO",
-     "canal": "Os Donos da Bola",
-     "views": 77690,
-     "likes": 905,
-     "comentarios": 33,
-     "publicado": "2026-11-16T21:00:09Z",
-     "duracao_s": 4260,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=v7cVeMAc__U"
-    },
-    {
-     "id": "XjkkGpIDkMk",
-     "titulo": "AO VIVO DA NQA 🔴 COLETIVA DE SEEDORF E TREINO DO CORINTHIANS",
-     "canal": "Meu Timão",
-     "views": 74231,
-     "likes": 1812,
-     "comentarios": 2,
-     "publicado": "2026-11-17T19:34:26Z",
-     "duracao_s": 15723,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=XjkkGpIDkMk"
-    },
-    {
-     "id": "IzgYMpmQHIo",
-     "titulo": "DEBATE: CORINTHIANS CONSEGUE ESCAPAR DO REBAIXAMENTO NO BRASILEIRÃO?",
-     "canal": "Jogo Aberto",
-     "views": 70133,
-     "likes": 712,
-     "comentarios": 34,
-     "publicado": "2026-11-17T16:26:43Z",
-     "duracao_s": 751,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=IzgYMpmQHIo"
-    },
-    {
-     "id": "SKmDPTFdIAI",
-     "titulo": "Corinthians recomeça com Caixa após JUROS maiores l Mutirão põe Memphis no jogo? l Tiqueteira paga..",
-     "canal": "Café do Setorista",
-     "views": 68780,
-     "likes": 3255,
-     "comentarios": 278,
-     "publicado": "2026-11-16T19:45:10Z",
-     "duracao_s": 819,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=SKmDPTFdIAI"
-    },
-    {
-     "id": "0AHe6OGtKxw",
-     "titulo": "Memphis e Garro no prime! ☠️ #corinthians",
-     "canal": "Cauã Rangel ",
-     "views": 65134,
-     "likes": 1511,
-     "comentarios": 13,
-     "publicado": "2026-11-16T21:00:30Z",
-     "duracao_s": 14,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=0AHe6OGtKxw"
-    },
-    {
-     "id": "QV4oroNzZ4Y",
-     "titulo": "VESSONI EXPLICA PEDIDO DE TUTELA CAUTELAR DO CORINTHIANS | Papo de Craque 2ª Edição SP - 17/11/2026",
-     "canal": "TMC Esporte",
-     "views": 61832,
-     "likes": 1761,
-     "comentarios": 24,
-     "publicado": "2026-11-17T23:02:22Z",
-     "duracao_s": 8813,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=QV4oroNzZ4Y"
-    },
-    {
-     "id": "MmiezifPwFc",
-     "titulo": "#5 O Dia que o Corinthians AMASSOU o Cruzeiro em Itaquera - Corinthians 2x1 Cruzeiro",
-     "canal": "Pirata Corinthiano",
-     "views": 60179,
-     "likes": 2066,
-     "comentarios": 20,
-     "publicado": "2026-11-16T20:27:07Z",
-     "duracao_s": 78,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=MmiezifPwFc"
-    },
-    {
-     "id": "sHcs2BZ2F4E",
-     "titulo": "COLETIVA DE IMPRENSA | SEEDORF",
-     "canal": "Corinthians TV",
-     "views": 55178,
-     "likes": 2208,
-     "comentarios": 96,
-     "publicado": "2026-11-17T17:39:20Z",
-     "duracao_s": 2065,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=sHcs2BZ2F4E"
-    },
-    {
-     "id": "7u0xJPAjUyM",
-     "titulo": "DISPUTA de PÊNALTIS!😂💚...#futebol #corinthians #vasco",
-     "canal": "D'Prima",
-     "views": 52477,
-     "likes": 1656,
-     "comentarios": 15,
-     "publicado": "2026-11-16T21:45:19Z",
+     "id": "ZAHoh0gMM7A",
+     "titulo": "Palmeiras perde virada pro Cruzeiro e deixa título pro Flamengo! #futebol #palmeiras #cruzeiro #fyp",
+     "canal": "futebol viral oficial ",
+     "views": 14613,
+     "likes": 724,
+     "comentarios": 31,
+     "publicado": "2026-11-19T06:34:25Z",
      "duracao_s": 79,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=7u0xJPAjUyM"
-    }
-   ],
-   "consulta": "Corinthians",
-   "n_videos": 25,
-   "mais_de": true,
-   "views": 3288558,
-   "top": [
-    {
-     "titulo": "CORINTHIANS SE PREAPRA PARA VOLTA DO BRASILEIRÃO | OS DONOS DA BOLA - 17/11/2026",
-     "canal": "Os Donos da Bola",
-     "views": 503787,
-     "url": "https://www.youtube.com/watch?v=wX1ogsiwZk4",
-     "publicado": "2026-11-17T17:35:48Z",
-     "do_canal": false
+     "url": "https://www.youtube.com/watch?v=ZAHoh0gMM7A"
     },
     {
-     "titulo": "A MAIOR BRIGA DA HISTÓRIA DO FUTEBOL FEMININO?! 😳🥊",
-     "canal": "FUTFAN",
-     "views": 363332,
-     "url": "https://www.youtube.com/watch?v=cYnvt9ID5Qo",
-     "publicado": "2026-11-16T21:47:28Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "AS DIFERENTES PUNIÇÕES POR CHUTE NA BANDEIRINHA!",
-     "canal": "Rafael - Fut Status",
-     "views": 194812,
-     "url": "https://www.youtube.com/watch?v=M9lgLrS_XgQ",
-     "publicado": "2026-11-16T21:08:21Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "flamengo titulo matematica": {
-  "dia": "2026-11-18",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "atPbfoFLoEw",
-     "titulo": "🔴 É FINAL! FLAMENGO ENTRA NA RODADA MAIS DECISIVA DO BRASILEIRÃO | MATEMÁTICA DO TÍTULO",
+     "id": "lR3eJvgqeeU",
+     "titulo": "FLAMENGO 2x1 ATHLETICO-PR: TÍTULO É QUESTÃO DE TEMPO! UMA VIRADA DE TIME CAMPEÃO",
      "canal": "Falso Nove",
-     "views": 3769,
-     "likes": 468,
-     "comentarios": 1,
-     "publicado": "2026-11-18T16:05:41Z",
-     "duracao_s": 3836,
+     "views": 8121,
+     "likes": 1200,
+     "comentarios": 34,
+     "publicado": "2026-11-19T14:55:10Z",
+     "duracao_s": 1630,
      "live": true,
-     "url": "https://www.youtube.com/watch?v=atPbfoFLoEw"
+     "url": "https://www.youtube.com/watch?v=lR3eJvgqeeU"
     },
     {
-     "id": "vbIXbQmBdY4",
-     "titulo": "🔴disputa pelo titulo brasileirao 2026 flamengo x palmeiras o que cada um precisa  #arenairl",
-     "canal": "Arena IRL",
-     "views": 1721,
-     "likes": 6,
-     "comentarios": 0,
-     "publicado": "2026-11-18T10:15:07Z",
-     "duracao_s": 10,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=vbIXbQmBdY4"
-    },
-    {
-     "id": "y6Dn8XwNQj4",
-     "titulo": "Matemática do Título  Flamengo a Duas Vitória",
-     "canal": "FLAGENIAL",
-     "views": 1534,
-     "likes": 27,
-     "comentarios": 0,
-     "publicado": "2026-11-16T22:00:38Z",
-     "duracao_s": 38,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=y6Dn8XwNQj4"
-    },
-    {
-     "id": "1EdrnJUiUZc",
-     "titulo": "FLAMENGO X ATHLÉTICO PR | CRUZEIRO X PALMEIRAS | A MATEMÁTICA DO TÍTULO SERÁ GRANDE HOJE!",
-     "canal": "Felipe Fontoura",
-     "views": 1442,
-     "likes": 148,
-     "comentarios": 0,
-     "publicado": "2026-11-18T15:08:50Z",
-     "duracao_s": 5788,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=1EdrnJUiUZc"
-    },
-    {
-     "id": "L6jjvMDWwUA",
-     "titulo": "A matemática do título do Brasileirão 2026 e a disputa ponto a ponto entre Flamengo e Palmeiras.",
-     "canal": "SÉRGIO FLA NOTÍCIAS",
-     "views": 882,
-     "likes": 25,
-     "comentarios": 0,
-     "publicado": "2026-11-18T12:49:35Z",
-     "duracao_s": 103,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=L6jjvMDWwUA"
-    },
-    {
-     "id": "dQ7A8mx-HJs",
-     "titulo": "Flamengo vencendo hoje, o brasileiro acaba! Matemática do título #flamengo #atlheticoparanaense",
-     "canal": "Mengo Flow ",
-     "views": 801,
-     "likes": 22,
-     "comentarios": 2,
-     "publicado": "2026-11-18T15:56:33Z",
-     "duracao_s": 41,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=dQ7A8mx-HJs"
-    },
-    {
-     "id": "gWk9J8VoSho",
-     "titulo": "Matemática do título: Flamengo x Palmeiras #Shorts",
-     "canal": "Tudo Sobre Futebol",
-     "views": 174,
-     "likes": 2,
-     "comentarios": 0,
-     "publicado": "2026-11-17T21:04:51Z",
-     "duracao_s": 26,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=gWk9J8VoSho"
-    },
-    {
-     "id": "qQdyhyRKxyc",
-     "titulo": "A Matemática do Título do Flamengo no Brasileirão #brasileirão #futebol",
-     "canal": "Fut Mil Grau",
-     "views": 9,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-18T19:00:35Z",
-     "duracao_s": 67,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=qQdyhyRKxyc"
-    },
-    {
-     "id": "WrjhHq8pU5Q",
-     "titulo": "🔥 FLAMENGO CAMPEÃO EM CIMA DO PALMEIRAS? A MATEMÁTICA QUE PODE DECIDIR TUDO!",
-     "canal": "Rafael do Fla",
-     "views": 0,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-18T14:30:15Z",
-     "duracao_s": 436,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=WrjhHq8pU5Q"
-    }
-   ],
-   "consulta": "Flamengo título Matemática",
-   "n_videos": 9,
-   "mais_de": false,
-   "views": 10332,
-   "top": [
-    {
-     "titulo": "🔴 É FINAL! FLAMENGO ENTRA NA RODADA MAIS DECISIVA DO BRASILEIRÃO | MATEMÁTICA DO TÍTULO",
-     "canal": "Falso Nove",
-     "views": 3769,
-     "url": "https://www.youtube.com/watch?v=atPbfoFLoEw",
-     "publicado": "2026-11-18T16:05:41Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "🔴disputa pelo titulo brasileirao 2026 flamengo x palmeiras o que cada um precisa  #arenairl",
-     "canal": "Arena IRL",
-     "views": 1721,
-     "url": "https://www.youtube.com/watch?v=vbIXbQmBdY4",
-     "publicado": "2026-11-18T10:15:07Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "Matemática do Título  Flamengo a Duas Vitória",
-     "canal": "FLAGENIAL",
-     "views": 1534,
-     "url": "https://www.youtube.com/watch?v=y6Dn8XwNQj4",
-     "publicado": "2026-11-16T22:00:38Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "corinthians seedorf tite reencontram": {
-  "dia": "2026-11-18",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "Ioyy0ZdruLo",
-     "titulo": "🚨 SEEDORF RELEMBRA ENCONTRO COM TITE! 👀",
-     "canal": "Martins Nação Fiel News 24h",
-     "views": 1024,
-     "likes": 52,
-     "comentarios": 1,
-     "publicado": "2026-11-17T18:35:32Z",
-     "duracao_s": 97,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Ioyy0ZdruLo"
-    },
-    {
-     "id": "oBRaLBh7I1I",
-     "titulo": "TITE e SEEDORF encontram suas ANTIGAS equipes.  #futebol #corinthians #viral #rells #brasileirão",
-     "canal": "Resenha @lvinegra",
-     "views": 970,
-     "likes": 22,
-     "comentarios": 0,
-     "publicado": "2026-11-18T13:00:14Z",
-     "duracao_s": 34,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=oBRaLBh7I1I"
-    },
-    {
-     "id": "uGNUBzOw9Gs",
-     "titulo": "Seedorf elogia Tite e relembra passagem pelo Botafogo antes de decisão",
-     "canal": "iG",
-     "views": 597,
-     "likes": 5,
-     "comentarios": 2,
-     "publicado": "2026-11-17T18:19:30Z",
-     "duracao_s": 96,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=uGNUBzOw9Gs"
-    },
-    {
-     "id": "yyqR8jvaDSs",
-     "titulo": "🚨 CORINTHIANS TEM QUE VENCER! TITE VOLTA À ARENA E SEEDORF TEM DESFALQUES CONTRA O BOTAFOGO",
-     "canal": "Fiel Informa",
-     "views": 146,
-     "likes": 10,
-     "comentarios": 2,
-     "publicado": "2026-11-18T11:48:11Z",
-     "duracao_s": 699,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=yyqR8jvaDSs"
-    },
-    {
-     "id": "U_vISBq5iA8",
-     "titulo": "CORINTHIANS JOGA A VIDA CONTRA O BOTAFOGO! SEEDORF X TITE NO COMANDO!",
-     "canal": "Cortes Na Área OFICIAL",
-     "views": 10,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-11-18T00:00:07Z",
-     "duracao_s": 1205,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=U_vISBq5iA8"
-    },
-    {
-     "id": "ApKSkF4kY0A",
-     "titulo": "🚨 TITE, HOJE NÃO TEM DESCULPA! Corinthians no Z-4, 3 Reforços e Crise na SAF!",
-     "canal": "Tríade Alvinegra ",
-     "views": 6,
-     "likes": 4,
-     "comentarios": 2,
-     "publicado": "2026-11-18T18:03:24Z",
-     "duracao_s": 414,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ApKSkF4kY0A"
-    }
-   ],
-   "consulta": "Corinthians Seedorf Tite reencontram",
-   "n_videos": 6,
-   "mais_de": false,
-   "views": 2753,
-   "top": [
-    {
-     "titulo": "🚨 SEEDORF RELEMBRA ENCONTRO COM TITE! 👀",
-     "canal": "Martins Nação Fiel News 24h",
-     "views": 1024,
-     "url": "https://www.youtube.com/watch?v=Ioyy0ZdruLo",
-     "publicado": "2026-11-17T18:35:32Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "TITE e SEEDORF encontram suas ANTIGAS equipes.  #futebol #corinthians #viral #rells #brasileirão",
-     "canal": "Resenha @lvinegra",
-     "views": 970,
-     "url": "https://www.youtube.com/watch?v=oBRaLBh7I1I",
-     "publicado": "2026-11-18T13:00:14Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "Seedorf elogia Tite e relembra passagem pelo Botafogo antes de decisão",
-     "canal": "iG",
-     "views": 597,
-     "url": "https://www.youtube.com/watch?v=uGNUBzOw9Gs",
-     "publicado": "2026-11-17T18:19:30Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "corinthians escalacoes provaveis": {
-  "dia": "2026-11-18",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "3Yfbqo80z2M",
-     "titulo": "CORINTHIANS X BOTAFOGO: PROVÁVEIS ESCALAÇÕES , ANALISES  E PROJEÇÕES /  BOM DIA FIEL #473",
-     "canal": "Fala Muito, FIEL!",
-     "views": 3670,
-     "likes": 247,
-     "comentarios": 0,
-     "publicado": "2026-11-18T12:52:35Z",
-     "duracao_s": 6955,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=3Yfbqo80z2M"
-    },
-    {
-     "id": "_F2W13Yx4B8",
-     "titulo": "CORINTHIANS x BOTAFOGO: onde assistir, últimos confrontos, classificação e prováveis escalações",
-     "canal": "info fut",
-     "views": 861,
-     "likes": 19,
-     "comentarios": 0,
-     "publicado": "2026-11-18T00:52:16Z",
-     "duracao_s": 86,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=_F2W13Yx4B8"
-    },
-    {
-     "id": "2AeTcPa9pLM",
-     "titulo": "🔴corinthians x botafogo ao vivo: pré-jogo, escalações e onde assistir (18/11/2026)#brasileirão#fyp",
-     "canal": "Arena IRL",
-     "views": 253,
-     "likes": 4,
-     "comentarios": 0,
-     "publicado": "2026-11-18T16:30:33Z",
-     "duracao_s": 11,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=2AeTcPa9pLM"
-    }
-   ],
-   "consulta": "Corinthians escalações prováveis",
-   "n_videos": 3,
-   "mais_de": false,
-   "views": 4784,
-   "top": [
-    {
-     "titulo": "CORINTHIANS X BOTAFOGO: PROVÁVEIS ESCALAÇÕES , ANALISES  E PROJEÇÕES /  BOM DIA FIEL #473",
-     "canal": "Fala Muito, FIEL!",
-     "views": 3670,
-     "url": "https://www.youtube.com/watch?v=3Yfbqo80z2M",
-     "publicado": "2026-11-18T12:52:35Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "CORINTHIANS x BOTAFOGO: onde assistir, últimos confrontos, classificação e prováveis escalações",
-     "canal": "info fut",
-     "views": 861,
-     "url": "https://www.youtube.com/watch?v=_F2W13Yx4B8",
-     "publicado": "2026-11-18T00:52:16Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "🔴corinthians x botafogo ao vivo: pré-jogo, escalações e onde assistir (18/11/2026)#brasileirão#fyp",
-     "canal": "Arena IRL",
-     "views": 253,
-     "url": "https://www.youtube.com/watch?v=2AeTcPa9pLM",
-     "publicado": "2026-11-18T16:30:33Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "palmeiras goleiros valiosos": {
-  "dia": "2026-11-18",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "K8iDbObbrgE",
-     "titulo": "🧤💰 Lista dos goleiros mais valiosos do mundo tem 9 brasileiros #futebol",
-     "canal": "Somos Clubistas",
-     "views": 308,
-     "likes": 3,
-     "comentarios": 0,
-     "publicado": "2026-11-18T15:00:25Z",
-     "duracao_s": 16,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=K8iDbObbrgE"
-    }
-   ],
-   "consulta": "Palmeiras Goleiros valiosos",
-   "n_videos": 1,
-   "mais_de": false,
-   "views": 308,
-   "top": [
-    {
-     "titulo": "🧤💰 Lista dos goleiros mais valiosos do mundo tem 9 brasileiros #futebol",
-     "canal": "Somos Clubistas",
-     "views": 308,
-     "url": "https://www.youtube.com/watch?v=K8iDbObbrgE",
-     "publicado": "2026-11-18T15:00:25Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "palmeiras artur jorge mira": {
-  "dia": "2026-11-18",
-  "resultado": {
-   "amostra": [],
-   "consulta": "Palmeiras Artur Jorge mira",
-   "n_videos": 0,
-   "mais_de": false,
-   "views": 0,
-   "top": []
-  }
- },
- "flamengo soccer globe awards": {
-  "dia": "2026-11-18",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "flSNhZnJnIc",
-     "titulo": "FLAMENGO É INDICADO EM DUAS CATEGORIAS NO GLOBE SOCCER AWARDS",
-     "canal": "Alex Sá FLA Oficial",
-     "views": 383,
-     "likes": 17,
-     "comentarios": 0,
-     "publicado": "2026-11-18T18:19:34Z",
-     "duracao_s": 71,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=flSNhZnJnIc"
-    },
-    {
-     "id": "iHUS92-GfKo",
-     "titulo": "NEGOCIAÇÃO COM DIRETOR DE FUTEBOL | CRUZEIRO: GERSON FORA | DE LA CRUZ DETONA | GLOBAL SOCCER AWARD",
-     "canal": "Flamenguista em Portugal",
-     "views": 275,
-     "likes": 82,
-     "comentarios": 2,
-     "publicado": "2026-11-18T18:15:09Z",
-     "duracao_s": 588,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=iHUS92-GfKo"
-    },
-    {
-     "id": "HfirusrSURg",
-     "titulo": "The nominees for Best Men's Club at the 2026 BEYOND Developments GLOBE SOCCER Awards",
-     "canal": "Globe Soccer Awards",
-     "views": 172,
-     "likes": 7,
-     "comentarios": 0,
-     "publicado": "2026-11-18T09:38:57Z",
+     "id": "GJRopX-vbBU",
+     "titulo": "PILHADO REAGE À VIRADA DO MENGÃO CONTRA O ATLÉTICO PARANAENSE #flamengo",
+     "canal": "Bola agora",
+     "views": 7606,
+     "likes": 98,
+     "comentarios": 13,
+     "publicado": "2026-11-19T01:58:33Z",
      "duracao_s": 21,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=HfirusrSURg"
+     "url": "https://www.youtube.com/watch?v=GJRopX-vbBU"
     },
     {
-     "id": "57HN-kSOkbA",
-     "titulo": "Nominees for Fans' Historic Club Award at the 2026 BEYOND Developments GLOBE SOCCER Awards",
-     "canal": "Globe Soccer Awards",
-     "views": 64,
-     "likes": 5,
-     "comentarios": 2,
-     "publicado": "2026-11-18T07:11:11Z",
-     "duracao_s": 33,
+     "id": "-cbMDoM-J0U",
+     "titulo": "🚨 QUE VIRADA! FLAMENGO DEIXA A NAÇÃO MAIS PERTO DO TÍTULO! #Flamengo #pilhado #brasileirão ##futebol",
+     "canal": "JogoAbertoFC",
+     "views": 4646,
+     "likes": 161,
+     "comentarios": 21,
+     "publicado": "2026-11-19T01:50:06Z",
+     "duracao_s": 83,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=57HN-kSOkbA"
+     "url": "https://www.youtube.com/watch?v=-cbMDoM-J0U"
     },
     {
-     "id": "tKuCbR-dHSw",
-     "titulo": "TÁ VALENDO O MUNDO PRO MENGÃO! 🌟🔴⚫*",
-     "canal": "@ pro_futebo-serie-B",
-     "views": 5,
-     "likes": 0,
+     "id": "JMCMyyCIx1k",
+     "titulo": "“O TÍTULO TÁ NA MÃO” | MAURO RASGOU ELOGIOS APÓS VIRADA DO FLAMENGO PRA CIMA DO FURACÃO ",
+     "canal": "Pilhado Cortes",
+     "views": 3520,
+     "likes": 366,
+     "comentarios": 10,
+     "publicado": "2026-11-19T02:27:36Z",
+     "duracao_s": 842,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=JMCMyyCIx1k"
+    },
+    {
+     "id": "fHEDnnRjW-U",
+     "titulo": "FLAMENGO VENCE DE VIRADA E FICA MUITO PRÓXIMO DO TÍTULO BRASILEIRO",
+     "canal": "Charla Podcast",
+     "views": 1646,
+     "likes": 25,
      "comentarios": 1,
-     "publicado": "2026-11-18T11:36:31Z",
-     "duracao_s": 15,
+     "publicado": "2026-11-19T02:27:30Z",
+     "duracao_s": 189,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=tKuCbR-dHSw"
-    }
-   ],
-   "consulta": "Flamengo Soccer Globe Awards",
-   "n_videos": 5,
-   "mais_de": false,
-   "views": 899,
-   "top": [
-    {
-     "titulo": "FLAMENGO É INDICADO EM DUAS CATEGORIAS NO GLOBE SOCCER AWARDS",
-     "canal": "Alex Sá FLA Oficial",
-     "views": 383,
-     "url": "https://www.youtube.com/watch?v=flSNhZnJnIc",
-     "publicado": "2026-11-18T18:19:34Z",
-     "do_canal": false
+     "url": "https://www.youtube.com/watch?v=fHEDnnRjW-U"
     },
     {
-     "titulo": "NEGOCIAÇÃO COM DIRETOR DE FUTEBOL | CRUZEIRO: GERSON FORA | DE LA CRUZ DETONA | GLOBAL SOCCER AWARD",
-     "canal": "Flamenguista em Portugal",
-     "views": 275,
-     "url": "https://www.youtube.com/watch?v=iHUS92-GfKo",
-     "publicado": "2026-11-18T18:15:09Z",
-     "do_canal": false
+     "id": "6oIYPDfAg_k",
+     "titulo": "FLA A UM EMPATE DO TÍTULO! LÍDER VIRA NO MARACANÃ E O PALMEIRAS LEVA VIRADA NO MINEIRÃO!",
+     "canal": "Futebol Brief",
+     "views": 1325,
+     "likes": 53,
+     "comentarios": 0,
+     "publicado": "2026-11-19T10:00:17Z",
+     "duracao_s": 74,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=6oIYPDfAg_k"
     },
     {
-     "titulo": "The nominees for Best Men's Club at the 2026 BEYOND Developments GLOBE SOCCER Awards",
-     "canal": "Globe Soccer Awards",
-     "views": 172,
-     "url": "https://www.youtube.com/watch?v=HfirusrSURg",
-     "publicado": "2026-11-18T09:38:57Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "corinthians cesar kaio prazo": {
-  "dia": "2026-11-18",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "mRsyugFXgss",
-     "titulo": "DE SAÍDA DO TIMÃO? #shorts",
-     "canal": "ESPN Brasil",
-     "views": 599,
+     "id": "AzLDJkcR2BU",
+     "titulo": "GOLAÇOS, VIRADA E TITULO MAIS PRÓXIMO!!! #flamengo #brasileirão #shorts",
+     "canal": "Manos Do Futebol",
+     "views": 1242,
      "likes": 23,
      "comentarios": 1,
-     "publicado": "2026-11-18T17:06:31Z",
-     "duracao_s": 92,
+     "publicado": "2026-11-19T02:31:48Z",
+     "duracao_s": 41,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=mRsyugFXgss"
-    }
-   ],
-   "consulta": "Corinthians César Kaio prazo",
-   "n_videos": 1,
-   "mais_de": false,
-   "views": 599,
-   "top": [
-    {
-     "titulo": "DE SAÍDA DO TIMÃO? #shorts",
-     "canal": "ESPN Brasil",
-     "views": 599,
-     "url": "https://www.youtube.com/watch?v=mRsyugFXgss",
-     "publicado": "2026-11-18T17:06:31Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "palmeiras escalacoes": {
-  "dia": "2026-11-18",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "FPijLgGiag4",
-     "titulo": "MAURO CEZAR: VOCÊ SE LEMBRA DAS ESCALAÇÕES DE FLAMENGO E PALMEIRAS EM NOVEMBRO DE 2013?",
-     "canal": "UOL Esporte",
-     "views": 23743,
-     "likes": 502,
-     "comentarios": 28,
-     "publicado": "2026-11-18T14:37:51Z",
-     "duracao_s": 859,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=FPijLgGiag4"
+     "url": "https://www.youtube.com/watch?v=AzLDJkcR2BU"
     },
     {
-     "id": "Dnf8nXiVDZM",
-     "titulo": "PALMEIRAS JÁ DEVE PRIORIZAR A LIBERTADORES?",
-     "canal": "Energia 97 FM",
-     "views": 18941,
-     "likes": 596,
-     "comentarios": 11,
-     "publicado": "2026-11-17T00:29:36Z",
-     "duracao_s": 175,
+     "id": "6flaf80cS1k",
+     "titulo": "FLAMENGO a um EMPATE do título! Palmeiras toma VIRADA | 35ª rodada em pixel",
+     "canal": "Resenha Pixel",
+     "views": 1083,
+     "likes": 23,
+     "comentarios": 3,
+     "publicado": "2026-11-19T05:54:16Z",
+     "duracao_s": 117,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=Dnf8nXiVDZM"
+     "url": "https://www.youtube.com/watch?v=6flaf80cS1k"
     },
     {
-     "id": "qARYPG1Fbt4",
-     "titulo": "EDU DRACENA ANALISA PROVÁVEIS ESCALAÇÕES DE CRUZEIRO X PALMEIRAS",
-     "canal": "Jogo Aberto",
-     "views": 3191,
-     "likes": 96,
-     "comentarios": 2,
-     "publicado": "2026-11-18T15:53:48Z",
-     "duracao_s": 196,
+     "id": "iQ2HkJhjljk",
+     "titulo": "Flamengo x Athletico: virada, e o Palmeiras perde pro Cruzeiro",
+     "canal": "OPINA MENGÂO",
+     "views": 972,
+     "likes": 56,
+     "comentarios": 1,
+     "publicado": "2026-11-19T04:16:31Z",
+     "duracao_s": 88,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=qARYPG1Fbt4"
+     "url": "https://www.youtube.com/watch?v=iQ2HkJhjljk"
     },
     {
-     "id": "EeXDr_1OcQE",
-     "titulo": "🚨EXCLUSIVO🚨| HISTÓRIA DO PALMEIRENSE RÔMULO NO NOVORIZONTINO IMPRESSIONA!🚨| ÚLTIMAS DO VERDÃO!",
-     "canal": "Central do Verdão",
-     "views": 1369,
-     "likes": 33,
-     "comentarios": 0,
-     "publicado": "2026-11-16T20:00:05Z",
-     "duracao_s": 511,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=EeXDr_1OcQE"
-    },
-    {
-     "id": "Fa4WoHwZ4KU",
-     "titulo": "CRUZEIRO x PALMEIRAS: onde assistir, últimos confrontos, classificação e prováveis escalações",
-     "canal": "info fut",
-     "views": 1311,
-     "likes": 18,
-     "comentarios": 0,
-     "publicado": "2026-11-18T01:34:09Z",
-     "duracao_s": 86,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Fa4WoHwZ4KU"
-    },
-    {
-     "id": "f7UwN3G_C0M",
-     "titulo": "🚨EXCLUSIVO🚨| PALMEIRAS DÁ AUMENTO PARA DOIS TITULARES!🚨| NICOLA TRAZ ATUALIZAÇÕES IMPORTANTES!",
-     "canal": "Central do Verdão",
-     "views": 752,
+     "id": "UQxytCp3xD0",
+     "titulo": "FLAMENGO GANHA DE VIRADA E FICA MAIS PERTO DO TÍTULO BRASILEIRO @IntercambioSantista ",
+     "canal": "JEAN DÍAS 17",
+     "views": 970,
      "likes": 12,
      "comentarios": 0,
-     "publicado": "2026-11-17T13:00:25Z",
-     "duracao_s": 482,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=f7UwN3G_C0M"
-    },
-    {
-     "id": "rtRDwiduX1k",
-     "titulo": "Rodada decisiva: Flamengo x Athletico e Cruzeiro x Palmeiras | Escalações prováveis",
-     "canal": "Irineu Jubileu",
-     "views": 559,
-     "likes": null,
-     "comentarios": 0,
-     "publicado": "2026-11-18T02:58:17Z",
-     "duracao_s": 105,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=rtRDwiduX1k"
-    },
-    {
-     "id": "nN7RGbCWpjw",
-     "titulo": "Possíveis escalações para o confronto entre Cruzeiro e Palmeiras!⚽#CruxSep #Brasileirão #Escalações",
-     "canal": "MG FUTEBOL ",
-     "views": 483,
-     "likes": 9,
-     "comentarios": 0,
-     "publicado": "2026-11-18T12:28:33Z",
-     "duracao_s": 84,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=nN7RGbCWpjw"
-    },
-    {
-     "id": "RD_A-havrAI",
-     "titulo": "Cruzeiro x Palmeiras: prováveis escalações, chave do jogo e palpite #shorts",
-     "canal": "SylenceFC",
-     "views": 232,
-     "likes": 8,
-     "comentarios": 0,
-     "publicado": "2026-11-18T15:30:26Z",
-     "duracao_s": 60,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=RD_A-havrAI"
-    },
-    {
-     "id": "KBxw5ZgZWB0",
-     "titulo": "CRUZEIRO tem DUAS dúvidas na ESCALAÇÃO para enfrentar o PALMEIRAS",
-     "canal": "O TEMPO Sports",
-     "views": 215,
-     "likes": 6,
-     "comentarios": 0,
-     "publicado": "2026-11-17T22:53:36Z",
-     "duracao_s": 1588,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=KBxw5ZgZWB0"
-    },
-    {
-     "id": "vDRjAwNlfVs",
-     "titulo": "🚨EXCLUSIVO🚨| LEILA FESTEJA 48 TÍTULOS EM SUA GESTÃO, MAS..🚨| VERDÃO PODE PERDER BOLADA COM HENDRICK!",
-     "canal": "Central do Verdão",
-     "views": 139,
-     "likes": 2,
-     "comentarios": 0,
-     "publicado": "2026-11-17T21:00:08Z",
-     "duracao_s": 584,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=vDRjAwNlfVs"
-    },
-    {
-     "id": "X0o9UlgznnM",
-     "titulo": "CRUZEIRO x PALMEIRAS - ONDE ASSISTIR, ESCALAÇÕES, ARBITRAGEM, HORÁRIO",
-     "canal": "DAVID NOG",
-     "views": 59,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-18T18:53:54Z",
-     "duracao_s": 163,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=X0o9UlgznnM"
-    },
-    {
-     "id": "-TBTfadTcjE",
-     "titulo": "Cruzeiro x Palmeiras: onde assistir ao vivo, horário e escalações",
-     "canal": "Coca que Cola",
-     "views": 22,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-18T09:06:55Z",
-     "duracao_s": 131,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=-TBTfadTcjE"
-    },
-    {
-     "id": "dJIYvJMDaIM",
-     "titulo": "🚨EXCLUSIVO🚨| LEILA PEREIRA DETONA PRESIDENTE DO CORINTHIANS!🚨| NICOLA TRAZ TODOS OS DETALHES!",
-     "canal": "Central do Verdão",
-     "views": 4,
-     "likes": 2,
-     "comentarios": 0,
-     "publicado": "2026-11-18T18:00:12Z",
-     "duracao_s": 618,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=dJIYvJMDaIM"
-    },
-    {
-     "id": "E3prI2Q5zvw",
-     "titulo": "🔴 cruzeiro x palmeiras ao vivo: pré-jogo, escalações e onde assistir (18/11/2026) #brasileirão#fyp",
-     "canal": "Arena IRL",
-     "views": 3,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-18T19:00:00Z",
-     "duracao_s": 11,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=E3prI2Q5zvw"
-    },
-    {
-     "id": "MI66iCmw4Bc",
-     "titulo": "🚨 CRUZEIRO X PALMEIRAS AO VIVO! ÚLTIMAS NOTÍCIAS, ESCALAÇÕES, ARBITRAGEM E PALPITE! 💚🏆 | BR26",
-     "canal": "falaporcada1914",
-     "views": 0,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-18T15:07:41Z",
-     "duracao_s": 0,
+     "publicado": "2026-11-19T17:01:14Z",
+     "duracao_s": 3868,
      "live": true,
-     "url": "https://www.youtube.com/watch?v=MI66iCmw4Bc"
+     "url": "https://www.youtube.com/watch?v=UQxytCp3xD0"
     },
     {
-     "id": "23h7CcbXfaI",
-     "titulo": "Cruzeiro x Palmeiras AO VIVO | Brasileirão 2026 | Narração e Debate",
-     "canal": "Fora do Eixo Sports",
-     "views": 0,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-17T22:36:58Z",
-     "duracao_s": 0,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=23h7CcbXfaI"
-    },
-    {
-     "id": "P6OWasQWFF4",
-     "titulo": "Cruzeiro x Palmeiras AO VIVO | Brasileirão 2026 | Narração e Debate",
-     "canal": "Canal 5 estrelas",
-     "views": 0,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-17T22:36:58Z",
-     "duracao_s": 0,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=P6OWasQWFF4"
-    },
-    {
-     "id": "3RjYktrqL_Y",
-     "titulo": "🔴 CRUZEIRO X PALMEIRAS | ABEL TEM PROBLEMAS NA ESCALAÇÃO? HOJE TEM VERDÃO!",
-     "canal": "Diretoria Parmera",
-     "views": 0,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-18T17:08:43Z",
-     "duracao_s": 0,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=3RjYktrqL_Y"
-    },
-    {
-     "id": "YzsaB2sp6mk",
-     "titulo": "🔴#AOVIVO | Pré-Jogo: Cruzeiro x Palmeiras: onde assistir ao vivo, horário e escalações.",
-     "canal": "Tutti Palestra",
-     "views": 0,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-18T11:31:24Z",
-     "duracao_s": 0,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=YzsaB2sp6mk"
-    }
-   ],
-   "consulta": "Palmeiras escalações",
-   "n_videos": 20,
-   "mais_de": true,
-   "views": 51023,
-   "top": [
-    {
-     "titulo": "MAURO CEZAR: VOCÊ SE LEMBRA DAS ESCALAÇÕES DE FLAMENGO E PALMEIRAS EM NOVEMBRO DE 2013?",
-     "canal": "UOL Esporte",
-     "views": 23743,
-     "url": "https://www.youtube.com/watch?v=FPijLgGiag4",
-     "publicado": "2026-11-18T14:37:51Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "PALMEIRAS JÁ DEVE PRIORIZAR A LIBERTADORES?",
-     "canal": "Energia 97 FM",
-     "views": 18941,
-     "url": "https://www.youtube.com/watch?v=Dnf8nXiVDZM",
-     "publicado": "2026-11-17T00:29:36Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "EDU DRACENA ANALISA PROVÁVEIS ESCALAÇÕES DE CRUZEIRO X PALMEIRAS",
-     "canal": "Jogo Aberto",
-     "views": 3191,
-     "url": "https://www.youtube.com/watch?v=qARYPG1Fbt4",
-     "publicado": "2026-11-18T15:53:48Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "flamengo partida": {
-  "dia": "2026-11-18",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "_IkrY-KJfdY",
-     "titulo": "🚨 AO VIVO! FLAMENGO X ATHLETICO-PR | PRÉ-JOGO! ESCALAÇÕES, NOTÍCIAS E ÚLTIMAS INFORMAÇÕES DO MENGÃO!",
-     "canal": "MARCELO FLA ",
-     "views": 28513,
-     "likes": 50,
-     "comentarios": 0,
-     "publicado": "2026-11-18T13:50:40Z",
-     "duracao_s": 4368,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=_IkrY-KJfdY"
-    },
-    {
-     "id": "QmHHRzVpGqk",
-     "titulo": "INTERNACIONAL CONQUISTA A COPA DO BRASIL FEMININA | Olho Nelas | sportv",
-     "canal": "ge tv",
-     "views": 16554,
-     "likes": 138,
-     "comentarios": 12,
-     "publicado": "2026-11-16T21:00:39Z",
-     "duracao_s": 362,
+     "id": "_fpHvOcIkdA",
+     "titulo": "VIROU 2 A 1! EMPATE SÁBADO DÁ O TÍTULO",
+     "canal": "Fla Informa",
+     "views": 947,
+     "likes": 36,
+     "comentarios": 2,
+     "publicado": "2026-11-19T02:18:00Z",
+     "duracao_s": 49,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=QmHHRzVpGqk"
+     "url": "https://www.youtube.com/watch?v=_fpHvOcIkdA"
     },
     {
-     "id": "Alke7aDjR48",
-     "titulo": "O ALERTA DO FLAMENGO FOI IGNORADO A VERDADE SOBRE A INSCRIÇÃO DE MARCOS ROJO NO ESTUDIANTES",
-     "canal": "Pedala Mano",
-     "views": 15581,
-     "likes": 187,
-     "comentarios": 4,
-     "publicado": "2026-11-17T00:00:06Z",
-     "duracao_s": 884,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=Alke7aDjR48"
-    },
-    {
-     "id": "VOWk9PfcEoU",
-     "titulo": "Flamengo pode ter Gonzalo Plata contra o Athletico-PR pelo Brasileirão",
-     "canal": "Fala do Jogo",
-     "views": 15127,
-     "likes": 47,
+     "id": "Tt3EnfSU4bE",
+     "titulo": "Abel Ferreira jogou a toalha: \"Este título está entregue\"",
+     "canal": "Apito de Bastidor",
+     "views": 862,
+     "likes": 25,
      "comentarios": 0,
-     "publicado": "2026-11-16T21:38:24Z",
-     "duracao_s": 8,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=VOWk9PfcEoU"
-    },
-    {
-     "id": "EWTLEhh-jRQ",
-     "titulo": "COPA RIO SUB 13 - BOTAFOGO X FLAMENGO ( CONTINUAÇÃO DA PARTIDA)",
-     "canal": "TV FERJ",
-     "views": 8408,
-     "likes": 63,
-     "comentarios": 3,
-     "publicado": "2026-11-16T22:11:15Z",
-     "duracao_s": 2709,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=EWTLEhh-jRQ"
-    },
-    {
-     "id": "jaB7CmyEHhU",
-     "titulo": "PELA LIDERANÇA OU PELA SOBREVIVÊNCIA? # #palmeiras",
-     "canal": "Mundo Palestra ",
-     "views": 7988,
-     "likes": 218,
-     "comentarios": 16,
-     "publicado": "2026-11-17T21:30:22Z",
+     "publicado": "2026-11-19T11:19:36Z",
      "duracao_s": 54,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=jaB7CmyEHhU"
+     "url": "https://www.youtube.com/watch?v=Tt3EnfSU4bE"
     },
     {
-     "id": "XheRkMTttYE",
-     "titulo": "FLAMENGO X ATHLETICO PR I TUDO SOBRE A PARTIDA I BRASILEIRÃO 2026",
-     "canal": "Placar Rubro-Negro",
-     "views": 4917,
-     "likes": 154,
+     "id": "FDrLOhlBZVg",
+     "titulo": "Pênalti em Pedro: Athletico reclama da virada do Flamengo",
+     "canal": "OPINA MENGÂO",
+     "views": 859,
+     "likes": 19,
+     "comentarios": 1,
+     "publicado": "2026-11-19T13:15:01Z",
+     "duracao_s": 58,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=FDrLOhlBZVg"
+    },
+    {
+     "id": "_-2E5SVVo1E",
+     "titulo": "😱\"NINGUÉM TIRA ESSE TÍTULO!\" RIVAIS SE RENDERAM AO FLAMENGO AO VIVO!",
+     "canal": "NOTICIAS FLA",
+     "views": 564,
+     "likes": 22,
+     "comentarios": 2,
+     "publicado": "2026-11-19T02:32:18Z",
+     "duracao_s": 555,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=_-2E5SVVo1E"
+    },
+    {
+     "id": "f9qLWPrFX3k",
+     "titulo": "VITÓRIA DE VIRADA DO CRUZEIRO PALMEIRAS DEIXA TÍTULO ESCAPAR #palmeiras #cruzeiro #flamengo",
+     "canal": "Flamingol da massa",
+     "views": 485,
+     "likes": 7,
+     "comentarios": 1,
+     "publicado": "2026-11-19T13:26:28Z",
+     "duracao_s": 89,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=f9qLWPrFX3k"
+    },
+    {
+     "id": "oRiCSAuyZHA",
+     "titulo": "De virada, Flamengo vence Athletico-PR e vê título do brasileirão cada vez mais perto",
+     "canal": "Mundo Flamengo ",
+     "views": 157,
+     "likes": 40,
+     "comentarios": 6,
+     "publicado": "2026-11-19T01:51:08Z",
+     "duracao_s": 518,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=oRiCSAuyZHA"
+    },
+    {
+     "id": "hZk2cPTnKNA",
+     "titulo": "FLAMENGO VIRA, VENCE E FICA A UM EMPATE DO TÍTULO! 😱 | React ❤️🖤",
+     "canal": "Teté - Reação Rubro-Negra ",
+     "views": 122,
+     "likes": 9,
      "comentarios": 0,
-     "publicado": "2026-11-18T15:54:49Z",
-     "duracao_s": 6643,
+     "publicado": "2026-11-19T08:30:13Z",
+     "duracao_s": 967,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=hZk2cPTnKNA"
+    },
+    {
+     "id": "QiHxBgRnPm0",
+     "titulo": "Flamengo bate Athletico PR de virada e encaminha título do Brasileirão",
+     "canal": "contraponto",
+     "views": 45,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-11-19T11:34:39Z",
+     "duracao_s": 433,
      "live": true,
-     "url": "https://www.youtube.com/watch?v=XheRkMTttYE"
+     "url": "https://www.youtube.com/watch?v=QiHxBgRnPm0"
     },
     {
-     "id": "ZjCD0KyFkAs",
-     "titulo": "PRÉ-JOGO | FLAMENGO X ATHLETICO | BRASILEIRÃO 2026",
-     "canal": "Athletico Paranaense",
-     "views": 2988,
-     "likes": 80,
-     "comentarios": 10,
-     "publicado": "2026-11-18T02:35:07Z",
-     "duracao_s": 152,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ZjCD0KyFkAs"
-    },
-    {
-     "id": "HHkLoWRq4k8",
-     "titulo": "O LANCE MAIS EMOCIONANTE NA PARTIDA ENTRE BRASIL X SINGAPURA 😂⚽ #flamengo #futebol #mengão #mengo",
-     "canal": "Fla Total",
-     "views": 1488,
-     "likes": 50,
-     "comentarios": 1,
-     "publicado": "2026-11-17T16:29:33Z",
-     "duracao_s": 32,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=HHkLoWRq4k8"
-    },
-    {
-     "id": "uWAPM-NrwL8",
-     "titulo": "DETALHES DA PARTIDA DE FLAMENGO E ATLHÉTICO PARANAENSE!!!! #brasileirão #futebol #brasileirão2026",
-     "canal": "DUFUT",
-     "views": 1191,
-     "likes": 24,
-     "comentarios": 1,
-     "publicado": "2026-11-17T18:08:39Z",
-     "duracao_s": 80,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=uWAPM-NrwL8"
-    },
-    {
-     "id": "YZrm-7WeyIc",
-     "titulo": "HOJE TEM MENGÃO! É RUMO AO TÍTULO! 🔥 #flamengo #brunohenrique #flamengohoje#futebolbrasileiro#mengão",
-     "canal": "FLANAMENTE",
-     "views": 1179,
-     "likes": 43,
+     "id": "8XB8CKY5Gfw",
+     "titulo": "momento da virada do Cruzeiro em cima da porcada kkkkk",
+     "canal": "Aqui é Flamengo",
+     "views": 29,
+     "likes": 0,
      "comentarios": 0,
-     "publicado": "2026-11-18T11:44:47Z",
-     "duracao_s": 25,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=YZrm-7WeyIc"
-    },
-    {
-     "id": "b0Dz4Jbb_oQ",
-     "titulo": "o jogo de 9 gols que parou o Brasil! HISTÓRICO! 😱⚽",
-     "canal": "CuriosoTodoDia Futebol",
-     "views": 1051,
-     "likes": 32,
-     "comentarios": 1,
-     "publicado": "2026-11-17T21:00:23Z",
-     "duracao_s": 45,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=b0Dz4Jbb_oQ"
-    },
-    {
-     "id": "KxHGsrIeFik",
-     "titulo": "Neymar ganhou o Puskás… mas o Santos perdeu aquele jogo! 🤯",
-     "canal": "Lendas de Chuteira",
-     "views": 1038,
-     "likes": 29,
-     "comentarios": 3,
-     "publicado": "2026-11-17T13:00:25Z",
+     "publicado": "2026-11-19T01:33:02Z",
      "duracao_s": 36,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=KxHGsrIeFik"
+     "url": "https://www.youtube.com/watch?v=8XB8CKY5Gfw"
     },
     {
-     "id": "M_kXxCix_x8",
-     "titulo": "5 expulsos e fim de jogo: Libertadores 1981, Galo x Flamengo 🔴 #Galo #Shorts",
-     "canal": "Galo Doido 3D | Atlético Mineiro",
-     "views": 927,
-     "likes": 17,
+     "id": "zy9xHK98kno",
+     "titulo": "Flamengo a um empate do título contra o Palmeiras após virada sobre o Athletico",
+     "canal": "Totalmente Mengão",
+     "views": 20,
+     "likes": 0,
      "comentarios": 0,
-     "publicado": "2026-11-17T23:03:09Z",
-     "duracao_s": 46,
+     "publicado": "2026-11-19T11:35:38Z",
+     "duracao_s": 183,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=M_kXxCix_x8"
+     "url": "https://www.youtube.com/watch?v=zy9xHK98kno"
     },
     {
-     "id": "eXbkNnDTXA8",
-     "titulo": "Loteca 1284: análise dos 14 jogos, com Palmeiras x Flamengo",
-     "canal": "Guia da Loteria | TV Loteca",
-     "views": 522,
-     "likes": 37,
-     "comentarios": 2,
-     "publicado": "2026-11-16T23:30:43Z",
-     "duracao_s": 524,
+     "id": "pT2SjVBX-Cg",
+     "titulo": "VIRADA DO MENGÃO! JORGINHO DECIDE! FLA MAIS PERTO DO TÍTULO!",
+     "canal": "CANAL LEANDRÃO FLA",
+     "views": 11,
+     "likes": 8,
+     "comentarios": 6,
+     "publicado": "2026-11-19T12:00:07Z",
+     "duracao_s": 677,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=pT2SjVBX-Cg"
+    },
+    {
+     "id": "2L-WARgBAUU",
+     "titulo": "Flamengo x Athletico: um empate no sábado já dá o título",
+     "canal": "OPINA MENGÂO",
+     "views": 3,
+     "likes": 1,
+     "comentarios": 0,
+     "publicado": "2026-11-19T13:00:25Z",
+     "duracao_s": 420,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=eXbkNnDTXA8"
+     "url": "https://www.youtube.com/watch?v=2L-WARgBAUU"
     }
    ],
-   "consulta": "Flamengo partida",
-   "n_videos": 15,
+   "consulta": "Flamengo título virada",
+   "n_videos": 24,
    "mais_de": true,
-   "views": 107472,
+   "views": 77433,
    "top": [
     {
-     "titulo": "🚨 AO VIVO! FLAMENGO X ATHLETICO-PR | PRÉ-JOGO! ESCALAÇÕES, NOTÍCIAS E ÚLTIMAS INFORMAÇÕES DO MENGÃO!",
-     "canal": "MARCELO FLA ",
-     "views": 28513,
-     "url": "https://www.youtube.com/watch?v=_IkrY-KJfdY",
-     "publicado": "2026-11-18T13:50:40Z",
+     "titulo": "🔴flamengo 2x1 athletico: virada no maracanã e mengão a 1 empate do título #brasileirão#futebol",
+     "canal": "Arena IRL",
+     "views": 27585,
+     "url": "https://www.youtube.com/watch?v=FJtjzhsFnJk",
+     "publicado": "2026-11-18T13:20:36Z",
      "do_canal": false
     },
     {
-     "titulo": "INTERNACIONAL CONQUISTA A COPA DO BRASIL FEMININA | Olho Nelas | sportv",
-     "canal": "ge tv",
-     "views": 16554,
-     "url": "https://www.youtube.com/watch?v=QmHHRzVpGqk",
-     "publicado": "2026-11-16T21:00:39Z",
+     "titulo": "Palmeiras perde virada pro Cruzeiro e deixa título pro Flamengo! #futebol #palmeiras #cruzeiro #fyp",
+     "canal": "futebol viral oficial ",
+     "views": 14613,
+     "url": "https://www.youtube.com/watch?v=ZAHoh0gMM7A",
+     "publicado": "2026-11-19T06:34:25Z",
      "do_canal": false
     },
     {
-     "titulo": "O ALERTA DO FLAMENGO FOI IGNORADO A VERDADE SOBRE A INSCRIÇÃO DE MARCOS ROJO NO ESTUDIANTES",
-     "canal": "Pedala Mano",
-     "views": 15581,
-     "url": "https://www.youtube.com/watch?v=Alke7aDjR48",
-     "publicado": "2026-11-17T00:00:06Z",
+     "titulo": "FLAMENGO 2x1 ATHLETICO-PR: TÍTULO É QUESTÃO DE TEMPO! UMA VIRADA DE TIME CAMPEÃO",
+     "canal": "Falso Nove",
+     "views": 8121,
+     "url": "https://www.youtube.com/watch?v=lR3eJvgqeeU",
+     "publicado": "2026-11-19T14:55:10Z",
      "do_canal": false
     }
    ]
   }
  },
- "palmeiras socorro clubes": {
-  "dia": "2026-11-18",
+ "palmeiras garante vaga": {
+  "dia": "2026-11-19",
   "resultado": {
    "amostra": [
     {
-     "id": "fTLy43mIjM0",
-     "titulo": "R$ 500 MILHÕES A MENOS: 35 CLUBES PEDEM SOCORRO AO GOVERNO DEPOIS DO FIM DAS BETS 😱",
-     "canal": "Números da Colina",
-     "views": 1044,
-     "likes": 15,
-     "comentarios": 0,
-     "publicado": "2026-11-18T00:05:17Z",
-     "duracao_s": 47,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=fTLy43mIjM0"
-    },
-    {
-     "id": "LXI6OpTmwRg",
-     "titulo": "Leila Pereira recusou assinar o socorro dos clubes ao Governo: \"Eu honro meus compromissos\" 😤",
-     "canal": "Adoro Esportes",
-     "views": 551,
-     "likes": 33,
-     "comentarios": 0,
-     "publicado": "2026-11-18T17:20:31Z",
-     "duracao_s": 52,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=LXI6OpTmwRg"
-    },
-    {
-     "id": "YqrNkW9VQ40",
-     "titulo": "CLUBES PEDEM SOCORRO AO GOVERNO APÓS FIM DAS BETS! 🚨 Leila Pereira detona!",
-     "canal": "Plantão Expresso",
-     "views": 142,
-     "likes": 3,
-     "comentarios": 0,
-     "publicado": "2026-11-18T00:30:26Z",
-     "duracao_s": 67,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=YqrNkW9VQ40"
-    },
-    {
-     "id": "czWK4huXvh8",
-     "titulo": "SAMPAOLI ABRE O JOGO SOBRE O TIMÃO, STABILE PEDE SOCORRO E PALMEIRAS DIZ NÃO NOTÍCIAS DO CORINTHIANS",
-     "canal": "PLANTÃO ALVINEGRO",
-     "views": 54,
-     "likes": 0,
+     "id": "nW5vRqqFQ7Q",
+     "titulo": "CRUZEIRO GARANTE VAGA DIRETA NA LIBERTADORES DE 2027 APÓS VITÓRIA SOBRE O PALMEIRAS!",
+     "canal": "Samuca TV",
+     "views": 3028,
+     "likes": 187,
      "comentarios": 1,
-     "publicado": "2026-11-18T02:56:03Z",
-     "duracao_s": 546,
+     "publicado": "2026-11-19T04:53:52Z",
+     "duracao_s": 166,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=czWK4huXvh8"
+     "url": "https://www.youtube.com/watch?v=nW5vRqqFQ7Q"
     },
     {
-     "id": "7FqT1MG7JS0",
-     "titulo": "Clubes pedem socorro, Leila reage e Grêmio pode perder 6 pontos | Resumão 18/11",
-     "canal": "Futebol Arte ⚽ Polêmicas",
+     "id": "_M8FH1_hFJw",
+     "titulo": "🔴 Cruzeiro VENCE o Palmeiras e GARANTE vaga DIRETA na LIBERTADORES",
+     "canal": "Baú do Cruzeiro",
+     "views": 1714,
+     "likes": 126,
+     "comentarios": 0,
+     "publicado": "2026-11-19T18:54:54Z",
+     "duracao_s": 3689,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=_M8FH1_hFJw"
+    },
+    {
+     "id": "BnJZ0GX1bxI",
+     "titulo": "Cruzeiro vence o Palmeiras de virada e garante vaga direta na Libertadores",
+     "canal": "Alterosa Esporte",
+     "views": 938,
+     "likes": 60,
+     "comentarios": 2,
+     "publicado": "2026-11-19T16:14:08Z",
+     "duracao_s": 735,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=BnJZ0GX1bxI"
+    },
+    {
+     "id": "AfSfQWx0nxw",
+     "titulo": "CRUZEIRO VIRA SOBRE O PALMEIRAS, GARANTE A LIBERTADORES E FUTURO DE GERSON VIRA ASSUNTO!",
+     "canal": "CRUZEIRÃO MAIS LINDO DO MUNDO",
+     "views": 227,
+     "likes": 9,
+     "comentarios": 0,
+     "publicado": "2026-11-19T12:53:33Z",
+     "duracao_s": 880,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=AfSfQWx0nxw"
+    },
+    {
+     "id": "pwAsU7r0lIU",
+     "titulo": "Palmeiras goleia Junior Barranquilla e garante vaga(CONMEBOL Libertadores 2026 Rodada 6 Grupo F)",
+     "canal": "International Sports BR",
+     "views": 19,
+     "likes": 4,
+     "comentarios": 0,
+     "publicado": "2026-11-18T01:18:19Z",
+     "duracao_s": 115,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=pwAsU7r0lIU"
+    },
+    {
+     "id": "rKE9Ickmkzo",
+     "titulo": "Cruzeiro vence Palmeiras de virada e garante vaga na fase de grupos da Libertadores",
+     "canal": "TV NET BRASIL",
      "views": 0,
      "likes": 0,
      "comentarios": 0,
-     "publicado": "2026-11-18T13:48:19Z",
-     "duracao_s": 441,
+     "publicado": "2026-11-19T13:09:41Z",
+     "duracao_s": 111,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=7FqT1MG7JS0"
+     "url": "https://www.youtube.com/watch?v=rKE9Ickmkzo"
     }
    ],
-   "consulta": "Palmeiras socorro clubes",
-   "n_videos": 5,
+   "consulta": "Palmeiras garante vaga",
+   "n_videos": 6,
    "mais_de": false,
-   "views": 1791,
+   "views": 5926,
    "top": [
     {
-     "titulo": "R$ 500 MILHÕES A MENOS: 35 CLUBES PEDEM SOCORRO AO GOVERNO DEPOIS DO FIM DAS BETS 😱",
-     "canal": "Números da Colina",
-     "views": 1044,
-     "url": "https://www.youtube.com/watch?v=fTLy43mIjM0",
-     "publicado": "2026-11-18T00:05:17Z",
+     "titulo": "CRUZEIRO GARANTE VAGA DIRETA NA LIBERTADORES DE 2027 APÓS VITÓRIA SOBRE O PALMEIRAS!",
+     "canal": "Samuca TV",
+     "views": 3028,
+     "url": "https://www.youtube.com/watch?v=nW5vRqqFQ7Q",
+     "publicado": "2026-11-19T04:53:52Z",
      "do_canal": false
     },
     {
-     "titulo": "Leila Pereira recusou assinar o socorro dos clubes ao Governo: \"Eu honro meus compromissos\" 😤",
+     "titulo": "🔴 Cruzeiro VENCE o Palmeiras e GARANTE vaga DIRETA na LIBERTADORES",
+     "canal": "Baú do Cruzeiro",
+     "views": 1714,
+     "url": "https://www.youtube.com/watch?v=_M8FH1_hFJw",
+     "publicado": "2026-11-19T18:54:54Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "Cruzeiro vence o Palmeiras de virada e garante vaga direta na Libertadores",
+     "canal": "Alterosa Esporte",
+     "views": 938,
+     "url": "https://www.youtube.com/watch?v=BnJZ0GX1bxI",
+     "publicado": "2026-11-19T16:14:08Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "flamengo abel entregue titulo": {
+  "dia": "2026-11-19",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "hVvXHjgXh0w",
+     "titulo": "🚨 ABEL FERREIRA DIZ QUE O TÍTULO DO BRASILEIRO ESTÁ ENTREGUE PARA O FLAMENGO! 🚨",
+     "canal": "ESPN Brasil",
+     "views": 92633,
+     "likes": 2170,
+     "comentarios": 278,
+     "publicado": "2026-11-19T02:38:10Z",
+     "duracao_s": 91,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=hVvXHjgXh0w"
+    },
+    {
+     "id": "16lmstYd0rk",
+     "titulo": "“TITULO ENTREGUE. PARABÉNS AO FLAMENGO” VEJA A COLETIVA DE ABEL FERREIRA | PALMEIRAS X CRUZEIRO ",
+     "canal": "Litoral News",
+     "views": 37331,
+     "likes": 104,
+     "comentarios": 23,
+     "publicado": "2026-11-19T02:12:08Z",
+     "duracao_s": 613,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=16lmstYd0rk"
+    },
+    {
+     "id": "KlXeZnCCM3Q",
+     "titulo": "Abel Ferreira praticamente entrega o Brasileirão ao Flamengo: “Esse título está entregue”!",
+     "canal": "LINE FUTEBOL",
+     "views": 18051,
+     "likes": 102,
+     "comentarios": 1,
+     "publicado": "2026-11-19T03:38:46Z",
+     "duracao_s": 6,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=KlXeZnCCM3Q"
+    },
+    {
+     "id": "pXg409-bPLY",
+     "titulo": "ABEL FERREIRA DIZ QUE TÍTULO DO BRASILEIRÃO ESTA ENTREGUE AO FLAMENGO, MAS ANTES DE DAR OS PARABÉNS,",
+     "canal": "Paparazzo Rubro-Negro",
+     "views": 17779,
+     "likes": 478,
+     "comentarios": 36,
+     "publicado": "2026-11-19T03:40:21Z",
+     "duracao_s": 113,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=pXg409-bPLY"
+    },
+    {
+     "id": "P99OZdFb-6Q",
+     "titulo": "Abel Ferreira Disse que o título está entregue #flamengo #palmeiras #brasileirão #futebol",
+     "canal": "FlaMais",
+     "views": 17752,
+     "likes": 224,
+     "comentarios": 7,
+     "publicado": "2026-11-19T09:41:40Z",
+     "duracao_s": 22,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=P99OZdFb-6Q"
+    },
+    {
+     "id": "9EOi_Zc4G0Y",
+     "titulo": "ABEL JOGA A TOALHA EM RELAÇÃO AO BRASILEIRÃO: \"ESTE TÍTULO ESTÁ ENTREGUE\"",
+     "canal": "UOL Esporte",
+     "views": 14507,
+     "likes": 262,
+     "comentarios": 36,
+     "publicado": "2026-11-19T02:57:22Z",
+     "duracao_s": 74,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=9EOi_Zc4G0Y"
+    },
+    {
+     "id": "mY1th6GvGK0",
+     "titulo": "Abel vê título entregue e pode poupar titulares do Palmeiras contra o Flamengo",
+     "canal": "JOGOS DE HOJE NA TV ",
+     "views": 5149,
+     "likes": 17,
+     "comentarios": 0,
+     "publicado": "2026-11-19T10:42:49Z",
+     "duracao_s": 10,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=mY1th6GvGK0"
+    },
+    {
+     "id": "hX2zEi8IHpg",
+     "titulo": "Abel: 'Esse título está entregue.' O Abel já entregou o título pro Flamengo? Concorda com ele?!!!!!",
+     "canal": "alexsouza09 ",
+     "views": 4853,
+     "likes": 165,
+     "comentarios": 2,
+     "publicado": "2026-11-19T02:53:04Z",
+     "duracao_s": 69,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=hX2zEi8IHpg"
+    },
+    {
+     "id": "VrKV5E6-qA0",
+     "titulo": "Abel Ferreira entrega os pontos e parabeniza o Flamengo pelo título do Brasileirão! #shorts",
+     "canal": "Melhores Momentos Futebol 25",
+     "views": 4725,
+     "likes": 106,
+     "comentarios": 1,
+     "publicado": "2026-11-19T03:47:00Z",
+     "duracao_s": 97,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=VrKV5E6-qA0"
+    },
+    {
+     "id": "KxW47lS-XX4",
+     "titulo": "Abel Ferreira jogou a toalha: \"Esse título está entregue\" 3 dias antes de enfrentar o Flamengo 😳",
      "canal": "Adoro Esportes",
-     "views": 551,
-     "url": "https://www.youtube.com/watch?v=LXI6OpTmwRg",
-     "publicado": "2026-11-18T17:20:31Z",
+     "views": 4399,
+     "likes": 151,
+     "comentarios": 4,
+     "publicado": "2026-11-19T08:36:05Z",
+     "duracao_s": 50,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=KxW47lS-XX4"
+    },
+    {
+     "id": "ZDAG0mIjgqs",
+     "titulo": "🔥ABEL FERREIRA ENTREGA TÍTULO DO BRASILEIRÃO PARA O FLAMENGO E VEM COM TIME RESERVA #flamengo",
+     "canal": "DIÁRIO DO FLAMENGO",
+     "views": 3731,
+     "likes": 63,
+     "comentarios": 2,
+     "publicado": "2026-11-19T03:14:39Z",
+     "duracao_s": 60,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=ZDAG0mIjgqs"
+    },
+    {
+     "id": "7as0dRMMGu8",
+     "titulo": "Abel Ferreira afirma que o título Brasileiro já está entregue! #brasileirão #palmeiras #flamengo",
+     "canal": "Futebol Em Pedaços",
+     "views": 1717,
+     "likes": 33,
+     "comentarios": 0,
+     "publicado": "2026-11-19T09:34:06Z",
+     "duracao_s": 65,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=7as0dRMMGu8"
+    },
+    {
+     "id": "h2tAkfomyqY",
+     "titulo": "Brasileirão: Abel Ferreira joga a toalha e parabeniza Flamengo por “título” | CNN ESPORTES",
+     "canal": "CNN Esportes",
+     "views": 1616,
+     "likes": 43,
+     "comentarios": 1,
+     "publicado": "2026-11-19T04:23:17Z",
+     "duracao_s": 84,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=h2tAkfomyqY"
+    },
+    {
+     "id": "C4uNaaRBASA",
+     "titulo": "ABEL FERREIRA ENTREGA O TÍTULO AO FLAMENGO? VEJA O QUE DISSE O TÉCNICO!",
+     "canal": "Bastidores da Bola",
+     "views": 1570,
+     "likes": 58,
+     "comentarios": 7,
+     "publicado": "2026-11-19T02:33:29Z",
+     "duracao_s": 91,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=C4uNaaRBASA"
+    },
+    {
+     "id": "NB_jm4moZa0",
+     "titulo": "ABEL FERREIRA CRAVOU: ESSE TÍTULO JÁ ESTÁ ENTREGUE! 😳🏆🔥",
+     "canal": "AV - SUPORTE",
+     "views": 1461,
+     "likes": 53,
+     "comentarios": 1,
+     "publicado": "2026-11-19T04:08:11Z",
+     "duracao_s": 91,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=NB_jm4moZa0"
+    },
+    {
+     "id": "KyR2IQFQC58",
+     "titulo": "FIM DO CICLO! PALMEIRAS PERDE TÍTULO PARA O FLAMENGO E ABEL ENTREGA O CARGO APÓS DERROTA P CRUZEIRO!",
+     "canal": "Palmeiras Noticias Hoje",
+     "views": 1316,
+     "likes": 17,
+     "comentarios": 0,
+     "publicado": "2026-11-19T04:51:25Z",
+     "duracao_s": 607,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=KyR2IQFQC58"
+    },
+    {
+     "id": "lXyReOrlKSM",
+     "titulo": "ABEL AFIRMA QUE O TÍTULO ESTÁ ENTREGUE",
+     "canal": "Eduardo dos Santos ",
+     "views": 1228,
+     "likes": 32,
+     "comentarios": 0,
+     "publicado": "2026-11-19T09:33:57Z",
+     "duracao_s": 91,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=lXyReOrlKSM"
+    },
+    {
+     "id": "7S8hhqv72sI",
+     "titulo": "Abel Ferreira: \"título entregue\" ao Flamengo.",
+     "canal": "Saiu Na Mídia Esporte",
+     "views": 1169,
+     "likes": 31,
+     "comentarios": 1,
+     "publicado": "2026-11-19T10:39:55Z",
+     "duracao_s": 48,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=7S8hhqv72sI"
+    },
+    {
+     "id": "SBgaLwoj45w",
+     "titulo": "Abel Ferreira joga a toalha: “Este título está entregue” e Fla fica a um empate #shorts",
+     "canal": "Futebol Arte ⚽ Polêmicas",
+     "views": 1060,
+     "likes": 20,
+     "comentarios": 0,
+     "publicado": "2026-11-19T12:03:26Z",
+     "duracao_s": 86,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=SBgaLwoj45w"
+    },
+    {
+     "id": "14YwaMETrdQ",
+     "titulo": "Abel Ferreira diz que o título está entregue ao Flamengo #futebol #shorts #podcast",
+     "canal": "Bobinho FC",
+     "views": 1050,
+     "likes": 36,
+     "comentarios": 1,
+     "publicado": "2026-11-19T13:00:07Z",
+     "duracao_s": 37,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=14YwaMETrdQ"
+    },
+    {
+     "id": "2nkq_NpFGIA",
+     "titulo": "Abel Ferreira diz que título do Brasileirão ‘está entregue’ e parabeniza Flamengo",
+     "canal": "Terra Esportes",
+     "views": 975,
+     "likes": 26,
+     "comentarios": 0,
+     "publicado": "2026-11-19T11:59:11Z",
+     "duracao_s": 97,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=2nkq_NpFGIA"
+    },
+    {
+     "id": "XBgWteP67-c",
+     "titulo": "Abel Ferreira  falar que o titulo  já  tá entregue para o flamengo...",
+     "canal": "tobi",
+     "views": 944,
+     "likes": 24,
+     "comentarios": 3,
+     "publicado": "2026-11-19T11:18:19Z",
+     "duracao_s": 100,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=XBgWteP67-c"
+    },
+    {
+     "id": "ZThIF3oUsAU",
+     "titulo": "\"Título está entregue\", diz Abel Ferreira após derrota para o cruzeiro",
+     "canal": "Esportes RedeTV",
+     "views": 840,
+     "likes": 36,
+     "comentarios": 2,
+     "publicado": "2026-11-19T13:44:14Z",
+     "duracao_s": 90,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=ZThIF3oUsAU"
+    },
+    {
+     "id": "axuuc0Xje2s",
+     "titulo": "ABEL JOGA A TOALHA! TÍTULO ESTÁ ENTREGUE AO FLAMENGO! 😳",
+     "canal": "Davi Comenta ",
+     "views": 753,
+     "likes": 26,
+     "comentarios": 0,
+     "publicado": "2026-11-19T16:35:34Z",
+     "duracao_s": 62,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=axuuc0Xje2s"
+    },
+    {
+     "id": "vN3lj6AkcqQ",
+     "titulo": "ABEL ENTREGOU O TÍTULO... MAS SOLTOU UMA INDIRETA NO FINAL!",
+     "canal": "MASCOTADA FC",
+     "views": 242,
+     "likes": 6,
+     "comentarios": 1,
+     "publicado": "2026-11-19T04:30:27Z",
+     "duracao_s": 97,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=vN3lj6AkcqQ"
+    }
+   ],
+   "consulta": "Flamengo Abel entregue título",
+   "n_videos": 25,
+   "mais_de": true,
+   "views": 236851,
+   "top": [
+    {
+     "titulo": "🚨 ABEL FERREIRA DIZ QUE O TÍTULO DO BRASILEIRO ESTÁ ENTREGUE PARA O FLAMENGO! 🚨",
+     "canal": "ESPN Brasil",
+     "views": 92633,
+     "url": "https://www.youtube.com/watch?v=hVvXHjgXh0w",
+     "publicado": "2026-11-19T02:38:10Z",
      "do_canal": false
     },
     {
-     "titulo": "CLUBES PEDEM SOCORRO AO GOVERNO APÓS FIM DAS BETS! 🚨 Leila Pereira detona!",
-     "canal": "Plantão Expresso",
-     "views": 142,
-     "url": "https://www.youtube.com/watch?v=YqrNkW9VQ40",
-     "publicado": "2026-11-18T00:30:26Z",
+     "titulo": "“TITULO ENTREGUE. PARABÉNS AO FLAMENGO” VEJA A COLETIVA DE ABEL FERREIRA | PALMEIRAS X CRUZEIRO ",
+     "canal": "Litoral News",
+     "views": 37331,
+     "url": "https://www.youtube.com/watch?v=16lmstYd0rk",
+     "publicado": "2026-11-19T02:12:08Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "Abel Ferreira praticamente entrega o Brasileirão ao Flamengo: “Esse título está entregue”!",
+     "canal": "LINE FUTEBOL",
+     "views": 18051,
+     "url": "https://www.youtube.com/watch?v=KlXeZnCCM3Q",
+     "publicado": "2026-11-19T03:38:46Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "flamengo mendoza precisa ajudar": {
+  "dia": "2026-11-19",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "AFECkA9di68",
+     "titulo": "\"CBF, O FLAMENGO NÃO PRECISA MAIS DA SUA AJUDA!\" ( MENDOZA )",
+     "canal": "Um Palmeirense",
+     "views": 119843,
+     "likes": 6403,
+     "comentarios": 533,
+     "publicado": "2026-11-19T02:14:35Z",
+     "duracao_s": 62,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=AFECkA9di68"
+    },
+    {
+     "id": "61iutwcaZFg",
+     "titulo": "MENDOZA CRITICA ARBITRAGEM NA DERROTA DO ATHLETICO PARA O FLAMENGO | #shorts | ge.globo",
+     "canal": "ge tv",
+     "views": 32435,
+     "likes": 764,
+     "comentarios": 138,
+     "publicado": "2026-11-19T02:59:32Z",
+     "duracao_s": 41,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=61iutwcaZFg"
+    },
+    {
+     "id": "bXxuUOs2uNU",
+     "titulo": "Não precisa ajudar mais eles!\" — O desabafo de Mendoza sobre o Flamengo 😳⚽ #shorts",
+     "canal": "Pé na Bola.10",
+     "views": 1161,
+     "likes": 15,
+     "comentarios": 2,
+     "publicado": "2026-11-19T13:59:12Z",
+     "duracao_s": 16,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=bXxuUOs2uNU"
+    },
+    {
+     "id": "Nds9dqNX1LU",
+     "titulo": "MENDOZA DISPAROU CONTRA A ARBITRAGEM!",
+     "canal": "Apito de Bastidor",
+     "views": 20,
+     "likes": 1,
+     "comentarios": 0,
+     "publicado": "2026-11-19T18:54:24Z",
+     "duracao_s": 56,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Nds9dqNX1LU"
+    }
+   ],
+   "consulta": "Flamengo Mendoza precisa ajudar",
+   "n_videos": 4,
+   "mais_de": false,
+   "views": 153459,
+   "top": [
+    {
+     "titulo": "\"CBF, O FLAMENGO NÃO PRECISA MAIS DA SUA AJUDA!\" ( MENDOZA )",
+     "canal": "Um Palmeirense",
+     "views": 119843,
+     "url": "https://www.youtube.com/watch?v=AFECkA9di68",
+     "publicado": "2026-11-19T02:14:35Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "MENDOZA CRITICA ARBITRAGEM NA DERROTA DO ATHLETICO PARA O FLAMENGO | #shorts | ge.globo",
+     "canal": "ge tv",
+     "views": 32435,
+     "url": "https://www.youtube.com/watch?v=61iutwcaZFg",
+     "publicado": "2026-11-19T02:59:32Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "Não precisa ajudar mais eles!\" — O desabafo de Mendoza sobre o Flamengo 😳⚽ #shorts",
+     "canal": "Pé na Bola.10",
+     "views": 1161,
+     "url": "https://www.youtube.com/watch?v=bXxuUOs2uNU",
+     "publicado": "2026-11-19T13:59:12Z",
      "do_canal": false
     }
    ]
