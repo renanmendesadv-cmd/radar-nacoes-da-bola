@@ -1,1488 +1,1148 @@
 {
- "flamengo decisivo duelo": {
-  "dia": "2026-11-20",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "ZDTbk4Wt6mk",
-     "titulo": "Leonardo Jardim prepara o Flamengo para duelo decisivo contra o Palmeiras",
-     "canal": "FLAMENGO EM 2 MINUTOS",
-     "views": 508,
-     "likes": 11,
-     "comentarios": 0,
-     "publicado": "2026-11-20T17:30:29Z",
-     "duracao_s": 22,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ZDTbk4Wt6mk"
-    },
-    {
-     "id": "jx-AZZScs7o",
-     "titulo": "Rádio Nacional transmite duelo decisivo entre Palmeiras #Shorts",
-     "canal": "Giro em 30s",
-     "views": 0,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-20T15:04:49Z",
-     "duracao_s": 32,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=jx-AZZScs7o"
-    }
-   ],
-   "consulta": "Flamengo decisivo duelo",
-   "n_videos": 2,
-   "mais_de": false,
-   "views": 508,
-   "top": [
-    {
-     "titulo": "Leonardo Jardim prepara o Flamengo para duelo decisivo contra o Palmeiras",
-     "canal": "FLAMENGO EM 2 MINUTOS",
-     "views": 508,
-     "url": "https://www.youtube.com/watch?v=ZDTbk4Wt6mk",
-     "publicado": "2026-11-20T17:30:29Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "Rádio Nacional transmite duelo decisivo entre Palmeiras #Shorts",
-     "canal": "Giro em 30s",
-     "views": 0,
-     "url": "https://www.youtube.com/watch?v=jx-AZZScs7o",
-     "publicado": "2026-11-20T15:04:49Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "flamengo deste decacampeao": {
-  "dia": "2026-11-20",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "gPZBdQaf184",
-     "titulo": "Chico Garcia: Flamengo Decacampeão brasileiro 2026",
-     "canal": "ESPORTE_PLAY",
-     "views": 223029,
-     "likes": 3990,
-     "comentarios": 210,
-     "publicado": "2026-11-19T11:27:44Z",
-     "duracao_s": 71,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=gPZBdQaf184"
-    },
-    {
-     "id": "ZXdpTJO9IEU",
-     "titulo": "🚨🔥 ATENÇÃO, NAÇÃO! FLAMENGO A UM PONTO DO DECACAMPEONATO! LUIZ HENRIQUE NO MENGÃO?! 👀🏆",
-     "canal": "Fla Nação VVP / Flamengo",
-     "views": 35849,
-     "likes": 4531,
-     "comentarios": 145,
-     "publicado": "2026-11-19T11:10:06Z",
-     "duracao_s": 1047,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=ZXdpTJO9IEU"
-    },
-    {
-     "id": "t2nz80lcAY8",
-     "titulo": "RODRIGO MATTOS: \"FLAMENGO SELA O SEU DECACAMPEONATO\"",
-     "canal": "UOL Esporte",
-     "views": 19272,
-     "likes": 869,
-     "comentarios": 22,
-     "publicado": "2026-11-19T04:19:12Z",
-     "duracao_s": 148,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=t2nz80lcAY8"
-    },
-    {
-     "id": "CkHB-H96yFU",
-     "titulo": "Campeonato Brasileiro 2026 | Flamengo 2x1 Athletico Pr | Decacampeonato se aproxima | Vlog 182",
-     "canal": "Eric Barceleiro | Pelo Manto",
-     "views": 6575,
-     "likes": 362,
-     "comentarios": 19,
-     "publicado": "2026-11-19T22:51:13Z",
-     "duracao_s": 4445,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=CkHB-H96yFU"
-    },
-    {
-     "id": "OyH3HfyUIkg",
-     "titulo": "Pilhado Flamengo a um passo de se tornar decacampeão Brasileiro 2026",
-     "canal": "ESPORTE_PLAY",
-     "views": 4048,
-     "likes": 70,
-     "comentarios": 9,
-     "publicado": "2026-11-19T01:49:06Z",
-     "duracao_s": 44,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=OyH3HfyUIkg"
-    },
-    {
-     "id": "K1E_7NlhmPY",
-     "titulo": "Flamengo será decacampeão Brasiliero contra o Palmeiras?",
-     "canal": "Fla Mais Notícias",
-     "views": 3736,
-     "likes": 107,
-     "comentarios": 2,
-     "publicado": "2026-11-19T20:30:31Z",
-     "duracao_s": 63,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=K1E_7NlhmPY"
-    },
-    {
-     "id": "ocrIP2aQaIE",
-     "titulo": "NOTÍCIA URGENTE: O FLAMENGO É DECA CAMPEÃO! 🔴⚫🏆",
-     "canal": "FLAMENGO UMA NAÇÃO 46 MILHOES  ",
-     "views": 3553,
-     "likes": 255,
-     "comentarios": 12,
-     "publicado": "2026-11-19T19:19:26Z",
-     "duracao_s": 25,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ocrIP2aQaIE"
-    },
-    {
-     "id": "mppP20xnAsE",
-     "titulo": "MENGÃO A UM EMPATE DE SER DECACAMPEÃO BRASILEIRO! OS GOLS FILMADOS DA ARQUIBANCADA! FLA2X1ATHL ✌️❤️🖤",
-     "canal": "Flamenguista Realista",
-     "views": 3054,
-     "likes": 358,
-     "comentarios": 7,
-     "publicado": "2026-11-19T02:12:59Z",
-     "duracao_s": 177,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=mppP20xnAsE"
-    },
-    {
-     "id": "tAiKMnzEsvg",
-     "titulo": "PILHADO PROJETA DECACAMPEONATO DO FLAMENGO CONTRA O PALMEIRAS!",
-     "canal": "Pelada de Luxo",
-     "views": 2025,
-     "likes": 40,
-     "comentarios": 1,
-     "publicado": "2026-11-19T11:08:10Z",
-     "duracao_s": 60,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=tAiKMnzEsvg"
-    },
-    {
-     "id": "8r3lQz_syCg",
-     "titulo": "🔴 FLAMENGO DECACAMPEÃO  | Notícias do Mengão  AO VIVO!",
-     "canal": "Rodrigo Flamidia",
-     "views": 1697,
-     "likes": 28,
-     "comentarios": 0,
-     "publicado": "2026-11-19T18:10:53Z",
-     "duracao_s": 5118,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=8r3lQz_syCg"
-    },
-    {
-     "id": "cSGe7JK5N5c",
-     "titulo": "É DECACAMPEÃO! FLAMENGO PRATICAMENTE GARANTE MAIS UM TÍTULO!",
-     "canal": "FILGOL",
-     "views": 1672,
-     "likes": 34,
-     "comentarios": 4,
-     "publicado": "2026-11-19T03:49:57Z",
-     "duracao_s": 377,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=cSGe7JK5N5c"
-    },
-    {
-     "id": "06ObzMjYnoM",
-     "titulo": "DECACAMPEÃO ! PILHADO EXALTA FLAMENGO APÓS VITORIA",
-     "canal": "Futebol e Muito Mais",
-     "views": 1249,
-     "likes": 56,
-     "comentarios": 6,
-     "publicado": "2026-11-19T01:48:46Z",
-     "duracao_s": 87,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=06ObzMjYnoM"
-    },
-    {
-     "id": "mdtxkiMcvnU",
-     "titulo": "Flamengo a um empate do decacampeonato brasileiro!",
-     "canal": "Identidade Rubro Negra",
-     "views": 1238,
-     "likes": 43,
-     "comentarios": 0,
-     "publicado": "2026-11-19T19:40:05Z",
-     "duracao_s": 50,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=mdtxkiMcvnU"
-    },
-    {
-     "id": "6asWreGLriw",
-     "titulo": "🚨 FLAMENGO DECACAMPEÃO DE 87?! Mauro Cezar explica a polêmica! #futebol #brasileirão",
-     "canal": "ojoaomeloesporte",
-     "views": 1117,
-     "likes": 34,
-     "comentarios": 4,
-     "publicado": "2026-11-20T04:13:24Z",
-     "duracao_s": 132,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=6asWreGLriw"
-    },
-    {
-     "id": "AdiA5iWgA2Y",
-     "titulo": "FLAMENGO DECACAMPEÃO BRASILEIRO! #flamengo #brasileirão #oletv",
-     "canal": "Olé TV | Meio Norte",
-     "views": 1072,
-     "likes": 36,
-     "comentarios": 3,
-     "publicado": "2026-11-19T16:00:01Z",
-     "duracao_s": 93,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=AdiA5iWgA2Y"
-    },
-    {
-     "id": "JMn8hwX3y0w",
-     "titulo": "O FLAMENGO PODE SER DECACAMPEÃO SÁBADO #flamengo #rubronegro #campeão #brasileirão",
-     "canal": "Retfut",
-     "views": 1057,
-     "likes": 39,
-     "comentarios": 0,
-     "publicado": "2026-11-19T15:44:05Z",
-     "duracao_s": 52,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=JMn8hwX3y0w"
-    },
-    {
-     "id": "acD13BRQI9s",
-     "titulo": "FLAMENGO DECA CAMPEÃO BRASILEIRO! ACABOU A BRINCADEIRA PRO PALMEIRAS DE ABEL FERREIRA!",
-     "canal": "IA na prática ",
-     "views": 1053,
-     "likes": 44,
-     "comentarios": 1,
-     "publicado": "2026-11-19T10:49:13Z",
-     "duracao_s": 82,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=acD13BRQI9s"
-    },
-    {
-     "id": "PrnpKT9YjmA",
-     "titulo": "Pros secadores falta pouco para sermos Decacampeão! #flamengo #koringa #brasileirao #palmeiras",
-     "canal": "FLAVELINO NEWS",
-     "views": 937,
-     "likes": 30,
-     "comentarios": 0,
-     "publicado": "2026-11-19T02:05:30Z",
-     "duracao_s": 61,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=PrnpKT9YjmA"
-    },
-    {
-     "id": "KCysxPS-oDQ",
-     "titulo": "FLAMENGO COM A MÃO NA TAÇA DE DECACAMPEÃO BRASILEIRO",
-     "canal": "BraboTV",
-     "views": 877,
-     "likes": 45,
-     "comentarios": 1,
-     "publicado": "2026-11-19T02:41:12Z",
-     "duracao_s": 83,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=KCysxPS-oDQ"
-    },
-    {
-     "id": "PxqU0IaH14c",
-     "titulo": "Flamengo de Olho no Decacampeonato, enfrenta o Atlético PR, no Maracanã, 35° Rodada  #flamengo",
-     "canal": "SempreFla🔴⚫",
-     "views": 777,
-     "likes": null,
-     "comentarios": 27,
-     "publicado": "2026-11-18T23:10:52Z",
-     "duracao_s": 83,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=PxqU0IaH14c"
-    },
-    {
-     "id": "7Q-I-ccD9ro",
-     "titulo": "Flamengo 2 X 1 Athlético PR. Flamengo muito próximo do decacampeonato ❤️🖤❤️🖤❤️🖤❤️🖤❤️🖤",
-     "canal": " Cauã Campos Futebol Clube ",
-     "views": 707,
-     "likes": 16,
-     "comentarios": 5,
-     "publicado": "2026-11-19T01:38:26Z",
-     "duracao_s": 61,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=7Q-I-ccD9ro"
-    }
-   ],
-   "consulta": "Flamengo deste decacampeão",
-   "n_videos": 21,
-   "mais_de": true,
-   "views": 314594,
-   "top": [
-    {
-     "titulo": "Chico Garcia: Flamengo Decacampeão brasileiro 2026",
-     "canal": "ESPORTE_PLAY",
-     "views": 223029,
-     "url": "https://www.youtube.com/watch?v=gPZBdQaf184",
-     "publicado": "2026-11-19T11:27:44Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "🚨🔥 ATENÇÃO, NAÇÃO! FLAMENGO A UM PONTO DO DECACAMPEONATO! LUIZ HENRIQUE NO MENGÃO?! 👀🏆",
-     "canal": "Fla Nação VVP / Flamengo",
-     "views": 35849,
-     "url": "https://www.youtube.com/watch?v=ZXdpTJO9IEU",
-     "publicado": "2026-11-19T11:10:06Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "RODRIGO MATTOS: \"FLAMENGO SELA O SEU DECACAMPEONATO\"",
-     "canal": "UOL Esporte",
-     "views": 19272,
-     "url": "https://www.youtube.com/watch?v=t2nz80lcAY8",
-     "publicado": "2026-11-19T04:19:12Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "sao paulo arquibancada exclusiva tricolor": {
-  "dia": "2026-11-20",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "iS8hA5Of4UU",
-     "titulo": "🗣️ “EU ACHO QUE TEM INTERFERÊNCIA, SIM!”  Em entrevista EXCLUSIVA ao @ogabrielsa, do Arquibancada T",
-     "canal": "Arquibancada Tricolor",
-     "views": 1373,
-     "likes": 71,
-     "comentarios": 4,
-     "publicado": "2026-11-20T15:31:19Z",
-     "duracao_s": 88,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=iS8hA5Of4UU"
-    },
-    {
-     "id": "VQzRwRIHIdU",
-     "titulo": "“PRA AJUDAR MESMO, FOI O MARCOS ANTÔNIO!” Em entrevista EXCLUSIVA ao @ogabrielsa, do Arquibancada Tr",
-     "canal": "Arquibancada Tricolor",
-     "views": 189,
-     "likes": 8,
-     "comentarios": 0,
-     "publicado": "2026-11-20T17:15:54Z",
-     "duracao_s": 109,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=VQzRwRIHIdU"
-    }
-   ],
-   "consulta": "São Paulo Arquibancada EXCLUSIVA Tricolor",
-   "n_videos": 2,
-   "mais_de": false,
-   "views": 1562,
-   "top": [
-    {
-     "titulo": "🗣️ “EU ACHO QUE TEM INTERFERÊNCIA, SIM!”  Em entrevista EXCLUSIVA ao @ogabrielsa, do Arquibancada T",
-     "canal": "Arquibancada Tricolor",
-     "views": 1373,
-     "url": "https://www.youtube.com/watch?v=iS8hA5Of4UU",
-     "publicado": "2026-11-20T15:31:19Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "“PRA AJUDAR MESMO, FOI O MARCOS ANTÔNIO!” Em entrevista EXCLUSIVA ao @ogabrielsa, do Arquibancada Tr",
-     "canal": "Arquibancada Tricolor",
-     "views": 189,
-     "url": "https://www.youtube.com/watch?v=VQzRwRIHIdU",
-     "publicado": "2026-11-20T17:15:54Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "palmeiras leila nada finais": {
-  "dia": "2026-11-20",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "HW4za_YuvCM",
-     "titulo": "Palmeiras largou o Brasileirão? Leila e Abel miram as finais #shorts",
-     "canal": "Craque Club",
-     "views": 1098,
-     "likes": 40,
-     "comentarios": 2,
-     "publicado": "2026-11-19T23:22:57Z",
-     "duracao_s": 68,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=HW4za_YuvCM"
-    }
-   ],
-   "consulta": "Palmeiras Leila Nada finais",
-   "n_videos": 1,
-   "mais_de": false,
-   "views": 1098,
-   "top": [
-    {
-     "titulo": "Palmeiras largou o Brasileirão? Leila e Abel miram as finais #shorts",
-     "canal": "Craque Club",
-     "views": 1098,
-     "url": "https://www.youtube.com/watch?v=HW4za_YuvCM",
-     "publicado": "2026-11-19T23:22:57Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "sao paulo dorival derrota profissionais": {
-  "dia": "2026-11-20",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "WDVMdshOI7k",
-     "titulo": "MAIS UMA DERROTA! #shorts",
-     "canal": "ESPN Brasil",
-     "views": 22411,
-     "likes": 386,
-     "comentarios": 52,
-     "publicado": "2026-11-20T03:36:28Z",
-     "duracao_s": 160,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=WDVMdshOI7k"
-    },
-    {
-     "id": "kyeNkzELYLE",
-     "titulo": "COLETIVA DO SÃO PAULO AO VIVO: DORIVAL FALA APÓS DERROTA CONTRA O FLUMINENSE | ESPN",
-     "canal": "ESPN Brasil",
-     "views": 13183,
-     "likes": 78,
-     "comentarios": 7,
-     "publicado": "2026-11-20T03:56:11Z",
-     "duracao_s": 1235,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=kyeNkzELYLE"
-    },
-    {
-     "id": "yPEmNMoq7SE",
-     "titulo": "TORCIDA DO SÃO PAULO VAIA DORIVAL APÓS DERROTA PARA O FLUMINENSE! 😳🔴⚪⚫",
-     "canal": "Torcida Soberana TV",
-     "views": 1244,
-     "likes": 16,
-     "comentarios": 0,
-     "publicado": "2026-11-20T03:21:19Z",
-     "duracao_s": 14,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=yPEmNMoq7SE"
-    },
-    {
-     "id": "v2i5H4TQXmQ",
-     "titulo": "“ME SINTO RESPONSÁVEL POR TUDO”, AFIRMA DORIVAL!  Após a derrota por 1 a 0 para o Fluminense, nesta",
-     "canal": "Arquibancada Tricolor",
-     "views": 918,
-     "likes": 26,
-     "comentarios": 9,
-     "publicado": "2026-11-20T13:08:50Z",
-     "duracao_s": 152,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=v2i5H4TQXmQ"
-    },
-    {
-     "id": "KYJppkjLhD0",
-     "titulo": "DORIVAL JUNIOR FALA SOBRE DIRETORIA SÃO PAULO APÓS DERROTA PARA O FLUMINENSE",
-     "canal": "Minuto São Paulo FC",
-     "views": 479,
-     "likes": 16,
-     "comentarios": 0,
-     "publicado": "2026-11-20T15:17:00Z",
-     "duracao_s": 45,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=KYJppkjLhD0"
-    },
-    {
-     "id": "nhXiuMhf7qg",
-     "titulo": "DORIVAL ACREDITA QUE O SÃO PAULO NÃO FOI DOMINADO PELO FLUMINENSE, APESAR DA DERROTA POR 1 A 0!",
-     "canal": "Torcida Soberana TV",
-     "views": 290,
-     "likes": 8,
-     "comentarios": 2,
-     "publicado": "2026-11-20T17:08:15Z",
-     "duracao_s": 70,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=nhXiuMhf7qg"
-    },
-    {
-     "id": "Apb1huUTaD4",
-     "titulo": "DORIVAL DISCORDA QUE O FLUMINENSE DOMINOU O SÃO PAULO! VEJA A DECLARAÇÃO!",
-     "canal": "Bastidores da Bola",
-     "views": 212,
-     "likes": 9,
-     "comentarios": 1,
-     "publicado": "2026-11-20T13:30:03Z",
-     "duracao_s": 70,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Apb1huUTaD4"
-    },
-    {
-     "id": "T2y_yE13t4I",
-     "titulo": "BOMBA URGENTE! SÃO PAULO ANUNCIA DEMISSÃO DE DORIVAL JÚNIOR APÓS DERROTA EM CASA CONTRA O FLUMINENSE",
-     "canal": "Resenha Paulista TV",
-     "views": 75,
-     "likes": 6,
-     "comentarios": 0,
-     "publicado": "2026-11-20T15:45:04Z",
-     "duracao_s": 816,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=T2y_yE13t4I"
-    },
-    {
-     "id": "JGyFVrkWHvY",
-     "titulo": "Dorival assume a culpa e sobre o futuro diz: 'esquece isso' | Giro Tricolor 20/11 #shorts",
-     "canal": "Painel Tricolor",
-     "views": 1,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-20T18:00:21Z",
-     "duracao_s": 68,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=JGyFVrkWHvY"
-    },
-    {
-     "id": "pUJUvWYDdSI",
-     "titulo": "DORIVAL JÚNIOR SAI EM DEFESA DE ARBOLEDA APÓS ATAQUE DE JORNALISTA E VEXAME DO SÃO PAULO",
-     "canal": "JCM MAX",
-     "views": 1,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-20T14:45:22Z",
-     "duracao_s": 453,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=pUJUvWYDdSI"
-    },
-    {
-     "id": "e-OGZkB7yFA",
-     "titulo": "Dorival Jr. DEIXA TODOS CHOCADOS ao apontar o MAIOR culpado pela DERROTA do São Paulo!",
-     "canal": "Soberano Tricolor Entrevistas",
-     "views": 0,
-     "likes": 0,
-     "comentarios": 1,
-     "publicado": "2026-11-20T14:00:10Z",
-     "duracao_s": 1213,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=e-OGZkB7yFA"
-    }
-   ],
-   "consulta": "São Paulo Dorival derrota Profissionais",
-   "n_videos": 11,
-   "mais_de": false,
-   "views": 38814,
-   "top": [
-    {
-     "titulo": "MAIS UMA DERROTA! #shorts",
-     "canal": "ESPN Brasil",
-     "views": 22411,
-     "url": "https://www.youtube.com/watch?v=WDVMdshOI7k",
-     "publicado": "2026-11-20T03:36:28Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "COLETIVA DO SÃO PAULO AO VIVO: DORIVAL FALA APÓS DERROTA CONTRA O FLUMINENSE | ESPN",
-     "canal": "ESPN Brasil",
-     "views": 13183,
-     "url": "https://www.youtube.com/watch?v=kyeNkzELYLE",
-     "publicado": "2026-11-20T03:56:11Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "TORCIDA DO SÃO PAULO VAIA DORIVAL APÓS DERROTA PARA O FLUMINENSE! 😳🔴⚪⚫",
-     "canal": "Torcida Soberana TV",
-     "views": 1244,
-     "url": "https://www.youtube.com/watch?v=yPEmNMoq7SE",
-     "publicado": "2026-11-20T03:21:19Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "sao paulo classifica": {
-  "dia": "2026-11-20",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "K3zH6_P_1sY",
-     "titulo": "Tabela Brasileirão Série A 2026 | Classificação do Campeonato Brasileiro Série A 19/11/26 Parte II",
-     "canal": "Futebol Maluquinho FC",
-     "views": 5204,
-     "likes": 55,
-     "comentarios": 0,
-     "publicado": "2026-11-20T02:30:21Z",
-     "duracao_s": 83,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=K3zH6_P_1sY"
-    },
-    {
-     "id": "JVdbceCYYwE",
-     "titulo": "🇭🇺Fluminense vence o São Paulo no Morumbis e se classifica para a Libertadores",
-     "canal": "PLANTÃO Tricolor 24h",
-     "views": 2289,
-     "likes": 61,
-     "comentarios": 0,
-     "publicado": "2026-11-20T11:00:29Z",
-     "duracao_s": 936,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=JVdbceCYYwE"
-    },
-    {
-     "id": "TETnyIB_cKI",
-     "titulo": "Fluminense vence o São Paulo fora de casa e garante a classificação para a libertadores 2027!",
-     "canal": "Ramon Vilela FutNews",
-     "views": 569,
-     "likes": 10,
-     "comentarios": 0,
-     "publicado": "2026-11-20T03:53:24Z",
-     "duracao_s": 92,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=TETnyIB_cKI"
-    },
-    {
-     "id": "5vuLeWBKHGc",
-     "titulo": "SÃO PAULO x FLUMINENSE: onde assistir, últimos confrontos, classificação e prováveis escalações",
-     "canal": "info fut",
-     "views": 473,
-     "likes": 5,
-     "comentarios": 0,
-     "publicado": "2026-11-19T04:18:21Z",
-     "duracao_s": 91,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=5vuLeWBKHGc"
-    },
-    {
-     "id": "DU_Rj-mRG5s",
-     "titulo": "CLASSIFICAÇÃO EM CIMA DO MAIOR RIVAL EM JOGAÇO | Palmeiras x São Paulo | Melhores Momentos | Sub17",
-     "canal": "B7M Esportes",
-     "views": 181,
-     "likes": 8,
-     "comentarios": 0,
-     "publicado": "2026-11-20T16:03:09Z",
-     "duracao_s": 950,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=DU_Rj-mRG5s"
-    },
-    {
-     "id": "jmKq1XBsc58",
-     "titulo": "Live Futebolística 19/11/2026",
-     "canal": "3 Zé TV",
-     "views": 62,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-11-20T14:38:40Z",
-     "duracao_s": 2465,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=jmKq1XBsc58"
-    },
-    {
-     "id": "B-NRgHHIlTw",
-     "titulo": "São Paulo x Fluminense: onde assistir, horário e tudo sobre o jogo!",
-     "canal": "Futebol Stats",
-     "views": 52,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-18T22:36:52Z",
-     "duracao_s": 13,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=B-NRgHHIlTw"
-    },
-    {
-     "id": "NbjIk1EK9pc",
-     "titulo": "São Paulo x Fluminense: resultado, gol de Hércules e classificação | Brasileirão 2026 #Shorts",
-     "canal": "Olympic Esportes",
-     "views": 39,
-     "likes": 0,
-     "comentarios": 1,
-     "publicado": "2026-11-20T02:40:06Z",
-     "duracao_s": 39,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=NbjIk1EK9pc"
-    },
-    {
-     "id": "Y5hRzZX29E0",
-     "titulo": "Os Deuses do futebol estão ajudando,  só falta o Fluminense vencer!",
-     "canal": "Canal sênior Flu",
-     "views": 27,
-     "likes": 2,
-     "comentarios": 0,
-     "publicado": "2026-11-19T13:24:45Z",
-     "duracao_s": 1148,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=Y5hRzZX29E0"
-    },
-    {
-     "id": "Gvoem23a5hA",
-     "titulo": "Fluminense vence o São Paulo por 1x0,e se classifica pra libertadores #fluminense #saopaulo #futebol",
-     "canal": "Tomplay",
-     "views": 10,
-     "likes": 1,
-     "comentarios": 1,
-     "publicado": "2026-11-20T12:46:02Z",
-     "duracao_s": 96,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Gvoem23a5hA"
-    },
-    {
-     "id": "NECMKrUCXmY",
-     "titulo": "São Paulo perde em casa, e Fluminense confirma vaga na Libertadores 2027",
-     "canal": "Placar Do Dia FC",
-     "views": 0,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-20T03:28:32Z",
-     "duracao_s": 162,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=NECMKrUCXmY"
-    }
-   ],
-   "consulta": "São Paulo classifica",
-   "n_videos": 11,
-   "mais_de": false,
-   "views": 8906,
-   "top": [
-    {
-     "titulo": "Tabela Brasileirão Série A 2026 | Classificação do Campeonato Brasileiro Série A 19/11/26 Parte II",
-     "canal": "Futebol Maluquinho FC",
-     "views": 5204,
-     "url": "https://www.youtube.com/watch?v=K3zH6_P_1sY",
-     "publicado": "2026-11-20T02:30:21Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "🇭🇺Fluminense vence o São Paulo no Morumbis e se classifica para a Libertadores",
-     "canal": "PLANTÃO Tricolor 24h",
-     "views": 2289,
-     "url": "https://www.youtube.com/watch?v=JVdbceCYYwE",
-     "publicado": "2026-11-20T11:00:29Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "Fluminense vence o São Paulo fora de casa e garante a classificação para a libertadores 2027!",
-     "canal": "Ramon Vilela FutNews",
-     "views": 569,
-     "url": "https://www.youtube.com/watch?v=TETnyIB_cKI",
-     "publicado": "2026-11-20T03:53:24Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "corinthians consciencia negra plataforma": {
-  "dia": "2026-11-20",
-  "resultado": {
-   "amostra": [],
-   "consulta": "Corinthians Consciência Negra plataforma",
-   "n_videos": 0,
-   "mais_de": false,
-   "views": 0,
-   "top": []
-  }
- },
- "flamengo cruz relacionados sintetico": {
-  "dia": "2026-11-20",
-  "resultado": {
-   "amostra": [],
-   "consulta": "Flamengo Cruz relacionados sintético",
-   "n_videos": 0,
-   "mais_de": false,
-   "views": 0,
-   "top": []
-  }
- },
- "sao paulo garante vaga": {
-  "dia": "2026-11-20",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "8qeS71LNV9E",
-     "titulo": "FICOU BARATO! VAGA NA LIBERTA GARANTIDA!",
-     "canal": "ILAN FC",
-     "views": 25076,
-     "likes": 2268,
-     "comentarios": 53,
-     "publicado": "2026-11-20T04:00:03Z",
-     "duracao_s": 4359,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=8qeS71LNV9E"
-    },
-    {
-     "id": "e2sgnn3zqEg",
-     "titulo": "Fluminense bate o São Paulo no Morumbis e carimba vaga na Libertadores",
-     "canal": "RÁDIO FUTEBOL HD 3",
-     "views": 13885,
-     "likes": 85,
-     "comentarios": 0,
-     "publicado": "2026-11-20T07:05:54Z",
-     "duracao_s": 187,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=e2sgnn3zqEg"
-    },
-    {
-     "id": "fxgWvsSHpDE",
-     "titulo": "⚽ FLU DISPARA NO G4 COM GOLAÇO DO HERÓI HERCULES E SE GARANTE NA LIBERTADORES",
-     "canal": "Tricolada",
-     "views": 2484,
-     "likes": 174,
-     "comentarios": 7,
-     "publicado": "2026-11-20T09:00:07Z",
-     "duracao_s": 665,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=fxgWvsSHpDE"
-    },
-    {
-     "id": "je_NgJU3GHI",
-     "titulo": "EDITAL PROFESSOR SP 2026 SAIU: 5 mil vagas, datas e salário",
-     "canal": "Descomplica, Prô Carol!",
-     "views": 1154,
-     "likes": 54,
-     "comentarios": 11,
-     "publicado": "2026-11-19T22:00:37Z",
-     "duracao_s": 608,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=je_NgJU3GHI"
-    },
-    {
-     "id": "8dr0VBNflMI",
-     "titulo": "Vitória gigante sobre o São Paulo, deixa mais perto vaga na Libertadores #futebol",
-     "canal": "Tricolor10",
-     "views": 971,
-     "likes": 10,
-     "comentarios": 3,
-     "publicado": "2026-11-20T13:41:20Z",
-     "duracao_s": 18,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=8dr0VBNflMI"
-    },
-    {
-     "id": "CdSg0T90c1A",
-     "titulo": "APARTAMENTO À VENDA EM PINHEIROS | 55 m², 1 Vaga próximo à Rua dos Pinheiros",
-     "canal": "Ingrid Vicentini",
-     "views": 866,
-     "likes": 30,
-     "comentarios": 0,
-     "publicado": "2026-11-19T09:55:26Z",
-     "duracao_s": 152,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=CdSg0T90c1A"
-    },
-    {
-     "id": "HfBXjK_5O8k",
-     "titulo": "FLUMINENSE X SÃO PAULO VALE VAGA DIRETA PRA LIBERTA, TUDO SOBRE A TRAJETÓRIA DO FLU EM 2026.",
-     "canal": "TRICOLOR NA ÁREA",
-     "views": 791,
-     "likes": 294,
-     "comentarios": 11,
-     "publicado": "2026-11-19T13:15:48Z",
-     "duracao_s": 2256,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=HfBXjK_5O8k"
-    },
-    {
-     "id": "TcgvxPCPqt4",
-     "titulo": "PRÉ-JOGO: SÃO PAULO X FLUMINENSE | HORA DE GARANTIR A VAGA NA LIBERTA!",
-     "canal": "Flu Resenha",
-     "views": 650,
-     "likes": 61,
-     "comentarios": 0,
-     "publicado": "2026-11-20T12:38:25Z",
-     "duracao_s": 3532,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=TcgvxPCPqt4"
-    },
-    {
-     "id": "j6dEhhTZ0EY",
-     "titulo": "São Paulo X Fluminense - Hora de garantir vaga na Libertadores 2027",
-     "canal": "Fluminense Eterno",
-     "views": 363,
-     "likes": 11,
-     "comentarios": 2,
-     "publicado": "2026-11-19T13:28:20Z",
-     "duracao_s": 86,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=j6dEhhTZ0EY"
-    },
-    {
-     "id": "H2IReRV4aGI",
-     "titulo": "PRÉ-JOGO: SÃO PAULO X FLUMINENSE | HORA DE GARANTIR A VAGA NA LIBERTA!",
-     "canal": "Canal da Nina Lessa",
-     "views": 243,
-     "likes": 33,
-     "comentarios": 0,
-     "publicado": "2026-11-20T12:32:35Z",
-     "duracao_s": 3531,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=H2IReRV4aGI"
-    },
-    {
-     "id": "_miuSrtCel4",
-     "titulo": "🟢 AO VIVO! NOITE DE LIBERTADORES NO RIO! Fluminense garante vaga no Morumbis, Vasco vence o Inter!",
-     "canal": "POD·MARCAR",
-     "views": 226,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-11-20T17:24:49Z",
-     "duracao_s": 4471,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=_miuSrtCel4"
-    },
-    {
-     "id": "i0F_L7QCE1I",
-     "titulo": "SÃO PAULO DECEPCIONA MAIS UMA VEZ JOGANDO EM CASA E VE VAGA NA LIBERTADORES VADA VEZ MAIS DISTANTE",
-     "canal": "Sãopaulinodramatico",
-     "views": 214,
-     "likes": 23,
-     "comentarios": 11,
-     "publicado": "2026-11-20T03:41:02Z",
-     "duracao_s": 710,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=i0F_L7QCE1I"
-    },
-    {
-     "id": "VxIVzweaPmc",
-     "titulo": "SPFC INFO - SÃO PAULO ENFRENTA O FLUMINESE! PROVAVEL ESCALAÇÃO, VAGA NA LIBERTA? - NOTICIAS DO SPFC+",
-     "canal": "VITOR TRICOLOR",
-     "views": 107,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-19T17:17:36Z",
-     "duracao_s": 767,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=VxIVzweaPmc"
-    },
-    {
-     "id": "pGhpwQkERr4",
-     "titulo": "Fluminense vence São Paulo fora e fica perto de vaga direta na Libertadores | LIVE CNN",
-     "canal": "CNN Esportes",
-     "views": 82,
-     "likes": 7,
-     "comentarios": 0,
-     "publicado": "2026-11-20T14:37:23Z",
-     "duracao_s": 629,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=pGhpwQkERr4"
-    },
-    {
-     "id": "IQV1EbZXkiU",
-     "titulo": "Apartamento 1 dormitório e 1 vaga em Pinheiros | Rua Teodoro Sampaio",
-     "canal": "Zimmermann Imóveis",
-     "views": 55,
-     "likes": 2,
-     "comentarios": 0,
-     "publicado": "2026-11-19T16:07:09Z",
-     "duracao_s": 114,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=IQV1EbZXkiU"
-    },
-    {
-     "id": "GAGh0Ghmyak",
-     "titulo": "Apartamento para Alugar na Pompeia | 1 Dorm com Varanda e Vaga / Ar Gold Imóveis #tour #saopaulo",
-     "canal": "Ar Gold Imóveis",
-     "views": 49,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-11-19T13:47:30Z",
-     "duracao_s": 72,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=GAGh0Ghmyak"
-    },
-    {
-     "id": "w0T1th8Gg-8",
-     "titulo": "🚨 COM HÉRCULES MAIS UMA VEZ DECISIVO, FLU ENCAMINHA VAGA DIRETA PRA LIBERTADORES. | PÓS - JOGO",
-     "canal": "Flu Na Marca",
-     "views": 36,
-     "likes": null,
-     "comentarios": 1,
-     "publicado": "2026-11-20T03:05:01Z",
-     "duracao_s": 439,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=w0T1th8Gg-8"
-    },
-    {
-     "id": "iEogolQHRRE",
-     "titulo": "CASA VERDE | 59m² COM SUÍTE E VAGA | LAZER COMPLETO | FINANCIE 100% ",
-     "canal": "Caue MT",
-     "views": 33,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-11-19T00:28:41Z",
-     "duracao_s": 595,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=iEogolQHRRE"
-    },
-    {
-     "id": "gb_dhm5HnJA",
-     "titulo": "Apto na Vila Mariana próximo ao Metrô! 2 Dormitórios, Dependência, 1 Vaga e Lazer de Clube Completo",
-     "canal": "CYS Barreto Assessoria Imobiliária",
-     "views": 15,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-18T20:00:21Z",
-     "duracao_s": 94,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=gb_dhm5HnJA"
-    },
-    {
-     "id": "h8_7vNYHekg",
-     "titulo": "Bela Vista São Paulo | Tour Virtual Flat Paulista Life Mobiliado para Alugar com Sacada e Vaga",
-     "canal": "Só Flats",
-     "views": 10,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-19T13:45:17Z",
-     "duracao_s": 119,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=h8_7vNYHekg"
-    },
-    {
-     "id": "PyuzSKZILKY",
-     "titulo": "Gran Sky: aptos de 2 e 3 dorms com suíte e vaga a partir de R$ 584 mil na Vila Carrão, SP",
-     "canal": "Primeiro Apê SP",
-     "views": 4,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-18T19:02:49Z",
-     "duracao_s": 15,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=PyuzSKZILKY"
-    }
-   ],
-   "consulta": "São Paulo garante vaga",
-   "n_videos": 21,
-   "mais_de": true,
-   "views": 47314,
-   "top": [
-    {
-     "titulo": "FICOU BARATO! VAGA NA LIBERTA GARANTIDA!",
-     "canal": "ILAN FC",
-     "views": 25076,
-     "url": "https://www.youtube.com/watch?v=8qeS71LNV9E",
-     "publicado": "2026-11-20T04:00:03Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "Fluminense bate o São Paulo no Morumbis e carimba vaga na Libertadores",
-     "canal": "RÁDIO FUTEBOL HD 3",
-     "views": 13885,
-     "url": "https://www.youtube.com/watch?v=e2sgnn3zqEg",
-     "publicado": "2026-11-20T07:05:54Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "⚽ FLU DISPARA NO G4 COM GOLAÇO DO HERÓI HERCULES E SE GARANTE NA LIBERTADORES",
-     "canal": "Tricolada",
-     "views": 2484,
-     "url": "https://www.youtube.com/watch?v=fxgWvsSHpDE",
-     "publicado": "2026-11-20T09:00:07Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "corinthians cesar kaio mira": {
-  "dia": "2026-11-20",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "JwCjk-4xQwA",
-     "titulo": "🚨 CRAQUE NETO VAI À LOUCURA COM O GOL DE KAIO CÉSAR! CORINTHIANS 1x0 BOTAFOGO",
-     "canal": "Bola agora",
-     "views": 48511,
-     "likes": 562,
-     "comentarios": 5,
-     "publicado": "2026-11-19T01:43:19Z",
-     "duracao_s": 17,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=JwCjk-4xQwA"
-    },
-    {
-     "id": "_cAGjPT5VVE",
-     "titulo": "Vasco mira a contratação de Kaio César!!! #noticiasdocorinthians",
-     "canal": "SCCP_TIMÃO🖤🤍",
-     "views": 2744,
-     "likes": 119,
-     "comentarios": 1,
-     "publicado": "2026-11-20T09:19:07Z",
-     "duracao_s": 80,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=_cAGjPT5VVE"
-    },
-    {
-     "id": "zejj0ZQ1GTY",
-     "titulo": "VEJAM O QUE FALOU O JOGADOR DO CORINTHIANS KAIO CESAR APÓS FAZER TRÊS GOLS SOBRE O BOTAFOGO",
-     "canal": "CarlosCarlão2020",
-     "views": 991,
-     "likes": 27,
-     "comentarios": 0,
-     "publicado": "2026-11-19T02:35:38Z",
-     "duracao_s": 44,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=zejj0ZQ1GTY"
-    },
-    {
-     "id": "0PNYPAwpYLc",
-     "titulo": "⚠️KAIO CÉSAR NA MIRA DO VASCO DA GAMA! #espn #kaiocesar #corinthians",
-     "canal": "Trincheira Corinthians",
-     "views": 400,
-     "likes": 11,
-     "comentarios": 1,
-     "publicado": "2026-11-20T17:05:53Z",
-     "duracao_s": 20,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=0PNYPAwpYLc"
-    },
-    {
-     "id": "DEcA9Foi9Kw",
-     "titulo": "🚨🔥 MERCADO DA BOLA NO CORINTHIANS! KAIO CESAR NA MIRA E RENOVAÇÃO DE FABRIZIO ANGILERI AGITA O TIMÃO",
-     "canal": "Timão Notícias ",
-     "views": 50,
-     "likes": 1,
-     "comentarios": 0,
-     "publicado": "2026-11-18T22:58:40Z",
-     "duracao_s": 67,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=DEcA9Foi9Kw"
-    }
-   ],
-   "consulta": "Corinthians César Kaio mira",
-   "n_videos": 5,
-   "mais_de": false,
-   "views": 52696,
-   "top": [
-    {
-     "titulo": "🚨 CRAQUE NETO VAI À LOUCURA COM O GOL DE KAIO CÉSAR! CORINTHIANS 1x0 BOTAFOGO",
-     "canal": "Bola agora",
-     "views": 48511,
-     "url": "https://www.youtube.com/watch?v=JwCjk-4xQwA",
-     "publicado": "2026-11-19T01:43:19Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "Vasco mira a contratação de Kaio César!!! #noticiasdocorinthians",
-     "canal": "SCCP_TIMÃO🖤🤍",
-     "views": 2744,
-     "url": "https://www.youtube.com/watch?v=_cAGjPT5VVE",
-     "publicado": "2026-11-20T09:19:07Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "VEJAM O QUE FALOU O JOGADOR DO CORINTHIANS KAIO CESAR APÓS FAZER TRÊS GOLS SOBRE O BOTAFOGO",
-     "canal": "CarlosCarlão2020",
-     "views": 991,
-     "url": "https://www.youtube.com/watch?v=zejj0ZQ1GTY",
-     "publicado": "2026-11-19T02:35:38Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
  "flamengo neste campeao": {
-  "dia": "2026-11-20",
+  "dia": "2026-11-21",
   "resultado": {
    "amostra": [
     {
-     "id": "V8HqEk8SLKU",
-     "titulo": "FLAMENGO X ATHLETICO-PR | AO VIVO COM IMAGEM | CAMPEONATO BRASILEIRO 2026 | MARACANÃ",
-     "canal": "Canal 7sports",
-     "views": 732800,
-     "likes": 1692,
-     "comentarios": 0,
-     "publicado": "2026-11-19T02:16:46Z",
-     "duracao_s": 11316,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=V8HqEk8SLKU"
-    },
-    {
-     "id": "Niy9-DrSXVo",
-     "titulo": "AO VIVO: FLAMENGO 2 X 1 ATHLETICO-PR | CAMPEONATO BRASILEIRO | 35ª RODADA",
-     "canal": "Tupi Esportes",
-     "views": 682818,
-     "likes": 9199,
-     "comentarios": 12,
-     "publicado": "2026-11-19T01:40:14Z",
-     "duracao_s": 10972,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=Niy9-DrSXVo"
-    },
-    {
-     "id": "vbHICWVlFtw",
-     "titulo": "FLAMENGO X ATHLETICO-PR AO VIVO / DIRETO DO MARACANÃ / 35ª RODADA DO CAMPEONATO BRASILEIRO 2026",
-     "canal": "Flazoeiro TV",
-     "views": 657620,
-     "likes": 5332,
-     "comentarios": 0,
-     "publicado": "2026-11-19T02:37:51Z",
-     "duracao_s": 15972,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=vbHICWVlFtw"
-    },
-    {
-     "id": "jhLRaFSnZCM",
-     "titulo": "\"O ABEL JOGOU A TOALHA! O FLAMENGO é CAMPEÃO BRASILEIRO, e o PALMEIRAS agora vai...\" VEJA DEBATE!",
+     "id": "ddjvmAmTqAY",
+     "titulo": "\"O Palmeiras CLARAMENTE quer ESCULHAMBAR a FESTA do Flamengo e por isso...\" OLHA ESSE DEBATE!",
      "canal": "Jovem Pan Esportes",
-     "views": 355722,
-     "likes": 7220,
-     "comentarios": 544,
-     "publicado": "2026-11-19T03:17:31Z",
-     "duracao_s": 1725,
+     "views": 504851,
+     "likes": 8071,
+     "comentarios": 1243,
+     "publicado": "2026-11-20T17:06:53Z",
+     "duracao_s": 1047,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=jhLRaFSnZCM"
+     "url": "https://www.youtube.com/watch?v=ddjvmAmTqAY"
     },
     {
-     "id": "qO37kUt-te8",
-     "titulo": "FLAMENGO VENCE, PALMEIRAS PERDE, E MENGÃO PODE SER CAMPEÃO NO SÁBADO; CORINTHIANS GOLEIA! | CANELADA",
+     "id": "P9gUgFYN-JY",
+     "titulo": "É AMANHÃ! O FLAMENGO SERÁ CAMPEÃO CONTRA O PALMEIRAS?; SPFC DEPRIMENTE; GRENAL NO Z4! | BATE-PRONTO",
      "canal": "Jovem Pan Esportes",
-     "views": 278413,
-     "likes": 5015,
-     "comentarios": 89,
-     "publicado": "2026-11-19T03:31:50Z",
-     "duracao_s": 3990,
+     "views": 244563,
+     "likes": 3263,
+     "comentarios": 22,
+     "publicado": "2026-11-20T17:07:34Z",
+     "duracao_s": 7365,
      "live": true,
-     "url": "https://www.youtube.com/watch?v=qO37kUt-te8"
-    },
-    {
-     "id": "9lzeapl8JcE",
-     "titulo": "FLAMENGO FICA A UM EMPATE DE SER CAMPEÃO NA CASA DO PALMEIRAS; CORINTHIANS SAI DO Z4! | BATE-PRONTO",
-     "canal": "Jovem Pan Esportes",
-     "views": 265727,
-     "likes": 5287,
-     "comentarios": 65,
-     "publicado": "2026-11-19T17:11:41Z",
-     "duracao_s": 7650,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=9lzeapl8JcE"
-    },
-    {
-     "id": "niHQu0NxYmw",
-     "titulo": "FLAMENGO CAMPEÃO NO SÁBADO? | #shorts | ge.globo",
-     "canal": "ge tv",
-     "views": 244048,
-     "likes": 7330,
-     "comentarios": 92,
-     "publicado": "2026-11-19T03:07:38Z",
-     "duracao_s": 16,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=niHQu0NxYmw"
-    },
-    {
-     "id": "R4L1BGsEzQI",
-     "titulo": "PRÉ-JOGO - FLAMENGO X ATHLETICO-PR - CAMPEONATO BRASILEIRO SÉRIE A",
-     "canal": "Rádio HDTVPB",
-     "views": 214213,
-     "likes": 846,
-     "comentarios": 0,
-     "publicado": "2026-11-19T01:51:46Z",
-     "duracao_s": 200,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=R4L1BGsEzQI"
-    },
-    {
-     "id": "pG9rnQjJppg",
-     "titulo": "CORINTHIANS 4x0 BOTAFOGO: PÓS-JOGO | TUDO DE FLAMENGO E PALMEIRAS NO LINHA DE PASSE | ESPN",
-     "canal": "ESPN Brasil",
-     "views": 198241,
-     "likes": 2676,
-     "comentarios": 40,
-     "publicado": "2026-11-19T04:07:03Z",
-     "duracao_s": 5695,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=pG9rnQjJppg"
-    },
-    {
-     "id": "2QZt09jeMZ0",
-     "titulo": "palmeiras desesperado no brasileirão #flamengo #futebol #palmeiras #brasileirão",
-     "canal": "FlaMais",
-     "views": 132852,
-     "likes": 3459,
-     "comentarios": 118,
-     "publicado": "2026-11-19T08:30:28Z",
-     "duracao_s": 23,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=2QZt09jeMZ0"
+     "url": "https://www.youtube.com/watch?v=P9gUgFYN-JY"
     },
     {
      "id": "wBawTV9dNq8",
      "titulo": "FALOU QUE O PALMEIRAS JÁ ERA CAMPEÃO NO PRIMEIRO TURNO E SURTOU COM O FLAMENGO CAMPEÃO. OLHA ISSO!🤣🤣",
      "canal": "Michael Fla",
-     "views": 117379,
-     "likes": 2927,
-     "comentarios": 173,
+     "views": 141204,
+     "likes": 3632,
+     "comentarios": 212,
      "publicado": "2026-11-19T21:37:46Z",
      "duracao_s": 1389,
      "live": false,
      "url": "https://www.youtube.com/watch?v=wBawTV9dNq8"
     },
     {
-     "id": "wyI0g_VgdVo",
-     "titulo": "AO VIVO: FLAMENGO X ATHLETICO | 35ª RODADA DO CAMPEONATO BRASILEIRO | SUPER JORNADA ESPORTIVA",
-     "canal": "Trétis TV",
-     "views": 114826,
-     "likes": 2060,
-     "comentarios": 0,
-     "publicado": "2026-11-19T03:07:46Z",
-     "duracao_s": 25976,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=wyI0g_VgdVo"
-    },
-    {
-     "id": "fWBmiWsc7cY",
-     "titulo": "Flamengo Campeão? React Flamengo 2x1 Athletico PR",
-     "canal": "React Eduardo Corneta",
-     "views": 79633,
-     "likes": 2444,
-     "comentarios": 80,
-     "publicado": "2026-11-19T13:55:34Z",
-     "duracao_s": 149,
+     "id": "FliBpe_FhTM",
+     "titulo": "LEILA TAMBÉM JOGOU A TOALHA! TORCIDA DO PALMEIRAS CANCELAM INGRESSOS! FLAMENGO CAMPEÃO.",
+     "canal": "Marcos FLA React",
+     "views": 116711,
+     "likes": 3379,
+     "comentarios": 88,
+     "publicado": "2026-11-19T23:38:11Z",
+     "duracao_s": 1073,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=fWBmiWsc7cY"
+     "url": "https://www.youtube.com/watch?v=FliBpe_FhTM"
     },
     {
-     "id": "s30K94OTsl8",
-     "titulo": "TÍTULO É SÓ QUESTÃO DE TEMPO? FLAMENGO PODE SER CAMPEÃO NA CASA DO PALMEIRAS!",
-     "canal": "Cortes da TNT Sports",
-     "views": 74739,
-     "likes": 1563,
-     "comentarios": 46,
-     "publicado": "2026-11-19T16:04:53Z",
-     "duracao_s": 717,
+     "id": "z1T_CmLZyb0",
+     "titulo": "“O ABEL VAI PASSAR VERGONHA!!” RIZEK E JÚNIOR CRAVAM FLAMENGO CAMPEÃO NA CASA DO PALMEIRAS",
+     "canal": "Portal do FLA OFC",
+     "views": 115091,
+     "likes": 984,
+     "comentarios": 71,
+     "publicado": "2026-11-19T21:38:02Z",
+     "duracao_s": 551,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=s30K94OTsl8"
+     "url": "https://www.youtube.com/watch?v=z1T_CmLZyb0"
     },
     {
-     "id": "GAuHQ3CX7d4",
-     "titulo": "JÁ ERA, PALMEIRAS! FLAMENGO CAMPEÃO? LEILA E ABEL VÃO TER QUE ENGOLIR!",
-     "canal": "FLA VIDA NEWS",
-     "views": 60962,
-     "likes": 2430,
-     "comentarios": 129,
-     "publicado": "2026-11-19T09:30:36Z",
-     "duracao_s": 170,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=GAuHQ3CX7d4"
-    },
-    {
-     "id": "Ke50-vsRIws",
-     "titulo": "Tite AMA o Corinthians | Flamengo JÁ É CAMPEÃO BRASILEIRO - E MAIS",
-     "canal": "Futirinhas - Edu e Pépe",
-     "views": 54976,
-     "likes": 3790,
-     "comentarios": 233,
-     "publicado": "2026-11-19T03:26:38Z",
-     "duracao_s": 2344,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Ke50-vsRIws"
-    },
-    {
-     "id": "E2-jLCIwu2Y",
-     "titulo": "PEDRO SOFRE PÊNALTI, JORGINHO COBRA E FLAMENGO VIRA CONTRA O ATHLETICO NO PRIMEIRO TEMPO",
+     "id": "V4Y9c8iNWQo",
+     "titulo": "FLAMENGO JÁ É CAMPEÃO? PALMEIRAS VAI POUPAR? CORINTHIANS FORA DO Z-4 E MAIS AO VIVO",
      "canal": "UOL Esporte",
-     "views": 46407,
-     "likes": 189,
-     "comentarios": 24,
-     "publicado": "2026-11-19T00:34:16Z",
-     "duracao_s": 45,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=E2-jLCIwu2Y"
+     "views": 113855,
+     "likes": 1313,
+     "comentarios": 11,
+     "publicado": "2026-11-19T20:53:11Z",
+     "duracao_s": 7485,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=V4Y9c8iNWQo"
     },
     {
      "id": "Udq7lZ7O1nw",
      "titulo": "ESCALAÇÃO PRA SER CAMPEÃO BRASILEIRO CONTRA O SEM MUNDIAL #FLAMENGO #noticiasdoflamengo #mengão",
      "canal": "Insider FLA",
-     "views": 44887,
-     "likes": 6705,
-     "comentarios": 175,
+     "views": 97025,
+     "likes": 9256,
+     "comentarios": 239,
      "publicado": "2026-11-20T13:18:32Z",
      "duracao_s": 69,
      "live": false,
      "url": "https://www.youtube.com/watch?v=Udq7lZ7O1nw"
     },
     {
-     "id": "7E14ls-sTJQ",
-     "titulo": "MAURO CEZAR PEREIRA - FLAMENGO CAMPEÃO VIRTUAL?",
-     "canal": "Barbacast - Podcast do Barba",
-     "views": 41666,
-     "likes": 1673,
-     "comentarios": 12,
-     "publicado": "2026-11-20T01:13:08Z",
-     "duracao_s": 7381,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=7E14ls-sTJQ"
-    },
-    {
-     "id": "WrMN_RA7tAM",
-     "titulo": "FLAMENGO X ATHLETICO-PR | CAMPEONATO BRASILEIRO 2026 | PRÉ-JOGO E NARRAÇÃO (AO VIVO)",
-     "canal": "Zona Rubro Negra",
-     "views": 39158,
-     "likes": 955,
-     "comentarios": 1,
-     "publicado": "2026-11-19T01:37:26Z",
-     "duracao_s": 9036,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=WrMN_RA7tAM"
-    },
-    {
      "id": "QgK7aV8OTjY",
      "titulo": "Hoje tem Aerofla! Flamengo pode ser campeão amanhã, mas não vai levantar a taça no dia 🏆",
      "canal": "Giro Fla ",
-     "views": 37858,
-     "likes": 2321,
-     "comentarios": 34,
+     "views": 81306,
+     "likes": 3612,
+     "comentarios": 55,
      "publicado": "2026-11-20T09:45:36Z",
      "duracao_s": 179,
      "live": false,
      "url": "https://www.youtube.com/watch?v=QgK7aV8OTjY"
     },
     {
-     "id": "zYSVaoI9TWQ",
-     "titulo": "FLAMENGO VENCE E PODE SER CAMPEÃO CONTRA PALMEIRAS; CORINTHIANS GOLEIA EM CASA; GOLS DO BRASILEIRÃO",
-     "canal": "UOL Esporte",
-     "views": 26524,
-     "likes": 12,
-     "comentarios": 1,
-     "publicado": "2026-11-19T03:34:51Z",
-     "duracao_s": 298,
+     "id": "UYlPWHqv3yA",
+     "titulo": "VASCO X INTERNACIONAL | FLA CAMPEÃO NO NUBANK PARQUE? | GRÊMIO EM APUROS E TIMÃO RESPIRA! | #EquipeF",
+     "canal": "ESPN Brasil",
+     "views": 74569,
+     "likes": 662,
+     "comentarios": 0,
+     "publicado": "2026-11-19T23:34:41Z",
+     "duracao_s": 5680,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=UYlPWHqv3yA"
+    },
+    {
+     "id": "IKQTnLdwky0",
+     "titulo": "PALMEIRAS ENTREGOU O CAMPEONATO? FLAMENGO JÁ É CAMPEÃO? - VARzea",
+     "canal": "Flow Sport Club",
+     "views": 73936,
+     "likes": 2716,
+     "comentarios": 19,
+     "publicado": "2026-11-20T20:22:51Z",
+     "duracao_s": 7379,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=IKQTnLdwky0"
+    },
+    {
+     "id": "XyBa1Si3IUY",
+     "titulo": "Torcedor do Palmeiras devolvendo ingresso para não ver o Flamengo campeão no Allianz Parque",
+     "canal": "APITO FINAL",
+     "views": 61056,
+     "likes": 1812,
+     "comentarios": 160,
+     "publicado": "2026-11-21T01:42:21Z",
+     "duracao_s": 67,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=zYSVaoI9TWQ"
+     "url": "https://www.youtube.com/watch?v=XyBa1Si3IUY"
+    },
+    {
+     "id": "t0MA2TRMyTg",
+     "titulo": "NÃO VAI SER CAMPEÃO NESSE SÁBADO! FLAMENGO É MELHOR QUE O PALMEIRAS, MAS... JUCA MANDA A REAL",
+     "canal": "UOL Esporte",
+     "views": 44831,
+     "likes": 592,
+     "comentarios": 69,
+     "publicado": "2026-11-20T13:47:27Z",
+     "duracao_s": 1504,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=t0MA2TRMyTg"
+    },
+    {
+     "id": "7E14ls-sTJQ",
+     "titulo": "MAURO CEZAR PEREIRA - FLAMENGO CAMPEÃO VIRTUAL?",
+     "canal": "Barbacast - Podcast do Barba",
+     "views": 44689,
+     "likes": 1805,
+     "comentarios": 16,
+     "publicado": "2026-11-20T01:13:08Z",
+     "duracao_s": 7381,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=7E14ls-sTJQ"
+    },
+    {
+     "id": "kcrzQwp802I",
+     "titulo": "FLAMENGO PODE SER CAMPEÃO NO SÁBADO; VASCO NO MERCADO E BOTAFOGO EM CRISE | ZONA MISTA #82",
+     "canal": "RomárioTV",
+     "views": 37651,
+     "likes": 474,
+     "comentarios": 0,
+     "publicado": "2026-11-20T04:26:25Z",
+     "duracao_s": 8090,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=kcrzQwp802I"
+    },
+    {
+     "id": "p_9oFKtDylc",
+     "titulo": "PALMEIRAS X FLAMENGO: FINAL ANTECIPADA! Fla pode ser campeão no Nubank Parque? Veja as chances!",
+     "canal": "Mauro Beting & PVC",
+     "views": 37172,
+     "likes": 446,
+     "comentarios": 8,
+     "publicado": "2026-11-19T21:00:24Z",
+     "duracao_s": 53,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=p_9oFKtDylc"
+    },
+    {
+     "id": "WxpbPI_kLW8",
+     "titulo": "PALMEIRENSES CANCELANDO INGRESSOS! MENGÃO SERÁ CAMPEÃO HOJE!",
+     "canal": "Marcos FLA React",
+     "views": 36235,
+     "likes": 2184,
+     "comentarios": 75,
+     "publicado": "2026-11-21T13:09:08Z",
+     "duracao_s": 1826,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=WxpbPI_kLW8"
+    },
+    {
+     "id": "Dt8rpib1ZzM",
+     "titulo": "Palmeirense com medo do flamengo ser campeão brasileiro no nubank park! #palmeiras #flamengo",
+     "canal": "Fanaticosporfutebol ",
+     "views": 34620,
+     "likes": 1765,
+     "comentarios": 112,
+     "publicado": "2026-11-21T10:11:10Z",
+     "duracao_s": 154,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Dt8rpib1ZzM"
+    },
+    {
+     "id": "b1i187-umwM",
+     "titulo": "FLAMENGO PODE SER CAMPEÃO EM CIMA DO PALMEIRAS! 🔥",
+     "canal": "FutFatos 360",
+     "views": 31446,
+     "likes": 1128,
+     "comentarios": 17,
+     "publicado": "2026-11-20T21:28:36Z",
+     "duracao_s": 16,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=b1i187-umwM"
+    },
+    {
+     "id": "GmGUMhycC0I",
+     "titulo": "O flamengo vai ser campeão no estádio do Palmeiras #flamengo #noticiasdoflamengo",
+     "canal": "Nação Rubro-Negra ",
+     "views": 30826,
+     "likes": 1519,
+     "comentarios": 128,
+     "publicado": "2026-11-19T21:04:41Z",
+     "duracao_s": 68,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=GmGUMhycC0I"
+    },
+    {
+     "id": "vjxJX9GtVN0",
+     "titulo": "PALMEIRAS: 'PERDEU O BRASILEIRÃO PARA O FLA PELOS MAUS RESULTADOS CONTRA TIMES DO Z-4', ANALISA PVC",
+     "canal": "UOL Esporte",
+     "views": 26970,
+     "likes": 389,
+     "comentarios": 53,
+     "publicado": "2026-11-19T18:20:27Z",
+     "duracao_s": 106,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=vjxJX9GtVN0"
+    },
+    {
+     "id": "qi6muB4nAl0",
+     "titulo": "🚨 FLAMENGO PODE SER CAMPEÃO AMANHÃ! LEILA FALA DAS COPAS! BAP NEGA SOCORRO! AEROFLA +",
+     "canal": "S1 Live",
+     "views": 25343,
+     "likes": 2492,
+     "comentarios": 13,
+     "publicado": "2026-11-20T15:53:42Z",
+     "duracao_s": 6224,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=qi6muB4nAl0"
+    },
+    {
+     "id": "BAlLT1tT7Ko",
+     "titulo": "SAMUEL LINO FALA SOBRE O FLAMENGO SER CAMPEÃO EM CIMA DO PALMEIRAS! 👀🔴⚫ #shorts",
+     "canal": "GOL DE LETRA",
+     "views": 23665,
+     "likes": 885,
+     "comentarios": 13,
+     "publicado": "2026-11-20T05:19:43Z",
+     "duracao_s": 20,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=BAlLT1tT7Ko"
+    },
+    {
+     "id": "tR6tPhrsRto",
+     "titulo": "FLAMENGO: \"É MELHOR QUE O PALMEIRAS! MAS AMANHÃ NÃO TEREMOS O CAMPEÃO BRASILEIRO\", DISPARA JUCA",
+     "canal": "UOL Esporte",
+     "views": 22634,
+     "likes": 399,
+     "comentarios": 41,
+     "publicado": "2026-11-20T14:10:19Z",
+     "duracao_s": 108,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=tR6tPhrsRto"
+    },
+    {
+     "id": "8UaDfUHAvk0",
+     "titulo": "Raí Monteiro provoca o Palmeiras e crava: Flamengo será campeão no sábado!",
+     "canal": "FUTEBOL RENOVO",
+     "views": 22152,
+     "likes": 96,
+     "comentarios": 2,
+     "publicado": "2026-11-20T22:20:24Z",
+     "duracao_s": 6,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=8UaDfUHAvk0"
     }
    ],
    "consulta": "Flamengo neste campeão",
-   "n_videos": 22,
+   "n_videos": 24,
    "mais_de": true,
-   "views": 4501469,
+   "views": 2042401,
    "top": [
     {
-     "titulo": "FLAMENGO X ATHLETICO-PR | AO VIVO COM IMAGEM | CAMPEONATO BRASILEIRO 2026 | MARACANÃ",
-     "canal": "Canal 7sports",
-     "views": 732800,
-     "url": "https://www.youtube.com/watch?v=V8HqEk8SLKU",
-     "publicado": "2026-11-19T02:16:46Z",
+     "titulo": "\"O Palmeiras CLARAMENTE quer ESCULHAMBAR a FESTA do Flamengo e por isso...\" OLHA ESSE DEBATE!",
+     "canal": "Jovem Pan Esportes",
+     "views": 504851,
+     "url": "https://www.youtube.com/watch?v=ddjvmAmTqAY",
+     "publicado": "2026-11-20T17:06:53Z",
      "do_canal": false
     },
     {
-     "titulo": "AO VIVO: FLAMENGO 2 X 1 ATHLETICO-PR | CAMPEONATO BRASILEIRO | 35ª RODADA",
-     "canal": "Tupi Esportes",
-     "views": 682818,
-     "url": "https://www.youtube.com/watch?v=Niy9-DrSXVo",
-     "publicado": "2026-11-19T01:40:14Z",
+     "titulo": "É AMANHÃ! O FLAMENGO SERÁ CAMPEÃO CONTRA O PALMEIRAS?; SPFC DEPRIMENTE; GRENAL NO Z4! | BATE-PRONTO",
+     "canal": "Jovem Pan Esportes",
+     "views": 244563,
+     "url": "https://www.youtube.com/watch?v=P9gUgFYN-JY",
+     "publicado": "2026-11-20T17:07:34Z",
      "do_canal": false
     },
     {
-     "titulo": "FLAMENGO X ATHLETICO-PR AO VIVO / DIRETO DO MARACANÃ / 35ª RODADA DO CAMPEONATO BRASILEIRO 2026",
-     "canal": "Flazoeiro TV",
-     "views": 657620,
-     "url": "https://www.youtube.com/watch?v=vbHICWVlFtw",
-     "publicado": "2026-11-19T02:37:51Z",
+     "titulo": "FALOU QUE O PALMEIRAS JÁ ERA CAMPEÃO NO PRIMEIRO TURNO E SURTOU COM O FLAMENGO CAMPEÃO. OLHA ISSO!🤣🤣",
+     "canal": "Michael Fla",
+     "views": 141204,
+     "url": "https://www.youtube.com/watch?v=wBawTV9dNq8",
+     "publicado": "2026-11-19T21:37:46Z",
      "do_canal": false
     }
    ]
   }
  },
- "flamengo volpi goleiros reforcar": {
-  "dia": "2026-11-20",
+ "palmeiras maranhao convocada taina": {
+  "dia": "2026-11-21",
   "resultado": {
    "amostra": [],
-   "consulta": "Flamengo Volpi goleiros reforçar",
+   "consulta": "Palmeiras Maranhão convocada Taina",
    "n_videos": 0,
    "mais_de": false,
    "views": 0,
    "top": []
+  }
+ },
+ "corinthians sub-17 estreia mundial": {
+  "dia": "2026-11-21",
+  "resultado": {
+   "amostra": [],
+   "consulta": "Corinthians Sub-17 estreia Mundial",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "sao paulo paulistao semifinal": {
+  "dia": "2026-11-21",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "fqjgF95lZlk",
+     "titulo": "JOGO COMPLETO: SÃO PAULO X SANTOS | PAULISTÃO F 2026 | PLAY-IN",
+     "canal": "CazéTV",
+     "views": 415555,
+     "likes": 4307,
+     "comentarios": 5,
+     "publicado": "2026-11-21T16:09:59Z",
+     "duracao_s": 10060,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=fqjgF95lZlk"
+    },
+    {
+     "id": "f_bmvE6yRYI",
+     "titulo": "JOGO COMPLETO | PALMEIRAS 1 X 1 SÃO PAULO | PAULISTA SUB-17 2026",
+     "canal": "TV Palmeiras",
+     "views": 216795,
+     "likes": 4536,
+     "comentarios": 18,
+     "publicado": "2026-11-20T15:03:20Z",
+     "duracao_s": 7640,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=f_bmvE6yRYI"
+    },
+    {
+     "id": "EXepdDumv54",
+     "titulo": "VERDÃO FECHA CAIXÃO NO CHOQUE-REI | Palmeiras x São Paulo | Melhores Momentos | Paulista Sub 17",
+     "canal": "Conexão Fla",
+     "views": 47307,
+     "likes": 583,
+     "comentarios": 8,
+     "publicado": "2026-11-20T14:44:41Z",
+     "duracao_s": 613,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=EXepdDumv54"
+    },
+    {
+     "id": "-KKpxAk7obs",
+     "titulo": "SÃO PAULO X SANTOS AO VIVO | Quem vai à semifinal do Paulistão Feminino 2026?",
+     "canal": "Luis Eduardo Fernandes",
+     "views": 9127,
+     "likes": 96,
+     "comentarios": 0,
+     "publicado": "2026-11-21T13:44:54Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=-KKpxAk7obs"
+    },
+    {
+     "id": "OR8634t6R3M",
+     "titulo": "VIRADA ÉPICA E PEIXE NA FINAL! Santos x São Paulo | Melhores Momentos | Paulista Sub-15",
+     "canal": "Conexão Fla",
+     "views": 7706,
+     "likes": 346,
+     "comentarios": 9,
+     "publicado": "2026-11-21T13:42:56Z",
+     "duracao_s": 808,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=OR8634t6R3M"
+    },
+    {
+     "id": "oTxZ-lqngRo",
+     "titulo": "PALMEIRAS X SÃO PAULO - PAULISTA SUB 17 - SEMIFINAL - MELHORES MOMENTOS",
+     "canal": "futebraza29",
+     "views": 1614,
+     "likes": null,
+     "comentarios": 0,
+     "publicado": "2026-11-20T15:24:10Z",
+     "duracao_s": 593,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=oTxZ-lqngRo"
+    },
+    {
+     "id": "klqQNI2NvJY",
+     "titulo": "SANTOS 4 x 2 SÃO PAULO | GOLS | SEMI FINAL - VOLTA | PAULISTA SUB-15 (15/11/26)",
+     "canal": "SantosTV",
+     "views": 1429,
+     "likes": 249,
+     "comentarios": 6,
+     "publicado": "2026-11-21T16:22:33Z",
+     "duracao_s": 101,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=klqQNI2NvJY"
+    },
+    {
+     "id": "KzR3GlAedqA",
+     "titulo": "🏐 Que belo ataque! | Barueri x Corinthians | Semifinal Paulista Sub-13",
+     "canal": "FALANDO LIVE SPORTS",
+     "views": 1194,
+     "likes": 3,
+     "comentarios": 0,
+     "publicado": "2026-11-20T18:00:22Z",
+     "duracao_s": 7,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=KzR3GlAedqA"
+    },
+    {
+     "id": "GJ_kN73GkL8",
+     "titulo": "👉VOCÊ NÃO LEMBRA DESSE GOLAÇO DE DOUGLAS PELO SÃO CAETANO! 🤯🔵⚪ #futebol",
+     "canal": "Clipgol",
+     "views": 989,
+     "likes": 17,
+     "comentarios": 0,
+     "publicado": "2026-11-20T00:15:14Z",
+     "duracao_s": 32,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=GJ_kN73GkL8"
+    },
+    {
+     "id": "h2u4V_6GLl8",
+     "titulo": "VERDÃO ESTÁ NA FINAL! PALMEIRAS X SÃO PAULO - MELHORES MOMENTOS - PAULISTÃO SUB-17 2026",
+     "canal": "FUTEBOL EM DESTAQUE",
+     "views": 755,
+     "likes": 17,
+     "comentarios": 1,
+     "publicado": "2026-11-20T15:32:37Z",
+     "duracao_s": 601,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=h2u4V_6GLl8"
+    },
+    {
+     "id": "AhcX8le8E-k",
+     "titulo": "CABEÇADA PRA SEMIFINAL!",
+     "canal": "Paulistão",
+     "views": 470,
+     "likes": 16,
+     "comentarios": 0,
+     "publicado": "2026-11-21T15:48:03Z",
+     "duracao_s": 52,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=AhcX8le8E-k"
+    },
+    {
+     "id": "7lEsVxEYNVQ",
+     "titulo": "15 PIRA X BRAGANÇA PAULISTA/ SEMIFINAL SÉRIE OURO ADULTO MASCULINO",
+     "canal": "L. H .I - Liga de Handebol do Interior",
+     "views": 446,
+     "likes": 5,
+     "comentarios": 0,
+     "publicado": "2026-11-21T10:38:01Z",
+     "duracao_s": 5305,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=7lEsVxEYNVQ"
+    },
+    {
+     "id": "HwYlB692-iA",
+     "titulo": "Final do Campeonato Paulista Sub-19 feminino: Pinheiros x Osasco",
+     "canal": "volleyball performance",
+     "views": 281,
+     "likes": 6,
+     "comentarios": 0,
+     "publicado": "2026-11-19T18:00:20Z",
+     "duracao_s": 650,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=HwYlB692-iA"
+    },
+    {
+     "id": "NWE7eMwsxRU",
+     "titulo": "🎉💚PALMEIRAS NA FINAL DO PAULISTA SUB-17 DE 2026! 🐷⚽",
+     "canal": "PARMADARK",
+     "views": 123,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-11-20T21:00:33Z",
+     "duracao_s": 12,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=NWE7eMwsxRU"
+    },
+    {
+     "id": "x8E-DoFzsl4",
+     "titulo": "São Paulo elimina o Santos e está na semifinal do Paulistão F Petrobras 2026",
+     "canal": "Record News",
+     "views": 64,
+     "likes": null,
+     "comentarios": null,
+     "publicado": "2026-11-21T17:27:13Z",
+     "duracao_s": 146,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=x8E-DoFzsl4"
+    },
+    {
+     "id": "lyZpjqjQCpk",
+     "titulo": "MELHORES MOMENTOS: PALMEIRAS 1 vs 1 SÃO PAULO | SEMIFINAL PAULISTA SUB-17",
+     "canal": "Central da Base",
+     "views": 21,
+     "likes": 2,
+     "comentarios": 0,
+     "publicado": "2026-11-21T13:11:58Z",
+     "duracao_s": 728,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=lyZpjqjQCpk"
+    },
+    {
+     "id": "DYTwdarPNaU",
+     "titulo": "*🔥 SÃO PAULO 2 X 0 SANTOS! SPFC AMASSA E VAI PRA SEMIFINAL DO PAULISTÃO FEMININO!",
+     "canal": "Rock gol News",
+     "views": 8,
+     "likes": 2,
+     "comentarios": 5,
+     "publicado": "2026-11-21T16:53:15Z",
+     "duracao_s": 47,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=DYTwdarPNaU"
+    },
+    {
+     "id": "0GFFY4HXqEI",
+     "titulo": "SANTOS 4 X 2 SÃO PAULO! VIRADA HISTÓRICA! PEIXE ESTÁ NA FINAL DO PAULISTA SUB 15! ⚪⚫",
+     "canal": "LegadoSantistaFc",
+     "views": 4,
+     "likes": null,
+     "comentarios": 0,
+     "publicado": "2026-11-21T17:36:25Z",
+     "duracao_s": 0,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=0GFFY4HXqEI"
+    },
+    {
+     "id": "KQaU7gfO0y4",
+     "titulo": "Gol do Palmeiras contra o São Paulo n as semifinal Paulistão sub 17 #palmeiras #saopaulofc",
+     "canal": " Nomade pelo mundo 🌎 ",
+     "views": 1,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-11-21T15:47:34Z",
+     "duracao_s": 18,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=KQaU7gfO0y4"
+    },
+    {
+     "id": "i-93_zz0CHw",
+     "titulo": "A FINAL DO PAULISTÃO É CONTRA O SÃO PAULO! 😱 | Brasileirinho FC #4",
+     "canal": "Pedroelcabello",
+     "views": 1,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-11-21T13:00:28Z",
+     "duracao_s": 2666,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=i-93_zz0CHw"
+    }
+   ],
+   "consulta": "São Paulo PAULISTÃO SEMIFINAL",
+   "n_videos": 20,
+   "mais_de": false,
+   "views": 703890,
+   "top": [
+    {
+     "titulo": "JOGO COMPLETO: SÃO PAULO X SANTOS | PAULISTÃO F 2026 | PLAY-IN",
+     "canal": "CazéTV",
+     "views": 415555,
+     "url": "https://www.youtube.com/watch?v=fqjgF95lZlk",
+     "publicado": "2026-11-21T16:09:59Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "JOGO COMPLETO | PALMEIRAS 1 X 1 SÃO PAULO | PAULISTA SUB-17 2026",
+     "canal": "TV Palmeiras",
+     "views": 216795,
+     "url": "https://www.youtube.com/watch?v=f_bmvE6yRYI",
+     "publicado": "2026-11-20T15:03:20Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "VERDÃO FECHA CAIXÃO NO CHOQUE-REI | Palmeiras x São Paulo | Melhores Momentos | Paulista Sub 17",
+     "canal": "Conexão Fla",
+     "views": 47307,
+     "url": "https://www.youtube.com/watch?v=EXepdDumv54",
+     "publicado": "2026-11-20T14:44:41Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "palmeiras dominio concorrentes": {
+  "dia": "2026-11-21",
+  "resultado": {
+   "amostra": [],
+   "consulta": "Palmeiras domínio concorrentes",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "flamengo casa titulo": {
+  "dia": "2026-11-21",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "z1T_CmLZyb0",
+     "titulo": "“O ABEL VAI PASSAR VERGONHA!!” RIZEK E JÚNIOR CRAVAM FLAMENGO CAMPEÃO NA CASA DO PALMEIRAS",
+     "canal": "Portal do FLA OFC",
+     "views": 115091,
+     "likes": 984,
+     "comentarios": 71,
+     "publicado": "2026-11-19T21:38:02Z",
+     "duracao_s": 551,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=z1T_CmLZyb0"
+    },
+    {
+     "id": "mCAoPvkkwmE",
+     "titulo": "MAURO CEZAR: 'FLAMENGO VAI BUSCAR O TÍTULO NA CASA DO PALMEIRAS, NÃO IMPORTA SE FOR COM RESERVAS'",
+     "canal": "UOL Esporte",
+     "views": 92662,
+     "likes": 1520,
+     "comentarios": 128,
+     "publicado": "2026-11-20T13:14:59Z",
+     "duracao_s": 743,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=mCAoPvkkwmE"
+    },
+    {
+     "id": "GSHL61oVRQE",
+     "titulo": "Palmeiras x Flamengo vai ser o jogo do título do Mengão? Edu Dracena analisa",
+     "canal": "Jogo Aberto",
+     "views": 75966,
+     "likes": 2547,
+     "comentarios": 125,
+     "publicado": "2026-11-20T15:45:58Z",
+     "duracao_s": 104,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=GSHL61oVRQE"
+    },
+    {
+     "id": "iJb6FkGjXr4",
+     "titulo": "\"CBF ESCONDEU A TAÇA!!\" PALMEIRAS FAZ DE TUDO PRA NÃO VER O FLAMENGO CAMPEÃO EM CASA",
+     "canal": "Portal do FLA OFC",
+     "views": 58627,
+     "likes": 581,
+     "comentarios": 168,
+     "publicado": "2026-11-20T15:08:18Z",
+     "duracao_s": 500,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=iJb6FkGjXr4"
+    },
+    {
+     "id": "f7Mumjsro9k",
+     "titulo": "como vai acontecer a premiação do flamengo do título do Brasileirão na casa do palmeiras @cleverton",
+     "canal": "clevertonq8z ",
+     "views": 44927,
+     "likes": 544,
+     "comentarios": 8,
+     "publicado": "2026-11-19T18:33:22Z",
+     "duracao_s": 16,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=f7Mumjsro9k"
+    },
+    {
+     "id": "PB6G6aQ3sRw",
+     "titulo": "O Palmeiras entregou o título do brasileirão pro #flamengo comemorar na sua casa #futebol #palmeiras",
+     "canal": "AnderShowofc",
+     "views": 38045,
+     "likes": 1090,
+     "comentarios": 73,
+     "publicado": "2026-11-20T20:49:39Z",
+     "duracao_s": 61,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=PB6G6aQ3sRw"
+    },
+    {
+     "id": "wQjQKY0QLlQ",
+     "titulo": "Flamengo Pode Tirar o Título do Palmeiras Antes da Final da Libertadores? #shorts",
+     "canal": "fla60segundos",
+     "views": 17954,
+     "likes": 577,
+     "comentarios": 11,
+     "publicado": "2026-11-19T20:05:09Z",
+     "duracao_s": 69,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=wQjQKY0QLlQ"
+    },
+    {
+     "id": "eGp3knGCMXQ",
+     "titulo": "IMAGINA O RIVAL SER CAMPEÃO NA SUA CASA ANTES DA FINAL?! 👀⚽",
+     "canal": "ojoaomeloesporte",
+     "views": 10751,
+     "likes": 260,
+     "comentarios": 22,
+     "publicado": "2026-11-20T00:53:34Z",
+     "duracao_s": 51,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=eGp3knGCMXQ"
+    },
+    {
+     "id": "8t9unVm_tsk",
+     "titulo": "🚨 LEILA FOI DESFAZER DE \"TÍTULO\" DO FLAMENGO E MAURO CEZAR  DETONOU! FLA CAMPEÃO NA CASA DO RIVAL?",
+     "canal": "Isaac Cardoso Pro",
+     "views": 10742,
+     "likes": 132,
+     "comentarios": 6,
+     "publicado": "2026-11-20T19:15:22Z",
+     "duracao_s": 491,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=8t9unVm_tsk"
+    },
+    {
+     "id": "1VgixKYIlN0",
+     "titulo": "FLAMENGO: VAI BUSCAR O TÍTULO NA CASA DO PALMEIRAS, NÃO IMPORTA SE FOR COM RESERVAS, DIZ MAURO CEZAR",
+     "canal": "UOL Esporte",
+     "views": 7774,
+     "likes": 78,
+     "comentarios": 8,
+     "publicado": "2026-11-20T13:26:21Z",
+     "duracao_s": 135,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=1VgixKYIlN0"
+    },
+    {
+     "id": "PkWXTvOH-J8",
+     "titulo": "PALMEIRENSES APAVORADOS COM PROVÁVEL TÍTULO DO FLAMENGO KKKK",
+     "canal": "cultura rubro negra",
+     "views": 6559,
+     "likes": 250,
+     "comentarios": 15,
+     "publicado": "2026-11-20T15:05:31Z",
+     "duracao_s": 758,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=PkWXTvOH-J8"
+    },
+    {
+     "id": "9lQ6lZM1Zq4",
+     "titulo": "FLAMENGO X PALMEIRAS: O MENGÃO VAI SER CAMPEÃO NA CASA DO PALMEIRAS!",
+     "canal": "Futebol Real",
+     "views": 5117,
+     "likes": 194,
+     "comentarios": 9,
+     "publicado": "2026-11-21T14:59:35Z",
+     "duracao_s": 18,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=9lQ6lZM1Zq4"
+    },
+    {
+     "id": "or6gmQUHKwg",
+     "titulo": "😂 BATEU O DESESPERO NOS PALMEIRENSES COM POSSÍVEL COMEMORAÇÃO DE TÍTULO DO FLAMENGO NO NUBANK PARQUE",
+     "canal": "UrubuFla News",
+     "views": 3652,
+     "likes": 177,
+     "comentarios": 9,
+     "publicado": "2026-11-19T21:34:59Z",
+     "duracao_s": 492,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=or6gmQUHKwg"
+    },
+    {
+     "id": "8sk9XCFiKmw",
+     "titulo": "O Título Histórico na Casa do Rival, 2 resultados que dão o decacampeonato brasileiro ao Flamengo",
+     "canal": "SÉRGIO FLA NOTÍCIAS",
+     "views": 3581,
+     "likes": 182,
+     "comentarios": 12,
+     "publicado": "2026-11-20T12:52:30Z",
+     "duracao_s": 115,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=8sk9XCFiKmw"
+    },
+    {
+     "id": "Ndz6tepo0hI",
+     "titulo": "🏆🔴⚫ IMAGINA SER CAMPEÃO BRASILEIRO NA CASA DO PALMEIRAS?! 😱🔥",
+     "canal": "A voz do Flamengo –  Geraldo Geral",
+     "views": 3250,
+     "likes": 124,
+     "comentarios": 9,
+     "publicado": "2026-11-20T12:08:41Z",
+     "duracao_s": 20,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Ndz6tepo0hI"
+    },
+    {
+     "id": "X_6L0mQTAkU",
+     "titulo": "🚨 NETO CRAVA: FLAMENGO SERÁ CAMPEÃO NA CASA DO PALMEIRAS! 😂🏆🔴⚫ #shorts",
+     "canal": "FLAGOL",
+     "views": 3062,
+     "likes": 78,
+     "comentarios": 2,
+     "publicado": "2026-11-19T18:04:14Z",
+     "duracao_s": 27,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=X_6L0mQTAkU"
+    },
+    {
+     "id": "87EqqpzKFPQ",
+     "titulo": "O FLAMENGO PODE SER CAMPEÃO NA CASA DO PALMEIRAS! 😂🏆🔴⚫ #shorts",
+     "canal": "Davizin ",
+     "views": 2662,
+     "likes": 34,
+     "comentarios": 8,
+     "publicado": "2026-11-19T20:34:31Z",
+     "duracao_s": 12,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=87EqqpzKFPQ"
+    },
+    {
+     "id": "mPdBwUIPkn8",
+     "titulo": "FLAMENGO PRONTO PRO TÍTULO NA CASA DO PALMEIRAS l ABEL FERREIRA VAI COM TIME RESERVA? l E O AEROFLA?",
+     "canal": "Canal do Emershow",
+     "views": 2520,
+     "likes": 224,
+     "comentarios": 5,
+     "publicado": "2026-11-21T00:37:14Z",
+     "duracao_s": 2961,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=mPdBwUIPkn8"
+    },
+    {
+     "id": "raFOtuXGzIk",
+     "titulo": "🔴⚫ Flamengo pode conquistar o título na casa do Palmeiras! #flamengo  #futebol #youtubeshorts",
+     "canal": "Reino do Futebol",
+     "views": 2440,
+     "likes": 88,
+     "comentarios": 0,
+     "publicado": "2026-11-19T19:55:02Z",
+     "duracao_s": 38,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=raFOtuXGzIk"
+    },
+    {
+     "id": "xYHi3e3WVq8",
+     "titulo": "O flamengo não vai poder levantar o título do Brasileirão na casa do Palmeiras #flamengo #palmeiras",
+     "canal": "FL4MENGO NEWS ",
+     "views": 2423,
+     "likes": 93,
+     "comentarios": 6,
+     "publicado": "2026-11-20T21:49:57Z",
+     "duracao_s": 65,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=xYHi3e3WVq8"
+    },
+    {
+     "id": "Vv5EV2Ek3pM",
+     "titulo": "ESCALAÇÃO DO FLAMENGO! O TIME PARA SER CAMPEÃO NA CASA DO PALMEIRAS! 🔴⚫#shorts",
+     "canal": "fla60segundos",
+     "views": 2401,
+     "likes": 184,
+     "comentarios": 6,
+     "publicado": "2026-11-21T14:17:48Z",
+     "duracao_s": 64,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Vv5EV2Ek3pM"
+    },
+    {
+     "id": "WGh3XPf7mcg",
+     "titulo": "FLAMENGO PODE SER CAMPEÃO NA CASA DO PALMEIRAS",
+     "canal": "Porco Insider",
+     "views": 1547,
+     "likes": 21,
+     "comentarios": 4,
+     "publicado": "2026-11-20T21:30:38Z",
+     "duracao_s": 52,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=WGh3XPf7mcg"
+    },
+    {
+     "id": "Ge_iT7y9UTc",
+     "titulo": "Leila pede foco nas finais, mas Flamengo pode ser campeão na casa do Palmeiras",
+     "canal": "Panorant Esporte",
+     "views": 1444,
+     "likes": 38,
+     "comentarios": 4,
+     "publicado": "2026-11-20T14:15:06Z",
+     "duracao_s": 132,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Ge_iT7y9UTc"
+    },
+    {
+     "id": "KgpRj0zZw8Y",
+     "titulo": "🏆 FLAMENGO PODE SER CAMPEÃO NA CASA DO PALMEIRAS? Samuel Lino fala sobre o título!",
+     "canal": "Ruivinha rubro negra",
+     "views": 1325,
+     "likes": 72,
+     "comentarios": 1,
+     "publicado": "2026-11-19T19:38:32Z",
+     "duracao_s": 53,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=KgpRj0zZw8Y"
+    },
+    {
+     "id": "RCAAWMs497I",
+     "titulo": "ABEL RUMO AO TERCEIRO VICE SEGUIDO? FLAMENGO DECIDE O TÍTULO AMANHÃ NO ALLIANZ",
+     "canal": "BOLÃO SPORTS",
+     "views": 1291,
+     "likes": 43,
+     "comentarios": 2,
+     "publicado": "2026-11-20T13:49:41Z",
+     "duracao_s": 73,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=RCAAWMs497I"
+    }
+   ],
+   "consulta": "Flamengo CASA TÍTULO",
+   "n_videos": 25,
+   "mais_de": true,
+   "views": 515813,
+   "top": [
+    {
+     "titulo": "“O ABEL VAI PASSAR VERGONHA!!” RIZEK E JÚNIOR CRAVAM FLAMENGO CAMPEÃO NA CASA DO PALMEIRAS",
+     "canal": "Portal do FLA OFC",
+     "views": 115091,
+     "url": "https://www.youtube.com/watch?v=z1T_CmLZyb0",
+     "publicado": "2026-11-19T21:38:02Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "MAURO CEZAR: 'FLAMENGO VAI BUSCAR O TÍTULO NA CASA DO PALMEIRAS, NÃO IMPORTA SE FOR COM RESERVAS'",
+     "canal": "UOL Esporte",
+     "views": 92662,
+     "url": "https://www.youtube.com/watch?v=mCAoPvkkwmE",
+     "publicado": "2026-11-20T13:14:59Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "Palmeiras x Flamengo vai ser o jogo do título do Mengão? Edu Dracena analisa",
+     "canal": "Jogo Aberto",
+     "views": 75966,
+     "url": "https://www.youtube.com/watch?v=GSHL61oVRQE",
+     "publicado": "2026-11-20T15:45:58Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "palmeiras arthur elias japao": {
+  "dia": "2026-11-21",
+  "resultado": {
+   "amostra": [],
+   "consulta": "Palmeiras Arthur Elias Japão",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "corinthians palpites dicas": {
+  "dia": "2026-11-21",
+  "resultado": {
+   "amostra": [],
+   "consulta": "Corinthians Palpites dicas",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "flamengo festa empate": {
+  "dia": "2026-11-21",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "Pv_T2BJFIiA",
+     "titulo": "DEBOCHARAM E AGORA VÃO AGUENTAR! FLAMENGO A UM EMPATE DA FESTA NO ALLIANZ!",
+     "canal": "RESENHA FLA",
+     "views": 231326,
+     "likes": 4495,
+     "comentarios": 220,
+     "publicado": "2026-11-19T23:22:43Z",
+     "duracao_s": 1393,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Pv_T2BJFIiA"
+    },
+    {
+     "id": "HcCPl63MlGk",
+     "titulo": "UM EMPATE BASTA: O FLAMENGO PODE SER CAMPEÃO NO SÁBADO",
+     "canal": "Apito de Bastidor",
+     "views": 919,
+     "likes": 39,
+     "comentarios": 0,
+     "publicado": "2026-11-20T16:58:49Z",
+     "duracao_s": 57,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=HcCPl63MlGk"
+    },
+    {
+     "id": "nNZWLYqPFv0",
+     "titulo": "🔥 HÁ UM EMPATE PARA A HISTÓRIA! O FLAMENGO ESTÁ A UM PASSO DO DECA! 🏆🔴⚫",
+     "canal": "FUTEBOL DE BAR",
+     "views": 430,
+     "likes": 14,
+     "comentarios": 1,
+     "publicado": "2026-11-21T11:22:28Z",
+     "duracao_s": 18,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=nNZWLYqPFv0"
+    },
+    {
+     "id": "ic1rdcFjIGM",
+     "titulo": "DEBOCHARAM E AGORA VAO AGUENTAR! FLAMENGO A UM EMPATE DA FESTA NO ALLIANZ!XRESENHA FLA",
+     "canal": "Ademir de Araujo",
+     "views": 8,
+     "likes": 2,
+     "comentarios": 1,
+     "publicado": "2026-11-20T10:27:25Z",
+     "duracao_s": 181,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=ic1rdcFjIGM"
+    },
+    {
+     "id": "GQt8HP3tUwQ",
+     "titulo": "EMPATE BASTA: O FLAMENGO PODE SER CAMPEÃO AMANHÃ NA CASA DO PALMEIRAS",
+     "canal": "Meu Brasil Sports News",
+     "views": 4,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-11-20T21:50:46Z",
+     "duracao_s": 106,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=GQt8HP3tUwQ"
+    }
+   ],
+   "consulta": "Flamengo festa empate",
+   "n_videos": 5,
+   "mais_de": false,
+   "views": 232687,
+   "top": [
+    {
+     "titulo": "DEBOCHARAM E AGORA VÃO AGUENTAR! FLAMENGO A UM EMPATE DA FESTA NO ALLIANZ!",
+     "canal": "RESENHA FLA",
+     "views": 231326,
+     "url": "https://www.youtube.com/watch?v=Pv_T2BJFIiA",
+     "publicado": "2026-11-19T23:22:43Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "UM EMPATE BASTA: O FLAMENGO PODE SER CAMPEÃO NO SÁBADO",
+     "canal": "Apito de Bastidor",
+     "views": 919,
+     "url": "https://www.youtube.com/watch?v=HcCPl63MlGk",
+     "publicado": "2026-11-20T16:58:49Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "🔥 HÁ UM EMPATE PARA A HISTÓRIA! O FLAMENGO ESTÁ A UM PASSO DO DECA! 🏆🔴⚫",
+     "canal": "FUTEBOL DE BAR",
+     "views": 430,
+     "url": "https://www.youtube.com/watch?v=nNZWLYqPFv0",
+     "publicado": "2026-11-21T11:22:28Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "sao paulo retrospecto apertado vantagem": {
+  "dia": "2026-11-21",
+  "resultado": {
+   "amostra": [],
+   "consulta": "São Paulo Retrospecto apertado vantagem",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "palmeiras arrascaeta transformar idolo": {
+  "dia": "2026-11-21",
+  "resultado": {
+   "amostra": [],
+   "consulta": "Palmeiras Arrascaeta transformar ídolo",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "flamengo decada nesta": {
+  "dia": "2026-11-21",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "C1XcxPVjD0E",
+     "titulo": "Palmeiras x Flamengo: a maior rivalidade da década 🔥 E sábado vale título",
+     "canal": "Joao Vitor",
+     "views": 1039,
+     "likes": 24,
+     "comentarios": 2,
+     "publicado": "2026-11-20T21:00:14Z",
+     "duracao_s": 34,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=C1XcxPVjD0E"
+    }
+   ],
+   "consulta": "Flamengo década nesta",
+   "n_videos": 1,
+   "mais_de": false,
+   "views": 1039,
+   "top": [
+    {
+     "titulo": "Palmeiras x Flamengo: a maior rivalidade da década 🔥 E sábado vale título",
+     "canal": "Joao Vitor",
+     "views": 1039,
+     "url": "https://www.youtube.com/watch?v=C1XcxPVjD0E",
+     "publicado": "2026-11-20T21:00:14Z",
+     "do_canal": false
+    }
+   ]
   }
  }
 }
