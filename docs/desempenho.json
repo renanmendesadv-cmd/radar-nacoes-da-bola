@@ -1,28 +1,28 @@
 {
- "gerado_em": "2026-11-23T22:14:43.893700+00:00",
+ "gerado_em": "2026-11-24T20:53:12.160072+00:00",
  "canal": {
   "id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
   "nome": "NAÇÕES DA BOLA o canal de todas as torcidas",
   "inscritos": 5940
  },
  "periodo": {
-  "inicio": "2026-10-24",
-  "fim": "2026-11-20",
-  "janela_inicio": "2026-08-23"
+  "inicio": "2026-10-25",
+  "fim": "2026-11-21",
+  "janela_inicio": "2026-08-24"
  },
  "n_videos": 58,
  "n_videos_v7": 40,
  "mediana_v7": 140,
  "resumo_semana": {
   "views": {
-   "atual": 7679,
-   "anterior": 1240,
-   "variacao": 519.3
+   "atual": 7932,
+   "anterior": 1218,
+   "variacao": 551.2
   },
   "minutos": {
-   "atual": 3725,
-   "anterior": 3246,
-   "variacao": 14.8
+   "atual": 4003,
+   "anterior": 3231,
+   "variacao": 23.9
   },
   "inscritos_ganhos": {
    "atual": 18,
@@ -64,10 +64,10 @@
    "mediana_v7": 140,
    "indice": 1.0,
    "pct_assistido": 4.0,
-   "views": 12852,
+   "views": 12823,
    "pct_views": 99.3,
    "inscritos": 21,
-   "minutos": 11014
+   "minutos": 10789
   }
  ],
  "tipos": [
@@ -249,27 +249,27 @@
  "trafego": [
   {
    "origem": "Página inicial e inscrições",
-   "views": 9889,
-   "pct": 76.4
+   "views": 9848,
+   "pct": 76.3
   },
   {
    "origem": "Vídeos sugeridos",
-   "views": 1940,
+   "views": 1934,
    "pct": 15.0
   },
   {
    "origem": "Sites e apps externos",
-   "views": 390,
-   "pct": 3.0
+   "views": 400,
+   "pct": 3.1
   },
   {
    "origem": "Busca do YouTube",
-   "views": 272,
+   "views": 271,
    "pct": 2.1
   },
   {
    "origem": "Página do canal",
-   "views": 192,
+   "views": 193,
    "pct": 1.5
   },
   {
@@ -284,8 +284,8 @@
   },
   {
    "origem": "Acesso direto ou desconhecido",
-   "views": 70,
-   "pct": 0.5
+   "views": 73,
+   "pct": 0.6
   }
  ],
  "melhores_dias": [
@@ -358,7 +358,7 @@
    "url": "https://www.youtube.com/watch?v=g4VaXPhpK1s",
    "formato": "Lives",
    "inscritos": 11,
-   "views": 6995
+   "views": 6997
   },
   {
    "titulo": "SAI PRO JOGO    #221",
@@ -442,21 +442,21 @@
   "Jogo e resultado": 1.148
  },
  "alcance": {
-  "impressoes": 75842,
+  "impressoes": 75141,
   "ctr": 7.3,
   "por_formato": [
    {
     "nome": "Lives",
-    "impressoes": 74538,
-    "ctr": 7.3,
+    "impressoes": 73835,
+    "ctr": 7.4,
     "n_videos": 56
    }
   ],
   "por_tipo": [
    {
     "nome": "Transmissão de jogo",
-    "impressoes": 51826,
-    "ctr": 9.9,
+    "impressoes": 51319,
+    "ctr": 10.0,
     "n_videos": 29
    },
    {
@@ -467,13 +467,13 @@
    },
    {
     "nome": "Resenha multitemas",
-    "impressoes": 17450,
+    "impressoes": 17400,
     "ctr": 1.6,
     "n_videos": 16
    },
    {
     "nome": "Sai pro Jogo (programa)",
-    "impressoes": 3863,
+    "impressoes": 3898,
     "ctr": 1.1,
     "n_videos": 7
    }
@@ -482,7 +482,7 @@
    {
     "titulo": "ESPANHA  X   INGLATERRA - RODADA 6",
     "url": "https://www.youtube.com/watch?v=g4VaXPhpK1s",
-    "impressoes": 26536,
+    "impressoes": 26539,
     "ctr": 14.0,
     "formato": "Lives",
     "pct_assistido": 0.4
@@ -512,12 +512,12 @@
     "pct_assistido": 2.5
    },
    {
-    "titulo": "ITÁLIA  X   FRANÇA  - RODADA 5",
-    "url": "https://www.youtube.com/watch?v=Fm5nVSULmKE",
-    "impressoes": 3041,
-    "ctr": 4.2,
+    "titulo": "PALMEIRAS X FLAMENGO- RODADA 36",
+    "url": "https://www.youtube.com/watch?v=dYiIKVpbsa8",
+    "impressoes": 1757,
+    "ctr": 4.5,
     "formato": "Lives",
-    "pct_assistido": 0.6
+    "pct_assistido": 2.0
    }
   ],
   "piores": [
@@ -556,8 +556,8 @@
    {
     "titulo": "SÃO PAULO  X  FLUMINENSE - RODADA 35",
     "url": "https://www.youtube.com/watch?v=JTjl23QRaSU",
-    "impressoes": 2807,
-    "ctr": 2.5,
+    "impressoes": 2910,
+    "ctr": 2.4,
     "formato": "Lives",
     "pct_assistido": 2.4
    }
@@ -566,12 +566,12 @@
   "ativado_em": "2026-09-30T04:22:41.545419+00:00"
  },
  "monetizacao": {
-  "views_28d": 12939,
-  "media_diaria": 462,
+  "views_28d": 12909,
+  "media_diaria": 461,
   "tendencia_pct": 30.0,
   "previsao_views_30d": {
    "Vídeos longos": 68,
-   "Lives": 17902,
+   "Lives": 17861,
    "Shorts": 52
   },
   "rpm_referencia": {
@@ -592,15 +592,11 @@
    ]
   },
   "estimativa_rs": {
-   "pessimista": 26.99,
-   "provavel": 53.99,
-   "otimista": 107.97
+   "pessimista": 26.93,
+   "provavel": 53.86,
+   "otimista": 107.73
   },
   "serie_diaria": [
-   {
-    "dia": "2026-10-24",
-    "views": 317
-   },
    {
     "dia": "2026-10-25",
     "views": 79
@@ -708,16 +704,20 @@
    {
     "dia": "2026-11-20",
     "views": 45
+   },
+   {
+    "dia": "2026-11-21",
+    "views": 287
    }
   ],
   "elegibilidade": {
    "inscritos": 5940,
-   "horas_12m": 2195,
+   "horas_12m": 2197,
    "shorts_90d": 91,
    "meta_inscritos": 1000,
    "meta_horas": 4000,
    "meta_shorts": 10000000,
-   "horas_mes_ritmo": 197,
+   "horas_mes_ritmo": 193,
    "horas_mes_necessarias": 333,
    "monetizado": true,
    "cumpre": true
@@ -730,12 +730,12 @@
    {
     "id": "horas_12m",
     "nome": "Horas assistidas públicas (12 meses)",
-    "atual": 2195,
+    "atual": 2197,
     "meta": 4000,
     "nivel": "anúncios",
     "status": "abaixo",
-    "texto": "2.195 h públicas nos últimos 12 meses (vídeos longos e lives; Shorts, privados e apagados não contam). Nos próximos 30 dias saem da conta ~279 h e entram ~195 h no ritmo atual: projeção de 2.111 h.",
-    "acao": "Faltam 1.805 h. Lives longas e vídeos longos contam; seriam uns 150 h a mais por mês durante um ano."
+    "texto": "2.197 h públicas nos últimos 12 meses (vídeos longos e lives; Shorts, privados e apagados não contam). Nos próximos 30 dias saem da conta ~294 h e entram ~191 h no ritmo atual: projeção de 2.095 h.",
+    "acao": "Faltam 1.803 h. Lives longas e vídeos longos contam; seriam uns 150 h a mais por mês durante um ano."
    },
    {
     "id": "inscritos",
@@ -764,7 +764,7 @@
     "meta": null,
     "nivel": "Supers e membros",
     "status": "abaixo",
-    "texto": "5.940 de 500 inscritos, 58 de 3 envios públicos em 90 dias e 2.195 de 3.000 h (ou 3.000.000 views de Shorts em 90 dias).",
+    "texto": "5.940 de 500 inscritos, 58 de 3 envios públicos em 90 dias e 2.197 de 3.000 h (ou 3.000.000 views de Shorts em 90 dias).",
     "acao": null
    },
    {
@@ -818,7 +818,7 @@
     "acao": null
    }
   ],
-  "horas_publicas": 2195,
+  "horas_publicas": 2197,
   "horas": {
    "por_mes": [
     {
@@ -871,12 +871,12 @@
     },
     {
      "mes": "2026-11",
-     "horas": 143
+     "horas": 148
     }
    ],
-   "saem_30d": 279,
-   "entram_30d": 195,
-   "projecao_30d": 2111,
+   "saem_30d": 294,
+   "entram_30d": 191,
+   "projecao_30d": 2095,
    "fora_da_conta": 15
   },
   "pendencias": [
@@ -889,8 +889,8 @@
   "Quem mais traz inscritos: Lives (21 nas últimas 4 semanas).",
   "Tipo de conteúdo que mais rende: Transmissão de jogo (2,6x a mediana, 21 vídeos); o que menos rende: Perguntas do público (0,3x).",
   "Tema que mais rende: Jogo e resultado (1,3x a mediana). O radar já dá peso maior a ele.",
-  "Taxa de cliques das miniaturas: 7,3% em 75,842 impressões nas últimas 4 semanas (a maioria dos canais fica entre 2% e 10%).",
-  "Miniatura que mais atrai cliques: Transmissão de jogo (9,9%); a que menos atrai: Sai pro Jogo (programa) (1,1%). Copie o estilo da primeira.",
+  "Taxa de cliques das miniaturas: 7,3% em 75,141 impressões nas últimas 4 semanas (a maioria dos canais fica entre 2% e 10%).",
+  "Miniatura que mais atrai cliques: Transmissão de jogo (10,0%); a que menos atrai: Sai pro Jogo (programa) (1,1%). Copie o estilo da primeira.",
   "\"VERDÃO SAI NA FRENTE NA CB/IMORTAL DERRUBA O GALO/O BRAGA DÁ\" foi muito mostrado, mas pouco clicado (0,9%): troque a miniatura e o título (o YouTube Studio permite testar até 3 miniaturas).",
   "Maior origem de público: Página inicial e inscrições (76% das views).",
   "Melhor momento para publicar: terça, noite (18h–24h) (mediana de views nos 7 primeiros dias)."
