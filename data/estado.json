@@ -1,36 +1,12 @@
 {
- "ultima_execucao": "2026-11-26T19:50:16.623830+00:00",
- "ultimo_email": "2026-11-26T19:50:16.623830+00:00",
+ "ultima_execucao": "2026-11-27T19:39:42.565148+00:00",
+ "ultimo_email": "2026-11-27T19:39:42.565148+00:00",
  "youtube": {
-  "dia": "2026-11-26",
+  "dia": "2026-11-27",
   "buscas": 12
  },
  "ultimo_raiox": "2026-11-23",
  "alertas": {
-  "e6Wabr6pHMs": "2026-11-23",
-  "9_cuIAhC4Kw": "2026-11-23",
-  "D-N_3X6EQwM": "2026-11-23",
-  "IQVjrmn9Y1o": "2026-11-23",
-  "IXoJjk1d9Qw": "2026-11-23",
-  "YyGsDnTsxKs": "2026-11-23",
-  "meHecr9ncEg": "2026-11-23",
-  "la146NghoGY": "2026-11-23",
-  "ZYyuEx0CEQE": "2026-11-23",
-  "Jm0vrNChSTg": "2026-11-23",
-  "LYHx84K4eOA": "2026-11-23",
-  "KUw-Sx1vjs8": "2026-11-23",
-  "dPT3jmRXYxw": "2026-11-23",
-  "GavRfy7svYc": "2026-11-23",
-  "ZAa2zsKFnsI": "2026-11-23",
-  "_9ppdRserrQ": "2026-11-23",
-  "WDMT5yEXP2A": "2026-11-23",
-  "tV3eQn9_AQ4": "2026-11-23",
-  "ovpzDPBfogc": "2026-11-23",
-  "fJExbjuegCU": "2026-11-23",
-  "fQ_Wg05QBKM": "2026-11-23",
-  "ix6kvHSBR4M": "2026-11-23",
-  "cffjwURv5_s": "2026-11-23",
-  "tZsPSpEmMa4": "2026-11-23",
   "f0rLo8hlT5Q": "2026-11-24",
   "PNKUN7SKcSE": "2026-11-25",
   "jPTFRZ4pF64": "2026-11-25",
@@ -56,7 +32,15 @@
   "k0SI9LIw9hg": "2026-11-25",
   "q9jXiwDZEqs": "2026-11-25",
   "RdCY9jJpqXI": "2026-11-25",
-  "xZnBTDnhEtg": "2026-11-25"
+  "xZnBTDnhEtg": "2026-11-25",
+  "ot4gqQYCpBo": "2026-11-27",
+  "DzmNoH8coWE": "2026-11-27"
  },
- "ultima_agendada": "2026-11-26"
+ "ultima_agendada": "2026-11-27",
+ "aviso_requisitos": {
+  "dia": "2026-11-27",
+  "pendencias": [
+   "Horas assistidas públicas (12 meses)"
+  ]
+ }
 }

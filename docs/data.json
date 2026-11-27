@@ -1,22 +1,22 @@
 {
- "gerado_em": "2026-11-26T19:50:16.623830+00:00",
- "data_br": "26/11/2026 16:50",
+ "gerado_em": "2026-11-27T19:39:42.565148+00:00",
+ "data_br": "27/11/2026 16:39",
  "status": {
   "Google Trends": 10,
-  "Google News": 1006,
+  "Google News": 994,
   "Vídeos do canal": 15,
   "Buscas do torcedor": 18,
   "YouTube (48 h)": 12,
-  "Alertas de tendência": "nenhum hoje",
+  "Alertas de tendência": 2,
   "Agenda (ESPN)": 202,
-  "Agenda (buscas Google)": 1
+  "Agenda (buscas Google)": 0
  },
  "canal_id": "UC7OnJqzY_AFkpMR0pmtR0OQ",
  "videos_recentes": [
   {
    "titulo": "TIMÃO PERDE 2 PONTOS QUE ESTAVAM GANHOS/RIVAIS COMEMORAM/VERDÃO JÁ NO URUGUAI PRONTO PARA  O TÍTULO",
    "url": "https://www.youtube.com/watch?v=VDAgvFAKBRs",
-   "publicado": "2026-11-26T15:38:52+00:00"
+   "publicado": "2026-11-27T01:29:23+00:00"
   },
   {
    "titulo": "AINDA  SOBRE A CONQUISTA DO MENGÃO/PEIXE REBOLOU?/AS \"BRIGAS\":FLU  E RAPOSA. QUEM CAI ? VC APOSTA?",
@@ -65,7 +65,8 @@
   }
  ],
  "termos_futebol": [
-  "rayan"
+  "nottingham forest x chelsea",
+  "stade brestois x paris fc"
  ],
  "pesos": {
   "busca": 0.24,
@@ -88,23 +89,6 @@
  "agenda": {
   "proximos": [
    {
-    "id": "401841329",
-    "data": "2026-11-26T23:00Z",
-    "liga": "Brasileirão",
-    "casa": "São Paulo",
-    "fora": "Remo",
-    "placar_casa": null,
-    "placar_fora": null,
-    "estado": "pre",
-    "clube": "São Paulo",
-    "tipo": "pré-jogo",
-    "em_horas": 3,
-    "gancho": "São Paulo x Remo parece um jogo com dono. É exatamente aí que mora o perigo.",
-    "titulo_thumb": "ZEBRA À VISTA?",
-    "tecnica": "Contradição",
-    "formato": "Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)"
-   },
-   {
     "id": "401912519",
     "data": "2026-11-28T20:00Z",
     "liga": "Libertadores",
@@ -115,11 +99,11 @@
     "estado": "pre",
     "clube": "Palmeiras",
     "tipo": "pré-jogo",
-    "em_horas": 48,
-    "gancho": "Meu palpite para Palmeiras x Estudiantes de La Plata: [SEU PLACAR]. Deixa o seu nos comentários.",
-    "titulo_thumb": "MEU PALPITE",
-    "tecnica": "Aposta",
-    "formato": "Enquete: qual o seu palpite? (30 s)"
+    "em_horas": 24,
+    "gancho": "Se você fosse o técnico em Palmeiras x Estudiantes de La Plata, quem escalaria?",
+    "titulo_thumb": "SUA ESCALAÇÃO",
+    "tecnica": "Pergunta aberta",
+    "formato": "Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)"
    },
    {
     "id": "401841333",
@@ -132,11 +116,11 @@
     "estado": "pre",
     "clube": "Flamengo",
     "tipo": "pré-jogo",
-    "em_horas": 71,
-    "gancho": "Se você fosse o técnico em Coritiba x Flamengo, quem escalaria?",
-    "titulo_thumb": "SUA ESCALAÇÃO",
-    "tecnica": "Pergunta aberta",
-    "formato": "Enquete: qual o seu palpite? (30 s)"
+    "em_horas": 47,
+    "gancho": "Coritiba x Flamengo parece um jogo com dono. É exatamente aí que mora o perigo.",
+    "titulo_thumb": "ZEBRA À VISTA?",
+    "tecnica": "Contradição",
+    "formato": "Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)"
    },
    {
     "id": "401841334",
@@ -149,10 +133,10 @@
     "estado": "pre",
     "clube": "Corinthians",
     "tipo": "pré-jogo",
-    "em_horas": 74,
-    "gancho": "Meu palpite para Corinthians x Grêmio: [SEU PLACAR]. Deixa o seu nos comentários.",
-    "titulo_thumb": "MEU PALPITE",
-    "tecnica": "Aposta",
+    "em_horas": 50,
+    "gancho": "Corinthians x Grêmio: qual é o detalhe que vai decidir esse jogo?",
+    "titulo_thumb": "QUEM LEVA?",
+    "tecnica": "Pergunta aberta",
     "formato": "Enquete: qual o seu palpite? (30 s)"
    },
    {
@@ -166,9 +150,9 @@
     "estado": "pre",
     "clube": "Flamengo",
     "tipo": "pré-jogo",
-    "em_horas": 149,
-    "gancho": "Flamengo x Chapecoense: qual é o detalhe que vai decidir esse jogo?",
-    "titulo_thumb": "QUEM LEVA?",
+    "em_horas": 125,
+    "gancho": "Se você fosse o técnico em Flamengo x Chapecoense, quem escalaria?",
+    "titulo_thumb": "SUA ESCALAÇÃO",
     "tecnica": "Pergunta aberta",
     "formato": "Enquete: qual o seu palpite? (30 s)"
    },
@@ -183,10 +167,10 @@
     "estado": "pre",
     "clube": "Corinthians",
     "tipo": "pré-jogo",
-    "em_horas": 149,
-    "gancho": "Remo x Corinthians: um precisa vencer, o outro não pode perder.",
-    "titulo_thumb": "REMO X CORINTHIANS",
-    "tecnica": "Conflito",
+    "em_horas": 125,
+    "gancho": "Meu palpite para Remo x Corinthians: [SEU PLACAR]. Deixa o seu nos comentários.",
+    "titulo_thumb": "MEU PALPITE",
+    "tecnica": "Aposta",
     "formato": "Enquete: qual o seu palpite? (30 s)"
    },
    {
@@ -200,10 +184,10 @@
     "estado": "pre",
     "clube": "São Paulo",
     "tipo": "pré-jogo",
-    "em_horas": 149,
-    "gancho": "Se você fosse o técnico em Athletico Paranaense x São Paulo, quem escalaria?",
-    "titulo_thumb": "SUA ESCALAÇÃO",
-    "tecnica": "Pergunta aberta",
+    "em_horas": 125,
+    "gancho": "Athletico Paranaense x São Paulo: um precisa vencer, o outro não pode perder.",
+    "titulo_thumb": "ATHLETICO PARANAENSE X SÃO PAULO",
+    "tecnica": "Conflito",
     "formato": "Enquete: qual o seu palpite? (30 s)"
    },
    {
@@ -217,78 +201,49 @@
     "estado": "pre",
     "clube": "Palmeiras",
     "tipo": "pré-jogo",
-    "em_horas": 149,
-    "gancho": "Palmeiras x Coritiba: qual é o detalhe que vai decidir esse jogo?",
-    "titulo_thumb": "QUEM LEVA?",
-    "tecnica": "Pergunta aberta",
+    "em_horas": 125,
+    "gancho": "Palmeiras x Coritiba parece um jogo com dono. É exatamente aí que mora o perigo.",
+    "titulo_thumb": "ZEBRA À VISTA?",
+    "tecnica": "Contradição",
     "formato": "Enquete: qual o seu palpite? (30 s)"
    }
   ],
   "resultados": [
    {
-    "id": "401841319",
-    "data": "2026-11-25T23:00Z",
+    "id": "401841329",
+    "data": "2026-11-26T23:00Z",
     "liga": "Brasileirão",
-    "casa": "Atlético-MG",
-    "fora": "Corinthians",
-    "placar_casa": 1,
+    "casa": "São Paulo",
+    "fora": "Remo",
+    "placar_casa": 3,
     "placar_fora": 1,
     "estado": "post",
-    "clube": "Corinthians",
+    "clube": "São Paulo",
     "tipo": "pós-jogo",
-    "gancho": "Empate com o Atlético-MG: foi bom ou foi ruim para o Corinthians?",
-    "titulo_thumb": "EMPATE: BOM OU RUIM?",
+    "gancho": "O São Paulo venceu o Remo, mas tem um detalhe que ninguém comentou.",
+    "titulo_thumb": "SÃO PAULO VENCEU. E AGORA?",
     "formato": "Corte da reação na live + análise (60 a 90 s)"
    }
   ],
-  "na_midia": [
-   {
-    "jogo": "Barboza Sobre Palmeiras x Estudiantes Vira Assunto",
-    "clube": "Palmeiras",
-    "manchetes": 3,
-    "exemplo": "Motivação? Frase de Barboza sobre Palmeiras x Estudiantes vira assunto na Argentina: 'Já se vê campeão'"
-   }
-  ],
-  "nas_buscas": [
-   {
-    "tipo": "pré-jogo",
-    "fonte": "buscas do Google",
-    "clube": "Corinthians",
-    "jogo": "Corinthians x Atlético Mg",
-    "casa": "Corinthians",
-    "fora": "Atlético Mg",
-    "confianca": "alta",
-    "posicao_busca": 2,
-    "manchetes": 3,
-    "exemplo": "Torcedores do Corinthians brigam entre si durante jogo contra o Atlético-MG",
-    "sugestoes": [
-     "corinthians x atletico mg",
-     "corinthians x atletico mg",
-     "corinthians x atlético mg onde assistir"
-    ],
-    "gancho": "Meu palpite para Corinthians x Atlético Mg: [SEU PLACAR]. Deixa o seu nos comentários.",
-    "titulo_thumb": "MEU PALPITE",
-    "tecnica": "Aposta",
-    "formato": "Live de pré-jogo ou vídeo de escalação ideal (3 a 5 min)"
-   }
-  ]
+  "na_midia": [],
+  "nas_buscas": []
  },
  "buscas_torcedor": {
   "flamengo": [
    "flamengo x estudiantes",
    "flamengo libertadores",
-   "flamengo e estudiantes"
+   "flamengo e estudiantes",
+   "flamengo x corinthians"
   ],
   "corinthians": [
-   "corinthians x atletico mg",
-   "corinthians e atlético mineiro",
    "corinthians x grêmio",
-   "corinthians e atlético"
+   "corinthians x estudiantes",
+   "corinthians x são paulo",
+   "corinthians x botafogo"
   ],
   "são paulo fc": [
    "são paulo fc tem quantos anos",
-   "são paulo fc x boca juniors",
-   "sao paulo fc é de direita ou esquerda"
+   "são paulo fc wikipedia"
   ],
   "palmeiras": [
    "palmeiras x estudiantes",
@@ -299,11 +254,11 @@
    "palmeiras x vasco da gama"
   ],
   "seleção brasileira": [
-   "seleção brasileira feminina",
-   "seleção brasileira de futebol feminino",
-   "seleção brasileira de futebol",
-   "seleção brasileira amistosos",
    "seleção brasileira de futebol sub-17",
+   "seleção brasileira feminina",
+   "seleção brasileira de futebol",
+   "seleção brasileira de nanismo",
+   "seleção brasileira masculina",
    "seleção brasileira x seleção norueguesa de futebol minuto a minuto"
   ],
   "brasileirão": [
@@ -311,607 +266,116 @@
    "brasileirão 2026",
    "brasileirão série c",
    "brasileirão série a classificação",
-   "brasileirão série d",
-   "brasileirão série a 2026"
+   "brasileirão série a 2026",
+   "brasileirão série d"
   ]
  },
- "alertas": [],
- "aviso_requisitos": null,
- "temas": [
+ "alertas": [
   {
-   "tema": "Samuel Lino ganha música e vê gol de título virar quadro no CT do Flamengo em reapresentação no Ninho",
-   "categoria": "Jogo e resultado",
+   "id": "ot4gqQYCpBo",
+   "tema": "Jogador do Vasco PRESO 👀",
    "clubes": [
-    "Flamengo"
+    "Vasco"
    ],
-   "foco": true,
-   "nota": 99.9,
-   "sinais": {
-    "busca": 70,
-    "aceleracao": 90,
-    "midia": 100,
-    "aderencia": 100,
-    "youtube": 83
-   },
-   "fator_categoria": 1.148,
-   "trafego_google": 0,
-   "busca_torcedor": "lino maravilha",
-   "termos_trends": [],
-   "n_fontes": 10,
-   "n_manchetes": 11,
-   "assinatura": "lino|flame|samue|music",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Eu aposto que o Flamengo [VENCE / EMPATA / PERDE], e explico por quê. Qual é o seu placar?",
-    "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Samuel Lino ganha música e vê gol de título virar quadro no CT do Flamengo em reapresentaç?",
-    "tecnica": "Aposta",
-    "ganchos": [
-     {
-      "tecnica": "Aposta",
-      "texto": "Eu aposto que o Flamengo [VENCE / EMPATA / PERDE], e explico por quê. Qual é o seu placar?",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "50 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
-      "thumb": "TODO MUNDO VIU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Samuel Lino ganha música e canta com torcedores do Flamengo no Ninho. Nem todo mundo no Flamengo vai gostar disso, e eu vou explicar por quê.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Samuel Lino ganha música e canta com torcedores do Flamengo no Ninho. Parece que está tudo resolvido. No futebol, quase nunca está.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "O que o Flamengo precisa fazer para vencer esse jogo?",
-      "thumb": "E AGORA, FLAMENGO?"
-     }
-    ]
-   },
-   "manchetes": [
+   "origem": "Em alta no YouTube (Esportes)",
+   "formato_em_alta": "Shorts",
+   "sugestao": "Short de 30 a 60 s com a sua opinião ou reação (poste o mesmo vídeo como Reels no Instagram)",
+   "dica_do_canal": "Seu canal quase não tem Shorts: é uma chance de testar o formato com um assunto que já está bombando.",
+   "n_videos": 1,
+   "views": 660984,
+   "velocidade": 255.1,
+   "engajamento": 1.6,
+   "engajamento_pct": 4.5,
+   "ganho_hora": null,
+   "exemplos": [
     {
-     "titulo": "‘Lino Maravilha’: conheça a nova música da torcida do Flamengo",
-     "fonte": "Revista PLACAR",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeGV1QnhkcGYwWEh6bUZKbGlEeHhEMldvaUY4ZTVGLXVCX3pJd0lpT2pwU1JIelItRGtvT2VtaE9HVlFnWjZpOU9IREZIZzJSMjYyVWhaN1NmUlc1amtVdG43cXh6LTZsZFBLdWN5S29KX3NmOHpoaUFXdS1ieWxxOFMta1YzanlHOURWQw?oc=5"
-    },
-    {
-     "titulo": "Autor do gol do título do Flamengo, Samuel Lino é o melhor da 36ª rodada no Bola de Prata ESPN",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMmUxR19MZlRZQ2tzZ2J3bTdsQVBRZml0SlZ1cW9qaEhESEl1elBpUXNqSVFBQU1ha1NobWZZQjhIS0JlRzdkZHZZWFNsdnhibUlPTU5BQlc1d2NoVWMyelVTOUItVElrN2ZHWlJZNVhwMEdZQ1Q1OGZiUFE3R3BMMXZvWG5YZGVxWWFZRDJzQW9MbDRJUlVjQTRwOEY5SzBYRkd1UVpQMmhuSldBejZhbzhMcVVOZDNINTllTlFKbXhUaXhub3drN1ZzTlB4cG9s?oc=5"
-    },
-    {
-     "titulo": "Samuel Lino não tem permanência certa no Flamengo em 2027",
-     "fonte": "O Dia",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOalJzdExZeGJ0LWwxQTlNMWN4cnFXZjU1clhMOHBUOFhyX3RUbjhYMUstSEI2cE1DNUVZcGsyMVVxRy1DTkJZUENrdk0zazhCYVU3NDE2bGIteG81N2ZvUTVEYk5xaWx0alQ1YnQzM19vRThrVkQwTGFjT29XWjlBSm5hcXVOaXBmZEFCSWJhaVJ3MWFxQlBya0ZUQWc1ZllKeUgwYV9ua3R0Vl9UMHRDeWpiMHVkSUZaRmfSAb8BQVVfeXFMTm5BYnNyMU9OZzdTc0pPQmdxYjI1Vzd0dWJUdnBQOUFSbDFBd1VpN2NOdS0ydHRiNHdzN2JmajV0ZmMycGFMWjRNM1hlVExWU2U0QlUweFdaZmlyMEtTaWxXUlhhcEduanpCYldldmxtRmo5T2xfZktnXzBQWUgxZnJHZ0hLYnluM1pjMHRmVkJaODluckxWVzV2NXpwMXNDWEk0bkNWVXRCUFktRjVKdUR2akN2aEhFcUxrTDJzWFk?oc=5"
-    },
-    {
-     "titulo": "Samuel Lino ganha música e canta com torcedores do Flamengo no Ninho",
-     "fonte": "O Dia",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMTg3NTVjdC1uV3JqUmxzek1QUTBwNlY3ckVQY3VUbUh4TW9vWjZoaWlFVkMzbVhaN001YWtGS3gxaHhmY1NmRE5venNLM1BwSGZlbUhSeDBibF9qQzN1cjZvcnZJNnRZMXpDUlpmLWYtbDd5TFNVQW9UTFBXMmxmQVY4dGc5dC1VM0FEQ0o1X0dNYmtTYlpYUXQ0b1hKYlloNjVhQmxtZjJjMFFlMnFKSWxrS09vVm5VZ2RheHBSZ3VaMWdvQ0tMS9IBzgFBVV95cUxPc1lFS1VlTE05aGVoaDJyd0xoZ0hVSU5KMTI1aUxPTHpKZ0xYMktjU3FsTEQ3S2JuRTBERW9wLXB1LW1xMzZOcVBybXVYNUJCMHlHd25xRy1xajZLNWJIWXVlY0FPYWJLZ2FkOG50T01kNGJKTWhndUw5MG14MzlrS2IwSHpTTC1mcVdOLTktODFXQ1h5YnhTdkNVWE5DREtwNzlSWXdhdDJJb2l0dnA4b2JYTXllNWxMZG1RYll1azlqUkUxOGFhREF6MGE1Zw?oc=5"
-    },
-    {
-     "titulo": "Flamengo faz quadro para Samuel Lino após gol do título brasileiro",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMDRkanlVTnJpaHcxZW9PaE9vWEdXVk5jZHVQR2VnbzY0ZkdVaFlVVjNDX3BYZFJsM0VRaFF6OVptZnhVUVFrZzVBcVppUHIzdUxpamc4N0lxY05IanRBc09NcVZYaEF0b2FGQjMtZUVPT0JwN2xDY1NIS2dwX2JTd3pENFExSWlIX3Q3dE93RmE4RU9BaE1CcHhYbVNZWGJoWnNJOG1OSFVMb2ZaRllJQXZPemdVM01ZMkdnZlV6LVFvZjNrRW9hTHgtTllqYWw2TkZJOVBhcDUwQVVDd1FSellRRjk1Yzk4c2Rv?oc=5"
+     "titulo": "Jogador do Vasco PRESO 👀",
+     "canal": "O Canal do RB",
+     "views": 660984,
+     "url": "https://www.youtube.com/watch?v=ot4gqQYCpBo",
+     "formato": "Shorts",
+     "views_hora": 32627
     }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "EYL5sKxSRu0",
-      "titulo": "NOVA MÚSICA DE SAMU LINO! TUDO EXPOSTO! LIVRAMENTO COM PULGAR! TAVAM ESPERANDO!",
-      "canal": "MOMENTO DO PAPARAZZO",
-      "views": 10440,
-      "likes": 495,
-      "comentarios": 18,
-      "publicado": "2026-11-24T20:41:30Z",
-      "duracao_s": 587,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=EYL5sKxSRu0"
-     },
-     {
-      "id": "x80LPXzId2E",
-      "titulo": "SAMUEL LINO CANTA COM A TORCIDA! RAÇA RUBRO-NEGRA FAZ FESTA PARA O CRAQUE DO FLAMENGO! 🔥🔴⚫ #shorts",
-      "canal": "GOL DE LETRA",
-      "views": 8818,
-      "likes": 1461,
-      "comentarios": 40,
-      "publicado": "2026-11-26T16:10:23Z",
-      "duracao_s": 85,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=x80LPXzId2E"
-     },
-     {
-      "id": "_3NQkztrs3Y",
-      "titulo": "🤣 PAQUETÁ CRIOU MÚSICA PRO LINO!",
-      "canal": "Rodrigo Ramos RN",
-      "views": 8759,
-      "likes": 412,
-      "comentarios": 3,
-      "publicado": "2026-11-24T20:45:27Z",
-      "duracao_s": 28,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=_3NQkztrs3Y"
-     },
-     {
-      "id": "qCswGWJ-TIk",
-      "titulo": "NOVA MÚSICA DA TORCIDA DO FLAMENGO! LINO, JORGINHO E LÉO PEREIRA CANTAM COM A RAÇA RUBRO-NEGRA!",
-      "canal": "Jovem Pan Esportes",
-      "views": 7940,
-      "likes": 672,
-      "comentarios": 35,
-      "publicado": "2026-11-26T18:07:44Z",
-      "duracao_s": 37,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=qCswGWJ-TIk"
-     },
-     {
-      "id": "1VRK7ZAiLRw",
-      "titulo": "Samuel Lino comandou a humilhante conquista do Flamengo na casa do Palmeiras ⚽#shorts",
-      "canal": "FLAMENGO MUSIC",
-      "views": 2993,
-      "likes": null,
-      "comentarios": 0,
-      "publicado": "2026-11-24T22:20:45Z",
-      "duracao_s": 29,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=1VRK7ZAiLRw"
-     },
-     {
-      "id": "aJBN0CbDGwk",
-      "titulo": "A musica em homenagem ao Samuel Lino com autoria da Raça e Paquetá 🔥 #flamengo #futebol #shorts",
-      "canal": "PODFLA NT",
-      "views": 1839,
-      "likes": 235,
-      "comentarios": 10,
-      "publicado": "2026-11-26T15:28:39Z",
-      "duracao_s": 79,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=aJBN0CbDGwk"
-     },
-     {
-      "id": "JU2mIFiGzCQ",
-      "titulo": "LINO MARAVILHA, FAZ MAIS UM PRA GENTE VER 👀 🎶CURTIU A MÚSICA QUE A NAÇÃO FEZ DO SAMUEL LINO?",
-      "canal": "RD FLA | Pai  e Filho Flamengo ",
-      "views": 1460,
-      "likes": null,
-      "comentarios": 3,
-      "publicado": "2026-11-26T12:52:17Z",
-      "duracao_s": 39,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=JU2mIFiGzCQ"
-     },
-     {
-      "id": "nr0dj2yaUhk",
-      "titulo": "música nova que a torcida do Flamengo fez para Samuel Nino #flamengo #futebol #brasileirão 👑❤️🙌🏆",
-      "canal": "EsterRubroNegra",
-      "views": 1378,
-      "likes": 61,
-      "comentarios": 1,
-      "publicado": "2026-11-26T00:18:17Z",
-      "duracao_s": 15,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=nr0dj2yaUhk"
-     },
-     {
-      "id": "uN22btXLe74",
-      "titulo": "🔴⚫️ LINO BANK PARQUE: O NOVO NOME DO CHIQUEIRO! 🏟️🐷 #flamengo #mengo #mengão #brasileirão",
-      "canal": "TERRAFLAMISTAS PODCAST",
-      "views": 1269,
-      "likes": 49,
-      "comentarios": 6,
-      "publicado": "2026-11-26T12:44:05Z",
-      "duracao_s": 28,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=uN22btXLe74"
-     },
-     {
-      "id": "hnp4K3t422M",
-      "titulo": "🎶 LINO MARAVILHA VIROU MÚSICA!",
-      "canal": "Setorista RN",
-      "views": 1161,
-      "likes": 29,
-      "comentarios": 0,
-      "publicado": "2026-11-24T21:00:01Z",
-      "duracao_s": 28,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=hnp4K3t422M"
-     },
-     {
-      "id": "ylqMjDemXpI",
-      "titulo": "SAMUEL LINO RECEBE HOMENAGEM DA TORCIDA DO FLAMENGO #flamengo #mengão #futebol",
-      "canal": "Fla Total",
-      "views": 938,
-      "likes": 71,
-      "comentarios": 6,
-      "publicado": "2026-11-26T16:16:22Z",
-      "duracao_s": 87,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=ylqMjDemXpI"
-     },
-     {
-      "id": "OmsZjw-OCMI",
-      "titulo": "🔥 NAÇÃO, ESSA MÚSICA TEM QUE PEGAR!",
-      "canal": "Rodrigo Ramos RN",
-      "views": 653,
-      "likes": 49,
-      "comentarios": 0,
-      "publicado": "2026-11-26T15:00:01Z",
-      "duracao_s": 116,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=OmsZjw-OCMI"
-     },
-     {
-      "id": "CbttIwq8CUY",
-      "titulo": "LINO MARAVILHA NOS GOSTAMOS DE VOCÊ - NOVA MÚSICA TORCIDA DO FLAMENGO #flamengo #torcida #shorts",
-      "canal": "CORTES DO GB - FAMOSOS ",
-      "views": 406,
-      "likes": 9,
-      "comentarios": 1,
-      "publicado": "2026-11-26T18:18:16Z",
-      "duracao_s": 34,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=CbttIwq8CUY"
-     },
-     {
-      "id": "pJYpF3hR84I",
-      "titulo": "FICOU BEM LEGAL ESSA ATUALIZAÇÃO DA MÚSICA DO GRANDE JORGE BENJOR NÉ SAMUEL LINO E LÉO PEREIRA! 👏❤️🖤",
-      "canal": "Flamenguista Realista",
-      "views": 395,
-      "likes": 47,
-      "comentarios": 2,
-      "publicado": "2026-11-26T17:14:31Z",
-      "duracao_s": 81,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=pJYpF3hR84I"
-     },
-     {
-      "id": "dDkSbMUvJ88",
-      "titulo": "😱🔴 O QUE A TORCIDA FEZ PARA SAMUEL LINO NO NINHO VAI ARREPIAR A NAÇÃO!",
-      "canal": "Fla Nação VVP / Flamengo",
-      "views": 385,
-      "likes": 57,
-      "comentarios": 3,
-      "publicado": "2026-11-26T19:36:36Z",
-      "duracao_s": 70,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=dDkSbMUvJ88"
-     },
-     {
-      "id": "CPxX9xDqIJ8",
-      "titulo": "Samuel Lino cantando a música que a torcida do MENGÃO fez em sua homenagem! Aprovado nação? #fla",
-      "canal": "Fla Humor & Resenha",
-      "views": 377,
-      "likes": 34,
-      "comentarios": 2,
-      "publicado": "2026-11-26T16:56:21Z",
-      "duracao_s": 79,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=CPxX9xDqIJ8"
-     },
-     {
-      "id": "xVHDCGMqubI",
-      "titulo": "O gol do Lino virou quadro no Ninho! Golaço do nosso fotógrafo! #Shorts",
-      "canal": "Minuto Flamengo",
-      "views": 275,
-      "likes": 10,
-      "comentarios": 0,
-      "publicado": "2026-11-26T18:32:18Z",
-      "duracao_s": 49,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=xVHDCGMqubI"
-     },
-     {
-      "id": "8LpcTTOs9tY",
-      "titulo": "Samuel Lino 🙃 #flamengo #samuellino #capcut #campeão #edit .",
-      "canal": "FLA_EDITZ",
-      "views": 114,
-      "likes": 8,
-      "comentarios": 2,
-      "publicado": "2026-11-24T21:10:23Z",
-      "duracao_s": 13,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=8LpcTTOs9tY"
-     },
-     {
-      "id": "NEckcIabUtc",
-      "titulo": "SAMUEL LINO CANTA MÚSICA COM A RAÇA E CHAMA ESTÁDIO DE CHIQUEIRO KKK [..] DESPEDIDA NO NINHO?",
-      "canal": "Paparazzo Rubro-Negro II",
-      "views": 48,
-      "likes": 24,
-      "comentarios": 0,
-      "publicado": "2026-11-26T19:44:38Z",
-      "duracao_s": 665,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=NEckcIabUtc"
-     },
-     {
-      "id": "Yup5gI7jUn8",
-      "titulo": "SAMUEL LINO CANTA COM A TORCIDA A SUA MUSICA !! MANGÃO!! #flamengo #mengaomalvadao #futebol",
-      "canal": "Edson Ramos",
-      "views": 20,
-      "likes": 2,
-      "comentarios": 0,
-      "publicado": "2026-11-26T16:45:55Z",
-      "duracao_s": 60,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Yup5gI7jUn8"
-     },
-     {
-      "id": "olll6_SQALg",
-      "titulo": "RAÇA RUBRO-NEGRA HOMENAGEM COM BANDEIRÃO A JORGINHO, LÉO PEREIRA E SAMUEL LINO! 🔴⚫🥁",
-      "canal": "CACRJFLA",
-      "views": 18,
-      "likes": 5,
-      "comentarios": 1,
-      "publicado": "2026-11-26T19:06:45Z",
-      "duracao_s": 67,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=olll6_SQALg"
-     },
-     {
-      "id": "uueOsbE0VFo",
-      "titulo": "🎶 NOVA MÚSICA DO LINO MARAVILHA!",
-      "canal": "Setorista RN",
-      "views": 14,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-11-26T16:00:21Z",
-      "duracao_s": 116,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=uueOsbE0VFo"
-     },
-     {
-      "id": "f_mvtz94zGw",
-      "titulo": "SAMUEL LINO GANHA MÚSICA E VIRA QUADRO NO CT DO FLAMENGO! 🔴⚫🏆 #flamengo #shorts",
-      "canal": "FlaZoom",
-      "views": 2,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-11-26T19:30:24Z",
-      "duracao_s": 34,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=f_mvtz94zGw"
-     }
-    ],
-    "consulta": "Flamengo Lino Samuel música",
-    "n_videos": 23,
-    "mais_de": false,
-    "views": 49702,
-    "top": [
-     {
-      "titulo": "NOVA MÚSICA DE SAMU LINO! TUDO EXPOSTO! LIVRAMENTO COM PULGAR! TAVAM ESPERANDO!",
-      "canal": "MOMENTO DO PAPARAZZO",
-      "views": 10440,
-      "url": "https://www.youtube.com/watch?v=EYL5sKxSRu0",
-      "publicado": "2026-11-24T20:41:30Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "SAMUEL LINO CANTA COM A TORCIDA! RAÇA RUBRO-NEGRA FAZ FESTA PARA O CRAQUE DO FLAMENGO! 🔥🔴⚫ #shorts",
-      "canal": "GOL DE LETRA",
-      "views": 8818,
-      "url": "https://www.youtube.com/watch?v=x80LPXzId2E",
-      "publicado": "2026-11-26T16:10:23Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "🤣 PAQUETÁ CRIOU MÚSICA PRO LINO!",
-      "canal": "Rodrigo Ramos RN",
-      "views": 8759,
-      "url": "https://www.youtube.com/watch?v=_3NQkztrs3Y",
-      "publicado": "2026-11-24T20:45:27Z",
-      "do_canal": false
-     }
-    ]
-   }
+   ]
   },
   {
-   "tema": "Brasileirão: Atlético-MG empata no fim e mantém Corinthians ameaçado",
+   "id": "DzmNoH8coWE",
+   "tema": "RESENHA DA PARTE DE BAIXO DA TABELA #futebol #brasileirao",
+   "clubes": [],
+   "origem": "Em alta no YouTube (Esportes)",
+   "formato_em_alta": "Shorts",
+   "sugestao": "Short de 30 a 60 s com a sua opinião ou reação (poste o mesmo vídeo como Reels no Instagram)",
+   "dica_do_canal": "Seu canal quase não tem Shorts: é uma chance de testar o formato com um assunto que já está bombando.",
+   "n_videos": 1,
+   "views": 1417439,
+   "velocidade": 223.2,
+   "engajamento": 1.4,
+   "engajamento_pct": 3.8,
+   "ganho_hora": null,
+   "exemplos": [
+    {
+     "titulo": "RESENHA DA PARTE DE BAIXO DA TABELA #futebol #brasileirao",
+     "canal": "DAN LESSA",
+     "views": 1417439,
+     "url": "https://www.youtube.com/watch?v=DzmNoH8coWE",
+     "formato": "Shorts",
+     "views_hora": 28546
+    }
+   ],
+   "gancho": "RESENHA DA PARTE DE BAIXO DA TABELA #futebol #brasileirao. E agora: o que muda para o seu time?"
+  }
+ ],
+ "aviso_requisitos": {
+  "resumo": "1 requisito(s) medido(s) abaixo da meta: Horas assistidas públicas (12 meses).",
+  "nota": "O canal já está no Programa de Parcerias: requisitos de entrada abaixo da meta não tiram a monetização, mas indicam queda de audiência. O que pode tirar é inatividade, advertências ou violação de políticas.",
+  "itens": [
+   {
+    "id": "horas_12m",
+    "nome": "Horas assistidas públicas (12 meses)",
+    "atual": 2175,
+    "meta": 4000,
+    "nivel": "anúncios",
+    "status": "abaixo",
+    "texto": "2.175 h públicas nos últimos 12 meses (vídeos longos e lives; Shorts, privados e apagados não contam). Nos próximos 30 dias saem da conta ~260 h e entram ~193 h no ritmo atual: projeção de 2.108 h.",
+    "acao": "Faltam 1.825 h. Lives longas e vídeos longos contam; seriam uns 152 h a mais por mês durante um ano."
+   }
+  ]
+ },
+ "temas": [
+  {
+   "tema": "Corinthians x Grêmio vai passar na Rede Globo? Confira onde assistir ao jogo pelo Brasileirão",
    "categoria": "Jogo e resultado",
    "clubes": [
     "Corinthians",
-    "Atlético-MG"
+    "Grêmio"
    ],
    "foco": true,
-   "nota": 83.9,
+   "nota": 89.3,
    "sinais": {
-    "busca": 55,
-    "aceleracao": 62,
-    "midia": 100,
+    "busca": 50,
+    "aceleracao": 72,
+    "midia": 87,
     "aderencia": 100,
-    "youtube": 65
-   },
-   "fator_categoria": 1.148,
-   "trafego_google": 0,
-   "busca_torcedor": "corinthians x atletico mg",
-   "termos_trends": [],
-   "n_fontes": 22,
-   "n_manchetes": 27,
-   "assinatura": "corin|empat|atlet|brasi",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "22 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
-    "titulo_thumb": "TODO MUNDO VIU",
-    "pergunta_enquete": "Qual sua opinião: Brasileirão: Atlético-MG empata no fim e mantém Corinthians ameaçado?",
-    "tecnica": "Dado",
-    "ganchos": [
-     {
-      "tecnica": "Dado",
-      "texto": "22 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
-      "thumb": "TODO MUNDO VIU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Atlético-MG empata no fim e mantém Corinthians ameaçado. Quem venceu comemora; quem perdeu tem uma conta para acertar.",
-      "thumb": "CORINTHIANS x ATLÉTICO-MG"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Atlético-MG empata no fim e mantém Corinthians ameaçado. O placar diz uma coisa. O jogo, visto de perto, diz outra.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Atlético-MG empata no fim e mantém Corinthians ameaçado. O que esse resultado muda daqui para frente?",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Atlético-MG empata no fim e mantém Corinthians ameaçado. Eu aposto que esse resultado vai pesar lá na frente. Você concorda?",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Corinthians leva empate no fim, mas sai da zona",
-     "fonte": "G1",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa1VXc1R3VGN1WGxMbUpRWlNHeHlZVFZwaUJkZl92OGx6M2FLekRCRmEwWDRPaE0xXy1jR2w2aDFDajRxNUczTlg3elN5QUpzR0cwVlY2VnZCM29UYVk5QlFJSmQ0ajFfYXV5bGpLbm1sT011LTVJcjIyWWUwWEJBVlpYZk82VGpKelZoc21fRU9DTU05ZmFHUW1IcnNwOEhCbGlOQ1BrWVdkMU5XeWZkakNydWlzMzZ6RFpkSGYxcEExMndUSi14T1pSZ2k5ZWVUQkHSAeABQVVfeXFMTnRabk5QZWRuSVNKY3htaXlmVzh1VjZGOEg0LW5fYzJGWkZNT0VLNjBoSWVPakN4Rk1BT3ZGY3BWeU5jU1dJeld3dXZrdmkxeFVKZEpOeTZOX2VNbWp4UWk2QldaVG0tX3ZOdWRtVlZRM29kcW11OEdweGkxdWxVQ1czUVhSZmFuM2xySVFQOWJZRDZ2MFRha3FjM2JiWWdwdTVQR3A3MElqalkwVTZJdl9NcVAxdFJfWGxIR1dxc3UyVWIxY2JYWXJSRk5NQV9Sa0lEeWpfczNjTjB4eG5ibzI?oc=5"
-    },
-    {
-     "titulo": "DEBATE DONOS: CORINTHIANS LEVA GOL NO FIM E EMPATA COM O ATLÉTICO-MG",
-     "fonte": "band.com.br",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2oyZXlSVDI4dnVXT3pLcUt2WEw2aTl5X0V5TnRsU1JXN25pamROcW9nYmRadUhNSkhNTkNpUXdnQThMSVcxRTk3ZW9qN2toVTZ2YWdVV3lQeXpHZWRndGhEOHpjazB3RzZQbGRsYy16Z1NuakcxUmlieFhBZm92ejEyQmVGODNHMFduNjYyQTBVSzc4dEQ5YVh3RVNZazJfMHJMZVZ2bDQ5Z0VyX3c0VFZ4c0tOOHRSRkhDSGNR?oc=5"
-    },
-    {
-     "titulo": "Atlético arranca empate contra o Corinthians nos acréscimos pelo Brasileirão",
-     "fonte": "drd.com.br",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0hic2dxaFIycU8zdlZxR2xfQTBiTkN6QTEyQmVuSm1JU0YwWU01QjA4TDNUU1ljTHFGSFdmUkJlUk9mamFJMWxObWM2TjV6dHZQTUVpOTJ6RHFvZEtTZkpIaGNneTItV3pOSGI5dlF1MVhyakwyVVVFbjNFR1RBQnhQdm1nUDVBcVhtd2Q2bk1US0MtQnVxT1Ewbm0?oc=5"
-    },
-    {
-     "titulo": "Empate do Galo mantém Corinthians ameaçado no Brasileirão",
-     "fonte": "Jornal Correio do Brasil",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTlzS2VLZ01nVDZVM1RNYVN2dmFmUWZLd0RFdDhOVXFrMHZ1MDlMcnBGSFJPQ2tuRU9LemtES3NoRy1aXzYzX0twUjdlQjdza3NVTDZ6UFJhU2NCQTV4MkVTbE0yVjI1SUFnODVGbi1iOG5yMHE2b1lLbHhseTNIekNLM3lCeVNTS05UWA?oc=5"
-    },
-    {
-     "titulo": "Seedorf valoriza ponto conquistado pelo Corinthians apesar de empate no fim",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObHlQTGEwWHBpbXBHZ2wyZTFkR2oxVmlIa3U1N2ZrczVrYW5VRXpBWld4aktSc1pUQkU5Q2YzM0Y0Y2pKRGdlQ3FZQUd6MW5YWDlMT0lXQkZqQmU3LWdQMnkxak9rTUlyV202YXBGZi1jYXU3TS1FMHQ2b1Y2d0hvMHA1NU1yRGw1N2hhUm02RW9LX0N3SlJlWnpFaTJSZmVsNGVyQzYxWGlQT3BZcFhlc1hKUldxUndXVjZCWm9Pekx4RjlJ0gHKAUFVX3lxTE9fTk00NG9GT3VqcTVyX3p5dWdBTTlzOXBEcVdtdlBsaDcwQ1Yyd29pTkRoWVdPMFRiRWQ4TjRfNmU2a3RNRWlYMndnbU1LaXB3QmhDTlp5a2dJTm5kSTloMThKSTNreWExbTd1M0Q2RldjS096bFBDcmctVTBSNVVQNEpzUzR6SGlLVGxoM1NBdkxhV2Q1c1pCcko0NGIwZ3MwaGtlX0VSUjNrWk1fUHNNVVVLMUxNVnJEVFhJUGc1bkF5RVU5bW15WlE?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "_Hspg5GtAhw",
-      "titulo": "Corinthians empata com o Atlético-MG e Série B vira ameaça. Olha a tabela!",
-      "canal": "FLAMENGUISTA ORIGINAL ",
-      "views": 22112,
-      "likes": 142,
-      "comentarios": 19,
-      "publicado": "2026-11-26T01:12:32Z",
-      "duracao_s": 21,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=_Hspg5GtAhw"
-     },
-     {
-      "id": "Bmk7aFyED6g",
-      "titulo": "Brasileirão: Atlético-MG empata no fim e mantém Corinthians ameaçado #Shorts",
-      "canal": "Voz da Midia",
-      "views": 370,
-      "likes": 4,
-      "comentarios": 0,
-      "publicado": "2026-11-26T05:40:59Z",
-      "duracao_s": 16,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Bmk7aFyED6g"
-     },
-     {
-      "id": "y_hfxCkNsDQ",
-      "titulo": "NewsPro TV — Brasileirão: Atlético-MG empata no fim e mantém Corinthians ameaçado",
-      "canal": "newspro Today",
-      "views": 0,
-      "likes": 0,
-      "comentarios": 0,
-      "publicado": "2026-11-26T14:36:49Z",
-      "duracao_s": 288,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=y_hfxCkNsDQ"
-     }
-    ],
-    "consulta": "Corinthians empata ameaçado",
-    "n_videos": 3,
-    "mais_de": false,
-    "views": 22482,
-    "top": [
-     {
-      "titulo": "Corinthians empata com o Atlético-MG e Série B vira ameaça. Olha a tabela!",
-      "canal": "FLAMENGUISTA ORIGINAL ",
-      "views": 22112,
-      "url": "https://www.youtube.com/watch?v=_Hspg5GtAhw",
-      "publicado": "2026-11-26T01:12:32Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "Brasileirão: Atlético-MG empata no fim e mantém Corinthians ameaçado #Shorts",
-      "canal": "Voz da Midia",
-      "views": 370,
-      "url": "https://www.youtube.com/watch?v=Bmk7aFyED6g",
-      "publicado": "2026-11-26T05:40:59Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "NewsPro TV — Brasileirão: Atlético-MG empata no fim e mantém Corinthians ameaçado",
-      "canal": "newspro Today",
-      "views": 0,
-      "url": "https://www.youtube.com/watch?v=y_hfxCkNsDQ",
-      "publicado": "2026-11-26T14:36:49Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Corinthians pode se salvar do rebaixamento na próxima rodada; veja cenários",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 81.8,
-   "sinais": {
-    "busca": 40,
-    "aceleracao": 68,
-    "midia": 92,
-    "aderencia": 100,
-    "youtube": 73
+    "youtube": 93
    },
    "fator_categoria": 1.148,
    "trafego_google": 0,
    "busca_torcedor": "corinthians x grêmio",
    "termos_trends": [],
-   "n_fontes": 8,
-   "n_manchetes": 8,
-   "assinatura": "rebai|cenar|pode|corin",
+   "n_fontes": 7,
+   "n_manchetes": 9,
+   "assinatura": "gremi|corin|brasi|assis",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Corinthians x Grêmio: um precisa vencer, o outro não pode perder.",
-    "titulo_thumb": "CORINTHIANS x GRÊMIO",
-    "pergunta_enquete": "Qual sua opinião: Corinthians pode se salvar do rebaixamento na próxima rodada; veja cenários?",
-    "tecnica": "Conflito",
+    "gancho": "O que o Corinthians precisa fazer para vencer esse jogo?",
+    "titulo_thumb": "E AGORA, CORINTHIANS?",
+    "pergunta_enquete": "Qual sua opinião: Corinthians x Grêmio vai passar na Rede Globo? Confira onde assistir ao jogo pelo Brasilei?",
+    "tecnica": "Pergunta aberta",
     "ganchos": [
      {
-      "tecnica": "Conflito",
-      "texto": "Corinthians x Grêmio: um precisa vencer, o outro não pode perder.",
-      "thumb": "CORINTHIANS x GRÊMIO"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Corinthians x Grêmio parece um jogo com dono. É exatamente aí que mora o perigo.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
       "tecnica": "Pergunta aberta",
-      "texto": "Corinthians x Grêmio: qual é o detalhe que vai decidir?",
+      "texto": "O que o Corinthians precisa fazer para vencer esse jogo?",
       "thumb": "E AGORA, CORINTHIANS?"
      },
      {
@@ -921,330 +385,1167 @@
      },
      {
       "tecnica": "Dado",
-      "texto": "Corinthians reduz para 24,9% o risco de queda no Brasileirão e pode garantir a. Parece só um número, mas ele vai pesar nos próximos meses do Corinthians.",
-      "thumb": "24,9%"
+      "texto": "Na 16º colocação, com 41 pontos. Guarda esse número, porque ele muda a conversa sobre o Corinthians.",
+      "thumb": "41 PONTOS"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Corinthians contra Grêmio vale mais do que três pontos, e os dois sabem disso.",
+      "thumb": "CORINTHIANS x GRÊMIO"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Corinthians x Grêmio parece um jogo com dono. É exatamente aí que mora o perigo.",
+      "thumb": "NÃO É BEM ASSIM"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Internacional pode cair na próxima rodada? Confira os cenários do rebaixamento no Brasileirão",
-     "fonte": "Tribuna do Norte",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQkhEWU1MVjNOMVNqaUF5ME5yaHRIN3BiUEVyekhrakM4c0RmNmF3dldhdWhLcWo0R0M5VWVGRktPSk5rNG5memc0LTRjY1JFN3lHSW5NanFWajA4d3JCSFVrbjlfOWhrSFZRUXMyRURrSkU3Q08yZW9HZ0YzWGZVS2w3TTZEMTAzckZpc2IyTXpZYm1pVU04UklfUTJnTjlaRDVqTTRLUTltSzI0TExHZ1VtUlhYbXRhejR3MzNjbDFHT2ZJUHJLWWkwM2o?oc=5"
+     "titulo": "Grêmio realiza treino tático para a partida contra o Corinthians pelo Brasileirão",
+     "fonte": "Jornal O Sul",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM19teDFMRjNPTGtkVmJtOVhUbGtnRW95eHFDTGV1WWZHTU42UWdGZmNDZ1huWFlTS01TNWNZVW1QQjRCdU0yXzAySjRGVmFSYThWZnBJRGZYVnJtSlpxdUptQTZjdVNadnBmSUVJREhFVjZiV3JTNmYzbGxNVVlCZGhsWG15blZ1Wk12WTNzY2t6Q3JpLW1ldlAtRGFjZHZwUUVGY1ZSWlA0QdIBrwFBVV95cUxPVUlZVFEwUFFyQmZDTkMyTG5sVm5UNDIwQzFoaHRKLWozZFFMQ2V2TVVMZHNHSnNna29MQ3E5bVhWbEY3UGt5b0RKYmM2RVNaQ18wbGcwX3kzeUhFa3ExUzJ3Z0dQcmxPREt1ZEJxamxjU3hydFFPVElaTl9jZ2E0Ym96cWlKeXdURFB4Z2pMazRGQ0xmYVlXMk8tYUZMOHhIZVRxb0t2dk1TZF81dV9z?oc=5"
     },
     {
-     "titulo": "Quais as chances do Corinthians ser rebaixado? Veja cenários após a rodada",
-     "fonte": "Exame",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUEoxY3NESkQwWURIUDBYYk5nWFNSenRmV2FPU2dYcVJRajhNMk1qdGhqUXB6WWNwZHZQN2ZMM091M2hYcWtGZFY1V1RUTzdZZlFDZUxLMzJLWFhZNUV5MmttMmFlTW52UVJDSk02dlhBaElLUlhWdUtTWXo4STNEVmkyUXJ4NTJYTjhsZVdWeTRtNzUyallSck5nbmhTNTIxM0E?oc=5"
+     "titulo": "Corinthians x Grêmio: horário e onde assistir ao jogo do Grêmio",
+     "fonte": "GZH",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcVJmREM5WllQREJ4N0UxTkZGQm5POEp5RG1SSTQ3bURZam5ReFp5eUdMTVRqMnNhOWNISWpvUHRTRkJkVENBdU51ZXpUbUpqcjBPVHVBVjFadnJHaHhHR1pnOXhmcVgtSi1HMGo5TXloR3N5MldYSXRYdHZFekJiSGtnbXJYYmtXVUkzWGstUzAxZ3VnRHN0NUFramlNOUg0VzZtbzdUZEVXTEZERUNQRjZlYmtYQnZJN0tNQ1Z2ZVJ0V05QeFFRR1ZrbTlfVktnT19felJmT01KcU5ycGlySEZSWTk?oc=5"
     },
     {
-     "titulo": "Corinthians reduz para 24,9% o risco de queda no Brasileirão e pode garantir a permanência na próxima rodada",
-     "fonte": "A Crítica de Campo Grande",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdFdFVlc3WmlueVptbWdLaEdxQXpWeG5NQnUzdGRFem9NNzR5V1lMWnUzYVFrM2NER3NGMjN0VFM2ZTItZU42bU9nN3A2LUJkN19TX0ROZ1A0UTdjRVdtRnQ5bmVqRFZsay1wdHpxSElvWk5oaU9zRVpjRm9kdUR3RFRXMEp4dXJjU0xLM3A2S3lPZUdEODByakgwb2dsNFAtWXhuTkNnTXlvQy13R0haWVlZU0N3Q25RNUFfNDFQdw?oc=5"
+     "titulo": "Corinthians x Grêmio vai passar na Rede Globo? Confira onde assistir ao jogo pelo Brasileirão",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQWVFsYmdQckl2S3RmWjdrSnRGVFZzWDdjbC1oeGY0R1ZPeGVuQXpzTUQ1cFNGYkNaN0lYMGxWTjhPUUh5YlVUdWZnd2EtZHhOazdCbnVZNUdfVDZINEViX29DRk5DdWpIR1JSV2h0M2RYUUljU2E0RVo2NEFDNnYxV01HT3V5NUM1S1ZDOVVVM3BaS3RFX3Y2emZBdldsaFRmVmpBNml0aDU2NXR3R3ZrSWlQdFI0M2tqbTd1N2Nubzl2cTlDa1dJZE5McWlYYWJtVHNXVHRVa3BzajJCd0NsdWt2QUVKSTdONjl6ZVVfaUg4b3BhbXgtSXpTRVJaSTFpT2dLSUxhSXZWVVc5U0VkeXV3?oc=5"
     },
     {
-     "titulo": "Corinthians diminui chances de rebaixamento e pode se salvar contra o Grêmio; veja cenários",
-     "fonte": "Jovem Pan",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM1lPUEZRbmdUVWZPRGRHVTRENkMwaGtGVGptbXB1aXNnRWJWcFRMTHhkOVNER2REeXFMa0l4V1BZN2hwclRrTVFYVFhJYXlCNmFaaU5YZmpUNmk1X1pwLWVtdFJ2NnJISEhVemJzNWJjcFFhejM4TGtQUk1fbUQwa2dabmpJRGZhd1VHTk1hWHFlb0VrNDRuZmFzM2pacFZyZDg5eW9iRXk3SkZmY1h4MEh4NnpLdmZJd2UzMkg0N2lfcXZqM2tpUUFQWHNVVjJIZUxDVW80c3kzbDc5?oc=5"
+     "titulo": "No próximo domingo (29), o Grêmio encara o Corinthians na Neo Química Arena, em São Paulo, em confronto direto contra o rebaixamento para a Série B pela 37ª rodada do Campeonato Brasileiro. Na 16º colocação, com 41 pontos, o Tricolor precisa pontu",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlcm83T3RyNEhOX2Z1RVFJSWFMUTFBQ28wZ0dfRENyUlhLc05VeGFsdVp1a0t2TVFPblRWeU0wajUxYmh3Qm9KdXVjWFo5Vlkzc1E?oc=5"
     },
     {
-     "titulo": "Corinthians diminui risco de rebaixamento e pode se salvar no domingo; veja números",
-     "fonte": "Estadão",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ2RvdVlFSGFPVk0yM1F2LWE5c2JEUHUtMi1Lb1dKLXpLQl85VDVGZnAxYmktN2VpNDAzXzRuMGM5NW91LTNwb2szMEV3czZfME1BX3lNM0dMUFF5NVAxMUIxeFRVek5oTUVjYS1VdmdKX2VvWXE3ejU0LWNXV211ZnNQLTRpYnZOY285dVlLMy1wRDlyM1A5dVU1YWcybFBSdXdpZ3U1VTVya19CVlZXdmlCMmdaOThzc2pJSElGNjFYWkFUOWF2SV83ejBobEpJbkpBNTRwLXRyUQ?oc=5"
+     "titulo": "Saiba onde assistir ao jogo do Grêmio contra o Corinthians",
+     "fonte": "Correio do Povo",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmtBak92d0wyUjAxX1dBUjY4c3ZvMjA4dDBYdnl6MHRqc3RNM05FZm1xWmJPcHZwci0zUXRjaHpWWE1Ca1pWUVFKSG53b2RvVFJuQjFvRFFBSVlXRUI0SnJMejM0MjVBczNLaGVSRlBIM3BROEgxb2hGblJreURBUUUxVEl6RWZLU2N3cHgwVWs4YkdBUjVMUThVODl0ZTdrWTg3T2VkOHpONXE1SjVJR1phRTZjNUplMUxQV1pGNA?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "aIyrpKpLTZA",
-      "titulo": "CONFIRMADO! JÁ TEMOS UM TIME GRANDE REBAIXADO EM 2026!",
-      "canal": "Torcedorismo",
-      "views": 21588,
-      "likes": 633,
-      "comentarios": 41,
-      "publicado": "2026-11-26T09:00:35Z",
-      "duracao_s": 821,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=aIyrpKpLTZA"
+      "id": "wQ2uKSqGU64",
+      "titulo": "🔴 ATLÉTICO-MG X CORINTHIANS | AO VIVO | BRASILEIRÃO 2026 | JOGO AO VIVO COM IMAGENS DA ARENA MRV",
+      "canal": "Na Rede Oficial",
+      "views": 1897790,
+      "likes": 5627,
+      "comentarios": 7,
+      "publicado": "2026-11-26T01:27:12Z",
+      "duracao_s": 14627,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=wQ2uKSqGU64"
      },
      {
-      "id": "1z8qid87CRo",
-      "titulo": "SE PERDER HOJE O CORINTHIANS JA ESTA REBAIXADO",
-      "canal": "Radar do Apito ",
-      "views": 2531,
+      "id": "NVDcJOVwRjQ",
+      "titulo": "ATLÉTICO-MG X CORINTHIANS AO VIVO AGORA: BRASILEIRÃO - LIVE",
+      "canal": "Na Rede Oficial",
+      "views": 1457878,
+      "likes": 6226,
+      "comentarios": 26,
+      "publicado": "2026-11-26T01:17:46Z",
+      "duracao_s": 8183,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=NVDcJOVwRjQ"
+     },
+     {
+      "id": "oCa9mRo0dtE",
+      "titulo": "GOOOOL DO CORINTHIANS! O Timão balança a rede no Atlético-MG aos 24 do 2º tempo 🖤🤍🔥",
+      "canal": "Meu coringão",
+      "views": 2175,
+      "likes": 16,
+      "comentarios": 0,
+      "publicado": "2026-11-26T00:45:27Z",
+      "duracao_s": 8,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=oCa9mRo0dtE"
+     },
+     {
+      "id": "d2pxW3XL-Bw",
+      "titulo": "Giai estufa a rede de novo e vira o quarto gol do Palmeiras no derby #futebol #palmeiras",
+      "canal": "Novelinha do Palmeiras",
+      "views": 981,
+      "likes": 12,
+      "comentarios": 0,
+      "publicado": "2026-11-26T15:45:00Z",
+      "duracao_s": 38,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=d2pxW3XL-Bw"
+     },
+     {
+      "id": "HngRG8m0Ylw",
+      "titulo": "Atlético e Corinthians jogam em casa; Cruzeiro enfrenta o Fluminense fora | Bola na Rede",
+      "canal": "Rede Esporte",
+      "views": 718,
+      "likes": 12,
+      "comentarios": 0,
+      "publicado": "2026-11-26T05:06:53Z",
+      "duracao_s": 3360,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=HngRG8m0Ylw"
+     },
+     {
+      "id": "WXsAbkmpMGY",
+      "titulo": "GOOOOL DO CORINTHIANS! O Timão balança a rede no Atlético-MG aos 24 do 2º tempo 🖤🤍🔥",
+      "canal": "Meu coringão",
+      "views": 674,
       "likes": 7,
       "comentarios": 0,
-      "publicado": "2026-11-24T20:28:14Z",
-      "duracao_s": 7,
+      "publicado": "2026-11-26T01:31:42Z",
+      "duracao_s": 8,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=1z8qid87CRo"
+      "url": "https://www.youtube.com/watch?v=WXsAbkmpMGY"
      },
      {
-      "id": "pSDVDCVKjkY",
-      "titulo": "Os cenários para Corinthians e Galo #corinthians #brasileirao #rebaixamento #simulador",
-      "canal": "FutIsake",
-      "views": 1652,
-      "likes": 42,
-      "comentarios": 8,
-      "publicado": "2026-11-24T20:48:49Z",
-      "duracao_s": 105,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=pSDVDCVKjkY"
-     },
-     {
-      "id": "bUiKK0aWQSA",
-      "titulo": "Os cenários pro Corinthians chegar aos 45 pontos #corinthians #brasileirao #rebaixamento #simulador",
-      "canal": "FutIsake",
-      "views": 1447,
-      "likes": 35,
+      "id": "0ZS9Msyg-f8",
+      "titulo": "Chamada Brasiliense x Corinthians | Campeonato Brasileiro 2005",
+      "canal": "ESPORTE TOTAL",
+      "views": 440,
+      "likes": null,
       "comentarios": 3,
-      "publicado": "2026-11-25T10:53:35Z",
-      "duracao_s": 118,
+      "publicado": "2026-11-25T21:09:35Z",
+      "duracao_s": 17,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=bUiKK0aWQSA"
+      "url": "https://www.youtube.com/watch?v=0ZS9Msyg-f8"
      },
      {
-      "id": "Ne6ilcb_uCo",
-      "titulo": "Os cenários se o Corinthians vencer, empatar ou perder pro Galo hoje #corinthians #rebaixamento",
-      "canal": "FutIsake",
-      "views": 1290,
-      "likes": 38,
-      "comentarios": 1,
-      "publicado": "2026-11-25T20:05:47Z",
-      "duracao_s": 107,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Ne6ilcb_uCo"
-     },
-     {
-      "id": "3P4tgvafgZQ",
-      "titulo": "Corinthians x Grêmio: quem se afasta do rebaixamento no domingo?",
-      "canal": "Futebol em Xeque",
-      "views": 157,
-      "likes": 3,
-      "comentarios": 0,
-      "publicado": "2026-11-26T14:32:05Z",
-      "duracao_s": 352,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=3P4tgvafgZQ"
-     },
-     {
-      "id": "RlOVlfB2Y0Y",
-      "titulo": "Corinthians não pode perder para o Grêmio: confronto pode definir rebaixamento | CONVOCAÇÃO CNN",
-      "canal": "CNN Esportes",
-      "views": 46,
-      "likes": 3,
-      "comentarios": 0,
-      "publicado": "2026-11-26T16:27:39Z",
-      "duracao_s": 177,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=RlOVlfB2Y0Y"
-     },
-     {
-      "id": "_nmVBwysR6Y",
-      "titulo": "Atlético MG x Corinthians...Os possíveis cenários do Z 4 do Brasileirão",
-      "canal": "Giro do Esporte BR",
-      "views": 8,
+      "id": "z2jpQk_MHaU",
+      "titulo": "TE JULGANDO PELO TIME QUE VOCÊ TORCE 😂⚽ #shorts #futebol",
+      "canal": "FUTEBOL NA REDE ⚽️",
+      "views": 57,
       "likes": 0,
       "comentarios": 0,
-      "publicado": "2026-11-25T21:45:10Z",
-      "duracao_s": 741,
+      "publicado": "2026-11-26T15:00:22Z",
+      "duracao_s": 63,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=_nmVBwysR6Y"
+      "url": "https://www.youtube.com/watch?v=z2jpQk_MHaU"
      },
      {
-      "id": "CDGTy_OM47M",
-      "titulo": "Corinthians Pode CAIR? Os Cenários da Última Rodada 😱⚽ #fyp #foryou",
-      "canal": "ANGO FIFAdraft",
-      "views": 0,
+      "id": "j1tAQPuPnUY",
+      "titulo": "GOOOOL DO CORINTHIANS! O Timão balança a rede no Atlético-MG aos 24 do 2º tempo 🖤🤍🔥",
+      "canal": "Meu coringão",
+      "views": 33,
       "likes": 0,
       "comentarios": 0,
-      "publicado": "2026-11-25T21:02:24Z",
-      "duracao_s": 69,
+      "publicado": "2026-11-26T01:34:17Z",
+      "duracao_s": 8,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=CDGTy_OM47M"
+      "url": "https://www.youtube.com/watch?v=j1tAQPuPnUY"
      }
     ],
-    "consulta": "Corinthians rebaixamento cenários",
+    "consulta": "Corinthians Rede",
     "n_videos": 9,
     "mais_de": false,
-    "views": 28719,
+    "views": 3360746,
     "top": [
      {
-      "titulo": "CONFIRMADO! JÁ TEMOS UM TIME GRANDE REBAIXADO EM 2026!",
-      "canal": "Torcedorismo",
-      "views": 21588,
-      "url": "https://www.youtube.com/watch?v=aIyrpKpLTZA",
-      "publicado": "2026-11-26T09:00:35Z",
+      "titulo": "🔴 ATLÉTICO-MG X CORINTHIANS | AO VIVO | BRASILEIRÃO 2026 | JOGO AO VIVO COM IMAGENS DA ARENA MRV",
+      "canal": "Na Rede Oficial",
+      "views": 1897790,
+      "url": "https://www.youtube.com/watch?v=wQ2uKSqGU64",
+      "publicado": "2026-11-26T01:27:12Z",
       "do_canal": false
      },
      {
-      "titulo": "SE PERDER HOJE O CORINTHIANS JA ESTA REBAIXADO",
-      "canal": "Radar do Apito ",
-      "views": 2531,
-      "url": "https://www.youtube.com/watch?v=1z8qid87CRo",
-      "publicado": "2026-11-24T20:28:14Z",
+      "titulo": "ATLÉTICO-MG X CORINTHIANS AO VIVO AGORA: BRASILEIRÃO - LIVE",
+      "canal": "Na Rede Oficial",
+      "views": 1457878,
+      "url": "https://www.youtube.com/watch?v=NVDcJOVwRjQ",
+      "publicado": "2026-11-26T01:17:46Z",
       "do_canal": false
      },
      {
-      "titulo": "Os cenários para Corinthians e Galo #corinthians #brasileirao #rebaixamento #simulador",
-      "canal": "FutIsake",
-      "views": 1652,
-      "url": "https://www.youtube.com/watch?v=pSDVDCVKjkY",
-      "publicado": "2026-11-24T20:48:49Z",
+      "titulo": "GOOOOL DO CORINTHIANS! O Timão balança a rede no Atlético-MG aos 24 do 2º tempo 🖤🤍🔥",
+      "canal": "Meu coringão",
+      "views": 2175,
+      "url": "https://www.youtube.com/watch?v=oCa9mRo0dtE",
+      "publicado": "2026-11-26T00:45:27Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "Palmeiras avalia oferta por Martinelli, desejo antigo de Abel Ferreira",
+   "tema": "Palmeiras goleia Operário-PR e pega o Atlético-MG na final da Copa do Brasil sub-20",
    "categoria": "Jogo e resultado",
    "clubes": [
     "Palmeiras"
    ],
    "foco": true,
-   "nota": 80.5,
+   "nota": 81.0,
    "sinais": {
-    "busca": 75,
-    "aceleracao": 73,
-    "midia": 81,
+    "busca": 60,
+    "aceleracao": 40,
+    "midia": 100,
     "aderencia": 100,
-    "youtube": 28
+    "youtube": 73
    },
    "fator_categoria": 1.148,
    "trafego_google": 0,
-   "busca_torcedor": "chapecoense x palmeiras",
+   "busca_torcedor": "sub-20 do palmeiras",
    "termos_trends": [],
-   "n_fontes": 6,
-   "n_manchetes": 8,
-   "assinatura": "palme|abel|ferre|marti",
+   "n_fontes": 14,
+   "n_manchetes": 16,
+   "assinatura": "brasi|copa|palme|final",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Palmeiras avalia oferta por Martinelli, desejo antigo de Abel Ferreira. Parece notícia pequena. Não é.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Palmeiras avalia oferta por Martinelli, desejo antigo de Abel Ferreira?",
-    "tecnica": "Contradição",
+    "gancho": "Palmeiras goleia Operário-PR e pega o Atlético-MG na final da Copa do Brasil sub-20. Minha aposta: depois desse jogo, [SEU PALPITE]. Me cobra depois.",
+    "titulo_thumb": "MEU PALPITE",
+    "pergunta_enquete": "Qual sua opinião: Palmeiras goleia Operário-PR e pega o Atlético-MG na final da Copa do Brasil sub-20?",
+    "tecnica": "Aposta",
     "ganchos": [
      {
+      "tecnica": "Aposta",
+      "texto": "Palmeiras goleia Operário-PR e pega o Atlético-MG na final da Copa do Brasil sub-20. Minha aposta: depois desse jogo, [SEU PALPITE]. Me cobra depois.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "97 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
+      "thumb": "TODO MUNDO VIU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Palmeiras goleia Operário-PR e pega o Atlético-MG na final da Copa do Brasil sub-20. Quem venceu comemora; quem perdeu tem uma conta para acertar.",
+      "thumb": "PALMEIRAS x GRÊMIO"
+     },
+     {
       "tecnica": "Contradição",
-      "texto": "Palmeiras avalia oferta por Martinelli, desejo antigo de Abel Ferreira. Parece notícia pequena. Não é.",
+      "texto": "Palmeiras goleia Operário-PR e pega o Atlético-MG na final da Copa do Brasil sub-20. Todo mundo vai olhar o resultado; eu vou mostrar o que ele esconde.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Palmeiras avalia oferta por Martinelli, desejo antigo de Abel Ferreira. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
+      "texto": "Palmeiras goleia Operário-PR e pega o Atlético-MG na final da Copa do Brasil sub-20. O que esse resultado muda daqui para frente?",
       "thumb": "E AGORA, PALMEIRAS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Palmeiras avalia oferta por Martinelli, desejo antigo de Abel Ferreira. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Palmeiras contra Fluminense vale mais do que três pontos, e os dois sabem disso.",
-      "thumb": "PALMEIRAS x FLUMINENSE"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Palmeiras tem interesse por Martinelli? Bruno Andrade traz bastidores do desejo palmeirense por meia do Fluminense",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QSFFmR3hEX1V0N19Wd3B5YVNyVGQzYi1pdGIybnZybUw2VkZWQUxQeW4tay1ORnZTUjN6dVNHNUlXMnZhNTZRRWxqN3lyWUgyaTNUb0R5VnVMTHY3Tnc?oc=5"
+     "titulo": "Atlético encara Palmeiras na final da Copa do Brasil Sub-20; veja data, horário e local",
+     "fonte": "O Tempo",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMkRkc3lXVld6ZnVTdkxTQzl1dE5mOUxVX3dwRDItVWZSX3FYVkxfNmxPcHZMRlVOdDgyaUo0STRSVHJ2dnpoeWJOb09BakJnOWVGZHNkMEFQN3pMLUUtdFduTmNBMzF0R1kwSFhfY3lfc3U3YllOZkJLbGxEZ2p0bWFFQVNvUUc1RDJuQTJxbWFRRzNuUDBiWVNwTmVVOU9mcUJ4MUdDRHNyRWxCTU5IWENtbVV4TWtFVEpMUHlfZUh6d0NCSVlmQ2hYaW9EVTZ3Ulg0aw?oc=5"
     },
     {
-     "titulo": "Abel Ferreira, um técnico que resiste à \"doença\" do sucesso no Palmeiras",
-     "fonte": "UOL Notícias",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY2wxY0xtTVJsWXl3Ni1uQV9OQnFLTTVBT2Q0V1ZlYWt3bFlIbG5GMERfdFhfSDg2MXN5Q1hqUy1taXJfWU9pbmxjd29oSXJWMFJ2QmctVEpvQms4dmU1ZmUxalFackd6RlZpb1A4bFphM2JFYXZuanlkR3FqVEdpVnB3d1hYTjNYdi1hWGxlZXNQaXFJdkYtTGhFOWlPaEVLRTRoOVVqYWtGSHFQaHlnZmRlclB3WmNjWE93Z3NLLVlDc0VVQmxZZ2pKT2tTQQ?oc=5"
+     "titulo": "Globo e ge TV exibem Grêmio x Palmeiras de graça na primeira final única da Copa do Brasil",
+     "fonte": "RD1",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQnNWSzFlbjFGUXZsMGFJc204bHhfRlgzNlkyRW15dmhMOVp5UWtJYmh1Qm0xWGV1VDVaRndacXNYanR5X0hMa3FCQjQ3cDRpUF9McVVOdGNJUGRaY1pOd2x5X09uWm0zRlZyaXNLRHNONktjWldESnJPZ3EtZk5jVWxiaEVZdndEX2U4dnh3bFRqUk0yeWhZbkh6bW9qbFMzdFdNb2VGNDFNbG5yWEFF?oc=5"
     },
     {
-     "titulo": "Bruno Formiga valoriza Abel Ferreira no Palmeiras!",
-     "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUW5TSUV4N0hRQk1CU0lQSjFXSzg2eEdKOUIxQWktWHBvN0phSEtBaEdnSmZxc0ZObDM1bnFGVGREOGhMTnlNVExjUHdvX293b3FfVWtETXRHblFIemdfNXNkcXF4QnhrbERLZTR1Ri10R2ZEMVRKaVNxbzhGY2JSbk5kd1gtaUkxU2h6V3k0ZldUMW9JQW9yeVNLMmlPbGo3MEVtT1p5TE9UYkJHZFkwVGt5ZHdMcWlBWXVCa1JDNHnSAc8BQVVfeXFMTy01YjlmTHh6ZGk0SnRTMlNZVHRTNVhRZlBBR3lEeE1OMHVMbTJabmI2MXlCLXY4N01Na3pjR1BxTzUzczdpQkVrcUtwSjlrQzNVUGlOTnhqdDBTMmdvQWtzNmVJNHlqTE9zNUNtWHhHNEIyb3B6azhtTS1LaWpDdnlsVk9NYVFCTlFCTUQzZno5a2JJYW80VEY4cmplLWZucnR3QjlBUFYyMFB4TmpLd0RKcTNDWGpsTTR5aU93Q0ZnYk4xNHRSSzhEOUtIejBJ?oc=5"
+     "titulo": "Final da Copa do Brasil 2026: Grêmio x Palmeiras, ingressos e onde assistir",
+     "fonte": "Jornal Cruzeiro do Sul",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb1dMN21Qd0dONmR4dDUxdjJmNnhaRDdyNzhTTlFOVlY3S25RSVA3VFl2eVZQMjNnUGhLWk5YSTNoVDB6VFhzT3ZmUlJsM0FKNjBMWThwaXY2WTJQakxBUnk1VFN0UjJXcFdWbldRTlRhZ0FhT2M2VVFEREt5QVZZX29QVEFYWkRlanNfNTV0dXBUNTdyWmtpRVU2XzBIUWZCaWxaUEhvNm5CWndfdWF1MjhMWl8zdERwaEJvM1J5MjJMaHB3cDNJQXB3VEU4YlctbEtiaWF1MS1Gc0XSAeABQVVfeXFMT0lMYVlkX3pJSndTNC05SllxcjNwMjVLYkdXYUVoQ1lwZnRlZ1I0M3BTVUk3eWd4Sm1uWE15Tk9Xczg3WXI3TUNiSWRjbkJsZ0x1bmpqdGMxVzZ2cm5QSUc3VEVObHBTTlg4anEzZEdJQUVLbV84YUNHOWh0ckNDVjIxTU9jd3RkSEk4TnhNSG9HRzdROWJOV19DQzV3eEVOakRMcWs1RjRxTENoRXBKbnBLVDVMQ0NIRnJWajZHeV9GRFpYeXluZHFMNU54bElLSzhCWkl1RHpTdHRQNGItZk8?oc=5"
     },
     {
-     "titulo": "Abel Ferreira aprova chegada de reforço 'badalado' ao Palmeiras",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ3poUWtnSHFEdHBOa01JcWNVZ2tiNXhsT09NelBIN011UjFhSy1ZWEZVYUt6QTZDSGtkNXNYbENBVkdrSUpGYzBxS1hCSzQ2a2N0MkRYUnJlVDRYRDhtdGtZNW1BUTdyUnZTaTFkelJNbjVINDVJWHBNdjBpb0paeFpSTTcyaVdybDZZenlrSlZZb0lNd2VVM0dWVEVmZTgzTkhKaWpWNjltbE9iTlBQbXNhU3VJUW1xcm9xZnEwSlVfRzNpVlAwbm55cWk1YTB5dGc0bXFtdGxoTkcyUlJKS2pOVnRZZw?oc=5"
+     "titulo": "Palmeiras atropela Operário-PR e garante vaga na final da Copa do Brasil Sub-20; confira",
+     "fonte": "Palmeiras Online",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkRRRXdSVVBJbHNZcjVUbk02b25seS04MzVmamJ2LWZIQzZ5OGRLeWRrNzNfRGVOZjY1OGRLdkZ2bjBjZ0gwNTZXRGpXcFFFcDlxa2IxWS1xWldUcmVWN2xMLWVZUy1kTEEzMTlZa1dodWQtZVl4U3VySEZYRmxYR2ZvU1hXYkUtY1NLbmJORjF0M0ZYRHBqMTB2aDNVYmtrNlpNd3N2WlZwRXRiM0ExSTNTd29hTHVBVTBFRXVWMy14ZlJ5a0E?oc=5"
     },
     {
-     "titulo": "Palmeiras avalia oferta por Martinelli, do Fluminense",
-     "fonte": "TV Sim Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUDZkSU16b1d4N1NVNm5DMHExRUZicS05Ymx2T0t2eXJEVXZaTkFoZF9tN1lCbVd6bDNORUw5aWlMTFBpMWs3MlFhMmMyRGpJQWJjMHlKWDF1RVF1SVlhYlJfc01sNDF1dnZ6Z2VEcUtZR2h1ZnZPWnZGaDVwOU5tNTRBbWNKVm5aXy1KSDltYzBuM29sZ3JXak00WVp3b21CWlVjZl9VT2RrY2pjekp1b09mV0VqRnFOS3c?oc=5"
+     "titulo": "Relembre as campanhas de Palmeiras e Grêmio na Copa do Brasil",
+     "fonte": "Metrópoles",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOXYta2hLQk9zN0hQVWQzYU5XT0gtdDRLUHlsMFRqS2tWMHJoWENNWFM1N1FZdWg0eXRLUDg0UHVQVDlWX0ZfblY3S1lBVWRhc1dpdjY4b0podU1TUF96bVRReFB3WGZFNHA3bHlENVFCSm9sd2I4bmMxZERIbzM4WlIxMlh6cmt1WUZ5eTRlOEJaTGd1Z1NHTDhMcWhwZw?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "Xxs9hhwKGoU",
-      "titulo": "A PEDIDO DE ABEL FERREIRA, PALMEIRAS AVALIA PROPOSTA POR MARTINELLI",
-      "canal": "NETFLU",
-      "views": 60,
-      "likes": 4,
-      "comentarios": 0,
-      "publicado": "2026-11-26T15:26:55Z",
-      "duracao_s": 131,
+      "id": "_7T6kwnSb9k",
+      "titulo": "PALMEIRAS 4 X 1 OPERÁRIO-PR | MELHORES MOMENTOS | SEMIFINAL | COPA DO BRASIL SUB-20 2026 | sportv",
+      "canal": "ge tv",
+      "views": 53024,
+      "likes": 638,
+      "comentarios": 38,
+      "publicado": "2026-11-27T01:29:59Z",
+      "duracao_s": 352,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=Xxs9hhwKGoU"
+      "url": "https://www.youtube.com/watch?v=_7T6kwnSb9k"
+     },
+     {
+      "id": "5V1CzH616qI",
+      "titulo": "PALMEIRAS GOLEIA OPERÁRIO-PR E AVANÇA Á FINAL DA COPA DO BRASIL DO Sub-20 | MELHORES MOMENTOS 2026",
+      "canal": "FUTEBOL EM DESTAQUE",
+      "views": 34388,
+      "likes": 358,
+      "comentarios": 2,
+      "publicado": "2026-11-27T01:31:21Z",
+      "duracao_s": 615,
+      "live": true,
+      "url": "https://www.youtube.com/watch?v=5V1CzH616qI"
+     },
+     {
+      "id": "GMqn_M6t_XI",
+      "titulo": "VERDÃO GOLEIA E VAI PARA FINAL! Palmeiras x Operário-PR | Melhores Momentos | Copa do Brasil Sub-20",
+      "canal": "Conexão Fla",
+      "views": 9139,
+      "likes": 90,
+      "comentarios": 3,
+      "publicado": "2026-11-27T01:33:46Z",
+      "duracao_s": 278,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=GMqn_M6t_XI"
      }
     ],
-    "consulta": "Palmeiras Ferreira Abel Martinelli",
-    "n_videos": 1,
+    "consulta": "Palmeiras Sub-20 Operário-PR goleia",
+    "n_videos": 3,
     "mais_de": false,
-    "views": 60,
+    "views": 96551,
     "top": [
      {
-      "titulo": "A PEDIDO DE ABEL FERREIRA, PALMEIRAS AVALIA PROPOSTA POR MARTINELLI",
-      "canal": "NETFLU",
-      "views": 60,
-      "url": "https://www.youtube.com/watch?v=Xxs9hhwKGoU",
-      "publicado": "2026-11-26T15:26:55Z",
+      "titulo": "PALMEIRAS 4 X 1 OPERÁRIO-PR | MELHORES MOMENTOS | SEMIFINAL | COPA DO BRASIL SUB-20 2026 | sportv",
+      "canal": "ge tv",
+      "views": 53024,
+      "url": "https://www.youtube.com/watch?v=_7T6kwnSb9k",
+      "publicado": "2026-11-27T01:29:59Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "PALMEIRAS GOLEIA OPERÁRIO-PR E AVANÇA Á FINAL DA COPA DO BRASIL DO Sub-20 | MELHORES MOMENTOS 2026",
+      "canal": "FUTEBOL EM DESTAQUE",
+      "views": 34388,
+      "url": "https://www.youtube.com/watch?v=5V1CzH616qI",
+      "publicado": "2026-11-27T01:31:21Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "VERDÃO GOLEIA E VAI PARA FINAL! Palmeiras x Operário-PR | Melhores Momentos | Copa do Brasil Sub-20",
+      "canal": "Conexão Fla",
+      "views": 9139,
+      "url": "https://www.youtube.com/watch?v=GMqn_M6t_XI",
+      "publicado": "2026-11-27T01:33:46Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "Martinelli, do Fluminense, volta ao radar do Palmeiras para 2027",
+   "tema": "Qual jogador vai ser o amuleto do Palmeiras na conquista do tetra da Libertadores?",
    "categoria": "Notícia do dia",
    "clubes": [
-    "Palmeiras",
-    "Fluminense"
+    "Palmeiras"
    ],
    "foco": true,
-   "nota": 73.8,
+   "nota": 71.2,
    "sinais": {
-    "busca": 70,
-    "aceleracao": 85,
-    "midia": 46,
+    "busca": 75,
+    "aceleracao": 61,
+    "midia": 67,
     "aderencia": 100,
-    "youtube": 66
+    "youtube": 59
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "martinelli fluminense",
+   "busca_torcedor": "abel ferreira",
    "termos_trends": [],
-   "n_fontes": 2,
-   "n_manchetes": 2,
-   "assinatura": "marti|flumi|palme|prior",
+   "n_fontes": 4,
+   "n_manchetes": 5,
+   "assinatura": "liber|palme|conqu|tetra",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
-    "gancho": "Martinelli, do Fluminense, volta ao radar do Palmeiras para 2027. E agora: o que muda para o Palmeiras?",
-    "titulo_thumb": "E AGORA, PALMEIRAS?",
-    "pergunta_enquete": "Qual sua opinião: Martinelli, do Fluminense, volta ao radar do Palmeiras para 2027?",
-    "tecnica": "Pergunta aberta",
+    "gancho": "O torcedor está digitando “abel ferreira” no Google agora. A resposta não é tão simples.",
+    "titulo_thumb": "VOCÊ PESQUISOU",
+    "pergunta_enquete": "Qual sua opinião: Qual jogador vai ser o amuleto do Palmeiras na conquista do tetra da Libertadores??",
+    "tecnica": "Dado",
     "ganchos": [
      {
+      "tecnica": "Dado",
+      "texto": "O torcedor está digitando “abel ferreira” no Google agora. A resposta não é tão simples.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Palmeiras busca o tetra da Libertadores contra o Estudiantes. Nem todo mundo no Palmeiras vai gostar disso, e eu vou explicar por quê.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Palmeiras busca o tetra da Libertadores contra o Estudiantes. A leitura óbvia é uma. A que importa é outra.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
       "tecnica": "Pergunta aberta",
-      "texto": "Martinelli, do Fluminense, volta ao radar do Palmeiras para 2027. E agora: o que muda para o Palmeiras?",
+      "texto": "Palmeiras busca o tetra da Libertadores contra o Estudiantes. E agora: o que muda para o Palmeiras?",
       "thumb": "E AGORA, PALMEIRAS?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "Martinelli, do Fluminense, volta ao radar do Palmeiras para 2027. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+      "texto": "Palmeiras busca o tetra da Libertadores contra o Estudiantes. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Palmeiras deve cortar cinco jogadores para final da Libertadores contra Estudiantes",
+     "fonte": "Diário da Manhã",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUGJXLW5Yc3M5ODBEUmRndkM2bS1YWlZDSThjUmw4WlFIWG16ci1FeUVjLVZaanIwSTY3SFRPbmxsSW9EX040NnQ3aUdiYnYyd3d4MkpjZnV3RGhkMmVvdFlNdnBCcV9zNmkyQXJMWmVjZ2J2Zk5TZm8yOXhUa1dOdHh3MFV2eVg4T3FGTWhJbGIwUHQtUFZYQ3pGMzB5S3B4eUYwMFZVQVAyVGYwLXFjRWZkNHA2Zw?oc=5"
+    },
+    {
+     "titulo": "Qual jogador vai ser o amuleto do Palmeiras na conquista do tetra da Libertadores?",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLWswZmMxZmZjZ2Q2eDFyNGJvT0xQYUtoaWhLZmtkak5lR1owTTd2QkhkajJGZFVPNUFlQnRMbGRlaGdUNGF0TENXbTd5R2JTUnVpSWgyMUw3dXdXSDRXMVVwdXgtblpSa3k4UWFyb1VtVUNwMGxIQl9OUG1GaXBvUUF3dmhXU3ZCSFJZc1hPNE9pb2dQWUpBeGtTX2RhSVdmRjRFaDR6dm9XMVFobWd3cVNkT2w5YmVmcVFWVGRGdjktb0NJOVVoSW5iUDNFYU3SAc8BQVVfeXFMTy1rMGZjMWZmY2dkNngxcjRib09MUGFLaGloS2ZrZGpOZUdaME03dkJIZGoyRmRVTzVBZUJ0TGxkZWhnVDRhdExDV203eUdiU1J1aUloMjFMN3V3V0g0VzFVcHV4LW5aUmt5OFFhcm9VbVVDcDBsSEJfTlBtRmlwb1FBd3ZoV1N2QkhSWXNYTzRPaW9nUFlKQXhrU19kYUlXZkY0RWg0enZvVzFRaG1nd3FTZE9sOWJlZnFRVlRkRnY5LW9DSTlVaEluYlAzRWFN?oc=5"
+    },
+    {
+     "titulo": "Abel Ferreira fala sobre conquista das primeiras Libertadores pelo Palmeiras!",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQm41U1N6ckRINzM5WXBTRUJEa2lVdWhYRWlubkVMZUh5cklodGo4VjA4VEFRT0JOQ3ZvTWxQbE9ZSDc3MmF1bmNsYkJHUkItdV9ySXp6N1dNZVpUZkUyYk1JNS1lV3pQSmxCWTM3eXhRd19GQlNZeGhmZkV1QXB2VFU5bkhtLTdGVGFteGNVZ2VYTWNVRFFwUGY4TXVEcEJJWlpPc1d6VTRLX1Nxa0I5MWo1T2VPOE9oRUHSAcgBQVVfeXFMTkV0VWFLSmtPOUo5WG5wdVNTd1V2MlZ5dG5aZzJzd19nQWRtbU9OU3lmTEN1WjQ5a0ZmUkM0TVNPR0ZPb0N0T2E4UkZmRm1ZOFdXT1hPZEVzUG9GNGN0M3dOSk1fUEs4a0xWR2stekN5Y0R3SlpsUEJLOWFPRHN3V2ZBbTJIdzEtMkJoQjhIUFN2N3RJckRwOGtIS0dtQkw3cG81SFVWSnpmNXdGQU14XzA0b0EtM21pODZRd0Rpa2c0TlhKOFRub1c?oc=5"
+    },
+    {
+     "titulo": "Leila promete dançar funk se Palmeiras conquistar a Libertadores; veja",
+     "fonte": "Band",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOajNRWHZNY2NIRXBmOHlLZXhoa0lRYWR5WnhDa1BOdGtJZG56Zkw4N1U4ZEdXckdReWk1eDgzQTdyUTk3YmV1NEp0TVZMdS1BUlVKOGRyQmRhQ0h5aUYzQVd2VjJpeDVZb0FKTGlUQTR6bWF1aVlrX01ELXd6NzFCMDhwLUxGdWEwaV9aMFAzR09xVVVMT0ZZa0lvZmJOSV9QZi11SzVQUmdHWW5mM1ltbGZLZWxNRGJiYVdaekw3RDNhTHNr?oc=5"
+    },
+    {
+     "titulo": "Palmeiras busca o tetra da Libertadores contra o Estudiantes",
+     "fonte": "Rádio Peão Brasil",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZXljY0ZDSk5GdU9JQzhDVGd6bEY5dEo3SHQ1MG9VTzVmOXdpWkNoUWppUjc5MmVJUXdqaFUxdUR6cXVWU2tRSkZzQU9jMGRMcHcxTWVpVzI1SEVBa2Fha0tMLXhrQm45T2NacWlPQWh2VEF0aG5QTG9fek9ZekdIanhhZnhaa2Y2b19yN2tRbDRuWnItZ2Nz?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "rQxOmOAQ0WA",
+      "titulo": "💚PALMEIRAS X ESTUDIANTES! VERDÃO DESEMBARCA NO URUGUAI PARA A GRANDE FINAL DA LIBERTADORES 2026!",
+      "canal": "RESENHA TOTAL",
+      "views": 7586,
+      "likes": 101,
+      "comentarios": 3,
+      "publicado": "2026-11-26T02:20:28Z",
+      "duracao_s": 745,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=rQxOmOAQ0WA"
+     },
+     {
+      "id": "iZ5mhn9QPuw",
+      "titulo": "É AMANHÃ #futebolbrasileiro #futebol #viral#libertadores #palmeiras #estudiantes #shortvideo#shorts",
+      "canal": "Mapa da Rodada",
+      "views": 312,
+      "likes": 12,
+      "comentarios": 0,
+      "publicado": "2026-11-27T07:00:27Z",
+      "duracao_s": 52,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=iZ5mhn9QPuw"
+     },
+     {
+      "id": "4iCBpbNyDXE",
+      "titulo": "🔥 PALMEIRAS X ESTUDIANTES | FINAL DA LIBERTADORES 2026 | ANÁLISE, PALPITE E ONDE ASSISTIR",
+      "canal": "PALPITEIROFC",
+      "views": 143,
+      "likes": 3,
+      "comentarios": 0,
+      "publicado": "2026-11-26T21:00:27Z",
+      "duracao_s": 95,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=4iCBpbNyDXE"
+     }
+    ],
+    "consulta": "Palmeiras Estudiantes conquista jogador",
+    "n_videos": 3,
+    "mais_de": false,
+    "views": 8041,
+    "top": [
+     {
+      "titulo": "💚PALMEIRAS X ESTUDIANTES! VERDÃO DESEMBARCA NO URUGUAI PARA A GRANDE FINAL DA LIBERTADORES 2026!",
+      "canal": "RESENHA TOTAL",
+      "views": 7586,
+      "url": "https://www.youtube.com/watch?v=rQxOmOAQ0WA",
+      "publicado": "2026-11-26T02:20:28Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "É AMANHÃ #futebolbrasileiro #futebol #viral#libertadores #palmeiras #estudiantes #shortvideo#shorts",
+      "canal": "Mapa da Rodada",
+      "views": 312,
+      "url": "https://www.youtube.com/watch?v=iZ5mhn9QPuw",
+      "publicado": "2026-11-27T07:00:27Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "🔥 PALMEIRAS X ESTUDIANTES | FINAL DA LIBERTADORES 2026 | ANÁLISE, PALPITE E ONDE ASSISTIR",
+      "canal": "PALPITEIROFC",
+      "views": 143,
+      "url": "https://www.youtube.com/watch?v=4iCBpbNyDXE",
+      "publicado": "2026-11-26T21:00:27Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "O Flamengo tem negociações em andamento com Alessandro Brito para reforçar o departamento de futebol a partir de 2027. Ex-Botafogo, o profissional atualmente ocupa o cargo de chefe de prospecção do Crystal Palace, da Inglaterra. A informação foi divu",
+   "categoria": "Mercado da bola",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 70.9,
+   "sinais": {
+    "busca": 50,
+    "aceleracao": 75,
+    "midia": 67,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "alessandro brito",
+   "termos_trends": [],
+   "n_fontes": 4,
+   "n_manchetes": 4,
+   "assinatura": "flame|futeb|cargo|brito",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "React rápido (1 a 3 min)",
+    "gancho": "Flamengo mira analista de time da Premier League para o departamento de futebol em 2027. Nessa negociação, alguém vai sair perdendo.",
+    "titulo_thumb": "QUEM TEM RAZÃO?",
+    "pergunta_enquete": "Qual sua opinião: O Flamengo tem negociações em andamento com Alessandro Brito para reforçar o departamento ?",
+    "tecnica": "Conflito",
+    "ganchos": [
+     {
+      "tecnica": "Conflito",
+      "texto": "Flamengo mira analista de time da Premier League para o departamento de futebol em 2027. Nessa negociação, alguém vai sair perdendo.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Todo mundo está comemorando essa negociação do Flamengo. Eu vejo um risco que ninguém está comentando.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Esse negócio vale a pena para o Flamengo? Pensa bem antes de responder.",
+      "thumb": "E AGORA, FLAMENGO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Eu aposto: esse negócio [SAI / NÃO SAI] até o fim do mês. Se eu errar, pode me cobrar nos comentários.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "“alessandro brito”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+      "thumb": "VOCÊ PESQUISOU"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Ex-Corinthians e Flamengo critica desigualdade nos cargos de liderança do futebol feminino",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVWVPalcxXzViTlBXZkVUOWRoRGJfMnZ6N2c2akhuR3BDSm5qa0x0di03LVN0R3NRbXNyREJFamh1QlpseVJYY1NOT3Npb213cmF6a2hiRzdVM1BGb2tiQkVlQVBIUGMtUzVRZ1ExMHg2TFVHbUpoRGUweHZQcUZkY3UxUVU0Wk01bmJTQUF5RThmYjRoblJjWnZ4VXVGUFRqNTJCODBxcm1VenMwZGhKTXNSWTE4b3NFRUpJU09xclhxVGdiWC1TWkdEM1lRenA2MGlz?oc=5"
+    },
+    {
+     "titulo": "O Flamengo tem negociações em andamento com Alessandro Brito para reforçar o departamento de futebol a partir de 2027. Ex-Botafogo, o profissional atualmente ocupa o cargo de chefe de prospecção do Crystal Palace, da Inglaterra. A informação foi divu",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXUUZvbUFZTWQtMHh1QVZoYmM0LW04WWpQRFlfQ0xSZDNhMVhaN05SdzFPeGNKRUZKTzVxRE1aQVlYVmZLcDdJdm1DN0lGTTJJbmc?oc=5"
+    },
+    {
+     "titulo": "Alessandro Brito pode atuar ao lado de José Boto no Flamengo",
+     "fonte": "O Dia",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEVHT2NmOU5SLXJpMm5qeVRBcGNJLVRtRkFhamdkTmRPeE1GMnhYeDFySUVMVXYtemMwM3d0MWtLa1Q5aHhueUR0Z0N1VFlJc29JS1NXaGpLRmwtbnZzTWVUUkF4ZUFqZUxzeU5qU2pyTzhNclRiTDF0NXJLXzltUXFsMk1wallVcDZWaUgyaDlxZlVRYnpPNW1kX1ZPOXJCNHNfWUdIZXFrdXVqODlKc1Zwa3huMjdSRkRwNlZ30gHDAUFVX3lxTE81b2dFUmh5VG5takJUbmUyU1NiRXQwalpQWC1uYzMwYTFUUVRXbDYyX25KNnIyTmgyQURLWlBZTjM2ZzkzLXJwZTVkZUVSUG44M2VKbnZKVEF1NUdlMld5aDNWVjItYnFIZHg2bnd1Rmw3Qk8zUkphM2ZZMzl4S2t2cjNhZkNzWHV4bkJqZTNtYTN5cUthTVpSZ2Q5d00tdkFZZE5veWJwWm1PakRkc1lFS2lkaGVFRTM2VTlRVWFNQUZqaw?oc=5"
+    },
+    {
+     "titulo": "Flamengo mira analista de time da Premier League para o departamento de futebol em 2027",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZHdqVDYwWU1neGdiSWZZS1NmcE8tbXlMVkR4azJIeUFJSFNNeU1Nb0txbWZ4SU9zSVVVeThWZG4xcGFkdzhjd0ZXSDA1cTZhN3JjbUlENVNiaHkyTDlKa09jeFRKTy1MMFNrSnl6bkJ3YkZReTV3YjRudEtDX0hyTW5VRjlLQ0xmak1fc2xZUWIzSEtWME9DSG0tQ3lmZWF3enRURXZSOU9RUlJ4TkRid1dqelRqRGJDc2JiNzIyVjhTMDRSVTJLY0Z3?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Abel admite final ruim em 2025 e diz trabalhar emocional no Palmeiras: 'Usar cabeça e coração'",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Palmeiras"
+   ],
+   "foco": true,
+   "nota": 70.7,
+   "sinais": {
+    "busca": 75,
+    "aceleracao": 72,
+    "midia": 75,
+    "aderencia": 100,
+    "youtube": 37
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "abel ferreira",
+   "termos_trends": [],
+   "n_fontes": 5,
+   "n_manchetes": 5,
+   "assinatura": "final|palme|abel|ruim",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Abel admite final ruim em 2025 e diz trabalhar emocional no Palmeiras. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
+    "pergunta_enquete": "Qual sua opinião: Abel admite final ruim em 2025 e diz trabalhar emocional no Palmeiras: 'Usar cabeça e cora?",
+    "tecnica": "Contradição",
+    "ganchos": [
+     {
+      "tecnica": "Contradição",
+      "texto": "Abel admite final ruim em 2025 e diz trabalhar emocional no Palmeiras. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Abel admite final ruim em 2025 e diz trabalhar emocional no Palmeiras. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
+      "thumb": "E AGORA, PALMEIRAS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Abel admite final ruim em 2025 e diz trabalhar emocional no Palmeiras. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "“abel ferreira”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Abel admite final ruim em 2025 e diz trabalhar emocional no Palmeiras. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+      "thumb": "QUEM TEM RAZÃO?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Abel admite atuação ruim na final de 2025 e cobra evolução do Palmeiras",
+     "fonte": "Band",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUE1OXzVMY09vcExpQVAxdTNNYUxJOHFja0NmU3J5LVVKOUt3N0pTMm93dGRQdFFQdnJ4YTJZVHJBYXFMQUdGblBOS2I2M0V5N3Y3WTNjYmxnaVZNa2JBZ1o3ZmtmT0xMUndkQWZzSFVLR2IxUk9NOFQxRXZQcTlsM1B0U3N1ZmlPakhLcDFMS095NnhQYnlsQU5ocVlEMEhkNnVlQ09YQ0lxZHJCS2ZaOUdSa0MwbUgzZmR2NDAzOUcxam8?oc=5"
+    },
+    {
+     "titulo": "Abel admite final ruim em 2025 e diz trabalhar emocional no Palmeiras: 'Usar cabeça e coração'",
+     "fonte": "Jornal do Comércio",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPb3hMa1F6Vk5EdnpkeDdMRUpKX0hNRWFpWTVyT2FaUndDQWJtR1ViMW9tNnp3ak1paTFoZUV6ZnVtOUp2cmVwanV6RHZxWkdJREUydmx1amdLbVptTUVEX2xkNWY5S1RCM1U0ZWVkeXZtZ0xKSTRUT0RTdWxXd3ZRNGhGd2lGM29rUTdzMnZPRFRETjB6Qk94SGFpMll3eklubVlzSEtkTlphM3lSb2xWT0UtQzhNbU9OQlJVT2VWRmx3STRUWWtPam51YkZFWXVONU95ZUVNZWRXd05RU08xQTNvZUU0WnMwR2c?oc=5"
+    },
+    {
+     "titulo": "Abel Ferreira vê ano incrível do Palmeiras, mas lembra 2025 e pede: 'Temos que jogar melhor do que na última final'",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONWFiV1pDZjBaS1IzVE1pYW5vWC1UbUxoT21fazVDMnBCTnA0dkxMWl9yc1BVTUtvcmJlX29GSnlzR1owekVsUnhCcFBTeW1Qa0otQzJLRDRnYndZSlJ1NG81YlozQXM1RmlNeGt1TWMyU05QUXotTW9pVzVLcG9uOERmT3ZlWFpvQ2Q3T0lmTXhpci03UzNEVWNsaVVRNFM0X2d2WlE2dlZTZHZ0UTItV3huRnltTkE5bEhQN2FOeXVpd0l0V2F4Qnp3ME1BMjViWDM1VWc0Y3diUzRidnRIZzB3?oc=5"
+    },
+    {
+     "titulo": "Abel admite final ruim em 2025 e diz trabalhar emocional no Palmeiras: ‘Usar a cabeça e o coração’",
+     "fonte": "Estadão",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOFJsOVY3S2hvOEl4TGxQazhOaTk4eUg5aDVCNlNiV2taYWdYcmZRdlBPSWhJcnFEbG0xMFJUMEt1cXhJY29peWFBTjZvc3Nsdi1TX0ZyUmxseFAzYTJEc3kzT2h2bEkzWFdjZzdacU54R1BubXNZVlk0MWRrU2swM2ZDY2VJRHRfUmRFckk4YnZULVprSkJqY1FvXzVaUmoyUGdERkxCMFpwX3dCaGZwR1UyY0NlbS1ScVlFdC1MeGxVZk1GbHJDTVNzSHBWSXJGZG5EcDVPMNIB3AFBVV95cUxPYUItaVNSOEpRcjlYdHRVMkZXd0V4NWxsMlBRaWVSbS0zNTRZanZ2RkZvMXpXZXpIRmZYcU5vc09QcWw3cU9CcE5DTzA5UXVBY1l0Zmg1dkxXMTlnbUJKdHNadXJKSmsxYTVsQU5ETTFzTVZkS0Fyc2lVSFltNktPNHAwcGxPODFFZ1dUUDlDRXYzNzloNEZ3cWwwd1Jlb3ZyNWZZbUhuREtWNS1BMnlZNjcxcUt3OGk1aG54VHlELU5YdU5FaGJzb2NCTE1va2FtaEJzUk1qcFVVSThU?oc=5"
+    },
+    {
+     "titulo": "Abel tenta blindar Palmeiras de pressão antes de final: \"Pelo propósito traçado em janeiro\"",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM3ZLSUprWVpqLTJvSUpSeWd3VUExc2dhdFpBdkNNM0tZekFPdUdfWXp1blIzcUpJaTdhX0FJWjZlOTJGblVhWDdwSmNKcHlQbTc2dDZRTGVyWFdPYnduVHRuN2tkRFlFNFdPSGlqT2t3YkJaZmNZMkxwQXdKZnExYS1JZVBSU3dnUVJiUEVfdnM2eUxSdXJtcnZ2SEQ2UndnbmhGTm9wWXV3RTd6a1JWWTluMGhnanRiZlREWDdBb2hCa2ZYQmhxZGRyWWp4Y1JRdEJiUmJ3cXJsVVl4S2ZoRVpMR2JialpHb1RrMUprWdIB_gFBVV95cUxPWThJN0w4b3NRdjZnUUlneVczYVhXdE1EWEdES1ZNd0luZHllX3AxdVcyVFRMTXRtck85QmtqNnRMNTFjWVNUY05GRFJCd2gxTGN4XzdhaHN6dEtrRW5PX3hmem9fS3M0UlRQeVJFLWFQejg1eVpuUzRCQVNod3dmZmZsQW9HU3kxN3c5a2I3R09IQW8yZDlmdkpQVUp6aE0teGxZd20yMTNmRGItNGtGUDZtVnd0YkE3R0xnOW05MGlIZ2o3ZVhuZHFyUzJOU2drRmczdjBSOVNzeHJXekZKUUhPWWpHQTdYaXFzVm1IQmRuNTBIMDNCWlZJMVRMZw?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "QXtJ8WhRnLE",
+      "titulo": "BOMBA: ABEL ADMITE OFERTAS PARA SAIR DO PALMEIRAS E ABRE O JOGO! VEJA A DECLARAÇÃO",
+      "canal": "Cortes do Nicola",
+      "views": 366,
+      "likes": 9,
+      "comentarios": 0,
+      "publicado": "2026-11-25T20:30:06Z",
+      "duracao_s": 77,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=QXtJ8WhRnLE"
+     }
+    ],
+    "consulta": "Palmeiras Abel admite ruim",
+    "n_videos": 1,
+    "mais_de": false,
+    "views": 366,
+    "top": [
+     {
+      "titulo": "BOMBA: ABEL ADMITE OFERTAS PARA SAIR DO PALMEIRAS E ABRE O JOGO! VEJA A DECLARAÇÃO",
+      "canal": "Cortes do Nicola",
+      "views": 366,
+      "url": "https://www.youtube.com/watch?v=QXtJ8WhRnLE",
+      "publicado": "2026-11-25T20:30:06Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Leila Pereira faz promessa pelo título da Libertadores: \"Vou ensaiar\"",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Palmeiras"
+   ],
+   "foco": true,
+   "nota": 70.7,
+   "sinais": {
+    "busca": 75,
+    "aceleracao": 63,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "leila pereira",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "titul|faz|leila|liber",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Leila Pereira faz promessa pelo título da Libertadores. Isso é bom ou ruim para o Palmeiras? Responde antes de ver a minha análise.",
+    "titulo_thumb": "E AGORA, PALMEIRAS?",
+    "pergunta_enquete": "Qual sua opinião: Leila Pereira faz promessa pelo título da Libertadores: \"Vou ensaiar\"?",
+    "tecnica": "Pergunta aberta",
+    "ganchos": [
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Leila Pereira faz promessa pelo título da Libertadores. Isso é bom ou ruim para o Palmeiras? Responde antes de ver a minha análise.",
+      "thumb": "E AGORA, PALMEIRAS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Leila Pereira faz promessa pelo título da Libertadores. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "“leila pereira”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Leila Pereira faz promessa pelo título da Libertadores. Por trás disso, tem dois lados que não querem a mesma coisa.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Leila Pereira faz promessa pelo título da Libertadores. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
+      "thumb": "NÃO É BEM ASSIM"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Leila Pereira faz promessa pelo título da Libertadores: \"Vou ensaiar\"",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOdjZ3OEJYdVlCQXBJUEMzRnQ0d29BcEdtdXhxbGM2R3BsdlZrODN4YzV4WkE2T3UtdmNvbzNkMndweVRaZEhlMTEyVW11bmczZThyR3E1emhQV09BSHZqeDV1ZEhnUV9lb0RrcVdSdFpVTFBkdFl1aGQyZ3djdUlyd0lxOUtNS1hrYzQyQXdKRmJSN284TEdTaWdwZVV2MEFsN2lWZVBsZEl2Qk1GcFRpdVg5d3JVcUZNSnF3WmVxV1VzbFN2Ti1sWDVRRGxUTmlFZjg0Sm8xekp6WEduSDdfUWxSQUVoT2VSOEdpX1lzX1lPMkQ3WmlBSXFqQQ?oc=5"
+    },
+    {
+     "titulo": "Leila faz promessa por título do Palmeiras na Libertadores: \"Danço funk até o chão\"",
+     "fonte": "Howl.Link",
+     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE53Y1Rrb0NHUEpLOXJlN2kyaDdvM2tIbWxSWnF6dDYzeFMtZDdzR3pOSnNXY2ZWWUppQ1ln?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Abel revela o que disse ao elenco do Palmeiras após a Libertadores de 2025",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Palmeiras"
+   ],
+   "foco": true,
+   "nota": 69.9,
+   "sinais": {
+    "busca": 75,
+    "aceleracao": 68,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": 61
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "abel ferreira",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 3,
+   "assinatura": "palme|abel|revel|elenc",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Abel revela o que disse ao elenco do Palmeiras após a Libertadores de 2025. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+    "titulo_thumb": "MEU PALPITE",
+    "pergunta_enquete": "Qual sua opinião: Abel revela o que disse ao elenco do Palmeiras após a Libertadores de 2025?",
+    "tecnica": "Aposta",
+    "ganchos": [
+     {
+      "tecnica": "Aposta",
+      "texto": "Abel revela o que disse ao elenco do Palmeiras após a Libertadores de 2025. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "O torcedor está digitando “abel ferreira” no Google agora. A resposta não é tão simples.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Abel revela o que disse ao elenco do Palmeiras após a Libertadores de 2025. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Abel revela o que disse ao elenco do Palmeiras após a Libertadores de 2025. Parece notícia pequena. Não é.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Abel revela o que disse ao elenco do Palmeiras após a Libertadores de 2025. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
+      "thumb": "E AGORA, PALMEIRAS?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Abel ressalta força do elenco do Palmeiras: \"Não ganhamos só com onze\"",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNT2ZLVjJ0SXJ3RG9vUjdSQVZmYXY4VXFIX1dkSy0xQmpIeWNuNGlBQnlKX1Zfcmx4TWhRXzV5WFlrMl9obi1kYWJPZlM0NWhKeElGbzBMVXJhSnhSaDU5UERzNmhxeHRLMVlId0xOTFFWanZuNGdkQ3NXUkpOR1BydE9RbnNjVlU0R3JjVUR2SXBIS0laa042S2MxT0VqTGJSOVpXLVBnYVZfaTR1MVZKSHhxUlhYdEh5N2l2c2dpWXUzSDJSQ3RuMHhNRlE3c1R2ZGZIV2tQUFVYRXBqbUwxLW5PYjk1OUV1cVNQSnh3?oc=5"
+    },
+    {
+     "titulo": "Abel revela o que disse ao elenco do Palmeiras após a Libertadores de 2025",
+     "fonte": "Band",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOUhaQ3FIV1NsUklwYThJWUpTa0NjUlB3LTRtYjBXVUJTMldUbDUzRkl6WVlodm9RckpXd0JrX2FZZEFNZEc2M2dnamJPWEFlYTBLZHAwVWFRTVRkaVV3bUxieTB5Q3NxZHA1OE1CNUdDTHFkc19UYkZrOS1wRjY0cnFRMjRJM3l3RzRxQXhPaEduSmpwMU9jVEhCM0hnZ1ZWMG9ieFBxd3UyaUJ3bW1MN0h2NDlIdjhUZS15R2lITHV1OER5NWNqSHNNZw?oc=5"
+    },
+    {
+     "titulo": "Abel Ferreira revela o que pretende fazer após deixar o Palmeiras",
+     "fonte": "Band",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM196V25XS1FnQzMwSVBNc3FjcVdWekJXQ08yRGg4SlpmbE1zSWR0c1Jqc0YtaWEwd082bVJVV09sczFaYkZoQklzQ0VYbHFBdHRBSFlrdFV6aF8xU29hRl9KUjd6eUMwOHlPU2Z6ekRPSWhwSDA5OWJvN2dfblMwd2VIMFpPX0xYYmhVaWc5Z1FscjlvOW9rYkNRUXZZYWNBREp4M2RHcm1fajh0YW55amxkSDd6Wm83c2xRVmdXdw?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [
+     {
+      "id": "8rE8WAyz724",
+      "titulo": "LEILA revela o futuro de ABEL se o PALMEIRAS perder a final",
+      "canal": "O Inspetor",
+      "views": 9420,
+      "likes": 63,
+      "comentarios": 1,
+      "publicado": "2026-11-27T15:30:08Z",
+      "duracao_s": 6,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=8rE8WAyz724"
+     },
+     {
+      "id": "g5EAU6lvMaE",
+      "titulo": "VERDÃO JÁ ESTÁ NO URUGUAI! ABEL REVELA PROMESSA DE LEILA E CORINTHIANS ENTRA EM PÂNICO!",
+      "canal": "TV Palestra com Renata Clappis",
+      "views": 473,
+      "likes": 67,
+      "comentarios": 16,
+      "publicado": "2026-11-26T21:12:07Z",
+      "duracao_s": 794,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=g5EAU6lvMaE"
+     },
+     {
+      "id": "Mum92EahzXI",
+      "titulo": "ABEL REVELA ESTRATÉGIA DO PALMEIRAS PARA A FINAL CONTRA O ESTUDIANTES!",
+      "canal": "FUTELUK",
+      "views": 4,
+      "likes": 1,
+      "comentarios": 0,
+      "publicado": "2026-11-27T19:08:57Z",
+      "duracao_s": 129,
+      "live": false,
+      "url": "https://www.youtube.com/watch?v=Mum92EahzXI"
+     }
+    ],
+    "consulta": "Palmeiras Abel revela disse",
+    "n_videos": 3,
+    "mais_de": false,
+    "views": 9897,
+    "top": [
+     {
+      "titulo": "LEILA revela o futuro de ABEL se o PALMEIRAS perder a final",
+      "canal": "O Inspetor",
+      "views": 9420,
+      "url": "https://www.youtube.com/watch?v=8rE8WAyz724",
+      "publicado": "2026-11-27T15:30:08Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "VERDÃO JÁ ESTÁ NO URUGUAI! ABEL REVELA PROMESSA DE LEILA E CORINTHIANS ENTRA EM PÂNICO!",
+      "canal": "TV Palestra com Renata Clappis",
+      "views": 473,
+      "url": "https://www.youtube.com/watch?v=g5EAU6lvMaE",
+      "publicado": "2026-11-26T21:12:07Z",
+      "do_canal": false
+     },
+     {
+      "titulo": "ABEL REVELA ESTRATÉGIA DO PALMEIRAS PARA A FINAL CONTRA O ESTUDIANTES!",
+      "canal": "FUTELUK",
+      "views": 4,
+      "url": "https://www.youtube.com/watch?v=Mum92EahzXI",
+      "publicado": "2026-11-27T19:08:57Z",
+      "do_canal": false
+     }
+    ]
+   }
+  },
+  {
+   "tema": "Leila Pereira coloca Corinthians e São Paulo como rivais e descarta Flamengo",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Flamengo",
+    "Corinthians",
+    "Vasco"
+   ],
+   "foco": true,
+   "nota": 69.9,
+   "sinais": {
+    "busca": 75,
+    "aceleracao": 61,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "leila pereira",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "leila|perei|flame|dispa",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "O torcedor está digitando “leila pereira” no Google agora. A resposta não é tão simples.",
+    "titulo_thumb": "VOCÊ PESQUISOU",
+    "pergunta_enquete": "Qual sua opinião: Leila Pereira coloca Corinthians e São Paulo como rivais e descarta Flamengo?",
+    "tecnica": "Dado",
+    "ganchos": [
+     {
+      "tecnica": "Dado",
+      "texto": "O torcedor está digitando “leila pereira” no Google agora. A resposta não é tão simples.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Leila Pereira coloca Corinthians e São Paulo como rivais e descarta Flamengo. Por trás disso, tem dois lados que não querem a mesma coisa.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Leila Pereira coloca Corinthians e São Paulo como rivais e descarta Flamengo. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Leila Pereira coloca Corinthians e São Paulo como rivais e descarta Flamengo. E agora: o que muda para o Flamengo?",
+      "thumb": "E AGORA, FLAMENGO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Leila Pereira coloca Corinthians e São Paulo como rivais e descarta Flamengo. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Provocou o Flamengo? Leila Pereira dispara ao ser questionada se vai para o Vasco: 'Começaram a dar escândalo...'",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZzgtYlZVal9HZFJ6NzhiU2Z3c01tNmpUcm5NaDA0cWR4R2lHWmlGdExLM3Q3cHBNMGhtTXdOMXlIRW5uNjluQlhwamdLMnlrZDBSYVBVQzYyUGFoSnA3dkhwLV9uUFA4RGhDV3RKRHpxZ1BlMzg1Q0NfQkw0dG5FX1BCV2F5OW1fMXE1M25jT01MQm40ejR3cy1SWjh4S1h4OW01cTFCTDlvZDI2UDZYc2VrbEVjWERDc29tM3FPcHY2dE83cUkzaEVseE5QMEtxcHRfQlh3?oc=5"
+    },
+    {
+     "titulo": "Leila Pereira coloca Corinthians e São Paulo como rivais e descarta Flamengo",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTc5X0pxMDJoU3k1Y1AtUlEwSVdsWmRyVGVGY2V1V0FJSW5pdGVJUmNoaXFOTFJQVk5mUWNKdWlxNmR3STVCSlkwdUpoTzlTdlY3VE1YbWZ5QTJaOTlEazFJRFZUNUdpVU5jUTFTUHhzWXZ2WGNBVjh1U0xrOVRNdEdhaU4zQzhCbFBURTlRYWFrZjdudjdtRExIUk4xWmhmYlR5Q2V4c09mNlVUZGdOS3BSLVpwcm5MR1ZPMXZnNGxUcUQwc2VPdtIByAFBVV95cUxPVTc5X0pxMDJoU3k1Y1AtUlEwSVdsWmRyVGVGY2V1V0FJSW5pdGVJUmNoaXFOTFJQVk5mUWNKdWlxNmR3STVCSlkwdUpoTzlTdlY3VE1YbWZ5QTJaOTlEazFJRFZUNUdpVU5jUTFTUHhzWXZ2WGNBVjh1U0xrOVRNdEdhaU4zQzhCbFBURTlRYWFrZjdudjdtRExIUk4xWmhmYlR5Q2V4c09mNlVUZGdOS3BSLVpwcm5MR1ZPMXZnNGxUcUQwc2VPdg?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Corinthians x Grêmio: onde assistir, horário e escalações",
+   "categoria": "Arbitragem e VAR",
+   "clubes": [
+    "Corinthians",
+    "Grêmio"
+   ],
+   "foco": true,
+   "nota": 69.9,
+   "sinais": {
+    "busca": 50,
+    "aceleracao": 71,
+    "midia": 67,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "corinthians x grêmio",
+   "termos_trends": [],
+   "n_fontes": 4,
+   "n_manchetes": 4,
+   "assinatura": "escal|gremi|corin|prova",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte de debate (30 a 60 s)",
+    "gancho": "Donos analisa provável escalação do corinthians contra o grêmio. Juiz de um lado, o Corinthians do outro: a imagem vai mostrar quem tem razão.",
+    "titulo_thumb": "QUEM TEM RAZÃO?",
+    "pergunta_enquete": "Qual sua opinião: Corinthians x Grêmio: onde assistir, horário e escalações?",
+    "tecnica": "Conflito",
+    "ganchos": [
+     {
+      "tecnica": "Conflito",
+      "texto": "Donos analisa provável escalação do corinthians contra o grêmio. Juiz de um lado, o Corinthians do outro: a imagem vai mostrar quem tem razão.",
+      "thumb": "QUEM TEM RAZÃO?"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Todo mundo viu o mesmo lance e cada um enxergou uma coisa. A regra é mais clara do que parece.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Donos analisa provável escalação do corinthians contra o grêmio. Foi ou não foi? Responde nos comentários antes de ver a minha análise.",
+      "thumb": "E AGORA, CORINTHIANS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Minha aposta: esse lance ainda vai ser assunto a semana inteira. Comenta o seu palpite.",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Corinthians x Grêmio: onde assistir, escalações, horário e arbitragem",
+     "fonte": "Jornal do Comércio",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN1pVUEZTMm1YR2E1dzdGelhqbFdLSERhM2Z2ak1SWlhIQ3V1eW5ndVE3cUJ3YkJoLXZIMVFjX3p5UGYxRDFOLTRvZHFjUTgwWFpPc1hrdlAyWVd0SS0wMlV0aW1mNGVHMkVUWXRtck02Wkh1WGpfa3JVenl2Q1F4dmpYekxvbEdncjU4TVg5T25ERzhDUnFaTTA1MUZCTTFVQjIwXy1wbkZ4REdCYjluRERuOWJHeDh4LWk1U2p1ejF2Y1Z2a0RaTw?oc=5"
+    },
+    {
+     "titulo": "Escalação do Grêmio: Kannemann volta aos treinos; veja o provável time contra o Corinthians",
+     "fonte": "GZH",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNRTlKM1UzTGpUQmU1R1kwdUFXZXJEVUNzQVZiVmRrYmNfYkZTRklldGFIN0JXMUJPZVpzVS14cDFuTmhkTGJuX1ZHYzVCY1BpTnVxSnN0b1BvYUc1aHRNS2tQbHhhb3JCelBXUEFvd2JhcE5rVzFNRTkxeHdIa1pfMzRJRnRUaGNaMm5pODRZSGMtSGlFN3R5UTNVQW5mN0JzSjdoZkItR09GSG14NEZKbVhodXotaHZuUTZHVGZQdWRXUkhpeE9zR2tYajJqMDNFc08zbVFKOFQwUFdHNnJsMVd5aDhnWllXSE9pamh2NlgwNVdxYTBXdms2em5fdzhMOUpQZklFc3M2dElVYWlMVE5n?oc=5"
+    },
+    {
+     "titulo": "DONOS ANALISA PROVÁVEL ESCALAÇÃO DO CORINTHIANS CONTRA O GRÊMIO",
+     "fonte": "band.com.br",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbFctQVZzVHBpMm5lbUI2QTc0dTdHUFJEMGFzV05oemlZNktCR1VadFAzWXdIcllfT3lYOUJFS0xqclVOek5UTlhCOE9iZGcxN0kyQVhOdFptU3A2UzhVQXJLNVlRanVINERENmptMmMxbWhKVnVyRVJuOGxZWjFraWZJRENzMnRucGV4a2xRc3FKc0FsWTlWYUJRRDhWcVVER2UyaU9GZk9nMUI4SXhtZm9Hcm9lSEph?oc=5"
+    },
+    {
+     "titulo": "Corinthians x Grêmio: onde assistir, horário e escalações",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFlNbkJLWFJfeDF2RlZRQkpvclN1aWtBYUVKSk9rZW9IamVmX19JRmR2OWRxNVdVSWdLNEFBTGlOYklsOFh2MENJMUxGeS1sN3BUSzdWZVhSRnhSbUJoWU1wejk2aUdaNGQ0Wk5MTHphNGVidEJTckpSSnJxbm1ROGRrc3Vad3h4UVktM0IwQ0tRaTFUaG1ORkVITmNmVWJx?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Abel rejeita outro projeto na América do Sul: “aqui só Palmeiras”",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Palmeiras"
+   ],
+   "foco": true,
+   "nota": 69.9,
+   "sinais": {
+    "busca": 75,
+    "aceleracao": 61,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "abel ferreira",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "ameri|abel|sul|palme",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Abel rejeita outro projeto na América do Sul. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
+    "pergunta_enquete": "Qual sua opinião: Abel rejeita outro projeto na América do Sul: “aqui só Palmeiras”?",
+    "tecnica": "Contradição",
+    "ganchos": [
+     {
+      "tecnica": "Contradição",
+      "texto": "Abel rejeita outro projeto na América do Sul. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Abel rejeita outro projeto na América do Sul. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
+      "thumb": "E AGORA, PALMEIRAS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Abel rejeita outro projeto na América do Sul. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "“abel ferreira”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
+      "thumb": "VOCÊ PESQUISOU"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Abel rejeita outro projeto na América do Sul. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
+      "thumb": "QUEM TEM RAZÃO?"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Abel rejeita outro projeto na América do Sul: “aqui só Palmeiras”",
+     "fonte": "OneFootball",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa20zU0h6T1hxVkNacU1NUEVDdHhub1hILVBDVUNYenotUy1JZE5hSkd0aEJPYnRfQ2lHbVpzTUVqdTNBNzFqZXVIT1RrQWU0TFhDcUdVLUYzdVRqUF9CODJXTFpYZHpmZ21KVjNjd1Y0V2FFNFpqSWUtVTFSLVBfbzd0aG5kR2trbjEwQ3RfcVJUdDdfOFJENjdCdlFKX3F1M2k1Rnd3WFB6MTg?oc=5"
+    },
+    {
+     "titulo": "Abel Ferreira diz que não treinará outra equipe da América do Sul depois do Palmeiras: \"Já chega\"",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTUJEVEdBdTdDdDFmVXhUT2t4U0JNempRY0E4UDhpYUJvbXFSVHNZalc5UjlMNkVLZEFOc0l0YXIxUnN2cEVXY19LWjdMR2R6andaUTNyV3RXN1VjQlEtSmlvY1FzVVdkVV9yTndPS0tpRUQ1dFJnd3k2dGdXZndoU0JzeE9BYWFFaUVwVXBuSE1NcDlSa2xPdUtCWms0N2paVjRPNUQ3NGdhZXF5d1NsRFRKdVBBaUhZMGFWY0pyZk1UUkVicjVSaEZhdW16ajhVQ1FBZmFxVTMwVThwT1NnOG5kQ3pvQzRZdzNBYnVDZHVHZHNTT2VR0gGGAkFVX3lxTE9jVlU2VFdjRlNPS041Sk91YS00Y3hBZzVmVmZNVGFvYnBCcERlN2VwaHRjVnhrbWlhM0RqY29JRHFHcTNGOFFoa1I4Zk5DcFRMSXhLR25HMUJFYXVPZi1jUmV0MXpCbjBCbW9VUmtnTERQTjE2VVI5SGNXbHhPbEtXTUl3bWxkbUN2MjA1NmhHbUhGT09pakJNd1o5ZXcwT3ptVUVmUGE5R2VWbWlZOFFxUUtYRUJEZ0dLaXYwR2F5Y1dMSlM1X2FtQUNNbjdsZmhRY1Z5UVFVejdqMzByVVNVWVFrbURhSHdYSldUWW9URWU1eEJkcW5NclphMW8xY3k4eEJrOVE?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Leila deixa porta aberta para trocar de clube após mandato no Palmeiras",
+   "categoria": "Notícia do dia",
+   "clubes": [
+    "Palmeiras"
+   ],
+   "foco": true,
+   "nota": 69.8,
+   "sinais": {
+    "busca": 75,
+    "aceleracao": 65,
+    "midia": 46,
+    "aderencia": 100,
+    "youtube": 64
+   },
+   "fator_categoria": 1.0,
+   "trafego_google": 0,
+   "busca_torcedor": "leila pereira",
+   "termos_trends": [],
+   "n_fontes": 2,
+   "n_manchetes": 3,
+   "assinatura": "leila|palme|clube|manda",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Enquete e provocação (30 s)",
+    "gancho": "Leila deixa porta aberta para trocar de clube após mandato no Palmeiras. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
+    "titulo_thumb": "E AGORA, PALMEIRAS?",
+    "pergunta_enquete": "Qual sua opinião: Leila deixa porta aberta para trocar de clube após mandato no Palmeiras?",
+    "tecnica": "Pergunta aberta",
+    "ganchos": [
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Leila deixa porta aberta para trocar de clube após mandato no Palmeiras. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
+      "thumb": "E AGORA, PALMEIRAS?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Leila deixa porta aberta para trocar de clube após mandato no Palmeiras. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
       "thumb": "MEU PALPITE"
      },
      {
@@ -1254,1364 +1555,127 @@
      },
      {
       "tecnica": "Conflito",
-      "texto": "Martinelli, do Fluminense, volta ao radar do Palmeiras para 2027. Tem gente ganhando e gente perdendo com isso, e eu vou dizer quem.",
-      "thumb": "PALMEIRAS x FLUMINENSE"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Martinelli, do Fluminense, volta ao radar do Palmeiras para 2027. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
-      "thumb": "NÃO É BEM ASSIM"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Fluminense define preço por Martinelli, alvo do Palmeiras, e prioriza venda de Hércules",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWFdUTUoxNWpxQkJTaHRIaHFtcXZJTlRQQjgtaVlXM29HRXBNd2lRLTBJVWxuMGRTc2pIYmVMdVJtWngwcmtkVU1hbllsWVl4bHRTMk44aWNaNktySGh5WFhXNjM1ZnlMaXR4YVlWOUM1czZPTVZFWXNPU0E2RGIxRERBWnBWVWNacjhRcGlSZnA1QTNXekFOWUpyVTlzV1M4TVJRcjVwQlVSdUk2Y21GTThNeXJ2VnlRTHlIeUtpYk1OM2tUcXBLR0dNb3p6dWtTSjJ4MlpGcTQ5LXNrTHJDdExkOA?oc=5"
-    },
-    {
-     "titulo": "Martinelli, do Fluminense, volta ao radar do Palmeiras para 2027",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYl9qdXV1WGctVnB1ZXo5R05CMDktRVFiNVk2MThCYWZHOURfSm81NnFCbkY5cWdnYUxqd1A5eG9oNFpEVFJFSHBVUEhyd3I4ZzE1aU5MQzhjV0RQakRyM21NYS04ZTJFVGxYdHMtZDdMUC1IeUZtYVY0WW5KeVJCcm80eFlLRnQwQ0ZBc2JXVm1jTTMwbmphTTgwYnRfR2ttWW5YRWpSMnVWZnBDRndXTG5SSkJyN3h4OFhrMERkaG9xYm5RMzdfQzNyc3lSRC1pSVF3anJhelBKZ25YWHNaZ1pIYXNOMjU1M21idzR3WlhQY09CV3pMdUR3?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "9AvKd31XcrA",
-      "titulo": "MERCADO DA BOLA: Martinelli no radar do Palmeiras, Vasco sonda Marcos Antônio, Flu quer Jair E+",
-      "canal": "DL Football",
-      "views": 8016,
-      "likes": 392,
-      "comentarios": 4,
-      "publicado": "2026-11-25T14:10:32Z",
-      "duracao_s": 78,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=9AvKd31XcrA"
-     },
-     {
-      "id": "xRLhfu7ls-g",
-      "titulo": "🔥 NAPOLI TEM INTERESSE EM JOÃO FÉLIX | PSG MIRA CARLOS FORBS | MARTINELLI NO RADAR DO PALMEIRAS E+",
-      "canal": "Estevis",
-      "views": 4934,
-      "likes": 380,
-      "comentarios": 14,
-      "publicado": "2026-11-25T15:00:20Z",
-      "duracao_s": 577,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=xRLhfu7ls-g"
-     },
-     {
-      "id": "y1GJriny79g",
-      "titulo": "🚨 Felipe Anderson saindo, Ganso renovando e Martinelli no radar do Palmeiras! #Palmeiras #Fluminense",
-      "canal": "Fut Notícias",
-      "views": 1150,
-      "likes": 23,
-      "comentarios": 0,
-      "publicado": "2026-11-26T13:59:40Z",
-      "duracao_s": 39,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=y1GJriny79g"
-     },
-     {
-      "id": "_shOI4q5rXM",
-      "titulo": "DESTAQUE DO FLUMINENSE, MARTINELLI ENTRA NA MIRA DO PALMEIRAS",
-      "canal": "NETFLU",
-      "views": 154,
-      "likes": 22,
-      "comentarios": 0,
-      "publicado": "2026-11-25T15:42:54Z",
-      "duracao_s": 113,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=_shOI4q5rXM"
-     },
-     {
-      "id": "Xxs9hhwKGoU",
-      "titulo": "A PEDIDO DE ABEL FERREIRA, PALMEIRAS AVALIA PROPOSTA POR MARTINELLI",
-      "canal": "NETFLU",
-      "views": 60,
-      "likes": 4,
-      "comentarios": 0,
-      "publicado": "2026-11-26T15:26:55Z",
-      "duracao_s": 131,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Xxs9hhwKGoU"
-     }
-    ],
-    "consulta": "Palmeiras Martinelli radar",
-    "n_videos": 5,
-    "mais_de": false,
-    "views": 14314,
-    "top": [
-     {
-      "titulo": "MERCADO DA BOLA: Martinelli no radar do Palmeiras, Vasco sonda Marcos Antônio, Flu quer Jair E+",
-      "canal": "DL Football",
-      "views": 8016,
-      "url": "https://www.youtube.com/watch?v=9AvKd31XcrA",
-      "publicado": "2026-11-25T14:10:32Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "🔥 NAPOLI TEM INTERESSE EM JOÃO FÉLIX | PSG MIRA CARLOS FORBS | MARTINELLI NO RADAR DO PALMEIRAS E+",
-      "canal": "Estevis",
-      "views": 4934,
-      "url": "https://www.youtube.com/watch?v=xRLhfu7ls-g",
-      "publicado": "2026-11-25T15:00:20Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "🚨 Felipe Anderson saindo, Ganso renovando e Martinelli no radar do Palmeiras! #Palmeiras #Fluminense",
-      "canal": "Fut Notícias",
-      "views": 1150,
-      "url": "https://www.youtube.com/watch?v=y1GJriny79g",
-      "publicado": "2026-11-26T13:59:40Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Corinthians x Grêmio: horário, onde assistir e escalações pelo Brasileirão",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Corinthians",
-    "Atlético-MG",
-    "Grêmio"
-   ],
-   "foco": true,
-   "nota": 73.3,
-   "sinais": {
-    "busca": 55,
-    "aceleracao": 48,
-    "midia": 96,
-    "aderencia": 100,
-    "youtube": 86
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "corinthians x atletico mg",
-   "termos_trends": [],
-   "n_fontes": 9,
-   "n_manchetes": 12,
-   "assinatura": "assis|corin|escal|brasi",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Corinthians x Grêmio terá transmissão exclusiva no streaming. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
-    "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Corinthians x Grêmio: horário, onde assistir e escalações pelo Brasileirão?",
-    "tecnica": "Aposta",
-    "ganchos": [
-     {
-      "tecnica": "Aposta",
-      "texto": "Corinthians x Grêmio terá transmissão exclusiva no streaming. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "132 mil visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
-      "thumb": "TODO MUNDO VIU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Corinthians x Grêmio terá transmissão exclusiva no streaming. Por trás disso, tem dois lados que não querem a mesma coisa.",
+      "texto": "Leila deixa porta aberta para trocar de clube após mandato no Palmeiras. Nem todo mundo no Palmeiras vai gostar disso, e eu vou explicar por quê.",
       "thumb": "QUEM TEM RAZÃO?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Corinthians x Grêmio terá transmissão exclusiva no streaming. A leitura óbvia é uma. A que importa é outra.",
+      "texto": "Leila deixa porta aberta para trocar de clube após mandato no Palmeiras. Parece notícia pequena. Não é.",
       "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Corinthians x Grêmio terá transmissão exclusiva no streaming. Isso é bom ou ruim para o Corinthians? Responde antes de ver a minha análise.",
-      "thumb": "E AGORA, CORINTHIANS?"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Fluminense x Cruzeiro: onde assistir, horário e escalações",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOTZyVU50ejEwVUFUYmZ5aUFHeEpMTVYyUmNfLXR2bnNSZUVwOEtQeG5jN1VzT3cyMVk4OWRWa3FOc1ppVWpoSGtlUUdpUE9pb19lWjVZVE9ER1gxU09JNi1JQkRIdlhYa1ZHVXBCUFpMMXotVkxqekIwb1djVTNMbVE4cUFaSWhSMlVzTFIxY1JaTHVMbzdsenRhYUVDa1Jwd1E?oc=5"
+     "titulo": "Leila deixa porta aberta para trocar de clube após mandato no Palmeiras",
+     "fonte": "Sport Insider",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOUU0VHQ0SHVSbGFWTVZMenRNOE1HbFVETHBCUmxVNG1JRk5WRXJkdVR0NGNxRFhmdGc5S2I4T01Lb3Y3bWVfczdfNklqM1RmdlZZX1ZiSUpXSDlobFZQM0g2dzlITXRkeFFDOGVrWUhsZUY2cDRJZjdRS0VsWHJaX01SYXRZeE1IQWMwdG9WQkNUNlJVeEZHYURaVGpkVTFMdml6T3RIUEpNUENseU5n?oc=5"
     },
     {
-     "titulo": "Corinthians x Grêmio: horário, onde assistir e escalações pelo Brasileirão",
-     "fonte": "GZH",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdGhjUDNadEFNUDFSdUlOdDUzeHNWVzkyUkg4WU5wQXpUMTR0RnRsR2NUMTllRVRPOVdOTVRKVmRreHI3OXdrajNXT0d1TmI0bDdyX1VTSDd1S2FObmpvQlRYZnFCUWdRQk1KRlVaeGwwNk9qaXg5bXJpTkVHRG83WjA1aFRyTGtLcUlQT1B1RV85RGZzQzhLUnhaamZmdWpEMGFCT2RhR21MdjFjRkduYXFlbEs5VFVLM0dQLXJsWFBtMmtEMjZ4Tzd4cHlEaUdRYmtiT0pxNUFFZms1V2s5ZW9NQ1ZWWFc2SkxQSW81Mm5WYXhnX3JFSVdvUQ?oc=5"
-    },
-    {
-     "titulo": "Corinthians x Grêmio: confira as prováveis escalações e onde assistir",
-     "fonte": "GAZ",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFFhYVVMdWN5bUx5N0ktQlpTVmczMFhzVms2VC1TamhRRFhUendmUnZvYWVjX0x5SE1TMFdpY1FRZUp2dF82ZXlvSzVTNUI0TThLV3NpVE5qemxoMlhXTzM2MUZzXzlFMjhkZkh5N0ktVlI3OXZZbkFHYThLeUNmd2diMTh6LXBtM3dxcW1KR3JFNDRtcUFZ?oc=5"
-    },
-    {
-     "titulo": "Inter x Bragantino: horário, onde assistir e escalações pelo Brasileirão",
-     "fonte": "GZH",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPLW9vS2g3RHNia19pMnNFT3JwcnBWaFdRWFFBZGhQM0ZadXZoV2JxV09iUDFmdFd4dnNXMnVVVlhQZER3cHBUMzBMaVUtOTZXSmZ5WFZ6b3A3cGU2ZHdQNmduRW1EQ1JVdFdoY2tHSDQzbDNyRmZseTVrUm5lQzAzdDBwTnBORUtuS3AxbU9ESldwUzlpV2VxOF9UVlhKdFpLaTJPZDU4eWMwaGs1Z2xHdmFKU1ZlbmdTaFF2MEZsMEEzaXFLR1NFQlM0R09fTTFwOENDb1NlTURsbXh5WlNoRXRvRzVOVEw5VV9neWhhVnR5ZndvUV9Z?oc=5"
-    },
-    {
-     "titulo": "Corinthians x Grêmio terá transmissão exclusiva no streaming: saiba data, horário e onde assistir",
-     "fonte": "VEJA",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSFBrNWZtX2FPTHAtdDFSQmhDbkxsbXlVamU5NUpSY3NHY3dYQWZzcVdoVnB1OUN2M1JlT0UyOFF0MzVNRzU3aEc0d1Y3djZGM3owRDVtOXZDN1VlVFVnSVdRRjFqa1JlOXYtZVdMZXVXcnBZZ3BQaWFQeXgtN0NWaEw1MVJKMDMtSDF6M0tRWVVQX0dSZDNiRnp0LXdyMFZLeHp3eUFtbzBIRTBZNnViNEd6SnV3YWtPaVExTFhDYk1kUlNLeGJraVhR?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "uNOIN5FGQZ0",
-      "titulo": "RONALDO ANALISA PROVÁVEIS TIMES DE ATLÉTICO-MG X CORINTHIANS",
-      "canal": "Jogo Aberto",
-      "views": 34180,
-      "likes": 388,
-      "comentarios": 10,
-      "publicado": "2026-11-25T16:39:53Z",
-      "duracao_s": 173,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=uNOIN5FGQZ0"
-     },
-     {
-      "id": "88vAPE90VQU",
-      "titulo": "MP pede INTERVENÇÃO no Corinthians e a semana pega fogo 😱🔥",
-      "canal": "Camisa 17 oficial",
-      "views": 14870,
-      "likes": null,
-      "comentarios": 12,
-      "publicado": "2026-11-25T00:30:16Z",
-      "duracao_s": 71,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=88vAPE90VQU"
-     },
-     {
-      "id": "h62GUM890mM",
-      "titulo": "PRELEÇÃO ATLÉTICO X CORINTHIANS | BRASILEIRÃO 2026 | ESCALAÇÕES, TRANSMISSÃO, ARBITRAGEM, DESFALQUES",
-      "canal": "Canal do Frossard",
-      "views": 12553,
-      "likes": 713,
-      "comentarios": 52,
-      "publicado": "2026-11-25T09:30:13Z",
-      "duracao_s": 1126,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=h62GUM890mM"
-     },
-     {
-      "id": "mEeP_Ex010E",
-      "titulo": "MUDANÇAS NO TIMÃO! PROVÁVEL ESCALAÇÃO ATLÉTICO MG X CORINTHIANS",
-      "canal": "IDENTIDADE CORINTHIANA",
-      "views": 10933,
-      "likes": 123,
-      "comentarios": 3,
-      "publicado": "2026-11-24T22:42:19Z",
-      "duracao_s": 321,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=mEeP_Ex010E"
-     },
-     {
-      "id": "8C76VZRnIOg",
-      "titulo": "EMPATE AMARGO EM BH - CORINTHIANS 1 X 1 ATLÉTICO MG",
-      "canal": "IDENTIDADE CORINTHIANA",
-      "views": 9991,
-      "likes": 578,
-      "comentarios": 29,
-      "publicado": "2026-11-26T04:37:38Z",
-      "duracao_s": 106,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=8C76VZRnIOg"
-     },
-     {
-      "id": "S2q0EnT9Alk",
-      "titulo": "VITINHO SOLTA BOMBA!! RESCISÃO NA FIFA | POR ATRASOS DE PAGAMENTOS E MAIS....",
-      "canal": "Fiel Torcida!",
-      "views": 9630,
-      "likes": 62,
-      "comentarios": 1,
-      "publicado": "2026-11-24T22:48:41Z",
-      "duracao_s": 42900,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=S2q0EnT9Alk"
-     },
-     {
-      "id": "kVrCouBPbyk",
-      "titulo": "VESSONI SOLTA BOMBA!! NOVO CENTROAVANTE | WILLIAN JOSÉ CHEGA DE GRAÇA...",
-      "canal": "Fiel Torcida!",
-      "views": 8822,
-      "likes": 96,
-      "comentarios": 2,
-      "publicado": "2026-11-25T22:43:16Z",
-      "duracao_s": 42900,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=kVrCouBPbyk"
-     },
-     {
-      "id": "X48IVMXbmfw",
-      "titulo": "HOJE TEM CORINTHIANS X ATLÉTICO MG EM BH",
-      "canal": "IDENTIDADE CORINTHIANA",
-      "views": 7220,
-      "likes": 245,
-      "comentarios": 7,
-      "publicado": "2026-11-25T03:00:21Z",
-      "duracao_s": 72,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=X48IVMXbmfw"
-     },
-     {
-      "id": "G-d41jEUHjM",
-      "titulo": "ESCALAÇÃO DO CORINTHIANS CONTRA O GRÊMIO! QUEM JOGA? GARRO TITULAR! E O YURI ALBERTO?",
-      "canal": "Corinthians em Debate",
-      "views": 4153,
-      "likes": 61,
-      "comentarios": 11,
-      "publicado": "2026-11-26T12:00:36Z",
-      "duracao_s": 551,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=G-d41jEUHjM"
-     },
-     {
-      "id": "swknIdLkeJc",
-      "titulo": "ESCALAÇÕES ATLÉTICO-MG X CORINTHIANS: VEJA QUEM PODE SER TITULAR NO JOGÃO DE HOJE! 🔥",
-      "canal": "Placar alvinegro com danilo",
-      "views": 4128,
-      "likes": 11,
-      "comentarios": 0,
-      "publicado": "2026-11-25T20:37:21Z",
-      "duracao_s": 10,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=swknIdLkeJc"
-     },
-     {
-      "id": "LAQHJt8Dt-4",
-      "titulo": "ATLÉTICO MINEIRO X CORINTHIANS - ESCALAÇÕES - BRASILEIRÃO - FUTEBOL AO VIVO - JOGO DE HOJE",
-      "canal": "TV ATITUDE",
-      "views": 3088,
-      "likes": 12,
-      "comentarios": 0,
-      "publicado": "2026-11-25T21:00:14Z",
-      "duracao_s": 115,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=LAQHJt8Dt-4"
-     },
-     {
-      "id": "9ueIIu0SH-k",
-      "titulo": "🔴prováveis escalações atlético-mg x corinthians com numeração oficial brasileirão 2026 #brasileirao",
-      "canal": "Arena IRL",
-      "views": 3014,
-      "likes": 14,
-      "comentarios": 0,
-      "publicado": "2026-11-25T21:55:18Z",
-      "duracao_s": 11,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=9ueIIu0SH-k"
-     },
-     {
-      "id": "Z4rrmVdPWbo",
-      "titulo": "STÁBILE SOLTA BOMBA!! ALLAN AFASTADO | NOTA OFICIAL DO CORINTHIANS....",
-      "canal": "Fiel Torcida!",
-      "views": 2909,
-      "likes": 38,
-      "comentarios": 0,
-      "publicado": "2026-11-25T22:57:15Z",
-      "duracao_s": 10155,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=Z4rrmVdPWbo"
-     },
-     {
-      "id": "-v5vwp8alEs",
-      "titulo": "ESCALAÇÕES DE GALO E CORINTHIANS! REPÓRTER DO MAIOR CANAL DO CORINTHIANS ‘INVADE’ O MESA 13 #121",
-      "canal": "O TEMPO Sports",
-      "views": 2183,
-      "likes": 33,
-      "comentarios": 0,
-      "publicado": "2026-11-25T07:50:52Z",
-      "duracao_s": 2930,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=-v5vwp8alEs"
-     },
-     {
-      "id": "Wrdt0WFij8M",
-      "titulo": "GRUPO E SEDE DO CORINTHIANS NA COPINHA 2027 DEFINIDOS",
-      "canal": "IDENTIDADE CORINTHIANA",
-      "views": 1871,
-      "likes": 81,
-      "comentarios": 2,
-      "publicado": "2026-11-24T23:43:13Z",
-      "duracao_s": 62,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Wrdt0WFij8M"
-     },
-     {
-      "id": "TefTtPlk6Vw",
-      "titulo": "Atlético-MG x Corinthians: Garro volta, desfalques e análise do duelo",
-      "canal": "Heart Fiel",
-      "views": 1497,
-      "likes": 31,
-      "comentarios": 0,
-      "publicado": "2026-11-25T09:28:19Z",
-      "duracao_s": 54,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=TefTtPlk6Vw"
-     },
-     {
-      "id": "ywPdRgfJJyU",
-      "titulo": "ESCALAÇÕES DE GALO E TIMÃO! REPÓRTER DO MAIOR CANAL DO CORINTHIANS ‘INVADE’ O MESA 13 #121",
-      "canal": "O TEMPO",
-      "views": 1123,
-      "likes": 15,
-      "comentarios": 0,
-      "publicado": "2026-11-25T07:55:19Z",
-      "duracao_s": 2927,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=ywPdRgfJJyU"
-     }
-    ],
-    "consulta": "Corinthians escalações",
-    "n_videos": 17,
-    "mais_de": true,
-    "views": 132165,
-    "top": [
-     {
-      "titulo": "RONALDO ANALISA PROVÁVEIS TIMES DE ATLÉTICO-MG X CORINTHIANS",
-      "canal": "Jogo Aberto",
-      "views": 34180,
-      "url": "https://www.youtube.com/watch?v=uNOIN5FGQZ0",
-      "publicado": "2026-11-25T16:39:53Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "MP pede INTERVENÇÃO no Corinthians e a semana pega fogo 😱🔥",
-      "canal": "Camisa 17 oficial",
-      "views": 14870,
-      "url": "https://www.youtube.com/watch?v=88vAPE90VQU",
-      "publicado": "2026-11-25T00:30:16Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "PRELEÇÃO ATLÉTICO X CORINTHIANS | BRASILEIRÃO 2026 | ESCALAÇÕES, TRANSMISSÃO, ARBITRAGEM, DESFALQUES",
-      "canal": "Canal do Frossard",
-      "views": 12553,
-      "url": "https://www.youtube.com/watch?v=h62GUM890mM",
-      "publicado": "2026-11-25T09:30:13Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Final da Libertadores 2026: como Montevidéu se prepara para Palmeiras x Estudiantes",
-   "categoria": "Finanças e gestão",
-   "clubes": [
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 71.1,
-   "sinais": {
-    "busca": 60,
-    "aceleracao": 72,
-    "midia": 100,
-    "aderencia": 100,
-    "youtube": 100
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "palmeiras x estudiantes",
-   "termos_trends": [],
-   "n_fontes": 17,
-   "n_manchetes": 30,
-   "assinatura": "liber|palme|final|estud",
-   "ja_coberto": {
-    "titulo": "VASCÃO LUTOU MAS VERDÃO  É O  FINALISTA DA CB/IMORTAL E O CONTRASTE , LIBERTA E Z-4/SELECÃO DE VOLTA",
-    "url": "https://www.youtube.com/watch?v=kjHyIoGZgJM"
-   },
-   "sugestao": {
-    "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "2,2 milhões de visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
-    "titulo_thumb": "TODO MUNDO VIU",
-    "pergunta_enquete": "Qual sua opinião: Final da Libertadores 2026: como Montevidéu se prepara para Palmeiras x Estudiantes?",
-    "tecnica": "Dado",
-    "ganchos": [
-     {
-      "tecnica": "Dado",
-      "texto": "2,2 milhões de visualizações em 48 horas. Todo mundo falou disso; quase ninguém explicou o principal.",
-      "thumb": "TODO MUNDO VIU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Final da Libertadores 2026: como Montevidéu se prepara para Palmeiras x Estudiantes. Por trás disso, tem dois lados que não querem a mesma coisa.",
-      "thumb": "PALMEIRAS x ESTUDIANTES"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Final da Libertadores 2026: como Montevidéu se prepara para Palmeiras x Estudiantes. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Final da Libertadores 2026: como Montevidéu se prepara para Palmeiras x Estudiantes. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-      "thumb": "E AGORA, PALMEIRAS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Final da Libertadores 2026: como Montevidéu se prepara para Palmeiras x Estudiantes. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
-      "thumb": "MEU PALPITE"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Palmeiras e Puma preparam ação de varejo em Montevidéu para final da Libertadores",
-     "fonte": "Máquina do Esporte",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSllOVTAtZGRKTElEeEk5dHFlT001ZncxdlJtTFNzYWJGVzBaNm1sMk5za1N3NW9ZUzV6QUpWdXNjUGstalRsczJWcFNkVUdwNnNJZkJVa21rNlYxU3ItbmxLVVpyWjB0QVJGemRCdmE0eGNSc3lRYmMtNmZKbE1hX21kXzR0OUN0bllMVTU3RGdKR3hiZGZ4UjRiaXNLeUNaSG9qZTVHcElJcEFlSHQ3YTdnMEE3bHhRTHk2NVc0TQ?oc=5"
-    },
-    {
-     "titulo": "Palmeiras Rumo à Final da Libertadores: Desafios e Destaques",
-     "fonte": "Jornal Brasília Capital",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSDlMYXJ0LVZPYktzaHRfS1ZiZjNxWXllS1lZZGlOZDBkRzhQaVpDOE5oVHZJU25TMmxTZnlSVm5FNmpGQnNrNVUxTDRHeHRLanpxcDNwamRtQTBkMVRaQXNWVDJwZWlzNFhXTnl2eXZWd1dzY2MxYW03aW5GQUtSMjFPXzVaS2pqZXdkY0dNdw?oc=5"
-    },
-    {
-     "titulo": "Torcida do Palmeiras reage à fala de Barboza antes da final da Libertadores: 'Maluco'",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0F0cTlMUkZlelBENWhpRmppXy1YS3Y2TUdNYXBLZGxUTS01WjY4NlVxX25RZGhYOWtiOTdSUENIekM0R1ByeF9KdHpWTlhDRDRaakQySVBST1JXUE5BU2xBSWVVRDdaSDByVTJPQVZEVnlXYm9UeEJCcmJhd2NmSkdmRGZhVElhOHl1NmxFUThMMkh4enRfdmJDNHA1NzZ2QXNZc0FxSkU0UTltak5Z?oc=5"
-    },
-    {
-     "titulo": "Palmeiras e Estudiantes decidiram Libertadores no Centenário",
-     "fonte": "365Scores",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVEhma3h2a3Q4QVkxRnQxd0huWmxOMjBjOHpZSXlyRENOd1FfQllCOGg5bFl4TzFCZWlPVDdKLVZ2ZXZrQ1ZOTERBMUFMR3NVZmlKOFpub3RCWGUzVjFJRTZwNV95R3N6Y0J1ekxOZ3BvLThsOFVrTjZIVk45MzVNV1h5WE9kcGdDZEREZzJOeERwNkNSWWN5blhqVkVBdw?oc=5"
-    },
-    {
-     "titulo": "Qual deve ser a escalação do Palmeiras na final da Libertadores? Vicari traz que Vitor Roque deve ser titular e a dúvida de Abel Ferreira",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3NkpsZWE0UWNWNmNibXlMOUtFQk0tU0RCU0YyM2FlamViR01SVWZKclVMX0pvYXRxVWhjMTVSSm13NllFbXJEdktjRTlFSnFJVnBpTTlWNUtUQzFoLXc?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "RUEyHsvfqLI",
-      "titulo": "PALMEIRAS RUMO A MONTEVIDÉU PARA A FINAL DA LIBERTADORES! | AEROPORCO | Tropa ge tv",
-      "canal": "ge tv",
-      "views": 719041,
-      "likes": 6635,
-      "comentarios": 24,
-      "publicado": "2026-11-25T21:57:55Z",
-      "duracao_s": 21043,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=RUEyHsvfqLI"
-     },
-     {
-      "id": "Mae0bdnZToQ",
-      "titulo": "Most Copa Libertadores Titles by Club 🏆 Can Palmeiras Catch Estudiantes on Saturday?",
-      "canal": "Marble Dream League",
-      "views": 371233,
-      "likes": 2464,
-      "comentarios": 65,
-      "publicado": "2026-11-25T00:00:26Z",
-      "duracao_s": 20,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Mae0bdnZToQ"
-     },
-     {
-      "id": "duZ4TPs4Ask",
-      "titulo": "PALMEIRAS EMBARCA RUMO À FINAL DA LIBERTADORES! | AEROPORCO | GERAL CAZÉTV",
-      "canal": "CazéTV",
-      "views": 356714,
-      "likes": 4269,
-      "comentarios": 64,
-      "publicado": "2026-11-25T18:15:23Z",
-      "duracao_s": 7966,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=duZ4TPs4Ask"
-     },
-     {
-      "id": "HfZtIMyrewE",
-      "titulo": "AO VIVO | PALMEIRAS CHEGA AO URUGUAI PARA A FINAL DA CONMEBOL LIBERTADORES",
-      "canal": "TV Palmeiras",
-      "views": 241256,
-      "likes": 6407,
-      "comentarios": 26,
-      "publicado": "2026-11-25T23:44:20Z",
-      "duracao_s": 5418,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=HfZtIMyrewE"
-     },
-     {
-      "id": "8Unpuur1Uog",
-      "titulo": "CORINTHIANS TEM DECISÃO CONTRA O GALO | ESPN DIRETO DE MONTEVIDÉU | FUTURO DO FLAMENGO | F SHOW",
-      "canal": "ESPN Brasil",
-      "views": 58948,
-      "likes": 603,
-      "comentarios": 0,
-      "publicado": "2026-11-25T18:05:31Z",
-      "duracao_s": 7185,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=8Unpuur1Uog"
-     },
-     {
-      "id": "Ko6hsLaT8gI",
-      "titulo": "🚨 GÓMEZ ABRE O CORAÇÃO SOBRE VOLTAR A MONTEVIDEO! BARBOZA FALA! 💚",
-      "canal": "Bob SEP",
-      "views": 51316,
-      "likes": 1101,
-      "comentarios": 26,
-      "publicado": "2026-11-26T00:12:04Z",
-      "duracao_s": 392,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Ko6hsLaT8gI"
-     },
-     {
-      "id": "XmhJVvfnluY",
-      "titulo": "PALMEIRAS CHEGA AO AEROPORTO PARA VOO AO URUGUAI",
-      "canal": "Esporte na Band",
-      "views": 49622,
-      "likes": 857,
-      "comentarios": 33,
-      "publicado": "2026-11-25T17:54:51Z",
-      "duracao_s": 226,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=XmhJVvfnluY"
-     },
-     {
-      "id": "YUwgnzmNEno",
-      "titulo": "PALCO DA FINAL, O ESTÁDIO CENTENÁRIO, EM MONTEVIDÉU! #libertadores #final #palmeiras #estudiantes",
-      "canal": "ge tv",
-      "views": 33742,
-      "likes": 915,
-      "comentarios": 23,
-      "publicado": "2026-11-25T19:57:57Z",
-      "duracao_s": 86,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=YUwgnzmNEno"
-     },
-     {
-      "id": "GT1pr6kJ3N4",
-      "titulo": "PALMEIRAS EMBARCA PARA MONTEVIDÉU COM MUITA FESTA",
-      "canal": "Alma e Coração Palmeirense",
-      "views": 30831,
-      "likes": 1434,
-      "comentarios": 31,
-      "publicado": "2026-11-25T18:00:21Z",
-      "duracao_s": 25,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=GT1pr6kJ3N4"
-     },
-     {
-      "id": "t1jkglyixFw",
-      "titulo": "MAURO CEZAR sobre PALMEIRAS x ESTUDIANTES: \"O que EU IMAGINO pra essa FINAL é...\" | LIBERTADORES",
-      "canal": "Jovem Pan Esportes",
-      "views": 26750,
-      "likes": 1406,
-      "comentarios": 173,
-      "publicado": "2026-11-26T17:29:56Z",
-      "duracao_s": 1310,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=t1jkglyixFw"
-     },
-     {
-      "id": "f1DwJHKbsgQ",
-      "titulo": "PALMEIRAS PARTE COM FESTA DA TORCIDA PARA A FINAL DA LIBERTADORES EM MONTEVIDÉU!",
-      "canal": "UOL Esporte",
-      "views": 26026,
-      "likes": 320,
-      "comentarios": 22,
-      "publicado": "2026-11-25T16:57:07Z",
-      "duracao_s": 1070,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=f1DwJHKbsgQ"
-     },
-     {
-      "id": "y2N4l7NU5sQ",
-      "titulo": "A FINAL DA LIBERTADORES TÁ CHEGANDO! O ELENCO DO PALMEIRAS JÁ CHEGOU EM MONTEVIDÉU 🇺🇾 #shorts",
-      "canal": "ESPN Brasil",
-      "views": 24907,
-      "likes": 1026,
-      "comentarios": 32,
-      "publicado": "2026-11-26T00:19:03Z",
-      "duracao_s": 33,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=y2N4l7NU5sQ"
-     },
-     {
-      "id": "QymFaigFs4A",
-      "titulo": "DEBATE PEGOU FOGO! RENATA FAN E EDU FICARAM IMPRESSIONADOS \"A TORCIDA INVADIU MONTEVIDÉU PRA FINAL\"",
-      "canal": "Sou Mais Palmeiras React",
-      "views": 22724,
-      "likes": 257,
-      "comentarios": 13,
-      "publicado": "2026-11-25T16:32:30Z",
-      "duracao_s": 926,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=QymFaigFs4A"
-     },
-     {
-      "id": "TJeKkaohc6w",
-      "titulo": "FINAL DA LIBERTADORES: PALMEIRAS EMBARCA PARA MONTEVIDÉU; VEJA PROGRAMAÇÃO",
-      "canal": "Jogo Aberto",
-      "views": 21725,
-      "likes": 499,
-      "comentarios": 24,
-      "publicado": "2026-11-25T15:10:12Z",
-      "duracao_s": 184,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=TJeKkaohc6w"
-     },
-     {
-      "id": "MJ9LzAH20q4",
-      "titulo": "COMO PALMEIRAS VAI SE PORTAR NA FINAL? Soler REVELA possível ESCALAÇÃO para duelo com o Estudiantes",
-      "canal": "TMC Esporte",
-      "views": 20399,
-      "likes": 316,
-      "comentarios": 10,
-      "publicado": "2026-11-25T18:35:49Z",
-      "duracao_s": 1230,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=MJ9LzAH20q4"
-     },
-     {
-      "id": "HWzN4DbVJA4",
-      "titulo": "Palmeiras NUNCA venceu argentino em final de Libertadores",
-      "canal": "Falo y Me Voy",
-      "views": 16967,
-      "likes": 198,
-      "comentarios": 35,
-      "publicado": "2026-11-24T23:57:57Z",
-      "duracao_s": 465,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=HWzN4DbVJA4"
-     },
-     {
-      "id": "4V8pWQvwxGc",
-      "titulo": "PALMEIRAS vs. ESTUDIANTES ⚽ Copa Libertadores 2026 Marble Football Prediction",
-      "canal": "Your Football Ranker",
-      "views": 13513,
-      "likes": 75,
-      "comentarios": 3,
-      "publicado": "2026-11-24T22:37:04Z",
-      "duracao_s": 15,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=4V8pWQvwxGc"
-     },
-     {
-      "id": "Wv-D6KiyMUQ",
-      "titulo": "PALMEIRAS VAI PRA FINAL BEM DESGASTADO! PEDRO LOPES REVELA PREOCUPAÇÃO PARA JOGO COM O ESTUDIANTES",
-      "canal": "UOL Esporte",
-      "views": 12397,
-      "likes": 170,
-      "comentarios": 42,
-      "publicado": "2026-11-25T17:16:44Z",
-      "duracao_s": 887,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Wv-D6KiyMUQ"
-     },
-     {
-      "id": "Gf3IfaFfPoQ",
-      "titulo": "💚OLHA O QUE LEILA PEREIRA FALOU ANTES DE PALMEIRAS X ESTUDIANTES PELA FINAL DA LIBERTADORES 2026!",
-      "canal": "FUTEBOL TOTAL OFICIAL",
-      "views": 10494,
-      "likes": 183,
-      "comentarios": 0,
-      "publicado": "2026-11-26T09:00:05Z",
-      "duracao_s": 891,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Gf3IfaFfPoQ"
-     },
-     {
-      "id": "HuPdLbNzQfc",
-      "titulo": "Estudiantes vs Palmeiras: todo lo que esconde la final",
-      "canal": "Radar Viajero",
-      "views": 8821,
-      "likes": 93,
-      "comentarios": 15,
-      "publicado": "2026-11-25T00:54:11Z",
-      "duracao_s": 507,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=HuPdLbNzQfc"
-     },
-     {
-      "id": "pDlXqQfkX9A",
-      "titulo": "PALMEIRAS X ESTUDIANTES! PASCOAL TRAZ DIRETO DE MONTEVIDÉU AS NOTÍCIAS DO VERDÃO PARA A GRANDE FINAL",
-      "canal": "FUTEBOL TOTAL OFICIAL",
-      "views": 8672,
-      "likes": 152,
-      "comentarios": 5,
-      "publicado": "2026-11-25T20:59:44Z",
-      "duracao_s": 828,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=pDlXqQfkX9A"
-     },
-     {
-      "id": "j6RQredM3XY",
-      "titulo": "PALMEIRAS EMBARCA À MONTEVIDÉU EM BUSCA DO TÍTULO DA LIBERTADORES",
-      "canal": "Bandsports",
-      "views": 8412,
-      "likes": 151,
-      "comentarios": 10,
-      "publicado": "2026-11-25T22:46:17Z",
-      "duracao_s": 1710,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=j6RQredM3XY"
-     },
-     {
-      "id": "ZrPPKIHTfLc",
-      "titulo": "🐷AEROPORCO! PALMEIRAS EMBARCA PARA O URUGUAI RUMO À GLÓRIA ETERNA! TORCIDA FAZ A FESTA!",
-      "canal": "FUTEBOL TOTAL OFICIAL",
-      "views": 7762,
-      "likes": 136,
-      "comentarios": 13,
-      "publicado": "2026-11-25T16:34:45Z",
-      "duracao_s": 1197,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=ZrPPKIHTfLc"
-     },
-     {
-      "id": "2GU4pYt7Gjk",
-      "titulo": "PALMEIRAS RUMO AO TETRA! APÓS 0X3, VERDÃO EMBARCA PARA A FINAL DA LIBERTADORES | AO VIVO",
-      "canal": "PVA-PORTAL DA VOZ ALVIVERDE",
-      "views": 7139,
-      "likes": 254,
-      "comentarios": 0,
-      "publicado": "2026-11-26T04:00:17Z",
-      "duracao_s": 5688,
-      "live": true,
-      "url": "https://www.youtube.com/watch?v=2GU4pYt7Gjk"
-     },
-     {
-      "id": "Ny1mcP2ccFo",
-      "titulo": "PALMEIRAS TEM NOVIDADES NO TREINO EM MONTEVIDÉU",
-      "canal": "Jogo Aberto",
-      "views": 4156,
-      "likes": 128,
-      "comentarios": 3,
-      "publicado": "2026-11-26T15:16:06Z",
-      "duracao_s": 136,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=Ny1mcP2ccFo"
-     }
-    ],
-    "consulta": "Palmeiras Estudiantes Montevidéu",
-    "n_videos": 25,
-    "mais_de": true,
-    "views": 2153567,
-    "top": [
-     {
-      "titulo": "PALMEIRAS RUMO A MONTEVIDÉU PARA A FINAL DA LIBERTADORES! | AEROPORCO | Tropa ge tv",
-      "canal": "ge tv",
-      "views": 719041,
-      "url": "https://www.youtube.com/watch?v=RUEyHsvfqLI",
-      "publicado": "2026-11-25T21:57:55Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "Most Copa Libertadores Titles by Club 🏆 Can Palmeiras Catch Estudiantes on Saturday?",
-      "canal": "Marble Dream League",
-      "views": 371233,
-      "url": "https://www.youtube.com/watch?v=Mae0bdnZToQ",
-      "publicado": "2026-11-25T00:00:26Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "PALMEIRAS EMBARCA RUMO À FINAL DA LIBERTADORES! | AEROPORCO | GERAL CAZÉTV",
-      "canal": "CazéTV",
-      "views": 356714,
-      "url": "https://www.youtube.com/watch?v=duZ4TPs4Ask",
-      "publicado": "2026-11-25T18:15:23Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Atuações do Corinthians: Kaio César é o melhor em campo na Arena MRV; dê suas notas",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 69.9,
-   "sinais": {
-    "busca": 55,
-    "aceleracao": 28,
-    "midia": 75,
-    "aderencia": 100,
-    "youtube": 65
-   },
-   "fator_categoria": 1.148,
-   "trafego_google": 0,
-   "busca_torcedor": "corinthians x atletico mg",
-   "termos_trends": [],
-   "n_fontes": 5,
-   "n_manchetes": 5,
-   "assinatura": "corin|kaio|cesar|mrv",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Kaio César é o melhor em campo na Arena MRV. Nem todo mundo no Corinthians vai gostar disso, e eu vou explicar por quê.",
-    "titulo_thumb": "CORINTHIANS x ATLÉTICO-MG",
-    "pergunta_enquete": "Qual sua opinião: Atuações do Corinthians: Kaio César é o melhor em campo na Arena MRV; dê suas notas?",
-    "tecnica": "Conflito",
-    "ganchos": [
-     {
-      "tecnica": "Conflito",
-      "texto": "Kaio César é o melhor em campo na Arena MRV. Nem todo mundo no Corinthians vai gostar disso, e eu vou explicar por quê.",
-      "thumb": "CORINTHIANS x ATLÉTICO-MG"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Corinthians x Atlético-MG parece um jogo com dono. É exatamente aí que mora o perigo.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Corinthians x Atlético-MG: qual é o detalhe que vai decidir?",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Kaio César é o melhor em campo na Arena MRV. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "21 mil visualizações em dois dias só sobre esse assunto. Eu vou direto no ponto que ficou de fora.",
-      "thumb": "TODO MUNDO VIU"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Kaio César lamenta empate do Corinthians: 'Não podemos dar esse mole'",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc2F3SWtHaGl0T2lKdXliNU1vV0VVRkdZd3lfZVR2MzhQc25VcGN0UUo5bXY1eUhNempXeGd1bGpWNVppeDNBa0lfSFJZcVR3QkNGaUtLbFlCRDd0Z3RmNWF3bjZqOEpvYm1KR0hQcHZ2SU42UmZkNWtjTzNOR0hpZjRwUE5QN2NKcDM4WW4zVmhOXzV1ci1ZcDgwbEVlbjBpb0laM3hRdTVMT2hZ?oc=5"
-    },
-    {
-     "titulo": "Seedorf foi convencido a dar espaço para Kaio César no Corinthians",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSUZndzJZU2l1QzNRNGFOVnoteUU0a3VrM1NvVHJlZnhTRWFfaC1ETFVlWXl2ZUFKOHE4bjh2Qkw4YmVFQW5pcVlMTklyNHlldWUwMTFCVXYwdlF0Z3hoT21oanRPbEZycFhUbU1waXZ1TUJUWm5USURzMTVjNy1ILVAzdGdmMTJwbXRSdUYxXzB2S0Y4LWI5UzBENkwxN21LOGc2Q3NEblpEQktMLS0waFJDanBkR2VwclJtMkJwNFZuMXdZMzl6LTNPdVBJY2xBUVk0Vw?oc=5"
-    },
-    {
-     "titulo": "Atuações do Corinthians: Kaio César brilha em BH e Memphis é discreto",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVHdpUU9VZHFaZEtTVDBlM0RVSXg5aDZxbHlqM0RpVDhhaFh1SThFYjFQNXBOYkp0OURoMnpIMnBOQUROR0lQQ2x0TThSaXpsRWJwWlQ3d0Vla2h3UDUzMWFvbWdSVTVtNW8wNC1aVExKNnp2MGVLZi15WDFuLVQyTnFZdGlxc0R0UzlIcFl2RV8yZDVFbmUyS2M4Q3lsVTDSAaQBQVVfeXFMUEdXQ0dYSndFZWZabHdWQ2ItaEllTjYyWVl4cG5DMGVtM0JHd2tkY2w3V1Y4dFlYYmc1YTNaZl96X2N1ZEJQV2NHZHBPY2tUMTZicS1ydTlMeGlYYWZzTTZlLTdDUDU5OThIVWU4RW9keFMzclFRR2RxYk8wVV85YzBudV9nd0Z1czlfNUgyMXk5WUUyUlF6ZzVXT0lJbjhLaF8wenI?oc=5"
-    },
-    {
-     "titulo": "Atuações do Corinthians: Kaio César é o melhor em campo na Arena MRV; dê suas notas",
+     "titulo": "Leila Pereira, sobre as finanças do Palmeiras: \"É um clube muito equilibrado.\"⁣",
      "fonte": "ge",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRVpPWV9tbUlhdlRhY1FPTFNSY25ELXVyVGd5dTF2c1FNaUNGWWtqUlVOd3k2aTZrWXRYcTJ4TG1CY2dyamVyOG9OakdYWE5oc0cwNnpYZzhaanYzbVQ5Y3owd1FoN2lnVjg4dkFhVlIxN1FMaHBCSUNNZ1l6bnhEV0pMdjZPMWdJUDloSVZFZkVjSl90T2U5Y083aWV2VWhfUWI4WE1Zc0JLT2FqY2ZFb0FEV1VZbm1HclZhdl9xTzlvZ2lIaktHM3k2LWpkMlNlNnVCQVdGWmMxbGFfMmxDREFUZlkyQ2o20gH3AUFVX3lxTFBYdnFvMjI3Z1FzVEJzYUFkYl92cUpBYkRUMmd3UE9JN1Z5enlnd3licVBxbDlES3pfT3V2b2p5QlYtZHRIaEIyeVIydFFpZjA1c3ZDM0RtWHVLY0piTHdxaXJ4MDdHMjVuOFF0NWxmb1FnNFUxNV9zVFFVTWJ6WlgzVTY0N2F5czBPc3NaV2RSZ2FOX1BKRGN1cHNhWk0tVktFbl93MW1xb2tmbFRVMlRoNDBvUnIxOF9wbFduWFVwY3ZEQjZ1eWM3c3NsUWUzTlBvNXNzTUp5dHlZNkVBaXJseVRzS0hUUXJONVQ1N3prSzN5MjFKejA?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaVJyQnZVWnBQNjNOd1ByM19LNHNNVXpndlNhTE83MlN6eVh2TmpSamVKYTlESG5JSlBnamIzQzk2SG1PVklJN0ZVek9nQ3dmaTB1VFhId3B3akZrM29fcmdaS3NTMnNEZUpjN1ZjUU9UZk5jMzFTejBJejBsOUt1dzdaOGtkNkNZVVNFYnhZU24yRDd2TTNRTGFacVZ0TUFJVVZBM3lqSF9PT1pSdmNUY25IVC1od9IBxAFBVV95cUxNWHg0Z0VRTWVuTTlmWGJTSW9ncEppMU5mWUNsZF92YnVCVGFja21Ib1p0dzhyQVlXeVNOdXl4anNqMGk2cGVXak51dV9Gd3U5TEJoR0V0Zy1ESjUtdFdOMmdFenRlM3NlRUhMTHdnNzlybFJlcTVaeTJnQ1BVa2xDOF9KcDhVVGtsUm00Q2dIQVhiWXNtd003SndPZHlGMThGUFR5YVQxbG9GaTNYaldqUWN5dl9hZ0hHbTExYjdjdTVWQkJK?oc=5"
     },
     {
-     "titulo": "Atlético-MG x Corinthians: onde fica o embarque da torcida visitante na Arena MRV",
-     "fonte": "www.brasileirao.com.br",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQckpoV18tMzJDVXY2R1M0S2lmYk9aZGNnSTFfZ0FVR1M2Vnl2N3ZhV29sVkk4SmFuUlppcy1rbVdzWHlCRE1GZ21Mb1ZLRWZJVmM5eGJXWTQtbTZhNVBNYVFTREhNaXVnNE5PNm91OWxBRmhUTVJvbzF5a3daWXJZVGhiZUJ4US01NWJQUEs2THNMYWZqTEpEN2o1Y2VONUw4aXdELWdWOGR6Sjd1ZXN4LQ?oc=5"
+     "titulo": "Leila Pereira falou sobre profissionalização do Palmeiras durante o seu mandato!",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMzNuMDhVQTVLVUg3dVRtZ1cyaUczMm1KRGxmNXNTZkZfQkljTHZfWU1ISWh3Q2Rlb1A4QnNwT2hqV1p6dUFzRWpRZlJmWlVWZ1JXRDJYSFBiOEF3NWxYYXFpTENYMnNneTI2UjlLVF9CMmtmWE92MnRFZnY1VWdNeXJvZnVZVTNvdnhEYldoTVkzbS1YcGVQUXktVzlPbUJvc0RndGNERzBUME5ObzN3RzNlWWU0S2JaNVFJalRRRHJULXV5UC1qdTdjbHfSAcwBQVVfeXFMUDMzbjA4VUE1S1VIN3VUbWdXMmlHMzJtSkRsZjVzU2ZGX0JJY0x2X1lNSElod0NkZW9QOEJzcE9oaldaenVBc0VqUWZSZlpVVmdSV0QyWEhQYjhBdzVsWGFxaUxDWDJzZ3kyNlI5S1RfQjJrZlhPdjJ0RWZ2NVVnTXlyb2Z1WVUzb3Z4RGJXaE1ZM20tWHBlUFF5LVc5T21Cb3NEZ3RjREcwVDBOTm8zd0czZVllNEtiWjVRSWpUUURyVC11eVAtanU3Y2x3?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "gG47gThQQWE",
-      "titulo": "ATUAÇÃO DE MEMPHIS DEPAY SEGUE ABAIXO PELO CORINTHIANS MESMO NA BRIGA CONTRA O Z-4? | LINHA DE PASSE",
-      "canal": "ESPN Brasil",
-      "views": 18766,
-      "likes": 199,
-      "comentarios": 6,
-      "publicado": "2026-11-26T02:34:17Z",
-      "duracao_s": 1384,
+      "id": "6s8Tkj8MamQ",
+      "titulo": "Leila Pereira recusa proposta para mudar estatuto e estender mandato no Palmeiras",
+      "canal": "Rádio Bandeirantes",
+      "views": 11695,
+      "likes": 260,
+      "comentarios": 14,
+      "publicado": "2026-11-26T00:19:01Z",
+      "duracao_s": 94,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=gG47gThQQWE"
+      "url": "https://www.youtube.com/watch?v=6s8Tkj8MamQ"
      },
      {
-      "id": "sSV13Mw6v0s",
-      "titulo": "Olha o que o Kaio Cesar falou apos o Corinthians empatar com o Atlético MG",
-      "canal": "O MUNDO DO FUTEBOL EM 60S",
-      "views": 1437,
-      "likes": 28,
-      "comentarios": 0,
-      "publicado": "2026-11-26T01:51:58Z",
-      "duracao_s": 41,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=sSV13Mw6v0s"
-     },
-     {
-      "id": "XJYN1hRo5Uk",
-      "titulo": "\"NÃO PODIA RECUAR!\" KAIO CÉSAR ANALISA EMPATE, COBRA POSTURA E MIRA DECISÃO CONTRA O GRÊMIO",
-      "canal": "TV Central do Timão",
-      "views": 847,
-      "likes": 17,
-      "comentarios": 0,
-      "publicado": "2026-11-26T03:45:31Z",
-      "duracao_s": 151,
-      "live": false,
-      "url": "https://www.youtube.com/watch?v=XJYN1hRo5Uk"
-     }
-    ],
-    "consulta": "Corinthians César Kaio Atuações",
-    "n_videos": 3,
-    "mais_de": false,
-    "views": 21050,
-    "top": [
-     {
-      "titulo": "ATUAÇÃO DE MEMPHIS DEPAY SEGUE ABAIXO PELO CORINTHIANS MESMO NA BRIGA CONTRA O Z-4? | LINHA DE PASSE",
-      "canal": "ESPN Brasil",
-      "views": 18766,
-      "url": "https://www.youtube.com/watch?v=gG47gThQQWE",
-      "publicado": "2026-11-26T02:34:17Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "Olha o que o Kaio Cesar falou apos o Corinthians empatar com o Atlético MG",
-      "canal": "O MUNDO DO FUTEBOL EM 60S",
-      "views": 1437,
-      "url": "https://www.youtube.com/watch?v=sSV13Mw6v0s",
-      "publicado": "2026-11-26T01:51:58Z",
-      "do_canal": false
-     },
-     {
-      "titulo": "\"NÃO PODIA RECUAR!\" KAIO CÉSAR ANALISA EMPATE, COBRA POSTURA E MIRA DECISÃO CONTRA O GRÊMIO",
-      "canal": "TV Central do Timão",
-      "views": 847,
-      "url": "https://www.youtube.com/watch?v=XJYN1hRo5Uk",
-      "publicado": "2026-11-26T03:45:31Z",
-      "do_canal": false
-     }
-    ]
-   }
-  },
-  {
-   "tema": "Jornal espanhol destaca situação no Corinthians no Brasileirão: ‘Drama absoluto para Seedorf’",
-   "categoria": "Jogo e resultado",
-   "clubes": [
-    "Corinthians"
-   ],
-   "foco": true,
-   "nota": 67.1,
-   "sinais": {
-    "busca": 55,
-    "aceleracao": 28,
-    "midia": 67,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.148,
-   "trafego_google": 0,
-   "busca_torcedor": "corinthians x atletico mg",
-   "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 4,
-   "assinatura": "jorna|espan|seedo|corin",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Corte da live com a reação (30 a 90 s)",
-    "gancho": "Jornal espanhol destaca situação no Corinthians no Brasileirão. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Jornal espanhol destaca situação no Corinthians no Brasileirão: ‘Drama absoluto para Seedo?",
-    "tecnica": "Contradição",
-    "ganchos": [
-     {
-      "tecnica": "Contradição",
-      "texto": "Jornal espanhol destaca situação no Corinthians no Brasileirão. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Jornal espanhol destaca situação no Corinthians no Brasileirão. Isso é bom ou ruim para o Corinthians? Responde antes de ver a minha análise.",
-      "thumb": "E AGORA, CORINTHIANS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Jornal espanhol destaca situação no Corinthians no Brasileirão. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "O torcedor está digitando “corinthians x atletico mg” no Google agora. A resposta não é tão simples.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Corinthians contra Atlético-MG vale mais do que três pontos, e os dois sabem disso.",
-      "thumb": "CORINTHIANS x ATLÉTICO-MG"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Jornal espanhol avalia situação do Corinthians: \"Efeito Seedorf diminuindo\"",
-     "fonte": "CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSFZmZEZkUVhpdl93cnI3aERMVjhtRzZtd0JGemUwZEUxNGNiaG5DdE1QUTBwOWRLSDZIZ19MZndTNWhlOVRlM2xKQ2NRNmFKLUY0bnAxS3E3UnI5X1cyNVBZR0FJU3I0dUFVaURwaEJWTGlOMDdfTWRTSUNnREdobEtRVkpHUUlyaTc1MjFzWDJ5RVVYR0wyd2p2YzlsUHowcGl6RE9pclN6YWJhSkRHbUlxYklUak1IY0pCa0F2MlI?oc=5"
-    },
-    {
-     "titulo": "Jornal espanhol destaca situação no Corinthians no Brasileirão: 'Drama absoluto para Seedorf'",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdkR4cUFobXRTNnlkOVlHRThYVVFIbmVpN2JoOHo2OGM1bW9XM1J5dGFJMFZPM3NlSHEyUTRrSFJkSThhWEhqTGNwYnoxNUlfREFUNmdtMEV3YjJ6RjR2Sjh6Y0M3OEw2Vy1hZVhLTkhsSnE2ZTQ4V3lZdzU3SXFtZGlmNHJJNEFWelBIN0wxMkRVdWZvSTMwOWplVW5aYmhiak4xbG14dnFoaUlRZ0ZwSUVlNkxfeUI3STQxSU1ETmhiQ1oyTkFabEIwZEFTSE91VlF4dnVRQkhNYjNxeW9Ebl9aWkhVT183SkZiQnUxLUN6VFk?oc=5"
-    },
-    {
-     "titulo": "Jornal espanhol As vê 'drama' de Seedorf no Corinthians após empate no acréscimo com o Atlético-MG",
-     "fonte": "A Crítica de Campo Grande",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVnpxSFNmSGJPdjJVV1UzQ1MwOUk2Rzk1VXRZUlpqVF8zTWFrZUdtU1FnZHhqRHdPRXNQcnNYRmxDblFmZGx4NVFzaXdfUzdWQmdxREhFeUJ3bHgwSEw1UHlTTlhIZWlCd0ZqN0FpU0I2akJ0SUV1Y3RselN0LWZYSk11RWdJazZFQlBPcEgwM2lyTzBicVNIX0dR?oc=5"
-    },
-    {
-     "titulo": "Jornal espanhol destaca situação no Corinthians no Brasileirão: ‘Drama absoluto para Seedorf’",
-     "fonte": "Estadão",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZG1KUUlrM1lScDduSk1JQ1c3OTk3XzY4WFBFZ2VEaTlTRmdxcm05eExqLW93SllTbnBSOEFheHd2dHlGUjlXSGRKcEJGQXRlVWtDNl9IXzRlZzZRVjhMbEhuOTdRaUN2TG1aU0hlRmpIc1NOa0JBOVlTYWo0X21CbzN2REdjSTdkSHp1MFdxUFlKX2pTMWFXMzFaVlRUUmw5cG1GcmxYRy0zU0haLTlTT25tU3gyMHJkLURiNFFjNG5RNEowZ25TRlZqc1RQV0NVNUJhaGRnaGozdkFzeWZEX3M5WQ?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "O Flamengo informou que a abertura da venda de ingressos para o duelo contra a Chapecoense terá um novo horário. Confira o comunicado: “NOTA OFICIAL | VENDA DE INGRESSOS ÀS 16H O Clube de Regatas do Flamengo informa que a venda de ingr",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Flamengo"
-   ],
-   "foco": true,
-   "nota": 66.3,
-   "sinais": {
-    "busca": 40,
-    "aceleracao": 84,
-    "midia": 67,
-    "aderencia": 100,
-    "youtube": 49
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "chapecoense x flamengo",
-   "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 5,
-   "assinatura": "ingre|venda|chape|flame",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Flamengo adia venda de ingressos para jogo contra a Chapecoense por instabilidade no sistema. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
-    "titulo_thumb": "E AGORA, FLAMENGO?",
-    "pergunta_enquete": "Qual sua opinião: O Flamengo informou que a abertura da venda de ingressos para o duelo contra a Chapecoense?",
-    "tecnica": "Pergunta aberta",
-    "ganchos": [
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Flamengo adia venda de ingressos para jogo contra a Chapecoense por instabilidade no sistema. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
-      "thumb": "E AGORA, FLAMENGO?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Flamengo adia venda de ingressos para jogo contra a Chapecoense por instabilidade no sistema. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "“chapecoense x flamengo”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Flamengo adia venda de ingressos para jogo contra a Chapecoense por instabilidade no sistema. Nem todo mundo no Flamengo vai gostar disso, e eu vou explicar por quê.",
-      "thumb": "FLAMENGO x CHAPECOENSE"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Flamengo adia venda de ingressos para jogo contra a Chapecoense por instabilidade no sistema. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
-      "thumb": "NÃO É BEM ASSIM"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Flamengo marca para as 16h a venda de ingressos para jogo contra a Chapecoense",
-     "fonte": "Tribuna do Sertão",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQXozNXhqMWV3SzdER2xNUGJUTURoLUlnWjRrcFRWWTFoVXZsaDdLQTd5WWtRcGxxdmFMS2ptS0hweWhJUGdYRlBvdF9VUmR1Q01HVXJVNGFwXzlUUlZXbzlqeWs3NW91WGFtUXRlTTdzUjk0aXhyMWlZeDNmZU9aSnFwZVZYX3djeHNjcGhSdFYtYUhsUUR2WXdReDVtVXF5TENkWi1MYlM5T3lNaUpEMk5NZjIxNFVtZko2WndweXRJSjUxZHQtM1V5WTFMeHJibnhiQ1Y1R2k?oc=5"
-    },
-    {
-     "titulo": "O Flamengo informou que a abertura da venda de ingressos para o duelo contra a Chapecoense terá um novo horário. Confira o comunicado: “NOTA OFICIAL | VENDA DE INGRESSOS ÀS 16H O Clube de Regatas do Flamengo informa que a venda de ingr",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XVzBoRU00cGhsdHVDMEQ0eFZ2NWdlZF94NnhrMGloNHBCYmJEa05FbDNkWk54TUNRdmdXbnVGYlotMHFiZHlfdk9LQW9meFY1NHc?oc=5"
-    },
-    {
-     "titulo": "Nota oficial | Venda de ingressos às 16h",
-     "fonte": "Clube de Regatas do Flamengo",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT1FZVnlGcE1HaFZiYU8yQUlJajAtaGJRQ2ViclEtZC1CanVTeUlnMExGQU9xUDZqNEFqbDhLelE4azR1aHZjQmplSkRRSGpxUzBHOTRkZWthTkhSR3V0aWpvcG5reWVvR2hoUlQxMC16SUR3Vnp2emwzcVprVm1LbUhSd3hGUnBFeExGSXZB?oc=5"
-    },
-    {
-     "titulo": "Flamengo adia venda de ingressos para jogo contra a Chapecoense por instabilidade no sistema",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON3M5ZVVlVEFxOE9xZWNBd0xrYkNKUlYxb1N5Z1RMYzItZUktaFhYLTZGaU9CaGMyNTV4MFB6YVJJUkJjSjRVaEdfYmM1aDU2MmhhWmVwbjNXT052aEdBYnBEdEtUeUpZcEhjcVBDMC0zM3RTOUJwY0tydEZiM3luZ05VWC1YYkRvb1I0bWNDdGNzWllLRmxIWnlFQXNPWDZyRDNrck9TcHQxdFc3S2FJaU85Y21kclZIQk8zLWNUSDdvdVhUS29nSHppNA?oc=5"
-    },
-    {
-     "titulo": "Nota oficial | Venda de ingressos — Flamengo x Chapecoense",
-     "fonte": "Clube de Regatas do Flamengo",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSHVVbW5NRFQ1aGVsQkstVl9vS241V1I0VDFvMWhPMVZYa2I3SGtKenZaOExKRmtZRHBiVnA0VDhsSnhyMUl1b0poa2pyODZvZXRZeFAyWV9tMVMya0ZPYXdoMGhTRWFOSFVnQ1MtZG1zZl9LdTJRZ09tZXpMQ0JRMnhJLWJ4TG9OdndCQUJRRmJaaXpHQ3FmazhCUjdVNko3MnNJ?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [
-     {
-      "id": "qntJAuGnqKw",
-      "titulo": "🎟️ ATENÇÃO NAÇÃO! VENDAS DE INGRESSOS PARA FLAMENGO X CHAPECOENSE! #Flamengo #CRF #Shorts",
-      "canal": "Plantão Mengão Cortes",
-      "views": 983,
-      "likes": 26,
+      "id": "X-Pu-YGFV58",
+      "titulo": "Leila Pereira diz que ficou 'animadinha' com projeto de 3º mandato e lamenta fim de ciclo #shorts",
+      "canal": "Terra Esportes",
+      "views": 1245,
+      "likes": 35,
       "comentarios": 1,
-      "publicado": "2026-11-24T20:11:20Z",
-      "duracao_s": 50,
+      "publicado": "2026-11-26T21:52:41Z",
+      "duracao_s": 63,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=qntJAuGnqKw"
+      "url": "https://www.youtube.com/watch?v=X-Pu-YGFV58"
      },
      {
-      "id": "oo9-dz7tRaE",
-      "titulo": "Ingressos de Flamengo x Chapecoense: venda geral adiada e preços por setor",
-      "canal": "Urubu Informado",
-      "views": 222,
-      "likes": 5,
-      "comentarios": 0,
-      "publicado": "2026-11-26T16:04:45Z",
-      "duracao_s": 41,
+      "id": "3ObdRH61eyA",
+      "titulo": "Leila confessa que tentou terceiro mandato no Palmeiras: 'Fiquei animadinha'",
+      "canal": "Estadão Esportes",
+      "views": 1174,
+      "likes": 31,
+      "comentarios": 1,
+      "publicado": "2026-11-27T00:46:56Z",
+      "duracao_s": 94,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=oo9-dz7tRaE"
+      "url": "https://www.youtube.com/watch?v=3ObdRH61eyA"
      },
      {
-      "id": "ZvQAyehJC68",
-      "titulo": "INGRESSOS A VENDA! FLAMENGO RECEBE TACA CONTRA A CHAPECOENSE 🏆",
-      "canal": "Mengão na Rede",
-      "views": 68,
-      "likes": 2,
+      "id": "b_PscLnVeTM",
+      "titulo": "Leila quer o 3º mandato no Palmeiras? Futebol se faz com money!",
+      "canal": "Sintonia Alviverde",
+      "views": 189,
+      "likes": 3,
       "comentarios": 0,
-      "publicado": "2026-11-25T10:44:10Z",
-      "duracao_s": 82,
+      "publicado": "2026-11-25T23:48:19Z",
+      "duracao_s": 228,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=ZvQAyehJC68"
+      "url": "https://www.youtube.com/watch?v=b_PscLnVeTM"
      }
     ],
-    "consulta": "Flamengo Chapecoense VENDA NOTA",
-    "n_videos": 3,
+    "consulta": "Palmeiras Leila mandato aberta",
+    "n_videos": 4,
     "mais_de": false,
-    "views": 1273,
+    "views": 14303,
     "top": [
      {
-      "titulo": "🎟️ ATENÇÃO NAÇÃO! VENDAS DE INGRESSOS PARA FLAMENGO X CHAPECOENSE! #Flamengo #CRF #Shorts",
-      "canal": "Plantão Mengão Cortes",
-      "views": 983,
-      "url": "https://www.youtube.com/watch?v=qntJAuGnqKw",
-      "publicado": "2026-11-24T20:11:20Z",
+      "titulo": "Leila Pereira recusa proposta para mudar estatuto e estender mandato no Palmeiras",
+      "canal": "Rádio Bandeirantes",
+      "views": 11695,
+      "url": "https://www.youtube.com/watch?v=6s8Tkj8MamQ",
+      "publicado": "2026-11-26T00:19:01Z",
       "do_canal": false
      },
      {
-      "titulo": "Ingressos de Flamengo x Chapecoense: venda geral adiada e preços por setor",
-      "canal": "Urubu Informado",
-      "views": 222,
-      "url": "https://www.youtube.com/watch?v=oo9-dz7tRaE",
-      "publicado": "2026-11-26T16:04:45Z",
+      "titulo": "Leila Pereira diz que ficou 'animadinha' com projeto de 3º mandato e lamenta fim de ciclo #shorts",
+      "canal": "Terra Esportes",
+      "views": 1245,
+      "url": "https://www.youtube.com/watch?v=X-Pu-YGFV58",
+      "publicado": "2026-11-26T21:52:41Z",
       "do_canal": false
      },
      {
-      "titulo": "INGRESSOS A VENDA! FLAMENGO RECEBE TACA CONTRA A CHAPECOENSE 🏆",
-      "canal": "Mengão na Rede",
-      "views": 68,
-      "url": "https://www.youtube.com/watch?v=ZvQAyehJC68",
-      "publicado": "2026-11-25T10:44:10Z",
+      "titulo": "Leila confessa que tentou terceiro mandato no Palmeiras: 'Fiquei animadinha'",
+      "canal": "Estadão Esportes",
+      "views": 1174,
+      "url": "https://www.youtube.com/watch?v=3ObdRH61eyA",
+      "publicado": "2026-11-27T00:46:56Z",
       "do_canal": false
      }
     ]
    }
   },
   {
-   "tema": "Presidente do Flamengo critica a Lei Rouanet com base em informações falsas; entenda por que Bap está errado",
-   "categoria": "Polêmica e bastidor",
-   "clubes": [
-    "Flamengo"
-   ],
-   "foco": true,
-   "nota": 65.0,
-   "sinais": {
-    "busca": 70,
-    "aceleracao": 80,
-    "midia": 81,
-    "aderencia": 100,
-    "youtube": 0
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "rouanet lei",
-   "termos_trends": [],
-   "n_fontes": 6,
-   "n_manchetes": 7,
-   "assinatura": "presi|flame|bap|futeb",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "Presidente do Flamengo critica a Lei Rouanet com base em informações falsas. Eu aposto que [SEU PALPITE]. Se eu acertar, você me deve um like.",
-    "titulo_thumb": "MEU PALPITE",
-    "pergunta_enquete": "Qual sua opinião: Presidente do Flamengo critica a Lei Rouanet com base em informações falsas; entenda por q?",
-    "tecnica": "Aposta",
-    "ganchos": [
-     {
-      "tecnica": "Aposta",
-      "texto": "Presidente do Flamengo critica a Lei Rouanet com base em informações falsas. Eu aposto que [SEU PALPITE]. Se eu acertar, você me deve um like.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "O torcedor está digitando “rouanet lei” no Google agora. A resposta não é tão simples.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Presidente do Flamengo critica a Lei Rouanet com base em informações falsas. Diretoria de um lado, torcida do outro, e quem perde é sempre o time.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Presidente do Flamengo critica a Lei Rouanet com base em informações falsas. Era para ser uma decisão simples. Virou a maior confusão da semana.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Presidente do Flamengo critica a Lei Rouanet com base em informações falsas. Quem ganha com essa confusão? Pensa bem antes de responder.",
-      "thumb": "E AGORA, FLAMENGO?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Ao ser questionado durante um evento da CBF Academy, o presidente do Flamengo, Bap, falou sobre a possibilidade de negociar jogadores do atual elenco para equilibrar as contas do clube em 2027. O dirigente afirmou que o Rubro-Negro precisará fazer",
-     "fonte": "Instagram",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OZ0NwRDd5Zkdha25HY0d0TDQweks2bXo0QkNRZFE2a0NOelhxYmYyX0hoNzIwV3JxUWxBLVZBTDNlU1l3RS1TbjQ4VU0tTzgzYUE?oc=5"
-    },
-    {
-     "titulo": "Presidente do Flamengo espalha desinformação sobre a Lei Rouanet; entenda por que Bap está errado",
-     "fonte": "Folha PE",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORXgxejBTcUk2dm9kMlI1Zk9pM3JRSmFFOWg3OElvam1iamw5RVZBaFhJUHpPVXFlSmM0VlZoUnJJOHNKTklVZU9BMGlRQ0ZldWFSNkxoRlFHR0pqUkdBa3hCOGZtZ1dkcFNtTFl2WTQyaWktM2xsWmIyMEw5Y0xxS2Z4czE3SUZFQ21CR0VDVGZPcElYbEpiaUFNOEdaRnJ5MF90ZUhHWHh3T0xFNW1qddIBsAFBVV95cUxORXgxejBTcUk2dm9kMlI1Zk9pM3JRSmFFOWg3OElvam1iamw5RVZBaFhJUHpPVXFlSmM0VlZoUnJJOHNKTklVZU9BMGlRQ0ZldWFSNkxoRlFHR0pqUkdBa3hCOGZtZ1dkcFNtTFl2WTQyaWktM2xsWmIyMEw5Y0xxS2Z4czE3SUZFQ21CR0VDVGZPcElYbEpiaUFNOEdaRnJ5MF90ZUhHWHh3T0xFNW1qdQ?oc=5"
-    },
-    {
-     "titulo": "'Brasil não apoia nada o futebol feminino', diz BAP, presidente do Flamengo",
-     "fonte": "LANCE!",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT2loNlRUTXpyUkNKUXRjaFU1WGVsWFh3a0ttalFLMkk0d0lXajRxWlR5WUZ5ZzlmdHNrX2dUZS1sdUxaMm16S0habDdQZkVtNURzRDBtWFdjcjMtYTk1TFhZQUV2a0pfVi1fZGtjeDFuQ2lRcEhSby1GdzU3ZWc2emNueGpYWXFmbks4eEJUcGtDRkZoMVhic1ItemtUeUxYX3RQUmg2Q3ZMY3JNUnhpV0lpZUFQekt2aTVGcjBmTzlTeVVIWFhRSzg2SnJDUFNmQ2dPTlhDVzZjY1dVMVVvVnBhT3VqNmZ0QXhMbGRR?oc=5"
-    },
-    {
-     "titulo": "Presidente do Flamengo faz crítica envolvendo o Governo Federal",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSkd0QjAySGJGdDRwckQwTUZkZWNvM3ZaTVFKN3BkTjQ0WTA2eXRYdmppYXg3Y2x2ZF9UcUROYXM3am9GMGdzU25nZ0ZpNW9zRm8xQjEwakNrYlo3enR1QXVWTDFRUFBQZzZzNmRqWnh2SDdzVHZKLUtLWUN5b1MzVjlKdE9PcUF2bGRmalB0ZjZpSHg3ZV85WTZOWW5YS0IzeV9tLU5yeEhYSTRCcnhUNi1MRG54MVVoSTJ0bWlrdHlrd3pXbW12N0ZENXhXNEhoSzd4aEJ1UzF1RzZtdlIwMXpLNDlibzA?oc=5"
-    },
-    {
-     "titulo": "Presidente do Flamengo critica a Lei Rouanet com base em informações falsas; entenda por que Bap está errado",
-     "fonte": "O GLOBO",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQmdCaWEyY3JNeG5PNmdaaTZkei1JMTFsZkJYVlpvMnhSYldhX08zUVJNQ1Bqc21OUm1qQ2JpVENMQmNoVC1RRXN5TkI2N3VRSG9PNTFCNFdlQTMxR18wS21fSGltQnptbVVEbXlkd0RCNUJTQnZLd1JESlhSVlNreXk5ak5DcXVqcElPVm5CdDVWQTFlcXZuZUVJMndTeDByQWFZZzR2UmlOdlhWc18xTG9uM3JBZDFKZ1hBQVJnNzNlZTZOS1J6c210REF2dUNhRW1tSVo3QS1lWGVyd2xMdEFLQ0ZRUWJEOFHSAfgBQVVfeXFMT0ZIRnItTHFsSDg4RHZBY3dkdDkwTXh2TnZBc1Y2cTk2bWFpMG5va0tpbzc0a3RtNFMtbzcxdGx1aFlVbGFfdGhWYzRkZDFMM3JWX3NTN0MwVE40UGdlZ21DcEp3TGtFVVFCaUNpMFo0bk1FTmljSkdTUFptUHlWTzZ6aTNVOXZQOW52SUVyd1FoYnhTOTdWWmdkc2NTSUhnQTBDVVdHV1JwekJYaXBCUk04WUwyb2ZzemhiOU5rc0ExcFozNGtIN0ZnazJtYnYySkpENXd1YzkyN1oxMHN2a0NHZmxfY2diYnVISzJKSXp0RHZiTHYwc2M?oc=5"
-    }
-   ],
-   "youtube": {
-    "amostra": [],
-    "consulta": "Flamengo Rouanet critica errado",
-    "n_videos": 0,
-    "mais_de": false,
-    "views": 0,
-    "top": []
-   }
-  },
-  {
-   "tema": "Alianças de Palmeiras e Estudiantes com torcidas uruguaias alerta governo",
+   "tema": "Palmeiras x Estudiantes: onde assistir ao vivo, horário, palpite e prováveis escalações da final da Libertadores",
    "categoria": "Notícia do dia",
    "clubes": [
     "Palmeiras"
    ],
    "foco": true,
-   "nota": 64.5,
+   "nota": 69.3,
    "sinais": {
-    "busca": 60,
-    "aceleracao": 44,
+    "busca": 65,
+    "aceleracao": 55,
     "midia": 67,
     "aderencia": 100,
     "youtube": null
@@ -2622,15 +1686,20 @@
    "termos_trends": [],
    "n_fontes": 4,
    "n_manchetes": 4,
-   "assinatura": "palme|urugu|torci|estud",
+   "assinatura": "estud|assis|palme|escal",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
-    "gancho": "“palmeiras x estudiantes”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-    "titulo_thumb": "VOCÊ PESQUISOU",
-    "pergunta_enquete": "Qual sua opinião: Alianças de Palmeiras e Estudiantes com torcidas uruguaias alerta governo?",
-    "tecnica": "Dado",
+    "gancho": "Jogo Palmeiras x Estudiantes: horário e como assistir ao vivo online e na TV. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+    "titulo_thumb": "MEU PALPITE",
+    "pergunta_enquete": "Qual sua opinião: Palmeiras x Estudiantes: onde assistir ao vivo, horário, palpite e prováveis escalações da?",
+    "tecnica": "Aposta",
     "ganchos": [
+     {
+      "tecnica": "Aposta",
+      "texto": "Jogo Palmeiras x Estudiantes: horário e como assistir ao vivo online e na TV. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
+      "thumb": "MEU PALPITE"
+     },
      {
       "tecnica": "Dado",
       "texto": "“palmeiras x estudiantes”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
@@ -2638,307 +1707,318 @@
      },
      {
       "tecnica": "Conflito",
-      "texto": "Alianças de Palmeiras e Estudiantes com torcidas uruguaias alerta governo. Por trás disso, tem dois lados que não querem a mesma coisa.",
+      "texto": "Jogo Palmeiras x Estudiantes: horário e como assistir ao vivo online e na TV. Por trás disso, tem dois lados que não querem a mesma coisa.",
       "thumb": "PALMEIRAS x ESTUDIANTES"
      },
      {
       "tecnica": "Contradição",
-      "texto": "Alianças de Palmeiras e Estudiantes com torcidas uruguaias alerta governo. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
+      "texto": "Jogo Palmeiras x Estudiantes: horário e como assistir ao vivo online e na TV. Todo mundo vai falar do óbvio; eu vou falar do que ninguém percebeu.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "Alianças de Palmeiras e Estudiantes com torcidas uruguaias alerta governo. Isso é bom ou ruim para o Palmeiras? Responde antes de ver a minha análise.",
+      "texto": "Jogo Palmeiras x Estudiantes: horário e como assistir ao vivo online e na TV. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
       "thumb": "E AGORA, PALMEIRAS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Alianças de Palmeiras e Estudiantes com torcidas uruguaias alerta governo. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
-      "thumb": "MEU PALPITE"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "Palmeiras x Estudiantes: Uruguai proíbe churrasco com pena de prisão",
-     "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOGttSVBESzVpbF9fcEhSTmtpWHJ4QzFDVkVPVC1Mc0dMV0pSbndURUE2blZ2RWJ0c0pKVzJVb1lOdGFnb01sX1R0RkcxNWwyWEdMSkZDNjByZGpUeGNUTHZqakt2Vk1qVm8za2UxdFB2M0Vxb0ZWYk93X3M3OGRSa0tyb011blRSV1BGWUZYTS1razBmU1ZJaDk4Y2xqYktxMUNPZFl2MDQyWGZ2ak9EVmo0Y2VNYURXbmlCd0FGV2ZpenFKSTdDWnY1VHc5cGsxbHQ0NmMxa0tjMUtOUTBsbVZCeHdLRlpVaDlhQWVR?oc=5"
+     "titulo": "Palmeiras x Estudiantes decidem a Libertadores neste sábado; veja onde assistir",
+     "fonte": "Portal Piauí Hoje",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSURsSVdjZDhxc1Z1eHVrV1FiUm5UUEdHYkhiWDlnNktVQlpfeFhYQTBwdXBYQWpsQmljeWZWdm5LYkFScGNFdW85UjBadFBCZ3BVSXcyMEJaZ0owazU3emozR2JDUzEzNkJGcTVoNEZvZlV0b2M2WF9hUmlNRHE0MV85N1Q3QlY4d2JVZm1RTW9lNzdKd2k3MVVHNTlLM2Z1OEVnRzFoOTBXaGtxdFlPWmFYZzZrZzJsczBmWkduUGc4bzlOMEFLblR1VXZwRjjSAc8BQVVfeXFMTUlEbElXY2Q4cXNWdXh1a1dRYlJuVFBHR2JIYlg5ZzZLVUJaX3hYWEEwcHVwWEFqbEJpY3lmVnZuS2JBUnBjRXVvOVIwWnRQQmdwVUl3MjBCWmdKMGs1N3pqM0diQ1MxMzZCRnE1aDRGb2ZVdG9jNlhfYVJpTURxNDFfOTdUN0JWOHdiVWZtUU1vZTc3SndpNzFVRzU5SzNmdThFZ0cxaDkwV2hrcXRZT1phWGc2a2cybHMwZlpHblBnOG85TjBBS25UdVV2cEY4?oc=5"
     },
     {
-     "titulo": "Palmeiras recebe festa da torcida antes de embarque para o Uruguai",
-     "fonte": "Gazeta Esportiva",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWU8zN3F6Y0NkNngyY3lrWTJTR1dsS2U5UDNzQ0h2dWZ1TU9vYTE0VUM1NDVWTDBnMXg3X3BkMkR4XzRvSUlPS0lpeFlPajZ2ZV9zUEUyckctdTNMT2xSdFk5S2RVT0lvMUJDOERHeFpNTFlJTTRfWDhmZTFKdjdwOUd6NnhoaGU2SUhRZndRZnVlYjNhcXhTMGRtNG5KZ3FYX29XWnNUZndzMXVhSkFtR2F5QnRhbm9k0gG-AUFVX3lxTFBnc2xIbkZQTDNpb2NuckpHYWhVcHcySTc1UjlIRFFxeEhtRTQxUDBqd0RlSG1lNG9wSWNPUjZvUDg2TUtXdjNaRXJTVnByRl9fU3ZoM19fb1hWc0hIOS1ZaXN2X0xTeFlsOWNOdHRkcXFkVlRJZl9uU0pFdll0eEtmeDg1eXNWWDQ3UXE1Tnl0MmxyTEI4cUR6TTV1UzNleEJ1RGFOT3VHOTVGS0w3STdaZWIxQmVqV2JCS0JUVUE?oc=5"
+     "titulo": "Jogo Palmeiras x Estudiantes: horário e como assistir ao vivo online e na TV",
+     "fonte": "Hora Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMzF4N1RHcFUtYUlNcUYycjdtNFdPaXJWV1dlZmk3eXdCTi1XUExVTzhYamdyVk5qQmJuQ0plcDFaSmJpNFBzeUhuQ1oxNU9zdGFWVkg4OFVwaEtKREstSHhfTDBSQmFwN0xCMURQQXE5R1NaMUNWZDlMTTd0ZVNOd1NKX2cxVkVGVW9mT1BneUhucC1TMmdEV1BxN2h4dmFGSWQ1bnRtRHc5NGo4YXR3d1hwZEZlTlR5?oc=5"
     },
     {
-     "titulo": "Alianças de Palmeiras e Estudiantes com torcidas uruguaias alerta governo",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc0Z4YnBLazJISENIQ3NiLUpDUFNlRzRLcU9hTkZwV0lFWnN6aHN6enB5MnlwV3BhMnFUYmFBOUN2S2hSeHphY1ItcnNxS3hCNGFJOG9Ua1BiRnZtci0xbWQ2bHhma3lsQkhta3hnRzhHb3lwNVZNTjkxUlBaaUp2cTVDMFZXaUg3WDB4RHJDcHFaN1NUbFRUZTEtd1dDaW1TVDAzSmFTd2dCdFRnS2x4bnFMbUVJQTg4YVZZTkRUekdvczl1Wkd6WXRlX2paRllLY0lOZjhiYTlLMDFWWVE?oc=5"
+     "titulo": "Palmeiras x Estudiantes: veja onde assistir e as prováveis escalações | Diário do Grande ABC - Notícias e informações",
+     "fonte": "Diário do Grande ABC",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX0JvSTZaRVFrNmhQeGN0VFhYUGx3Wk5qRm81d3M1YjQ1NmhEUG43SXZENGdVREphWFVReXJTNmFWRmNkdkhocmU1NG51YWVZWHRHNDhxaS1Ucl90VjZEdFNJYzdRSFE3bWkzM3puUTNJZ0RuQ0luTWZWSXR3UmpxQ1d1R1hweXdhQjZnMGxteUxqZXdJbU9iTGxYWC1BNm53LUd2ZkMteEg1dldGa3c?oc=5"
     },
     {
-     "titulo": "Assim como o Palmeiras, Estudiantes transformou apelido pejorativo em símbolo da torcida",
-     "fonte": "Exame",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPekRLMUlTaWFZSkNRTnRYNlQ2LXk2V2xVcUIzOWsyNkx4cjV3a081YmJMV0pBeHhJRUVpRjhmOE4xTXo5U2FJNjBVcjVENEZnOGJnSnQtVnBYR2V0OS1iMW1tZEtsQ1RqN3RrRC1WbHRMV0hMVHduaGdwQmxZSXMyUURaRnpiS2d6aHluY0hsTngwY1ZubG9hZ2h2cEJGNHgyX0RmZ1dzQnl4TVhKT0t5V2NzOW4?oc=5"
+     "titulo": "Palmeiras x Estudiantes: onde assistir ao vivo, horário, palpite e prováveis escalações da final da Libertadores",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQlh2cC1SazJRNno3X0lxcU05Vnladk1LQkVtVTZjTTVpalpsTWRBenJGTkVpcW1aTHZqVVdiR1hnYlM2LUlwYVROSUF3dVpRYzhEeWVSaDAyZEdWQmFPQUZFUmE3SUhRMzF5ZGNVa1BOVnNLQ19OeC05ZzZqZ3AxdnRfcHhxOFc4bHF6aEFnS28tY2xJckR0QlBrM2lMTmRRZDJwR0lmNXlyam1LMGxmZG0xUDF0ektoZ2Nfck1RX1FIRXFDY1Y3dklCRXhxT3pGV0FiY1RHMWV4eU9KSFo4SkI3T2hUM1M1YkktQ3RhRVk2RjV4YVdtR0FhTQ?oc=5"
     }
    ]
   },
   {
-   "tema": "São Paulo e Mônica lançam coleção especial em homenagem a Mauricio de Sousa",
+   "tema": "Flamengo terá jogo com Zico pelos 45 anos do Mundial de Clubes",
    "categoria": "Notícia do dia",
    "clubes": [
-    "São Paulo"
+    "Flamengo"
    ],
    "foco": true,
-   "nota": 64.3,
+   "nota": 68.8,
    "sinais": {
-    "busca": 55,
-    "aceleracao": 54,
-    "midia": 58,
+    "busca": 70,
+    "aceleracao": 85,
+    "midia": 46,
     "aderencia": 100,
-    "youtube": null
+    "youtube": 41
    },
    "fator_categoria": 1.0,
    "trafego_google": 0,
-   "busca_torcedor": "são paulo fc tem quantos anos",
+   "busca_torcedor": "mundial de clubes",
    "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "mauri|monic|homen|paulo",
+   "n_fontes": 2,
+   "n_manchetes": 2,
+   "assinatura": "jogo|anos|mundi|zico",
    "ja_coberto": null,
    "sugestao": {
     "formato": "Enquete e provocação (30 s)",
-    "gancho": "São Paulo e Mônica lançam coleção especial em homenagem a Mauricio de Sousa. Nem todo mundo no São Paulo vai gostar disso, e eu vou explicar por quê.",
-    "titulo_thumb": "QUEM TEM RAZÃO?",
-    "pergunta_enquete": "Qual sua opinião: São Paulo e Mônica lançam coleção especial em homenagem a Mauricio de Sousa?",
-    "tecnica": "Conflito",
+    "gancho": "Flamengo terá jogo com Zico pelos 45 anos do Mundial de Clubes. Parece só um número, mas ele vai pesar nos próximos meses do Flamengo.",
+    "titulo_thumb": "45 ANOS",
+    "pergunta_enquete": "Qual sua opinião: Flamengo terá jogo com Zico pelos 45 anos do Mundial de Clubes?",
+    "tecnica": "Dado",
     "ganchos": [
      {
+      "tecnica": "Dado",
+      "texto": "Flamengo terá jogo com Zico pelos 45 anos do Mundial de Clubes. Parece só um número, mas ele vai pesar nos próximos meses do Flamengo.",
+      "thumb": "45 ANOS"
+     },
+     {
       "tecnica": "Conflito",
-      "texto": "São Paulo e Mônica lançam coleção especial em homenagem a Mauricio de Sousa. Nem todo mundo no São Paulo vai gostar disso, e eu vou explicar por quê.",
+      "texto": "Flamengo terá jogo com Zico pelos 45 anos do Mundial de Clubes. Nem todo mundo no Flamengo vai gostar disso, e eu vou explicar por quê.",
       "thumb": "QUEM TEM RAZÃO?"
      },
      {
       "tecnica": "Contradição",
-      "texto": "São Paulo e Mônica lançam coleção especial em homenagem a Mauricio de Sousa. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
+      "texto": "Flamengo terá jogo com Zico pelos 45 anos do Mundial de Clubes. Todo mundo leu a manchete; quase ninguém leu o que está por trás.",
       "thumb": "NÃO É BEM ASSIM"
      },
      {
       "tecnica": "Pergunta aberta",
-      "texto": "São Paulo e Mônica lançam coleção especial em homenagem a Mauricio de Sousa. Foi certo ou errado? Comenta antes de ver o vídeo inteiro.",
-      "thumb": "E AGORA, SÃO PAULO?"
+      "texto": "Flamengo terá jogo com Zico pelos 45 anos do Mundial de Clubes. E agora: o que muda para o Flamengo?",
+      "thumb": "E AGORA, FLAMENGO?"
      },
      {
       "tecnica": "Aposta",
-      "texto": "São Paulo e Mônica lançam coleção especial em homenagem a Mauricio de Sousa. Minha aposta: [SEU PALPITE]. Me cobra daqui a uma semana.",
+      "texto": "Flamengo terá jogo com Zico pelos 45 anos do Mundial de Clubes. Aposto que pouca gente entendeu o tamanho disso. Me cobra no fim da temporada.",
       "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "São Paulo lança coleção com a tricolor Mônica em homenagem aos 90 anos de. Guarda esse número, porque ele muda a conversa sobre o São Paulo.",
-      "thumb": "90 ANOS"
      }
     ]
    },
    "manchetes": [
     {
-     "titulo": "São Paulo e Mônica lançam coleção especial em homenagem a Mauricio de Sousa",
-     "fonte": "Arquibancada Tricolor",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZzN1ODVjWkliV2xlX0ZXbzdWbnhRM2ZwdUZmWElSOG1tNGZMWkU0Q21TWksyUTI4Si1FbTdsejh2MFJaellrRkF3S05QWkZTWEw5THZNXzdnRkRKTTRmU3FoN21sN2tMMUpZb2hmd0lvcGVLcVJnTjVhWE1fMDcxY01JS0phZw?oc=5"
+     "titulo": "Flamengo terá jogo com Zico pelos 45 anos do Mundial de Clubes",
+     "fonte": "LANCE!",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMk5TVmg1dENrblNhRXBZWmcyRWtZVjJQci1rX0dxNjl3NDNKQW9kY25LRVlhUGJWOWp2QVpSOWF0ZEtwVzhTVTZ1dEhoZW0zY2JUZTBiYm1sZ1BvWEp3MHNsX0d6SXhXNFVzZGpjMm0tT0ZXQVQ2ZnBaemRlNzRmU1JDYlVWT1JvQU5rZnRpMDhEUlFSVkQwRWw2X3lDek9xOHlzNkpzeHUwclN0eUdaQ0MtbVFUSVVOQ3pVVU9VS2Y?oc=5"
     },
     {
-     "titulo": "São Paulo lança coleção com a tricolor Mônica em homenagem aos 90 anos de Mauricio de Souza",
-     "fonte": "Máquina do Esporte",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQU9UZ2Jjd3JwRTRLcFJRYll2enppY184RFE4V3hBZElGLS1hWHB2d1RhUGJ4ZWp6V2JFZTJKZkVSWWxhN1B5VFRKaXRaU1l3TkdBTmhDNTRsd2h3bEltS1ZDSW9wTkxsQURIcmNIOHhFOFgzRFpiY0hZRWQ3RFZHakVzWTFCWkg2QUllLWVYaHgzMjlLZF9zVTZjU05keUxOeUFxTnpleDRsRVF4S1ZMUEJPRW5YdGVxd3liWHVNTTRKanNuLXdwLWZOaVk?oc=5"
-    },
-    {
-     "titulo": "Mônica e São Paulo FC se unem em coleção especial que homenageia Mauricio de Sousa",
-     "fonte": "SportBuzz",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY28wVVl5czNxTVVUVEp3M2xTbjZnLUpYbmlia2JkWTRhZmp4VjlkcVFPYnp0aVFVc1lDZkZjdGtQdzY0cTRkaXJHYzlZamtWcU5fdWUyX293Q0NudWpLeHF5SkhvY1ZCc0N4cmUxVzNLU1ZuRW16Y2JUUHpHaGZwQXg4UEhRZnJVMmJ5QnVvTGI2WF9NTksxd0F6OTRXX25taUxmdWRCRTN6V2duZlZGelVsMGhwNjYzbzBsR1pOcFlEYVRmN3c?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Gustavo Gómez, do Palmeiras, pode alcançar feito inédito na história da Libertadores",
-   "categoria": "Notícia do dia",
-   "clubes": [
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 63.9,
-   "sinais": {
-    "busca": 30,
-    "aceleracao": 78,
-    "midia": 58,
-    "aderencia": 100,
-    "youtube": null
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "palmeiras libertadores",
-   "termos_trends": [],
-   "n_fontes": 3,
-   "n_manchetes": 3,
-   "assinatura": "gomez|palme|gusta|histo",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Enquete e provocação (30 s)",
-    "gancho": "Gustavo Gómez, do Palmeiras, pode alcançar feito inédito na história da Libertadores. A leitura óbvia é uma. A que importa é outra.",
-    "titulo_thumb": "NÃO É BEM ASSIM",
-    "pergunta_enquete": "Qual sua opinião: Gustavo Gómez, do Palmeiras, pode alcançar feito inédito na história da Libertadores?",
-    "tecnica": "Contradição",
-    "ganchos": [
-     {
-      "tecnica": "Contradição",
-      "texto": "Gustavo Gómez, do Palmeiras, pode alcançar feito inédito na história da Libertadores. A leitura óbvia é uma. A que importa é outra.",
-      "thumb": "NÃO É BEM ASSIM"
-     },
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Gustavo Gómez, do Palmeiras, pode alcançar feito inédito na história da Libertadores. Isso é bom ou ruim para o Palmeiras? Responde antes de ver a minha análise.",
-      "thumb": "E AGORA, PALMEIRAS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Gustavo Gómez, do Palmeiras, pode alcançar feito inédito na história da Libertadores. Eu aposto que essa história ainda ganha capítulo novo esta semana. Guarda esse vídeo.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "“palmeiras libertadores”: é isso que o torcedor está pesquisando hoje. Eu vou responder sem enrolação.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Gustavo Gómez, do Palmeiras, pode alcançar feito inédito na história da Libertadores. Nem todo mundo no Palmeiras vai gostar disso, e eu vou explicar por quê.",
-      "thumb": "QUEM TEM RAZÃO?"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Gustavo Gómez, do Palmeiras, pode alcançar feito inédito na história da Libertadores",
+     "titulo": "Zico e ídolos do Flamengo se reunirão em jogo pelos 45 anos do Mundial",
      "fonte": "Terra",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQXpzWGF6ZEhhcmppaTNhUHIxRWNva0gtLWoxYWNud3hIWXlWOWZOLVdic2JaSmpiUTdRUW9RbGVibXdGRWtqdlkydlBkQmVXOEJJeXlqV01reUhIU0Vyb2NZaDJPbERDTUUwMXBBRWlSUHBlbjlBbkNlVmFyYnlQcGJLZXdybmRWOUZIMDZmc0RrNUo4SXVTd3lQLWQtUjl3eENucDc2b1Mxc0dJSEMyR1hyNER2OFRuMnh5TE9LU3ZoaFpzTWZRM1JqYkJoNVB1aUp6MzV1ellfdi16REdXaVFkVUFKMlRabEw1TFF4UnBqcV9QZ1BGaVhxU0N0Qjc0Z3c?oc=5"
-    },
-    {
-     "titulo": "Gustavo Gómez é o maior da história do Palmeiras? André Donke e Breiller Pires discutem em qual prateleira o zagueiro se encontra",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tbDZ1SUZhYXhkcUI4WjhSa2NkcUxWNWNVWDFJZEYtbm1tdkJKUWdzRktUSkh5TTU5OElhemZvYWRqcE5sNXQ1TnJvYXJMT2ZGbXVDSVpZcXBUM01VdHc?oc=5"
-    },
-    {
-     "titulo": "Gustavo Gómez vira destaque na Espanha por trajetória no Palmeiras",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNelRtVVNhc0E5REdUYXFBRWJSWEFIdW5fVDFGUTVWY3FCZ0Q3eGtFNU9pVk9BdWdVbm5BOVNEa3RuYTg0SHJyS1h1dmotNEJuVGhITjVabHpIVjlHOGJoU0N2ZzFzN1RlTlFaTWxNbkViNEZ5bFl2eW5sdWQwV1hsOU1ld2NWZkFGcHFxQmc1a2FTV0Q2eDRRaE8tT3g2dWhWX2ViMHVoMUZjTmFiM3o5c2E4WTVzejAwQ1I1dy14bE4?oc=5"
-    }
-   ]
-  },
-  {
-   "tema": "Barboza prevê título do Palmeiras na Libertadores e gera incômodo na Argentina; veja repercussão",
-   "categoria": "Polêmica e bastidor",
-   "clubes": [
-    "Palmeiras"
-   ],
-   "foco": true,
-   "nota": 63.3,
-   "sinais": {
-    "busca": 60,
-    "aceleracao": 54,
-    "midia": 67,
-    "aderencia": 100,
-    "youtube": 46
-   },
-   "fator_categoria": 1.0,
-   "trafego_google": 0,
-   "busca_torcedor": "palmeiras x estudiantes",
-   "termos_trends": [],
-   "n_fontes": 4,
-   "n_manchetes": 4,
-   "assinatura": "palme|argen|campe|barbo",
-   "ja_coberto": null,
-   "sugestao": {
-    "formato": "Explicador de bastidor (2 a 4 min)",
-    "gancho": "Até onde essa história do Palmeiras vai chegar?",
-    "titulo_thumb": "E AGORA, PALMEIRAS?",
-    "pergunta_enquete": "Qual sua opinião: Barboza prevê título do Palmeiras na Libertadores e gera incômodo na Argentina; veja reper?",
-    "tecnica": "Pergunta aberta",
-    "ganchos": [
-     {
-      "tecnica": "Pergunta aberta",
-      "texto": "Até onde essa história do Palmeiras vai chegar?",
-      "thumb": "E AGORA, PALMEIRAS?"
-     },
-     {
-      "tecnica": "Aposta",
-      "texto": "Minha aposta: essa confusão do Palmeiras ainda vai ter mais um capítulo esta semana. Guarda esse vídeo.",
-      "thumb": "MEU PALPITE"
-     },
-     {
-      "tecnica": "Dado",
-      "texto": "O torcedor está digitando “palmeiras x estudiantes” no Google agora. A resposta não é tão simples.",
-      "thumb": "VOCÊ PESQUISOU"
-     },
-     {
-      "tecnica": "Conflito",
-      "texto": "Barboza prevê título do Palmeiras na Libertadores e gera incômodo na Argentina. Tem gente no Palmeiras puxando para lados opostos, e essa conta chega no campo.",
-      "thumb": "QUEM TEM RAZÃO?"
-     },
-     {
-      "tecnica": "Contradição",
-      "texto": "Dizem que está tudo em paz no Palmeiras. O que acontece nos bastidores mostra o contrário.",
-      "thumb": "NÃO É BEM ASSIM"
-     }
-    ]
-   },
-   "manchetes": [
-    {
-     "titulo": "Barboza prevê título do Palmeiras na Libertadores e gera incômodo na Argentina; veja repercussão",
-     "fonte": "Exame",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNXZFU1dObWtfZFp2YjhueDZxS21wZEJNOWczRG14ejZEUk1SblBYaVVjSkFONjlyN0Y4Q0dFQUhhZTNKV1NVYjhRRmMxRDdhTWZZc0dGQTY2dG5sQTJwbjdjenl1T09qUUFuODBBOUZ0TEFFb29BalBQWFpJZVVldW9SbzR6aFVWcUsyVzIzUUI0Q2hXS0ZJYndZZmk0YVloU0FWX1Vzd0VqMExFYW9CS1d5c3FVWkRGSjFJd2RmTQ?oc=5"
-    },
-    {
-     "titulo": "Motivação? Frase de Barboza sobre Palmeiras x Estudiantes vira assunto na Argentina: 'Já se vê campeão'",
-     "fonte": "ESPN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQktaR1hmNXhoZi1XcGFJcmdNTE5rZjRyNDVhdEhoMHQ1Rm81TmV2RjZKcUJ5cmpkWGJLbk5nYmp3TEQ0U0JFQk1lNGlGS3Z4eE5VMkExdVBQWThyY2ozUDZDXzZrejR1aXBBbmk5UUVNUjFpZUx1UnliS2pHVGFlM3pmQjB5ZFJNekZ2dzF6djZraE42WEVZVjQwdXFjSzNCdjFtV1JfQUtxcEh3ZkJyNmpVYjMyZWw2VXE3MzZOYUkwOWdFWHc?oc=5"
-    },
-    {
-     "titulo": "'Já se vê campeão': argentinos repercutem fala de zagueiro do Palmeiras",
-     "fonte": "UOL",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaEpZb2kzLUtTOXRjSkNJN0lrdG5ndDI2Q2xNclFwdndEb2RlM29ydUZGTTRXZUFFeW1vMmtJYlZxTjNLUjhlQlBvZ19rNE5wbTh0NkUwdGZocTZrRkVYWnVRWmpGYW9hckd3dTBmWXRWOGltaWVqX3EyeGVqdFRPRHEzZXZBNEtGLVNtV19xT3I5NWp5bmc3cS1MVXZjalJqSEVvejVBY0NJN2ozSzEteFh3UVU1dVF1M1NIWm9pR25heTNhWm5IR0R6bEJfV21jcWxxczRfdnpxYTZm?oc=5"
-    },
-    {
-     "titulo": "Palmeiras e Estudiantes podem desempatar briga entre Brasil e Argentina na Libertadores",
-     "fonte": "G1",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU3hqQVk0MGYwcXdrMFNYSkEyMzdabTNzV3NnM0JiYVNaS0JXSGstTXcxakd6UG5Dc3M0SFpEWFNPM2RBdjR6VGp0a0VSSkl2bmpwUGdyeUFsUl9ZRndoaFJKSEVicjlFakdEY1R2dFh4dlB2WmpvOUZScXNQWjdUYkVtbU9ZbVZtTXVKS1UtNjV0dDlpLUxSTTBleUh3NkxzUm5EQWF0SE5IaWFxQTRMMEEwUThQOHZTc1VwQi1lcTBXNDgxRl9LbW5LYzdndGV1Q2FoWU1CTDJ3eXE20gHrAUFVX3lxTE81WlRxRlJuRW1WN1dIU3JHSjU5anFYS2JXZ0swSVFKUUJhb0R0bTdpTDl4NFQxa3JJOXFkVnJEdFM1S3c2SDVSMmxMSkRLWm9uaElIaWdFMFN6WTNTOEJzNmpIYzktY3hkOEt3ZjZ1QWZJZzJXRjE1Vkd5ak4yV05PZExUZEtyeU5CcUI3MnF1YVI1cVNXRW91Znl4T3E5Q3ZSSGxBVjV3YXptZVJBaHhUSUhBdlYtSWc0U3RIc0pMb3QySGt5UGFkQ2paeDZodTQ0R3NwOFJTOUhMQlJ1dVJ6cUNQazFnb0Z0Y0U?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZ3YydXFaZFVSSDRzTEJNM3h2dDBUQUtYMVlTZlBzYl8ya2ZlUDR2N2FLY2dvRnBiM1pJZURIWU9wYWcyNXpnNDEwMTBNTkZNdnVPSWlZYWpPUEdWWDFXeDBQbmRrTF9uMEFNVFNRcGhJWjlIYlFtQlF2WlZ3eDNPbi1lc0RickRqem5mcFpqRkNLSy0zbUdFbWJSV3JMSjhESHdqbzRJbnFiNzZKY1YtbVBoLUk1c3NSajhERGRwLXMtRS1STURIamhmWjdKd1NFazZjb2huOTljYVRYWVVPWkZJQmZsaEk1dmNlZ3JvOUs?oc=5"
     }
    ],
    "youtube": {
     "amostra": [
      {
-      "id": "IST_Jn_tMIc",
-      "titulo": "PROVOCOU? ARGENTINOS REPERCUTEM A FALA DE BARBOZA SOBRE PALMEIRAS CAMPEÃO DA LIBERTADORES",
-      "canal": "UOL Esporte",
-      "views": 1746,
-      "likes": 90,
-      "comentarios": 13,
-      "publicado": "2026-11-26T18:21:10Z",
-      "duracao_s": 1022,
+      "id": "w1P3Gxpctjk",
+      "titulo": "Arrascaeta já passou o Zico em títulos… mas falta o MUNDIAL 😳 #shorts",
+      "canal": "Resenhola FC",
+      "views": 710,
+      "likes": 17,
+      "comentarios": 1,
+      "publicado": "2026-11-27T00:30:25Z",
+      "duracao_s": 60,
       "live": false,
-      "url": "https://www.youtube.com/watch?v=IST_Jn_tMIc"
+      "url": "https://www.youtube.com/watch?v=w1P3Gxpctjk"
      }
     ],
-    "consulta": "Palmeiras Argentina Barboza repercussão",
+    "consulta": "Flamengo Mundial Zico Clubes",
     "n_videos": 1,
     "mais_de": false,
-    "views": 1746,
+    "views": 710,
     "top": [
      {
-      "titulo": "PROVOCOU? ARGENTINOS REPERCUTEM A FALA DE BARBOZA SOBRE PALMEIRAS CAMPEÃO DA LIBERTADORES",
-      "canal": "UOL Esporte",
-      "views": 1746,
-      "url": "https://www.youtube.com/watch?v=IST_Jn_tMIc",
-      "publicado": "2026-11-26T18:21:10Z",
+      "titulo": "Arrascaeta já passou o Zico em títulos… mas falta o MUNDIAL 😳 #shorts",
+      "canal": "Resenhola FC",
+      "views": 710,
+      "url": "https://www.youtube.com/watch?v=w1P3Gxpctjk",
+      "publicado": "2026-11-27T00:30:25Z",
       "do_canal": false
      }
     ]
+   }
+  },
+  {
+   "tema": "Ao vivo: Coritiba x Flamengo | Rodada 37 | Campeonato Brasileiro",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 68.0,
+   "sinais": {
+    "busca": 50,
+    "aceleracao": 71,
+    "midia": 67,
+    "aderencia": 100,
+    "youtube": null
+   },
+   "fator_categoria": 1.148,
+   "trafego_google": 0,
+   "busca_torcedor": "corinthians x grêmio",
+   "termos_trends": [],
+   "n_fontes": 4,
+   "n_manchetes": 12,
+   "assinatura": "brasi|campe|rodad|flame",
+   "ja_coberto": {
+    "titulo": "PALMEIRAS X FLAMENGO- RODADA 36",
+    "url": "https://www.youtube.com/watch?v=dYiIKVpbsa8"
+   },
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Flamengo x Coritiba: um precisa vencer, o outro não pode perder.",
+    "titulo_thumb": "FLAMENGO x CORITIBA",
+    "pergunta_enquete": "Qual sua opinião: Ao vivo: Coritiba x Flamengo | Rodada 37 | Campeonato Brasileiro?",
+    "tecnica": "Conflito",
+    "ganchos": [
+     {
+      "tecnica": "Conflito",
+      "texto": "Flamengo x Coritiba: um precisa vencer, o outro não pode perder.",
+      "thumb": "FLAMENGO x CORITIBA"
+     },
+     {
+      "tecnica": "Contradição",
+      "texto": "Rodada 37 | Campeonato Brasileiro. Parece que está tudo resolvido. No futebol, quase nunca está.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Flamengo x Coritiba: qual é o detalhe que vai decidir?",
+      "thumb": "E AGORA, FLAMENGO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Eu aposto que o Flamengo [VENCE / EMPATA / PERDE], e explico por quê. Qual é o seu placar?",
+      "thumb": "MEU PALPITE"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Confira imagens do treino do Flamengo desta sexta-feira (27). O elenco se reapresentou após o churrasco em comemoração do título do Brasileirão na quinta-feira (26). O elenco rubro-negro segue na preparação para o duelo válido pela 37ª rodada contra o",
+     "fonte": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GRjhQSXNscjh4bDJUck5OYmlfN3FxVFBfTTVrelkweDdndzU2Z19kaGE3TFNhbzNudHAwc0lpQnNEOUtIYUlMOFZpNm5zY2RlUVE?oc=5"
+    },
+    {
+     "titulo": "Ao vivo: Coritiba x Flamengo | Rodada 37 | Campeonato Brasileiro",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdTlhRzFSVDIxTERXTjNhT2tPTm1EUlk0bjZ6UXJDaTE2WDBDVXJRTGRwUGF3S1N2QURHNDVIVWQyTzVZMTgtdXQxekFFZkJ5WUk4ZzJNTFBVSlpMaFNOR1YxVEdTQlZJelp0X0NDWlJjZnBMTVJlTlRNOVdScVFBWUUzNFJleEZlVlhrSmNJM1hoZ3hKUWc?oc=5"
+    },
+    {
+     "titulo": "Ao vivo: Atlético-MG x Vasco | Rodada 37 | Campeonato Brasileiro",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZlB6U2NiODJ3STZfaVJBWGF0VEo2OVhfekQtckVIWTYyX00yYkljU1R3Tm9MeWFZZ25ub21HOFZYVlpVQ19xYU9mekp4cEZoZkZoTWlXSi1zUFJwYlh2LS1ibnpoZ0lwQjN4NGhRM09GOWxKV2RvdjZXYjYxV0UyQkZ6dlhvUDBjOXJUejhfWGJjZXk5UFE?oc=5"
+    },
+    {
+     "titulo": "Ao vivo: Internacional x Bragantino | Rodada 37 | Campeonato Brasileiro",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcEpDaVRKb0RjQUQwTURLdkRnN2tqS19PSlk2V2pydTFETmpvMFhPUUlUZUNNU1hoWUNrZ3ptWGw4Tk1CV0hKa0Uwc3k4cm02Z0kteU1jeC1yR1VaRW9kdTYtOVA2eXBwSG9PY3VYc1hDcFhwdGYwZllOd3hqUDlBckdEc1l1MEtRUmxVZzUzc2dFaEpEbjJ0ejFCYmpSUzg?oc=5"
+    },
+    {
+     "titulo": "Agência de Comunicação - Flamengo conquista o título do Campeonato Brasileiro da Série A, enquanto a GAC amplia sua presença no Brasil por meio do futebol",
+     "fonte": "Estadão Blue Studio",
+     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNcDhEaUV5UUFJRklJaC1mQWZFX3VLSzNIR001U2VHVWxpYllhMEdqQ1hvMWZuR25oOVozcnhDQW1pZ1NvWkh2OFUtMjRRTHFJSTFYN0pKQ2g1MFdDZWtSM1MyaXFvM3RpazNXTkZjSmlwVkVTVEFWMkROWkg0QS1IUWh4MjhxcXhDVWhMbkxkTzVSbUZnS29McF9NUkRLLWkzYjFwTE9VUlFEa3llZFJQU3NlOE9wOERlVVJDX1FfMlU3VktLTFBZSUdqYUJpSkVxSl9scVN3R1VzMXZWY3RkeVZyTTd5Q1dKV3ljVmZzV3duLXR6U1N3LUtvbzlpcGRhXzB6dnpCMHFhX0dHQnRHaUlPWlR3M2ozSlhsRG5pMGhaN1U?oc=5"
+    }
+   ]
+  },
+  {
+   "tema": "Abel lamenta perda de título brasileiro, mas lembra quedas do Flamengo: 'Ficou fora da Copa do Brasil e da Libertadores...'",
+   "categoria": "Jogo e resultado",
+   "clubes": [
+    "Flamengo"
+   ],
+   "foco": true,
+   "nota": 67.4,
+   "sinais": {
+    "busca": 75,
+    "aceleracao": 53,
+    "midia": 75,
+    "aderencia": 100,
+    "youtube": 0
+   },
+   "fator_categoria": 1.148,
+   "trafego_google": 0,
+   "busca_torcedor": "abel ferreira",
+   "termos_trends": [],
+   "n_fontes": 5,
+   "n_manchetes": 7,
+   "assinatura": "brasi|flame|titul|copa",
+   "ja_coberto": null,
+   "sugestao": {
+    "formato": "Corte da live com a reação (30 a 90 s)",
+    "gancho": "Abel lamenta perda de título brasileiro, mas lembra quedas do Flamengo. A leitura óbvia é uma. A que importa é outra.",
+    "titulo_thumb": "NÃO É BEM ASSIM",
+    "pergunta_enquete": "Qual sua opinião: Abel lamenta perda de título brasileiro, mas lembra quedas do Flamengo: 'Ficou fora da Cop?",
+    "tecnica": "Contradição",
+    "ganchos": [
+     {
+      "tecnica": "Contradição",
+      "texto": "Abel lamenta perda de título brasileiro, mas lembra quedas do Flamengo. A leitura óbvia é uma. A que importa é outra.",
+      "thumb": "NÃO É BEM ASSIM"
+     },
+     {
+      "tecnica": "Pergunta aberta",
+      "texto": "Abel lamenta perda de título brasileiro, mas lembra quedas do Flamengo. A pergunta que ninguém está fazendo: quem sai ganhando com isso?",
+      "thumb": "E AGORA, FLAMENGO?"
+     },
+     {
+      "tecnica": "Aposta",
+      "texto": "Abel lamenta perda de título brasileiro, mas lembra quedas do Flamengo. Eu já tenho meu palpite de como isso termina: [SEU PALPITE]. E você?",
+      "thumb": "MEU PALPITE"
+     },
+     {
+      "tecnica": "Dado",
+      "texto": "13 anos. Esse é o número da semana no Flamengo, e eu vou te mostrar por quê.",
+      "thumb": "13 ANOS"
+     },
+     {
+      "tecnica": "Conflito",
+      "texto": "Flamengo contra Palmeiras vale mais do que três pontos, e os dois sabem disso.",
+      "thumb": "FLAMENGO x PALMEIRAS"
+     }
+    ]
+   },
+   "manchetes": [
+    {
+     "titulo": "Varela, do Flamengo, tatua título brasileiro depois do empate com o Palmeiras; veja",
+     "fonte": "ge",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQjE3VmhQR3pNUWw0T09vUzNZWTBtN3FsaGkwdlpSb000YlpmTGRIVlJwZElkRG5iQkZxMEJqRGR1cjZEUXRhdnBrV0xobFdCMTRuVTU1M0huaTJiTkhlTFJZc1BQbnRaR3BIa0dXTnJfSzNwTVVadW9fRGtaMENfUE1rd0FkMjF2N3E4MTlwQ3BhVWJKWjAxVEpWclAxenE0M0JjOWtSOXBDNkwzU2VvMXR5YzlqRUJVeE5maVJzWk5oSS1HR3Bzc2JTSGMxNG9vRUpZX1F1eWFYYWJEVUNtVzNiRdIB8gFBVV95cUxOZmR3RGpqMUp2MDR6azZranJGMDRXdk82b2lya3publAzWGlXRGhmSFNZbm9LQTVkc2ZEZFdETzRoaElQUjBrYlRGR1JWZEp6S1NmUlJzTDNUbU1WM2gxRnprME5aQTRVTzNEUGxKNU83SklqTllCTGpzb09oSGxtd294eHczX1FKTk5uZ1pQaFRmNTF1UTJfYk1EQjZFb29hV29iVXJGamx3SGRjQ1BuNHROYmg0ZTFUMHFNbjVLQXBXRk45aWhkTTdseWdzLUlqNFc3azNLTHlzUGlIY3Nzd3luc1E0V05DVFVSSXh2UjNuQQ?oc=5"
+    },
+    {
+     "titulo": "Abel diz como Palmeiras chega para final e volta a citar Flamengo sobre perda do Brasileirão",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVGVOYUpCRXEwaXhyci1ZbmdZU2g4czFCQkJVRUZWWUNTZldfNDdWQVZKbUs1UWExdzQ5SnBkNTlJYXdsNUVqQUp6MlNqMjliNE5qZHF4OGVqakVycVBkX0R4REJieWt3MHhuRW0yLUR3dFIyVGtISVZtN2NIU2UxcENnWFpxWG8yV1FqY0pIUTA5a3I4NnZVVmdWWjhqUDVYZnNWSlhEcGVCQVZZOFVlSkxQVzhJY2RVazBxQU4teTY?oc=5"
+    },
+    {
+     "titulo": "Abel Ferreira diz que queda na Libertadores e Copa do Brasil deu margem para Flamengo brigar pelo Brasileirão",
+     "fonte": "Terra",
+     "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNZ19CNV9Cand5NWZMNnE4V3gzenhENW5IRjVpMVl6VEdNaElFZDlNNVpvSTlrbEJ5Q1piOFFnbWNlY0EtN2IydGdseWNlejJmX05NNEFEUVM1MWs0aHZrNWFMSk9kanpJSVljX3lOeHFnaHhXajZGcWVsSlFldVd0dzN4bjFac1h1TWcyMDhFSXpJcm5nTXpCMGZGdDFvWDNMMTJuWGdqNXFJeTFkeHRhX0lWZlMzeTg4OWJJelJsc2Zfa21XSXlHamJ0d0thQjk3OXhGWmhXNXdtNHByTGRHWVRoUGREenJfY2RTWlRHM1lNcWkxd09jQUxJQVVMMWc0OUo0X0ttSlZwV0g5d2JRall6LVZHUFNDS19aRThtX3ozbXRveWlRVkJrcXdJUHY5OW9jVnRhcU90X3cx?oc=5"
+    },
+    {
+     "titulo": "Abel lamenta perda de título brasileiro, mas lembra quedas do Flamengo: 'Ficou fora da Copa do Brasil e da Libertadores...'",
+     "fonte": "ESPN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JVFlENFNvRVJMbG1RN1JWcFR5SjBZWUQxRndmRjhOMlVKY0RfTHJQWVRMTDN0aWNQejVMSnBxNkdTNUllNFZOaTh6amRxeUdPc3VqOE42bXJXdlA3cWc?oc=5"
+    },
+    {
+     "titulo": "Flamengo: 13 anos do tri da Copa do Brasil com dois gols no fim",
+     "fonte": "brasileirao.com.br",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXpsVHV0VHJ4cGRaUFhNWlBHVzhkMm55eE5DLVkxVWoxbGVOdlpQU2c0VXFkTnZOZldnNHR5dlhFMkFQQkZCWUx1ZzJxbXdZU3FZOFFYdU9RRjJxUm9WMWExOFRwN2MwOFZUbW1sS2dQVUNCcjVNSS1YNGdzcUdUcTlKMmZBenZXSXZRNEh0bU1aemdRWXo1Ti1VYWZnU0dmRTlIaTIySQ?oc=5"
+    }
+   ],
+   "youtube": {
+    "amostra": [],
+    "consulta": "Flamengo Abel título quedas",
+    "n_videos": 0,
+    "mais_de": false,
+    "views": 0,
+    "top": []
    }
   }
  ]

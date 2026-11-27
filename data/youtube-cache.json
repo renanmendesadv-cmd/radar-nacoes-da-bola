@@ -1,1439 +1,591 @@
 {
- "flamengo lino samuel musica": {
-  "dia": "2026-11-26",
+ "corinthians rede": {
+  "dia": "2026-11-27",
   "resultado": {
    "amostra": [
     {
-     "id": "EYL5sKxSRu0",
-     "titulo": "NOVA MÚSICA DE SAMU LINO! TUDO EXPOSTO! LIVRAMENTO COM PULGAR! TAVAM ESPERANDO!",
-     "canal": "MOMENTO DO PAPARAZZO",
-     "views": 10440,
-     "likes": 495,
-     "comentarios": 18,
-     "publicado": "2026-11-24T20:41:30Z",
-     "duracao_s": 587,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=EYL5sKxSRu0"
-    },
-    {
-     "id": "x80LPXzId2E",
-     "titulo": "SAMUEL LINO CANTA COM A TORCIDA! RAÇA RUBRO-NEGRA FAZ FESTA PARA O CRAQUE DO FLAMENGO! 🔥🔴⚫ #shorts",
-     "canal": "GOL DE LETRA",
-     "views": 8818,
-     "likes": 1461,
-     "comentarios": 40,
-     "publicado": "2026-11-26T16:10:23Z",
-     "duracao_s": 85,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=x80LPXzId2E"
-    },
-    {
-     "id": "_3NQkztrs3Y",
-     "titulo": "🤣 PAQUETÁ CRIOU MÚSICA PRO LINO!",
-     "canal": "Rodrigo Ramos RN",
-     "views": 8759,
-     "likes": 412,
-     "comentarios": 3,
-     "publicado": "2026-11-24T20:45:27Z",
-     "duracao_s": 28,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=_3NQkztrs3Y"
-    },
-    {
-     "id": "qCswGWJ-TIk",
-     "titulo": "NOVA MÚSICA DA TORCIDA DO FLAMENGO! LINO, JORGINHO E LÉO PEREIRA CANTAM COM A RAÇA RUBRO-NEGRA!",
-     "canal": "Jovem Pan Esportes",
-     "views": 7940,
-     "likes": 672,
-     "comentarios": 35,
-     "publicado": "2026-11-26T18:07:44Z",
-     "duracao_s": 37,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=qCswGWJ-TIk"
-    },
-    {
-     "id": "1VRK7ZAiLRw",
-     "titulo": "Samuel Lino comandou a humilhante conquista do Flamengo na casa do Palmeiras ⚽#shorts",
-     "canal": "FLAMENGO MUSIC",
-     "views": 2993,
-     "likes": null,
-     "comentarios": 0,
-     "publicado": "2026-11-24T22:20:45Z",
-     "duracao_s": 29,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=1VRK7ZAiLRw"
-    },
-    {
-     "id": "aJBN0CbDGwk",
-     "titulo": "A musica em homenagem ao Samuel Lino com autoria da Raça e Paquetá 🔥 #flamengo #futebol #shorts",
-     "canal": "PODFLA NT",
-     "views": 1839,
-     "likes": 235,
-     "comentarios": 10,
-     "publicado": "2026-11-26T15:28:39Z",
-     "duracao_s": 79,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=aJBN0CbDGwk"
-    },
-    {
-     "id": "JU2mIFiGzCQ",
-     "titulo": "LINO MARAVILHA, FAZ MAIS UM PRA GENTE VER 👀 🎶CURTIU A MÚSICA QUE A NAÇÃO FEZ DO SAMUEL LINO?",
-     "canal": "RD FLA | Pai  e Filho Flamengo ",
-     "views": 1460,
-     "likes": null,
-     "comentarios": 3,
-     "publicado": "2026-11-26T12:52:17Z",
-     "duracao_s": 39,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=JU2mIFiGzCQ"
-    },
-    {
-     "id": "nr0dj2yaUhk",
-     "titulo": "música nova que a torcida do Flamengo fez para Samuel Nino #flamengo #futebol #brasileirão 👑❤️🙌🏆",
-     "canal": "EsterRubroNegra",
-     "views": 1378,
-     "likes": 61,
-     "comentarios": 1,
-     "publicado": "2026-11-26T00:18:17Z",
-     "duracao_s": 15,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=nr0dj2yaUhk"
-    },
-    {
-     "id": "uN22btXLe74",
-     "titulo": "🔴⚫️ LINO BANK PARQUE: O NOVO NOME DO CHIQUEIRO! 🏟️🐷 #flamengo #mengo #mengão #brasileirão",
-     "canal": "TERRAFLAMISTAS PODCAST",
-     "views": 1269,
-     "likes": 49,
-     "comentarios": 6,
-     "publicado": "2026-11-26T12:44:05Z",
-     "duracao_s": 28,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=uN22btXLe74"
-    },
-    {
-     "id": "hnp4K3t422M",
-     "titulo": "🎶 LINO MARAVILHA VIROU MÚSICA!",
-     "canal": "Setorista RN",
-     "views": 1161,
-     "likes": 29,
-     "comentarios": 0,
-     "publicado": "2026-11-24T21:00:01Z",
-     "duracao_s": 28,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=hnp4K3t422M"
-    },
-    {
-     "id": "ylqMjDemXpI",
-     "titulo": "SAMUEL LINO RECEBE HOMENAGEM DA TORCIDA DO FLAMENGO #flamengo #mengão #futebol",
-     "canal": "Fla Total",
-     "views": 938,
-     "likes": 71,
-     "comentarios": 6,
-     "publicado": "2026-11-26T16:16:22Z",
-     "duracao_s": 87,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ylqMjDemXpI"
-    },
-    {
-     "id": "OmsZjw-OCMI",
-     "titulo": "🔥 NAÇÃO, ESSA MÚSICA TEM QUE PEGAR!",
-     "canal": "Rodrigo Ramos RN",
-     "views": 653,
-     "likes": 49,
-     "comentarios": 0,
-     "publicado": "2026-11-26T15:00:01Z",
-     "duracao_s": 116,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=OmsZjw-OCMI"
-    },
-    {
-     "id": "CbttIwq8CUY",
-     "titulo": "LINO MARAVILHA NOS GOSTAMOS DE VOCÊ - NOVA MÚSICA TORCIDA DO FLAMENGO #flamengo #torcida #shorts",
-     "canal": "CORTES DO GB - FAMOSOS ",
-     "views": 406,
-     "likes": 9,
-     "comentarios": 1,
-     "publicado": "2026-11-26T18:18:16Z",
-     "duracao_s": 34,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=CbttIwq8CUY"
-    },
-    {
-     "id": "pJYpF3hR84I",
-     "titulo": "FICOU BEM LEGAL ESSA ATUALIZAÇÃO DA MÚSICA DO GRANDE JORGE BENJOR NÉ SAMUEL LINO E LÉO PEREIRA! 👏❤️🖤",
-     "canal": "Flamenguista Realista",
-     "views": 395,
-     "likes": 47,
-     "comentarios": 2,
-     "publicado": "2026-11-26T17:14:31Z",
-     "duracao_s": 81,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=pJYpF3hR84I"
-    },
-    {
-     "id": "dDkSbMUvJ88",
-     "titulo": "😱🔴 O QUE A TORCIDA FEZ PARA SAMUEL LINO NO NINHO VAI ARREPIAR A NAÇÃO!",
-     "canal": "Fla Nação VVP / Flamengo",
-     "views": 385,
-     "likes": 57,
-     "comentarios": 3,
-     "publicado": "2026-11-26T19:36:36Z",
-     "duracao_s": 70,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=dDkSbMUvJ88"
-    },
-    {
-     "id": "CPxX9xDqIJ8",
-     "titulo": "Samuel Lino cantando a música que a torcida do MENGÃO fez em sua homenagem! Aprovado nação? #fla",
-     "canal": "Fla Humor & Resenha",
-     "views": 377,
-     "likes": 34,
-     "comentarios": 2,
-     "publicado": "2026-11-26T16:56:21Z",
-     "duracao_s": 79,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=CPxX9xDqIJ8"
-    },
-    {
-     "id": "xVHDCGMqubI",
-     "titulo": "O gol do Lino virou quadro no Ninho! Golaço do nosso fotógrafo! #Shorts",
-     "canal": "Minuto Flamengo",
-     "views": 275,
-     "likes": 10,
-     "comentarios": 0,
-     "publicado": "2026-11-26T18:32:18Z",
-     "duracao_s": 49,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=xVHDCGMqubI"
-    },
-    {
-     "id": "8LpcTTOs9tY",
-     "titulo": "Samuel Lino 🙃 #flamengo #samuellino #capcut #campeão #edit .",
-     "canal": "FLA_EDITZ",
-     "views": 114,
-     "likes": 8,
-     "comentarios": 2,
-     "publicado": "2026-11-24T21:10:23Z",
-     "duracao_s": 13,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=8LpcTTOs9tY"
-    },
-    {
-     "id": "NEckcIabUtc",
-     "titulo": "SAMUEL LINO CANTA MÚSICA COM A RAÇA E CHAMA ESTÁDIO DE CHIQUEIRO KKK [..] DESPEDIDA NO NINHO?",
-     "canal": "Paparazzo Rubro-Negro II",
-     "views": 48,
-     "likes": 24,
-     "comentarios": 0,
-     "publicado": "2026-11-26T19:44:38Z",
-     "duracao_s": 665,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=NEckcIabUtc"
-    },
-    {
-     "id": "Yup5gI7jUn8",
-     "titulo": "SAMUEL LINO CANTA COM A TORCIDA A SUA MUSICA !! MANGÃO!! #flamengo #mengaomalvadao #futebol",
-     "canal": "Edson Ramos",
-     "views": 20,
-     "likes": 2,
-     "comentarios": 0,
-     "publicado": "2026-11-26T16:45:55Z",
-     "duracao_s": 60,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Yup5gI7jUn8"
-    },
-    {
-     "id": "olll6_SQALg",
-     "titulo": "RAÇA RUBRO-NEGRA HOMENAGEM COM BANDEIRÃO A JORGINHO, LÉO PEREIRA E SAMUEL LINO! 🔴⚫🥁",
-     "canal": "CACRJFLA",
-     "views": 18,
-     "likes": 5,
-     "comentarios": 1,
-     "publicado": "2026-11-26T19:06:45Z",
-     "duracao_s": 67,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=olll6_SQALg"
-    },
-    {
-     "id": "uueOsbE0VFo",
-     "titulo": "🎶 NOVA MÚSICA DO LINO MARAVILHA!",
-     "canal": "Setorista RN",
-     "views": 14,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-26T16:00:21Z",
-     "duracao_s": 116,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=uueOsbE0VFo"
-    },
-    {
-     "id": "f_mvtz94zGw",
-     "titulo": "SAMUEL LINO GANHA MÚSICA E VIRA QUADRO NO CT DO FLAMENGO! 🔴⚫🏆 #flamengo #shorts",
-     "canal": "FlaZoom",
-     "views": 2,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-26T19:30:24Z",
-     "duracao_s": 34,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=f_mvtz94zGw"
-    }
-   ],
-   "consulta": "Flamengo Lino Samuel música",
-   "n_videos": 23,
-   "mais_de": false,
-   "views": 49702,
-   "top": [
-    {
-     "titulo": "NOVA MÚSICA DE SAMU LINO! TUDO EXPOSTO! LIVRAMENTO COM PULGAR! TAVAM ESPERANDO!",
-     "canal": "MOMENTO DO PAPARAZZO",
-     "views": 10440,
-     "url": "https://www.youtube.com/watch?v=EYL5sKxSRu0",
-     "publicado": "2026-11-24T20:41:30Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "SAMUEL LINO CANTA COM A TORCIDA! RAÇA RUBRO-NEGRA FAZ FESTA PARA O CRAQUE DO FLAMENGO! 🔥🔴⚫ #shorts",
-     "canal": "GOL DE LETRA",
-     "views": 8818,
-     "url": "https://www.youtube.com/watch?v=x80LPXzId2E",
-     "publicado": "2026-11-26T16:10:23Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "🤣 PAQUETÁ CRIOU MÚSICA PRO LINO!",
-     "canal": "Rodrigo Ramos RN",
-     "views": 8759,
-     "url": "https://www.youtube.com/watch?v=_3NQkztrs3Y",
-     "publicado": "2026-11-24T20:45:27Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "palmeiras ferreira abel martinelli": {
-  "dia": "2026-11-26",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "Xxs9hhwKGoU",
-     "titulo": "A PEDIDO DE ABEL FERREIRA, PALMEIRAS AVALIA PROPOSTA POR MARTINELLI",
-     "canal": "NETFLU",
-     "views": 60,
-     "likes": 4,
-     "comentarios": 0,
-     "publicado": "2026-11-26T15:26:55Z",
-     "duracao_s": 131,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Xxs9hhwKGoU"
-    }
-   ],
-   "consulta": "Palmeiras Ferreira Abel Martinelli",
-   "n_videos": 1,
-   "mais_de": false,
-   "views": 60,
-   "top": [
-    {
-     "titulo": "A PEDIDO DE ABEL FERREIRA, PALMEIRAS AVALIA PROPOSTA POR MARTINELLI",
-     "canal": "NETFLU",
-     "views": 60,
-     "url": "https://www.youtube.com/watch?v=Xxs9hhwKGoU",
-     "publicado": "2026-11-26T15:26:55Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "corinthians empata ameacado": {
-  "dia": "2026-11-26",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "_Hspg5GtAhw",
-     "titulo": "Corinthians empata com o Atlético-MG e Série B vira ameaça. Olha a tabela!",
-     "canal": "FLAMENGUISTA ORIGINAL ",
-     "views": 22112,
-     "likes": 142,
-     "comentarios": 19,
-     "publicado": "2026-11-26T01:12:32Z",
-     "duracao_s": 21,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=_Hspg5GtAhw"
-    },
-    {
-     "id": "Bmk7aFyED6g",
-     "titulo": "Brasileirão: Atlético-MG empata no fim e mantém Corinthians ameaçado #Shorts",
-     "canal": "Voz da Midia",
-     "views": 370,
-     "likes": 4,
-     "comentarios": 0,
-     "publicado": "2026-11-26T05:40:59Z",
-     "duracao_s": 16,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Bmk7aFyED6g"
-    },
-    {
-     "id": "y_hfxCkNsDQ",
-     "titulo": "NewsPro TV — Brasileirão: Atlético-MG empata no fim e mantém Corinthians ameaçado",
-     "canal": "newspro Today",
-     "views": 0,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-26T14:36:49Z",
-     "duracao_s": 288,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=y_hfxCkNsDQ"
-    }
-   ],
-   "consulta": "Corinthians empata ameaçado",
-   "n_videos": 3,
-   "mais_de": false,
-   "views": 22482,
-   "top": [
-    {
-     "titulo": "Corinthians empata com o Atlético-MG e Série B vira ameaça. Olha a tabela!",
-     "canal": "FLAMENGUISTA ORIGINAL ",
-     "views": 22112,
-     "url": "https://www.youtube.com/watch?v=_Hspg5GtAhw",
-     "publicado": "2026-11-26T01:12:32Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "Brasileirão: Atlético-MG empata no fim e mantém Corinthians ameaçado #Shorts",
-     "canal": "Voz da Midia",
-     "views": 370,
-     "url": "https://www.youtube.com/watch?v=Bmk7aFyED6g",
-     "publicado": "2026-11-26T05:40:59Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "NewsPro TV — Brasileirão: Atlético-MG empata no fim e mantém Corinthians ameaçado",
-     "canal": "newspro Today",
-     "views": 0,
-     "url": "https://www.youtube.com/watch?v=y_hfxCkNsDQ",
-     "publicado": "2026-11-26T14:36:49Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "corinthians rebaixamento cenarios": {
-  "dia": "2026-11-26",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "aIyrpKpLTZA",
-     "titulo": "CONFIRMADO! JÁ TEMOS UM TIME GRANDE REBAIXADO EM 2026!",
-     "canal": "Torcedorismo",
-     "views": 21588,
-     "likes": 633,
-     "comentarios": 41,
-     "publicado": "2026-11-26T09:00:35Z",
-     "duracao_s": 821,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=aIyrpKpLTZA"
-    },
-    {
-     "id": "1z8qid87CRo",
-     "titulo": "SE PERDER HOJE O CORINTHIANS JA ESTA REBAIXADO",
-     "canal": "Radar do Apito ",
-     "views": 2531,
-     "likes": 7,
-     "comentarios": 0,
-     "publicado": "2026-11-24T20:28:14Z",
-     "duracao_s": 7,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=1z8qid87CRo"
-    },
-    {
-     "id": "pSDVDCVKjkY",
-     "titulo": "Os cenários para Corinthians e Galo #corinthians #brasileirao #rebaixamento #simulador",
-     "canal": "FutIsake",
-     "views": 1652,
-     "likes": 42,
-     "comentarios": 8,
-     "publicado": "2026-11-24T20:48:49Z",
-     "duracao_s": 105,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=pSDVDCVKjkY"
-    },
-    {
-     "id": "bUiKK0aWQSA",
-     "titulo": "Os cenários pro Corinthians chegar aos 45 pontos #corinthians #brasileirao #rebaixamento #simulador",
-     "canal": "FutIsake",
-     "views": 1447,
-     "likes": 35,
-     "comentarios": 3,
-     "publicado": "2026-11-25T10:53:35Z",
-     "duracao_s": 118,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=bUiKK0aWQSA"
-    },
-    {
-     "id": "Ne6ilcb_uCo",
-     "titulo": "Os cenários se o Corinthians vencer, empatar ou perder pro Galo hoje #corinthians #rebaixamento",
-     "canal": "FutIsake",
-     "views": 1290,
-     "likes": 38,
-     "comentarios": 1,
-     "publicado": "2026-11-25T20:05:47Z",
-     "duracao_s": 107,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Ne6ilcb_uCo"
-    },
-    {
-     "id": "3P4tgvafgZQ",
-     "titulo": "Corinthians x Grêmio: quem se afasta do rebaixamento no domingo?",
-     "canal": "Futebol em Xeque",
-     "views": 157,
-     "likes": 3,
-     "comentarios": 0,
-     "publicado": "2026-11-26T14:32:05Z",
-     "duracao_s": 352,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=3P4tgvafgZQ"
-    },
-    {
-     "id": "RlOVlfB2Y0Y",
-     "titulo": "Corinthians não pode perder para o Grêmio: confronto pode definir rebaixamento | CONVOCAÇÃO CNN",
-     "canal": "CNN Esportes",
-     "views": 46,
-     "likes": 3,
-     "comentarios": 0,
-     "publicado": "2026-11-26T16:27:39Z",
-     "duracao_s": 177,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=RlOVlfB2Y0Y"
-    },
-    {
-     "id": "_nmVBwysR6Y",
-     "titulo": "Atlético MG x Corinthians...Os possíveis cenários do Z 4 do Brasileirão",
-     "canal": "Giro do Esporte BR",
-     "views": 8,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-25T21:45:10Z",
-     "duracao_s": 741,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=_nmVBwysR6Y"
-    },
-    {
-     "id": "CDGTy_OM47M",
-     "titulo": "Corinthians Pode CAIR? Os Cenários da Última Rodada 😱⚽ #fyp #foryou",
-     "canal": "ANGO FIFAdraft",
-     "views": 0,
-     "likes": 0,
-     "comentarios": 0,
-     "publicado": "2026-11-25T21:02:24Z",
-     "duracao_s": 69,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=CDGTy_OM47M"
-    }
-   ],
-   "consulta": "Corinthians rebaixamento cenários",
-   "n_videos": 9,
-   "mais_de": false,
-   "views": 28719,
-   "top": [
-    {
-     "titulo": "CONFIRMADO! JÁ TEMOS UM TIME GRANDE REBAIXADO EM 2026!",
-     "canal": "Torcedorismo",
-     "views": 21588,
-     "url": "https://www.youtube.com/watch?v=aIyrpKpLTZA",
-     "publicado": "2026-11-26T09:00:35Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "SE PERDER HOJE O CORINTHIANS JA ESTA REBAIXADO",
-     "canal": "Radar do Apito ",
-     "views": 2531,
-     "url": "https://www.youtube.com/watch?v=1z8qid87CRo",
-     "publicado": "2026-11-24T20:28:14Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "Os cenários para Corinthians e Galo #corinthians #brasileirao #rebaixamento #simulador",
-     "canal": "FutIsake",
-     "views": 1652,
-     "url": "https://www.youtube.com/watch?v=pSDVDCVKjkY",
-     "publicado": "2026-11-24T20:48:49Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "flamengo rouanet critica errado": {
-  "dia": "2026-11-26",
-  "resultado": {
-   "amostra": [],
-   "consulta": "Flamengo Rouanet critica errado",
-   "n_videos": 0,
-   "mais_de": false,
-   "views": 0,
-   "top": []
-  }
- },
- "palmeiras martinelli radar": {
-  "dia": "2026-11-26",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "9AvKd31XcrA",
-     "titulo": "MERCADO DA BOLA: Martinelli no radar do Palmeiras, Vasco sonda Marcos Antônio, Flu quer Jair E+",
-     "canal": "DL Football",
-     "views": 8016,
-     "likes": 392,
-     "comentarios": 4,
-     "publicado": "2026-11-25T14:10:32Z",
-     "duracao_s": 78,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=9AvKd31XcrA"
-    },
-    {
-     "id": "xRLhfu7ls-g",
-     "titulo": "🔥 NAPOLI TEM INTERESSE EM JOÃO FÉLIX | PSG MIRA CARLOS FORBS | MARTINELLI NO RADAR DO PALMEIRAS E+",
-     "canal": "Estevis",
-     "views": 4934,
-     "likes": 380,
-     "comentarios": 14,
-     "publicado": "2026-11-25T15:00:20Z",
-     "duracao_s": 577,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=xRLhfu7ls-g"
-    },
-    {
-     "id": "y1GJriny79g",
-     "titulo": "🚨 Felipe Anderson saindo, Ganso renovando e Martinelli no radar do Palmeiras! #Palmeiras #Fluminense",
-     "canal": "Fut Notícias",
-     "views": 1150,
-     "likes": 23,
-     "comentarios": 0,
-     "publicado": "2026-11-26T13:59:40Z",
-     "duracao_s": 39,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=y1GJriny79g"
-    },
-    {
-     "id": "_shOI4q5rXM",
-     "titulo": "DESTAQUE DO FLUMINENSE, MARTINELLI ENTRA NA MIRA DO PALMEIRAS",
-     "canal": "NETFLU",
-     "views": 154,
-     "likes": 22,
-     "comentarios": 0,
-     "publicado": "2026-11-25T15:42:54Z",
-     "duracao_s": 113,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=_shOI4q5rXM"
-    },
-    {
-     "id": "Xxs9hhwKGoU",
-     "titulo": "A PEDIDO DE ABEL FERREIRA, PALMEIRAS AVALIA PROPOSTA POR MARTINELLI",
-     "canal": "NETFLU",
-     "views": 60,
-     "likes": 4,
-     "comentarios": 0,
-     "publicado": "2026-11-26T15:26:55Z",
-     "duracao_s": 131,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Xxs9hhwKGoU"
-    }
-   ],
-   "consulta": "Palmeiras Martinelli radar",
-   "n_videos": 5,
-   "mais_de": false,
-   "views": 14314,
-   "top": [
-    {
-     "titulo": "MERCADO DA BOLA: Martinelli no radar do Palmeiras, Vasco sonda Marcos Antônio, Flu quer Jair E+",
-     "canal": "DL Football",
-     "views": 8016,
-     "url": "https://www.youtube.com/watch?v=9AvKd31XcrA",
-     "publicado": "2026-11-25T14:10:32Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "🔥 NAPOLI TEM INTERESSE EM JOÃO FÉLIX | PSG MIRA CARLOS FORBS | MARTINELLI NO RADAR DO PALMEIRAS E+",
-     "canal": "Estevis",
-     "views": 4934,
-     "url": "https://www.youtube.com/watch?v=xRLhfu7ls-g",
-     "publicado": "2026-11-25T15:00:20Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "🚨 Felipe Anderson saindo, Ganso renovando e Martinelli no radar do Palmeiras! #Palmeiras #Fluminense",
-     "canal": "Fut Notícias",
-     "views": 1150,
-     "url": "https://www.youtube.com/watch?v=y1GJriny79g",
-     "publicado": "2026-11-26T13:59:40Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "corinthians operacao esgota": {
-  "dia": "2026-11-26",
-  "resultado": {
-   "amostra": [],
-   "consulta": "Corinthians Operação esgota",
-   "n_videos": 0,
-   "mais_de": false,
-   "views": 0,
-   "top": []
-  }
- },
- "flamengo chapecoense venda nota": {
-  "dia": "2026-11-26",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "qntJAuGnqKw",
-     "titulo": "🎟️ ATENÇÃO NAÇÃO! VENDAS DE INGRESSOS PARA FLAMENGO X CHAPECOENSE! #Flamengo #CRF #Shorts",
-     "canal": "Plantão Mengão Cortes",
-     "views": 983,
-     "likes": 26,
-     "comentarios": 1,
-     "publicado": "2026-11-24T20:11:20Z",
-     "duracao_s": 50,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=qntJAuGnqKw"
-    },
-    {
-     "id": "oo9-dz7tRaE",
-     "titulo": "Ingressos de Flamengo x Chapecoense: venda geral adiada e preços por setor",
-     "canal": "Urubu Informado",
-     "views": 222,
-     "likes": 5,
-     "comentarios": 0,
-     "publicado": "2026-11-26T16:04:45Z",
-     "duracao_s": 41,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=oo9-dz7tRaE"
-    },
-    {
-     "id": "ZvQAyehJC68",
-     "titulo": "INGRESSOS A VENDA! FLAMENGO RECEBE TACA CONTRA A CHAPECOENSE 🏆",
-     "canal": "Mengão na Rede",
-     "views": 68,
-     "likes": 2,
-     "comentarios": 0,
-     "publicado": "2026-11-25T10:44:10Z",
-     "duracao_s": 82,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ZvQAyehJC68"
-    }
-   ],
-   "consulta": "Flamengo Chapecoense VENDA NOTA",
-   "n_videos": 3,
-   "mais_de": false,
-   "views": 1273,
-   "top": [
-    {
-     "titulo": "🎟️ ATENÇÃO NAÇÃO! VENDAS DE INGRESSOS PARA FLAMENGO X CHAPECOENSE! #Flamengo #CRF #Shorts",
-     "canal": "Plantão Mengão Cortes",
-     "views": 983,
-     "url": "https://www.youtube.com/watch?v=qntJAuGnqKw",
-     "publicado": "2026-11-24T20:11:20Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "Ingressos de Flamengo x Chapecoense: venda geral adiada e preços por setor",
-     "canal": "Urubu Informado",
-     "views": 222,
-     "url": "https://www.youtube.com/watch?v=oo9-dz7tRaE",
-     "publicado": "2026-11-26T16:04:45Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "INGRESSOS A VENDA! FLAMENGO RECEBE TACA CONTRA A CHAPECOENSE 🏆",
-     "canal": "Mengão na Rede",
-     "views": 68,
-     "url": "https://www.youtube.com/watch?v=ZvQAyehJC68",
-     "publicado": "2026-11-25T10:44:10Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "corinthians escalacoes": {
-  "dia": "2026-11-26",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "uNOIN5FGQZ0",
-     "titulo": "RONALDO ANALISA PROVÁVEIS TIMES DE ATLÉTICO-MG X CORINTHIANS",
-     "canal": "Jogo Aberto",
-     "views": 34180,
-     "likes": 388,
-     "comentarios": 10,
-     "publicado": "2026-11-25T16:39:53Z",
-     "duracao_s": 173,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=uNOIN5FGQZ0"
-    },
-    {
-     "id": "88vAPE90VQU",
-     "titulo": "MP pede INTERVENÇÃO no Corinthians e a semana pega fogo 😱🔥",
-     "canal": "Camisa 17 oficial",
-     "views": 14870,
-     "likes": null,
-     "comentarios": 12,
-     "publicado": "2026-11-25T00:30:16Z",
-     "duracao_s": 71,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=88vAPE90VQU"
-    },
-    {
-     "id": "h62GUM890mM",
-     "titulo": "PRELEÇÃO ATLÉTICO X CORINTHIANS | BRASILEIRÃO 2026 | ESCALAÇÕES, TRANSMISSÃO, ARBITRAGEM, DESFALQUES",
-     "canal": "Canal do Frossard",
-     "views": 12553,
-     "likes": 713,
-     "comentarios": 52,
-     "publicado": "2026-11-25T09:30:13Z",
-     "duracao_s": 1126,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=h62GUM890mM"
-    },
-    {
-     "id": "mEeP_Ex010E",
-     "titulo": "MUDANÇAS NO TIMÃO! PROVÁVEL ESCALAÇÃO ATLÉTICO MG X CORINTHIANS",
-     "canal": "IDENTIDADE CORINTHIANA",
-     "views": 10933,
-     "likes": 123,
-     "comentarios": 3,
-     "publicado": "2026-11-24T22:42:19Z",
-     "duracao_s": 321,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=mEeP_Ex010E"
-    },
-    {
-     "id": "8C76VZRnIOg",
-     "titulo": "EMPATE AMARGO EM BH - CORINTHIANS 1 X 1 ATLÉTICO MG",
-     "canal": "IDENTIDADE CORINTHIANA",
-     "views": 9991,
-     "likes": 578,
-     "comentarios": 29,
-     "publicado": "2026-11-26T04:37:38Z",
-     "duracao_s": 106,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=8C76VZRnIOg"
-    },
-    {
-     "id": "S2q0EnT9Alk",
-     "titulo": "VITINHO SOLTA BOMBA!! RESCISÃO NA FIFA | POR ATRASOS DE PAGAMENTOS E MAIS....",
-     "canal": "Fiel Torcida!",
-     "views": 9630,
-     "likes": 62,
-     "comentarios": 1,
-     "publicado": "2026-11-24T22:48:41Z",
-     "duracao_s": 42900,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=S2q0EnT9Alk"
-    },
-    {
-     "id": "kVrCouBPbyk",
-     "titulo": "VESSONI SOLTA BOMBA!! NOVO CENTROAVANTE | WILLIAN JOSÉ CHEGA DE GRAÇA...",
-     "canal": "Fiel Torcida!",
-     "views": 8822,
-     "likes": 96,
-     "comentarios": 2,
-     "publicado": "2026-11-25T22:43:16Z",
-     "duracao_s": 42900,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=kVrCouBPbyk"
-    },
-    {
-     "id": "X48IVMXbmfw",
-     "titulo": "HOJE TEM CORINTHIANS X ATLÉTICO MG EM BH",
-     "canal": "IDENTIDADE CORINTHIANA",
-     "views": 7220,
-     "likes": 245,
+     "id": "wQ2uKSqGU64",
+     "titulo": "🔴 ATLÉTICO-MG X CORINTHIANS | AO VIVO | BRASILEIRÃO 2026 | JOGO AO VIVO COM IMAGENS DA ARENA MRV",
+     "canal": "Na Rede Oficial",
+     "views": 1897790,
+     "likes": 5627,
      "comentarios": 7,
-     "publicado": "2026-11-25T03:00:21Z",
-     "duracao_s": 72,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=X48IVMXbmfw"
+     "publicado": "2026-11-26T01:27:12Z",
+     "duracao_s": 14627,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=wQ2uKSqGU64"
     },
     {
-     "id": "G-d41jEUHjM",
-     "titulo": "ESCALAÇÃO DO CORINTHIANS CONTRA O GRÊMIO! QUEM JOGA? GARRO TITULAR! E O YURI ALBERTO?",
-     "canal": "Corinthians em Debate",
-     "views": 4153,
-     "likes": 61,
-     "comentarios": 11,
-     "publicado": "2026-11-26T12:00:36Z",
-     "duracao_s": 551,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=G-d41jEUHjM"
+     "id": "NVDcJOVwRjQ",
+     "titulo": "ATLÉTICO-MG X CORINTHIANS AO VIVO AGORA: BRASILEIRÃO - LIVE",
+     "canal": "Na Rede Oficial",
+     "views": 1457878,
+     "likes": 6226,
+     "comentarios": 26,
+     "publicado": "2026-11-26T01:17:46Z",
+     "duracao_s": 8183,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=NVDcJOVwRjQ"
     },
     {
-     "id": "swknIdLkeJc",
-     "titulo": "ESCALAÇÕES ATLÉTICO-MG X CORINTHIANS: VEJA QUEM PODE SER TITULAR NO JOGÃO DE HOJE! 🔥",
-     "canal": "Placar alvinegro com danilo",
-     "views": 4128,
-     "likes": 11,
+     "id": "oCa9mRo0dtE",
+     "titulo": "GOOOOL DO CORINTHIANS! O Timão balança a rede no Atlético-MG aos 24 do 2º tempo 🖤🤍🔥",
+     "canal": "Meu coringão",
+     "views": 2175,
+     "likes": 16,
      "comentarios": 0,
-     "publicado": "2026-11-25T20:37:21Z",
-     "duracao_s": 10,
+     "publicado": "2026-11-26T00:45:27Z",
+     "duracao_s": 8,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=swknIdLkeJc"
+     "url": "https://www.youtube.com/watch?v=oCa9mRo0dtE"
     },
     {
-     "id": "LAQHJt8Dt-4",
-     "titulo": "ATLÉTICO MINEIRO X CORINTHIANS - ESCALAÇÕES - BRASILEIRÃO - FUTEBOL AO VIVO - JOGO DE HOJE",
-     "canal": "TV ATITUDE",
-     "views": 3088,
+     "id": "d2pxW3XL-Bw",
+     "titulo": "Giai estufa a rede de novo e vira o quarto gol do Palmeiras no derby #futebol #palmeiras",
+     "canal": "Novelinha do Palmeiras",
+     "views": 981,
      "likes": 12,
      "comentarios": 0,
-     "publicado": "2026-11-25T21:00:14Z",
-     "duracao_s": 115,
+     "publicado": "2026-11-26T15:45:00Z",
+     "duracao_s": 38,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=LAQHJt8Dt-4"
+     "url": "https://www.youtube.com/watch?v=d2pxW3XL-Bw"
     },
     {
-     "id": "9ueIIu0SH-k",
-     "titulo": "🔴prováveis escalações atlético-mg x corinthians com numeração oficial brasileirão 2026 #brasileirao",
-     "canal": "Arena IRL",
-     "views": 3014,
-     "likes": 14,
+     "id": "HngRG8m0Ylw",
+     "titulo": "Atlético e Corinthians jogam em casa; Cruzeiro enfrenta o Fluminense fora | Bola na Rede",
+     "canal": "Rede Esporte",
+     "views": 718,
+     "likes": 12,
      "comentarios": 0,
-     "publicado": "2026-11-25T21:55:18Z",
-     "duracao_s": 11,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=9ueIIu0SH-k"
-    },
-    {
-     "id": "Z4rrmVdPWbo",
-     "titulo": "STÁBILE SOLTA BOMBA!! ALLAN AFASTADO | NOTA OFICIAL DO CORINTHIANS....",
-     "canal": "Fiel Torcida!",
-     "views": 2909,
-     "likes": 38,
-     "comentarios": 0,
-     "publicado": "2026-11-25T22:57:15Z",
-     "duracao_s": 10155,
+     "publicado": "2026-11-26T05:06:53Z",
+     "duracao_s": 3360,
      "live": true,
-     "url": "https://www.youtube.com/watch?v=Z4rrmVdPWbo"
+     "url": "https://www.youtube.com/watch?v=HngRG8m0Ylw"
     },
     {
-     "id": "-v5vwp8alEs",
-     "titulo": "ESCALAÇÕES DE GALO E CORINTHIANS! REPÓRTER DO MAIOR CANAL DO CORINTHIANS ‘INVADE’ O MESA 13 #121",
-     "canal": "O TEMPO Sports",
-     "views": 2183,
-     "likes": 33,
+     "id": "WXsAbkmpMGY",
+     "titulo": "GOOOOL DO CORINTHIANS! O Timão balança a rede no Atlético-MG aos 24 do 2º tempo 🖤🤍🔥",
+     "canal": "Meu coringão",
+     "views": 674,
+     "likes": 7,
      "comentarios": 0,
-     "publicado": "2026-11-25T07:50:52Z",
-     "duracao_s": 2930,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=-v5vwp8alEs"
-    },
-    {
-     "id": "Wrdt0WFij8M",
-     "titulo": "GRUPO E SEDE DO CORINTHIANS NA COPINHA 2027 DEFINIDOS",
-     "canal": "IDENTIDADE CORINTHIANA",
-     "views": 1871,
-     "likes": 81,
-     "comentarios": 2,
-     "publicado": "2026-11-24T23:43:13Z",
-     "duracao_s": 62,
+     "publicado": "2026-11-26T01:31:42Z",
+     "duracao_s": 8,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=Wrdt0WFij8M"
+     "url": "https://www.youtube.com/watch?v=WXsAbkmpMGY"
     },
     {
-     "id": "TefTtPlk6Vw",
-     "titulo": "Atlético-MG x Corinthians: Garro volta, desfalques e análise do duelo",
-     "canal": "Heart Fiel",
-     "views": 1497,
-     "likes": 31,
-     "comentarios": 0,
-     "publicado": "2026-11-25T09:28:19Z",
-     "duracao_s": 54,
+     "id": "0ZS9Msyg-f8",
+     "titulo": "Chamada Brasiliense x Corinthians | Campeonato Brasileiro 2005",
+     "canal": "ESPORTE TOTAL",
+     "views": 440,
+     "likes": null,
+     "comentarios": 3,
+     "publicado": "2026-11-25T21:09:35Z",
+     "duracao_s": 17,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=TefTtPlk6Vw"
+     "url": "https://www.youtube.com/watch?v=0ZS9Msyg-f8"
     },
     {
-     "id": "ywPdRgfJJyU",
-     "titulo": "ESCALAÇÕES DE GALO E TIMÃO! REPÓRTER DO MAIOR CANAL DO CORINTHIANS ‘INVADE’ O MESA 13 #121",
-     "canal": "O TEMPO",
-     "views": 1123,
-     "likes": 15,
+     "id": "z2jpQk_MHaU",
+     "titulo": "TE JULGANDO PELO TIME QUE VOCÊ TORCE 😂⚽ #shorts #futebol",
+     "canal": "FUTEBOL NA REDE ⚽️",
+     "views": 57,
+     "likes": 0,
      "comentarios": 0,
-     "publicado": "2026-11-25T07:55:19Z",
-     "duracao_s": 2927,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=ywPdRgfJJyU"
+     "publicado": "2026-11-26T15:00:22Z",
+     "duracao_s": 63,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=z2jpQk_MHaU"
+    },
+    {
+     "id": "j1tAQPuPnUY",
+     "titulo": "GOOOOL DO CORINTHIANS! O Timão balança a rede no Atlético-MG aos 24 do 2º tempo 🖤🤍🔥",
+     "canal": "Meu coringão",
+     "views": 33,
+     "likes": 0,
+     "comentarios": 0,
+     "publicado": "2026-11-26T01:34:17Z",
+     "duracao_s": 8,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=j1tAQPuPnUY"
     }
    ],
-   "consulta": "Corinthians escalações",
-   "n_videos": 17,
-   "mais_de": true,
-   "views": 132165,
+   "consulta": "Corinthians Rede",
+   "n_videos": 9,
+   "mais_de": false,
+   "views": 3360746,
    "top": [
     {
-     "titulo": "RONALDO ANALISA PROVÁVEIS TIMES DE ATLÉTICO-MG X CORINTHIANS",
-     "canal": "Jogo Aberto",
-     "views": 34180,
-     "url": "https://www.youtube.com/watch?v=uNOIN5FGQZ0",
-     "publicado": "2026-11-25T16:39:53Z",
+     "titulo": "🔴 ATLÉTICO-MG X CORINTHIANS | AO VIVO | BRASILEIRÃO 2026 | JOGO AO VIVO COM IMAGENS DA ARENA MRV",
+     "canal": "Na Rede Oficial",
+     "views": 1897790,
+     "url": "https://www.youtube.com/watch?v=wQ2uKSqGU64",
+     "publicado": "2026-11-26T01:27:12Z",
      "do_canal": false
     },
     {
-     "titulo": "MP pede INTERVENÇÃO no Corinthians e a semana pega fogo 😱🔥",
-     "canal": "Camisa 17 oficial",
-     "views": 14870,
-     "url": "https://www.youtube.com/watch?v=88vAPE90VQU",
-     "publicado": "2026-11-25T00:30:16Z",
+     "titulo": "ATLÉTICO-MG X CORINTHIANS AO VIVO AGORA: BRASILEIRÃO - LIVE",
+     "canal": "Na Rede Oficial",
+     "views": 1457878,
+     "url": "https://www.youtube.com/watch?v=NVDcJOVwRjQ",
+     "publicado": "2026-11-26T01:17:46Z",
      "do_canal": false
     },
     {
-     "titulo": "PRELEÇÃO ATLÉTICO X CORINTHIANS | BRASILEIRÃO 2026 | ESCALAÇÕES, TRANSMISSÃO, ARBITRAGEM, DESFALQUES",
-     "canal": "Canal do Frossard",
-     "views": 12553,
-     "url": "https://www.youtube.com/watch?v=h62GUM890mM",
-     "publicado": "2026-11-25T09:30:13Z",
+     "titulo": "GOOOOL DO CORINTHIANS! O Timão balança a rede no Atlético-MG aos 24 do 2º tempo 🖤🤍🔥",
+     "canal": "Meu coringão",
+     "views": 2175,
+     "url": "https://www.youtube.com/watch?v=oCa9mRo0dtE",
+     "publicado": "2026-11-26T00:45:27Z",
      "do_canal": false
     }
    ]
   }
  },
- "corinthians cesar kaio atuacoes": {
-  "dia": "2026-11-26",
+ "flamengo abel titulo quedas": {
+  "dia": "2026-11-27",
+  "resultado": {
+   "amostra": [],
+   "consulta": "Flamengo Abel título quedas",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "palmeiras sub-20 operario-pr goleia": {
+  "dia": "2026-11-27",
   "resultado": {
    "amostra": [
     {
-     "id": "gG47gThQQWE",
-     "titulo": "ATUAÇÃO DE MEMPHIS DEPAY SEGUE ABAIXO PELO CORINTHIANS MESMO NA BRIGA CONTRA O Z-4? | LINHA DE PASSE",
-     "canal": "ESPN Brasil",
-     "views": 18766,
-     "likes": 199,
-     "comentarios": 6,
-     "publicado": "2026-11-26T02:34:17Z",
-     "duracao_s": 1384,
+     "id": "_7T6kwnSb9k",
+     "titulo": "PALMEIRAS 4 X 1 OPERÁRIO-PR | MELHORES MOMENTOS | SEMIFINAL | COPA DO BRASIL SUB-20 2026 | sportv",
+     "canal": "ge tv",
+     "views": 53024,
+     "likes": 638,
+     "comentarios": 38,
+     "publicado": "2026-11-27T01:29:59Z",
+     "duracao_s": 352,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=gG47gThQQWE"
+     "url": "https://www.youtube.com/watch?v=_7T6kwnSb9k"
     },
     {
-     "id": "sSV13Mw6v0s",
-     "titulo": "Olha o que o Kaio Cesar falou apos o Corinthians empatar com o Atlético MG",
-     "canal": "O MUNDO DO FUTEBOL EM 60S",
-     "views": 1437,
-     "likes": 28,
-     "comentarios": 0,
-     "publicado": "2026-11-26T01:51:58Z",
-     "duracao_s": 41,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=sSV13Mw6v0s"
+     "id": "5V1CzH616qI",
+     "titulo": "PALMEIRAS GOLEIA OPERÁRIO-PR E AVANÇA Á FINAL DA COPA DO BRASIL DO Sub-20 | MELHORES MOMENTOS 2026",
+     "canal": "FUTEBOL EM DESTAQUE",
+     "views": 34388,
+     "likes": 358,
+     "comentarios": 2,
+     "publicado": "2026-11-27T01:31:21Z",
+     "duracao_s": 615,
+     "live": true,
+     "url": "https://www.youtube.com/watch?v=5V1CzH616qI"
     },
     {
-     "id": "XJYN1hRo5Uk",
-     "titulo": "\"NÃO PODIA RECUAR!\" KAIO CÉSAR ANALISA EMPATE, COBRA POSTURA E MIRA DECISÃO CONTRA O GRÊMIO",
-     "canal": "TV Central do Timão",
-     "views": 847,
-     "likes": 17,
-     "comentarios": 0,
-     "publicado": "2026-11-26T03:45:31Z",
-     "duracao_s": 151,
+     "id": "GMqn_M6t_XI",
+     "titulo": "VERDÃO GOLEIA E VAI PARA FINAL! Palmeiras x Operário-PR | Melhores Momentos | Copa do Brasil Sub-20",
+     "canal": "Conexão Fla",
+     "views": 9139,
+     "likes": 90,
+     "comentarios": 3,
+     "publicado": "2026-11-27T01:33:46Z",
+     "duracao_s": 278,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=XJYN1hRo5Uk"
+     "url": "https://www.youtube.com/watch?v=GMqn_M6t_XI"
     }
    ],
-   "consulta": "Corinthians César Kaio Atuações",
+   "consulta": "Palmeiras Sub-20 Operário-PR goleia",
    "n_videos": 3,
    "mais_de": false,
-   "views": 21050,
+   "views": 96551,
    "top": [
     {
-     "titulo": "ATUAÇÃO DE MEMPHIS DEPAY SEGUE ABAIXO PELO CORINTHIANS MESMO NA BRIGA CONTRA O Z-4? | LINHA DE PASSE",
-     "canal": "ESPN Brasil",
-     "views": 18766,
-     "url": "https://www.youtube.com/watch?v=gG47gThQQWE",
-     "publicado": "2026-11-26T02:34:17Z",
+     "titulo": "PALMEIRAS 4 X 1 OPERÁRIO-PR | MELHORES MOMENTOS | SEMIFINAL | COPA DO BRASIL SUB-20 2026 | sportv",
+     "canal": "ge tv",
+     "views": 53024,
+     "url": "https://www.youtube.com/watch?v=_7T6kwnSb9k",
+     "publicado": "2026-11-27T01:29:59Z",
      "do_canal": false
     },
     {
-     "titulo": "Olha o que o Kaio Cesar falou apos o Corinthians empatar com o Atlético MG",
-     "canal": "O MUNDO DO FUTEBOL EM 60S",
-     "views": 1437,
-     "url": "https://www.youtube.com/watch?v=sSV13Mw6v0s",
-     "publicado": "2026-11-26T01:51:58Z",
+     "titulo": "PALMEIRAS GOLEIA OPERÁRIO-PR E AVANÇA Á FINAL DA COPA DO BRASIL DO Sub-20 | MELHORES MOMENTOS 2026",
+     "canal": "FUTEBOL EM DESTAQUE",
+     "views": 34388,
+     "url": "https://www.youtube.com/watch?v=5V1CzH616qI",
+     "publicado": "2026-11-27T01:31:21Z",
      "do_canal": false
     },
     {
-     "titulo": "\"NÃO PODIA RECUAR!\" KAIO CÉSAR ANALISA EMPATE, COBRA POSTURA E MIRA DECISÃO CONTRA O GRÊMIO",
-     "canal": "TV Central do Timão",
-     "views": 847,
-     "url": "https://www.youtube.com/watch?v=XJYN1hRo5Uk",
-     "publicado": "2026-11-26T03:45:31Z",
+     "titulo": "VERDÃO GOLEIA E VAI PARA FINAL! Palmeiras x Operário-PR | Melhores Momentos | Copa do Brasil Sub-20",
+     "canal": "Conexão Fla",
+     "views": 9139,
+     "url": "https://www.youtube.com/watch?v=GMqn_M6t_XI",
+     "publicado": "2026-11-27T01:33:46Z",
      "do_canal": false
     }
    ]
   }
  },
- "palmeiras estudiantes montevideu": {
-  "dia": "2026-11-26",
+ "palmeiras abel admite ruim": {
+  "dia": "2026-11-27",
   "resultado": {
    "amostra": [
     {
-     "id": "RUEyHsvfqLI",
-     "titulo": "PALMEIRAS RUMO A MONTEVIDÉU PARA A FINAL DA LIBERTADORES! | AEROPORCO | Tropa ge tv",
-     "canal": "ge tv",
-     "views": 719041,
-     "likes": 6635,
-     "comentarios": 24,
-     "publicado": "2026-11-25T21:57:55Z",
-     "duracao_s": 21043,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=RUEyHsvfqLI"
-    },
-    {
-     "id": "Mae0bdnZToQ",
-     "titulo": "Most Copa Libertadores Titles by Club 🏆 Can Palmeiras Catch Estudiantes on Saturday?",
-     "canal": "Marble Dream League",
-     "views": 371233,
-     "likes": 2464,
-     "comentarios": 65,
-     "publicado": "2026-11-25T00:00:26Z",
-     "duracao_s": 20,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Mae0bdnZToQ"
-    },
-    {
-     "id": "duZ4TPs4Ask",
-     "titulo": "PALMEIRAS EMBARCA RUMO À FINAL DA LIBERTADORES! | AEROPORCO | GERAL CAZÉTV",
-     "canal": "CazéTV",
-     "views": 356714,
-     "likes": 4269,
-     "comentarios": 64,
-     "publicado": "2026-11-25T18:15:23Z",
-     "duracao_s": 7966,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=duZ4TPs4Ask"
-    },
-    {
-     "id": "HfZtIMyrewE",
-     "titulo": "AO VIVO | PALMEIRAS CHEGA AO URUGUAI PARA A FINAL DA CONMEBOL LIBERTADORES",
-     "canal": "TV Palmeiras",
-     "views": 241256,
-     "likes": 6407,
-     "comentarios": 26,
-     "publicado": "2026-11-25T23:44:20Z",
-     "duracao_s": 5418,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=HfZtIMyrewE"
-    },
-    {
-     "id": "8Unpuur1Uog",
-     "titulo": "CORINTHIANS TEM DECISÃO CONTRA O GALO | ESPN DIRETO DE MONTEVIDÉU | FUTURO DO FLAMENGO | F SHOW",
-     "canal": "ESPN Brasil",
-     "views": 58948,
-     "likes": 603,
+     "id": "QXtJ8WhRnLE",
+     "titulo": "BOMBA: ABEL ADMITE OFERTAS PARA SAIR DO PALMEIRAS E ABRE O JOGO! VEJA A DECLARAÇÃO",
+     "canal": "Cortes do Nicola",
+     "views": 366,
+     "likes": 9,
      "comentarios": 0,
-     "publicado": "2026-11-25T18:05:31Z",
-     "duracao_s": 7185,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=8Unpuur1Uog"
-    },
-    {
-     "id": "Ko6hsLaT8gI",
-     "titulo": "🚨 GÓMEZ ABRE O CORAÇÃO SOBRE VOLTAR A MONTEVIDEO! BARBOZA FALA! 💚",
-     "canal": "Bob SEP",
-     "views": 51316,
-     "likes": 1101,
-     "comentarios": 26,
-     "publicado": "2026-11-26T00:12:04Z",
-     "duracao_s": 392,
+     "publicado": "2026-11-25T20:30:06Z",
+     "duracao_s": 77,
      "live": false,
-     "url": "https://www.youtube.com/watch?v=Ko6hsLaT8gI"
-    },
-    {
-     "id": "XmhJVvfnluY",
-     "titulo": "PALMEIRAS CHEGA AO AEROPORTO PARA VOO AO URUGUAI",
-     "canal": "Esporte na Band",
-     "views": 49622,
-     "likes": 857,
-     "comentarios": 33,
-     "publicado": "2026-11-25T17:54:51Z",
-     "duracao_s": 226,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=XmhJVvfnluY"
-    },
-    {
-     "id": "YUwgnzmNEno",
-     "titulo": "PALCO DA FINAL, O ESTÁDIO CENTENÁRIO, EM MONTEVIDÉU! #libertadores #final #palmeiras #estudiantes",
-     "canal": "ge tv",
-     "views": 33742,
-     "likes": 915,
-     "comentarios": 23,
-     "publicado": "2026-11-25T19:57:57Z",
-     "duracao_s": 86,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=YUwgnzmNEno"
-    },
-    {
-     "id": "GT1pr6kJ3N4",
-     "titulo": "PALMEIRAS EMBARCA PARA MONTEVIDÉU COM MUITA FESTA",
-     "canal": "Alma e Coração Palmeirense",
-     "views": 30831,
-     "likes": 1434,
-     "comentarios": 31,
-     "publicado": "2026-11-25T18:00:21Z",
-     "duracao_s": 25,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=GT1pr6kJ3N4"
-    },
-    {
-     "id": "t1jkglyixFw",
-     "titulo": "MAURO CEZAR sobre PALMEIRAS x ESTUDIANTES: \"O que EU IMAGINO pra essa FINAL é...\" | LIBERTADORES",
-     "canal": "Jovem Pan Esportes",
-     "views": 26750,
-     "likes": 1406,
-     "comentarios": 173,
-     "publicado": "2026-11-26T17:29:56Z",
-     "duracao_s": 1310,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=t1jkglyixFw"
-    },
-    {
-     "id": "f1DwJHKbsgQ",
-     "titulo": "PALMEIRAS PARTE COM FESTA DA TORCIDA PARA A FINAL DA LIBERTADORES EM MONTEVIDÉU!",
-     "canal": "UOL Esporte",
-     "views": 26026,
-     "likes": 320,
-     "comentarios": 22,
-     "publicado": "2026-11-25T16:57:07Z",
-     "duracao_s": 1070,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=f1DwJHKbsgQ"
-    },
-    {
-     "id": "y2N4l7NU5sQ",
-     "titulo": "A FINAL DA LIBERTADORES TÁ CHEGANDO! O ELENCO DO PALMEIRAS JÁ CHEGOU EM MONTEVIDÉU 🇺🇾 #shorts",
-     "canal": "ESPN Brasil",
-     "views": 24907,
-     "likes": 1026,
-     "comentarios": 32,
-     "publicado": "2026-11-26T00:19:03Z",
-     "duracao_s": 33,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=y2N4l7NU5sQ"
-    },
-    {
-     "id": "QymFaigFs4A",
-     "titulo": "DEBATE PEGOU FOGO! RENATA FAN E EDU FICARAM IMPRESSIONADOS \"A TORCIDA INVADIU MONTEVIDÉU PRA FINAL\"",
-     "canal": "Sou Mais Palmeiras React",
-     "views": 22724,
-     "likes": 257,
-     "comentarios": 13,
-     "publicado": "2026-11-25T16:32:30Z",
-     "duracao_s": 926,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=QymFaigFs4A"
-    },
-    {
-     "id": "TJeKkaohc6w",
-     "titulo": "FINAL DA LIBERTADORES: PALMEIRAS EMBARCA PARA MONTEVIDÉU; VEJA PROGRAMAÇÃO",
-     "canal": "Jogo Aberto",
-     "views": 21725,
-     "likes": 499,
-     "comentarios": 24,
-     "publicado": "2026-11-25T15:10:12Z",
-     "duracao_s": 184,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=TJeKkaohc6w"
-    },
-    {
-     "id": "MJ9LzAH20q4",
-     "titulo": "COMO PALMEIRAS VAI SE PORTAR NA FINAL? Soler REVELA possível ESCALAÇÃO para duelo com o Estudiantes",
-     "canal": "TMC Esporte",
-     "views": 20399,
-     "likes": 316,
-     "comentarios": 10,
-     "publicado": "2026-11-25T18:35:49Z",
-     "duracao_s": 1230,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=MJ9LzAH20q4"
-    },
-    {
-     "id": "HWzN4DbVJA4",
-     "titulo": "Palmeiras NUNCA venceu argentino em final de Libertadores",
-     "canal": "Falo y Me Voy",
-     "views": 16967,
-     "likes": 198,
-     "comentarios": 35,
-     "publicado": "2026-11-24T23:57:57Z",
-     "duracao_s": 465,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=HWzN4DbVJA4"
-    },
-    {
-     "id": "4V8pWQvwxGc",
-     "titulo": "PALMEIRAS vs. ESTUDIANTES ⚽ Copa Libertadores 2026 Marble Football Prediction",
-     "canal": "Your Football Ranker",
-     "views": 13513,
-     "likes": 75,
-     "comentarios": 3,
-     "publicado": "2026-11-24T22:37:04Z",
-     "duracao_s": 15,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=4V8pWQvwxGc"
-    },
-    {
-     "id": "Wv-D6KiyMUQ",
-     "titulo": "PALMEIRAS VAI PRA FINAL BEM DESGASTADO! PEDRO LOPES REVELA PREOCUPAÇÃO PARA JOGO COM O ESTUDIANTES",
-     "canal": "UOL Esporte",
-     "views": 12397,
-     "likes": 170,
-     "comentarios": 42,
-     "publicado": "2026-11-25T17:16:44Z",
-     "duracao_s": 887,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Wv-D6KiyMUQ"
-    },
-    {
-     "id": "Gf3IfaFfPoQ",
-     "titulo": "💚OLHA O QUE LEILA PEREIRA FALOU ANTES DE PALMEIRAS X ESTUDIANTES PELA FINAL DA LIBERTADORES 2026!",
-     "canal": "FUTEBOL TOTAL OFICIAL",
-     "views": 10494,
-     "likes": 183,
-     "comentarios": 0,
-     "publicado": "2026-11-26T09:00:05Z",
-     "duracao_s": 891,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Gf3IfaFfPoQ"
-    },
-    {
-     "id": "HuPdLbNzQfc",
-     "titulo": "Estudiantes vs Palmeiras: todo lo que esconde la final",
-     "canal": "Radar Viajero",
-     "views": 8821,
-     "likes": 93,
-     "comentarios": 15,
-     "publicado": "2026-11-25T00:54:11Z",
-     "duracao_s": 507,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=HuPdLbNzQfc"
-    },
-    {
-     "id": "pDlXqQfkX9A",
-     "titulo": "PALMEIRAS X ESTUDIANTES! PASCOAL TRAZ DIRETO DE MONTEVIDÉU AS NOTÍCIAS DO VERDÃO PARA A GRANDE FINAL",
-     "canal": "FUTEBOL TOTAL OFICIAL",
-     "views": 8672,
-     "likes": 152,
-     "comentarios": 5,
-     "publicado": "2026-11-25T20:59:44Z",
-     "duracao_s": 828,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=pDlXqQfkX9A"
-    },
-    {
-     "id": "j6RQredM3XY",
-     "titulo": "PALMEIRAS EMBARCA À MONTEVIDÉU EM BUSCA DO TÍTULO DA LIBERTADORES",
-     "canal": "Bandsports",
-     "views": 8412,
-     "likes": 151,
-     "comentarios": 10,
-     "publicado": "2026-11-25T22:46:17Z",
-     "duracao_s": 1710,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=j6RQredM3XY"
-    },
-    {
-     "id": "ZrPPKIHTfLc",
-     "titulo": "🐷AEROPORCO! PALMEIRAS EMBARCA PARA O URUGUAI RUMO À GLÓRIA ETERNA! TORCIDA FAZ A FESTA!",
-     "canal": "FUTEBOL TOTAL OFICIAL",
-     "views": 7762,
-     "likes": 136,
-     "comentarios": 13,
-     "publicado": "2026-11-25T16:34:45Z",
-     "duracao_s": 1197,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=ZrPPKIHTfLc"
-    },
-    {
-     "id": "2GU4pYt7Gjk",
-     "titulo": "PALMEIRAS RUMO AO TETRA! APÓS 0X3, VERDÃO EMBARCA PARA A FINAL DA LIBERTADORES | AO VIVO",
-     "canal": "PVA-PORTAL DA VOZ ALVIVERDE",
-     "views": 7139,
-     "likes": 254,
-     "comentarios": 0,
-     "publicado": "2026-11-26T04:00:17Z",
-     "duracao_s": 5688,
-     "live": true,
-     "url": "https://www.youtube.com/watch?v=2GU4pYt7Gjk"
-    },
-    {
-     "id": "Ny1mcP2ccFo",
-     "titulo": "PALMEIRAS TEM NOVIDADES NO TREINO EM MONTEVIDÉU",
-     "canal": "Jogo Aberto",
-     "views": 4156,
-     "likes": 128,
-     "comentarios": 3,
-     "publicado": "2026-11-26T15:16:06Z",
-     "duracao_s": 136,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=Ny1mcP2ccFo"
+     "url": "https://www.youtube.com/watch?v=QXtJ8WhRnLE"
     }
    ],
-   "consulta": "Palmeiras Estudiantes Montevidéu",
-   "n_videos": 25,
-   "mais_de": true,
-   "views": 2153567,
-   "top": [
-    {
-     "titulo": "PALMEIRAS RUMO A MONTEVIDÉU PARA A FINAL DA LIBERTADORES! | AEROPORCO | Tropa ge tv",
-     "canal": "ge tv",
-     "views": 719041,
-     "url": "https://www.youtube.com/watch?v=RUEyHsvfqLI",
-     "publicado": "2026-11-25T21:57:55Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "Most Copa Libertadores Titles by Club 🏆 Can Palmeiras Catch Estudiantes on Saturday?",
-     "canal": "Marble Dream League",
-     "views": 371233,
-     "url": "https://www.youtube.com/watch?v=Mae0bdnZToQ",
-     "publicado": "2026-11-25T00:00:26Z",
-     "do_canal": false
-    },
-    {
-     "titulo": "PALMEIRAS EMBARCA RUMO À FINAL DA LIBERTADORES! | AEROPORCO | GERAL CAZÉTV",
-     "canal": "CazéTV",
-     "views": 356714,
-     "url": "https://www.youtube.com/watch?v=duZ4TPs4Ask",
-     "publicado": "2026-11-25T18:15:23Z",
-     "do_canal": false
-    }
-   ]
-  }
- },
- "palmeiras argentina barboza repercussao": {
-  "dia": "2026-11-26",
-  "resultado": {
-   "amostra": [
-    {
-     "id": "IST_Jn_tMIc",
-     "titulo": "PROVOCOU? ARGENTINOS REPERCUTEM A FALA DE BARBOZA SOBRE PALMEIRAS CAMPEÃO DA LIBERTADORES",
-     "canal": "UOL Esporte",
-     "views": 1746,
-     "likes": 90,
-     "comentarios": 13,
-     "publicado": "2026-11-26T18:21:10Z",
-     "duracao_s": 1022,
-     "live": false,
-     "url": "https://www.youtube.com/watch?v=IST_Jn_tMIc"
-    }
-   ],
-   "consulta": "Palmeiras Argentina Barboza repercussão",
+   "consulta": "Palmeiras Abel admite ruim",
    "n_videos": 1,
    "mais_de": false,
-   "views": 1746,
+   "views": 366,
    "top": [
     {
-     "titulo": "PROVOCOU? ARGENTINOS REPERCUTEM A FALA DE BARBOZA SOBRE PALMEIRAS CAMPEÃO DA LIBERTADORES",
-     "canal": "UOL Esporte",
-     "views": 1746,
-     "url": "https://www.youtube.com/watch?v=IST_Jn_tMIc",
-     "publicado": "2026-11-26T18:21:10Z",
+     "titulo": "BOMBA: ABEL ADMITE OFERTAS PARA SAIR DO PALMEIRAS E ABRE O JOGO! VEJA A DECLARAÇÃO",
+     "canal": "Cortes do Nicola",
+     "views": 366,
+     "url": "https://www.youtube.com/watch?v=QXtJ8WhRnLE",
+     "publicado": "2026-11-25T20:30:06Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "flamengo mundial zico clubes": {
+  "dia": "2026-11-27",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "w1P3Gxpctjk",
+     "titulo": "Arrascaeta já passou o Zico em títulos… mas falta o MUNDIAL 😳 #shorts",
+     "canal": "Resenhola FC",
+     "views": 710,
+     "likes": 17,
+     "comentarios": 1,
+     "publicado": "2026-11-27T00:30:25Z",
+     "duracao_s": 60,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=w1P3Gxpctjk"
+    }
+   ],
+   "consulta": "Flamengo Mundial Zico Clubes",
+   "n_videos": 1,
+   "mais_de": false,
+   "views": 710,
+   "top": [
+    {
+     "titulo": "Arrascaeta já passou o Zico em títulos… mas falta o MUNDIAL 😳 #shorts",
+     "canal": "Resenhola FC",
+     "views": 710,
+     "url": "https://www.youtube.com/watch?v=w1P3Gxpctjk",
+     "publicado": "2026-11-27T00:30:25Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "palmeiras estudiantes conquista jogador": {
+  "dia": "2026-11-27",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "rQxOmOAQ0WA",
+     "titulo": "💚PALMEIRAS X ESTUDIANTES! VERDÃO DESEMBARCA NO URUGUAI PARA A GRANDE FINAL DA LIBERTADORES 2026!",
+     "canal": "RESENHA TOTAL",
+     "views": 7586,
+     "likes": 101,
+     "comentarios": 3,
+     "publicado": "2026-11-26T02:20:28Z",
+     "duracao_s": 745,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=rQxOmOAQ0WA"
+    },
+    {
+     "id": "iZ5mhn9QPuw",
+     "titulo": "É AMANHÃ #futebolbrasileiro #futebol #viral#libertadores #palmeiras #estudiantes #shortvideo#shorts",
+     "canal": "Mapa da Rodada",
+     "views": 312,
+     "likes": 12,
+     "comentarios": 0,
+     "publicado": "2026-11-27T07:00:27Z",
+     "duracao_s": 52,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=iZ5mhn9QPuw"
+    },
+    {
+     "id": "4iCBpbNyDXE",
+     "titulo": "🔥 PALMEIRAS X ESTUDIANTES | FINAL DA LIBERTADORES 2026 | ANÁLISE, PALPITE E ONDE ASSISTIR",
+     "canal": "PALPITEIROFC",
+     "views": 143,
+     "likes": 3,
+     "comentarios": 0,
+     "publicado": "2026-11-26T21:00:27Z",
+     "duracao_s": 95,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=4iCBpbNyDXE"
+    }
+   ],
+   "consulta": "Palmeiras Estudiantes conquista jogador",
+   "n_videos": 3,
+   "mais_de": false,
+   "views": 8041,
+   "top": [
+    {
+     "titulo": "💚PALMEIRAS X ESTUDIANTES! VERDÃO DESEMBARCA NO URUGUAI PARA A GRANDE FINAL DA LIBERTADORES 2026!",
+     "canal": "RESENHA TOTAL",
+     "views": 7586,
+     "url": "https://www.youtube.com/watch?v=rQxOmOAQ0WA",
+     "publicado": "2026-11-26T02:20:28Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "É AMANHÃ #futebolbrasileiro #futebol #viral#libertadores #palmeiras #estudiantes #shortvideo#shorts",
+     "canal": "Mapa da Rodada",
+     "views": 312,
+     "url": "https://www.youtube.com/watch?v=iZ5mhn9QPuw",
+     "publicado": "2026-11-27T07:00:27Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "🔥 PALMEIRAS X ESTUDIANTES | FINAL DA LIBERTADORES 2026 | ANÁLISE, PALPITE E ONDE ASSISTIR",
+     "canal": "PALPITEIROFC",
+     "views": 143,
+     "url": "https://www.youtube.com/watch?v=4iCBpbNyDXE",
+     "publicado": "2026-11-26T21:00:27Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "palmeiras leila arquiteta pereira": {
+  "dia": "2026-11-27",
+  "resultado": {
+   "amostra": [],
+   "consulta": "Palmeiras Leila Arquiteta Pereira",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "corinthians paulista pinda vence": {
+  "dia": "2026-11-27",
+  "resultado": {
+   "amostra": [],
+   "consulta": "Corinthians Paulista Pinda vence",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "palmeiras abel revela disse": {
+  "dia": "2026-11-27",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "8rE8WAyz724",
+     "titulo": "LEILA revela o futuro de ABEL se o PALMEIRAS perder a final",
+     "canal": "O Inspetor",
+     "views": 9420,
+     "likes": 63,
+     "comentarios": 1,
+     "publicado": "2026-11-27T15:30:08Z",
+     "duracao_s": 6,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=8rE8WAyz724"
+    },
+    {
+     "id": "g5EAU6lvMaE",
+     "titulo": "VERDÃO JÁ ESTÁ NO URUGUAI! ABEL REVELA PROMESSA DE LEILA E CORINTHIANS ENTRA EM PÂNICO!",
+     "canal": "TV Palestra com Renata Clappis",
+     "views": 473,
+     "likes": 67,
+     "comentarios": 16,
+     "publicado": "2026-11-26T21:12:07Z",
+     "duracao_s": 794,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=g5EAU6lvMaE"
+    },
+    {
+     "id": "Mum92EahzXI",
+     "titulo": "ABEL REVELA ESTRATÉGIA DO PALMEIRAS PARA A FINAL CONTRA O ESTUDIANTES!",
+     "canal": "FUTELUK",
+     "views": 4,
+     "likes": 1,
+     "comentarios": 0,
+     "publicado": "2026-11-27T19:08:57Z",
+     "duracao_s": 129,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=Mum92EahzXI"
+    }
+   ],
+   "consulta": "Palmeiras Abel revela disse",
+   "n_videos": 3,
+   "mais_de": false,
+   "views": 9897,
+   "top": [
+    {
+     "titulo": "LEILA revela o futuro de ABEL se o PALMEIRAS perder a final",
+     "canal": "O Inspetor",
+     "views": 9420,
+     "url": "https://www.youtube.com/watch?v=8rE8WAyz724",
+     "publicado": "2026-11-27T15:30:08Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "VERDÃO JÁ ESTÁ NO URUGUAI! ABEL REVELA PROMESSA DE LEILA E CORINTHIANS ENTRA EM PÂNICO!",
+     "canal": "TV Palestra com Renata Clappis",
+     "views": 473,
+     "url": "https://www.youtube.com/watch?v=g5EAU6lvMaE",
+     "publicado": "2026-11-26T21:12:07Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "ABEL REVELA ESTRATÉGIA DO PALMEIRAS PARA A FINAL CONTRA O ESTUDIANTES!",
+     "canal": "FUTELUK",
+     "views": 4,
+     "url": "https://www.youtube.com/watch?v=Mum92EahzXI",
+     "publicado": "2026-11-27T19:08:57Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "palmeiras estudiantes liberado rojo": {
+  "dia": "2026-11-27",
+  "resultado": {
+   "amostra": [],
+   "consulta": "Palmeiras Estudiantes liberado Rojo",
+   "n_videos": 0,
+   "mais_de": false,
+   "views": 0,
+   "top": []
+  }
+ },
+ "palmeiras centenario antes jogadores": {
+  "dia": "2026-11-27",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "ncVhgj9cFZg",
+     "titulo": "JÁ GANHOU? ZAGUEIRO DO PALMEIRAS PROVOCA ANTES DA FINAL! 👀🏆 #shorts",
+     "canal": "Mengão Total BR",
+     "views": 740,
+     "likes": 18,
+     "comentarios": 0,
+     "publicado": "2026-11-27T12:35:19Z",
+     "duracao_s": 35,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=ncVhgj9cFZg"
+    }
+   ],
+   "consulta": "Palmeiras Centenário antes Jogadores",
+   "n_videos": 1,
+   "mais_de": false,
+   "views": 740,
+   "top": [
+    {
+     "titulo": "JÁ GANHOU? ZAGUEIRO DO PALMEIRAS PROVOCA ANTES DA FINAL! 👀🏆 #shorts",
+     "canal": "Mengão Total BR",
+     "views": 740,
+     "url": "https://www.youtube.com/watch?v=ncVhgj9cFZg",
+     "publicado": "2026-11-27T12:35:19Z",
+     "do_canal": false
+    }
+   ]
+  }
+ },
+ "palmeiras leila mandato aberta": {
+  "dia": "2026-11-27",
+  "resultado": {
+   "amostra": [
+    {
+     "id": "6s8Tkj8MamQ",
+     "titulo": "Leila Pereira recusa proposta para mudar estatuto e estender mandato no Palmeiras",
+     "canal": "Rádio Bandeirantes",
+     "views": 11695,
+     "likes": 260,
+     "comentarios": 14,
+     "publicado": "2026-11-26T00:19:01Z",
+     "duracao_s": 94,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=6s8Tkj8MamQ"
+    },
+    {
+     "id": "X-Pu-YGFV58",
+     "titulo": "Leila Pereira diz que ficou 'animadinha' com projeto de 3º mandato e lamenta fim de ciclo #shorts",
+     "canal": "Terra Esportes",
+     "views": 1245,
+     "likes": 35,
+     "comentarios": 1,
+     "publicado": "2026-11-26T21:52:41Z",
+     "duracao_s": 63,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=X-Pu-YGFV58"
+    },
+    {
+     "id": "3ObdRH61eyA",
+     "titulo": "Leila confessa que tentou terceiro mandato no Palmeiras: 'Fiquei animadinha'",
+     "canal": "Estadão Esportes",
+     "views": 1174,
+     "likes": 31,
+     "comentarios": 1,
+     "publicado": "2026-11-27T00:46:56Z",
+     "duracao_s": 94,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=3ObdRH61eyA"
+    },
+    {
+     "id": "b_PscLnVeTM",
+     "titulo": "Leila quer o 3º mandato no Palmeiras? Futebol se faz com money!",
+     "canal": "Sintonia Alviverde",
+     "views": 189,
+     "likes": 3,
+     "comentarios": 0,
+     "publicado": "2026-11-25T23:48:19Z",
+     "duracao_s": 228,
+     "live": false,
+     "url": "https://www.youtube.com/watch?v=b_PscLnVeTM"
+    }
+   ],
+   "consulta": "Palmeiras Leila mandato aberta",
+   "n_videos": 4,
+   "mais_de": false,
+   "views": 14303,
+   "top": [
+    {
+     "titulo": "Leila Pereira recusa proposta para mudar estatuto e estender mandato no Palmeiras",
+     "canal": "Rádio Bandeirantes",
+     "views": 11695,
+     "url": "https://www.youtube.com/watch?v=6s8Tkj8MamQ",
+     "publicado": "2026-11-26T00:19:01Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "Leila Pereira diz que ficou 'animadinha' com projeto de 3º mandato e lamenta fim de ciclo #shorts",
+     "canal": "Terra Esportes",
+     "views": 1245,
+     "url": "https://www.youtube.com/watch?v=X-Pu-YGFV58",
+     "publicado": "2026-11-26T21:52:41Z",
+     "do_canal": false
+    },
+    {
+     "titulo": "Leila confessa que tentou terceiro mandato no Palmeiras: 'Fiquei animadinha'",
+     "canal": "Estadão Esportes",
+     "views": 1174,
+     "url": "https://www.youtube.com/watch?v=3ObdRH61eyA",
+     "publicado": "2026-11-27T00:46:56Z",
      "do_canal": false
     }
    ]
